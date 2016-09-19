@@ -29,19 +29,19 @@ $Per Dominum
 
 [Lectio]
 Czytanie z Listu świętego Pawła Apostoła do Koryntian.
-!1 Kor 4:9-15
+!1 Cor 4:9-15
 Bracia: Sądzę, że Bóg nas, Apostołów, uważał jako ostatnich, przeznaczonych na śmierć, gdyż widowiskiem staliśmy się dla świata, dla Aniołów i ludzi. My głupi dla Chrystusa, a wy mądrzy w Chrystusie, my słabi, a wy mocni; wy we czci, a my w pogardzie. Aż do tej chwili i łakniemy, i pragniemy, i nadzy jesteśmy, i policzkują nas, i tułamy się, i mozolimy się pracując swymi rękoma. Złorzeczą nam, a my błogosławimy; prześladują, a my znosimy; potwarzają nas, a my się modlimy. Staliśmy się jako śmiecie świata tego, odrazą dla wszystkich, aż do tej chwili. Nie, żeby was zawstydzić piszę, ale jako dzieci moje najdroższe upominam. Bo choćbyście mieli dziesięć tysięcy wychowawców w Chrystusie, to ojców macie niewielu. Albowiem w Chrystusie Jezusie przez Ewangelię jam się stał ojcem waszym.
 
 [Graduale]
 !Ps 44:17' 44:18
 Ustanowisz ich książętami po całej ziemi, przez wszystkie pokolenia głosić będą Twe imię, o Panie.
 V. Synowie twoi zajmą miejsce twoich ojców: dlatego będą Cię sławić wszystkie ludy. Alleluja, alleluja.
-!J 15:16
+!Joann 15:16
 Ja was wybrałem ze świata, abyście poszli i owoc przynieśli i żeby owoc wasz trwał. Alleluja.
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Mateusza.
-!Mt 20:20-23
+!Matth 20:20-23
 Onego czasu: Przystąpiła do Jezusa matka synów Zebedeuszowych z Synami swymi, składając Mu pokłon i o coś Go prosząc. A On rzekł jej: «Czegoż chcesz?» Rzekła mu: powiedz, aby ci dwaj synowie moi zasiedli w królestwie Twoim, jeden po prawicy Twojej, a drugi po lewicy». A Jezus odpowiadając rzekł: «Nie wiecie, o co prosicie. Czy możecie pić kielich, który ja pić będę?» Mówią Mu: «Możemy». Rzekł im: «Kielich mój wprawdzie pić będziecie, ale aby zasiąść po prawicy mojej albo po lewicy, nie jest moją rzeczą dać wam, lecz tylko tym, którym jest to zgotowane od Ojca mego».
 
 [Offertorium]
@@ -58,7 +58,7 @@ Przyjmij, prosimy Cię, Panie, nasze dary i modlitwy, oczyść nas przez niebies
 $Per Dominum
 
 [Communio]
-!Mt 19:28
+!Matth 19:28
 Wy, którzyście ze mną poszli, zasiądźcie na stolicach, sądząc dwanaście pokoleń Izraela.
 
 [Postcommunio]

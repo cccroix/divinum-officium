@@ -27,7 +27,7 @@ W ceremoniach Wigilii Wielkanocnej łatwo odróżniamy dwie części: 1) poświ�
 ! Aby nam dopomóc w poznaniu rzeczy niewidzialnych, Kościół zwykle posługuje się znakami materialnymi; gdy mamy przeżyć fundamentalną tajemnicę chrześcijaństwa, wprzęga w świętą akcję żywioły: ogień, światło i wodę. Liturgia tej nocy zmierza do tego, aby przez kontrast ciemności i światła, ognia i wody, bieli i fioletu uzmysłowić nam prawdę, że ze śmierci Chrystusa wytrysnęło nowe życie.
 ! W liturgii noc jest symbolem mocy szatana i śmierci. Chrystus zmartwychwstając pokonał szatana i śmierć, odnowił nasze życie nadprzyrodzone i dał nam rękojmię zmartwychwstania naszych ciał. Symbolem Chrystusa zmartwychwstałego jest wielkanocna świeca: paschał. Wśród uroczystych obrzędów poświęca się ogień, którym paschał ma być zapalony, a później samą świecę.
 
-! Przy wejściu do kościoła celebrans ubrany w albę, stułę i kapę fioletową, zwrócony twarzą do krzyża procesyjnego poświęca ogień.
+!Prov wejściu do kościoła celebrans ubrany w albę, stułę i kapę fioletową, zwrócony twarzą do krzyża procesyjnego poświęca ogień.
 &DominusVobiscum
 v. Módlmy się.
 Boże, Ty przez Swojego Syna, który jest prawdziwym kamieniem węgielnym, udzieliłeś wiernym ognia Twojej światłości; po + święć ten nowy ogień wykrzesany z kamienia dla naszego użytku i przez te święta wielkanocne rozpal w nas niebiańskie pragnienia, abyśmy z czystym sercem mogli dostąpić świąt wiekuistej światłości. Przez tegoż Chrystusa, Pana naszego.
@@ -71,7 +71,7 @@ _
 ! Przez swoje zmartwychwstanie Chrystus wkroczył w nowe, chwalebniejsze życie. To nowe życie od Chrystusa spływa przez Kościół na Jego wyznawców. Wyraża to inny niż zwykle porządek procesji.
 ! Na czele diakon ubrany w białą dalmatykę (lub sam celebrans) niesie paschał. Za nim postępuje duchowieństwo, na końcu wierni. Procesja zatrzymuje się trzy razy: przy wejściu, na środku kościoła i w środku prezbiterium. Po zatrzymaniu się procesji diakon stojąc unosi wysoko paschał i śpiewa w coraz wyższym tonie :
 V. Światło Chrystusa.
-! Za każdym razem wszyscy klękają zwróceni w stronę paschału i odpowiadają:
+!Zach każdym razem wszyscy klękają zwróceni w stronę paschału i odpowiadają:
 R. Bogu dzięki.
 ! Po pierwszym Lumen Christi zapala się świecę celebransa
 V. Światło Chrystusa.
@@ -123,7 +123,7 @@ _
 ! Następują czytania przygotowujące nas do poświęcenia wody chrzcielnej i odnowienia przyrzeczeń złożonych na Chrzcie świętym. Te czytania, wybrane z natchnionych kart Starego Testamentu, ukazują stopniowy rozwój dzieła Odkupienia i zapowiadają odrodzenie w Chrystusie.
 ! Lekcje czyta lektor, stojąc przy pulpicie na środku prezbiterium twarzą zwrócony do paschału. Wszyscy obecni słuchają siedząc. Na modlitwę wszyscy wstają. Na wezwanie diakona: Flectamus genua wszyscy klękają i modlą się w skupieniu. Gdy diakon zaśpiewa: Levate, wszyscy powstają i stoją w czasie modlitwy śpiewanej przez celebransa.
 ! 1 Lekcja
-!Rdz 1:1-31; 2:1-2
+!Gen 1:1-31; 2:1-2
 !x! Bóg stworzył cały widzialny świat dla człowieka, a jego samego uczynił na obraz i podobieństwo swoje. Obraz ten został zeszpecony przez grzech pierworodny. Przez Chrzest święty Pan Bóg odnawia swój obraz w człowieku, przywracając mu utracone synostwo Boże.
 Na początku stworzył Bóg niebo i ziemie. Ziemia zaś była bezładem i pustkowiem: ciemność [rozciągała się] nad powierzchnią bezmiaru wód i [tylko] tchnienie Boga unosiło się nad tymi wodami.
 Wtedy to Bóg rzekł: «Niechaj stanie się światłość!» I stała się światłość. Bóg widząc, że światłość jest dobra, oddzielił ją od ciemności; i nazwał Bóg światłość dniem, a ciemność nazwał nocą. I tak nastał wieczór i poranek – dzień jeden.
@@ -147,13 +147,13 @@ $Per Dominum
 _
 _
 ! 2 Lekcja
-!Wj 14:24-31; 15:1
+!Ex 14:24-31; 15:1
 !x! Przejście przez Morze Czerwone było warunkiem wyzwolenia Izraelitów z niewoli egipskiej i wprowadzenia do Ziemi Obiecanej. Jest to zapowiedź Chrztu świętego, który wyzwala chrześcijan z jarzma szatana i wprowadza ich do Kościoła świętego.
 W one dni: O czasie straży porannej spojrzał Pan ze słupa ognistego i z obłoku na wojsko Egipcjan i wprawił ich w zamieszanie: załamał koła ich wozów, tak że z trudem tylko posuwać się mogli. Rzekli więc Egipcjanie: «Uciekajmy przed Izraelem, albowiem Pan walczy w obronie ich przeciwko nam». I rzekł Pan do Mojżesza: «Wyciągnij rękę twoją na morze, by zawróciły wody na Egipcjan, na ich wozy i jezdnych!» A kiedy Mojżesz wyciągnął rękę ku morzu, zawróciło o wczesnym poranku na dawne miejsce, a uciekający Egipcjanie szli naprzeciw niemu. Tak pogrążył ich Pan w bałwanach morskich. Zawróciły wody i okryły wozy i jezdnych wszystkiego wojska faraonowego, które w pogoni [za Izraelem] weszło w morze; ani jeden z nich nie został. Synowie zaś Izraela szli po suchym dnie morza, a wody stanęły jak mur po prawej i po lewej ich stronie.
 Tak to dnia owego wyzwolił Pan Izraela z ręki Egipcjan. I widziano Egipcjan martwych na brzegu morskim i oglądano wielką potęgę, jakiej Pan użył przeciwko nim. Uląkł się tedy lud Pana i uwierzył Panu i Mojżeszowi, Jego słudze. Wtedy Mojżesz z synami Izraela wyśpiewał Panu pieśń następującą:
 _`
 ! Pieśń
-!Wj 15:1-2
+!Ex 15:1-2
 Śpiewajmy Panu, bo bardzo się wsławił, konie i jeźdźców wtrącił w morze. Stał się wspomożycielem i obrońcą i wybawił mnie.
 V. On Bogiem moim, więc chwalić Go będę, Bogiem ojca mego, więc będę Go sławić.
 V. Pan wiedzie boje. PAN jest imię Jego.
@@ -166,13 +166,13 @@ $Per Dominum
 _
 _
 ! 3 Lekcja
-!Iz 4:2-6
+!Isai 4:2-6
 !x! Ocalona z pogromu cząstka Izraela stała się wybraną winnicą Bożą. Przez cierpienia Bóg oczyścił winy narodu i otoczył go troskliwą opieką. Podobnie spośród ludzkości Pan Bóg wybiera członków swojego Kościoła, który jest dzisiaj wybraną winnicą Bożą.
 W onym dniu będzie naród Pański okazałością i chwałą, a owoc ziemi zaszczytem i ozdobą dla tych, co ocaleją z Izraela. I stanie się: kto pozostanie na Syjonie i kto ostoi się w Jeruzalem, ten świętym będzie zwany, wszelki kto zapisany jest za życia w Jerozolimie.
 Gdy Pan obmyje brudy córek Syjonu i oczyści Jeruzalem z przelanej krwi podmuchem sądu i podmuchem pożaru, wtedy nad całym miejscem góry Syjon i nad miejscem jej zgromadzeń stworzy Pan obłok w dzień, a dym i blask ognia płonący w nocy. Bo ponad wszystkim chwała będzie dachem ochronnym i namiotem, aby za dnia dać cień od skwaru i służyć za schron i ukrycie przed deszczem i burzą.
 _`
 ! Pieśń
-!Iz 5:1-2
+!Isai 5:1-2
 Winnicę miał mój przyjaciel na urodzajnym wzgórzu.
 V. I skopał ją, i oczyścił z kamieni, i zasadził w niej winorośl wyborną, i pośrodku wieżę zbudował.
 V. I wykuł tam także tłocznię. Winnicą Pana Zastępów jest dom Izraela.
@@ -185,12 +185,12 @@ $Per Dominum
 _
 _
 ! 4 Lekcja
-!Pp 31:22-30
+!Deut 31:22-30
 !x! Do wszystkich gotujących się do Chrztu świętego i do wszystkich ochrzczonych kieruje Kościół św. ostatnie napomnienia Mojżesza, wzywającego lud, aby zachował wierność swojemu Bogu.
 W one dni napisał Mojżesz pieśń i nauczył jej synów Izraela. A Pan przykazał Jozuemu, synowi Nuna, mówiąc: «Bądź mężny i pełen otuchy, ty bowiem wprowadzisz synów Izraelowych do ziemi, którą im obiecałem; a Ja będę z tobą». Kiedy więc Mojżesz spisał słowa tego prawa w księdze aż do końca, taki dał rozkaz lewitom, którzy nosili skrzynię przymierza Pańskiego: «Weźmijcie tę księgę i połóżcie ją obok skrzyni przymierza Pana, Boga waszego; niech tam będzie na świadectwo przeciwko tobie, Izraelu. Znam ja przecie upór twój i kark twój bardzo twardy. Jeżeli za mojego życia, gdy ciągle byłem z wami, buntowaliście się przeciw Panu, cóż dopiero będzie po mojej śmierci? Zawołajcie więc do mnie wszystkich waszych starszych z każdego pokolenia i nauczycieli: chcę wobec nich wygłosić te słowa i wezwać niebo i ziemię na świadectwo przeciwko wam. Wiem dobrze, iż po mojej śmierci będziecie czynić przewrotnie i wkrótce zejdziecie z drogi, którą wam wskazałem. Dlatego też w niedługim czasie spotkają was nieszczęścia, gdy będziecie postępować źle wobec Pana i drażnić Go robotą rąk waszych». Słuchało tedy całe zgromadzenie Izraela, a Mojżesz wygłosił słowa tej pieśni aż do końca.
 _`
 ! Pieśń
-!Pp 32:1-4
+!Deut 32:1-4
 Słuchajcie, niebiosa, a będę mówił, niech słucha ziemia mowy ust moich.
 V. Niech spływa jak deszcz nauka moja i niech zstąpią jak rosa słowa moje.
 V. Jak ulewa na trawę i jak krople dżdżu na zioła, gdyż imię Pańskie opiewać będę.
@@ -434,7 +434,7 @@ _
 _
 !! Lekcja 
 Czytanie z Listu świętego Pawła Apostoła do Kolosan.
-!Kol 3:1-4
+!Col 3:1-4
 Bracia: Jeżeli razem z Chrystusem powstaliście z martwych, szukajcie tego, co w górze jest, gdzie Chrystus siedzi po prawicy Boga. Starajcie się o to, co w górze jest, nie o to, co jest na ziemi. Umarliście bowiem, a życie wasze ukryte jest z Chrystusem w Bogu. Gdy ukaże się Chrystus, życie nasze, wtedy i wy ukażecie się razem z Nim w chwale.
 $Deo gratias
 _
@@ -450,7 +450,7 @@ S. Alleluja!
 C. Alleluja!
 _`
 ! Chór śpiewa dalej:
-! Ps 117, 1
+!Ps 117, 1
 V. Dziękujcie Panu, bo jest dobry, bo miłosierdzie Jego na wieki.
 !Ps 116
 V. Chwalcie Pana, wszystkie narody, wysławiajcie Go, wszystkie ludy.
@@ -471,7 +471,7 @@ R. I z duchem twoim.
 !I kontynuuje: ciąg dalszy Ewangelii świętej według N. Kciukiem prawej dłoni czyni znak krzyża na początku Ewangelii, która będzie odczytywana, a następnie na czole, ustach i piersi. Ministranci odpowiadają: Chwała Tobie, Panie. Diakon również okadza księgę Ewangelii trzy razy. Po skończeniu, Subdiakon podaje księgę Celebransowi, który ją całuje.
 v. Ciąg dalszy + Ewangelii świętej według Mateusza.
 R. Chwała Tobie Panie.
-!Mt 28: 1-7
+!Matth 28: 1-7
 A późno po szabacie, gdy świtało na pierwszy dzień tygodnia, przyszła Maria Magdalena i druga Maria obejrzeć grób. A oto stało się wielkie trzęsienie ziemi. Anioł bowiem Pański zstąpił z nieba i przystąpiwszy odsunął kamień i usiadł na nim. I było wejrzenie jego jako błyskawica, a szaty jego jako śnieg. A z bojaźni przed nim przerazili się strażnicy i stali się jakoby umarli. A odpowiadając Anioł rzekł niewiastom: «Nie bójcie się wy. Wiem bowiem, że szukacie Jezusa, który był ukrzyżowany. Nie masz Go tu, albowiem zmartwychwstał, jako zapowiedział. Pójdźcie, a oglądajcie miejsce, gdzie Pan był złożony. I idąc śpiesznie, powiedzcie uczniom Jego, że zmartwychwstał i oto zdąża przed wami do Galilei: tam Go ujrzycie. Otom wam zapowiedział».
 R. Chwała Tobie, Chryste.
 S. Niech słowa Ewangelii zgładzą nasze grzechy.
@@ -557,7 +557,7 @@ v. Ciebie przeto, najmiłościwszy Ojcze, pokornie i usilnie błagamy przez Jezu
 (po czym z rękami rozłożonymi na klatce piersiowej, kontynuuje:) Składamy Ci je przede wszystkim za Kościół Twój święty katolicki, racz go darzyć pokojem, strzec, jednoczyć i rządzić nim na całym okręgu ziemskim wraz ze sługą Twoim, papieżem naszym N. i biskupem naszym N., jak również ze wszystkimi wiernymi stróżami wiary katolickiej i apostolskiej.
 _
 _
-!Za uczestników
+!Zach uczestników
 v. Pomnij, Panie, na sługi i służebnice Twoje N. i N. (gdy kapłan skończy wspomnienie żyjących, kontynuuje z rękami rozłożonymi:) i na wszystkich tu obecnych, których wiara jest Ci znana i oddanie jawne. Za nich to składamy Ci tę ofiare chwały i oni sami Tobie ją zanoszą za siebie oraz wszystkich swoich, w intencji odkupienia dusz swoich, w nadziei zbawienia i pomyślności, modły też swoje ślą do Ciebie, Boga wiecznego, żywego i prawdziwego.
 _
 _
@@ -715,7 +715,7 @@ _
 Ant. I bardzo rano, * w pierwszy dzień tygodnia niewiasty przyszły do grobu, gdy już wzeszło słońce, alleluja.
 
 ! Pieśń Zachariasza
-! Łk 1,68-79
+!Luc 1,68-79
 r. Błogosławiony Pan Bóg Izraela, * nawiedził bowiem lud swój i odkupił.
 r. I z mocą dokonał naszego zbawienia * w rodzie Dawida, swojego sługi.
 r. Jak rzekł przez usta świętych swych Proroków, * którzy ongiś byli:

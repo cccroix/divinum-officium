@@ -28,7 +28,7 @@ $Per Dominum
 
 [Lectio]
 Czytanie z Dziejów Apostolskich.
-!Dz 8:26-40
+!Act 8:26-40
 !x! Bez pomocy diakona Filipa Etiopczyk nigdy by nie rozumiał proroctw Izajasza. Po wytłumaczenie Pisma św. zawsze trzeba udawać się do Kościoła, który otrzymał posłannictwo nauczania.
 W one dni: Anioł Pański rzekł do Filipa mówiąc: «Wstań, a idź ku południowi na drogę wiodącą z Jerozolimy do Gazy: jest ona pusta». I powstawszy poszedł. A oto Etiopczyk, rzezaniec, dostojnik królowej etiopskiej, Kandaki, który był jej podskarbim, przyjechał był do Jerozolimy, aby pokłonić się ((Bogu)). I wracał siedząc na wozie swoim i czytając Izajasza proroka.
 I rzekł Duch do Filipa: «Przystąp i przyłącz się do tego wozu». A Filip przybiegłszy usłyszał go czytającego Izajasza proroka i rzekł: «Czy sądzisz, że rozumiesz, co czytasz?» On zaś odpowiedział: «Jakże mogę, jeśli nikt nie wyjaśni?» I prosił Filipa, aby wszedł na wóz i siadł przy nim. A tekst Pisma, które czytał, był ten: Jako owca na zabicie był prowadzony i jako cichy baranek przed strzygącym go, tak on nie otworzył ust swoich. W uniżeniu jego wyrok mu zniesiono. Ród jego któż wypowiedzieć zdoła. Bo zgładzony będzie z ziemi żywot jego.
@@ -47,11 +47,11 @@ V. Powstał z martwych Chrystus, Stwórca wszechrzeczy, i zmiłował się nad ro
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Jana.
-!J 20:11-18
+!Joann 20:11-18
 Onego czasu: Maria stała u grobu zewnątrz i płakała. płacząc nachyliła się, i zajrzała do grobu. I spostrzegła dwóch Aniołów w bieli siedzących, jednego u głowy, a drugiego u nóg, gdzie było złożone ciało Jezusowe. Mówią jej oni: «Niewiasto, czemu płaczesz?» Rzecze im: «Wzięto Pana mego, a nie wiem, gdzie Go położono». To powiedziawszy. obróciła się za siebie i ujrzała Jezusa stojącego, a nie wiedziała, że był to Jezus. Rzecze jej Jezus: «Niewiasto, czemu płaczesz? Kogo szukasz?» A ona mniemając, że był to ogrodnik, rzecze mu: «Panie, jeśliś ty Go zabrał, powiedz mi, gdzieś Go złożył, a ja Go wezmę». Rzecze jej Jezus: «Mario». Ona zaś obróciwszy się rzecze Mu: «Rabboni ((co znaczy: Mistrzu))». Rzecze jej Jezus: «Nie dotykaj mnie, jeszcze bowiem nie wstąpiłem do Ojca mego, ale idź do braci moich i powiedz im: wstępuję do Ojca mego, i Ojca waszego, Boga mego i Boga waszego». Przyszła więc Maria Magdalena oznajmiając uczniom: «Widziałam Pana i to mi powiedział».
 
 [Offertorium]
-!Wj 13:5
+!Ex 13:5
 W dniu uroczystości waszej, mówi Pan, wprowadzę was do ziemi opływającej mlekiem i miodem, alleluja.
 
 [Secreta]
@@ -59,7 +59,7 @@ Prosimy Cię, Panie, przyjmij łaskawie dary Swoich ludów, aby odrodzone przez 
 $Per Dominum
 
 [Communio]
-!1 P 2:9
+!1 Petri 2:9
 Ludu nabyty, opowiadaj wielkie sprawy Jego, alleluja: On ciebie wezwał z ciemności ku swojej przedziwnej światłości, alleluja.
 
 [Postcommunio]

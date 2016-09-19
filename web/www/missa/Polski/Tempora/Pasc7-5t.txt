@@ -34,7 +34,7 @@ $Per Dominum eiusdem
 
 [Lectio]
 Czytanie z Księgi proroka Joela.
-!Jl 2:23-24; 2:26-27
+!Joël 2:23-24; 2:26-27
 To mówi Pan Bóg: Synowie Syjonu weselcie się i radujcie się w Panu, Bogu waszym, bo wam dał nauczyciela sprawiedliwości i uczyni, że spadnie na was deszcz ranny i późny jak na początku. I napełnią się gumna wasze zbożem, a prasy opływać będą winem i oliwą. Będziecie jeść do syta i najecie się, i chwalić będziecie imię Pana, Boga waszego, który uczynił dziwy z wami, a nie zawstydzi się lud mój na wieki. Będziecie wiedzieć, że ja wpośród Izraela jestem, ja, Pan, Bóg wasz, i nie ma innego; i nie będzie zawstydzony lud mój na wieki. Mówi Pan wszechmogący.
 
 [Graduale]
@@ -48,7 +48,7 @@ V. Przyjdź, Duchu Święty, napełnij serca Twych wiernych i zapal w nich ogie�
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Łukasza.
-!Łk 5:17-26
+!Luc 5:17-26
 Onego czasu: Stało się dnia jednego, że Jezus siedział nauczając. A zasiedli i faryzeusze oraz uczeni w Prawie, którzy przybyli ze wszystkich osad Galilei i Judei, i z Jeruzalem, a była moc Pańska ku ich uzdrowieniu.
 I oto mężowie przynieśli na łożu człowieka tkniętego paraliżem. I usiłowali go wnieść, i złożyć przed Nim. A gdy nie znaleźli, którędy by go wnieśli z powodu tłumu, weszli na dach i przez powałę spuścili go na łożu do środka, tuż przed Jezusem. A On, widząc ich wiarę, rzekł: «Człowiecze, odpuszczają ci się grzechy twoje». I poczęli myśleć uczeni i faryzeusze, i mówić: «Kimże on jest, że bluźni? Któż może odpuszczać grzechy, jeśli nie sam Bóg?» Ale Jezus, poznawszy ich myśli, odpowiadając rzekł do nich: «Cóż to myślicie w sercach waszych? Cóż jest łatwiej rzec: Odpuszczają się tobie grzechy, czy też: wstań i chodź. Wszakże, abyście wiedzieli, że Syn Człowieczy ma moc na ziemi odpuszczania grzechów ((rzekł do paralityka)): Tobie mówię, wstań, weźmij łoże twe i idź do domu twego». A natychmiast powstawszy wobec nich, wziął łoże, na którym leżał, i odszedł do domu swego, wielbiąc Boga.
 I zdumienie ogarnęło wszystkich, i wielbili Boga. I napełnieni bojaźnią mówili: «Widzieliśmy dzisiaj rzeczy podziw budzące».
@@ -62,7 +62,7 @@ Panie, niech ofiary złożone przed Twoim obliczem strawi ów Boski ogień, któ
 $Per Dominum eiusdem
 
 [Communio]
-!J 14:18
+!Joann 14:18
 Nie zostawię was sierotami; przyjdę do was, i radować się będzie serce wasze, alleluja.
 
 [Postcommunio]

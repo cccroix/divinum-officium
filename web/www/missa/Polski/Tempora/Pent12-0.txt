@@ -27,7 +27,7 @@ $Per Dominum
 
 [Lectio]
 Czytanie z Listu świętego Pawła Apostoła do Koryntian.
-!2 Kor 3:4-9
+!2 Cor 3:4-9
 !x! Apostołowie, ich następcy biskupi i kapłani oraz wszyscy chrześcijanie pełnią służbę, która przewyższa wszystkie godności Starego Testamentu.
 Bracia: Ufność taką mamy przez Chrystusa ku Bogu. Nie jakobyśmy zdolni byli pomyśleć co sami z siebie, jako z siebie, ale zdolność nasza z Boga jest. On też uzdolnił nas, abyśmy się stali sługami nowego Przymierza, nie według litery, ale według Ducha: bo litera zabija, a Duch ożywia. A jeśli posługa śmierci, wyryta literami na kamieniach, była w takiej chwale, że synowie Izraela nie mogli patrzeć na twarz Mojżeszową dla jasności oblicza jego, która zniknąć miała, jakoż więcej posługa Ducha będzie w chwale. Albowiem jeśli chwałą jest posługa potępienia, daleko bardziej w chwałę obfitować będzie posługa sprawiedliwości.
 
@@ -40,7 +40,7 @@ Panie Boże, Zbawicielu mój, podczas dnia wołam i w nocy żalę się przed Tob
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Łukasza.
-!Łk 10:23-37
+!Luc 10:23-37
 !x! Zasada moralności chrześcijańskiej jest bardzo prosta, lecz wymagająca: miłość Boga nade wszystko oraz miłość wszystkich ludzi.
 Onego czasu: Rzekł Jezus uczniom swoim: «Błogosławione oczy, które widzą, co wy widzicie. Bo powiadam wam, że wielu proroków i królów chciało widzieć, co wy widzicie, a nie widzieli, i słyszeć, co słyszycie, a nie słyszeli».
 A oto pewien biegły w Zakonie powstał doświadczając Go i rzekł: «Nauczycielu, co mam czynić, abym osiągnął życie wieczne?» A On rzekł do niego: «W Prawie co napisano? jako czytasz?» A on odpowiadając rzekł: «Będziesz miłował Pana Boga twego ze wszystkiego serca twego i ze wszystkiej duszy twojej, i ze wszystkich sił twoich, i ze wszystkiej myśli twojej, a bliźniego twego jak siebie samego». Rzekł mu: «Dobrześ odpowiedział. Czyń to, a będziesz żył». On zaś, chcąc się usprawiedliwić, rzekł do Jezusa: «A któż jest moim bliźnim?» Jezus zaś, podejmując pytanie, rzekł:
@@ -48,7 +48,7 @@ A oto pewien biegły w Zakonie powstał doświadczając Go i rzekł: «Nauczycie
 Któryż z tych trzech zdaje ci się być bliźnim tego, co wpadł między złoczyńców?» A on rzekł: «Ten, który mu miłosierdzie okazał». I rzekł mu Jezus: «Idź, a czyń i ty podobnie».
 
 [Offertorium]
-!Wj 32:11 32:13; 32:14
+!Ex 32:11 32:13; 32:14
 Mojżesz modlił się do Pana, Boga swego mówiąc: Czemuż Panie, gniewa się zapalczywość Twoja przeciw ludowi Twemu? Niech ucichnie gniew Twój. Wspomnij na Abrahama, Izaaka i Jakuba, którym przysiągłeś dać ziemię mlekiem i miodem płynącą. I dał się ubłagać Pan, żeby nie czynił złego, którym zagroził ludowi swemu.
 
 [Secreta]

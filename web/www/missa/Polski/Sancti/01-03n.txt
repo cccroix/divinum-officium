@@ -14,7 +14,7 @@ Imię JEZUS znaczy Zbawiciel. Imię to wybrał sam Bóg i objawił je Maryi i ś
 ! Niedziela między 1 stycznia a Objawieniem Pańskim lub 2 stycznia
 
 [Introitus]
-!Flp 2:10-11
+!Phil 2:10-11
 v. Na imię Jezusa niechaj się zgina wszelkie kolano mieszkańców nieba, ziemi i podziemia: i wszelki język niech wyznaje, że Jezus Chrystus jest Panem w chwale Boga Ojca.
 !Ps 8:2
 O Panie, Panie nasz, jak przedziwne Twe imię po wszystkiej ziemi.
@@ -27,13 +27,13 @@ $Per eundem
 
 [Lectio]
 Czytanie z Dziejów Apostolskich.
-!Dz 4:8-12
+!Act 4:8-12
 W one dni: Piotr napełniony Duchem Świętym, rzekł do nich: «Przełożeni ludu i starsi, słuchajcie: Jeżeli nas dzisiaj badają w sprawie dobrodziejstwa względem kaleki, przez które on odzyskał zdrowie, niech wam wszystkim i całemu ludowi izraelskiemu wiadomym będzie, że przez imię Pana naszego Jezusa Chrystusa Nazareńskiego, któregoście wy ukrzyżowali, a którego Bóg wskrzesił z martwych, że przez Niego ten stoi zdrowy przed wami. Ten jest onym kamieniem, odrzuconym przez was budujących, który stał się kamieniem węgielnym. I w żadnym innym nie masz zbawienia, albowiem nie masz żadnego innego imienia pod niebem, danego ludziom, w którym mielibyśmy być zbawieni».
 
 [Graduale]
 !Ps 105:47
 Ratuj nas Panie nasz Boże, zgromadź nas z krajów pogańskich, abyśmy wielbili święte imię Twoje i dumni byli z Twej chwały.
-!Iz 63:16
+!Isai 63:16
 Ty, Panie jesteś Ojcem naszym i Odkupicielem naszym, od wieków imię Twoje. Alleluja, alleluja.
 !Ps 144:21
 Chwałę Pańską niech głoszą me usta, a wszelkie ciało niech błogosławi Jego święte imię. Alleluja.
@@ -41,7 +41,7 @@ Chwałę Pańską niech głoszą me usta, a wszelkie ciało niech błogosławi J
 [Tractus]
 !Ps 79:20; Pnp 2:14
 Panie, Boże Zastępów, odnów nas i okaż Twe oblicze, abyśmy byli zbawieni: niech zabrzmi głos w uszach moich, głos twój bowiem jest słodki, a oblicze piękne. 
-!Pnp 1:2
+!Cant 1:2
 V. Olejek wylany imię twoje: dlatego panienki umiłowały cię.
 
 [GradualeP]
@@ -53,7 +53,7 @@ Wywyższać cię będę, Boże, królu mój: i będę błogosławił imię twoje
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Łukasza.
-!Łk 2:21
+!Luc 2:21
 Onego czasu: Gdy upłynęło osiem dni, aby obrzezano Dzieciątko, nazwali je imieniem Jezus, które nadane było przez Anioła pierwej, niż się w łonie poczęło.
 
 [Offertorium]

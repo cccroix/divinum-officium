@@ -20,7 +20,7 @@ LectioL1
 W wielką Środę po południu chrześcijanie zbierali się w bazylice Matki Bożej, aby Jej opiece polecić przygotowanych do Chrztu katechumenów i uprosić sobie owocne przeżywanie następnych dni. Mszę Świętą przenika myśl o Męce Pańskiej, która przyniosła nam Odkupienie. Myśl tę można by streścić w słowach antyfony na wejście: «Chrystus stał się posłuszny aż do śmierci i dlatego jest Panem w chwale Boga Ojca». W lekcjach słyszymy głos Izajasza, który z zadziwiającą dokładnością przepowiedział szczegóły Męki Pańskiej. Spełnienie się proroctwa stwierdza opis św. Łukasza. Czterokrotnie rozbrzmiewają słowa psalmu 101, który Kościół wkłada w usta cierpiącego Zbawiciela.
 
 [Introitus]
-!Flp 2:10,8,11
+!Phil 2:10,8,11
 v. Na imię Jezusa niech zgina się wszelkie kolano mieszkańców niebios, ziemi i podziemia, gdyż Pan stał się posłuszny aż do śmierci, a była to śmierć krzyżowa. Dlatego Jezus Chrystus jest Panem w chwale Boga Ojca.
 !Ps 101:2
 Panie, wysłuchaj modlitwę moją, a wołanie moje niech do Ciebie przyjdzie.
@@ -32,7 +32,7 @@ $Qui tecum
 
 [LectioL1]
 Czytanie z Księgi proroka Izajasza.
-!Iz 63:1-7
+!Isai 63:1-7
 !x! Proroctwo zawarte w lekcji jest dialogiem między zbroczonym krwią wojownikiem a mieszkańcami Syjonu, których ocalił. Chrystus pokonał grzech i szatana, lecz zbroczyła Go własna krew.
 To mówi Pan Bóg: Powiedzcie córce Syjonu: Oto nadchodzi twój Zbawca, oto zapłata Jego z Nim! Któż to, który przychodzi z ziemi edomskiej, w sukni szkarłatnej z miasta Bosry? Co tak wspaniale wygląda w szacie swojej i kroczy pełen potęgi?
 To ja, który głoszę sprawiedliwość i walczę o wybawienie!
@@ -52,7 +52,7 @@ $Per eundem
 
 [Lectio]
 Czytanie z Księgi proroka Izajasza.
-!Iz 53:1-12
+!Isai 53:1-12
 !x! Izajasz tak dokładnie przepowiedział szczegóły Męki Pańskiej, że nazwano go «piątym ewangelistą».
 W one dni: Rzekł Izajasz: Panie, któż uwierzył temu, cośmy słyszeli? I komu ramie Pańskie zostało objawione? W wzejdzie w obliczu Jego niby latorośl, i jako korzeń z wyschniętej ziemi: nie ma On piękna ni krasy. I widzieliśmy Go, a nie było w Nim okazałości. I pragnęliśmy Go: wzgardzonego i ostatniego wśród ludzi, męża boleści i znającego niemoc. A twarz Jego jakoby zasłoniona i wzgardzona, tak iż nawet Go nie uznaliśmy. Prawdziwie słabości nasze On sam nosił i cierpienia nasze On sam dźwigał. A myśmy Go uważali jakby za trędowatego i rażonego przez Boga, i poniżonego. On zaś zraniony jest dla nieprawości naszych, starty jest dla naszych zbrodni; na Nim karanie, dające nam pokój, a sinością Jego zostaliśmy uleczeni. Wszyscyśmy jako owce pobłądzili, każdy zboczył na swoją drogę: a Pan położył nań nieprawości nas wszystkich. Ofiarowany został, bo sam chciał, a nie otworzył ust swoich. Jako owcę na rzeź Go powiodą i zamilknie jako baranek przed strzygącymi Go, a ust swych nie otworzy. Z ucisku i z sądu jest wzięty: pochodzenie Jego któż wypowie? Ponieważ odcięty został z ziemi żyjących, dla zbrodni ludu mego zadałem Mu cios. I za pogrzeb dla bezbożnych, a bogatych za śmierć swoją: ponieważ nie uczynił nieprawości ani znaleziony jest podstęp w ustach Jego. A pan chciał Go zetrzeć w niemocy: jeśli położy duszę swoją za grzech, długowieczne ujrzy potomstwo, a wola Pańska Jego ręką będzie kierowana. Przez wiedzę swą sługa mój sprawiedliwy sam usprawiedliwi wielu, a nieprawości ich sam poniesie. Przeto wielu Jemu przydzielę i rozdzielać będzie łupy mocarzy: za to, że na śmierć wydał duszę swą i ze zbrodniarzami jest policzony. On sam nosił grzechy wielu i modlił się za przestępców.
 
@@ -73,10 +73,10 @@ v.~
 (deinde dicuntur semper)
 Pasja Pana naszego Jezusa Chrystusa według Łukasza.
 (rubrica 1955 aut rubrica 1960 dicitur)
-!Łk 22:39-71; 23:1-53
+!Luc 22:39-71; 23:1-53
 (rubrica 1570 aut rubrica 1910 aut rubrica divino afflatu dicitur)
-!Łk 22:1-71; 23:1-53
-!x! J = słowa Chrystusa; C = opowiadanie Ewangelisty; S = słowa innych osób.
+!Luc 22:1-71; 23:1-53
+!x!Joann = słowa Chrystusa; C = opowiadanie Ewangelisty; S = słowa innych osób.
 !x! Św. Łukasz przekazał nam wzruszające dowody troski cierpiącego Chrystusa o ludzi, którzy Go krzywdzili: łagodne napomnienie Judasza, uzdrowienie Malchusa, miłosierne wejrzenie na Piotra, słowa współczucia dla niewiast jerozolimskich, modlitwę za katów i zapewnienie raju nawróconemu łotrowi. Dokładnie wypełniło się proroctwo Izajasza: «On sam nosił grzechy wielu i modlił się za przestępców».
 (deinde dicuntur)
 C. I przybliżał się dzień święty przaśników, który zowią Pascha. A szukali przedniejsi kapłani i Doktorowie, jakoby Jezusa zabili; ale się bali ludu. I wstąpił szatan w Judasza, którego zwano Iszkaryotem, jednego ze dwunaście. I odszedł i zmówił się z przedniejszymi kapłany i z przełożonymi, jakoby go im wydał. I uradowali się i postanowili dać mu pieniądze. I obiecał i szukał sposobnego czasu, jakoby go im wydał bez rzeszéj. I przyszedł dzień przaśników, którego było potrzeba zabić Paschę. I posłał Piotra i Jana, mówiąc: J. Szedłszy, zgotujcie nam Paschę, abyśmy pożywali. C. A oni rzekli: S. Gdzie chcesz, abyśmy nagotowali? C. I rzekł do nich: J. Oto, gdy wy wnidziecie do miasta, potka się z wami człowiek, niosąc dzban wody; idźcież za nim do domu, do którego wnidzie, A powiecie gospodarzowi domu: Nauczyciel mówi tobie: Gdzie jest złożenie, kędybym jadł Paschę z uczniami moimi? A on wam ukaże wieczerznik wielki usłany: tamże nagotujcie. C. A odszedłszy, naleźli, jako im powiedział, i zgotowali Paschę. A gdy przyszła godzina, usiadł, i dwanaście Apostołów z nim, I rzekł im: J. Pożądaniem pożądałem pożywać tej Paschy z wami, pierwéj niżbym cierpiał. Boć wam powiadam, że odtąd nie będę jeść tego, ażby się wypełniło w królestwie Bożem. C. A wziąwszy kielich, dzięki czynił i rzekł: J. Weźmijcie a podzielcie między się. Albowiem wam powiadam, żeć nie będę pił z owocu macice winnéj, ażby przyszło królestwo Boże. C. A wziąwszy chleb, dzięki czynił i łamał i dał im, mówiąc: J. To jest ciało moje, które się za was dawa. To czyńcie na pamiątkę moję. C. Także i kielich po wieczerzy, mówiąc: J. Ten jest kielich nowy Testament we krwi mojéj, który za was wylan będzie. Wszakóż oto ręka tego, co mię wydaje, ze mną jest na stole. A Synci człowieczy idzie według tego, co postanowiono jest, wszakóż biada człowiekowi onemu, przez którego będzie wydan. C. A oni poczęli się między sobą pytać, któryby z nich był, coby to uczynić miał. A wszczął się téż między nimi spór, któryby się z nich zdał być większym. I rzekł im: J. Królowie narodów panują nad nimi, a którzy nad nimi władzą mają, zowią je dobrodziejmi. Lecz wy nie tak; ale, który jest między wami większy, niech będzie jako mniejszy: a przełożony, jako służący. Albowiem któż większy? tenli, co siedzi u stołu, czy ten, co służy? izali nie ten, który siedzi? a Jam jest w pośrodku was, jako który służy. Lecz wy jesteście, którzyście wytrwali przy mnie w pokusach moich. A Ja wam odkazuję królestwo, jako mi odkazał Ojciec mój, Abyście jedli i pili u stołu mego w królestwie mojem i siedzieli na stolicach, sądząc dwojenaście pokolenia Izraelskie. C. I rzekł Pan: J. Symonie, Symonie! oto szatan pożądał was, aby przesiał jako pszenicę; Alem Ja prosił za tobą, aby nie ustała wiara twoja: a ty niekiedy nawróciwszy się, potwierdzaj bracią twoję. C. Który mu rzekł: S. Panie! z tobą jestem gotów i do więzienia i na śmierć iść. C. A on rzekł: J. Powiadam ci, Pietrze! nie zapieje dziś kur, aż się trzykroć zaprzesz, że mię nie znasz. C. I rzekł im: J. Gdym was posyłał bez mieszka i taistry i bótów, zali wam czego nie dostawało? C. A oni rzekli: S. Niczego. C. Rzekł im tedy: J. Ale teraz, kto ma mieszek, niech weźmie, także i taistrę: a kto nie ma, niech przeda płaszcz swój, a kupi miecz. Albowiem powiadam wam, iż jeszcze to, co napisano jest, potrzeba, aby się we mnie wypełniło: I policzon jest między złośnikami. Boć te rzeczy które o mnie są, koniec mają. C. A oni rzekli: S. Panie! oto tu dwa miecze. C. A on im rzekł: J. Dosyć jest.

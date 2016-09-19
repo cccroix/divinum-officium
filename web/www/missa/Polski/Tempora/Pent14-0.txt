@@ -27,7 +27,7 @@ $Per Dominum
 
 [Lectio]
 Czytanie z Listu świętego Pawła Apostoła do Galatów.
-!Ga 5:16-24
+!Gal 5:16-24
 !x! Wyrazem «duch» św. Paweł określa całe życie nadprzyrodzone człowieka, a wyrazem «ciało» wszystkie egoistyczne skłonności natury ludzkiej skażonej przez grzech pierworodny. «Duch nie jest zatem u św. Pawła określeniem duszy, a «ciało» nie jest określeniem fizycznego organizmu człowieka».
 Bracia: Według ducha postępujcie, a pożądliwościom ciała nie ulegniecie. Ciało bowiem pożąda przeciw duchowi, a duch przeciw ciału, bo sprzeciwiają się one sobie nawzajem, abyście nie czynili cokolwiek chcecie. Jeśli duch wami kieruje, nie jesteście pod Zakonem.
 A jawne są uczynki ciała, takie, jak nierząd, nieczystość, bezwstyd, rozpusta, bałwochwalstwo, gusła, nieprzyjaźnie, swary, zawiści, gniewy, zwady, niesnaski, odstępstwa, zazdrości, zabójstwa, pijaństwa, obżarstwa i tym podobne; o których mówię wam, jak i przedtem mówiłem, że ci, którzy takich rzeczy się dopuszczają, Królestwa Boże nie dostąpią.
@@ -42,7 +42,7 @@ Pójdźcie, śpiewajmy Panu, wysławiajmy Boga, Zbawiciela swego. Alleluja.
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Mateusza.
-!Mt 6:24-33
+!Matth 6:24-33
 !x! Chrystus nie zaleca lenistwa, lecz gani zbytnią troskę o sprawy materialne, połączone z brakiem ufności w Opatrzność Bożą.
 Onego czasu: Rzekł Jezus uczniom swoim: «Nikt nie może dwom panom służyć, bo albo jednego będzie nienawidził, a drugiego będzie miłował: albo przy jednym stać będzie, a drugim wzgardzi. Nie możecie Bogu służyć i mamonie.
 A przeto powiadam wam, nie troszczcie się o życie wasze, co byście jedli, ani o ciało wasze, w co byście je przyoblec mieli. Czyż życie nie jest ważniejsze niż pokarm, a ciało niż odzienie? Wejrzyjcie na ptaki niebieskie, że nie sieją, ani żną, ani zbierają do gumien, a Ojciec wasz niebieski żywi je. Czyście wy nie daleko ważniejsi niźli one? I kto z was przemyśliwaniem może dodać do wzrostu swego łokieć jeden?
@@ -57,7 +57,7 @@ Spraw, prosimy Cię Panie, aby ta Hostia zbawienna z grzechów nas oczyściła i
 $Per Dominum.
 
 [Communio]
-!Mt 6:33
+!Matth 6:33
 Szukajcie naprzód Królestwa Bożego, a wszystko będzie wam przydane, tak Pan powiada.
 
 [Postcommunio]

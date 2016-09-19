@@ -18,18 +18,18 @@ $Per Dominum
 
 [Lectio]
 Czytanie z Listu świętego Pawła Apostoła do Hebrajczyków.
-!Hbr 5:1-6
+!Hebr 5:1-6
 Bracia: Każdy arcykapłan, spośród ludzi wzięty, dla ludzi jest postanowiony w tym, co do Boga należy, aby składał dary i ofiary za grzechy. Aby też mógł współczuć z tymi, którzy są w nieświadomości i błędzie, ponieważ i on sam poddany jest słabości. I dlatego tak za lud, jak i za siebie składać winien ofiary za grzechy. A nikt niechaj się nie waży brać tej godności, chyba że jest powołany przez Boga, jak Aaron. Toteż i Chrystus nie sam siebie wywyższył, aby się stać najwyższym kapłanem, ale ((wywyższył Go)) Ten, który do Niego powiedział: Tyś Synem moim, jam dziś zrodził Ciebie. Jako też na innym miejscu mówi: Tyś jest kapłanem na wieki według porządku Melchizedeka.
 
 [Graduale]
-!J 10:14
+!Joann 10:14
 Jam jest pasterz dobry: znam swoje owce i one mnie znają. Alleluja.
 Ps 109:4
 V. Tyś kapłanem na wieki na wzór Melchizedeka. Alleluja.
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Jana.
-!J 10:11-16
+!Joann 10:11-16
 Onego czasu: Rzekł Jezus do faryzeuszy: «Jam jest pasterz dobry. Dobry pasterz życie swoje daje za owce swoje. Lecz najemnik i ten, kto nie jest pasterzem, do którego nie należą owce, na widok zbliżającego się wilka porzuca owce i ucieka, a wilk porywa i rozprasza owce. Najemnik zaś ucieka, bo jest najemnikiem i nie troszczy się o owce. Jam jest pasterz dobry; znam swoje i one mnie znają; jako mnie zna Ojciec, a ja znam Ojca. I życie swoje oddaję za owce moje. I inne owce mam, które nie są z tej owczarni. I te muszę przyprowadzić, i słuchać będą głosu mego, i stanie się jedna owczarnia i jeden pasterz».
 
 [Offertorium]
@@ -41,7 +41,7 @@ Racz, Panie, łaskawie przyjąć złożoną ofiarę: niech nam wyjedna odpuszcze
 $Per Dominum
 
 [Communio]
-!J 10:14
+!Joann 10:14
 Jam jest pasterz dobry, alleluja; znam swoje owce i one mnie znają, alleluja, alleluja.
 
 [Postcommunio]

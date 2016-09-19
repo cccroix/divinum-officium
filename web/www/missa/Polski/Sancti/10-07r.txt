@@ -33,7 +33,7 @@ $Per Dominum
 
 [Lectio]
 Czytanie z Księgi Przysłów.
-!Prz 8:22-24; 8:32-35
+!Prov 8:22-24; 8:32-35
 Pan posiadł mnie na początku dróg swoich, zanim cokolwiek od początku uczynił. Od wieków zrządzona jestem i od starodawna, zanim ziemia powstała. Nie było jeszcze przepaści, a jam poczęta była. Teraz więc, synowie, słuchajcie mnie: Błogosławieni, którzy strzegą dróg moich. Słuchajcie nauki, a bądźcie mądrzy i nie od rzucajcie jej. Błogosławiony człowiek, który mnie słucha i który czuwa co dzień u drzwi moich i strzeże podwojów mej bramy. Kto mnie znajdzie, znajdzie życie i wyczerpie zbawienie od Pana.
 
 [Graduale]
@@ -46,7 +46,7 @@ V. Uroczystość chwalebnej Panny Maryi, z rodu Abrahama, pochodzącej z pokolen
 @Sancti/03-25:Evangelium
 
 [Offertorium]
-!Syr 24:25; Syr 39:17
+!Eccl 24:25; Syr 39:17
 We mnie łaska wszelkiej drogi i prawdy, we mnie cała nadzieja życia i cnoty. Ja wydałam owoc, jak róża zasadzona nad strumieniem wody.
 
 [Secreta]
@@ -59,7 +59,7 @@ Złożywszy dary, prosimy Cię, Panie, oświeć łaskawie Twój Kościół, by t
 $Per Dominum
 
 [Communio]
-!Syr 39:19
+!Eccl 39:19
 Kwitnijcie jak lilia, roztaczajcie woń, wypuszczajcie wdzięczne gałązki i pieśń pochwalną śpiewajcie i błogosławcie Pana we wszystkich Jego dziełach.
 
 [Postcommunio]

@@ -34,7 +34,7 @@ $Per Dominum
 
 [LectioL1]
 Czytanie z Księgi Wyjścia.
-!Wj 24:12-18
+!Ex 24:12-18
 W one dni rzekł Pan do Mojżesza: «Wstąp do mnie na górę i bądź tam: dam ci tablice kamienne i zakon, i przykazania, którem napisał, abyś ich nauczył». Wstali Mojżesz i Jozue, sługa jego; a Mojżesz wstępując na górę Bożą rzekł do starszych: «Poczekajcie tu, aż się wrócimy do was. Macie Aarona i Hura z sobą; jeśli się jaka sprawa wyłoni, odniesiecie się do nich».
 A gdy Mojżesz wstąpił, obłok okrył górę. । mieszkała chwała Pańska na Synaju okrywając go obłokiem przez sześć dni. A siódmego dnia zawołał go z pośrodka mgły. A wygląd chwały Pańskiej był jakby ognia pałającego na wierzchu góry przed oczyma synów Izraelowych. I wszedłszy Mojżesz w pośrodek mgły, wstąpił na górę i był tam czterdzieści dni i czterdzieści nocy.
 $Deo Gratias
@@ -61,7 +61,7 @@ V. Wszyscy bowiem, co Tobie ufają, nie doznają wstydu. Okryją się wstydem ci
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Mateusza.
-!Mt 12:38-50
+!Matth 12:38-50
 Onego czasu: Odpowiedzieli Jezusowi niektórzy z uczonych w Piśmie i faryzeuszów mówiąc: «Nauczycielu, chcielibyśmy widzieć od ciebie znak jaki». On zaś odpowiadając rzekł im: «Plemię złe i cudzołożne znaku szuka, a nie będzie mu dany znak, jeno znak Jonasza proroka. Albowiem jako był Jonasz we wnętrzu wielkiej ryby trzy dni i trzy noce, tak i Syn Człowieczy będzie w sercu ziemi trzy dni i trzy noce. Mężowie Niniwici powstaną na sądzie z tym oto plemieniem i potępią je. Jako że czynili pokutę na wołanie Jonasza; a oto tu więcej niż Jonasz. Królowa z południa powstanie z plemieniem tym na sądzie i potępi je. Przybyła bowiem z krańców ziemi słuchać mądrości Salomona; a oto tu więcej niż Salomon.
 A gdy nieczysty duch opuści człowieka, błąka się po miejscach bezwodnych szukając odpocznienia i nie znajduje. Wedy powiada: wrócę się do domu mego, skąd wyszedłem, i przyszedłszy znajduje go pustym, umiecionym i przyozdobionym. Wówczas idzie i bierze z sobą siedmiu innych duchów gorszych od siebie i wszedłszy mieszkają tam i stają się późniejsze rzeczy człowieka onego gorsze niźli pierwsze. Tak się też stanie i z tym plemieniem przewrotnym».
 Gdy On to jeszcze do rzeszy mówił, oto matka Jego i bracia stali przed domem, chcąc z Nim mówić. I rzekł Mu ktoś: «Oto matka Twoja i bracia stoją przed domem, szukając Cię». A On odpowiadając rzekł mówiącemu do Niego: «Któż jest matką moją i którzy są braćmi moimi?» I wyciągnąwszy rękę ku uczniom swoim, powiedział: «Oto matka moja i bracia moi. Ktobykolwiek bowiem czynił wolę Ojca mego, który jest w niebiesiech, ten moim bratem i siostrą, i matką jest».

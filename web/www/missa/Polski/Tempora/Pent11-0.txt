@@ -27,7 +27,7 @@ $Per Dominum
 
 [Lectio]
 Czytanie z Listu świętego Pawła Apostoła do Koryntian.
-!1 Kor 15:1-10
+!1 Cor 15:1-10
 Bracia: Przypominam wam Ewangelię, którą wam głosiłem i którąście przyjęli, i w której trwacie. Przez nią też i zbawieni będziecie, jeśli ją zachowacie taką, jaką wam głosiłem: chyba żeście na próżno uwierzyli. Bo naprzód podałem wam, com też otrzymał, że Chrystus umarł za grzechy nasze według Pisma, i że był pogrzebany, i że zmartwychwstał trzeciego dnia według Pisma, że ukazał się Kefasowi, a potem jedenastu. Potem widziało Go jednocześnie więcej niż pięciuset braci, z których wielu żyje dotychczas, a niektórzy pomarli. Potem ukazał się Jakubowi, potem wszystkim Apostołom. A w końcu po wszystkich, niby poronionemu płodowi, ukazał się i mnie. Bom ja jest najmniejszy z Apostołów, niegodny zwać się Apostołem, i żem prześladował Kościół Boży. A z łaski Bożej jestem tym, czym jestem, i łaska Jego na próżno nie była mi dana.
 
 [Graduale]
@@ -51,7 +51,7 @@ Wejrzyj łaskawie, prosimy Cię Panie, na usłużność naszą, a ofiara nasza n
 $Per Dominum.
 
 [Communio]
-!Prz 3:9-10
+!Prov 3:9-10
 Czyń Panu ofiary z majętności twojej i z pierwocin plonów twoich, a napełnią się spichlerze twoje zbożem i piwnice obfitować będą w wino.
 
 [Postcommunio]

@@ -28,7 +28,7 @@ $Per eundem
 
 [Lectio]
 Czytanie z Księgi proroka Izajasza.
-!Iz 7:10-15
+!Isai 7:10-15
 W one dni: Rzeki Pan do Achaza, mówiąc: «Proś Pana Boga twego o znak dla siebie: w głębinie piekła lub na wysokości w górze». I rzekł Achaz: «Nie będę prosił i nie będę kusił Pana». I rzekł: «Słuchajcie więc, domie Dawida: Czyż to mało dla was dręczyć ludzi, że dręczycie także Boga mojego? Przeto sam Pan da wam znak: Oto Panna pocznie i porodzi Syna i nazwą imię Jego Emmanuel. Masło i miód będzie pożywał, by umiał zło odrzucać, a wybierać dobro».
 
 [Tractus]
@@ -45,7 +45,7 @@ V. Prowadzą je z radością i weselem do pałacu Króla.
 
 [GradualeP]
 Alleluja, alleluja
-!Łk 1:28
+!Luc 1:28
 Zdrowaś, Maryjo, łaski pełna; Pan z Tobą; błogosławionaś Ty między niewiastami. Alleluja.
 !Lb 17, 8
 Zakwitła różdżka Jessego: Dziewica zrodziła Boga-Człowieka. Bóg światu przywrócił pokój, jednocząc w sobie to, co najniższe z najwyższym. Alleluja.
@@ -54,7 +54,7 @@ Zakwitła różdżka Jessego: Dziewica zrodziła Boga-Człowieka. Bóg światu p
 @Tempora/Adv3-3:Evangelium
 
 [Offertorium]
-!Łk 1:28,42
+!Luc 1:28,42
 Zdrowaś, Maryjo, łaski pełna, Pan z Tobą: błogosławionaś Ty między niewiastami, i błogosławiony owoc żywota Twojego. ((O. W. Alleluja.))
 
 [Secreta]
@@ -62,7 +62,7 @@ Prosimy Cię, Panie, utwierdź w duszach naszych tajemnice prawdziwej wiary, aby
 $Per eundem
 
 [Communio]
-!Iz 7:14
+!Isai 7:14
 Oto Panna pocznie i porodzi Syna i nazwą imię Jego Emmanuel. ((O. W. Alleluja.))
 
 [Postcommunio]

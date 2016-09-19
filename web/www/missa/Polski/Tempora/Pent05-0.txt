@@ -27,7 +27,7 @@ $Per Dominum
 
 [Lectio]
 Czytanie z Listu świętego Piotra Apostoła.
-!1 P 3:8-15
+!1 Petri 3:8-15
 Najmilsi: Bądźcie wszyscy jednomyślni w modlitwie, współczujący, braci miłujący, miłosierni, skromni, pokorni, nie oddając złem za zło, ani złorzeczeniem za złorzeczenie, lecz przeciwnie, błogosławcie, gdyż na to wezwani jesteście, byście błogosławieństwo w dziedzictwie otrzymali. Albowiem, kto chce miłować żywot i oglądać dni szczęśliwe, niech pohamuje język swój od złego, a usta jego niech nie mówią zdrady. Niech stroni od złego, a niech czyni dobro, niech szuka pokoju i niech za nim zdąża. Gdyż oczy Pańskie nad sprawiedliwymi, a uszy Jego ku prośbom ich. Lecz oblicze Pańskie przeciw dopuszczającym się zła. I któż wam zaszkodzi, jeśli gorliwie dobrze czynić będziecie? Ale jeśli nawet i cierpicie dla sprawiedliwości, błogosławieni jesteście. A gróźb ich nie lękajcie się, ani nie poddawajcie się trwodze. Lecz Pana Chrystusa święćcie w sercach waszych.
 
 [Graduale]
@@ -39,7 +39,7 @@ Król się weseli z potęgi Twej, Panie, i z pomocy Twojej tak bardzo się ciesz
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Mateusza.
-!Mt 5:20-24
+!Matth 5:20-24
 Onego czasu: Rzekł Jezus uczniom swoim: «Jeśli nie będzie obfitowała uczciwość wasza więcej niż uczonych w Zakonie i faryzeuszów, nie wnijdziecie do Królestwa Niebieskiego. Słyszeliście, że powiedziane było starym: Nie zabijaj, a kto by zabił, będzie winien sądu. A ja powiadam wam, że każdy, który się gniewa na brata swego, będzie winien sądu. A kto by rzekł bratu swemu „raka”, będzie winien Rady, a kto by rzekł „głupcze”, będzie winien ognia piekielnego. Jeśli tedy poniesiesz dar swój do ołtarza, a tam wspomnisz, że brat twój ma coś przeciwko tobie, zostawże tam dar twój przed ołtarzem, a idź pojednać się pierwej z bratem twoim. A potem przyjdziesz i złożysz dar twój».
 
 [Offertorium]

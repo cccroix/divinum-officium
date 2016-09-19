@@ -34,12 +34,12 @@ $Per Dominum
 
 [Lectio]
 Czytanie z Księgi Syracydesa.
-!Syr 24:5; 24:7, 24:9-11; 24:30-31
+!Eccl 24:5; 24:7, 24:9-11; 24:30-31
 !x! Przywileje Maryi zostały przewidziane w odwiecznym planie zbawienia.
 Jam wyszła z ust Najwyższego, pierworodna między wszystkim stworzeniem. Ja mieszkałam na wysokości, a stolica moja na słupie obłoku. Stałam na całej ziemi i między wszelkim ludem, i w każdym narodzie miałam pierwszeństwo, a wszystkich wysokich i niskich serca mocą podeptałam. Kto mnie słucha, nie będzie zawstydzony, a którzy przeze mnie działają, nie zgrzeszą. Którzy mnie objaśniają, będą mieć żywot wieczny.
 
 [Graduale]
-!Ap 19:16
+!Apoc 19:16
 Na szacie i na biodrze swoim ma on wypisane: Król królów i Pan panujących.
 !Ps 44:10
 Królowa po prawicy Twojej stoi strojna w złoto z Ofir. Alleluja, alleluja.
@@ -47,7 +47,7 @@ V. Witaj Królowo miłosierdzia, Ty nas broń od wroga i przyjmij w godzinę śm
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Łukasza.
-!Łk 1:26-33
+!Luc 1:26-33
 Onego czasu: Posłany jest Anioł Gabriel od Boga do miasta galilejskiego, które zwano Nazaret, do Panny poślubionej mężowi, któremu było na imię Józef, z domu Dawidowego, a imię Panny Maryja. I wszedłszy do Niej Anioł rzekł: «Bądź pozdrowiona, łaski pełna, Pan z Tobą, błogosławionaś Ty między niewiastami».
 A Ona, gdy posłyszała, zatrwożyła się na słowa jego i rozważała, cóż by to było za pozdrowienie. I rzekł Jej Anioł: «Nie lękaj się, Maryjo, albowiem znalazłaś łaskę u Boga! Oto poczniesz w łonie i porodzisz syna, i nadasz Mu imię Jezus. Ten będzie wielkim i Synem Najwyższego nazwany będzie. I da Mu Pan Bóg stolicę Dawida, ojca Jego i będzie królował nad domem Jakubowym na wieki, a królestwu Jego nie będzie końca».
 

@@ -20,7 +20,7 @@ Dom, który przebudowano na kościół św. Pryski, gościł Apostołów Piotra 
 Msza święta rozpoczyna się antyfoną wyjętą z Listu św. Pawła. Apostoł uczy, że w krzyżu Chrystusa jest źródło życia i zmartwychwstania. Jako lekcję czytamy proroctwo o spisku na życie Chrystusa i Jego dobrowolnym poddaniu się męce. Męka Pańska według św. Marka opowiada, jak się to proroctwo spełniło. Graduał oraz antyfony na ofiarowanie i na komunię wyrażają uczucia cierpiącego Zbawiciela.
 
 [Introitus]
-!Ga 6:14
+!Gal 6:14
 v. A myśmy się chlubić powinni Krzyżem Pana naszego Jezusa Chrystusa; w Nim jest zbawienie, życie i zmartwychwstanie nasze: przez Niego jesteśmy zbawieni i oswobodzeni.
 !Ps 66:2
 Niech Bóg się zmiłuje nad nami i nam błogosławi: niech nam ukaże pogodne oblicze i zmiłuje się nad nami.
@@ -32,7 +32,7 @@ $Per eundem
 
 [Lectio]
 Czytanie z Księgi proroka Jeremiasza.
-!Jer 11:18-20
+!Jerem 11:18-20
 W one dni: Rzekł Jeremiasz: Panie, ukazałeś mi, a poznałem: wtedy objaśniłeś mi ich zamiary. A ja jako baranek łagodny, którego niosą na ofiarę. I nie poznałem, że co do mnie powzięli zamiary mówiąc: Wrzućmy drewno do chleba jego i zgładźmy go z ziemi żyjących, a imię jego niech już nie będzie wspomniane. Ty zaś, Panie Zastępów, który sądzisz sprawiedliwie i badasz sumienia i serca – niech ujrzę pomstę Twoją nad nimi: Tobie bowiem wyjawiłem sprawę moją, Panie, Boże mój.
 
 [Graduale]
@@ -51,7 +51,7 @@ Pasja Pana naszego Jezusa Chrystusa według Marka.
 !Mk 14:32-72; 15, 1-46
 (rubrica 1570 aut rubrica 1910 aut rubrica divino afflatu dicitur)
 !Mk 14:1-72; 15, 1-46
-!x! J = słowa Chrystusa; C = opowiadanie Ewangelisty; S = słowa innych osób.
+!x!Joann = słowa Chrystusa; C = opowiadanie Ewangelisty; S = słowa innych osób.
 (deinde dicuntur)
 A było Pascha i przaśniki po dwu dni: i szukali najwyżsi kapłani i Doktorowie, jakoby go zdradą poimali i zabili. Bo mówili: S. Nie w święto, aby snadź nie był rozruch w ludu. C. A gdy był w Bethanii w domu Symona trędowatego i siedział u stołu, przyszła niewiasta, mając alabastr olejku szpikonardowego drogiego, a stłukłszy alabastr, wylała na głowę jego. I byli niektórzy, co się gniewali sami w sobie, a mówili: S. Na cóż się stała ta utrata olejku? Albowiem mógł się ten olejek przedać drożéj niż za trzy sta groszy i rozdać ubogim, i gniewali się na nię. C. A Jezus rzekł: J. Dajcie jéj pokój, czemu jéj przykrość czynicie? Dobry uczynek przeciwko mnie uczyniła. Bo zawżdy ubogie macie z sobą, i kiedy będziecie chcieć, możecie im dobrze czynić; lecz mnie nie zawżdy macie. Ta, co miała, uczyniła: uprzedziła pomazać ciało me na pogrzeb. Zaprawdę powiadam wam: Kędyżkolwiek opowiadana będzie Ewangelia ta po wszystkim świecie, i co ta uczyniła, powiadać będą na pamiątkę jéj. C. A Judasz Iszkaryoth, jeden ze dwanaście, odszedł do najwyższych kapłanów, aby go im wydał. Którzy usłyszawszy, uradowali się, i obiecali mu dać pieniądze; i szukał, jakoby go czasu pogodnego wydał. I pierwszego dnia przaśników, gdy Paschę ofiarowali, rzekli mu uczniowie: S. Gdzie chcesz, abyśmy szli i nagotowali, żebyś jadł Paschę? C. I posłał dwu z swych uczniów i rzekł im: J. Idźcie do miasta, i potka się z wami człowiek niosąc dzban wody, idźcież za nim. A gdziekolwiek wnidzie, powiedzcie panu domu, iż Nauczyciel mówi: Gdzie jest odpoczynienie moje, kędybym jadł Paschę z uczniami moimi? A on wam ukaże wieczernik wielki usłany, i tam nagotujcie nam. C. I poszli uczniowie jego i przyszli do miasta i naleźli, jako im powiedział, i nagotowali Paschę. A gdy był wieczór, przyszedł ze dwiemanaście. A gdy oni siedzieli i jedli, rzekł Jezus: J. Zaprawdę powiadam wam, iż jeden z was wyda mię, który je zemną. C. A oni poczęli się smęcić i mówić mu z osobna: S. Izali ja? C. Który im rzekł: J. Jeden ze dwunaście, który zemną macza rękę w misie. Synci człowieczy idzie, jako o nim jest napisano; lecz biada człowiekowi onemu, przez którego Syn człowieczy będzie wydan! lepiéj mu było, by się był człowiek on nie narodził. C. A gdy oni jedli, wziął Jezus chleb i błogosławiąc, łamał i dał im, i rzekł: J. Bierzcie, to jest ciało moje. C. A wziąwszy kielich, dzięki uczyniwszy, dał im, i pili z niego wszyscy. I rzekł im: J. Ta jest krew moja nowego testamentu, która za wielu będzie wylana. Zaprawdę powiadam wam: Iż już nie będę pił z tego owocu winnéj macice, aż do onego dnia, gdy go pić będę nowy w królestwie Bożem. C. A hymn odprawiwszy, wyszli na górę Oliwną. I rzekł im Jezus: J. Wszyscy się zgorszycie ze mnie téj nocy; iż napisano jest: Uderzę pasterza, a rozproszą się owce. Ale gdy zmartwychwstanę, uprzedzę was do Galilei. C. A Piotr mu rzekł: S. Chociażby się wszyscy zgorszyli z ciebie, ale nie ja. C. I rzekł mu Jezus: J. Zaprawdę powiadam ci, iż ty dziś téj nocy, pierwéj niż dwakroć kur zapieje, trzykroć się mnie zaprzesz. C. A on więcéj mówił: S. By potrzeba i umrzeć mi z tobą, nie zaprzę się ciebie. Także téż i wszyscy mówili.
 (sed rubrica 1955 aut rubrica 1960 haec versus omittuntur)

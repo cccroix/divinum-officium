@@ -14,7 +14,7 @@ Prefatio=Maria=Festivitate;
 Zachowane od zepsucia i wzięte do nieba cielesne serce Matki Bożej jest symbolem Jej życia wewnętrznego oraz macierzyńskich uczuć dla odkupionej ludzkości. Maryja, wolna od skłonności do grzechu, zawsze była doskonale uległa Duchowi Świętemu (kolekta, graduał, sekreta); dlatego spełniły się na Niej słowa Zbawiciela : «Błogosławieni czystego serca, albowiem oni Boga oglądać będą». Z doskonałej miłości Boga wypływa miłość ku ludziom, przez Boga stworzonym i odkupionym. Niepokalane Serce Maryi to serce Matki. Dlatego z ufnością zbliżamy się do Niej (antyfona na wejście) i słuchamy Jej pouczeń.
 
 [Introitus]
-!Hbr 4:16
+!Hebr 4:16
 v. Zbliżmy się z ufnością do tronu łaski, abyśmy otrzymali zmiłowanie i dostąpili łaski w pomocy na czasie.
 !Ps 44:2
 Z mego serca płynie piękne słowo, pieśń moją śpiewam dla Króla.
@@ -36,28 +36,28 @@ $Per Dominum
 Serce me cieszy się z Twojej pomocy, będę śpiewał Panu, co darzy mnie dobrem, zanucę psalm imieniu Najwyższego Pana.
 !Ps 44:18
 Przez wszystkie pokolenia będą głosić Twe imię: dlatego po wiek wieków sławić Cię będą wszystkie ludy. Alleluja, alleluja.
-! Łk 1:46; 1:47
+!Luc 1:46; 1:47
 Uwielbia dusza moja Pana i rozradował się duch mój w Bogu, Zbawicielu moim. Alleluja.
 
 [Tractus]
-!Prz 8:32; 8:35
+!Prov 8:32; 8:35
 Teraz więc, synowie, słuchajcie mnie: Błogosławieni, którzy strzegą dróg moich. Słuchajcie nauki, a bądźcie mądrzy i nie odrzucajcie jej.
 V. Błogosławiony człowiek, który mnie słucha i który czuwa co dzień u drzwi moich, i strzeże podwojów mej bramy.
 V. Kto mnie znajdzie, znajdzie życie i wyczerpie zbawienie od Pana.
 
 [GradualeP]
 Alleluja, alleluja
-!Łk 1:46-47
+!Luc 1:46-47
 Uwielbia dusza moja Pana i rozradował się duch mój w Bogu, Zbawicielu moim. Alleluja.
 V. Błogosławioną zwać mnie będą wszystkie narody, bo wejrzał Bóg na uniżenie służebnicy swojej. Alleluja.
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Jana.
-!J 19:25-27
+!Joann 19:25-27
 Onego czasu: Pod krzyżem Jezusowym stała Matka Jego i siostra Matki Jego, Maria Kleofasowa, oraz Maria Magdalena. Gdy więc Jezus ujrzał Matkę i ucznia, którego miłował, stojącego obok, rzekł do Matki swojej: «Niewiasto, oto syn Twój!» Potem rzekł uczniowi: «Oto Matka twoja!» I od onej godziny wziął ją uczeń pod swoją opiekę.
 
 [Offertorium]
-!Łk 1:46; 1:49
+!Luc 1:46; 1:49
 Rozradował się duch mój w Bogu, Zbawicielu moim: albowiem uczynił mi wielkie rzeczy, który możny jest i święte imię Jego.
 
 [Secreta]
@@ -68,7 +68,7 @@ $Per eundem
 @Sancti/08-22:Commemoratio Secreta
 
 [Communio]
-!J 19:27
+!Joann 19:27
 Rzekł Jezus do Matki swojej: Niewiasto, oto syn Twój; potem rzekł uczniowi: Oto Matka twoja! I od onej godziny wziął ją uczeń pod swoją opiekę.
 
 [Postcommunio]

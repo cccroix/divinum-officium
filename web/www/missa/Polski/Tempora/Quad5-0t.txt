@@ -27,7 +27,7 @@ $Per Dominum
 
 [Lectio]
 Czytanie z Listu świętego Pawła Apostoła do Hebrajczyków.
-!Hbr 9:11-15
+!Hebr 9:11-15
 !x! Ofiara Chrystusa, która zastąpiła ofiary Starego Testamentu, ma wartość nieskończoną i wystarcza do odkupienia wszystkich grzechów ludzkości.
 Bracia: Chrystus stawszy się najwyższym Kapłanem dóbr przyszłych przez wyższy i doskonalszy, a nie ręką uczyniony, to jest nie z tego świata przybytek, i nie przez krew kozłów albo cielców, lecz przez własną Krew wszedł raz do miejsca Świętego dokonawszy wiecznego Odkupienia.
 Jeśli bowiem pokropienie krwią kozłów i wołów i posypanie popiołem z jałowicy poświęcało skalanych ku oczyszczeniu ciała, jakoż daleko więcej Krew Chrystusa, który przez Ducha Świętego samego siebie bez skazy ofiarował Bogu, oczyści sumienie nasze od uczynków martwych abyśmy służyli Bogu żyjącemu!
@@ -48,7 +48,7 @@ V. Długie swe bruzdy powiedli; atoli Pan sprawiedliwy pociął sznury bezbożny
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Jana.
-!J 8:46-59
+!Joann 8:46-59
 Onego czasu: Mówił Jezus rzeszom żydowskim: «Kto z was dowiedzie mi grzechu? Jeśli wam prawdę mówię, czemu mi nie wierzycie? Kto z Boga jest, słów Bożych słucha, wy dlatego nie słuchacie, że z Boga nie jesteście». Odpowiedzieli tedy żydzi i rzekli Mu: «Czyż nie słusznie mówimy, że jesteś Samarytaninem i czarta masz?» Odpowiedział Jezus: «Ja czarta nie mam, ale oddaję cześć Ojcu memu, a wyście mnie znieważyli. Ja nie szukam własnej chwały, ale jest ktoś, który szuka i sądzi. Zaprawdę, zaprawdę powiadam wam, jeśli kto zachowa naukę moją, nie zazna śmierci na wieki».
 Tedy Mu rzekli żydzi: «Teraz poznaliśmy, że czarta masz. Abraham umarł i Prorocy, a ty mówisz: Jeśliby kto zachował naukę moją, nie zazna śmierci na wieki. Czyżeś Ty większy od ojca naszego Abrahama, który umarł? Nawet Prorocy pomarli. Za kogo się uważasz?» Odpowiedział Jezus: «Jeśli ja sam siebie chwalę, chwała moja niczym nie jest. Ale jest Ojciec mój, który mnie uwielbia i o którym wy powiadacie, że jest Bogiem waszym, a nie poznaliście Go. Ale ja Go znam i jeślibym powiedział, że Go nie znam, byłbym podobnym wam kłamcą. Ale znam Go i nauki Jego strzegę. Abraham, ojciec wasz, z radością wyglądał dnia mojego, a ujrzał i uweselił się».
 Rzekli tedy żydzi do Niego: «Pięćdziesięciu lat jeszcze nie masz, a Abrahama widziałeś?» Rzekł im Jezus: «Zaprawdę, zaprawdę powiadam wam, pierwej nim Abraham był, jam jest».
@@ -63,7 +63,7 @@ Prosimy Cię Panie, niech ta ofiara oswobodzi nas z więzów naszych nałogów i
 $Per Dominum
 
 [Communio]
-!1 Kor 11:24, 25
+!1 Cor 11:24, 25
 To jest Ciało moje, które za was będzie wydane; ten jest kielich Nowego Przymierza we Krwi mojej. To czyńcie, ilekroć pożywacie, na moją pamiątkę.
 
 [Postcommunio]

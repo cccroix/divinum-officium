@@ -28,7 +28,7 @@ $Per Dominum
 
 [Lectio]
 Czytanie z Księgi Apokalipsy świętego Jana.
-!Ap 14:13
+!Apoc 14:13
 W one dni: Usłyszałem głos z nieba mówiący do mnie: Napisz, błogosławieni umarli, którzy umierają w Panu. Odtąd już, mówi Duch, niech odpoczywają od prac swoich, albowiem uczynki ich idą za nimi.
 
 [Graduale]
@@ -39,7 +39,7 @@ W one dni: Usłyszałem głos z nieba mówiący do mnie: Napisz, błogosławieni
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Jana.
-!J 6:51-55
+!Joann 6:51-55
 Onego czasu: Rzekł Jezus rzeszom żydowskim: «Jam jest chleb żywy, który z nieba zstąpił; jeśliby kto pożywał tego chleba, żyć będzie na wieki, a chlebem, który ja mu dam, jest ciało moje na życie świata».
 Sprzeczali się tedy żydzi między sobą, mówiąc: «Jakże może On nam dać ciało swoje na pokarm?»
 Rzekł im przeto Jezus: «Zaprawdę, zaprawdę powiadam wam: Jeślibyście nie pożywali ciała Syna Człowieczego i nie pili krwi Jego, nie będziecie mieć życia w sobie. Kto pożywa ciało moje, i pije moją krew, ma życie wieczne, a ja go wskrzeszę w dniu ostatecznym».

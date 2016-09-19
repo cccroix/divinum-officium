@@ -22,7 +22,7 @@ $Per eundem
 
 [Lectio]
 Czytanie z Listu świętego Pawła Apostoła do Filipian.
-!Flp 2:5-11
+!Phil 2:5-11
 Bracia: To bowiem rozumiejcie, co i w Chrystusie Jezusie, który mając naturę Bożą, nie poczytywał swej równości z Bogiem za przywłaszczenie, ale wyniszczył samego siebie, przyjąwszy naturę sługi, stawszy się podobnym do ludzi i dla swego sposobu życia uznany był za człowieka. Uniżył samego siebie, stawszy się posłusznym aż do śmierci, a była to śmierć krzyżowa. Dlatego i Bóg wywyższył Go i nadał Mu imię przewyższające wszelkie imię (tu się przyklęka), aby na imię Jezusa zginało się wszelkie kolano mieszkańców niebios, ziemi i podziemia, i żeby wszelki język wyznawał, że Jezus Chrystus jest Panem w Chwale Boga Ojca.
 
 [Graduale]
@@ -48,7 +48,7 @@ V. Ludowi, który się narodzi: «Pan to uczynił».
 
 [Evangelium1]
 Pasja Pana naszego Jezusa Chrystusa według Mateusza.
-!Mt 26:1-75; 27:1-66
+!Matth 26:1-75; 27:1-66
 
 [Evangelium2]
 I stało się, gdy dokończył Jezus tych wszystkich mów, rzekł uczniom swoim: J. Wiecie, iż po dwu dniu Pascha będzie, a Syn człowieczy będzie wydan, aby był ukrzyżowan. C. Tedy się zebrali przedniejsi kapłani i starsi z ludu do dworu Najwyższego kapłana, którego zwano Kaiphaszem. I naradzili się, aby Jezusa zdradą poimali i zabili. Lecz mówili: S. Nie w dzień święty, aby snadź nie stał sie rozruch między ludem.
@@ -95,7 +95,7 @@ Prosimy Cię, Panie, dozwól, by dar złożony przed obliczem Twego majestatu wy
 $Per Dominum
 
 [Communio]
-!Mt 26:42
+!Matth 26:42
 Ojcze, jeżeli ten kielich nie może Mnie minąć, ale mam Go wypić, niech się dzieje wola Twoja.
 
 [Postcommunio]

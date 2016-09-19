@@ -27,7 +27,7 @@ $Per Dominum
 
 [Lectio]
 Czytanie z Listu świętego Pawła Apostoła do Efezjan.
-!Ef 4:1-6
+!Ephes 4:1-6
 !x! List do Efezjan napisał św. Paweł z więzienia w Rzymie.
 Bracia: Proszę was, ja, więzień w Panu, abyście postępowali w sposób godny powołania, do którego wezwani jesteście, z wszelką pokorą i łagodnością, z cierpliwością znosząc jedni drugich w miłości, starając się, zachować jedność ducha, złączeni węzłem pokoju. Jedno ciało i jeden duch, jako wezwani jesteście do jednej nadziei wezwania waszego. Jeden Pan, jedna wiara, jeden Chrzest. Jeden Bóg i Ojciec wszystkich, który panuje nad wszystkimi, działa przez wszystkich i jest we wszystkich nas. Który jest błogosławiony na wieki wieków. Amen.
 
@@ -40,12 +40,12 @@ Panie, wysłuchaj modlitwę moją, a wołanie moje niech do Ciebie przyjdzie. Al
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Mateusza.
-!Mt 22:34-46
+!Matth 22:34-46
 !x! Po rozstrzygnięciu zagadnienie moralnego Chrystus Pan stawia dogmatyczne. Żydzi uważali, że najwyższym tytułem chwały Mesjasza jest pochodzenie od Dawida. Pan Jezus zwraca uwagę, że Dawid nazywa Mesjasza swoim Panem, że ten «Pan» ma udział w rządach Bożych, a zatem przewyższa godnością wszystkich ludzi.
 Onego czasu: Przystąpili do Jezusa faryzeusze. I zapytał Go jeden z nich, uczony w Prawie, kusząc Go: «Mistrzu, które jest największe przykazanie w Prawie?» Rzeki mu Jezus: «Będziesz miłował Pana Boga twego ze wszystkiego serca twego i ze wszystkiej duszy twojej, i ze wszystkiej myźli twojej. To jest największe i pierwsze przykazanie. A drugie podobne jest temu: Będziesz miłował bliźniego twego jako siebie samego. Na tych dwóch przykazaniach całe Prawo zawisło i Prorocy». A gdy się zebrali faryzeusze, zapytał ich Jezus mówiąc: «Co sądzicie o Chrystusie? Czyim jest synem?» Mówią Mu: «Dawida». Rzekł im: «Jakoż tedy Dawid w duchu zowie Go Panem, mówiąc: Rzekł Pan Panu memu, siądź po prawicy mojej, aż położę nieprzyjaciół Twoich podnóżkiem nóg Twoich. Jeżeli więc Dawid nazywa Go Panem, jakże jest synem jego?» A nikt nie mógł Mu odpowiedzieć słowa, ani też nie śmiał Go od onego dnia więcej pytać. 
 
 [Offertorium]
-!Dn 9:17; 9:18; 9:19
+!Dan 9:17; 9:18; 9:19
 Modliłem się do Boga mego ja, Daniel, mówiąc: Wysłuchaj, Panie, modlitwy sługi Twego, rozjaśnij oblicze nad świątynią swoją i wejrzyj łaskawie na ten lud, nad którym wezwane jest Imię Twoje Boże.
 
 [Secreta]

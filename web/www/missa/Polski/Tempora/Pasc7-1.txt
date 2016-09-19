@@ -32,13 +32,13 @@ $Per Dominum eiusdem.
 
 [Lectio]
 Czytanie z Dziejów Apostolskich.
-!Dz 10:34; 10:42-48
+!Act 10:34; 10:42-48
 !x! Św. Piotr pouczony widzeniem udał się do domu oficera rzymskiego, aby przyjąć go do Kościoła. Duch Święty zstępując na tę rodzinę okazał, że Kościół winien być otwarty dla wszystkich narodów.
 W one dni: Otworzywszy usta swoje Piotr rzekł: «Mężowie bracia, Pan rozkazał nam, abyśmy głosili ludowi i świadczyli, że On jest ustanowionym przez Boga sędzią żywych i umarłych. O Nim świadczą wszyscy Prorocy, że ci wszyscy, którzy weń wierzą, dostępują odpuszczenia grzechów przez imię Jego». A gdy Piotr jeszcze mówił te słowa, zstąpił Duch Święty na wszystkich słuchających mowy. I zdumieli się nawróceni Żydzi, którzy przybyli z Piotrem, że i na pogan łaska Ducha Świętego się wylała. Słyszeli ich bowiem mówiących językami i wielbiących Boga. Wtedy odpowiedział Piotr «Czyż może kto wzbronić wody, żeby nie byli ochrzczeni ci, którzy otrzymali Ducha Świętego jako i my?» I rozkazał ich ochrzcić w imię Pana Jezusa Chrystusa.
 
 [Graduale]
 Alleluja, alleluja
-!Dz 2:4
+!Act 2:4
 Opowiadali Apostołowie rozmaitymi językami wielkie dzieła Boże. Alleluja. (Tu się przyklęka)
 V. Przyjdź, Duchu Święty, napełnij serca Twych wiernych i zapal w nich ogień Twojej miłości.
 
@@ -47,7 +47,7 @@ V. Przyjdź, Duchu Święty, napełnij serca Twych wiernych i zapal w nich ogie�
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Jana.
-!J 3:16-21
+!Joann 3:16-21
 !x! Wiara w Jezusa Zbawiciela świata jest koniecznym warunkiem zbawienia.
 Onego czasu: Rzekł Jezus do Nikodema: «Tak Bóg umiłował świat, że Syna swego Jednorodzonego dał, by każdy, który wierzy weń, nie umarł, ale miał żywot wieczny. Bo nie posłał Bóg Syna swego na świat, aby świat sądził, ale aby świat był zbawiony przez Niego. Kto wierzy weń, nie jest sądzony, a kto nie wierzy, już jest osądzony, że nie uwierzył w imię Jednorodzonego Syna Bożego. A wyrok na tym polega, że światłość przyszła na świat, ale ludzie umiłowali bardziej ciemności niż światłość, bo były złe ich uczynki. Każdy bowiem, kto źle czyni, nienawidzi światłości i nie zbliża się do światła, aby nie zganiono uczynków jego, ale kto czyni prawdę, dąży do światła, aby wyszły na jaw uczynki jego, że w Bogu były dokonane».
 
@@ -60,7 +60,7 @@ Prosimy Cię, Panie, uświęć miłościwie te dary, a przyjmując złożoną Ci
 $Per Dominum.
 
 [Communio]
-!J 14:26
+!Joann 14:26
 Duch Święty nauczy was, alleluja, wszystkiego, cokolwiek wam powiedziałem, alleluja, alleluja.
 
 [Postcommunio]

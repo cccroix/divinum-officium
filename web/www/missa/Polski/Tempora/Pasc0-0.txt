@@ -28,7 +28,7 @@ $Per eundem
 
 [Lectio]
 Czytanie z Listu świętego Pawła Apostoła do Koryntian.
-!1 Kor 5:7-8
+!1 Cor 5:7-8
 !x! W Starym Testamencie przed Wielkanocą usuwano z domów chleb kwaszony. Baranka paschalnego wolno było spożywać tylko z chlebem przaśnym – niekwaszonym. Chrystus, nasz Baranek paschalny, został na krzyżu ofiarowany za wszystkich. Ofiara Jego trwa. Aby brać w niej pełny udział, trzeba usunąć ze swojego życia kwas grzechu.
 Bracia: Uprzątnijcie stary kwas, abyście się stali nowym zaczynem, jako też przaśni jesteście. Albowiem na Paschę naszą został ofiarowany Chrystus. Świętujmy tedy nie w starym kwasie ani też w kwasie złości i przewrotności, ale w przaśnikach szczerości i prawdy.
 
@@ -37,7 +37,7 @@ Alleluja, alleluja
 !Ps 117:24; 117:1
 Oto dzień, który Pan uczynił; radujmy się zeń i weselmy.
 V. Dziękujcie Panu, bo jest dobry, bo miłosierdzie Jego na wieki. Alleluja, alleluja.
-!1 Kor 5:7
+!1 Cor 5:7
 V. Na Paschę naszą został ofiarowany Chrystus.
 
 [Sequentia]
@@ -68,7 +68,7 @@ Prosimy Cię, Panie, przyjmij modlitwy wiernych wraz z darami ofiarnymi: aby ofi
 $Per Dominum
 
 [Communio]
-!1 Kor 5:7-8
+!1 Cor 5:7-8
 Na Paschę naszą został ofiarowany Chrystus, alleluja; świętujmy tedy w przaśnikach szczerości i prawdy, alleluja, alleluja, alleluja.
 
 [Postcommunio]

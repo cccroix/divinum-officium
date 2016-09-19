@@ -17,7 +17,7 @@ $Per Dominum
 
 [Lectio]
 Czytanie z Księgi Syracydesa.
-!Syr 24:14-18
+!Eccl 24:14-18
 !x! Słowa odnoszące się do Mądrości Bożej Kościół stosuje do Najświętszej Dziewicy. Maryja od wieków była obecna w myśli Boga i z Jego woli otrzymała wyjątkową rolę w Kościele.
 Od początku i przed wiekami jestem stworzona i aż do przyszłego wieku istnieć nie przestanę, a w świętym mieszkaniu Mu posługiwałam. I tak na Syjonie jestem utwierdzona, i w świętym mieście podobnie spoczęłam, a w Jeruzalem moje panowanie. I w narodzie czcigodnym zapuściłam korzenie, i w dziale Boga mego dziedzictwo jego, a przebywanie moje w zgromadzeniu świętych.
 
@@ -26,7 +26,7 @@ Błogosławiona i godna czci jesteś, Panno Maryjo, któraś bez naruszenia dzie
 V. Bogarodzico Dziewico, Ten, którego cały świat nie zdoła ogarnąć, zamknął się w Twoim łonie, stawszy się człowiekiem. Alleluja, alleluja.
 V. Po porodzeniu, Dziewico, pozostałaś nienaruszona; Bogarodzico, przyczyń się za nami. Alleluja.
 ! W Adwencie zamiast poprzedniego mówi się:
-! Łk 1:28
+!Luc 1:28
 V. Zdrowaś, Maryjo, łaski pełna, Pan z Tobą, błogosławionaś Ty między niewiastami. Alleluja.
 ! W 3 Mszy sobotniej po Oczyszczeniu N. M. P. odmawia się:
 ! Lb 17:8
@@ -43,12 +43,12 @@ V. Bogarodzico, przyczyń się za nami.
 Alleluja, alleluja
 !Lb 17:8
 Zakwitła różdżka Jessego: Dziewica zrodziła Boga-Człowieka. Bóg światu przywrócił pokój, jednocząc w sobie to co najniższe z najwyższym. Alleluja.
-!Łk 1:28
+!Luc 1:28
 V. Zdrowaś, Maryjo, łaski pełna, Pan z Tobą, błogosławionaś Ty między niewiastami. Alleluja.
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Łukasza.
-! Łk 11:27-28
+!Luc 11:27-28
 Onego czasu: Gdy Jezus mówił do rzesz, pewna niewiasta z tłumu donośnym głosem rzekła do Niego: «Błogosławione łono, które Cię nosiło, i piersi, któreś ssał». A On rzekł: «Raczej ci są błogosławieni, którzy słuchają słowa Bożego i strzegą go».
 
 [Offertorium]

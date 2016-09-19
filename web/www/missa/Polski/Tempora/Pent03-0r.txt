@@ -27,7 +27,7 @@ $Per Dominum.
 
 [Lectio]
 Czytanie z Listu świętego Piotra Apostoła.
-!1 P 5:6-11
+!1 Petri 5:6-11
 Najmilsi: Uniżajcie się pod możną ręką Bożą, aby Was wywyższył w czasie nawiedzenia, składając nań wszelką troskę waszą, bo On ma pieczę o was. Bądźcie wstrzemięźliwi i czuwajcie, bo wróg wasz, szatan, krąży jako lew ryczący, szukając, kogo by pożarł. Opierajcie mu się umocnieni w wierze, wiedząc, że to samo utrapienie spotyka braci waszych na świecie. A Bóg wszelkiej łaski, który wezwał nas do wiecznej chwały swojej w Chrystusie Jezusie, po niewielkim utrapieniu udoskonali, utwierdzi i ugruntuje nas. Jemu chwała i panowanie na wieki wieków. Amen.
 
 [Graduale]
@@ -39,7 +39,7 @@ Bóg jest sędzią sprawiedliwym, mocnym a cierpliwym. Czyż gniewu swego nie wy
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Łukasza.
-!Łk 15:1-10
+!Luc 15:1-10
 Onego czasu: Zbliżali się do Jezusa celnicy i grzesznicy, aby Go słuchać. A faryzeusze i uczeni szemrali mówiąc: «Że też ten przyjmuje grzeszników i jada z nimi». Powiedział im tedy taką przypowieść, mówiąc:
 «Czy jest między wami, kto mając sto owiec, gdyby stracił jedną z nich, czyż nie pozostawi dziewięćdziesięciu dziewięciu na pustyni i nie pójdzie za ową, która zginęła, dopóki jej nie znajdzie? A gdy ją znajdzie, wkłada na ramiona swoje, radując się. I przyszedłszy do domu zwołuje przyjaciół i sąsiadów, mówiąc im: Radujcie się ze mną, bom znalazł owcę moją, która była zginęła. Powiadam wam, że taka będzie w niebiesiech radość z jednego grzesznika czyniącego pokutę, jak z dziewięćdziesięciu dziewięciu sprawiedliwych, którzy pokuty nie potrzebują. Albo któraż niewiasta, mająca dziesięć drachm, gdyby straciła drachmę jedną, czyż nie zapala świecy, nie umiata domu i nie szuka starannie, dopóki nie znajdzie? A gdy znajdzie, zwołuje przyjaciółki i sąsiadki mówiąc: Radujcie się ze mną bom znalazła drachmę, którąm straciła. Tak, powiadam wam, radość będzie wśród Aniołów Bożych nad jednym grzesznikiem pokutę czyniącym».
 [Offertorium]
@@ -51,7 +51,7 @@ Wejrzyj Panie na błagania i ofiary Kościoła Twego, nieustannie je uświęcaj�
 $Per Dominum
 
 [Communio]
-!Łk 15:10
+!Luc 15:10
 Powiadam wam, iż radość panuje wśród Aniołów Bożych nawet z jednego grzesznika czyniącego pokutę.
 
 [Postcommunio]

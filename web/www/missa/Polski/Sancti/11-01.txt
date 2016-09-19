@@ -26,7 +26,7 @@ $Per Dominum
 
 [Lectio]
 Czytanie z Księgi Apokalipsy świętego Jana.
-!Ap 7:2-12
+!Apoc 7:2-12
 W one dni: Oto ja, Jan, ujrzałem innego Anioła, wstępującego od wschodu słońca, mającego pieczęć Boga żywego. I zawołał głosem donośnym, mówiąc do Aniołów, którym dozwolone szkodzić ziemi i morzu: Nie czyńcie szkody ziemi ani morzu, ani też drzewom, dopóki nie popieczętujemy sług Boga naszego na czołach ich.
 I usłyszałem liczbę pieczętowanych sto czterdzieści cztery tysiące, pieczętowanych z każdego pokolenia synów izraelskich. Z pokolenia Judy dwanaście tysięcy pieczętowanych. Z pokolenia Rubena dwanaście tysięcy pieczętowanych. Z pokolenia Gada dwanaście tysięcy pieczętowanych. Z pokolenia Asera dwanaście tysięcy pieczętowanych. Z pokolenia Neftalego dwanaście tysięcy pieczętowanych. Z pokolenia Manassesa dwanaście tysięcy pieczętowanych. Z pokolenia Symeona dwanaście tysięcy pieczętowanych. Z pokolenia Lewiego dwanaście tysięcy pieczętowanych. Z pokolenia Issachara dwanaście tysięcy pieczętowanych. Z pokolenia Zabulona dwanaście tysięcy pieczętowanych. Z pokolenia Józefa dwanaście tysięcy pieczętowanych. Z pokolenia Beniamina dwanaście tysięcy pieczętowanych.
 Potem ujrzałem rzeszę wielką, której nikt nie mógł zliczyć, ze wszystkich narodów i pokoleń, ludów i języków. Stojąc przed tronem i przed obliczem Baranka, przyodziani w szaty białe i z palmami w ręku, wołali głosem donośnym, mówiąc: Zbawienie Bogu naszemu, który zasiadł na tronie i Barankowi.
@@ -36,12 +36,12 @@ A wszyscy Aniolowie stali wokół tronu i starszych, i czworga zwierząt, i padl
 !Ps 33:10; 33:11
 Bójcie się Pana, święci Jego, niczego nie braknie tym, co się Go boją.
 V. Tym zaś, co Pana szukają, dobra nie zabraknie. Alleluja, alleluja.
-!Mt 11:28
+!Matth 11:28
 Pójdźcie do mnie wszyscy, którzy pracujecie i uginacie się pod ciężarem, a ja was pokrzepię. Alleluja.
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Mateusza.
-!Mt 5:1-12
+!Matth 5:1-12
 Onego czasu: Jezus, widząc rzesze, wstąpił na górę i gdy usiadł, przystąpili ku Niemu uczniowie Jego. A otworzywszy usta swoje, nauczał ich mówiąc: «Błogosławieni ubodzy w duchu, albowiem ich jest Królestwo Niebieskie. Błogosławieni cisi, albowiem oni posiçdą ziemię. Błogosławieni, którzy płaczą, albowiem oni będą pocieszeni. Błogosławieni, którzy łakną i pragną sprawiedliwości, albowiem oni będą nasyceni. Błogosławieni miłosierni, albowiem oni miłosierdzia dostąpią. Błogosławieni czystego serca, albowiem oni Boga oglądać będą. Błogosławieni pokój czyniący, albowiem synami Bożymi będą nazwani. Błogosławieni, którzy prześladowanie cierpią dla sprawiedliwości, albowiem ich jest Królestwo Niebieskie. Błogosławieni jesteście, gdy wam złorzeczyć będą i prześladować was będą, i ze względu na mnie wiele zlego mówić będą kłamliwie przeciw wam. Radujcie się, a weselcie, albowiem zapłata wasza obfita jest w niebiesiech».
 
 [Offertorium]
@@ -53,7 +53,7 @@ Ofiarujemy Ci, Panie, te dary jako wyraz naszego oddania; przyjmij je łaskawie 
 $Per Dominum
 
 [Communio]
-!Mt 5:8-10
+!Matth 5:8-10
 Błogosławieni czystego serca, albowiem oni Boga oglądać będą. Błogosławieni pokój czyniący, albowiem synami Bożymi będą nazwani. Błogosławieni, którzy prześladowanie cierpią dla sprawiedliwości, albowiem ich jest Królestwo Niebieskie.
 
 [Postcommunio]

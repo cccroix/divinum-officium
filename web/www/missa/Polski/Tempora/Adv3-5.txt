@@ -34,7 +34,7 @@ $Qui vivis
 
 [Lectio]
 Czytanie z Księgi proroka Izajasza.
-!Iz 11:1-5
+!Isai 11:1-5
 To mówi Pan Bóg: I wyjdzie różdżka z korzenia Jessego, a kwiat z korzenia jego wzejdzie. I spocznie na nim duch Pana: duch mądrości i rozumu, duch rady i męstwa, duch umiejętności i pobożności, i napełni go duch Pańskiej bojaźni. Nie według tego będzie sądzić, co widzą oczy, ani według tego, co uszy słyszą, będzie strofować. Lecz sprawiedliwie ubogich będzie sądził i słuszny wyda wyrok na cichych na ziemi. I rózgą ust swoich ziemię uderzy, a tchnieniem warg swoich zabije niezbożnego. I będzie sprawiedliwość pasem biódr jego, a wierność opasaniem jego lędźwi.
 
 [Graduale]
@@ -44,7 +44,7 @@ V. Łaskawym okazałeś się, Panie, dla Twej ziemi, na dobre odmieniłeś los J
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Łukasza.
-!Łk 1:39-47
+!Luc 1:39-47
 Onego czasu: Powstawszy Maryja udała się śpiesznie w okolicę górzystą do miasta Judy. I weszła do domu Zachariasza i pozdrowiła Elżbietę. I stało się, skoro usłyszała Elżbieta pozdrowienie Maryi, skoczyło dzieciątko w jej łonie, i napełniona została Elżbieta Duchem Świętym, i zawołała głosem wielkim, mówiąc: «Błogosławionaś Ty między niewiastami i błogosławiony owoc żywota Twego. A skądże mi to, że przyszła Matka Pana mego do mnie? Oto bowiem, skoro zabrzmiał głos pozdrowienia Twego w uszach moich, poruszyło się z radością dzieciątko w łonie moim. I błogosławionaś, któraś uwierzyła, że wypełni się to, co Ci oznajmiono od Pana». I rzekła Maryja: «Uwielbia dusza moja Pana. I rozradował się duch mój w Bogu, Zbawicielu moim».
 
 [Offertorium]
@@ -56,7 +56,7 @@ Przyjmij, prosimy Cię, Panie, nasze dary i modlitwy oraz oczyść nas przez nie
 $Per Dominum
 
 [Communio]
-!Zch 14:5
+!Zach 14:5
 Oto przyjdzie Pan i wraz z Nim wszyscy Święci Jego: i zajaśnieje owego dnia światłość wielka.
 
 [Postcommunio]

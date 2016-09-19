@@ -14,7 +14,7 @@ Suffr=Sanctorum;Maria3,Ecclesiae,Papa;;
 Niebo jest naszą ojczyzną; na ziemi jesteśmy wygnańcami. Wskutek grzechów własnych i grzechów naszych współbraci doznajemy wielu cierpień (antyfona na wejście). Dostrzegamy w sobie choroby duchowe, które zagrażają życiu łaski (ewangelia). Dlatego z serc naszych wyrywa się modlitwa pełna tęsknoty za wieczną ojczyzną (alleluja, antyfona na ofiarowanie). Wiemy jednak, że Chrystus chce nas zbawić. W Eucharystii podaje nam niebieskie lekarstwo na choroby dusz (sekreta). Eucharystia jest ostoją nadziei i pociechą w naszym wygnaniu (antyfona na komunię).
 
 [Introitus]
-!Dn 3:31; 31:29; 31:35
+!Dan 3:31; 31:29; 31:35
 v. Wszystko, coś na nas dopuścił, Panie, według sprawiedliwego wyroku nas spotkało, bośmy zgrzeszyli przeciwko Tobie i przykazań Twoich nie strzegliśmy. Lecz zechciej wsławić Twe Imię i postąp z nami wedle niezmierzonej dobroci Twojej.
 !Ps 118:1
 Błogosławieni, których życie bez skazy: którzy według Pańskiego prawa postępują.
@@ -27,7 +27,7 @@ $Per Dominum
 
 [Lectio]
 Czytanie z Listu świętego Pawła Apostoła do Efezjan.
-!Ef 5:15-21
+!Ephes 5:15-21
 !x! Duch święty napełnia serca wiernych wykonawców woli Bożej głęboką radością.
 Bracia: Baczcie pilnie, abyście postępowali z uwagą, nie jak nieroztropni, ale jako mądrzy, wyzyskując czas, ponieważ dni są złe. Nie bądźcie więc nierozważnymi, ale rozumiejącymi, jaka jest wola Boża. A nie upijajcie się winem, w którym tkwi rozpusta, ale napełniajcie się Duchem Świętym, wygłaszając psalmy, hymny i pieśni duchowe, nucąc i śpiewając w sercach waszych Panu. A dzięki czyńcie zawsze i za wszystko Bogu i Ojcu w imię Pana naszego Jezusa Chrystusa. Bądźcie ulegli jedni drugim w bojaźni Chrystusowej.
 
@@ -41,7 +41,7 @@ Gotowe serce moje, Boże, gotowe serce moje: zaśpiewam i zagram Ci psalm, Chwa�
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Jana.
-!J 4:46-53
+!Joann 4:46-53
 !x! Bóg udziela nam swojej łaski w miarę naszej ufności.
 Onego czasu: Był dworzanin pewien, którego syn chorował w Kafarnaum. Ten, gdy usłyszał, że Jezus przybył z Judei do Galilei, poszedł do Niego i prosił Go, aby przyszedł i uleczył syna jego, bo już dogorywał. I rzekł do niego Jezus: «Jeśli nie widzicie znaków i cudów, nie wierzycie». Rzecze do Niego dworzanin: «Panie, przyjdź pierwej, zanim umrze syn mój». Rzecze do niego Jezus: «Idź, syn twój żyje». I uwierzył ów człowiek słowu, które mu powiedział Jezus, i poszedł. A gdy był w drodze, wyszli na jego spotkanie słudzy i oznajmili mówiąc: «Syn twój żyje». Zapytał ich tedy o godzinę, w której mu się polepszyło. I rzekli mu: «Wczoraj o godzinie siódmej opuściła go gorączka». Poznał tedy ojciec, że była to godzina, w której powiedział do niego Jezus: Syn twój żyje. I uwierzył sam i cały dom jego. 
 
