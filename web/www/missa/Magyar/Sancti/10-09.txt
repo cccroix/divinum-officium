@@ -6,7 +6,7 @@ vide C5;
 Gloria
 
 [Introitus]
-!Ecclus 42:15-16
+!Eccl 42:15-16
 v. At the Lords word were His works brought into being. As the rising sun is~
 clear to all, so the glory of the Lord shines upon all His works.
 !Ps 95:1
@@ -38,7 +38,7 @@ V. A portent am I to many, but You are my strong refuge! Alleluia.
 
 [Evangelium]
 Evangélium + szent Lukács Evangélista kőnyvéből
-!Luke 10:1-9
+!Luc 10:1-9
 v. Ezek után az Úr kiválasztott más hetvenkettőt, és elküldte őket kettesével maga előtt minden városba és helységbe, ahová menni készült.  Így szólt hozzájuk: "Az aratnivaló sok, de a munkás kevés. Kérjétek hát az aratás urát, küldjön munkásokat az aratásra.  Menjetek! Úgy küldelek benneteket, mint bárányokat a farkasok közé.  Ne vigyetek magatokkal erszényt, se tarisznyát, se sarut. Az úton senkit ne üdvözöljetek.  Ha betértek egy házba, először ezt mondjátok: Békesség e háznak!  Ha békesség fia lakik ott, rászáll békességetek, ha nem, visszaszáll rátok.  Maradjatok ott abban a házban, és azt egyétek és igyátok, amijük van. Mert a munkás megérdemli a maga bérét. Ne járjatok házról házra.  Ha egy városba érkeztek és szívesen látnak titeket, egyétek, amit elétek adnak.  Gyógyítsátok meg ott a betegeket s hirdessétek: Közel van hozzátok az Isten országa! 
 
 [Offertorium]

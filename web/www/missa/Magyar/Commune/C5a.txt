@@ -5,7 +5,7 @@ Commune Confessoris non pontificis;In medio
 Gloria
 
 [Introitus]
-!Sir 15:5
+!Eccl 15:5
 v. And in the midst of the church she shall open his mouth, and shall fill him with the spirit of wisdom and understanding, and shall clothe him with a robe of glory. 
 !Ps 91:2
 v. It is good to give praise to the Lord: and to sing to thy name, O most High.
@@ -22,7 +22,7 @@ $Per Dominum.
 !Ps 36:30-31
 v. The mouth of the just shall meditate wisdom :
 V. and his tongue shall speak judgment. The law of his God is in his heart, and his steps shall not be supplanted. Allelúja, allelúja
-!Sir 45:9
+!Eccl 45:9
 v. And he girded him about with a glorious girdle, and clothed him with a robe of glory, Allelúja.
 
 [Tractus]
@@ -35,7 +35,7 @@ V. Glory and wealth shall be in his house: and his justice remaineth for ever an
 
 [Evangelium]
 Evangélium + szent Máté Apostol kőnyvéből
-!Matt 5:13-19
+!Matth 5:13-19
 v. Ti vagytok a föld sója. Ha a só ízét veszti, ugyan mivel sózzák meg? Nem való egyébre, mint hogy kidobják, s az emberek eltapossák.  Ti vagytok a világ világossága. A hegyen épült várost nem lehet elrejteni.  S ha világot gyújtanának, nem rejtik a véka alá, hanem a tartóra teszik, hogy mindenkinek világítson a házban.  Ugyanígy a ti világosságotok is világítson az embereknek, hogy jótetteiteket látva dicsőítsék mennyei Atyátokat!  Ne gondoljátok, hogy megszüntetni jöttem a törvényt vagy a prófétákat. Nem megszüntetni jöttem, hanem teljessé tenni.  Bizony mondom nektek, míg ég és föld el nem múlik, egy i betű vagy egy vesszőcske sem vész el a törvényből, hanem minden beteljesedik.  Aki tehát csak egyet is eltöröl e legkisebb parancsok közül, és úgy tanítja az embereket, azt igen kicsinek fogják hívni a mennyek országában. Aki viszont megtartja és tanítja őket, az nagy lesz a mennyek országában. 
 
 [Offertorium]
@@ -51,11 +51,11 @@ My the pious prayer of holy N. thy Confessor and illustrious Doctor be not wanti
 $Per Dominum.
 
 [Communio]
-!Luke 12:42
+!Luc 12:42
 v. The faithful and wise steward, whom his lord setteth over his family, to give them their measure of wheat in due season.
 
 [Lectio1]
 Olvasmány Jézus Sírák fia könyvéből
-!Sir 39:6-14
+!Eccl 39:6-14
 v. Szivét arra adja, hogy korán ébredjen az Úrhoz, ki öt teremtette, és a Fölségesnek szine elött könyörög.  Megnyitja száját imádságra, és vétkeiért könyörög.  Mert ha a nagy Úr akarja, az értelem lelkével betölti öt.  És ö, mint a záporesöt, úgy árasztja bölcsesége beszédeit, és az imádságban hálát ad az Úrnak.  A ki majd igazgatja szándékát és tudományát, és a titkos dolgokban tanácsot ad.  ö kinyilatkoztatja tudományának oktatását, és az Úr szövetségének törvényében leli dicsöségét.  Sokan dicsérik az ö bölcseségét, s ez soha sem fog megszönni.  Nem enyészik el emlékezete, és neve ismételtetik nemzedékröl nemzedékre.  Bölcseségét hirdetni fogják a nemzetek, és dicséretét beszéli a gyülekezet. 
 

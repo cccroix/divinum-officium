@@ -11,7 +11,7 @@ Credo
 Prefatio=Spiritu
 
 [Introitus]
-!Ps. 80:17.
+!Ps 80:17.
 v. He fed them with the best of wheat, alleluia: and filled them with honey from~
 the rock, alleluia, alleluia.
 !Ps 80:2
@@ -44,11 +44,11 @@ fire of Your love.
 
 [Evangelium]
 Evangélium + szent János Apostol kőnyvéből
-!John 3:16-21.
+!Joann 3:16-21.
 v. Mert úgy szerette Isten a világot, hogy egyszülött Fiát adta oda, hogy aki hisz benne, az el ne vesszen, hanem örökké éljen.  Nem azért küldte el Isten a Fiát a világba, hogy elítélje a világot, hanem, hogy üdvösséget szerezzen a világnak.  Aki hisz benne, az nem esik ítélet alá, aki azonban nem hisz, már ítéletet vont magára, mert nem hitt az Isten egyszülött Fiában.  Ez az ítélet: a világosság a világba jött, de az emberek jobban szerették a sötétséget, mint a világosságot, mert tetteik gonoszak voltak.  Mert mindenki, aki gonoszat tesz, gyűlöli a világosságot, s nem megy a világosságra, nehogy kiderüljenek a tettei.  Aki ellenben az igazsághoz szabja tetteit, a világosságra megy, hadd derüljön fény a tetteire, amelyeket az Istenben vitt végbe." 
 
 [Offertorium]
-!Ps. 17:14, 16.
+!Ps 17:14, 16.
 The Lord thundered from heaven, the Most High gave forth His voice; and the~
 fountains of waters appeared, alleluia.
 
@@ -58,7 +58,7 @@ offering of the spiritual sacrifice, make us also an eternal offering to You.
 $Per Dominum eiusdem
 
 [Communio]
-!John 14:26.
+!Joann 14:26.
 The Holy Spirit will teach you, alleluia: whatever I have said to you, alleluia,~
 alleluia.
 

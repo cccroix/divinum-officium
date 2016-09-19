@@ -7,9 +7,9 @@ Credo
 Prefatio=Pasch
 
 [Introitus]
-!Ps. 1:38; 1:18; 1:5-6
+!Ps 1:38; 1:18; 1:5-6
 v. I arose, and am still with Thee, alleluia; Thou hast laid Thy hand upon me, alleluia; Thy knowledge is become wonderful, alleluia, alleluia.
-!Ps. 138. 1, 2
+!Ps 138. 1, 2
 Lord, Thou hast searched Me and known Me; Thou knowest my sitting down and My rising up. 
 &Gloria
 v. I arose, and am still with Thee, alleluia; Thou hast laid Thy hand upon me, alleluia; Thy knowledge is become wonderful, alleluia, alleluia.
@@ -25,10 +25,10 @@ v. El a régi kovásszal, hogy új tésztává legyetek, aminthogy kovásztalano
 
 [Graduale]
 Alleluia, alleluia
-!Ps. 117:24; 117:1
+!Ps 117:24; 117:1
 This is the day which the Lord hath made: let us rejoice and be glad in it. 
 V. Give praise unto the Lord, for He is good: for His mercy endureth for ever Alleluia, alleluia. 
-!1 Cor. 5. 7
+!1 Cor 5. 7
 Christ our Pasch is immolated. 	
 
 [Sequentia]
@@ -43,11 +43,11 @@ We know that Christ is risen, henceforth ever living: Have mercy, Victor King, p
 
 [Evangelium]
 Evangélium + szent Márk Evangélista kőnyvéből
-!Mark 16:1-7
+!Marc 16:1-7
 v. Amikor elmúlt a szombat, Mária Magdolna, Mária, Jakab anyja, és Szalómé illatszereket vásároltak, s elmentek, hogy bebalzsamozzák.  A hét első napján kora reggel, napkeltekor kimentek a sírhoz.  Egymás közt így beszélgettek: "Ki fogja elhengeríteni a követ a sír bejárata elől?"  De amikor odanéztek, látták, hogy a kő el van hengerítve, jóllehet igen nagy volt.  Amint bementek a sírba, jobbról egy fehér ruhába öltözött ifjút láttak, amint ott ült. Megrémültek.  De az megszólította őket: "Ne féljetek! Ti a keresztre feszített názáreti Jézust keresitek. Feltámadt, nincs itt! Nézzétek, itt a hely ahová tették!  De siessetek, mondjátok meg tanítványainak és Péternek: Előttetek megy Galileába, ott majd látjátok, amint mondta nektek." 
 
 [Offertorium]
-!Ps. 75:9-10.
+!Ps 75:9-10.
 The earth trembled and was still when God arose in judgment, alleluia.
 
 [Secreta]

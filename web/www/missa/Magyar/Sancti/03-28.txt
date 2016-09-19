@@ -19,7 +19,7 @@ $Per Dominum
 
 [Lectio]
 Olvasmány a Bölcsesség könyvéből
-!Wis 10:10 - 14.
+!Sap 10:10 - 14.
 v. Vezette az igazat egyenes utakon, amikor bátyja haragja elől menekült; megmutatta neki Isten országát és szent dolgokkal ismertette meg, nehéz munkájában jóléthez segítette, és fáradozásait bőséggel jutalmazta.  Segítségére volt zsarnokai kapzsiságával szemben, és gazdaggá tette.  Ellenségeivel szemben védelmezte, üldözőitől oltalmazta, és nehéz küzdelemben győzelemre segítette, hogy belássa: a jámborság mindennél erősebb.  Nem hagyta cserben az igazat, akit eladtak, hanem megóvta a bűntől.  Lement vele a börtönbe, és nem hagyta el a bilincsekben sem, míg nem hozta neki az ország jogarát és a hatalmat elnyomói fölött, míg meg nem hazudtolta rágalmazóit és örök hírnevet nem szerzett neki. 
 
 [Tractus]
@@ -38,11 +38,11 @@ V. Ps 58:17 But I will sing of Your strength and revel at dawn in Your kindness.
 
 [Evangelium]
 Evangélium + szent Lukács Evangélista kőnyvéből
-!Luke 9:1 - 6.
+!Luc 9:1 - 6.
 v. Összehívta a tizenkettőt, erőt és hatalmat adott nekik a gonosz lelkek fölött és a betegségek gyógyítására.  Aztán elküldte őket, hogy hirdessék az Isten országát és gyógyítsák meg a betegeket.  "Semmit se vigyetek az útra - hagyta meg nekik -, se botot, se tarisznyát, se kenyeret, se pénzt, se egy váltás ruhát.  Ha egy házba betértek, ott szálljatok meg és onnét induljatok tovább.  Ha valahol nem fogadnak be benneteket, hagyjátok ott a várost, és még a port is rázzátok le lábatokról ellenük tanúságul."  Útra keltek hát, bejárták a falvakat, mindenütt hirdették az evangéliumot és gyógyították a betegeket. 
 
 [Offertorium]
-!Ecclus 46:6
+!Eccl 46:6
 He called upon the Most High Sovereign when his enemies beset him on all sides, and the great and holy God gave answer to him.
 
 [Secreta]
@@ -50,7 +50,7 @@ Look with favor, O Lord, upon the sacrifice we offer; that by the intercession o
 $Per Dominum
 
 [Communio]
-!Wis 10:20
+!Sap 10:20
 They sang, O Lord, Your holy name and praised in unison Your conquering hand.
 
 [Postcommunio]

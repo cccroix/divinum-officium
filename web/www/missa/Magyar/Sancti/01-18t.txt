@@ -8,7 +8,7 @@ Credo
 !Prefatio Apostolis
 
 [Introitus]
-!Sir 45:30.
+!Eccl 45:30.
 v. Therefore he made to him a covenant of peace, to be the prince of the~
 sanctuary, and of his people, that the dignity of priesthood should be to him~
 and to his seed for ever.
@@ -27,7 +27,7 @@ $Qui vivis
 
 [Lectio]
 Olvasmány szent Péter apostol első leveléből
-!1 Pet 1:1-7
+!1 Petri 1:1-7
 v. Péter, Jézus Krisztus apostola a zarándokoknak, akik Pontusz, Galácia, Kappadócia, Ázsia és Bitinia területén szórványokban élnek, s akiket az  Atyaisten előretudása birtokában kiválasztott, a Lélek megszentelő erejéből az engedelmességre és a Jézus Krisztus vérével való meghintésre. Kegyelemben és békében bőven legyen részetek!  Legyen áldott az Isten és Urunk, Jézus Krisztus Atyja, aki minket nagy irgalmában Jézusnak a halálból való feltámadása által új életre hívott, az élő reményre,  hogy a mennyekben elpusztíthatatlan, tiszta és soha el nem hervadó örökség várjon rátok.  Az Isten hatalma megőrzött titeket a hitben az örök üdvösségre, amely készen áll, hogy az utolsó időben majd megnyilvánuljon.  Abban örülni fogtok, noha most egy kicsit szomorkodnotok kell, mert különféle kísértések érnek benneteket,  hogy a próbát kiállva hitetek, amely értékesebb a tűz próbálta veszendő aranynál, Jézus Krisztus megjelenésekor méltó legyen a dicséretre, a dicsőségre és a tiszteletre. 
 
 [Graduale]
@@ -35,12 +35,12 @@ v. Péter, Jézus Krisztus apostola a zarándokoknak, akik Pontusz, Galácia, Ka
 v. And let them exalt him in the church of the people: and praise him in the~
 chair of the ancients. Let the mercies of the Lord give glory to him, and his~
 wonderful works to the children of men. Allelúja, allelúja
-!Matt 16:18
+!Matth 16:18
 v. And I say to thee: That thou art Peter; and upon this rock I will build my~
 church, and the gates of hell shall not prevail against it. Alleluia.
 
 [Tractus]
-!Matt 16:18-19
+!Matth 16:18-19
 v. Thou art Peter; and upon this rock I will build my church,
 V. And the gates of hell shall not prevail against it. And I will give to thee the keys of the kingdom of heaven.
 V. And whatsoever thou shalt bind upon earth, it shall be bound also in heaven:
@@ -51,17 +51,17 @@ Allelúja, allelúja
 !Ps 106:15
 v. Let the mercies of the Lord give glory to him, and his wonderful works to~
 the children of men. Allelúja.
-!Matt 16:18
+!Matth 16:18
 v. And I say to thee: That thou art Peter; and upon this rock I will build my~
 church. Allelúja.
 
 [Evangelium]
 Evangélium + szent Máté Apostol kőnyvéből
-!Matt 16:13-19
+!Matth 16:13-19
 v. Amikor Jézus Fülöp Cezáreájának vidékére ért, megkérdezte tanítványaitól: "Kinek tartják az emberek az Emberfiát?"  Így válaszoltak: "Van, aki Keresztelő Jánosnak, van, aki Illésnek, Jeremiásnak vagy valamelyik másik prófétának."  Jézus most hozzájuk fordult: "Hát ti mit mondtok, ki vagyok?"  Simon Péter válaszolt: "Te vagy Krisztus, az élő Isten Fia."  Erre Jézus azt mondta neki: "Boldog vagy, Simon, Jónás fia, mert nem a test és vér nyilatkoztatta ki ezt neked, hanem az én mennyei Atyám.  Én is mondom neked: Péter vagy, erre a sziklára építem egyházamat, s az alvilág kapui sem vesznek rajta erőt.  Neked adom a mennyek országa kulcsait. Amit megkötsz a földön, a mennyben is meg lesz kötve, s amit feloldasz a földön, a mennyben is fel lesz oldva." 
 
 [Offertorium]
-!Matt 16:18-19
+!Matth 16:18-19
 v. And I say to thee: That thou art Peter; and upon this rock I will build my~
 church, and the gates of hell shall not prevail against it. And I will give to~
 thee the keys of the kingdom of heaven.
@@ -73,7 +73,7 @@ honor may obtain forgiveness for us.
 $Per Dominum
 
 [Communio]
-!Matt 16:18
+!Matth 16:18
 v. Thou art Peter; and upon this rock I will build my church.
 
 [Postcommunio]

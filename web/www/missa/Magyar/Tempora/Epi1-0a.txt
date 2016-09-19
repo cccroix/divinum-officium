@@ -38,7 +38,7 @@ Sing joyfully to God, all you lands; serve the Lord with gladness. Alleluia.
 
 [Evangelium]
 Evangélium + szent Lukács Evangélista kőnyvéből
-!Luke 2:42-52
+!Luc 2:42-52
 v. Amikor tizenkét éves lett, szintén fölmentek, az ünnepi szokás szerint.  Az ünnepnapok elteltével hazafelé indultak. A gyermek Jézus azonban Jeruzsálemben maradt anélkül, hogy szülei tudták volna.  Abban a hitben, hogy az úti társaságban van, mentek egy napig, és keresték a rokonok és ismerősök között.  Amikor nem találták, visszafordultak Jeruzsálembe, hogy keressék.  Három nap múlva akadtak rá a templomban, ott ült a tanítók közt, hallgatta és kérdezgette őket.  Akik csak hallgatták, mind csodálkoztak okosságán és feleletein.  Amikor meglátták, csodálkoztak. Anyja így szólt hozzá: "Gyermekem, miért tetted ezt velünk? Íme, atyád és én szomorúan kerestünk."  Ezt felelte: "De miért kerestetek? Nem tudtátok, hogy nekem Atyám dolgaiban kell lennem?"  Ám ők nem értették meg ezeket a hozzájuk intézett szavakat.  Velük ment hát, lement Názáretbe, és engedelmeskedett nekik. Szavait anyja mind megőrizte szívében.  Jézus meg gyarapodott bölcsességben, korban, s kedvességben Isten és az emberek előtt. 
 
 [Offertorium]
@@ -52,7 +52,7 @@ protection.
 $Per Dominum
 
 [Communio]
-!Luke 2:48-49
+!Luc 2:48-49
 Son, why have You done so to us? In sorrow Your father and I have been seeking~
 You. How is it that you sought Me? Did you not know that I must be about My~
 Fathers business?

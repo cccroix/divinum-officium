@@ -8,7 +8,7 @@ Sequentia
 Suffr=Ecclesiae,Papa;;
 
 [Introitus]
-!Wis 10:20-21
+!Sap 10:20-21
 v. They sung to thy holy name, O Lord, and they praised with one accord thy victorious hand, alleluia. For wisdom opened the mouth of the dumb, and made the tongues of infants eloquent. allelúja, allelúja.
 !Ps 97:1
 v. Sing ye to the Lord anew canticle: because he hath done wonderful things.
@@ -39,11 +39,11 @@ V. Christ is risen, who created all things, and has had compassion uppon human r
 
 [Evangelium]
 Evangélium + szent János Apostol kőnyvéből
-!John 20:11-18
+!Joann 20:11-18
 v. Mária ott állt a sír előtt és sírt. Amint így sírdogált, egyszer csak benézett a sírba.  Látta, hogy ott, ahol Jézus teste volt, két fehér ruhába öltözött angyal ül, az egyik fejtől, a másik lábtól.  Megszólították: "Asszony, miért sírsz?" "Mert elvitték Uramat - felelte -, s nem tudom, hová tették."  E szavakkal hátrafordult, s látta Jézust, amint ott állt, de nem tudta róla, hogy Jézus.  Jézus megkérdezte: "Asszony, miért sírsz? Kit keresel?" Abban a hiszemben, hogy a kertész áll mögötte, így felelt neki: "Uram, ha te vitted el, mondd meg, hova tetted, hogy elvihessem magammal."  Jézus most nevén szólította: "Mária!" Erre megfordult, s csak ennyit mondott: "Rabboni", ami annyit jelent, mint "Mester".  Jézus ezt mondta neki: "Engedj! Még nem mentem föl Atyámhoz. Inkább menj el testvéreimhez és vidd nekik hírül: Fölmegyek Atyámhoz és a ti Atyátokhoz, Istenemhez és a ti Istenetekhez."  Mária Magdolna elment, és hírül adta a tanítványoknak: "Láttam az Urat, s ezt mondta nekem." 
 
 [Offertorium]
-!Exod 13:5
+!Ex 13:5
 v. In the day of your solemnity, said the Lord, I will bring you into a land that floweth with milk and honey, allelúja.
 
 [Secreta]
@@ -51,7 +51,7 @@ Graciously receive, we beseech thee, O Lord, the offering of thy people, and gra
 $Per Dominum
 
 [Communio]
-!1 Pet 2:9
+!1 Petri 2:9
 v.  But you are a chosen generation, a kingly priesthood, a holy nation, a purchased people: that you may declare his virtues, who hath called you out of darkness into his marvellous light: allelúja.
 
 [Postcommunio]

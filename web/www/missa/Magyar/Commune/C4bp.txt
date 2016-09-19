@@ -5,7 +5,7 @@ Commune Summorum Pontificum; Si diligis
 Prefatio=Apostolis
 
 [Introitus]
-!John 21:15-17
+!Joann 21:15-17
 v. If thou lovest me, Simon Peter, feed my lambs, feed my sheep. Allelúja,~
 allelúja
 !Ps 29:2
@@ -24,23 +24,23 @@ $Per Dominum
 
 [Lectio]
 Olvasmány szent Péter apostol első leveléből
-!1 Pet 5:1-4; 5:10-11.
+!1 Petri 5:1-4; 5:10-11.
 Dearly beloved brethren: The ancients therefore that are among you, I beseech, who am myself also an ancient, and a witness of the sufferings of Christ: as also a partaker of that glory which is to be revealed in time to come: Feed the flock of God which is among you, taking care of it, not by constraint, but willingly, according to God: not for filthy lucrés sake, but voluntarily: Neither as lording it over the clergy, but being made a pattern of the flock from the heart. And when the prince of pastors shall appear, you shall receive a never fading crown of glory. But the God of all grace, who hath called us into his eternal glory in Christ Jesus, after you have suffered a little, will himself perfect you, and confirm you, and establish you. To him be glory and empire for ever and ever. Amen. 
  
 [Graduale]
 Allelúja, allelúja
-!Matt 16:18
+!Matth 16:18
 v.  And I say to thee: That thou art Peter; and upon this rock I will build my church
 !Ps 44:17-18.
 v. Thou shalt make them princes over all the earth. They shall remember thy name throughout all generations. Therefore shall people praise thee for ever; yea, for ever and ever. Allelúja.
 
 [Evangelium]
 Evangélium + szent Máté Apostol kőnyvéből
-!Matt 16:13-19
+!Matth 16:13-19
 v. Amikor Jézus Fülöp Cezáreájának vidékére ért, megkérdezte tanítványaitól: "Kinek tartják az emberek az Emberfiát?"  Így válaszoltak: "Van, aki Keresztelő Jánosnak, van, aki Illésnek, Jeremiásnak vagy valamelyik másik prófétának."  Jézus most hozzájuk fordult: "Hát ti mit mondtok, ki vagyok?"  Simon Péter válaszolt: "Te vagy Krisztus, az élő Isten Fia."  Erre Jézus azt mondta neki: "Boldog vagy, Simon, Jónás fia, mert nem a test és vér nyilatkoztatta ki ezt neked, hanem az én mennyei Atyám.  Én is mondom neked: Péter vagy, erre a sziklára építem egyházamat, s az alvilág kapui sem vesznek rajta erőt.  Neked adom a mennyek országa kulcsait. Amit megkötsz a földön, a mennyben is meg lesz kötve, s amit feloldasz a földön, a mennyben is fel lesz oldva." 
 
 [Offertorium]
-!Jer 1:9-10
+!Jerem 1:9-10
 v. Behold I have given my words in thy mouth: Lo, I have set thee over the nations, and over the kingdoms, to root up, and pull down, and to waste, and to destroy, and to build, and to plant.  Allelúja.
 
 [Secreta]
@@ -52,7 +52,7 @@ In thy kindness, O Lord, receive the gifts which we have joyfully offered thee, 
 $Per Dominum
 
 [Communio]
-!Matt 16:18
+!Matth 16:18
 v.  Thou art Peter; and upon this rock I will build my church, and the gates of hell shall not prevail against it. Allelúja.
 
 [Postcommunio]

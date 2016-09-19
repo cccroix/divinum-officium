@@ -13,7 +13,7 @@ Prefatio=Communis
 Sequentia
 
 [Introitus]
-!Ps. 80:17.
+!Ps 80:17.
 v. He fed them with the best of wheat, alleluia; and filled them with honey from~
 the rock, alleluia, alleluia, alleluia.
 !Ps 80:2
@@ -32,16 +32,16 @@ $Qui vivis
 
 [Lectio]
 Olvasmány szent Pál apostol Korintusiakhoz irott első leveléből
-!1 Cor. 23-29.
+!1 Cor 23-29.
 Brethren: I myself have received from the Lord what I also delivered to you, that the Lord Jesus, on the night in which He was betrayed, took bread, and giving thanks broke, and said, Take and eat. This is My Body which shall be given up for you; do this in remembrance of Me. In like manner also the cup, after He had supped, saying, This is the new covenant in My Blood; do this as often as you drink it, in remembrance of Me. For as often as you shall eat this Bread and drink the cup, you proclaim the death of the Lord, until He comes. Therefore whoever eats this Bread or drinks the cup of the Lord unworthily, will be guilty of the Body and the Blood of the Lord. But let a man prove himself, and so let him eat of that Bread and drink of the cup; for he who eats and drinks unworthily, without distinguishing the Body, eats and drinks judgment to himself.
 
 [Graduale]
-!Ps. 144:15-16.
+!Ps 144:15-16.
 The eyes of all look hopefully to You, O Lord; and You give them their food in~
 due season.
 V. You open Your hand; and satisfy the desire of every living thing. Alleluia,~
 alleluia. 
-!John 6:56 - 57. 
+!Joann 6:56 - 57. 
 V. My Flesh is food indeed, and My Blood is drink indeed.~
 He who eat My Flesh, and drinks My Blood, abides in Me and I in him.
 
@@ -153,11 +153,11 @@ With the denizens of heaven.
 
 [Evangelium]
 Evangélium + szent János Apostol kőnyvéből
-!John 6:56-59.
+!Joann 6:56-59.
 v. Aki eszi az én testemet és issza az én véremet, az bennem marad, én meg benne.  Engem az élő Atya küldött, s általa élek. Így az is élni fog általam, aki engem eszik.  Ez a mennyből alászállott kenyér nem olyan, mint az, amelyet atyáitok ettek és meghaltak. Aki ezt a kenyeret eszi, az örökké él."  Ezeket mondta, amikor Kafarnaumban, a zsinagógában tanított. 
 
 [Offertorium]
-!Lev 21:6
+!Levit 21:6
 The priests of the Lord offer incense and loaves to God, and therefore they~
 shall be sacred to their God and shall not profane His name. Alleluia.
 
@@ -167,7 +167,7 @@ peace which are betokened by the gifts we offer.
 $Per Dominum
 
 [Communio]
-!1 Cor. 11:26-27.
+!1 Cor 11:26-27.
 As often as you shall eat this Bread and drink the cup, you proclaim the death~
 of the Lord, until He comes. Therefore whoever eats this Bread or drinks the cup~
 of the Lord unworthily, will be guilty of the Body and Blood of the Lord.~

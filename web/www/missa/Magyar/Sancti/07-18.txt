@@ -9,7 +9,7 @@ vide C5
 Gloria
 
 [Introitus]
-!John 15:13
+!Joann 15:13
 v. Greater love than this no one has, that one lay down his life for his~
 friends.
 !Ps 40:2
@@ -42,7 +42,7 @@ Alleluia.
 
 [Evangelium]
 Evangélium + szent János Apostol kőnyvéből
-!John 15:12-16
+!Joann 15:12-16
 v. Az az én parancsom, hogy szeressétek egymást, amint én szerettelek benneteket.  Senki sem szeret jobban, mint az, aki életét adja barátaiért.  Ha megteszitek, amit parancsolok nektek, a barátaim vagytok.  Nem nevezlek többé szolgának benneteket, mert a szolga nem tudja, mit tesz ura. Barátaimnak mondalak benneteket, mert amit hallottam Atyámtól, azt mind tudtul adtam nektek.  Nem ti választottatok engem, hanem én választottalak benneteket, s arra rendeltelek, hogy menjetek, teremjetek gyümölcsöt, maradandó gyümölcsöt. Akkor mindent megad nektek az Atya, amit a nevemben kértek tőle. 
 
 [Offertorium]
@@ -58,7 +58,7 @@ protection in our last agony.
 $Per eundem
 
 [Communio]
-!Matt 25:36, 40.
+!Matth 25:36, 40.
 I was sick and you visited Me: Amen, amen, I say to you, as long as you did it~
 for one of these the least of My brethren, you did it for Me.
 

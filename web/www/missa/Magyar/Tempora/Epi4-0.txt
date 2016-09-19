@@ -38,7 +38,7 @@ The Lord is King; let the earth rejoice; let the many isles be glad.  Alleluia.
 
 [Evangelium]
 Evangélium + szent Máté Apostol kőnyvéből
-!Matt 8:23-27
+!Matth 8:23-27
 v. Bárkába szállt, s tanítványai követték.  Egyszerre csak nagy vihar támadt a tavon, úgyhogy a hullámok elborították a bárkát. Ő azonban aludt.  Odamentek hozzá, fölkeltették és kérték: "Uram, ments meg minket, elveszünk!"  Jézus ezt mondta nekik: "Mit féltek, kishitűek?" Aztán fölkelt, parancsolt a szélvésznek és a víznek, s nagy nyugalom támadt.  Az emberek csodálkozva kérdezgették: "Ki lehet ez, hogy még a szélvész és a víz is engedelmeskedik neki?" 
 
 [Offertorium]
@@ -52,7 +52,7 @@ always cleanse and strengthen the weakness of our nature.
 $Per Dominum
 
 [Communio]
-!Luke 4:22
+!Luc 4:22
 All marvelled at the words that came from the mouth of God.
 
 [Postcommunio]

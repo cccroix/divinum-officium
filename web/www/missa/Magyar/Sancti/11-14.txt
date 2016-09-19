@@ -25,7 +25,7 @@ $Per Dominum eiusdem
 
 [Lectio]
 Olvasmány szent Pál apostol Zsidókhoz irott leveléből
-!Heb 5:1-6
+!Hebr 5:1-6
 v. Mert minden főpapot az emberek közül választanak, és arra rendelik, hogy az Isten tiszteletében képviselje az embereket, ajándékokat és áldozatot mutasson be a bűnökért,  mint olyan valaki, aki megértő tud lenni a tudatlanok és a tévelygők iránt, hiszen őrá is gyöngeség nehezedik.  Ezért a népért is, saját vétkeiért is áldozatot kell bemutatnia.  A tisztséget magától senki sem vállalhatja, csak akit az Isten meghív, mint Áront.  Így Krisztus sem önmagát emelte főpapi méltóságra, hanem az, aki így szólt hozzá: "A Fiam vagy, ma szültelek."  Másutt meg ezt mondja: "Pap vagy mindörökké Melkizedek rendje szerint." 
 
 [Graduale]
@@ -38,11 +38,11 @@ V. This is the priest who the Lord has crowned. Alleluia.
 
 [Evangelium]
 Evangélium + szent János Apostol kőnyvéből
-!John 10:11-16
+!Joann 10:11-16
 v. Én vagyok a jó pásztor. A jó pásztor életét adja juhaiért.  A béres azonban, aki nem pásztor, akinek a juhok nem sajátjai, otthagyja a juhokat és elfut, amikor látja, hogy jön a farkas. A farkas aztán elragadja és szétkergeti őket.  A béres azért fut el, mert béres, és nem törődik a juhokkal.  Én vagyok a jó pásztor, ismerem enyéimet, és enyéim is ismernek engem,  mint ahogy az Atya ismer engem és én ismerem az Atyát. Életemet adom a juhokért.  De más juhaim is vannak, amelyek nem ebből az akolból valók. Ezeket is ide kell vezetnem. Hallgatni fognak szavamra, s egy nyáj lesz és egy pásztor. 
 
 [Offertorium]
-!John 15:13
+!Joann 15:13
 Greater love than this no one has, that one lay down his life for his friends.
 
 [Secreta]
@@ -52,7 +52,7 @@ of his blood.
 $Per Dominum
 
 [Communio]
-!John 10:14
+!Joann 10:14
 I am the Good Shepherd, and I know My sheep, and Mine know Me.
 
 [Postcommunio]

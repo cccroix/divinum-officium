@@ -23,7 +23,7 @@ $Per Dominum
 
 [LectioL1]
 Olvasmány Mózes harmadik könyvéből
-!Lev 23:26-32
+!Levit 23:26-32
 v. Az Úr ezt mondta Mózesnek:  "Ennek a hónapnak a tizedik napja az engesztelés napja. Tartsatok rajta szent összejövetelt. Böjtöljetek, és mutassatok be áldozatot az Úrnak.  Ezen a napon ne végezzetek semmiféle szolgai munkát, mert ez az engesztelés napja, amelyen elvégzik fölöttetek az engesztelés szertartását az Úr, a ti Istenetek előtt.  Aki nem böjtöl ezen a napon, azt ki kell irtani övéi közül,  aki pedig dolgozik, azt én pusztítom ki népéből.  Ne végezzetek semmiféle munkát, ez örök törvény utódaitok számára, bárhol laktok is.  Szombati nyugalom legyen ez számotokra. Tartsátok meg a böjtöt, s a hónap kilencedik napjának estéjétől a következő estig tartózkodjatok a munkától." 
 $Deo gratias
 
@@ -38,7 +38,7 @@ $Per Dominum
 
 [LectioL2]
 Olvasmány Mózes harmadik könyvéből
-!Lev 23:39-43
+!Levit 23:39-43
 v. A hetedik hónap tizenötödik napján, amikor már betakarítottátok a föld termését, üljetek hétnapos ünnepet az Úrnak. Az első és a nyolcadik napon legyen teljes nyugalom.  Az első napon vigyetek magatokkal szép gyümölcsöket, pálmaágakat, patak menti fűzfaágakat, és vigadjatok hét napig az Úr, a ti Istenetek színe előtt.  Így üljétek meg évenként az Úr ünnepét hét napon át. Örök törvény ez utódaitok számára. A hetedik hónapban tartsátok ezt az ünnepet.  Hét napig lakjatok sátorban. Izrael népének minden tagja lakjék sátor alatt;  így utódaitok megtudják, hogy sátorban lakattam Izrael fiait, amikor kihoztam őket Egyiptom földjéről. Én vagyok az Úr, a ti Istenetek." 
 $Deo gratias
 
@@ -53,7 +53,7 @@ $Per Dominum
 
 [LectioL3]
 Olvasmány Mikeás próféta könyvéből
-!Mic 7:14; 7:16; 7:18-20
+!Mich 7:14; 7:16; 7:18-20
 v. Legeltesd botoddal népedet, örökséged nyáját, amely egyedül él az erdőben, egy gyümölcsöskertnek a közepén. Bárcsak legelhetne a Básánon és Gileádban, mint hajdanában!  Látni fogják a népek, és megszégyenülnek minden hatalmuk ellenére; a kezüket a szájukra teszik, a fülük pedig megsüketül.  Melyik isten olyan, mint te, aki elveszed a gonoszságot, és megbocsátod a vétkeket? Aki nem haragszol mindörökre, hanem kedved leled az irgalomban?  Irgalmazz nekünk még ez egyszer, tipord össze vétkeinket, vesd a tenger mélyére minden bűnünket!  Tanúsíts hűséget Jákob iránt, irgalmat Ábrahám iránt, amint megesküdtél atyáinknak ősidőktől fogva. 
 $Deo gratias
 
@@ -68,7 +68,7 @@ $Per Dominum
 
 [LectioL4]
 Olvasmány Zakariás próféta könyvéből
-!Zech 8:14-19
+!Zach 8:14-19
 v. Ezt mondja a Seregek Ura: Amint elhatároztam, hogy rosszul bánok veletek, amikor atyáitok megharagítottak - mondja a Seregek Ura, és nem is irgalmaztam,  úgy most, ezekben a napokban elhatároztam, hogy jót teszek Jeruzsálemmel és Júda házával. Ne féljetek!  Csak ezeket a dolgokat tegyétek meg: Mondjatok egymásnak igazat, kapuitokban úgy szolgáltassatok igazságot, hogy békét szerezzetek.  Szívetekben ne forraljatok gonoszságot egymás ellen, hogy ne szeressétek a hamis esküt, mert ezek a dolgok, amelyeket gyűlölök - mondja az Úr.  A Seregek Ura a következő szózatot intézte hozzám:  Ezt mondja a Seregek Ura: A negyedik hónap böjtje, az ötödik hónap böjtje, a hetedik hónap böjtje és a tizedik hónap böjtje Júda háza számára vidámságot, örömet és kellemes ünnepet fog jelenteni. De szeressétek az igazságot és a békét! 
 $Deo gratias
 
@@ -105,7 +105,7 @@ $Per Dominum
 
 [Lectio]
 Lesson
-!Heb 9:2-12
+!Hebr 9:2-12
 Brethren: There was set up a tabernacle in the outer part of which were the lampstand and the table and the showbread, and this is called the Holy Place; but beyond the second veil was the tabernacle which is called the Holy of Holies, having a golden censer and the ark of the covenant, overlaid on every side with gold. In the ark was a golden pot containing the manna and the rod of Aaron which had budded, and the tablets of the covenant; and above it were the Cherubim of glory overshadowing the mercy-seat. But of all these we cannot now speak in detail. Such then being the arrangements, the priests always used to enter into the first tabernacle to perform the sacred rites; but into the second tabernacle the high priest alone entered once a year, not without blood, which he offered for his own and the peoples sins of ignorance. The Holy Spirit signified by this that the way into the Holies was not yet thrown open while the first tabernacle was still standing. This first tabernacle is a figure of the present time, inasmuch as gifts and sacrifices are offered that cannot perfect the worshipper in conscience, since they refer only to food and drink and various ablutions and bodily regulations imposed until a time of reformation. But when Christ appeared once for all through the greater and more perfect tabernacle, not made by hands that is, not of this creation, nor again by virtue of blood of goats and calves, but by virtue of His own Blood, into the Holies, having obtained eternal redemption.
 
 [Graduale]
@@ -115,7 +115,7 @@ V. For steadfast is His kindness toward us, and the fidelity of the Lord endures
 
 [Evangelium]
 Continuation of the Holy Gospel according to
-!Luke 13:6-17
+!Luc 13:6-17
  At that time, Jesus spoke to the multitudes this parable: A certain man had a fig tree planted in his vineyard; and he came seeking fruit thereon, and found none. And he said to the vine-dresser, Behold, for three years now I have come seeking fruit on this fig tree, and I find none. Cut it down, therefore; why does it still encumber the ground? But he answered him and said, Sir, let it alone this year too, till I dig around it and manure it. Perhaps it may bear fruit; but if not, then afterwards you shall cut it down. Now He was teaching in one of their synagogues on the Sabbath. And behold, there was a woman who for eighteen years had had a sickness caused by a spirit; and she was bent over and utterly unable to look upwards. When Jesus saw her, He called her to Him and said to her, Woman, you are delivered from your infirmity. And He laid His hands upon her, and instantly she was made straight, and glorified God. But the ruler of the synagogue, indignant that Jesus had cured on the Sabbath, addressed the crowd, saying, There are six days in which one ought to work; on these therefore come and be cured, and not on the Sabbath. But the Lord answered him and said, Hypocrites! does not each one of you on the Sabbath loose his ox or ass from the manger, and lead it forth to water? And this woman, daughter of Abraham as she is, whom Satan has bound, lo, for eighteen years, ought not she to be loosed form this bond on the Sabbath? And as He said these things, all His adversaries were put to shame; and the entire crowd rejoiced at all the glorious things that were done by Him.
 
 [Offertorium]
@@ -127,7 +127,7 @@ Grant, we beseech You, almighty God, that the gift in the sight of Your majesty 
 $Per Dominum
 
 [Communio]
-!Lev 21:41, 43.
+!Levit 21:41, 43.
 In the seventh month you shall keep this feast, as I made the Israelites dwell in booths, when I led them out of the land of Egypt. I, the Lord, am your God.
 
 [Postcommunio]

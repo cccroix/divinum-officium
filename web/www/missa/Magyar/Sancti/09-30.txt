@@ -10,7 +10,7 @@ Gloria
 CredoDA
 
 [Introitus]
-!Sir 15:5
+!Eccl 15:5
 v. In the midst of the assembly he opened his mouth; and the Lord filled him~
 with the spirit of wisdom and understanding; He clothed him with a robe of~
 glory. (Alleluia, alleluia.)
@@ -30,7 +30,7 @@ $Per Dominum
 
 [Lectio]
 Olvasmány szent Pál apostol Timóteushoz irott második leveléből
-!2 Tim. 4:1-8
+!2 Tim 4:1-8
 v. Kérve-kérlek az Istenre és Krisztus Jézusra, aki ítélkezni fog élők és holtak fölött, az Ő eljövetelére és országára:  hirdesd az evangéliumot, állj vele elő, akár alkalmas, akár alkalmatlan. Érvelj, ints, buzdíts nagy türelemmel és hozzáértéssel.  Mert jön idő, amikor az egészséges tanítást nem hallgatják szívesen, hanem saját ízlésük szerint szereznek maguknak tanítókat, hogy fülüket csiklandoztassák.  Az igazságot nem hallgatják meg, de a meséket elfogadják.  Te azonban maradj mindenben meggondolt, viseld el a bajokat, teljesítsd az evangélium hirdetőjének feladatát, töltsd be szolgálatodat.  Az én véremet ugyanis nemsokára kiontják áldozatul, eltávozásom ideje közel van.  A jó harcot megharcolam, a pályát végigfutottam, hitemet megtartottam.  Készen vár az igazság győzelmi koszorúja, amelyet azon a napon megad nekem az Úr, az igazságos bíró, de nemcsak nekem, hanem mindenkinek, aki örömmel várja eljövetelét. 
 
 [Graduale]
@@ -38,13 +38,13 @@ v. Kérve-kérlek az Istenre és Krisztus Jézusra, aki ítélkezni fog élők �
 The mouth of the just man tells of wisdom, and his tongue utters what is right.
 V. The law of his God is in his heart, and his steps do not falter. Alleluia,~
 alleluia.
-!Ecclus 45:9 
+!Eccl 45:9 
 V. The Lord loved him and adorned him; He clothed him with a robe of~
 glory. Alleluia.
 
 [Evangelium]
 Evangélium + szent Máté Apostol kőnyvéből
-!Matt 5:13-19
+!Matth 5:13-19
 v. Ti vagytok a föld sója. Ha a só ízét veszti, ugyan mivel sózzák meg? Nem való egyébre, mint hogy kidobják, s az emberek eltapossák.  Ti vagytok a világ világossága. A hegyen épült várost nem lehet elrejteni.  S ha világot gyújtanának, nem rejtik a véka alá, hanem a tartóra teszik, hogy mindenkinek világítson a házban.  Ugyanígy a ti világosságotok is világítson az embereknek, hogy jótetteiteket látva dicsőítsék mennyei Atyátokat!  Ne gondoljátok, hogy megszüntetni jöttem a törvényt vagy a prófétákat. Nem megszüntetni jöttem, hanem teljessé tenni.  Bizony mondom nektek, míg ég és föld el nem múlik, egy i betű vagy egy vesszőcske sem vész el a törvényből, hanem minden beteljesedik.  Aki tehát csak egyet is eltöröl e legkisebb parancsok közül, és úgy tanítja az embereket, azt igen kicsinek fogják hívni a mennyek országában. Aki viszont megtartja és tanítja őket, az nagy lesz a mennyek országában. 
 
 [Offertorium]
@@ -59,7 +59,7 @@ Your Confessor, lead us to heavenly glory.
 $Per Dominum
 
 [Communio]
-!Luke 12:42
+!Luc 12:42
 The faithful and prudent servant whom the master will set over his household to~
 give them their ration of grain in due time.
 

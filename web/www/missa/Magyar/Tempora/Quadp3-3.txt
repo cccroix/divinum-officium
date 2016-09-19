@@ -40,12 +40,12 @@ _
 _
 !:Postea Celebrans, imposito incenso in thuribulo, ter aspergit cineres aqua benedícta, dicendo Antiphonam Aspérges, sine cantu et sine Psalmo, et ter adolet incenso. Deinde dignior Sacerdos ex Clero accedens ad Altare, imponit cineres Celebranti non genuflexo. Si vero non adsit alius Sacerdos, ipsemet Celebrans, genibus flexis coram Altari, sibi ipsi cineres imponit in capite, nihil dicens, et cantatur statim a choro:
 !Antiphona.
-!Joel 2:13
+!Joël 2:13
 Let us change our garment for ashes and sackcloth: let us fast and lament before the Lord: for our God is plenteous in mercy to forgive sins.
 _
 _
 !:Alia Antiph.
-!Joel 2:17
+!Joël 2:17
 Between the porch and the altar the priests the Lord's ministers shall weep, and shall say: Spare, O Lord, spare thy people: and shut not the mouths of them that sing to thee, O Lord?
 _
 _
@@ -57,7 +57,7 @@ Help us, O God, our saviour: and for the glory of thy name, O Lord, deliver us: 
 V. Glory be to the Father, and to the Son, * and to the Holy Ghost. Listen, O Lord.
 !:Sacerdos vero, dum cantantur Antiphonć et Responsorium, detecto capite, primo imponit cineres digniori Sacerdoti, a quo ipse accepit, deinde Ministris paratis, genibus flexis coram Altari, dicens:
 !:Imposition of the Ashes.
-!Gen. 3:19 
+!Gen 3:19 
 Remember, man, that you are dust and into dust you shall return.
 _
 _
@@ -67,7 +67,7 @@ v. Let us pray.
 Grant us, O Lord, to take up our duty as soldiers of Christ by holy fasting that we, who are going to struggle with the evil spirits, may be protected by the help of self-restraint. Through Christ our Lord.
 
 [Introitus]
-!Wis 11:24-25, 27.
+!Sap 11:24-25, 27.
 v. You have mercy on all, O Lord, and hate none of the things which You have~
 made, overlooking the sins of men for the sake of repentance, and sparing them:~
 because You are the Lord our God.
@@ -85,7 +85,7 @@ $Per Dominum
 
 [Lectio]
 Olvasmány Joel próféta könyvéből
-!Joel 2:12-19
+!Joël 2:12-19
 v. Ezt mondja az Úr: Késedelem nélkül térjetek vissza hozzám teljes szívetekből, böjtölve, sírva és gyászolva.  A szíveteket szaggassátok meg, ne a ruhátokat. Térjetek vissza az Úrhoz, a ti Istenetekhez, mert jóságos és irgalmas, nagy a türelme és csupa könyörület; utálja a gonoszságot.  Ki tudja, hátha visszatér és újra megbocsát, s áldás fakad a nyomában, étel- és italáldozat az Úr, a ti Istenetek számára?  Fújjátok meg a harsonát a Sionon, rendeljetek el böjtöt, hirdessetek ünnepet,  gyűjtsétek egybe a népet, hívjátok össze a gyülekezetet! Gyűjtsétek egybe a véneket, hívjátok össze a gyermekeket, meg a csecsemőket! Jöjjön elő hálószobájából az ifjú férj, nászházából az új asszony!  Sírjanak a papok, az Úr szolgái az előcsarnok és az oltár között, és mondják: "Könyörülj, Uram, népeden, ne hagyd, hogy gyalázat érje örökségedet, s ne csúfolhassák őket a népek! Ne mondhassák a népek körében: Hol van az Istenük?"  Ekkor az Úr féltékeny szeretetre gyulladt országa iránt, és megkegyelmezett népének.  Az Úr válaszolt népének és ezeket mondta: "Nézzétek, küldök nektek gabonát, újbort és olajat, úgy, hogy jóllakhattok velük. Nem hagyom többé, hogy a népek között gyalázat érjen benneteket. 
 
 [Graduale]
@@ -105,7 +105,7 @@ deliver us and pardon our sins for Your Names sake.
 
 [Evangelium]
 Evangélium + szent Máté Apostol kőnyvéből
-!Matt. 6:16-21
+!Matth 6:16-21
 v. Amikor böjtöltök, ne öltsetek olyan ábrázatot, mint a képmutatók, akik komorrá változtatják arcukat, hogy lássák böjtölésük! Bizony mondom nektek: megkapták jutalmukat.  Te, amikor böjtölsz, kend meg fejedet és mosd meg arcodat,  hogy ne lássák rajtad az emberek, hogy böjtölsz, hanem csak Atyád, aki a rejtekben is ott van! Akkor Atyád, aki a rejtekben is lát, megjutalmaz.  Ne gyűjtsetek magatoknak kincset a földön, ahol moly rágja és rozsda marja, s ahol betörnek és ellopják a tolvajok!  A mennyben gyűjtsetek kincset, ahol nem rágja moly és nem marja rozsda, s ahol nem törnek be és nem lopják el a tolvajok!  Ahol a kincsed, ott a szíved is. 
 
 [Offertorium]

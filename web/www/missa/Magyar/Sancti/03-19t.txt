@@ -19,7 +19,7 @@ $Qui vivis
 
 [Lectio]
 Olvasmány Jézus Sírák fia könyvéből
-!Ecclus 45:1-6
+!Eccl 45:1-6
 v. Kedves volt Istennél és embereknél Mózes; kinek emlékezete áldásban vagyon.  Hasonlóvá tette öt dicsöségben a szentekhez, és fölmagasztalta öt félelemöl az ellenségeknek, és igéjével megszöntette a csodajeleket.  Megdicsöitette öt a királyok szine elött, és parancsot adott neki népéhez, és megmutatta neki dicsöségét.  Az ö hösége és szelídsége miatt megszentelé öt, és kiválasztotta öt minden test közöl.  Hallatá vele magát és szavát, és bevezette öt a felhöbe.  És szemtöl szembe parancsokat adott neki, az élet és fegyelem törvényét, hogy megtanitsa Jákobot szövetségére, és Izraelt itéleteire. 
 
 [Graduale]
@@ -30,14 +30,14 @@ V. He asked life of You: You gave him length of days forever and ever.
 Happy the man who fears the Lord, who greatly delights in His commands.
 V. His posterity shall be mighty upon the earth; the upright generation shall be blessed.
 V. Wealth and riches shall be in his house; his generosity shall endure forever. During Paschaltime, the Gradual and Tract are omitted and the following Alleluia is said: Alleluia, alleluia.
-!Sir 45:9
+!Eccl 45:9
 V. The Lord loved him, and adorned him; He clothed him with a robe of glory. Alleluia.
 !Osee 14:6
 V. The just man shall blossom as the lily; and shall flourish forever before the Lord. Alleluia.
 
 [Evangelium]
 Evangélium + szent Máté Apostol kőnyvéből
-!Matt 1:18-21
+!Matth 1:18-21
 v. Jézus Krisztus születésének ez a története: Anyja, Mária, Józsefnek a jegyese, még mielőtt egybekeltek volna, úgy találtatott, hogy gyermeket fogant a Szentlélektől.  Férje, József igaz ember volt, nem akarta a nyilvánosság előtt megszégyeníteni, ezért úgy határozott, hogy titokban bocsátja el.  Míg ezen töprengett, megjelent neki álmában az Úr angyala, és így szólt hozzá: "József, Dávid fia, ne félj magadhoz venni feleségedet Máriát, hiszen a benne fogant élet a Szentlélektől van!  Fiút szül, akit Jézusnak nevezel el, mert ő szabadítja meg népét bűneitől." 
 
 [Offertorium]
@@ -49,7 +49,7 @@ O Lord, we dutifully worship You, humbly entreating You by the prayers of blesse
 $Per eumdem
 
 [Communio]
-!Matt 1:20
+!Matth 1:20
 Do not be afraid, Joseph, son of David, to take to you Mary your wife, for that which is begotten in her is of the Holy Spirit. (P.T. Alleluia.)
 
 [Postcommunio]
