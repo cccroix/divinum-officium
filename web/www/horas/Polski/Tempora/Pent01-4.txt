@@ -19,7 +19,7 @@ Jako latorośle oliwne * dzieci Kościoła niech siądą w około stołu Pański
 Pan, który użyczył * pokoju granicom Kościoła, nasyca nas tłustością pszenicy.;;147
 
 [Capitulum Vespera]
-!1 Kor 11:23-24
+!1 Cor 11:23-24
 v. Bracia: Albowiem ja wziąłem od Pana, com téż wam podał: Iż Pan Jezus nocy, której był wydan, wziął chleb, a dzięki uczyniwszy, łamał i rzekł: Bierzcie a jedzcie; to jest ciało moje, które za was będzie wydane: to czyńcie na moje pamiątkę. 
 $Deo gratias
 
@@ -137,7 +137,7 @@ R. Aby wino uweseliło serce człowiecze, alleluja.
 
 [Lectio1]
 Z Pierwszego Listu św. Pawła Apostoła do Koryntian
-!1 Kor 11:20-22
+!1 Cor 11:20-22
 20 Gdy się tedy wespół schodzicie, już nie jest jedzenie wieczerzy Pańskiéj.
 21 Bo każdy wieczerzą swą wprzód bierze ku jedzeniu, a jeden łaknie, a drugi jest pijany.
 22 Zali domów nie macie do jedzenia i picia? albo kościołem Bożym gardzicie i zawstydzacie te, którzy nie mają? Cóż wam rzekę? Chwalę was? w tem nie chwalę.
@@ -149,7 +149,7 @@ V. Pascha nasza ofiarowany jest Chrystus: a tak używajmy w przaśnikach szczero
 R. I będą jeść mięso i przaśne chleby.
 
 [Lectio2]
-!1 Kor 11:23-26
+!1 Cor 11:23-26
 23 Albowiem ja wziąłem od Pana, com téż wam podał: Iż Pan Jezus nocy, której był wydan, wziął chleb,
 24 A dzięki uczyniwszy, łamał i rzekł: Bierzcie a jedzcie; to jest ciało moje, które za was będzie wydane: to czyńcie na moje pamiątkę. 
 25 Także i kielich po wieczerzy, mówiąc: Ten kielich nowy Testament jest we krwi mojéj. To czyńcie, ilekroć pić będziecie, na pamiątkę moję.
@@ -162,7 +162,7 @@ V. Nie Mojżesz wam dał chleb z nieba, ale Ojciec mój daje wam chleb z nieba p
 R. To jest chleb, który dał wam Pan do jedzenia.
 
 [Lectio3]
-!1 Kor 11:27-32
+!1 Cor 11:27-32
 27 A tak, ktobykolwiek jadł ten chleb, albo pił kielich Pański niegodnie, będzie winien ciała i krwie Pańskiéj. 
 28 Niechaj że doświadczy samego siebie człowiek, a tak niech je z chleba tego i z kielicha pije. 
 29 Albowiem który je i pije niegodnie, sąd sobie je i pije, nie rozsądzając ciała Pańskiego.
@@ -211,7 +211,7 @@ R. Ten jest chleb z nieba zstępujący, aby jeśliby go kto pożywał, nie umar�
 
 [Lectio7]
 Czytanie Ewangelii świętej według Jana
-!J 6:56-59
+!Joann 6:56-59
 Onego czasu: Rzekł Jezus rzeszom żydowskim: „Ciało moje prawdziwie jest pokarmem, a Krew moja prawdziwie jest napojem”. I tak dalej.
 _
 Homilia świętego Augustyna, Biskupa
@@ -289,7 +289,7 @@ R. I nasyca cię najwyborniejszem zbożem, alleluja.
 Jam jest * chleb żywy, który z nieba zstąpił: jeśliby kto pożywał tego chleba, żyć będzie na wieki, alleluja.
 
 [Lectio Prima]
-!1 Kor 11:27
+!1 Cor 11:27
 v. Ktobykolwiek jadł ten chleb, albo pił kielich Pański niegodnie, będzie winien ciała i krwie Pańskiéj.
 
 [Capitulum Tertia]
@@ -307,7 +307,7 @@ V. Nakarmił je tłustością pszenicy, alleluja.
 R. I nasycił je miodem z opoki, alleluja.
 
 [Capitulum Sexta]
-!1 Kor 11:26
+!1 Cor 11:26
 v. Albowiem ilekroć będziecie ten chleb jedli i kielich pili, śmierć Pańską będziecie opowiadać, aż przyjdzie.
 $Deo gratias
 

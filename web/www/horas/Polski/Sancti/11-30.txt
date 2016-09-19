@@ -20,7 +20,7 @@ Maksymilla, Chrystusowi miła, * wzięła ciało Apostoła, pogrzebała je z won
 Tych, którzy prześladowali sprawiedliwego, * pogrążyłeś w piekle, Panie, a sprawiedliwego pociągnąłeś za sobą na drzewo krzyża.
 
 [Capitulum Vespera]
-!Rz 10:10-11
+!Rom 10:10-11
 v. Bracia: Albowiem sercem bywa wierzono ku sprawiedliwości, a usty się wyznanie dzieje ku zbawieniu. Albowiem Pismo powiada: Wszelki, kto weń wierzy, pohańbiony nie będzie.
 $Deo gratias
 
@@ -50,7 +50,7 @@ R. Nimis confortatus est principatus eorum.
 
 [Lectio1]
 De Epistola beati Pauli Apostoli ad Romanos.
-!Rz 10:4-9
+!Rom 10:4-9
 4 Bo Chrystus koniec zakonu ku sprawiedliwości wszelkiemu wierzącemu.
 5 Albowiem Mojżesz napisał, iż sprawiedliwość, która jest z zakonu, któryby człowiek czynił, w niéj będzie żył.
 6 A sprawiedliwość, która jest z wiary, tak mówi: Nie mów w sercu twojem: Któż wstąpi do nieba? To jest, Chrystusa sprowadzić.
@@ -66,7 +66,7 @@ V. Erant enim piscatores, et ait illis.
 R. Venite post me, faciam vos fieri piscatores hominum.
 
 [Lectio2]
-!Rz 10:10-15
+!Rom 10:10-15
 10 Albowiem sercem bywa wierzono ku sprawiedliwości, a usty się wyznanie dzieje ku zbawieniu.
 11 Albowiem Pismo powiada: Wszelki, kto weń wierzy, pohańbion nie będzie.
 12 Albowiem niemasz różności Żyda i Greczyna; bo tenże Pan wszystkich bogaty na wszystkich, którzy go wzywają.
@@ -83,7 +83,7 @@ passionem.
 R. Aeternae vitae secutus est praemia largientem.
 
 [Lectio3]
-!Rz 10:16-21
+!Rom 10:16-21
 16 Ale nie wszyscy są posłuszni Ewangelii; albowiem Izajasz mówi: Panie! kto wierzył słuchowi naszemu? 
 17 Wiara tedy z słuchania, a słuchanie przez słowo Chrystusowie.
 18 Ale mówię: Zali nie słyszeli? I owszem po wszystkiej ziemi rozszedł się głos ich, i na kraje świata słowa ich.
@@ -171,7 +171,7 @@ R. Qui ambulant vias non bonas, sed post peccata sua.
 
 [Lectio7]
 Czytanie Ewangelii świętej według św. Mateusza
-!Mt 4:18-22
+!Matth 4:18-22
 Onego czasu: Gdy Jezus szedł nad Morzem Galilejskim, ujrzał dwóch braci, Szymona, którego zowią Piotrem, i Andrzeja, brata jego, zapuszczających sieci w morze. I tak dalej.
 _
 Homilia świętego Grzegorza, Papieża
@@ -207,7 +207,7 @@ Maksymilla, Chrystusowi miła, * wzięła ciało Apostoła, pogrzebała je z won
 Tych, którzy prześladowali sprawiedliwego, * pogrążyłeś w piekle, Panie, a sprawiedliwego pociągnąłeś za sobą na drzewo krzyża.
 
 [Capitulum Laudes]
-!Rz 10:10-11
+!Rom 10:10-11
 v. Bracia: Albowiem sercem bywa wierzono ku sprawiedliwości, a usty się wyznanie dzieje ku zbawieniu. Albowiem Pismo powiada: Wszelki, kto weń wierzy, pohańbiony nie będzie.
 $Deo gratias
 
@@ -216,11 +216,11 @@ Concede nobis * hominem justum, redde nobis hominem sanctum: ne interficias~
 hominem Deo carum, justum, mansuetum, et pium.
 
 [Lectio Prima]
-!Rz 10:16-18
+!Rom 10:16-18
 v. Albowiem Izajasz mówi: Panie! kto wierzył słuchowi naszemu? Wiara tedy z słuchania, a słuchanie przez słowo Chrystusowie. Ale mówię: Zali nie słyszeli? I owszem po wszystkiej ziemi rozszedł się głos ich, i na kraje świata słowa ich. [58]
 
 [Capitulum Tertia]
-!Rz 10:10-11
+!Rom 10:10-11
 v. Bracia: Albowiem sercem bywa wierzono ku sprawiedliwości, a usty się wyznanie dzieje ku zbawieniu. Albowiem Pismo powiada: Wszelki, kto weń wierzy, pohańbiony nie będzie.
 $Deo gratias
 
@@ -236,7 +236,7 @@ V. Constitues eos principes super omnem terram.
 R. Memores erunt nominis tui, Domine.
 
 [Capitulum Sexta]
-!Rz 10:12-13
+!Rom 10:12-13
 v. Albowiem niemasz różności Żyda i Greczyna; bo tenże Pan wszystkich bogaty na wszystkich, którzy go wzywają. Albowiem wszelki, którybykolwiek wzywał imienia Pańskiego, zbawion będzie
 $Deo gratias
 
@@ -252,7 +252,7 @@ V. Nimis honorati sunt amici tui Deus.
 R. Nimis confortatus est principatus eorum.
 
 [Capitulum Nona]
-!Rz 10:16-18
+!Rom 10:16-18
 v. Albowiem Izajasz mówi: Panie! kto wierzył słuchowi naszemu? Wiara tedy z słuchania, a słuchanie przez słowo Chrystusowie. Ale mówię: Zali nie słyszeli? I owszem po wszystkiej ziemi rozszedł się głos ich, i na kraje świata słowa ich. [58]
 $Deo gratias
 

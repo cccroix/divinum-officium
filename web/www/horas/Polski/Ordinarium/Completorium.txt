@@ -3,7 +3,7 @@ V. Pobłogosław, ojcze.
 Benedictio. Noc spokojną i koniec doskonały niech nam da Pan wszechmogący. Amen.
 
 #Lectio brevis
-!1 P 5:8-9
+!1 Petri 5:8-9
 Bracia: Trzeźwymi bądźcie, a czujcie: boć przeciwnik wasz djabeł jako lew ryczący krąży, szukając, kogoby pożarł: któremu się sprzeciwiajcie mocni w wierze.
 $Tu autem
 
@@ -40,7 +40,7 @@ Królujący po wszystek wiek.
 Amen.
 
 #Capitulum Responsorium Versus
-!Jr 14:9
+!Joann 14:9
 v. Tyś jest między nami, Panie, a imienia twego wzywano nad nami: nie opuszczajże nas, Panie, nasz Boże.
 R. Bogu niech będą dzięki.
 _

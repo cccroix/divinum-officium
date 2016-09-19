@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 Z Dziejów Apostolskich
-!Dz 15:5-12
+!Act 15:5-12
 5 A powstali niektórzy z sekty Pharyzeuszów, którzy uwierzyli, mówiąc: Iż je potrzeba obrzezać, rozkazać téż, żeby zachowali zakon Mojżeszów.
 6 I zebrali się Apostołowie i starsi, wejrzeć w to słowo.
 7 A gdy było wielkie gadanie, wstawszy Piotr, rzekł do nich: Mężowie bracia! wy wiecie, że od dawnych dni Bóg obrał między nami, aby przez usta moje poganie słuchali słowa Ewangelii i wierzyli.
@@ -19,7 +19,7 @@ Z Dziejów Apostolskich
 12 I umilknęło wszystko zgromadzenie, a słuchali Barnabasza i Pawła, opowiadających, jako wielkie znaki i cuda czynił Bóg między pogany przez nie.
 
 [Lectio2]
-!Dz 15:13-21
+!Act 15:13-21
 13 A gdy umilknęli, odpowiedział Jakób, mówiąc: Mężowie bracia! słuchajcie mię.
 14 Symon powiedział, jako pierwéj nawiedził Bóg, aby z poganów wziął lud imieniowi swemu.
 15 A z tem się zgadzają słowa proroków, jako jest napisano:
@@ -31,7 +31,7 @@ Z Dziejów Apostolskich
 21 Albowiem Mojżesz od dawnych czasów ma w każdem mieście te, którzy go opowiadają w bóżnicach, gdzie na każdy szabbat czytają.
 
 [Lectio3]
-!Dz 15:22-29
+!Act 15:22-29
 22 Tedy się podobało Apostołom i starszym, ze wszystkim kościołem wybrać męże z siebie i posłać do Antyochii z Pawłem i Barnabaszem: Judę, którego zwano Barsabaszem, i Sylę, męże przedniejsze między bracią.
 23 Napisawszy przez ręce ich: Apostołowie i starsi bracia tym, którzy są w Antyochii i w Syryi i w Cylicyi, braci, którzy są z poganów, zdrowia.
 24 Gdyżeśmy słyszeli, iż niektórzy z nas wyszedłszy, zatrwożyli was słowy, przewracając dusze wasze, którymeśmy nie rozkazali:

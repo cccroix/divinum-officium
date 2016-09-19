@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 Początek Księgi Dziejów Apostolskich
-!Dz 1:1-8
+!Act 1:1-8
 1 Pierwsząm mowę uczynił, o Theophile! o wszystkiem, co począł Jezus czynić i uczyć,
 2 Aż do dnia, którego rozkazawszy Apostołom przez Ducha Świętego, które obrał, wzięt jest.
 3 Którym téż siebie samego po swéj męce stawił żywym w rozmaitych dowodziech, przez czterdzieści dni się im ukazując, i mówiąc o królestwie Bożem.
@@ -19,7 +19,7 @@ Początek Księgi Dziejów Apostolskich
 8 Ale oweźmiecie moc Ducha Świętego, który przyjdzie na was, i będziecie mi świadkami w Jeruzalem i we wszystkiéj Żydowskiéj ziemi i w Samaryi i aż na kraj ziemie. 
 
 [Lectio2]
-!Dz 1:9-14
+!Act 1:9-14
 9 A to rzekłszy, gdy oni patrzali, podniesion jest, a obłok wziął go od oczu ich. 
 10 A gdy pilnie patrzali za nim do nieba idącym, oto dwaj mężowie stanęli przy nich w białem odzieniu,
 11 Którzy téż rzekli: Mężowie Galilejscy! czemu stoicie patrząc w niebo? ten Jezus, który wzięt jest od was do nieba, tak przyjdzie, jakoście go widzieli idącego do nieba.
@@ -28,7 +28,7 @@ Początek Księgi Dziejów Apostolskich
 14 Ci wszyscy trwali jednomyślnie na modlitwie z niewiastami i z Maryą, matką Jezusową, i z bracią jego.
 
 [Lectio3]
-!Dz 1:15-26
+!Act 1:15-26
 15 W one dni powstawszy Piotr w pośród braciéj, rzekł: (a był poczet osób wespółek jakoby sto dwadzieścia),
 16 Mężowie bracia, musiałoć się wypełnić Pismo, które opowiedział Duch Święty przez usta Dawidowe, o Judaszu, (który był wodzem tych, co poimali Jezusa,) 
 17 Który był policzony z nami, i dostała mu się cząstka tego usługowania.

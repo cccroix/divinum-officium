@@ -8,7 +8,7 @@ No secunda vespera
 
 [Lectio1]
 Z Pieśni nad Pieśniami
-!Pnp 7:1-5
+!Cant 7:1-5
 1 Cóż ujrzysz na Sulamitce? jedno ufy wojenne. Jakoż są piękne kroki twoje w trzewikach, córko książęca! stawy udów twoich są jako zawieszenia, urobione ręką rzemieślnika.
 2 Pępek twój jako czasza toczona, która nigdy nie jest bez napoju: brzuch twój jako bróg pszenice osadzony liliami.
 3 Dwie piersi twoje jako dwoje małych bliźniąt sarnich.
@@ -16,7 +16,7 @@ Z Pieśni nad Pieśniami
 5 Głowa twoja jako Karmel, a warkocze głowy twojéj jako szarłat królewski zwiniony na cewki.
 
 [Lectio2]
-!Pnp 7:6-13
+!Cant 7:6-13
 6 Jakóżeś piękna, i jako wdzięczna, najmilsza, w rozkoszach!
 7 Twój wzrost podobny jest palmie, a piersi twoje gronom winnym.
 8 Rzekłem: Wstąpię na palmę i uchwycę owoce jéj: a będą piersi twoje jako grona winnice, a wonność ust twoich jako jabłek.
@@ -27,7 +27,7 @@ Z Pieśni nad Pieśniami
 13 Mandragory dały wonność: w bramach naszych wszelakie jabłka, nowe i stare, miły mój! zachowałam tobie.
 
 [Lectio3]
-!Pnp 8:1-4
+!Cant 8:1-4
 1 Któż mi da ciebie, brata mego, ssącego piersi matki mojéj, abych cię nalazła na dworze, i całowała cię, a jużby mię żaden nie wzgardził?
 2 Poimam cię, i wyprowadzę do domu matki mojéj, tam mię będziesz uczył: a dam ci pełną z wina przyprawnego, i moszczu z jabłek granatowych moich.
 3 Lewica jego pod głową, moją, a prawica jego obłapi mię.

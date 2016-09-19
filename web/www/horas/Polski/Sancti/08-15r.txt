@@ -48,7 +48,7 @@ po nieskończone wieki.
 Amen.
 
 [Capitulum Vespera]
-!Jdt 13:22-23
+!Judith 13:22-23
 v. Ubłogosławił cię Pan w mocy swojej, iż przez cię wniwecz obrócił nieprzyjadoły nasze. Błogosławionaś ty, córko, od Pana Boga wysokiego nade wszytkie niewiasty na ziemi.
 $Deo gratias
 
@@ -117,7 +117,7 @@ R. W którem Król królów na gwiaździstym zasiada tronie.
 
 [Lectio1]
 Z Księgi Rodzaju
-!Rdz 3:9-15
+!Gen 3:9-15
 9 I zawołał Pan Bóg Adama, i rzekł mu: Gdzieżeś?
 10 Który odpowiedział: Usłyszałem twój głos w raju, i zlękłem się, przeto, żem jest nagi, i skryłem się.
 11 Któremu rzekł: A któż ci pokazał, żeś jest nagim, jedno żeś jadł z drzewa, z któregom ci rozkazał abyś nie jadł?
@@ -133,7 +133,7 @@ V. Któraż to jest, która wstępuje przez puszczą jako promień dymu z wonnyc
 R. I jak dzień wiosenny otaczały ją kwiaty róż i lilie padolne
 
 [Lectio2]
-!1 Kor 15:20-26
+!1 Cor 15:20-26
 20 Lecz teraz Chrystus zmartwychwstał, pierwiastki tych, którzy zasnęli. 
 21 Ponieważ przez człowieka śmierć, i przez człowieka powstanie umarłych. 
 22 A jako w Adamie wszyscy umierają, tak i w Chrystusie wszyscy ożywieni będą.
@@ -149,7 +149,7 @@ V. I jako cynamon i balsam aromatyczny.
 R. Wydałam zapach przyjemny.
 
 [Lectio3]
-!1 Kor 15:53-57
+!1 Cor 15:53-57
 53 Boć musi to skazitelne przyoblec nieskazitelność: i to śmiertelne przyoblec nieśmiertelność.
 54 A gdy to śmiertelne przyoblecze nieśmiertelność, tedy się stanie mowa, która jest napisana: Pożarta jest śmierć w zwycięstwie. 
 55 Gdzie jest zwycięstwo twe, o śmierci? Gdzież jest, śmierci! oścień twój?
@@ -186,7 +186,7 @@ Jako że rzeczywiście Kościół powszechny przez wieki manifestował swoją wi
 
 [Lectio7]
 Czytanie Ewangelii świętej według Łukasza
-!Łk 1:41-50
+!Luc 1:41-50
 Onego czasu: Napełnioną została Elżbieta Duchem Świętym i zawołała głosem wielkim, mówiąc: „Błogosławionaś Ty między niewiastami”. I tak dalej.
 _
 Homilia świętego Piotra Kanizjusza, Kapłana
@@ -274,7 +274,7 @@ V. Marja wzięta jest do Nieba, radują się Aniołowie.
 R. Wychwalając błogosławią Pana.
 
 [Capitulum Sexta]
-!Jdt 13:24-25
+!Judith 13:24-25
 v. Błogosławiony Pan, który dziś imię twoje uwielbił, że nie odejdzie chwała twoja z ust ludzi.
 $Deo gratias
 
@@ -290,7 +290,7 @@ V. Marja Dziewica wzięta jest do niebieskiego mieszkania.
 R. W którem Król królów na gwiaździstym zasiada tronie.
 
 [Capitulum Nona]
-!Jdt 15:10
+!Judith 15:10
 v. Tyś sława Jeruzalem, tyś wesele Izraelskie, tyś cześć ludu naszego,
 $Deo gratias
 

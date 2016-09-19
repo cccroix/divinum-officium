@@ -7,7 +7,7 @@ Feria Te Deum
 
 [Lectio1]
 Z Księgi Apokalipsy św. Jana Apostoła
-!Ap 22:1-7
+!Apoc 22:1-7
 1 I ukazał mi rzekę wody żywota, jasną jako kryształ, wychodzącą z stolice Bożéj i Barankowéj.
 2 W pośród ulice jego i z obu stron rzeki drzewo żywota, rodzące owoców dwanaście, na każdy miesiąc podawając owoc swój, a liście drzewa ku zdrowiu poganów.
 3 I nie będzie więcéj żadne przeklęctwo; ale stolica Boża i Barankowa w niem będą, a słudzy jego służyć mu będą,
@@ -17,7 +17,7 @@ Z Księgi Apokalipsy św. Jana Apostoła
 7 A oto przychodzę rychło. Błogosławiony, który zachowywa słowa proroctwa ksiąg tych.
 
 [Lectio2]
-!Ap 22:8-12
+!Apoc 22:8-12
 8 A ja Jan, którym słyszał i widział to. A gdym słyszał i widział, upadłem, abym się pokłonił przed nogami Anioła, który mi to pokazował,
 9 I rzekł mi: Patrz, żebyś nie czynił; bom jest spółsługa twój, i braci twéj proroków i tych, co chowają słowa proroctwa ksiąg tych. Bogu się kłaniaj.
 10 I rzekł mi: Nie pieczętuj słów proroctwa ksiąg tych; albowiem czas blizko jest.
@@ -25,7 +25,7 @@ Z Księgi Apokalipsy św. Jana Apostoła
 12 Oto przychodzę rychło, a zapłata moja zemną jest, abym oddał każdemu według uczynków jego.
 
 [Lectio3]
-!Ap 22:13-21
+!Apoc 22:13-21
 13 Jam jest Alpha i Omega, pierwszy i ostatni, początek i koniec.
 14 Błogosławieni, którzy omywają szaty swoje we krwi Barankowéj, aby władza ich była nad drzewem żywota, a żeby weszli przez bramy do miasta.
 15 Na dworze psi i czarownicy i niewstydliwi i mężobójcy i bałwochwalcy i każdy, który miłuje i który czyni kłamstwo.

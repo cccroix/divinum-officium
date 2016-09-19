@@ -68,7 +68,7 @@ R. I napełni go duchem mądrości i rozumienia.
 
 [Lectio7]
 Czytanie Ewangelii świętej według św. Jana
-!J 21:19-24
+!Joann 21:19-24
 Onego czasu: Rzekł Jezus do Piotra: „Pójdź za Mną”. Piotr, obróciwszy się, ujrzał onego ucznia, którego miłował Jezus, idącego za sobą. I tak dalej.
 _
 Homilia świętego Augustyna, Biskupa
@@ -104,7 +104,7 @@ Są z tych, co tu stoją, * którzy nie ukuszą śmierci, aż ujrzą Syna człow
 Ecce puer meus * electus, quem elegi, posui super eum Spiritum meum.
 
 [Capitulum Laudes]
-!Syr 15:1-2
+!Eccl 15:1-2
 v. Kto się Boga boi, będzie czynił dobrze, a kto się trzyma sprawiedliwości, dostanie jej; i zabieży mu jako uczciwa matka.
 $Deo gratias
 
@@ -122,21 +122,21 @@ Ten jest Jan, * który położył się był przy wieczerzy na piersiach Jezusowy
 @Sancti/12-25:Octava
 
 [Lectio Prima]
-!Syr 15:5
+!Eccl 15:5
 v. W pośrzód kościoła otworzy usta jego, i napełni go duchem mądrości i rozumienia, i szatą chwały przyodzieje go.
 
 [Capitulum Tertia]
-!Syr 15:1-2
+!Eccl 15:1-2
 v. Kto się Boga boi, będzie czynił dobrze, a kto się trzyma sprawiedliwości, dostanie jej; i zabieży mu jako uczciwa matka.
 $Deo gratias
 
 [Capitulum Sexta]
-!Syr 15:3
+!Eccl 15:3
 v. Nakarmi go chlebem żywota i rozumienia a wodą mądrości zbawiennej napoi go i umocni się w nim.
 $Deo gratias
 
 [Capitulum Nona]
-!Sir 15:5
+!Eccl 15:5
 v. W pośrzód kościoła otworzy usta jego, i napełni go duchem mądrości i rozumienia, i szatą chwały przyodzieje go.
 $Deo gratias
 
@@ -148,7 +148,7 @@ U Pana * miłosierdzie i obfite u Niego odkupienie.;;129
 Z owocu * żywota Twego posadzę na stolicy Twojej.;;131
 
 [Capitulum Vespera]
-!Syr 15:1-2
+!Eccl 15:1-2
 v. Kto się Boga boi, będzie czynił dobrze, a kto się trzyma sprawiedliwości, dostanie jej; i zabieży mu jako uczciwa matka.
 $Deo gratias
 

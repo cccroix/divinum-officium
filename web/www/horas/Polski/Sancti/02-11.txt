@@ -19,7 +19,7 @@ Błogosławionaś ty, * Panno Marjo, od Pana Boga wysokiego nade wszytkie niewia
 Dziś imię twoje * uwielbił Pan, że nie odejdzie chwała twoja z ust ludzi.;;147
 
 [Capitulum Vespera]
-!Pnp 2:13-14
+!Cant 2:13-14
 v. Wstań, przyjaciółko moja, piękna moja, a przyjdź: gołębico moja, w rozpadlinach skalnych, w maclochu parkanu: ukaż mi oblicze twoje, niechaj głos twój zabrzmi w uszach moich.
 $Deo gratias
 
@@ -84,7 +84,7 @@ R. Dlatego cię błogosławił Bóg na wieki.
 
 [Lectio1]
 Z Przysłów Salomona
-!Prz 8:12-17
+!Prov 8:12-17
 12 Ja, mądrość mieszkam w radzie, a przy myślach ćwiczonych bywam.
 13 Bojaźń Pańska nienawidzi złości:  pychą i hardością, i drogą złą, i usty dwujęzycznemi brzydzę się.
 14 Moja jest rada i prawość, moja jest roztropność, moje jest męstwo.
@@ -99,7 +99,7 @@ V. Widziałem święte miasto Jeruzalem nowe, zgotowane jako oblubienicę ubran�
 R. Oto przybytek Boży z ludźmi.
 
 [Lectio2]
-!Prz 8:18-25
+!Prov 8:18-25
 18 Przy mnie są bogactwa i sława, pyszne majętności i sprawiedliwość.
 19 Lepszy bowiem jest owoc mój niż złoto i kamienie drogie: a urodzaje moje niż śrebro wyborne.
 20 Na drogach sprawiedliwości chodzę, w pośrodku ścieżek sądowych:
@@ -116,7 +116,7 @@ V. Łuk mój położę na obłokach, i będzie znakiem przymierza między wami.
 R. Tak świeci Panna niepokalana.
 
 [Lectio3]
-!Prz 8:34-36; 9:1-5
+!Prov 8:34-36; 9:1-5
 34 Błogosławiony człowiek, który mię słucha: i który czuje u drzwi moich na każdy dzień, i pilnuje u podwojów drzwi moich.
 35 Kto mię najdzie, najdzie żywot i wyczerpnie zbawienie od Pana.
 36 Ale kto przeciw mnie zgrzeszy, obrazi duszę swoję. Wszyscy, którzy mię nienawidzą, kochają się w śmierci.
@@ -214,7 +214,7 @@ Amen.
 Praeclara salutis aurora * ex te, Virgo Maria, exivit sol iustitiae, qui visitavit nos oriens ex alto.
 
 [Lectio Prima]
-!Syr 24:25-26
+!Eccl 24:25-26
 v. We mnie wszelka łaska drogi i prawdy, we mnie wszytka nadzieja żywota i cnoty. Przejdźcie do mnie wszyscy, którzy mnie pragniecie, i najedzcie się owoców moich.
 
 [Capitulum Tertia]
@@ -232,7 +232,7 @@ V. Widziały ją córki Syjońskie.
 R. I za najszczęśliwszą wystawiały.
 
 [Capitulum Sexta]
-!Prz 8:18-19
+!Prov 8:18-19
 v. Przy mnie są bogactwa i sława, pyszne majętności i sprawiedliwość.  Lepszy bowiem jest owoc mój niż złoto i kamienie drogie.
 $Deo gratias
 
@@ -248,7 +248,7 @@ V. We mnie wszelka łaska drogi i prawdy.
 R. We mnie wszytka nadzieja żywota i cnoty
 
 [Capitulum Nona]
-!Syr 24:25-26
+!Eccl 24:25-26
 v. We mnie wszelka łaska drogi i prawdy, we mnie wszytka nadzieja żywota i cnoty.  Przejdźcie do mnie wszyscy, którzy mnie pragniecie, i najedzcie się owoców moich!
 $Deo gratias
 

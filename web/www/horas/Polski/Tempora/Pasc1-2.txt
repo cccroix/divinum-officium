@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 Z Dziejów Apostolskich
-!Dz 2:1-8
+!Act 2:1-8
 1 A gdy się spełniały dni Pięćdziesiątnice, byli wszyscy wespółek na temże miejscu. 
 2 I stał się z prędka z nieba szum, jakoby przypadającego wiatru gwałtownego, i napełnił wszystek dom, gdzie siedzieli.
 3 I ukazały im się rozdzielone języki jakoby ognia, i usiadł na każdym z nich z osobna.
@@ -19,7 +19,7 @@ Z Dziejów Apostolskich
 8 A jakóżeśmy słyszeli każdy z nas swój język, w którymechmy się urodzili?
 
 [Lectio2]
-!Dz 2:14-21
+!Act 2:14-21
 14 A stanąwszy Piotr z jedenaścią, podniósł głos swój i mówił im: Mężowie Żydowscy i wszyscy, którzy mieszkacie w Jeruzalem, niech wam to jawno będzie, a przyjmijcie do uszu słowa moje.   
 15 Albowiem nie są pijani ci, jako wy mniemacie, gdyż jest trzecia godzina na dzień.
 16 Ale to jest, co rzeczono jest przez proroka Joela:
@@ -30,7 +30,7 @@ Z Dziejów Apostolskich
 21 I będzie wszelki, którybykolwiek wzywał imienia Pańskiego, zbawion będzie. 
 
 [Lectio3]
-!Dz 2:22-27
+!Act 2:22-27
 22 Mężowie Izraelscy! Słuchajcie słów tych: Jezusa Nazareńskiego, męża od Boga pochwalonego u was mocami i cudami i znakami, które czynił Bóg przezeń między wami, jako i wy wiecie:
 23 Tego naznaczoną radą i przejrzeniem Bożem wydanego, przez ręce bezbożników umęczywszy, zatraciliście.
 24 Którego Bóg wzbudził rozwiązawszy boleści piekła, jakóż była rzecz niepodobna, aby od niego miał być on zatrzyman.

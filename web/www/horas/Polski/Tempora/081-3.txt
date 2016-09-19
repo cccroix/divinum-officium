@@ -1,6 +1,6 @@
 [Lectio1]
 Z Przysłów Salomona
-!Prz 8:1-6
+!Prov 8:1-6
 1 Izali mądrość nie woła, a roztropność nie podawa głosu swego?
 2 Na wierzchach i wysokich górach, przy drodze, w pośrodku dróg stojąc,
 3 Przy bramach miejskich i w samych drzwiach mówi, rzekąc:
@@ -12,7 +12,7 @@ Z Przysłów Salomona
 @Tempora/081-0:Responsory7
 
 [Lectio2]
-!Prz 8:7-11
+!Prov 8:7-11
 7 Prawdę rozmyślać będzie gardło moje, a wargi moje będą się brzydzić niezbożnością.
 8 Sprawiedliwe są wszystkie powieści moje, niemasz w nich nic krzywego ani przewrotnego.
 9 Proste są rozumnym, i prawe najdującym umiejętność.
@@ -23,7 +23,7 @@ Z Przysłów Salomona
 @Tempora/081-1:Responsory2
 
 [Lectio3]
-!Prz 8:12-17
+!Prov 8:12-17
 12 Ja, mądrość mieszkam w radzie, a przy myślach ćwiczonych bywam.
 13 Bojaźń Pańska nienawidzi złości: pychą i hardością, i drogą złą, i usty dwujęzycznemi brzydzę się.
 14 Moja jest rada i prawość, moja jest roztropność, moje jest męstwo.

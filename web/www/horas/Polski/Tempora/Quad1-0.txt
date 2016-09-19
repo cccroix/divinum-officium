@@ -17,7 +17,7 @@ $Per Dominum
 
 [Lectio1]
 Z Drugiego Listu św. Pawła Apostoła do Koryntian
-!2 Kor 6:1-10
+!2 Cor 6:1-10
 1 A pomagając napominamy, abyście nadaremno łaski Bożej nie przyjęli;
 2 Albowiem mówi: Czasu przyjemnego wysłuchałem cię, a w dzień zbawienia ratowałem cię. Oto teraz czas przyjemny, oto teraz dzień zbawienia.
 3 Nie dawając nikomu żadnego zgorszenia, aby nie było naganione posługowanie nasze. 
@@ -36,7 +36,7 @@ V. We wszystkiem stawmy samych siebie jako sługi Boże w cierpliwości wielkié
 R. Przez broń sprawiedliwości mocy Bożej.
 
 [Lectio2]
-!2 Kor 6:11-16
+!2 Cor 6:11-16
 11 Usta nasze, Korynthowie! otworzone ku wam, serce nasze jest rozszerzone.
 12 Nie jesteście ściśnieni w nas, lecz ściśnieni jesteście w wnętrznościach waszych.
 13 A mając nagrodę, (mówię jako synom), rozprzestrzeńcie się i wy.
@@ -51,7 +51,7 @@ V. Oto teraz czas przyjemny, oto teraz dzień zbawienia: stawmy samych siebie w 
 R. Aby nie było naganione posługowanie nasze.
 
 [Lectio3]
-!2 Kor 7:4-9
+!2 Cor 7:4-9
 4 Pełenem pociechy, nader obfituję weselem w każdem utrapieniu naszem.
 5 Albowiem i gdyśmy przyszli do Macedonii, ciało nasze żadnego odpoczynienia nie miało, aleśmy ucierpieli wszelkie utrapienie: zewnątrz walki, a wewnątrz strachy.
 6 Ale który cieszy uniżone, pocieszył nas, Bóg, przyjściem Tytusowem.
@@ -69,7 +69,7 @@ R. Przepuść, Panie, przepuść ludowi twemu, a nie daj dziedzictwa twego na zg
 
 [Lectio7]
 Czytanie Ewangelii świętej według Mateusza
-!Mt 4:1-11
+!Matth 4:1-11
 Onego czasu: Jezus zawiedziony był na pustynię od Ducha, aby był kuszony przez szatana. A gdy pościł czterdzieści dni i czterdzieści nocy, potem łaknął. I tak dalej.
 _
 Homilia świętego Grzegorza, Papieża
@@ -104,7 +104,7 @@ W duchu pokory, * i z duszą skruszoną przyjmij nas, Panie: a ofiara nasza tak 
 Chwalcie Boga * niebiosa nad niebiosy i wody wszystkie. 
 
 [Capitulum Laudes]
-!2 Kor 6:1-2
+!2 Cor 6:1-2
 v. Bracia: A pomagając napominamy, abyście nadaremno łaski Bożej nie przyjęli; Albowiem mówi: Czasu przyjemnego wysłuchałem cię, a w dzień zbawienia ratowałem cię.
 $Deo gratias
 
@@ -124,7 +124,7 @@ Wtedy Go wziął * djabeł do miasta świętego i postawił Go na ganku kościel
 Nie samym chlebem * żyje człowiek, ale wszelkiem słowem, które pochodzi z ust Bożych.
 
 [Capitulum Sexta]
-!2 Kor 6:2-3
+!2 Cor 6:2-3
 v. Oto teraz czas przyjemny, oto teraz dzień zbawienia. Nie dawając nikomu żadnego zgorszenia, aby nie było naganione posługowanie nasze.
 $Deo gratias
 
@@ -132,7 +132,7 @@ $Deo gratias
 Panu Bogu twemu * kłaniać się będziesz, a Jemu samemu służyć będziesz.
 
 [Capitulum Nona]
-!2 Kor 6:9-10
+!2 Cor 6:9-10
 v. Jako karani, a nie umorzeni; Jako smętni, lecz zawsze weseli; jako ubodzy, a wielu ubogacający; jako nic nie mający, a wszystko mający.
 $Deo gratias
 

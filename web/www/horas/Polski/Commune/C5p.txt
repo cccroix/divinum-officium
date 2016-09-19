@@ -13,7 +13,7 @@ Błogosławiony on sługa, * którego przyszedłszy Pan, znajdzie czuwającego. 
 Sługo dobry i wierny, wnijdź do wesela Pana twego. Alleluja.;;116
 
 [Capitulum Vespera]
-!Syr 31:8-9
+!Eccl 31:8-9
 v. Szczęśliwy mąż, który jest nalezion bez zmazy i który za złotem nie biegał ani ufał w pieniądzach i w skarbiech. Któż jest taki, a będziem go chwalić, abowiem uczynił dziwy w żywocie swoim.
 $Deo gratias
 
@@ -47,7 +47,7 @@ Błogosławiony on sługa, * którego przyszedłszy Pan, znajdzie czuwającego. 
 Sługo dobry i wierny, wnijdź do wesela Pana twego. Alleluja.
 
 [Capitulum Laudes]
-!Syr 31:8-9
+!Eccl 31:8-9
 v. Szczęśliwy mąż, który jest nalezion bez zmazy i który za złotem nie biegał ani ufał w pieniądzach i w skarbiech. Któż jest taki, a będziem go chwalić, abowiem uczynił dziwy w żywocie swoim.
 $Deo gratias
 
@@ -70,7 +70,7 @@ $Per Dominum.
 v. Sprawiedliwego prowadził Pan drogami prostemi, i ukazała mu królestwo Boże, i dała mu poznanie świętych: uczciła go w pracach i napełniła prace jego.
 
 [Capitulum Tertia]
-!Syr 31:8-9
+!Eccl 31:8-9
 v. Szczęśliwy mąż, który jest nalezion bez zmazy i który za złotem nie biegał ani ufał w pieniądzach i w skarbiech. Któż jest taki, a będziem go chwalić, abowiem uczynił dziwy w żywocie swoim.
 $Deo gratias
 
@@ -86,7 +86,7 @@ V. Usta sprawiedliwego będą rozmyślać mądrość. Alleluja.
 R. A język jego będzie mówił sąd. Alleluja.
 
 [Capitulum Sexta]
-!Syr 39:6
+!Eccl 39:6
 v. Sprawiedliwy obróci serce swe, aby wstawał rano do Pana, który go stworzył, a przed oczyma Nawyższego modlić się będzie.
 $Deo gratias
 

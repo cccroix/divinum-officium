@@ -16,7 +16,7 @@ Każda góra i pagórek * będzie poniżony: i będą krzywe prostemi, i	ostre d
 Żyjmy sprawiedliwie * i pobożnie, oczekując błogosławionej nadziei i przyjścia Pana.
 
 [Capitulum Vespera]
-!Flp 4:4-5
+!Phil 4:4-5
 v. Bracia: Weselcie się zawsze w Panu: powtóre mówię weselcie się: skromność wasza niech będzie wiadoma wszystkim ludziom: Pan bowiem blisko jest.
 $Deo gratias
 
@@ -29,7 +29,7 @@ $Qui vivis
 
 [Lectio1]
 De Isaia Propheta
-!Iz 26:1-6
+!Isai 26:1-6
 1 W on dzień będą śpiewać tę pieśń w ziemi Judzkiéj:
 2 Miasto mocy naszéj Syon zbawiciel, będzie w nim położony mur i przedmurze.
 3 Otwórzcie bramy, a niech wnidzie naród sprawiedliwy, strzegający prawdy.
@@ -38,14 +38,14 @@ De Isaia Propheta
 6 Bo zniży mieszkające na wysokości: miasto wywyższone poniży, poniży je aż na ziemię, ściągnie je aż do prochu.
 
 [Lectio2]
-!Iz 26:7-10
+!Isai 26:7-10
 7 Ścieżka sprawiedliwego prosta jest, prosta droga sprawiedliwego na chodzenie.
 8 A na ścieżce sądów twoich, Panie, czekaliśmy na cię; imię twoje i pamiątka twoja w żądzy dusze.
 9 Dusza moja żądała cię w nocy, ale i duchem moim we wnętrznościach moich z rana będę czuł do ciebie: gdy uczynisz sądy twoje na ziemi, sprawiedliwości się nauczą obywatele świata.
 10 Zmiłujmy się nad niezbożnym, a nie nawyknie sprawiedliwości: w ziemi świętych nieprawość czynił, i nie ogląda chwały Pańskiéj.
 
 [Lectio3]
-!Iz 26:11-14
+!Isai 26:11-14
 11 Panie! niech się wywyższy ręka twoja, a niechaj nie widzą, niech ujrzą a zawstydzą się zawisni ludzie: a ogień niech pożre nieprzyjacioły twoje.
 12 Panie! dasz nam pokój; bo wszystkie uczynki nasze sprawiłeś nam.
 13 Panie, Boże nasz! opanowali nas panowie oprócz ciebie: tylko w tobie niechaj pamiętamy na imię twoje.
@@ -53,7 +53,7 @@ De Isaia Propheta
 
 [Lectio7]
 Czytanie Ewangelii świętej według św. Jana
-!J 1:19-28
+!Joann 1:19-28
 Onego czasu: Żydzi z Jerozolimy wysłali do Jana kapłanów i lewitów, aby go zapytali: „Kim jesteś?” I tak dalej.
 _
 Homilia świętego Grzegorza, Papieża
@@ -76,7 +76,7 @@ Każda góra i pagórek * będzie poniżony: i będą krzywe prostemi, i	ostre d
 Żyjmy sprawiedliwie * i pobożnie, oczekując błogosławionej nadziei i przyjścia Pana.
 
 [Capitulum Laudes]
-!Flp 4:4-5
+!Phil 4:4-5
 v. Bracia: Weselcie się zawsze w Panu: powtóre mówię weselcie się: skromność wasza niech będzie wiadoma wszystkim ludziom: Pan bowiem blisko jest.
 $Deo gratias
 
@@ -84,17 +84,17 @@ $Deo gratias
 Na stolicy * Dawida, i na królestwie jego siedzieć będzie na wieki, alleluja.
 
 [Capitulum Tertia]
-!Flp 4:4-5
+!Phil 4:4-5
 v. Weselcie się zawsze w Panu; powtóre mówię: weselcie się. Skromność wasza niech będzie wiadoma wszystkim ludziom: Pan blizko jest.
 $Deo gratias
 
 [Capitulum Sexta]
-!Flp 4:6
+!Phil 4:6
 v. Nie troszczcież się niocz; ale we wszelkiej modlitwie i prośbie z dziękowaniem niech żądania wasze będą u Boga oznajmione.
 $Deo gratias
 
 [Capitulum Nona]
-!Flp 4:7
+!Phil 4:7
 v. A pokój Boży, który przewyższa wszelki zmysł, niechaj strzeże serc waszych i myśli waszych w Chrystusie Jezusie.
 $Deo gratias
 

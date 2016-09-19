@@ -1,6 +1,6 @@
 [Lectio1]
 Początek Przysłów Salomona
-!Prz 1:1-6
+!Prov 1:1-6
 1 Przypowieści Salomona, syna Dawidowego, króla Izraelskiego.
 2 Dla nawyknienia mądrości i ćwiczenia: 
 3 Dla wyrozumienia słów roztropnych, i dla przyjęcia ćwiczenia nauki, sprawiedliwości i sądu i prawości:
@@ -9,7 +9,7 @@ Początek Przysłów Salomona
 6 Wyrozumie przypowieść i wykład, słowa mądrych i gadki ich.
 
 [Lectio2]
-!Prz 1:7-14
+!Prov 1:7-14
 7 Bojaźń Pańska początek mądrości: mądrością i nauką głupi gardzą. 
 8 Słuchaj, synu mój! ćwiczenia ojca twego, a nie opuszczaj zakonu matki twojéj:
 9 Aby była przydana łaska głowie twojéj, a łańcuch szyi twojéj.
@@ -20,7 +20,7 @@ Początek Przysłów Salomona
 14 Puść los z nami, mieszek jeden niech będzie wszystkich nas.
 
 [Lectio3]
-!Prz 1:15-19
+!Prov 1:15-19
 15 Synu mój! nie chódź z nimi, powściągnij nogę twoję od ścieżek ich.
 16 Albowiem nogi ich bieżą ku złemu, i kwapią się, aby krew przelali.
 17 Ano próżno zarzucają sieć przed oczyma skrzydlastych.

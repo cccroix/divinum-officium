@@ -7,7 +7,7 @@ Una Antiphona
 StJamesRule=Jas
 
 [Capitulum Vespera]
-!Jk 1:17
+!Joann 1:17
 v. Najmilsi: Wszelki datek dobry i wszelki dar doskonały z wysoka jest, zstępujący od Ojca światłości, u którego niemasz odmiany, ani zaćmienia przemiany.
 $Deo gratias
 
@@ -20,7 +20,7 @@ $Per Dominum
 
 [Lectio1]
 Początek Listu św. Jakuba Apostoła
-!Jk 1:1-6
+!Joann 1:1-6
 1 Jakób, Boży i Pana naszego Jezusa Chrystusa sługa, dwiemanaście pokoleniom, ktore są w rozproszeniu, zdrowia.
 2 Za wszelką radość poczytajcie, bracia moi! gdy w rozmaite pokusy wpadniecie.
 3 Wiedząc, iż doświadczenie wiary waszéj sprawuje cierpliwość. 
@@ -35,7 +35,7 @@ V. Nad rzekami Babilońskiéj ziemie, tameśmy siedzieli i płakali: gdyśmy wsp
 R. Niechaj przyschnie język mój do podniebienia mego, jeźlibym na cię nie pomniał, alleluja, alleluja.
 
 [Lectio2]
-!Jk 1:6-11
+!Joann 1:6-11
 6 Bo kto wątpi, podobny jest wału morskiemu, którego wiatr wzrusza i tam i sam nosi. 
 7 Przetóż niech on człowiek nie mniema, aby co miał wziąć od Pana.
 8 Mąż umysłu dwoistego niestateczny jest we wszech drogach swoich.
@@ -50,7 +50,7 @@ V. Oświeciły błyskawice twoje okrąg ziemie: ujrzała i zadrżała ziemia.
 R. Wielkość szumu wód: obłoki głos wypuściły, alleluja, alleluja, alleluja.
 
 [Lectio3]
-!Jk 1:12-16
+!Joann 1:12-16
 12 Błogosławiony mąż, który zdzierża pokusę; bo gdy będzie doświadczony, weźmie koronę żywota, którą obiecał Bóg tym, którzy go miłują. 
 13 Żaden, gdy bywa kuszon, niech nie mówi, że od Boga bywa kuszon; albowiem Bóg nie jest kusiciel złych, a sam nikogo nie kusi.
 14 Lecz każdy bywa kuszony, od własnéj pożądliwości pociągniony i przynęcony.
@@ -87,7 +87,7 @@ R. Jakoż mamy śpiewać pieśń Pańską * w cudzéj ziemi? alleluja, alleluja.
 
 [Lectio7]
 Czytanie Ewangelii świętej według Jana
-!J 16:5-14
+!Joann 16:5-14
 Onego czasu: Rzekł Jezus uczniom swoim: „Teraz idę do Tego, który Mnie posłał, i nikt z was nie pyta Mnie: »Dokąd idziesz?«” I tak dalej.
 _
 Homilia świętego Augustyna, Biskupa
@@ -118,12 +118,12 @@ R. I śpiewać, alleluja.
 @:Capitulum Vespera
 
 [Capitulum Sexta]
-!Jk 1:19-20
+!Joann 1:19-20
 v. Wiecie, bracia moi najmilsi! Niech wszelki człowiek będzie prędki ku słuchaniu, a leniwy ku mówieniu, i leniwy ku gniewowi. Bo gniew męża nie sprawuje sprawiedliwości Bożéj.
 $Deo gratias
 
 [Capitulum Nona]
-!Jk 1:21
+!Joann 1:21
 v. Przeto odrzuciwszy wszelakie plugastwo i obfitość złości, przyjmijcie w cichości słowo wszczepione, które może zbawić dusze wasze.
 $Deo gratias
 

@@ -17,7 +17,7 @@ Królowie wszedłszy w dom, * naleźli dziecię z Maryą, matką jego.;;126
 Ojciec jego * i matka dziwowali się temu, co o nim mówiono.;;147
 
 [Capitulum Vespera]
-!Łk 2:51
+!Luc 2:51
 v. I zstąpił Jezus z Marją i Józefem i przyszedł do Nazaret: a był im poddany.
 $Deo gratias
 
@@ -153,7 +153,7 @@ R. A będąc wywyższony, jestem poniżony i zatrwożony.
 
 [Lectio1]
 Z Listu św. Pawła Apostoła do Kolosan
-!Kol 3:12-16
+!Col 3:12-16
 12 Przyobleczcież się tedy jako wybrani Boży, święci i umiłowani we wnętrzności miłosierdzia, w dobrotliwość, w pokorę, w cichość, w cierpliwość.
 13 Jedni drugich znosząc i odpuszczając sobie, jeźli kto ma skargę przeciw komu: jako i Pan odpuścił wam, tak i wy.
 14 A nad to wszystko miejcie miłość, która jest związką doskonałości.
@@ -167,7 +167,7 @@ V. Ten wynalazł wszytkę drogę umiejętności i podał ją Jakubowi, słudze s
 R. I z ludźmi obcował.
 
 [Lectio2]
-!Kol 3:17-21
+!Col 3:17-21
 17 Wszystko, cokolwiek czynicie w słowie albo w uczynku, wszystko w imię Pana Jezusa Chrystusa, dziękując Bogu i Ojcu przezeń.
 18 Żony bądźcie poddane mężom, jako ma być, w Panu.
 19 Mężowie! miłujcie żony wasze, a nie bądźcie gorzkimi przeciwko nim.
@@ -181,7 +181,7 @@ V. Na wieki wieków chwalić Cię będą.
 R W domu Twoim, Panie.
 
 [Lectio3]
-!Kol 3:22-25; 4:1-2
+!Col 3:22-25; 4:1-2
 22 Słudzy! bądźcie posłuszni we wszystkiem panom wedle ciała, nie służąc na oko, jakoby ludziom się podobając, ale w szczerości serca, Boga się bojąc.
 23 Cokolwiek czynicie, z serca czyńcie, jako Panu, a nie ludziom,
 24 Wiedząc, iż od Pana weźmiecie odpłatę dziedzictwa. Panu Chrystusowi służcie.
@@ -230,7 +230,7 @@ R. Przyjąwszy postać sługi.
 
 [Lectio7]
 Czytanie Ewangelii świętej według św. Łukasza
-!Łk 2:42-52
+!Luc 2:42-52
 Gdy Jezus miał lat dwanaście, udali się do Jerozolimy według zwyczaju onego święta. A po upływie dni, gdy wracali, zostało Dziecię Jezus w Jerozolimie, a nie wiedzieli o tym Rodzice Jego. I tak dalej.
 _
 Homilia świętego Bernarda, Opata
@@ -266,7 +266,7 @@ A Jezus się pomnażał * w mądrości i w leciech i w łasce u Boga i u ludzi.
 I mówili: * skądże temu ta mądrość i cuda, czyż ten nie jest syn rzemieślniczy?
 
 [Capitulum Laudes]
-!Łk 2:51
+!Luc 2:51
 v. I zstąpił Jezus z Marją i Józefem i przyszedł do Nazaret: a był im poddany.
 $Deo gratias
 
@@ -320,11 +320,11 @@ R. A obfitość pokoju synom twoim.
 Oświeć nas, Panie, * przez przykład świętej Rodziny Twojej, i prowadź nogi nasze na drogi pokoju.
 
 [Lectio Prima]
-!Flp 2:7
+!Phil 2:7
 v. Ale wyniszczył samego siebie, przyjąwszy postać sługi, stawszy się na podobieństwo ludzi, i postawą naleziony jako człowiek.
 
 [Capitulum Tertia]
-!Łk 2:51
+!Luc 2:51
 v. I zstąpił Jezus z Marją i Józefem i przyszedł do Nazaret: a był im poddany.
 $Deo gratias
 
@@ -340,7 +340,7 @@ V. Pan dróg swoich nauczy nas.
 R. I będziemy chodzić ścieżkami jego.
 
 [Capitulum Sexta]
-!Rz 5:19
+!Rom 5:19
 v. Bo jako przez nieposłuszeństwo jednego człowieka wiele ich stało się grzesznymi, tak i przez posłuszeństwo jednego wiele ich stanie się sprawiedliwymi.
 $Deo gratias
 
@@ -356,7 +356,7 @@ V. Jamci jest ubogi, i w pracach od młodości mojéj.
 R. A będąc wywyższony, jestem poniżony i zatrwożony.
 
 [Capitulum Nona]
-!Flp 2:7
+!Phil 2:7
 v. Ale wyniszczył samego siebie, przyjąwszy postać sługi, stawszy się na podobieństwo ludzi, i postawą naleziony jako człowiek.
 $Deo gratias
 

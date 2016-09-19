@@ -16,7 +16,7 @@ Od wschodu słońca * aż do zachodu chwalebne Imię Pańskie.
 Tobie ofiaruję * ofiarę chwały, a Imienia Pańskiego wzywać będę.
 
 [Capitulum Vespera]
-!Flp 2:8-10
+!Phil 2:8-10
 v. Bracia, Chrystus się poniżył, stawszy się posłusznym aż do śmierci, a śmierci krzyżowej. Dlatego i Bóg wywyższył go i darował Mu Imię, które jest nad wszelkie imię. Aby na Imię Jezusowe, wszelkie kolano klękało.
 $Deo gratias
 
@@ -107,7 +107,7 @@ R. Przynoście Panu chwałę imieniowi jego.
 
 [Lectio1]
 Z Dziejów Apostolskich
-!Dz 3:1-8
+!Act 3:1-8
 1 A Piotr i Jan wstępowali do kościoła na godzinę modlitwy dziewiątą.
 2 A niektóry mąż, który był chromy z żywota matki swéj, był noszon, którego na każdy dzień kładziono u drzwi kościelnych, które zowią ozdobne, aby prosił jałmużny u tych, którzy do kościoła wchodzili.
 3 Ten, ujrzawszy Piotra i Jana poczynające wchodzić do kościoła, prosił, aby wziął jałmużnę.
@@ -124,7 +124,7 @@ V. Nazwanym jest imię jego Jezus, którym był nazwany od Anioła, pierwéj ni�
 R. Albowiem on zbawi lud swój od grzechów ich.
 
 [Lectio2]
-!Dz 3:9-16
+!Act 3:9-16
 9 I widział go wszystek lud chodzącego i Boga chwalącego.
 10 A znali go, iż on był, który dla jałmużny siadał u drzwi ozdobnych kościelnych, i napełnieni byli zdumienia i zapamiętania z tego, co się mu wydarzyło.
 11 A gdy się trzymał się Piotra i Jana, przybiegł wszystek lud do nich do krużganku, który zowią Salomonowym, zdumiawszy się.
@@ -141,7 +141,7 @@ V. I błogosławione imię majestatu twego na wieki, który dziwy czynisz.
 R. A czasu utrapienia grzechy odpuszczasz.
 
 [Lectio3]
-!Dz 4:5-12
+!Act 4:5-12
 5 I stało się nazajutrz, że się zebrali przełożeni ich i starsi i Doktorowie w Jeruzalem.
 6 I Annasz, najwyższy kapłan, i Kajphasz i Jan i Alexander, i ile ich jedno było z rodu kapłańskiego.
 7 A stawiwszy je w pośrodku, pytali: Którą mocą albo którem imieniem wyście to uczynili?
@@ -181,7 +181,7 @@ R. Którzy miłują imię twoje.
 
 [Lectio7]
 Czytanie Ewangelii świętej według św. Łukasza
-!Łk 2:21
+!Luc 2:21
 Onego czasu: Gdy upłynęło osiem dni, aby obrzezano Dzieciątko, nazwali Je imieniem Jezus, które nadane było przez Anioła pierwej, niż się w łonie poczęło. I tak dalej.
 _
 Homilia świętego Bernarda, Opata
@@ -217,7 +217,7 @@ Błogosławione * święte imię majestatu twego, wychwalone i wywyższone na wi
 Młodzieńcy i panienki: * starzy i młodzi, chwalcie imię Pańskie: * bo wywyższyło się imię jego samego.
 
 [Capitulum Laudes]
-!Flp 2:8-10
+!Phil 2:8-10
 v. Bracia, Chrystus się poniżył, stawszy się posłusznym aż do śmierci, a śmierci krzyżowej. Dlatego i Bóg wywyższył go i darował Mu Imię, które jest nad wszelkie imię. Aby na Imię Jezusowe, wszelkie kolano klękało.
 $Deo gratias
 
@@ -256,11 +256,11 @@ R. Który stworzył niebo i ziemię.
 Ważył się, * aby lud swój wyswobodził, i sobie wieczną sławę zjednał, alleluja.
 
 [Lectio Prima]
-!Kol 3:17
+!Col 3:17
 v. Wszystko, cokolwiek czynicie w słowie albo w uczynku, wszystko w imię Pana Jezusa Chrystusa, dziękując Bogu i Ojcu przezeń.
 
 [Capitulum Tertia]
-!Flp 2:8-10
+!Phil 2:8-10
 v. Bracia, Chrystus się poniżył, stawszy się posłusznym aż do śmierci, a śmierci krzyżowej. Dlatego i Bóg wywyższył go i darował Mu Imię, które jest nad wszelkie imię. Aby na Imię Jezusowe, wszelkie kolano klękało.
 $Deo gratias
 
@@ -276,7 +276,7 @@ V. Przynoście Panu cześć i chwałę, alleluja.
 R. Przynoście Panu chwałę imieniowi jego, alleluja.
 
 [Capitulum Sexta]
-!Flp 2:10-11
+!Phil 2:10-11
 v. Aby na imię Jezusowe wszelkie kolano klękało niebieskich, ziemskich i podziemnych. A iżby wszelkie język wyznawał, iż Pan Jezus Chrystus jest w chwale Boga Ojca.
 $Deo gratias
 
@@ -292,7 +292,7 @@ V. Wielbcie Pana zemną, alleluja.
 R. A wywyższajmy imię jego spółecznie, alleluja.
 
 [Capitulum Nona]
-!Kol 3:17
+!Col 3:17
 v. Wszystko, cokolwiek czynicie w słowie albo w uczynku, wszystko w imię Pana Jezusa Chrystusa, dziękując Bogu i Ojcu przezeń.
 $Deo gratias
 

@@ -11,7 +11,7 @@ Psalmi Dominica;
 
 [Lectio1]
 Czytanie Ewangelii świętej według Mateusza
-!Mt 28:16-20
+!Matth 28:16-20
 Onego czasu: Jedenastu uczniów poszło do Galilei, na górę, gdzie im był nakazał Jezus. I tak dalej.
 _
 Homilia świętego Hieronima, Kapłana

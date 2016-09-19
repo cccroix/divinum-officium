@@ -6,7 +6,7 @@ II Niedziela po Wielkiejnocy;;Semiduplex;;5;;
 Una Antiphona
 
 [Capitulum Vespera]
-!1 P 2:21-22
+!1 Petri 2:21-22
 v. Najmilsi: Chrystus ucierpiał za nas zostawując wam przykład, abyście naśladowali tropów jego.  Który grzechu nie uczynił, ani naleziona była zdrada w uściech jego. 
 $Deo gratias
 
@@ -19,7 +19,7 @@ $Per eumdem
 
 [Lectio1]
 Z Dziejów Apostolskich
-!Dz 13:13-20
+!Act 13:13-20
 13 A puściwszy się wodą z Paphu Paweł i ci, co z nim byli, przyszli do Pergi Pamphilii. A Jan odszedłszy od nich, wrócił się do Jeruzalem.
 14 Ale oni przeszedłszy Pergę, przyszli do Antyochii Pizydejskiéj: a wszedłszy do bóżnice w dzień sobotni, usiedli.
 15 A po przeczytaniu zakonu i proroków, posłali Arcybóżnicy do nich, mówiąc: Mężowie bracia! jeźli macie u siebie mowę napominania do ludu, mówcie.
@@ -30,7 +30,7 @@ Z Dziejów Apostolskich
 20 Jakoby po czterech set i piącidziesiąt lat, a potem dał Sędzię aż do Samuela proroka. 
 
 [Lectio2]
-!Dz 13:21-25
+!Act 13:21-25
 21 A od onego czasu prosili o króla. I dał im Saula, syna Cysa, męża z pokolenia Benjamin, lat czterdzieści.&nbsp
 22 I odjąwszy go, wzbudził im Dawida króla, któremu świadectwo wydawając, powiedział: Nalazłem Dawida, syna Jesse, męża wedle serca mego, który czynić będzie wszystkie woli moje. 
 23 Z tegoż nasienia Bóg według obietnice wywiódł Izraelowi Zbawiciela Jezusa: 
@@ -38,7 +38,7 @@ Z Dziejów Apostolskich
 25 A gdy Jan wypełnił bieg swój, mówił: Kim mię być mniemacie? nie jestem ja, ale oto idzie za mną, którego obuwia nóg nie jestem godzien rozwiązać. 
 
 [Lectio3]
-!Dz 13:26-33
+!Act 13:26-33
 26 Mężowie bracia, synowie narodu Abrahamowego, i którzy między wami boją się Boga, wam jest posłane słowo zbawienia tego.   
 27 Albowiem którzy mieszkali w Jeruzalem, i książęta jego, nie znając tego i głosów prorockich, które przez każdy szabbat czytane bywają, osądziwszy, wypełnili.
 28 A nie znalazłszy w nim przyczyny żadnéj śmierci, prosili Piłata, aby go zabili. 
@@ -50,7 +50,7 @@ Z Dziejów Apostolskich
 
 [Lectio7]
 Czytanie Ewangelii świętej według Jana
-!J 10:11-16
+!Joann 10:11-16
 Onego czasu: Rzekł Jezus do faryzeuszy: „Jam jest pasterz dobry. Dobry pasterz życie swoje daje za owce swoje”. I tak dalej.
 _
 Homilia świętego Grzegorza, Papieża
@@ -67,12 +67,12 @@ Usłyszeliście, najdrożsi bracia, z przeczytanej Ewangelii pouczenie dla was; 
 @:Capitulum Vespera
 
 [Capitulum Sexta]
-!1 P 2:23-24
+!1 Petri 2:23-24
 v. Lecz się podawał niesprawiedliwie sądzącemu; który sam na ciele swem grzechy nasze nosił na drzewie, abyśmy umarłszy grzechom, żyli sprawiedliwości; którego sinością jesteście uleczeni.
 $Deo gratias
 
 [Capitulum Nona]
-!1 P 2:25
+!1 Petri 2:25
 v. Boście byli jako owce błądzące; ale teraz jesteście nawróceni do pasterza i biskupa dusz waszych.
 $Deo gratias
 

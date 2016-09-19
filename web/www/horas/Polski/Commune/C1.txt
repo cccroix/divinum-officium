@@ -13,7 +13,7 @@ Błogosławieni pokój czyniący, * błogosławieni czystego serca: albowiem oni
 W cierpliwości waszej * otrzymacie dusze wasze.;;116
 
 [Capitulum Vespera]
-!Ef 2:19-20
+!Ephes 2:19-20
 v. Bracia: a przeto już nie jesteście gośćmi i przychodniami, aleście mieszczanie z  świętymi i domownicy Boży, wybudowani na fundamencie Apostołów i Proroków, gdzie głównym węgielnym kamieniem Sam Jezus Chrystus,
 $Deo gratias.
 
@@ -105,7 +105,7 @@ R. Bardzo się zmocniło ich panowanie.
 
 [Lectio1]
 Z Pierwszego Listu Św. Pawła Apostoła do Koryntian
-!1Kor 4:1-5
+!1 Cor 4:1-5
 1 Tak niechaj człowiek o nas rozumie jako o sługach Chrystusowych i szafarzach tajemnic Bożych.
 2 Tu już szukają między szafarzmi, aby który nalezion był wiernym.
 3 Ale u mnie to jest najmniejsza, żebych był od was sądzony, albo od dnia ludzkiego; lecz ani sam siebie sądzę.
@@ -119,7 +119,7 @@ V. Póki światłość macie, wierzcie w światłość, abyście byli synami św
 R. Bądźcież tedy mądrymi jako wężowie, a prostymi jako gołębice.
 
 [Lectio2]
-!1Kor 4:6-9
+!1 Cor 4:6-9
 6 A tomci, bracia! obrócił na się i na Apolla dla was, abyście się nauczyli z nas, żeby się nad to, co jest napisano, jeden za drugim nie nadymał przeciwko drugiemu.
 7 Albowiem któż cię rozsądza? A co masz, czegoś nie wziął? A jeźliżeś wziął, przeczże się chlubisz, jakobyś nie wziął?
 8 Jużeście nasyceni, jużeście się bogatymi stali, oprócz nas królujecie: a bodajeście królowali, żebyśmy i my z wami królowali.
@@ -132,7 +132,7 @@ V. A najdziecie odpoczynek duszom waszym.
 R. Albowiem jarzmo moje wdzięczne jest, a brzemię moje lekkie.
 
 [Lectio3]
-!1Kor 4:10-15
+!1 Cor 4:10-15
 10 My głupi dla Chrystusa, a wy roztropni w Chrystusie; myśmy słabi, a wy mocni; wy zacni, a my beze czci.
 11 Aż do téj godziny i łakniemy i pragniemy i nadzy jesteśmy i bywamy policzkowani i tułamy się.
 12 I pracujemy robiąc swemi rękoma. Złorzeczą nam, a błogosławiemy: prześladowanie cierpiemy, a znosimy:
@@ -185,7 +185,7 @@ R. I oznajmiali sprawy jego.
 Wy, którzyście opuścili * wszystko, poszliście za mną, stokroć weźmiecie i żywot wieczny odzierżycie.
 
 [Lectio Prima]
-!Dz 5:41
+!Act 5:41
 v. A oni szli od obliczności rady, radując się, iż się stali godnymi dla imienia Jezusowego zelżywość cierpieć.
 
 [Capitulum Tertia]
@@ -203,7 +203,7 @@ V. Postanowisz ich książętami nad wszystką ziemią.
 R. Będą wspominać Imię Twoje, Panie.
 
 [Capitulum Sexta]
-!Dz 5:12
+!Act 5:12
 v. A przez ręce Apostolskie działo się wiele znaków i cudów między ludem.
 $Deo gratias
 

@@ -20,7 +20,7 @@ Da Mu Pan * stolicę Dawida, Ojca Jego, i będzie królował na wieki. (Alleluia
 Oto ja służebnica Pańska, * niechaj mi się stanie według słowa Twego. (Alleluia.);;147
 
 [Capitulum Vespera]
-!Iz 7:14-15
+!Isai 7:14-15
 v. Oto, panna pocznie i porodzi syna, i nazowią imię jego Emanuel. Masło i miód jeść będzie, aby umiał odrzucać złe i obierać dobre.
 $Deo gratias
 
@@ -43,7 +43,7 @@ Anioł Pański * zwiastował Pannie Maryji, i poczęła z Ducha Świętego. (All
 
 [Lectio1]
 Z Proroka Izajasza
-!Iz 7:10-15
+!Isai 7:10-15
 10 I przydał Pan mówić do Achaz, rzekąc:
 11 Proś sobie znaku od Pana, Boga twego, w głębokość piekielną, albo na wysokość wzgórę.
 12 I rzekł Achaz: Nie będę prosił i nie będę kusił Pana.
@@ -52,7 +52,7 @@ Z Proroka Izajasza
 15 Masło i miód jeść będzie, aby umiał odrzucać złe i obierać dobre.
 
 [Lectio2]
-!Iz 11:1-5
+!Isai 11:1-5
 1 I wynidzie rószczka z korzenia Jessego, a kwiat z korzenia jego wyrośnie.
 2 I odpocznie na nim Duch Pański, duch mądrości i rozumu, duch rady i mocy, duch umiejętności i bogobójności.
 3 I napełni go duch bojaźni Pańskiéj: nie według widzenia oczu sądzić będzie, ani według słyszenia uszu strofować będzie:
@@ -66,7 +66,7 @@ V. Jakóż się to stanie, gdyż męża nie znam? A Aniół odpowiedziawszy, rze
 R. Duch Święty zstąpi na cię, a moc Najwyższego zaćmi tobie. Przetóż i co się z ciebie narodzi święte, będzie nazwano Synem Bożym. (Alleluia.)
 
 [Lectio3]
-!Iz 35:1-7
+!Isai 35:1-7
 1 Rozraduje się pusta i bezdróżna, i rozweseli się pustynia i zakwitnie jako lilia.
 2 Rodząc rodzić będzie, i rozraduje się, weseląc się i chwaląc: chwała Libanu dana jest jéj, ozdoba Karmela i Saron: oni ujrzą chwałę Pańską i ozdobę Boga naszego.
 3 Zmocnijcie ręce opadłe, a kolana zemdlałe posilcie.
@@ -89,7 +89,7 @@ R. I będzie sprawiedliwość pasem biódr jego, a wiara opasaniem nerek jego. (
 
 [Lectio7]
 Czytanie Ewangelii świętej według Łukasza
-!Łk 1:26-38
+!Luc 1:26-38
 Onego czasu: Posłany jest Anioł Gabriel od Boga do miasta galilejskiego, które zwano Nazaret, do Panny poślubionej mężowi, któremu było na imię Józef, z domu Dawidowego, a imię Panny Maryja. I tak dalej.
 _
 Homilia świętego Ambrożego, Biskupa
@@ -134,19 +134,19 @@ Oto ja służebnica Pańska, * niechaj mi się stanie według słowa Twego. (All
 Jakóż się to stanie, * Aniele Boży, gdyż męża nie znam? Słuchaj Maryjo Panno: Duch Święty zstąpi na cię, a moc Najwyższego zaćmi tobie. (Alleluia.)
 
 [Lectio Prima]
-!Iz 11:1-2
+!Isai 11:1-2
 v. I wynidzie rószczka z korzenia Jessego, a kwiat z korzenia jego wyrośnie. I odpocznie na nim Duch Pański.
 
 [Capitulum Tertia]
 @:Capitulum Vespera
 
 [Capitulum Sexta]
-!Lk 1:32-33
+!Luc 1:32-33
 v. Da mu Pan Bóg stolicę Dawida, ojca jego: i będzie królował w domu Jakóbowym na wieki, a królestwa jego nie będzie końca.
 $Deo gratias
 
 [Capitulum Nona]
-!Isa 11:1-2
+!Isai 11:1-2
 v. I wynidzie rószczka z korzenia Jessego, a kwiat z korzenia jego wyrośnie. I odpocznie na nim Duch Pański.
 $Deo gratias
 

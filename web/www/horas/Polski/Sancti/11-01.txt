@@ -17,7 +17,7 @@ Błogosławcie Pana * wszyscy wybrani Jego; obchodźcie dni wesela i wyznawajcie
 Chwała wszystkim świętym Jego, * synom Izraelskim, ludowi przybliżającemu się do Niego: tać jest chwała wszystkim świętym Jego.
 
 [Capitulum Vespera]
-!Apo 7:2-3
+!Apoc 7:2-3
 v. Oto ja, Jan, widziałem drugiego anioła, wstępującego od wschodu słońca, mającego pieczęć Boga żywego, i zawołał głosem wielkim ku czterem Aniołom, którym dano jest szkodzić ziemi i morzu, mówiąc: Nie szkodźcie ziemi i morzu ani drzewom, dopóki nie popieczętujemy sługi Boga na czołach ich.
 $Deo gratias
 
@@ -130,7 +130,7 @@ R. Et apud Dóminum est merces eórum.
 
 [Lectio1]
 De libro Apocalypsis beáti Joánnis Apóstoli.
-!Apo 4:2-8
+!Apoc 4:2-8
 2 Et ecce sedes pósita erat in cælo, et supra sedem sedens.
 3 Et qui sedebat símilis erat aspectui lapidis jaspidis, et sardinis: et iris erat in circúitu sedis símilis visioni smaragdinæ.
 4 Et in circúitu sedis sedilia vigínti quátuor: et super thronos vigínti quátuor seniores sedéntes, circumamicti vestiméntis albis, et in capítibus eórum corónæ aureæ.
@@ -146,7 +146,7 @@ V. Séraphim stabant super illud: sex alæ uni, et sex alæ álteri.
 R. Et ea quæ sub ipso erant, replebant templum.
 
 [Lectio2]
-!Apo 5:1-8
+!Apoc 5:1-8
 1 Et vidi in déxtera sedentis supra thronum, librum scriptum intus et foris, signátum sigillis septem.
 2 Et vidi angelum fortem, prædicantem voce magna: Quis est dignus aperire librum, et sólvere signácula ejus?
 3 Et nemo póterat neque in cælo, neque in terra, neque subtus terram aperire librum, neque respicere illum.
@@ -163,7 +163,7 @@ V. Ave María, grátia plena, Dóminus tecum.
 R. Intercede pro nobis ad Dóminum Deum nóstrum.
 
 [Lectio3]
-!Apo 5:9-14
+!Apoc 5:9-14
 9 et cantabant cánticum novum, dicéntes: Dignus es, Dómine, accípere librum, et aperire signácula ejus: quóniam occísus es, et redemísti nos Deo in sánguine tuo ex omni tribu, et lingua, et pópulo, et natióne:
 10 et fecísti nos Deo nostro regnum, et sacerdótes: et regnabimus super terram.
 11 Et vidi, et audívi vocem angelórum multórum in circúitu throni, et animalium, et seniórum: et erat númerus eórum míllia millium,
@@ -212,7 +212,7 @@ R. Mercédem labóris ego reddam vobis.
 
 [Lectio7]
 Léctio sancti Evangélii secúndum Matthæum.
-!Matt 5:1-12
+!Matth 5:1-12
 In illo témpore: Videns Jesus turbas, ascéndit in montem, et cum sedisset, accesserunt ad eum discipuli ejus. Et réliqua.
 _
 Homilía sancti Augustíni Epíscopi.
@@ -248,7 +248,7 @@ Błogosławcie Pana * wszyscy wybrani Jego; obchodźcie dni wesela i wyznawajcie
 Chwała wszystkim świętym Jego, * synom Izraelskim, ludowi przybliżającemu się do Niego: tać jest chwała wszystkim świętym Jego.
 
 [Capitulum Laudes]
-!Apo 7:2-3
+!Apoc 7:2-3
 v. Oto ja, Jan, widziałem drugiego anioła, wstępującego od wschodu słońca, mającego pieczęć Boga żywego, i zawołał głosem wielkim ku czterem Aniołom, którym dano jest szkodzić ziemi i morzu, mówiąc: Nie szkodźcie ziemi i morzu ani drzewom, dopóki nie popieczętujemy sługi Boga na czołach ich.
 $Deo gratias
 
@@ -292,11 +292,11 @@ R. A niech się weselą na łożach swoich.
 Te gloriósus * Apostolórum chorus, te Prophetárum laudábilis númerus, te Mártyrum candidátus laudat exércitus, te omnes Sancti et elécti voce confitentur unanimes, beáta Trínitas, unus Deus.
 
 [Lectio Prima]
-!Apo 7:12
+!Apoc 7:12
 v. Benedíctio, et claritas, et sapiéntia, et gratiárum actio, honor, virtus, et fortitúdo Deo nostro, in sæcula sæculórum. Amen.
 
 [Capitulum Tertia]
-!Apo 7:2-3
+!Apoc 7:2-3
 v. Oto ja, Jan, widziałem drugiego anioła, wstępującego od wschodu słońca, mającego pieczęć Boga żywego, i zawołał głosem wielkim ku czterem Aniołom, którym dano jest szkodzić ziemi i morzu, mówiąc: Nie szkodźcie ziemi i morzu ani drzewom, dopóki nie popieczętujemy sługi Boga na czołach ich.
 $Deo gratias
 
@@ -312,7 +312,7 @@ V. Exsúltent justi in conspéctu Dei.
 R. Et delecténtur in lætítia.
 
 [Capitulum Sexta]
-!Apo 7:9
+!Apoc 7:9
 v. Post hæc vidi turbam magnam, quam dinumeráre nemo póterat ex ómnibus géntibus, et tríbubus, et pópulis, et linguis, stantes ante thronum Dei, in conspéctu Agni, amícti stolis albis, et palmæ in mánibus eórum.
 $Deo gratias
 
@@ -328,7 +328,7 @@ V. Justi autem in perpétuum vivent.
 R. Et apud Dóminum est merces eórum.
 
 [Capitulum Nona]
-!Apo 7:12
+!Apoc 7:12
 v. Benedíctio, et claritas, et sapiéntia, et gratiárum actio, honor, virtus, et fortitúdo Deo nostro, in sæcula sæculórum. Amen.
 $Deo gratias
 

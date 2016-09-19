@@ -10,7 +10,7 @@ ex Sancti/12-25;
 
 [Lectio1]
 Z Listu do Rzymian
-!Rz 2:1-4
+!Rom 2:1-4
 1 Przetóż nie możesz być wymówion, o człowiecze! wszelki, ktory sądzisz; albowiem w czem drugiego sądzisz, samego siebie potępiasz; bo tóż czynisz, co posądzasz.
 2 Wiemy bowiem, iż sąd Boży jest wedle prawdy przeciwko tym, którzy takowe rzeczy działają.
 3 I rozumieszże to, o człowiecze! który sądzisz te, co takowe rzeczy czynią, a czynisz je téż, że ty ujdziesz sądu Bożego?
@@ -20,7 +20,7 @@ Z Listu do Rzymian
 @Sancti/12-25:Responsory2
 
 [Lectio2]
-!Rz 2:5-8
+!Rom 2:5-8
 5 Lecz według zatwardziałości twéj i serca niepokutującego skarbisz sobie gniew, w dzień gniewu i objawienia sprawiedliwego sądu Bożego,
 6 Który odda każdemu podług uczynków jego:
 7 Tym, którzy w cierpliwości uczynku dobrego szukają sławy i czci i nieskazitelności, żywot wieczny:
@@ -30,7 +30,7 @@ Z Listu do Rzymian
 @Sancti/12-25:Responsory3
 
 [Lectio3]
-!Rz 2:9-13
+!Rom 2:9-13
 9 Utrapienie i ucisk na wszelką duszę człowieka, który złość popełnia, Żyda najprzód, i Greczyna.
 10 A chwała i cześć i pokój wszelkiemu czyniącemu dobrze, najprzód Żydowi, i Greczynowi.
 11 Albowiem niemasz względu na osoby u Boga.

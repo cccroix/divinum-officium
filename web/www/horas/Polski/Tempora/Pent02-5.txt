@@ -20,7 +20,7 @@ Cóż oddam * Panu za wszystko co mi dobrze czynił?;;115
 U Pana jest * ubłaganie i obfite u Niego odkupienie.;;129
 
 [Capitulum Vespera]
-!Ef 3:8-9
+!Ephes 3:8-9
 v. Bracia: Mnie najmniejszemu ze wszystkich świętych dana jest łaska ta, abym między pogany przepowiadał niedościgłe bogactwa Chrystusowe, a iżbym objaśnił wszystkim, który jest szalunek tajemnice zakrytéj od wieków w Bogu, który wszystko stworzył,
 $Deo gratias
 
@@ -121,7 +121,7 @@ R. Dał pokarm tym, którzy się go boją.
 
 [Lectio1]
 Z Proroka Jeremiasza
-!Jr 24, 5-7
+!Joann 24, 5-7
 5 To mówi Pan, Bóg Izraelski: Jako te figi dobre, tak poznam zaprowadzenie Judzkie, którem wypuścił z tego miejsca do ziemie Chaldejskiéj, na dobre.
 6 I położę oczy moje na nie ku zlitowaniu, i wrócę do téj ziemie, i zbuduję je a nie skażę, i wszczepię je a nie wyrwę.
 7 I dam im serce, aby mię znali, żem Ja jest Pan. I będą mi ludem, a Ja im będę Bogiem; bo się nawrócą do mnie calem sercem swojem.
@@ -133,7 +133,7 @@ V. I będę się weselił nad nimi, gdy im dobrze uczynię, w wszystkiem sercem 
 R. Aby nie odstępowali odemnie.
 
 [Lectio2]
-!Jr 30:18-19; 30:21-24
+!Joann 30:18-19; 30:21-24
 18 To mówi Pan: Oto Ja przywrócę zaprowadzenie namiotów Jakóbowych, i zmiłuję się nad dachy jego i zbuduje się miasto na wysokości swojéj, i kościół według porządku swego założon będzie.
 19 I wynidzie z nich chwała i głos igrających: i rozmnożę je, i nie ubędzie ich, i uwielbię je, i nie zdrobnieją.
 21 I będzie wódz jego z niego, a książę z pośrodku jego wywiedzion będzie, i przytulę go, i przystąpi do mnie. Bo któż to jest, któryby przytulił serce swe, aby się przybliżył ku mnie? mówi Pan.
@@ -148,7 +148,7 @@ V. I by był ten, który mię nienawidział, przeciwko mnie wielkie rzeczy mówi
 R. Ale ty, człowiecze jednomyślny, któryś pospołu zemną jadał pokarmy.
 
 [Lectio3]
-!Jr 31:1-3; 1:31-33
+!Joann 31:1-3; 1:31-33
 1 Czasu onego, mówi Pan, będę Bogiem wszystkim rodzajom Izraeolwym, a oni będą mi ludem.
 2 To mówi Pan: Nalazł łaskę na puszczy lud, który został po mieczu, pójdzie na swój pokój Izrael.
 3 Z daleka Pan mi się okazał. A miłością wieczną umiłowałem cię, dlatego przyciągnąłem litując się.
@@ -196,7 +196,7 @@ R. A pokłonią się przed tobą, Panie.
 
 [Lectio7]
 Czytanie Ewangelii świętej według Jana
-!J 19:31-37
+!Joann 19:31-37
 Onego czasu: Żydzi (ponieważ był to dzień Przygotowania), aby przez szabat ciała nie zostały na krzyżu (albowiem on dzień szabatu był uroczysty), prosili Piłata, aby im połamano nogi i zdjęto ich. I tak dalej.
 _
 Homilia świętego Bonawentury, Biskupa
@@ -275,7 +275,7 @@ R. Ze źródeł Zbawicielowych.
 Albowiem się to stało, * aby się wypełniło Pismo gdy mówi: Ujrzą, kogo przebodli. 
 
 [Lectio Prima]
-!Ef 3:17-19
+!Ephes 3:17-19
 v. W miłości wkorzenieni i ugruntowani, żebyście mogli pojąć z wszystkimi świętymi, która jest szerokość i długość i wysokość i głębokość: i poznać miłość Chrystusową przewyższającą naukę, abyście byli napełnieni wszelakiéj zupełności Bożéj.
 
 [Capitulum Tertia]
@@ -293,7 +293,7 @@ V. Rzekłem: Panie, zmiłuj się nade mną.
 R. Uzdrów duszę moją, bo zgrzeszyłem przeciw Tobie.
 
 [Capitulum Sexta]
-!Ef 3:14-17
+!Ephes 3:14-17
 v. Dlatego klękam na kolana moje ku Ojcu Pana naszego Jezusa Chrystusa, z którego wszelkie ojcostwo na niebie i na ziemi jest nazywane, aby wam dał wedle bogactw chwały swéj, żebyście byli mocą utwierdzeni przez Ducha jego we wnętrznego człowieka: Aby mieszkał Chrystus przez wiarę w sercach waszych.
 $Deo gratias
 

@@ -21,7 +21,7 @@ A odpowiadając Piotr, * rzekł do Jezusa: Panie dobrze nam jest tu być.
 Gdy on jeszcze mówił, * oto obłok jasny okrył ich.
 
 [Capitulum Vespera]
-!Flp 3:20-21
+!Phil 3:20-21
 v. Zbawiciela oczekiwamy, Pana naszego Jezusa Chrystusa, który przemieni ciało podłości naszéj przypodobane ciału jasności swojéj.
 $Deo gratias
 
@@ -98,7 +98,7 @@ R. Sławę i wielką ozdobę nań włożysz.
 
 [Lectio1]
 Z Drugiego Listu św. Piotra Apostoła
-!2 P 1:10-14
+!2 Petri 1:10-14
 10 A przeto więcéj, bracia! starajcie się, żebyście przez dobre uczynki pewne czynili wezwanie i wybranie wasze; albowiem to czyniąc nigdy nie zgrzeszycie.
 11 Bo tak hojnie wam sprawione będzie wejście do wiecznego królestwa Pana naszego i Zbawiciela Jezusa Chrystusa.
 12 Przetóż pocznę was zawsze upominać około tego, chociaż wiedzących i utwierdzonych was w teraźniejszéj prawdzie.
@@ -112,7 +112,7 @@ V. I będą chodzić narodowie w światłości twojej, a królowie w jasności w
 R. A sława Pańska weszła nad tobą.
 
 [Lectio2]
-!2 P 1:15-17
+!2 Petri 1:15-17
 15 A starać się będę i często, mieć was po zejściu mojem, abyście na te rzeczy pamiętali.
 16 Albowiem oznajmiliśmy wam moc i obecność Pana naszego, nie uwiedzieni baśniami misternemi, ale przypatrzywszy się sami wielmożności jego. 
 17 Bo wziął od Boga Ojca cześć i chwałę, gdy do niego szedł głos takowy od wielmożnéj chwały: Ten jest Syn mój, w którymem sobie ulubił, jego słuchajcie. 
@@ -124,7 +124,7 @@ V. Ukazał się obłok, który je zasłonił, i rozległ się głos Ojca.
 R. Ten jest Syn mój miły, w którymem sobie dobrze upodobał jego słuchajcie.
 
 [Lectio3]
-!2 P 1:18-21
+!2 Petri 1:18-21
 18 A głos ten myśmy słyszeli z nieba przyniesiony, będąc z nim na górze świętéj.
 19 I mamy mocniejszą mowę prorocką, któréj się dzierżąc, jako świece w ciemnem miejscu świecącéj, dobrze czynicie, ażby dzień oświtnął, a jutrzenka weszła w sercach waszych.
 20 To najprzód rozumiejąc, iż każde proroctwo Pisma nie dzieje się wykładem własnym. 
@@ -160,7 +160,7 @@ R. Daleko więcej posługiwanie duchowi, co trwa, jest w chwale.
 
 [Lectio7]
 Czytanie Ewangelii świętej według Mateusza
-!Mt 17:1-9
+!Matth 17:1-9
 Onego czasu: Wziął Jezus Piotra i Jakuba i Jana, brata jego, i zaprowadził ich na górę wysoką na uboczu. I przemienił się przed nimi. I tak dalej.
 _
 Homilia świętego Jana Chryzostoma
@@ -220,7 +220,7 @@ R. Wyryta znamieniem świątości i chwałą poczciwości.
 Oto głos * z obłoku mówiący: Ten jest Syn Mój miły, w którymem sobie dobrze upodobał: jego słuchajcie, alleluja.
 
 [Lectio Prima]
-!Ap 21:10-11; 21:23.
+!Apoc 21:10-11; 21:23.
 I zaniósł mię w duchu na górę wielką i wysoką i okazał mi miasto święte Jeruzalem, zstępujące z nieba od Boga, mające jasność Bożą: a światłość jego Baranek.
 
 [Capitulum Tertia]
@@ -238,7 +238,7 @@ V. Chwałą i czcią ukoronowałeś go, Panie, alleluja.
 R. I postanowiłeś go nad dziełami rąk twoich, alleluja.
 
 [Capitulum Sexta]
-!2 Kor 3:18
+!2 Cor 3:18
 v. A my wszyscy odkrytem obliczem na chwałę Pańską w zwierciedle patrząc, w tóż wyobrażenie przemienieni bywamy z jasności w jasność, jako od Ducha Pańskiego.
 $Deo gratias
 

@@ -15,7 +15,7 @@ Kapłani Boga, * błogosławcie Panu: słudzy Pańscy, śpiewajcie hymn Bogu, al
 Sługo dobry * i wierny, wnijdź do wesela Pana Twego.;;116
 
 [Capitulum Vespera]
-!Syr 44:16-17
+!Eccl 44:16-17
 v. Oto kapłan wielki, * który za dni swoich podobał się Bogu i znalezion jest sprawiedliwym: a czasu rozgniewania stał się pojednaniem.
 $Deo gratias
 
@@ -46,7 +46,7 @@ Pana, Króla Wyznawców, * pójdźmy uwielbiać.
 
 [Lectio1]
 Z Księgi Ekklezjastyka.
-!Syr 39:1-5
+!Eccl 39:1-5
 1 O mądrości wszech starodawnych pytać się będzie mądry i będzie się bawił prorokami.
 2 Powieści mężów zawołanych będzie zachowywał a subtelności przypowieści wespół doścignie.
 3 Tajemnic przypowieści badać się będzie a w skrytych podobieństwach obierać się będzie.
@@ -54,7 +54,7 @@ Z Księgi Ekklezjastyka.
 5 Do ziemie narodów cudzoziemskich przejdzie, bo między ludźmi dobrego i złego skosztuje.
 
 [Lectio2]
-!Syr 39:6-10
+!Eccl 39:6-10
 6 Obróci serce swe, aby wstawał rano do Pana, który go stworzył, a przed oczyma Nawyższego modlić się będzie. 
 7 Usta swe otworzy na modlitwie i za grzechy swoje modlić się będzie.
 8 Bo jeśli Pan wielki będzie chciał, napełni go duchem zrozumienia,
@@ -63,7 +63,7 @@ Z Księgi Ekklezjastyka.
 
 
 [Lectio3]
-!Syr 39:11-14
+!Eccl 39:11-14
 11 On jawnie okaże umiejętność nauki jego a będzie się chłubił Zakonem Testamentu Pańskiego.
 12 Mnodzy będą chwalić mądrość jego i aż na wieki nie będzie wymazana.
 13 I nie ustanie pamiątka jego, i o imieniu jego pytać się będą od narodu do narodu.
@@ -93,7 +93,7 @@ Kapłani Boga, * błogosławcie Panu: słudzy Pańscy, śpiewajcie hymn Bogu, al
 Sługo dobry * i wierny, wnijdź do wesela Pana Twego.
 
 [Capitulum Laudes]
-!Syr 44:16-17
+!Eccl 44:16-17
 v. Oto kapłan wielki, * który za dni swoich podobał się Bogu i znalezion jest sprawiedliwym: a czasu rozgniewania stał się pojednaniem.
 $Deo gratias.
 
@@ -124,11 +124,11 @@ Daj, prosimy Cię, wszechmogący Boże, aby chwalebna uroczystość błogosławi
 $Per Dominum.
 
 [Lectio Prima]
-!Sir 45:19-20
+!Eccl 45:19-20
 v. Fungi sacerdotio, et habere laudem in nomine ipsius, et offerre illi incensum dignum in odorem suavitatis.
 
 [Capitulum Tertia]
-!Syr 44:16-17
+!Eccl 44:16-17
 v. Oto kapłan wielki, * który za dni swoich podobał się Bogu i znalezion jest sprawiedliwym: a czasu rozgniewania stał się pojednaniem.
 $Deo gratias
 
@@ -144,7 +144,7 @@ V. Obrał go Pan kapłanem sobie.
 R. Aby Mu złożył ofiarę chwały.
 
 [Capitulum Sexta]
-!Syr 44:20; 44:22
+!Eccl 44:20; 44:22
 v. Nie jest nalezion jemu podobien, który zachował Zakon Nawyższego: przetoż pod przysięgą dał mu Pan rozmnożyć się w narodzie swoim.
 $Deo gratias
 
@@ -160,7 +160,7 @@ V. Tyś jest kapłanem na wieki.
 R. Według obrządku Melchizedeka.
 
 [Capitulum Nona]
-!Syr 45:19-20
+!Eccl 45:19-20
 v. Aby sprawował urząd kapłański i miał urząd chwalenia w imię Jego, i ofiarował Mu kadzenie godne jako dobrą wonność.
 $Deo gratias
 

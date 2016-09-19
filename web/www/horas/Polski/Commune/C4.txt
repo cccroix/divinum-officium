@@ -15,7 +15,7 @@ Kapłani Boga, * błogosławcie Panu: słudzy Pańscy, śpiewajcie hymn Bogu, al
 Sługo dobry * i wierny, wnijdź do wesela Pana Twego.;;116
 
 [Capitulum Vespera]
-!Syr 44:16-17
+!Eccl 44:16-17
 v. Oto kapłan wielki, * który za dni swoich podobał się Bogu i znalezion jest sprawiedliwym: a czasu rozgniewania stał się pojednaniem.
 $Deo gratias
 
@@ -125,7 +125,7 @@ R. Wnidź do wesela Pana twego.
 
 [Lectio2]
 Z listu do Tytusa
-!Tt 1:7-11
+!Tit 1:7-11
 7 Albowiem biskup ma być bez winy, jako szafarz Boży, nie pyszny, nie gniewliwy, nie winopilca, nie bijący, nie chciwy zysku szkaradnego;
 8 Ale wdzięcznie goście przyjmujący, dobrotliwy, trzeźwy, sprawiedliwy, święty, powściągliwy,
 9 Trzymający się téj, która jest wedle nauki, wiernéj mowy, iżby mógł napominać przez zdrową naukę i tych, którzy się sprzeciwiają, przekonać.
@@ -134,7 +134,7 @@ Z listu do Tytusa
 
 
 [Lectio3]
-!Tt 2:1-8
+!Tit 2:1-8
 1 A ty mów, co przystoi zdrowéj nauce.
 2 Starcy, aby byli trzeźwi, wstydliwi, roztropni, zdrowi w wierze, w miłości, w cierpliwości.
 3 Także stare niewiasty w ubiorze świętym, niepotwarliwe, nie wiele wina pijące, na dobre uczące:
@@ -248,7 +248,7 @@ Wiekuisty Pasterzu, wejrzyj łaskawie na Swoją trzodę i otocz ją nieustanną 
 $Per Dominum
 
 [Lectio Prima]
-!Syr 45:19-20
+!Eccl 45:19-20
 v. Fungi sacerdotio, et habere laudem in nomine ipsius, et offerre illi incensum dignum in odorem suavitatis.
 
 [Capitulum Tertia]
@@ -266,7 +266,7 @@ V. Obrał go Pan kapłanem sobie.
 R. Aby Mu złożył ofiarę chwały.
 
 [Capitulum Sexta]
-!Syr 44:20; 44:22
+!Eccl 44:20; 44:22
 v. Nie jest nalezion jemu podobien, który zachował Zakon Nawyższego: przetoż pod przysięgą dał mu Pan rozmnożyć się w narodzie swoim.
 $Deo gratias
 
@@ -307,7 +307,7 @@ Gdy był najwyższym kapłanem, nie obawiał się niczego na ziemi, ale chwalebn
 
 [Lectio11]
 Z Księgi Ekklezjastyka.
-!Syr 44:1-5
+!Eccl 44:1-5
 1 Wysławiajmy męże chwalebne i ojce nasze w rodzaju swoim.
 2 Wielką chwałę uczynił Pan wielmożnością swą od wieku.
 3 Panujące we władzach swych ludzie wielkiej mocy i mądrością swą obdarzeni, pokazujący w pismach prorockich zacność prorocką
@@ -315,14 +315,14 @@ Z Księgi Ekklezjastyka.
 5 Umiejętnością swą wynajdowali śpiewania muzyckie i wiersze Pisma wykładali;
 
 [Lectio21]
-!Syr 44:6-9
+!Eccl 44:6-9
 6 Ludzie bogaci w mocy, starający się o poczciwość, doma spokojnie mieszkający.
 7 Ci wszyscy w rodzajach narodu swego sławę otrzymali a za dni swoich byli w pochwaleniu.
 8 Którzy się z nich narodzili, zostawili imię, aby opowiadano chwały ich.
 9 A są, których nie masz pamiątki; zginęli jako ci, których nie było; i narodzili się, jakoby się nie rodzili, i synowie ich z nimi.
 
 [Lectio31]
-!Syr 44:10-15
+!Eccl 44:10-15
 10 Ale oni są ludzie miłosierdzia, których pobożności nie ustały.
 11 Z nasieniem ich trwają dobra,
 12 dziedzictwo święte wnukowie ich a w testamencie trwało nasienie ich.

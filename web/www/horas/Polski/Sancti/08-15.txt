@@ -16,7 +16,7 @@ Błogosławionaś jest córko, * przez Boga, przez Ciebie bowiem dan nam jest ow
 Pięknaś jest * i ozdobna, córko Jeruzalem: ogromna, jako wojska uszykowane porządnie.;;147
 
 [Capitulum Vespera]
-!Syr 24:11-12
+!Eccl 24:11-12
 v. A w tym wszytkim szukałam odpoczynku i w dziedzictwie Pańskim mieszkać będę. Tedy przykazał i rzekł mi, Stworzyciel wszech rzeczy, a który mię stworzył, odpoczynął w przybytku moim.
 $Deo gratias
 
@@ -50,14 +50,14 @@ R. W którem Król królów na gwiaździstym zasiada tronie.
 
 [Lectio1]
 Początek Pieśni nad Pieśniami
-!Pnp 1:1-4
+!Cant 1:1-4
 1 Niech mię pocałuje pocałowaniem ust swoich; bo lepsze są piersi twe nad wino.
 2 Woniające olejkami najwyborniejszemi: olejek wylany imię twoje: dlatego panienki umiłowały cię.
 3 Pociągnij mię, za tobą pobieżemy do wonności olejków twoich. Wprowadził mię król do pokojów swoich, rozradujem się i rozweselemy w tobie, pamiętając na piersi twoje nad wino: prawi miłują cię.
 4 Czarnaciem ale piękna, córki Jerozolimskie: jako namioty Cedar, jako skóry Salomonowe.
 
 [Lectio2]
-!Pnp 1:5-9
+!Cant 1:5-9
 5 Nie patrzajcie na mię, żem jest śmiada; bo mię opaliło słońce: synowie matki mojéj walczyli przeciwko mnie, postawili mię stróżem w winnicach: winnice mojéj nie strzegłam.
 6 Oznajmijże mi, którego miłuje dusza moja, kędy pasiesz? kędy odpoczywasz w południe? abych się nie poczęła błąkać za trzodami towarzyszów twoich.
 7 Jeźli się nie znasz, o najpiękniejsza między niewiastami! wynidź a idź za stadem trzód, a paś koźlęta twoje przy budkach pasterskich.
@@ -68,7 +68,7 @@ Początek Pieśni nad Pieśniami
 @Commune/C11:Responsory4
 
 [Lectio3]
-!Pnp 1:10-16
+!Cant 1:10-16
 10 Łańcuszki złote uczynimy tobie śrebrem nakrapiane.
 11 Kiedy król był na pokoju swoim, szpikanard mój wydał wonność swoję.
 12 Snopek mirrhy jest mi miły mój, między piersiami mojemi mieszkać będzie.
@@ -132,7 +132,7 @@ V. Marja wzięta jest do Nieba, radują się Aniołowie.
 R. Wychwalając błogosławią Pana.
 
 [Capitulum Sexta]
-!Syr 24:15-16
+!Eccl 24:15-16
 v. I takem w Syjonie jest utwierdzona a w Mieście Świętym takżem odpoczywała, a w Jeruzalem władza moja.  I rozkorzeniłam się w zacnym narodzie i w dziale Boga mego dziedzictwo jego a w pełności świętych zadzierżenie moje.
 $Deo gratias
 

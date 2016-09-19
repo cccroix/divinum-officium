@@ -11,7 +11,7 @@ Special Lectio 3
 Doxology=Nat
 
 [Capitulum Vespera]
-!Syr 24:14
+!Eccl 24:14
 v. Od początku i przed wieki jestem stworzona i aż do przyszłego wieku nie ustanę, a w mieszkaniu świętym służyłam przed nim.
 $Deo gratias.
 
@@ -85,7 +85,7 @@ Niech Panna nad Pannami wstawia się za nami u Pana. Amen.
 Przez Dziewicę Matkę, niech nas Bóg obdarzy zbawieniem i pokojem. Amen.
 
 [Capitulum Laudes]
-!Syr 24:14
+!Eccl 24:14
 v. Od początku i przed wieki jestem stworzona i aż do przyszłego wieku nie ustanę, a w mieszkaniu świętym służyłam przed nim.
 $Deo gratias.
 
@@ -129,11 +129,11 @@ $Qui tecum
 Królowo nieba, * wesel się, alleluja; bo Ten, któregoś nosiła, alleluja; zmartwychwstał jak powiedział, alleluja: módl się za nami do Boga, alleluja.
 
 [Lectio Prima]
-!Syr 24:19-20
+!Eccl 24:19-20
 v. Jako cynamon i balsam woniający wydałam wonność, jako mirra wyborna dałam słodkość wonności.
 
 [Capitulum Tertia]
-!Syr 24:14
+!Eccl 24:14
 v. Od początku i przed wieki jestem stworzona i aż do przyszłego wieku nie ustanę, a w mieszkaniu świętym służyłam przed nim.
 $Deo gratias.
 
@@ -149,7 +149,7 @@ V. Wspomoże ją Bóg obliczem swoim.
 R. Bóg w pośrodku jej, nie będzie poruszona.
 
 [Capitulum Sexta]
-!Syr 24:15-16
+!Eccl 24:15-16
 v. I takem w Syjonie jest utwierdzona a w Mieście Świętym takżem odpoczywała, a w Jeruzalem władza moja. I rozkorzeniłam się w zacnym narodzie i w dziale Boga mego dziedzictwo jego a w pełności świętych zadzierżenie moje.
 $Deo gratias.
 
@@ -165,7 +165,7 @@ V. Wybrał ją Bóg, i przybrał ją.
 R. W namiocie swoim dał jej mieszkanie.
 
 [Capitulum Nona]
-!Syr 24:19-20
+!Eccl 24:19-20
 v. Jako cynamon i balsam woniający wydałam wonność, jako mirra wyborna dałam słodkość wonności
 $Deo gratias.
 

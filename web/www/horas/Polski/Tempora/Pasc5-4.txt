@@ -21,7 +21,7 @@ Wysławiajcie Króla nad królami * i pieśń śpiewajcie Bogu, alleluja.
 Gdy patrzyli, * podniesiony jest, a obłok wziął Go do nieba, alleluja.
 
 [Capitulum Vespera]
-!Dz 1:1-2
+!Act 1:1-2
 v. Pierwsząm mowę uczynił, o Theophile, o wszystkiem, co począł Jezus czynić i uczyć, aż do dnia, którego rozkazawszy Apostołom przez Ducha Świętego, które obrał, wzięt jest.
 $Deo gratias
 
@@ -127,7 +127,7 @@ R. Boga mojego i Boga waszego, alleluja.
 
 [Lectio1]
 Początek Księgi Dziejów Apostolskich
-!Dz 1:1-5
+!Act 1:1-5
 1 Pierwsząm mowę uczynił, o Theophile! o wszystkiem, co począł Jezus czynić i uczyć,
 2 Aż do dnia, którego rozkazawszy Apostołom przez Ducha Świętego, które obrał, wzięt jest.
 3 Którym téż siebie samego po swéj męce stawił żywym w rozmaitych dowodziech, przez czterdzieści dni się im ukazując, i mówiąc o królestwie Bożem.
@@ -141,14 +141,14 @@ V. A z nimi jedząc rozkazał im, aby nie odchodzili z Jeruzalem; ale czekali ob
 R. I widzieli, jak podniesion jest, alleluja: a obłok wziął go od oczu ich, alleluja.
 
 [Lectio2]
-!Dz 1:6-9
+!Act 1:6-9
 6 A tak którzy się byli zeszli, pytali go, mówiąc: Panie! zali w tym czasie przywrócisz królestwo Izraelowi?
 7 I rzekł do nich: Nie wasza rzecz jest znać czasy i chwile, które Ojciec w swéj władzy położył.
 8 Ale oweźmiecie moc Ducha Świętego, który przyjdzie na was, i będziecie mi świadkami w Jeruzalem i we wszystkiéj Żydowskiéj ziemi i w Samaryi i aż na kraj ziemie.
 9 A to rzekłszy, gdy oni patrzali, podniesion jest, a obłok wziął go od oczu ich.
 
 [Lectio3]
-!Dz 1:10-14
+!Act 1:10-14
 10 A gdy pilnie patrzali za nim do nieba idącym, oto dwaj mężowie stanęli przy nich w białem odzieniu,
 11 Którzy téż rzekli: Mężowie Galilejscy! czemu stoicie patrząc w niebo? ten Jezus, który wzięt jest od was do nieba, tak przyjdzie, jakoście go widzieli idącego do nieba.
 12 Tedy się wrócili do Jeruzalem od góry, którą zowią Oliwną, która jest blizko Jeruzalem, mając drogę szabbatu.
@@ -244,7 +244,7 @@ v. Módlmy się.
 @:Oratio
 
 [Lectio Prima]
-!Dz 1:11
+!Act 1:11
 v. Mężowie Galilejscy, czemu stoicie patrząc w niebo? Ten Jezus, który wzięt jest od was do nieba, tak przyjdzie, jakoście go widzieli idącego do nieba.
 
 [Capitulum Tertia]
@@ -262,7 +262,7 @@ V. Wstąpiwszy Chrystus na wysokość, alleluja.
 R. Wiódł więźnie poimane, alleluja.
 
 [Capitulum Sexta]
-!Dz 1:4-5
+!Act 1:4-5
 v. A z nimi jedząc rozkazał im, aby nie odchodzili z Jeruzalem; ale czekali obietnice Ojcowskiéj, którąście (prawi) słyszeli przez usta moje. Albowiemci Jan chrzcił wodą, a wy będziecie chrzczeni Duchem Świętym po nie wielu tych dni.
 $Deo gratias
 

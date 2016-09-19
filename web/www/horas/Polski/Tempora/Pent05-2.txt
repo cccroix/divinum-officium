@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Z Drugiej Księgi Królewskiej
-!2 Sm 3:6-10
+!2 Reg 3:6-10
 6 A gdy była wojna między domem Saulowym a domem Dawidowym, Abner, syn Ner, rządził dom Saulów.
 7 A Saul miał nałożnicę imieniem Resphę, córkę Aja. I rzekł Izbozeth do Abnera:
 8 Czemuś wszedł do nałożnice ojca mego? Który rozgniewawszy się bardzo dla słów Izbozetha, rzekł: Izalim ja psią głową jest dzisia przeciw Juda, którym uczynił miłosierdzie nad domem Saula, ojca twego, i nad bracią i bliskimi jego, a nie dałem cię w ręce Dawidowi: a ty nalazłeś we mnie, o cobyś mię strofował o niewiastę dzisia?
@@ -17,7 +17,7 @@ Z Drugiej Księgi Królewskiej
 @Tempora/Pent03-2Feria:Responsory1
 
 [Lectio2]
-!2 Sm 3:12-16
+!2 Reg 3:12-16
 12 Posłał tedy Abner posły do Dawida o się, rzekąc: Czyjaż jest ziemia? ażeby mówili: Uczyń zemną przyjacielstwo, a będzie ręka moja z tobą, a przywiodę ku tobie wszystkiego Izraela.
 13 Który rzekł: Bardzo dobrze; ja z tobą uczynię przyjacielstwo, ale jednéj rzeczy proszę od ciebie, mówiąc: Nie oglądasz oblicza mego, aż mi przywiedziesz Michol, córkę Saulowę: tak przyjdziesz a oglądasz mię.
 14 I posłał Dawid posły do Izbozetha, syna Saulowego, mówiąc: Wróć żonę moję Michol, którąm sobie poślubił stem odrzezków Philistyńskich. 
@@ -28,7 +28,7 @@ Z Drugiej Księgi Królewskiej
 @Tempora/Pent03-2Feria:Responsory2
 
 [Lectio3]
-!2 Sm 3:17-21
+!2 Reg 3:17-21
 17 Wniósł téż mowę Abner do starszych Izraelskich, mówiąc: Tak wczora jako i dziś trzeci dzień szukaliście Dawida, aby królował nad wami.
 18 Przetóż teraz uczyńcie: ponieważ Pan mówił do Dawida, rzekąc: Przez rękę sługi mego Dawida wybawię lud mój Izrael z ręki Philistynów i wszystkich nieprzyjaciół jego.
 19 Mówił téż Abner i do Benjamina. I poszedł, aby mówił do Dawida w Hebron wszystko, co się podobało Izraelowi i wszystkiemu Benjaminowi.

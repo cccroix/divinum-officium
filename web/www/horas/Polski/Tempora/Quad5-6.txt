@@ -5,7 +5,7 @@ Sobota tygodnia Męki Pańskiej;;Feria major;;2
 
 [Lectio1]
 Czytanie Ewangelii świętej według Jana
-!J 12:10-36
+!Joann 12:10-36
 Onego czasu: Najwyżsi kapłani umyślili zabić także i Łazarza, bo wielu Żydów odstępowało z jego przyczyny i wierzyło w Jezusa. I tak dalej.
 _
 Homilia świętego Augustyna, Biskupa
@@ -26,7 +26,7 @@ Prosimy Cię, Panie, niechaj lud Tobie poświęcony wzrasta w żarliwej pobożno
 $Per Dominum
 
 [Capitulum Vespera]
-!Flp 2:5-7
+!Phil 2:5-7
 v. Bracia: Albowiem to w sobie czujcie, co i w Chrystusie Jezusie. Który będąc w postaci Bożéj, nie poczytał za drapieztwo, że był równym Bogu; Ale wyniszczył samego siebie, przyjąwszy postać sługi, stawszy się na podobieństwo ludzi, i postawą naleziony jako człowiek.
 $Deo gratias
 

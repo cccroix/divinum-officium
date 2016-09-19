@@ -57,7 +57,7 @@ oraz Ojcu i dobroczynnemu Duchowi,
 po nieskończone wieki. Amen.
 _
 #Capitulum
-!Syr 24:24
+!Eccl 24:24
 v. Jam matka pięknej miłości i bogobojności, i uznania, i nadzieje świętej.
 $Deo gratias
 _
@@ -97,7 +97,7 @@ V. Wybrał ją Bóg, i przybrał ją.
 R. W namiocie swoim dał jej mieszkanie.
 
 [Lectio1]
-!Syr 24:11-13
+!Eccl 24:11-13
 11 We wszytkim szukałam odpoczynku i w dziedzictwie Pańskim mieszkać będę.
 12 Tedy przykazał i rzekł mi, Stworzyciel wszech rzeczy, a który mię stworzył, odpoczynął w przybytku moim.
 13 I rzekł mi: Mieszkaj w Jakubie a w Izraelu weźmi dziedzictwo, a między wybranymi memi rozpuść korzenie.
@@ -110,7 +110,7 @@ R. Bo Ten, którego niebiosa zmieścić nie mogły, Ty w swym łonie nosiłaś.
 
 
 [Lectio2]
-!Syr 24:15-16
+!Eccl 24:15-16
 15 I takem w Syjonie jest utwierdzona a w Mieście Świętym takżem odpoczywała, a w Jeruzalem władza moja.
 16 I rozkorzeniłam się w zacnym narodzie i w dziale Boga mego dziedzictwo jego a w pełności świętych zadzierżenie moje.
 
@@ -122,7 +122,7 @@ R. Porodziłaś Tego, który Cię stworzył, i na wieki Dziewicą pozostałaś.
 
 
 [Lectio3]
-!Syr 24:17-20
+!Eccl 24:17-20
 17 Wyniesionam wzgórę jako drzewo cedrowe na Libanie i jako cyprys na górze Syjonie,
 18 wywyższyłam się jako palma w Kades i jako szczepienie różej w Jerychu.
 19 Jako piękna oliwa na polu a jako jawor jestem powyższona nad wodą na ulicach.
@@ -146,7 +146,7 @@ Błogosławionaś jest córko, * przez Boga, przez Ciebie bowiem dan nam jest ow
 Pięknaś jest * i ozdobna, córko Jeruzalem: ogromna, jako wojska uszykowane porządnie.
 
 [Capitulum Laudes]
-!Pnp. 6:8
+!Cant 6:8
 v. Widziały ją córki syjońskie, i błogosławioną zwały, i królowe ją chwaliły.
 $Deo gratias.
 
@@ -189,7 +189,7 @@ _
 Ant. Marja wzięta jest * do Nieba, radują się Aniołowie; wychwalając błogosławią Pana
 _
 #Capitulum
-!Pnp 6:9
+!Cant 6:9
 v. Któraż to jest, która idzie jako zorza powstająca, piękna jako księżyc, wybrana jako słonce, ogromna jako wojska uszykowane porządnie?
 $Deo gratias
 _
@@ -234,7 +234,7 @@ _
 Ant. Marja Dziewica * wzięta jest do niebieskiego mieszkania, w którem Król królów na gwiaździstym zasiada tronie.
 _
 #Capitulum
-!Sir 24:15
+!Eccl 24:15
 v. I takem w Syjonie jest utwierdzona a w Mieście Świętym takżem odpoczywała, a w Jeruzalem władza moja.
 $Deo gratias
 _
@@ -279,7 +279,7 @@ _
 Ant. Za tobą pobieżemy * do wonności olejków twoich; Panienki umiłowały cię bardzo.
 _
 #Capitulum
-!Syr 24:16
+!Eccl 24:16
 v. I rozkorzeniłam się w zacnym narodzie i w dziale Boga mego dziedzictwo jego, a w pełności świętych zadzierżenie moje.
 $Deo gratias
 _
@@ -324,7 +324,7 @@ _
 Ant. Pięknaś jest * i ozdobna, córko Jeruzalem: ogromna, jako wojska uszykowane porządnie.
 _
 #Capitulum
-!Syr 24:19-20
+!Eccl 24:19-20
 v. Na ulicach jako cynamon i balsam woniający wydałam wonność, jako mirra wyborna dałam słodkość wonności
 $Deo gratias.
 _

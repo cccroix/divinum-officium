@@ -14,7 +14,7 @@ Już minęła zima, * deszcz przeszedł i przestał; wstań przyjaciółko moja,
 Piękna * jesteś i słodka wśród rozkoszy swoich święta Boża Rodzicielko. Alleluja.;;147
 
 [Capitulum Vespera]
-!Syr 24:14
+!Eccl 24:14
 v. Od początku i przed wieki jestem stworzona i aż do przyszłego wieku nie ustanę, a w mieszkaniu świętym służyłam przed nim.
 $Deo gratias.
 
@@ -53,7 +53,7 @@ R. W namiocie swoim dał jej mieszkanie. Alleluja.
 
 [Lectio1]
 Z Przysłów Salomona
-!Prz 8:12-17
+!Prov 8:12-17
 12 Ja, mądrość mieszkam w radzie, a przy myślach ćwiczonych bywam.
 13 Bojaźń Pańska nienawidzi złości:pychą i hardością, i drogą złą, i usty dwujęzycznemi brzydzę się.
 14 Moja jest rada i prawość, moja jest roztropność, moje jest męstwo.
@@ -69,7 +69,7 @@ R. Bo Ten, którego niebiosa zmieścić nie mogły, Ty w swym łonie nosiłaś. 
 
 
 [Lectio2]
-!Prz 8:18-25
+!Prov 8:18-25
 18 Przy mnie są bogactwa i sława, pyszne majętności i sprawiedliwość.
 19 Lepszy bowiem jest owoc mój niż złoto i kamienie drogie: a urodzaje moje niż śrebro wyborne.
 20 Na drogach sprawiedliwości chodzę, w pośrodku ścieżek sądowych:
@@ -81,7 +81,7 @@ R. Bo Ten, którego niebiosa zmieścić nie mogły, Ty w swym łonie nosiłaś. 
 
 
 [Lectio3]
-!Prz 8:34-36, 9:1-5
+!Prov 8:34-36, 9:1-5
 34 Błogosławiony człowiek, który mię słucha: i który czuje u drzwi moich na każdy dzień, i pilnuje u podwojów drzwi moich.
 35 Kto mię najdzie, najdzie żywot i wyczerpnie zbawienie od Pana.
 36 Ale kto przeciw mnie zgrzeszy, obrazi duszę swoję. Wszyscy, którzy mię nienawidzą, kochają się w śmierci.
@@ -147,7 +147,7 @@ Już minęła zima, * deszcz przeszedł i przestał; wstań przyjaciółko moja,
 Piękna * jesteś i słodka wśród rozkoszy swoich święta Boża Rodzicielko. Alleluja.
 
 [Capitulum Laudes]
-!Syr 24:14
+!Eccl 24:14
 v. Od początku i przed wieki jestem stworzona i aż do przyszłego wieku nie ustanę, a w mieszkaniu świętym służyłam przed nim.
 $Deo gratias.
 
@@ -166,11 +166,11 @@ Prosimy Cię, Panie, dozwól nam sługom Twoim, radować się nieustannem zdrowi
 $Per Dominum
 
 [Lectio Prima]
-!Syr 24:19-20
+!Eccl 24:19-20
 v. Jako cynamon i balsam woniający wydałam wonność, jako mirra wyborna dałam słodkość wonności.
 
 [Capitulum Tertia]
-!Syr 24:14
+!Eccl 24:14
 v. Od początku i przed wieki jestem stworzona i aż do przyszłego wieku nie ustanę, a w mieszkaniu świętym służyłam przed nim.
 $Deo gratias.
 
@@ -186,7 +186,7 @@ V. Wspomoże ją Bóg obliczem swoim, alleluja.
 R. Bóg w pośrodku jej, nie będzie poruszona, alleluja.
 
 [Capitulum Sexta]
-!Syr 24:15-16
+!Eccl 24:15-16
 v. I takem w Syjonie jest utwierdzona a w Mieście Świętym takżem odpoczywała, a w Jeruzalem władza moja. I rozkorzeniłam się w zacnym narodzie i w dziale Boga mego dziedzictwo jego a w pełności świętych zadzierżenie moje.
 $Deo gratias.
 
@@ -202,7 +202,7 @@ V. Wybrał ją Bóg, i przybrał ją, alleluja.
 R. W namiocie swoim dał jej mieszkanie, alleluja.
 
 [Capitulum Nona]
-!Syr 24:19-20
+!Eccl 24:19-20
 v. Jako cynamon i balsam woniający wydałam wonność, jako mirra wyborna dałam słodkość wonności
 $Deo gratias.
 

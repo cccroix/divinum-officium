@@ -13,7 +13,7 @@ $Per Dominum
 
 [Lectio1]
 Początek Księgi Proroka Jeremiasza
-!Jr 1:1-6
+!Joann 1:1-6
 1 Słowa Jeremiasza, syna Helcyaszowego, z kapłanów, którzy byli w Anathot, w ziemi Benjamin.
 2 Które słowo Pańskie stało się do niego za dni Jozyasza, syna Amon, króla Judzkiego, trzynastego roku królestwa jego.
 3 A stało się za dni Joakima, syna Jozyaszowego, króla Judzkiego, aż do skończenia jedenastego roku Sedecyasza, syna Jozyasza, króla Judzkiego, aż do przeprowadzenia Jeruzalem, miesiąca piątego.
@@ -22,7 +22,7 @@ Początek Księgi Proroka Jeremiasza
 6 I rzekłem: A, a, a, Panie Boże! oto nie umiem mówić; bom ja jest dziecina.
 
 [Lectio2]
-!Jr 1:7-13
+!Joann 1:7-13
 7 I rzekł Pan do mnie: Nie mów: Jestem dziecina; bo na wszystko, na co cię poślę, pójdziesz, i wszystko, cokolwiek ci rozkażę, mówić będziesz.
 8 Nie bój się oblicza ich; bom Ja z tobą jest, abym cię wybawił, mówi Pan.
 9 I wyciągnął Pan ręką swą i dotknął się ust moich, i rzekł Pan do mnie: Otom dał słowa moje w usta twoje.
@@ -38,7 +38,7 @@ V. By nieprzyjaciel mój nie mówił: Ja go zwyciężyłem.
 R. Powstań, Panie, wybaw mnie, mój Boże!
 
 [Lectio3]
-!Jr 1:14-19
+!Joann 1:14-19
 14 I rzekł Pan do mnie: Od północy otworzy się złe na wszystkie obywatele ziemie.
 15 Bo oto Ja zwołam wszystkie rodzaje królestw północnych, mówi Pan, i przyjdą i postawią każdy stolicę swą w wejściu bram Jerozolimskich i na wszystkich murach jego wokoło i na wszystkich miastach Judzkich.
 16 I będę mówić sądy moje z nimi o wszelaką złość ich, którzy mię opuścili a ofiarowali bogom obcym, i kłaniali się robocie rąk swoich.
@@ -76,7 +76,7 @@ R. Utrapienie moje jest blisko, o Panie, i nie ma nikogo, kto by mi dopomógł. 
 
 [Lectio7]
 Czytanie Ewangelii świętej według Jana
-!J 8:46-59
+!Joann 8:46-59
 Onego czasu: Mówił Jezus rzeszom żydowskim: „Kto z was dowiedzie Mi grzechu? Jeśli wam prawdę mówię, czemu Mi nie wierzycie?” I tak dalej.
 _
 Homilia świętego Grzegorza, Papieża
@@ -111,7 +111,7 @@ Ludu mój, * cóżem ci uczynił, albo w czemem ci się uprzykrzył? Odpowiedz m
 Izali oddawają * złe za dobre, że wykopali dół duszy mojéj?
 
 [Capitulum Laudes]
-!Hbr 9:11-12
+!Hebr 9:11-12
 v. Bracia: Ale Chrystus, stawiwszy się Najwyższym kapłanem dóbr przyszłych, przez większy i doskonalszy przybytek, nie ręką uczniony, to jest, nie tego stworzenia, ani przez krew kozłów albo cielców; ale przez własną krew wszedł raz do świątnicę, nalazłszy wieczne odkupienie. 
 $Deo gratias
 
@@ -131,12 +131,12 @@ Ja nie szukam * chwały Swej: jest, który szuka i sądzi.
 Zaprawdę, zaprawdę mówię wam: * jeśli kto zachowa mowę Moją, śmierci nie ogląda na wieki.
 
 [Capitulum Sexta]
-!Hbr 9:13-14
+!Hebr 9:13-14
 v. Albowiem jeźli krew kozłów i wołów i popiół jałowice pokropiony spługawione poświęca ku oczyszczeniu ciała, jako daleko więcej krew Chrystusowa, który przez Ducha Świętego samego siebie ofiarował niepokalanym Bogu, czyści sumnienie nasze od martwych uczynków, ku służeniu Bogu żywiącemu? 
 $Deo gratias
 
 [Capitulum Nona]
-!Hbr 9:15
+!Hebr 9:15
 v. I dlatego jest nowego Testamentu pośrednikiem, żeby za przystąpieniem śmierci, na odkupienie występków tych, które były pod pierwszym Testamentem, obietnicę wzięli, którzy wezwani są do wiecznego dziedzictwa, w Chrystusie Jezusie Panu naszym.
 $Deo gratias
 

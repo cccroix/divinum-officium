@@ -20,7 +20,7 @@ $Per Dominum
 
 [Lectio1]
 Początek Listu św. Pawła Apostoła do Rzymian
-!Rz 1:1-7
+!Rom 1:1-7
 1 Paweł, sługa Jezusa Chrystusa, powołany Apostół, odłąćzony na Ewangelią Bożą,
 2 Którą był przed tem obiecał przez proroki swoje w Piśmiech świętych,
 3 O Synu swoim, który się stał jemu z nasienia Dawidowego wedle ciała,
@@ -33,7 +33,7 @@ Początek Listu św. Pawła Apostoła do Rzymian
 @Sancti/12-25:Responsory2
 
 [Lectio2]
-!Rz 1:8-12
+!Rom 1:8-12
 8 Najprzód dziękuję Bogu mojemu przez Jezusa Chrystusa za was wszystkich, iż wiara wasza bywa opowiadana po wszystkim świecie.
 9 Albowiem świadek mi jest Bóg, któremu służę w duchu moim w Ewangelii Syna jego, że bez przestanku na was pamiętam,
 10 Zawsze w modlitwach moich prosząc, ażebych jako wżdy kiedy mógł mieć szczęśliwą drogę, za wolą Bożą przyjść do was.
@@ -44,7 +44,7 @@ Początek Listu św. Pawła Apostoła do Rzymian
 @Sancti/12-25:Responsory3
 
 [Lectio3]
-!Rz 1:13-19
+!Rom 1:13-19
 13 A nie chcę, abyście wiedzieć nie mieli, bracia! iżem często przedsiębrał przyjść do was, (a jestem dotąd zawściągniony), abych miał jaki pożytek z was, jako i z inszych narodów.
 14 Grekom i barbarzynom, mądrym i niemądrym jestem powinien,
 15 Tak iż ile zemnie, gotowość jest Ewangelią opowiadać i wam, którzyście w Rzymie.

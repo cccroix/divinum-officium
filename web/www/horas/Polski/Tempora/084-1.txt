@@ -1,6 +1,6 @@
 [Lectio1]
 Z Księgi Ekklezjastyka
-!Syr 1:22-26
+!Eccl 1:22-26
 22 Bojaźń Pańska korona mądrości napełniając pokój i owoc zbawienny;
 23 widział, i rozliczył ją, a oboje są dary Boże.
 24 Naukę i wyrozumienie roztropności mądrość podzielać będzie i chwałę dzierżących ją podwyższa.
@@ -11,7 +11,7 @@ Z Księgi Ekklezjastyka
 @Tempora/081-1:Responsory1
 
 [Lectio2]
-!Syr 1:27-33
+!Eccl 1:27-33
 27 Bojaźń Pańska wypędza grzech,
 28 bo kto bez bojaźni jest, nie będzie mógł być usprawiedliwiony, bo zapalczywość śmiałości jego jest wywróceniem jego.
 29 Aż do czasu zniesie cierpliwy, a po tym oddanie wdzięczności.
@@ -24,7 +24,7 @@ Z Księgi Ekklezjastyka
 @Tempora/081-1:Responsory2
 
 [Lectio3]
-!Syr 1:34-40
+!Eccl 1:34-40
 34 Mądrość bowiem i umiejętność bojaźń Boża, i co mu się podoba,
 35 wiara i cichość, i napełni skarby jego.
 36 Nie wątp w bojaźni Pańskiej a nie przystępuj do niego sercem dwoistym.

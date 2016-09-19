@@ -11,7 +11,7 @@ $Per Dominum
 
 [Lectio1]
 Początek listu do Żydów
-!Hbr 1:1-4
+!Hebr 1:1-4
 1 Rozmaicie i wielą sposobów mówiwszy dawno Bóg ojcom przez Proroki:
 2 Na ostatek tych dni mówił do nas przez Syna, którego postanowił dziedzicem wszystkiego, przez którego uczynił i wieki.
 3 Który, gdyż jest jasnością chwały i wyrażeniem istności jego, anosząc wszystko słowem mocy swéj, sprawiwszy oczyszczenie grzechów, siedzi na prawicy majestatu na wysokościach,
@@ -21,7 +21,7 @@ Początek listu do Żydów
 @Tempora/Epi2-0:Responsory1
 
 [Lectio2]
-!Hbr 1:5-9
+!Hebr 1:5-9
 5 Bo któremuż kiedy z Aniołów rzekł: Synem moim jesteś ty, Jam ciebie dziś urodził? I zasię: Ja mu będę Ojcem, a on mnie będzie Synem?
 6 A gdy zasię wprowadza pierworodnego na okrąg ziemie, mówi: A niech się mu kłaniają wszyscy Aniołowie Boży.
 7 A do Aniołówci mówi: Który czyni Aniołami swymi duchy, a sługami swymi płomień ognia.
@@ -32,7 +32,7 @@ Początek listu do Żydów
 @Tempora/Epi2-0:Responsory2
 
 [Lectio3]
-!Hbr 1:10-14
+!Hebr 1:10-14
 10 I tyś, Panie! na początku ugruntował ziemię, a dzieła rąk twoich są niebiosa.
 11 One poginą, a ty trwać będziesz: a wszystkie jako szata zwiotszeją.
 12 A jako odzienie zmienisz je, i odmienią się; ale ty tenżeś jest, i lata twoje nie ustaną?
@@ -64,7 +64,7 @@ Functionem igitur discernens Apostolus, tum veterem, tum novam, magna dicendi li
 
 [Lectio7]
 Czytanie Ewangelii świętej według św. Mateusza.
-!Mt 13:31-35
+!Matth 13:31-35
 Onego czasu: Powiedział Jezus rzeszom tę przypowieść: „Podobne jest Królestwo Niebieskie ziarnu gorczycznemu, które wziąwszy, człowiek posiał na roli swojej”. I tak dalej.
 _
 Homilia świętego Hieronima, Kapłana

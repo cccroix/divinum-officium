@@ -20,7 +20,7 @@ Błogosławionaś Ty, * Marjo Panno, od Pana Boga Najwyższego nad wszystkie nie
 Pociągnij nas, * Dziewico Niepokalana: za Tobą pobieżemy do wonności olejków twoich.;;147
 
 [Capitulum Vespera]
-!Prz 8:22-24
+!Prov 8:22-24
 v. Pan mię posiadł na początku dróg swoich, pierwej niźli co czynił z początku. Od wieku jestem i starodawna, pierwej niźli się ziemia stała. Jeszcze nie było przepaści, a jam już poczęta była.
 $Deo gratias
 
@@ -81,7 +81,7 @@ R. Nie dał pociechy nieprzyjaciołom moim nademną.
 
 [Lectio1]
 Z księgi Rodzaju
-!Rdz 3:1-5
+!Gen 3:1-5
 1 Ale i Wąż był chytrszy nad inne wszystkie zwierzęta ziemne, które był Pan Bóg stworzył. Który rzekł do niewiasty: Czemu wam Bóg przykazał, żebyście nie jedli z każdego drzewa rajskiego?
 2 Któremu odpowiedziała niewiasta: Z owocu drzew, które są w raju, pożywamy:
 3 Ale z owocu drzewa, które jest w pośród raju, rozkazał nam Bóg, abyśmy nie jedli, i nie dotykali się go, byśmy snadź nie pomarli.
@@ -89,13 +89,13 @@ Z księgi Rodzaju
 5 Bo wie Bóg, iż któregokolwiek dnia będziecie jeść z niego, otworzą się oczy wasze: i będziecie jako bogowie, wiedząc dobre i złe.
 
 [Lectio2]
-!Rdz 3:6-8
+!Gen 3:6-8
 6 Ujrzała tedy niewiasta, że dobre było drzewo ku jedzeniu i piękne oczom, i na wejrzeniu rozkoszne: i wzięła z owocu jego, i jadła, i dała mężowi swemu, który jadł. [14]
 7 I otworzyły się oczy obojga: a gdy poznali, że byli nagimi, pozszywali liście figowe, i poczynili sobie zasłony.
 8 A gdy usłyszeli głos Pana Boga przechodzącego się po raju na wiatrku z południa, skrył się Adam i żona jego od oblicza Pana Boga między drzewa rajskie.
 
 [Lectio3]
-!Rdz 3:9-15
+!Gen 3:9-15
 9 I zawołał Pan Bóg Adama, i rzekł mu: Gdzieżeś?
 10 Który odpowiedział: Usłyszałem twój głos w raju, i zlękłem się, przeto, żem jest nagi, i skryłem się.
 11 Któremu rzekł: A któż ci pokazał, żeś jest nagim, jedno żeś jadł z drzewa, z któregom ci rozkazał abyś nie jadł?
@@ -106,7 +106,7 @@ Z księgi Rodzaju
 
 [Lectio7]
 Czytanie Ewangelii świętej według św. Łukasza
-!Łk 1:26-28
+!Luc 1:26-28
 Onego czasu: Posłany jest Anioł Gabriel od Boga do miasta galilejskiego, które zwano Nazaret, do Panny poślubionej mężowi, któremu było na imię Józef, z domu Dawidowego, a imię Panny Maryja. I tak dalej.
 _
 Homilia świętego Germana, Biskupa
@@ -142,7 +142,7 @@ Błogosławionaś Ty, * Marjo Panno, od Pana Boga Najwyższego nad wszystkie nie
 Pociągnij nas, * Dziewico Niepokalana: za Tobą pobieżemy do wonności olejków twoich.
 
 [Capitulum Laudes]
-!Prz 8:22-24
+!Prov 8:22-24
 v. Pan mię posiadł na początku dróg swoich, pierwej niźli co czynił z początku. Od wieku jestem i starodawna, pierwej niźli się ziemia stała. Jeszcze nie było przepaści, a jam już poczęta była.
 $Deo gratias
 
@@ -154,11 +154,11 @@ R. Której dziewicza stopa zdeptała głowę węża.
 I rzekł Pan Bóg * do węża: położę nieprzyjaźń między tobą, a między niewiastą: i między nasieniem twem, a nasieniem jéj: ona zetrze głowę twoję, alleluja.
 
 [Lectio Prima]
-!Ap 12:1
+!Apoc 12:1
 v. I ukazał się znak wielki na niebie: Niewiasta obleczona w słońce a księżyc pod jéj nogami, a na głowie jéj korona z gwiazd dwunaści:
 
 [Capitulum Tertia]
-!Prz 8:22-24
+!Prov 8:22-24
 v. Pan mię posiadł na początku dróg swoich, pierwej niźli co czynił z początku. Od wieku jestem i starodawna, pierwej niźli się ziemia stała. Jeszcze nie było przepaści, a jam już poczęta była.
 $Deo gratias
 
@@ -174,7 +174,7 @@ V. W temem poznał iżeś mię chciał.
 R. Że się nie będzie weselił nieprzyjaciel mój nademną.
 
 [Capitulum Sexta]
-!Ez 44:2-3
+!Ezech 44:2-3
 v. Ta brama zamkniona będzie, nie będzie otworzona, i mąż nie wnidzie przez nię; bo Pan, Bóg Izraelski, wszedł przez nię, i będzie zamkniona Książęciu. Książę samo będzie siedzieć w niéj.
 $Deo gratias
 
@@ -190,7 +190,7 @@ V. Wywyższać cię będę, Panie, żeś mię przyjął.
 R. Nie dał pociechy nieprzyjaciołom moim nademną.
 
 [Capitulum Nona]
-!Ap 12:1
+!Apoc 12:1
 v. I ukazał się znak wielki na niebie: Niewiasta obleczona w słońce a księżyc pod jéj nogami, a na głowie jéj korona z gwiazd dwunaści:
 $Deo gratias
 

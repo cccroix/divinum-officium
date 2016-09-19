@@ -7,7 +7,7 @@ vide Tempora/Pasc2-3;
 
 [Lectio1]
 Z Dziejów Apostolskich
-!Dz 24:10-16
+!Act 24:10-16
 10 Lecz Paweł odpowiedział, (gdy mu starosta mówić dozwolił): Wiedząc, że od wiela lat jesteś sędzią narodu tego, tem lepszem sercem dam sprawę o sobie.
 11 Albowiem dowiedzieć się możesz, iż niemasz więcéj dni jedno dwanaście, jakom ja przyszedł do Jeruzalem, abym się modlił.
 12 I nie naleźli mię ani w kościele ni z kim gadającego, albo konkurs ludu czyniącego, ani w bóżnicach, ani w mieście.
@@ -20,7 +20,7 @@ Z Dziejów Apostolskich
 @Tempora/Pasc0-2:Responsory1
 
 [Lectio2]
-!Dz 24:17-21
+!Act 24:17-21
 17 A po wielu lat przyszedłem, abym uczynił jałmużny narodowi mojemu i ofiary i śluby.
 18 W czem naleźli mię oczyszczonego w kościele, nie z rzeszą, ani z rozruchem.
 19 A niektórzy Żydowie z Azyi, którzy tu mieli stanąć przed tobą i skarżyć, jeźliby co mieli przeciwko mnie,
@@ -31,7 +31,7 @@ Z Dziejów Apostolskich
 @Tempora/Pasc0-2:Responsory2
 
 [Lectio3]
-!Dz 24:22-27
+!Act 24:22-27
 22 A Felix odłożył je, gdyż pewnie wiedział o téj drodze, mówiąc: Kiedy Tysiącznik Lizyasz przyjedzie, wysłucham was.
 23 I rozkazał rotmistrzowi strzedz go, a iżby miał wczas, i aby nie bronił żadnemu z przyjaciół jego służyć mu.
 24 A po kilku dni przyjechawszy Felix z Drusyllą, żoną swą, która była Żydówka, wezwał Pawła i słuchał od niego wiary, która jest w Chrystusa Jezusa.

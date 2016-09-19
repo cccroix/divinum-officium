@@ -13,7 +13,7 @@ Przyjdź wybrana moja, * a założę w tobie stolicę moją, alleluja.;;126
 Ta jest piękna * pomiędzy córkami Jerozolimskiemi.;;147
 
 [Capitulum Vespera]
-!Prz 31:10-11
+!Prov 31:10-11
 v. Niewiastę mężną któż znajdzie? daleko i od ostatecznych granic cena jéj. Ufa w niéj serce męża jéj, a korzyści nie będzie potrzebował.
 $Deo gratias.
 
@@ -59,7 +59,7 @@ Chwalmy Boga naszego, * Cześć oddając błogosławionej N.
 
 [Lectio1]
 Z Księgi Przysłów Salomona.
-!Prz 31:10-17
+!Prov 31:10-17
 10 Niewiastę mężną któż znajdzie? daleko i od ostatecznych granic cena jéj.
 11 Ufa w niéj serce męża jéj, a korzyści nie będzie potrzebował.
 12 Odda mu dobrem, a nie złem po wszystkie dni żywota swojego.
@@ -70,7 +70,7 @@ Z Księgi Przysłów Salomona.
 17 Przepasała mocą biodra swoje, i zmocniła ramiona swoje.
 
 [Lectio2]
-!Prz 31:18-24
+!Prov 31:18-24
 18 Skosztowała i ujrzała, że dobre jest kupiectwo jéj, nie zgaśnie w nocy kaganiec jéj.
 19 Rękę swą ściągnęła do mocnych rzeczy: a palce jéj ujęły wrzeciono.
 20 Rękę swą otworzyła ubogiemu, a dłonie swe ściągnęła ku niedostatecznemu.
@@ -80,7 +80,7 @@ Z Księgi Przysłów Salomona.
 24 Rąbek urobiła i przedała: i pas podała Chananejczykowi.
 
 [Lectio3]
-!Prz 31:25-31
+!Prov 31:25-31
 25 Moc i ochędóstwo ubiór jéj: i śmiać się będzie czasu potomnego.
 26 Usta swe otwarza mądrości, a zakon miłosierdzia na języku jéj.
 27 Upatrowała ścieżki domu swego, a chleba próżnując nie jadła.
@@ -91,7 +91,7 @@ Z Księgi Przysłów Salomona.
 
 [Lectio7]
 Czytanie Ewangelii świętej według Mateusza
-!Mt 13:44-52
+!Matth 13:44-52
 Onego czasu: Powiedział Jezus uczniom swoim tę przypowieść: „Podobne jest Królestwo Niebieskie do skarbu ukrytego w roli”. I tak dalej.
 _
 Homilia świętego Grzegorza, Papieża
@@ -127,7 +127,7 @@ Przyjdź wybrana moja, * a założę w tobie stolicę moją, alleluja.
 Ta jest piękna * pomiędzy córkami Jerozolimskiemi.
 
 [Capitulum Laudes]
-!Prz 31:10-11
+!Prov 31:10-11
 v. Niewiastę mężną któż znajdzie? daleko i od ostatecznych granic cena jéj. Ufa w niéj serce męża jéj, a korzyści nie będzie potrzebował.
 $Deo gratias.
 
@@ -154,11 +154,11 @@ Daj nam prosimy Cię, Panie, Boże nasz, Świętych Męczenniczek Twoich N. i N.
 $Per Dominum
 
 [Lectio Prima]
-!Prz 31:29-30
+!Prov 31:29-30
 v. Wiele córek zebrało bogactwa: tyś przewyższyła wszystkie. Omylna wdzięczność i marna jest piękność: niewiasta bojąca się Boga, ta będzie chwalona.
 
 [Capitulum Tertia]
-!Prz 31:10-11
+!Prov 31:10-11
 v. Niewiastę mężną któż znajdzie? daleko i od ostatecznych granic cena jéj. Ufa w niéj serce męża jéj, a korzyści nie będzie potrzebował.
 $Deo gratias.
 
@@ -174,7 +174,7 @@ V. Wspomoże ją Bóg obliczem swoim.
 R. Bóg w pośrodku jej, nie będzie poruszona.
 
 [Capitulum Sexta]
-!Prz 31:20-21
+!Prov 31:20-21
 v. Rękę swą otworzyła ubogiemu, a dłonie swe ściągnęła ku niedostatecznemu. Nie będzie się bała domowi swemu zimna śnieżnego.
 $Deo gratias.
 
@@ -190,7 +190,7 @@ V. Wybrał ją Bóg, i przybrał ją.
 R. W namiocie swoim dał jej mieszkanie.
 
 [Capitulum Nona]
-!Prz 31:29-30
+!Prov 31:29-30
 v. Wiele córek zebrało bogactwa: tyś przewyższyła wszystkie. Omylna wdzięczność i marna jest piękność: niewiasta bojąca się Boga, ta będzie chwalona.
 $Deo gratias.
 

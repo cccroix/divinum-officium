@@ -48,7 +48,7 @@ Amen.
 
 [Lectio1]
 Z Proroka Jeremiasza
-!Jr 31:15-17
+!Joann 31:15-17
 15 To mówi Pan: Głos na wysokości słyszan jest narzekania, płaczu i żałości: Rachel płaczącéj synów swoich, a nie chcącéj przyjąć pocieszenia nad nimi, że ich niemasz. [52]
 16 To mówi Pan: Niech przestanie głos twój od płaczu i oczy twoje od łez; bo ma zapłatę robota twoja, mówi Pan, i wrócą się z ziemie nieprzyjacielskiéj.
 17 I jest nadzieja o ostatku twym, mówi Pan, i wrócą się synowie do granic swoich.
@@ -60,13 +60,13 @@ V. Ci są, którzy przyszli z ucisku wielkiego, i omyli szaty swoje we krwi Bara
 R. Virgines enim permanserunt, ideo regnant cum Deo, et Agnus Dei cum illis.
 
 [Lectio2]
-!Jr 31:18-20
+!Joann 31:18-20
 18 Słysząc słyszałem Ephraima przenoszącego się: Karałeś mię, i wyćwiczyłem się, jako cielec nie ukrócony. Nawróć mię, a nawrócę się; boś ty Pan, Bóg mój.
 19 Bo skoroś mię nawrócił, czyniłem pokutę:[53] a skoroś mi pokazał, uderzyłem się w biodrę moję. Zawstydziłem się i zasromałem się, żem odniósł hańbę młodości mojéj.
 20 Jeźli syn poczciwy mnie Ephraim, jeźli dziecię rozkoszne? Bo od onąd, jakom mówił o nim, jeszcze nań będę pamiętał. Przetóż się poruszyły wnętrzności moje nad nim, litując zlituję się nad nim, mówi Pan.
 
 [Lectio3]
-!Jr 31:21-23
+!Joann 31:21-23
 21 Postaw sobie strażnicę, nakładź sobie gorzkości, obróć serce swe ku drodze prostéj, którąś chodziła! wróć się, panno Izraelska! wróć się do tych miast twoich.
 22 Dokądże od rozkoszy rozpuścisz się, córko błędna? Bo Pan stworzył nowinę na ziemi: białagłowa ogarnie męża.
 23 To mówi Pan zastępów, Bóg Izraelów: Jeszcze będą mówić to słowo w ziemi Judzkiej i w mieściech jéj, gdy nawrócę poimanie ich: Niechaj ci błogosławi Pan, piękność sprawiedliwości, góro święta!
@@ -92,7 +92,7 @@ Ci są, * którzy przyszli z ucisku wielkiego, i omyli szaty swoje we krwi Baran
 
 [Lectio7]
 Czytanie Ewangelii świętej według św. Mateusza
-!Mt 2:13-18
+!Matth 2:13-18
 Onego czasu: Anioł Pański ukazał się we śnie Józefowi, mówiąc: „Wstań, a weźmij Dziecię i Matkę Jego i uchodź do Egiptu. A pozostań tam, aż ci oznajmię”. I tak dalej.
 _
 Homilia świętego Hieronima, Kapłana
@@ -133,7 +133,7 @@ Głos jest słyszan w Ramie, * płacz i krzyk wielki: Rachel płacząca synów s
 Pod tronem Boga * wszyscy święci wołają: Pomścij krew naszą, Boże nasz.
 
 [Capitulum Laudes]
-!Ap 14:1
+!Apoc 14:1
 v. I widziałem, a oto Baranek stał na górze Syon, a z nim sto czterdzieści i cztery tysiące, mających imię jego i imię Ojca jego napisane na czolech swoich.
 $Deo gratias
 
@@ -163,21 +163,21 @@ Ci są * którzy się z niewiastami nie pokalali: bo dziewicami są, ci chodzą 
 
 
 [Lectio Prima]
-!Ap 14:4-5
+!Apoc 14:4-5
 v. Ci kupieni są z ludzi pierwiastkami Bogu i Barankowi. a w uściech ich nie nalazło się kłamstwo; albowiem bez zmazy są przed stolicą Bożą.
 
 [Capitulum Tertia]
-!Ap 14:1
+!Apoc 14:1
 v. I widziałem, a oto Baranek stał na górze Syon, a z nim sto czterdzieści i cztery tysiące, mających imię jego i imię Ojca jego napisane na czolech swoich.
 $Deo gratias
 
 [Capitulum Sexta]
-!Ap 14:4
+!Apoc 14:4
 v. Ci są * którzy się z niewiastami nie pokalali: bo dziewicami są, ci chodzą za Barankiem, gdziekolwiek idzie.
 $Deo gratias
 
 [Capitulum Nona]
-!Ap 14:4-5
+!Apoc 14:4-5
 v. Ci kupieni są z ludzi pierwiastkami Bogu i Barankowi. a w uściech ich nie nalazło się kłamstwo; albowiem bez zmazy są przed stolicą Bożą.
 $Deo gratias
 
@@ -189,7 +189,7 @@ U Pana * miłosierdzie i obfite u Niego odkupienie.;;129
 Z owocu * żywota Twego posadzę na stolicy Twojej.;;131
 
 [Capitulum Vespera]
-!Ap 14:1
+!Apoc 14:1
 I widziałem, a oto Baranek stał na górze Syon, a z nim sto czterdzieści i cztery tysiące, mających imię jego i imię Ojca jego napisane na czolech swoich.
 $Deo gratias
 

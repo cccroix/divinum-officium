@@ -15,7 +15,7 @@ Jeśli Mi kto będzie służył, * uczci go Ojciec Mój, który jest w niebiesie
 Chcę Ojcze, * aby, gdziem Ja jest, tam i sługa Mój był.
 
 [Capitulum Vespera]
-!Jk 1:12
+!Joann 1:12
 v. Błogosławiony mąż, który zdzierża pokusę; bo gdy będzie doświadczony, weźmie koronę żywota, którą obiecał Bóg tym, którzy go miłują.
 $Deo gratias
 
@@ -61,7 +61,7 @@ Pana, Króla Męczenników, * pójdźmy uwielbiać.
 
 [Lectio1]
 Z Dziejów Apostolskich
-!Dz 20:17-24
+!Act 20:17-24
 17 A z Miletu posławszy do Ephezu, przyzwał starszych kościelnych.
 18 Którzy gdy przyszli do niego i byli wespółek, rzekł im: Wy wiecie od pierwszego dnia, któregom wszedł do Azyi, jakom z wami był przez wszystek czas.
 19 Służąc Panu z wszelaką pokorą i ze łzami i pokusami, które na mię przychadzały z zasadzek żydowskich:
@@ -78,7 +78,7 @@ V. Ten jest, który pogardził życiem świata, i przeszedł do królestwa niebi
 R. Bo utwierdził się na silnej opoce.
 
 [Lectio2]
-!Dz 20:25-31
+!Act 20:25-31
 25 A teraz oto ja wiem, że nie oglądacie więcéj oblicza mego wy wszyscy, przez którem przeszedł, przepowiadając królestwo Boże.
 26 Przetóż oświadczam się wam dnia dzisiejszego, żem czysty jest ode krwie wszystkich.
 27 Albowiemem się nie chronił, żebych wam nie miał oznajmiać wszelkiéj rady Bożéj.
@@ -94,7 +94,7 @@ V. Wsadzeni w domu Pańskim, w sieniach domu Boga naszego.
 R. I zakwitnie na wieki przed Panem.
 
 [Lectio3]
-!Dz 20:32-38
+!Act 20:32-38
 32 A teraz poruczam was Bogu i słowu łaski jego, który mocen jest zbudować i dać dziedzictwo między wszystkimi poświęconymi.
 33 Srebra i złota, albo szaty żadnegom nie pożądał.
 34 Jako sami wiecie, iż moim potrzebom i tych, którzy są ze mną, służyły te ręce. [108]
@@ -169,7 +169,7 @@ Spraw, prosimy, wszechmogący Boże, niech przyczyna błogosławionego N., Męcz
 $Per Dominum
 
 [Lectio Prima]
-!Syr 39:6
+!Eccl 39:6
 v. Obróci serce swe, aby wstawał rano do Pana, który go stworzył, a przed oczyma Nawyższego modlić się będzie.
 
 [Capitulum Tertia]
@@ -187,7 +187,7 @@ V. Włożyłeś, Panie, na głowę jego.
 R. Koronę z kamienia drogiego.
 
 [Capitulum Sexta]
-!Syr 15:3
+!Eccl 15:3
 v. Nakarmi go chlebem żywota i rozumienia a wodą mądrości zbawiennej napoi go.
 $Deo gratias
 
@@ -203,7 +203,7 @@ V. Wielka jest chwała jego w zbawieniu twojem.
 R. Sławę i wielką ozdobę nań włożysz.
 
 [Capitulum Nona]
-!Syr 39:6
+!Eccl 39:6
 v. Obróci serce swe, aby wstawał rano do Pana, który go stworzył, a przed oczyma Nawyższego modlić się będzie.
 $Deo gratias
 

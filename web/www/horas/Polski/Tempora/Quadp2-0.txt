@@ -9,7 +9,7 @@ Dominica in Sexagesima;;Semiduplex;;5
 Invit2
 
 [Capitulum Vespera]
-!2Kor 11:19-20
+!2 Cor 11:19-20
 v. Bracia: Albowiem radzi znosicie bezrozumne, będąc sami rozumnymi. Bo znosicie, jeźli was kto w niewolą podbija, jeźli kto pożera, jeźli kto bierze, jeźli się kto wynosi, jeźli was kto w gębę bije.
 $Deo gratias
 
@@ -26,7 +26,7 @@ $Per Dominum
 
 [Lectio1]
 Z Księgi Rodzaju
-!Rdz 5:31; 6:1-4
+!Gen 5:31; 6:1-4
 31 Noe zaś gdy był piąci set lat, zrodził Sema, Chama, i Japheta.
 1 A gdy się ludzie poczęli rozmnażać na ziemi, i zrodzili córki:
 2 Widząc synowie Boży córki ludzkie, iż były piękne, wzięli sobie za żony ze wszystkich, które obrali.
@@ -40,14 +40,14 @@ V. Uczyń sobie korab z drzewa heblowanego: mieszkaniczka w nim poczynisz.
 R. A ja wytracę ich z ziemi.
 
 [Lectio2]
-!Rdz 6:5-8
+!Gen 6:5-8
 5 A widząc Bóg, że wiele było złości ludzkiéj na ziemi, a wszystka myśl serca była napięta ku złemu po wszystek czas:
 6 Żal mu było, że uczynił człowieka na ziemi: i ruszony serdeczną boleścią wewnątrz rzekł:
 7 Wygładzę człowieka, któregom stworzył z obliczności ziemie: od człowieka aż do zwierząt: od ziemopłazu aż do ptastwa powietrznego; bo mi żal, żem je uczynił.
 8 Noe zaś nalazł łaskę przed Panem.
 
 [Lectio3]
-!Rdz 6:9-15
+!Gen 6:9-15
 9 Noego rodzaje te są. Noe mąż sprawiedliwy i doskonały był w rodzajach swoich, z Bogiem chodził.
 10 I zrodził trzech synów, Sema, Chama, i Japhetha.
 11 Ale ziemia skaziła się przed Bogiem, i napełniła się nieprawością.
@@ -70,7 +70,7 @@ R. I wspomnię na przymierze moje z wami.
 
 [Lectio7]
 Czytanie Ewangelii świętej według Łukasza
-!Łk 8:4-15
+!Luc 8:4-15
 Onego czasu: Gdy zgromadziła się rzesza wielka i z miast zdążali do Jezusa, mówił w przypowieści: „Wyszedł siewca rozsiewać ziarna swoje”. I tak dalej.
 _
 Homilia świętego Grzegorza, Papieża
@@ -127,12 +127,12 @@ Którzy słowo Boże * dokładnie w sercu zatrzymywają, owoc przynoszą w cierp
 Nasienie padło * na ziemię dobrą, i przyniosło owoc, jedno setny, drugie sześćdziesiątny.
 
 [Capitulum Sexta]
-!2Kor 11:25
+!2 Cor 11:25
 v. Trzykroć byłem bit rózgami, razem był ukamionowan, trzykrociem się z okrętem rozbił, przez dzień i przez noc byłem w głębi morskiéj.
 $Deo gratias
 
 [Capitulum Nona]
-!2Kor 12:9
+!2 Cor 12:9
 v. Rad się tedy przechwalać będę w krewkościach moich, aby we mnie mieszkała moc Chrystusowa.
 $Deo gratias
 

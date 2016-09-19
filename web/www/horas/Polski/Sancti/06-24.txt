@@ -19,7 +19,7 @@ Oto dziecię, * wielkie przed Panem, bowiem ręka Pańska z niem jest.
 Nazarejczykiem * nazwane będzie: wina i sycery nie będzie pić, i nic nieczystego jeść nie będzie z żywota matki swojej.
 
 [Capitulum Vespera]
-!Iz 49:1
+!Isai 49:1
 v. Słuchajcie, wyspy, a pilnujcie narodowie zdaleka! Pan z żywota powołał mię, z żywota matki mojej wspomniał na imię moje.
 $Deo gratias
 
@@ -90,7 +90,7 @@ Amen.
 
 [Lectio1]
 Początek Księgi Proroka Jeremiasza
-!Jr 1:1-5
+!Joann 1:1-5
 1 Słowa Jeremiasza, syna Helcyaszowego, z kapłanów, którzy byli w Anathot, w ziemi Benjamin.
 2 Które słowo Pańskie stało się do niego za dni Jozyasza, syna Amon, króla Judzkiego, trzynastego roku królestwa jego.
 3 A stało się za dni Joakima, syna Jozyaszowego, króla Judzkiego, aż do skończenia jedenastego roku Sedecyasza, syna Jozyasza, króla Judzkiego, aż do przeprowadzenia Jeruzalem, miesiąca piątego.
@@ -98,7 +98,7 @@ Początek Księgi Proroka Jeremiasza
 5 Pierwéj, niźlim cię utworzył w żywocie, znałem cię: i pierwéj, niżeliś wyszedł z żywota, poświęciłem cię: i prorokiem między narody dałem cię.
 
 [Lectio2]
-!Jr 1:6-10
+!Joann 1:6-10
 6 I rzekłem: A, a, a, Panie Boże! oto nie umiem mówić; bom ja jest dziecina.
 7 I rzekł Pan do mnie: Nie mów: Jestem dziecina; bo na wszystko, na co cię poślę, pójdziesz, i wszystko, cokolwiek ci rozkażę, mówić będziesz.
 8 Nie bój się oblicza ich; bom Ja z tobą jest, abym cię wybawił, mówi Pan.
@@ -106,7 +106,7 @@ Początek Księgi Proroka Jeremiasza
 10 Otom cię dziś postanowił nad narodami i nad królestwy, abyś wyrywał i kaził i wytracał i rozwalał i budował i sadził.
 
 [Lectio3]
-!Jr 1:17-19
+!Joann 1:17-19
 17 A tak ty przepasz biodra twoje, a wstań i mów do nich wszystko, co Ja każę tobie: nie bój się oblicza ich; bo Ja uczynię, że się nie zlękniesz twarzy ich.
 18 Albowiem Ja uczyniłem cię dziś miastem obronnem i słupem żelaznym i murem miedzianym na wszystkiéj ziemi, królom Juda, książętom jego i kapłanom i ludowi ziemie.
 19 I będą walczyć na cię, a nie przemogą; bom Ja z tobą jest, mówi Pan, abych cię wybawił.
@@ -129,7 +129,7 @@ R. Jan jest imię jego.
 
 [Lectio7]
 Czytanie Ewangelii świętej według Łukasza
-!Łk 1:57-69
+!Luc 1:57-69
 Elżbiecie wypełnił się czas rozwiązania i porodziła syna. I usłyszeli sąsiedzi i krewni jej, że Pan swe wielkie miłosierdzie jej okazał, i radowali się wespół z nią. I tak dalej.
 _
 Homilia świętego Ambrożego, Biskupa
@@ -202,7 +202,7 @@ R. Bowiem ręka Pańska z niem jest.
 Otworzyły się * usta Zachariasza, i prorokował, mówiąc: Błogosławiony Pan, Bóg Izraelski.
 
 [Lectio Prima]
-!Iz 49:7
+!Isai 49:7
 v. Królowie oglądają, a powstaną książęta, i kłaniać się będą dla Pana, iż wierny jest, i dla Świętego Izraelowego, który cię wybrał.
 
 [Capitulum Tertia]
@@ -220,7 +220,7 @@ V. Między narodzonymi z niewiast nie powstał większy.
 R. Niż Jan Chrzciciel.
 
 [Capitulum Sexta]
-!Iz 49:5-6
+!Isai 49:5-6
 v. A teraz mówi Pan, który mię utworzył z żywota sługą sobie: Oto dałem cię na światłość narodów, abyś był zbawieniem mojem aż do kończyn ziemie.
 $Deo gratias
 
