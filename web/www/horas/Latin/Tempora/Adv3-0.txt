@@ -29,7 +29,7 @@ $Qui vivis
 
 [Lectio1]
 De Isaia Propheta
-!Isa 26:1-6
+!Isai 26:1-6
 1 In die illa cantabitur canticum istud in terra Juda: Urbs fortitudinis nostrae Sion; salvator ponetur in ea murus et antemurale.
 2 Aperite portas, et ingrediatur gens justa, custodiens veritatem.
 3 Vetus error abiit: servabis pacem; pacem, quia in te speravimus.
@@ -44,7 +44,7 @@ V. Apparebit in finem, et non mentietur; si moram fecerit, exspecta eum, quia ve
 R. Et cum eo sanctorum millia: et habebit in vestimento, et in femore suo scriptum: Rex regum, et Dominus dominantium.
 
 [Lectio2]
-!Isa 26:7-10
+!Isai 26:7-10
 7 Semita justi recta est, rectus callis justi ad ambulandum.
 8 Et in semita judiciorum tuorum, Domine, sustinuimus te: nomen tuum et memoriale tuum in desiderio animae.
 9 Anima mea desideravit te in nocte, sed et spiritu meo in praecordiis meis de mane vigilabo ad te. Cum feceris judicia tua in terra, justitiam discent habitatores orbis.
@@ -57,7 +57,7 @@ V. Loquetur pacem in Gentibus, et potestas ejus a mari usque ad mare.
 R. Et pax erit in terra nostra, dum venerit.
 
 [Lectio3]
-!Isa 26:11-14
+!Isai 26:11-14
 11 Domine, exaltetur manus tua, et non videant; videant, et confundantur zelantes populi; et ignis hostes tuos devoret.
 12 Domine, dabis pacem nobis: omnia enim opera nostra operatus es nobis.
 13 Domine Deus noster, possederunt nos domini absque te; tantum in te recordemur nominis tui.
@@ -104,7 +104,7 @@ R. Orietur in diebus ejus justitia, et abundantia pacis.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Joannem.
-!Joannes 1:19-28
+!Joann 1:19-28
 In illo tempore: Miserunt Judaei ab Jerosolymis sacerdotes et levitas ad Joannem, ut interrogarent eum: Tu quis es? Et reliqua.
 _
 Homilia sancti Gregorii Papae.

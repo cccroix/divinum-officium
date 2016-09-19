@@ -79,7 +79,7 @@ Gentes instruerentur, illi excaecarentur?
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matt 2:1-12
+!Matth 2:1-12
 Cum natus esset Jesus in Bethlehem Juda in diebus Herodis regis, ecce Magi ab~
 Oriente venerunt Jerosolymam, dicentes: Ubi est qui natus est Rex Judaeorum? Et~
 reliqua,

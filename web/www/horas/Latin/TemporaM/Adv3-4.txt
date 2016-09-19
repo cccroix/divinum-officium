@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 De Isaia Propheta
-!Isa 33:1-2
+!Isai 33:1-2
 1 Vae qui praedaris ! nonne et ipse praedaberis? et qui spernis, nonne et ipse~
 sperneris? Cum consummaveris depraedationem, depraedaberis; cum fatigatus~
 desieris contemnere, contemneris.
@@ -20,7 +20,7 @@ V. Et elevabitur supra omnes colles, et fluent ad eum omnes Gentes.
 R. Et stabunt pedes ejus supra montes olivarum ad Orientem.
 
 [Lectio2]
-!Isa 33:3-6
+!Isai 33:3-6
 3 A voce angeli fugerunt populi, et ab exaltatione tua dispersae sunt gentes.
 4 Et congregabuntur spolia vestra sicut colligitur bruchus, velut cum fossae~
 plenae fuerint de eo.
@@ -38,7 +38,7 @@ R. Secundum ordinem Melchisedech Pontifex factus in aeternum, et in saeculum~
 saeculi.
 
 [Lectio3]
-!Isa 33:14-17
+!Isai 33:14-17
 14 Conterriti sunt in Sion peccatores; possedit tremor hypocritas. Quis poterit~
 habitare de vobis cum igne devorante? quis habitabit ex vobis cum ardoribus~
 sempiternis?

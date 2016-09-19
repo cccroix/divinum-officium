@@ -9,7 +9,7 @@ Antiphonas horas
 @Commune/C7
 
 [Capitulum Vespera]
-!Prov. 31:10-11
+!Prov 31:10-11
 v. Mulierem fortem quis inveniet? procul, et de ultimis finibus pretium ejus. Confidit in ea cor viri sui, et spoliis non indigebit.
 $Deo gratias.
 

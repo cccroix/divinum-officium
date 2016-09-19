@@ -15,7 +15,7 @@ Apertis thesauris suis * obtulerunt Magi Domino aurum, thus, et myrrham, allelui
 Stella ista * sicut flamma coruscat, et Regem regum Deum demonstrat: Magi eam viderunt, et magno Regi munera obtulerunt.
 
 [Capitulum Vespera]
-!Isa 60:1
+!Isai 60:1
 v. Surge, illuminare Jerusalem, quia venit lumen tuum, et gloria Domini super te~
 orta est
 $Deo gratias
@@ -100,7 +100,7 @@ R. In aula sancta ejus, alleluia.
 
 [Lectio1]
 De Isaia Propheta.
-!Isa 55:1-4
+!Isai 55:1-4
 1 Omnes sitientes, venite ad aquas, et qui non habetis argentum, properate,~
 emite, et comedite: venite, emite absque argento et absque ulla commutatione~
 vinum et lac.
@@ -130,7 +130,7 @@ R. In auro, ut ostendatur Regis potentia: in thure, Sacerodtem magnum considera:
 et in myrrha, Dominicam sepulturam.
 
 [Lectio2]
-!Isa 60:1-6
+!Isai 60:1-6
 1 Surge, illuminare, Jerusalem, quia venit lumen tuum, et gloria Domini super te~
 orta est.
 2 Quia ecce tenebrae operient terram, et caligo populos; super te autem orietur~
@@ -150,7 +150,7 @@ V. Caeli aperti sunt super eum, et vox Patris intonuit.
 R. Hic est Filius meus dilectus, in quo mihi bene complacui.
 
 [Lectio3]
-!Isa 61:10-11; 62:1
+!Isai 61:10-11; 62:1
 10 Gaudens gaudebo in Domino, et exsultabit anima mea in Deo meo, quia induit me~
 vestimentis salutis, et indumento justitiae circumdedit me, quasi sponsum~
 decoratum corona, et quasi sponsam ornatam monilibus suis.
@@ -230,7 +230,7 @@ Venite adoremus eum: quia ipse est Dominus Deus noster;;94
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matt 2:1-12
+!Matth 2:1-12
 Cum natus esset Jesus in Bethlehem Juda in diebus Herodis regis, ecce Magi ab~
 Oriente venerunt Jerosolymam, dicentes: Ubi est qui natus est Rex Judaeorum? Et~
 reliqua.
@@ -306,7 +306,7 @@ Maria et flumina * benedicite Domino: hymnum dicite fontes Domino, alleluia.
 Stella ista * sicut flamma coruscat, et Regem regum Deum demonstrat: Magi eam viderunt, et magno Regi munera obtulerunt.
 
 [Capitulum Laudes]
-!Isa 60:1
+!Isai 60:1
 v. Surge, illuminare Jerusalem, quia venit lumen tuum, et gloria Domini super te~
 orta est.
 $Deo gratias
@@ -355,12 +355,12 @@ ejus crimina: currunt cum muneribus Magi ad regales nuptias, et ex aqua facto~
 vino laetantur convivae, alleluia.
 
 [Lectio Prima]
-!Isa 60:6
+!Isai 60:6
 v. Omnes de Saba venient, aurum et thus deferentes, et laudem Domino~
 annuntiantes.
 
 [Capitulum Tertia]
-!Isa 60:1
+!Isai 60:1
 v. Surge, illuminare Jerusalem, quia venit lumen tuum, et gloria Domini super te~
 orta est.
 $Deo gratias
@@ -370,7 +370,7 @@ V. Reges Tharsis et insulae munera offerent * Alleluia.
 R. Reges Arabum et Saba dona adducent. Alleluia
 
 [Capitulum Sexta]
-!Isa 60:4
+!Isai 60:4
 v. Leva in circuitu oculos tuos, et vide: omnes isti congregati sunt, venerunt~
 tibi: filii tui de longe venient, et filiae tuae de latere surgent.
 $Deo gratias
@@ -380,7 +380,7 @@ V. Omnes de Saba venient, alleluia.
 R. Aurum et thus deferentes, alleluia.
 
 [Capitulum Nona]
-!Isa 60:6
+!Isai 60:6
 v. Omnes de Saba venient, aurum et thus deferentes, et laudem Domino~
 annuntiantes.
 $Deo gratias
@@ -396,7 +396,7 @@ Christus baptizari voluit, ut salvaret nos, alleluia.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matt 2:1-12
+!Matth 2:1-12
 2:1 Cum ergo natus esset Jesus in Bethlehem Juda in diebus Herodis regis, ecce~
 magi ab oriente venerunt Jerosolymam,
 2:2 dicentes: Ubi est qui natus est rex Judaeorum? vidimus enim stellam ejus in~

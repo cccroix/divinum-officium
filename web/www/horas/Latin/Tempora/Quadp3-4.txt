@@ -4,7 +4,7 @@ Feria V post Cineres;;Feria major;;2
 Preces Feriales
 [Lectio1]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matt 8:5-13
+!Matth 8:5-13
 In illo tempore: Cum introisset Jesus Capharnaum, accessit ad eum centurio, rogans eum, et dicens: Domine, puer meus jacet in domo paralyticus, et male torquetur. Et reliqua.
 _
 Homilia sancti Augustini Episcopi.

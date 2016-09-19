@@ -35,7 +35,7 @@ martyrii corona decoravit.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Joannem.
-!Joannes 20:24-29
+!Joann 20:24-29
 In illo tempore: Thomas unus ex duodecim, qui dicitur Didymus, non erat cum eis,~
 quando venit Jesus. Et reliqua.
 _
@@ -90,7 +90,7 @@ alleluia.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Joannem
-!Joannes 20:24-29
+!Joann 20:24-29
 20:24 Thomas autem unus ex duodecim, qui dicitur Didymus, non erat cum eis~
 quando venit Jesus.
 20:25 Dixerunt ergo ei alii discipuli: Vidimus Dominum. Ille autem dixit eis:~

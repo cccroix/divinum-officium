@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 De Isaia Propheta
-!Isa 3:1-4
+!Isai 3:1-4
 1 Ecce enim Dominator, Dominus exercituum, auferet a Jerusalem et a Juda validum et fortem, omne robur panis, et omne robor aquae;
 2 fortem, et virum bellatorem, judicem, et prophetam, et ariolum, et senem;
 3 principem super quinquaginta, et honorabilem vultu et consiliarium, et sapientem de architectis, et prudentem eloquii mystici.
@@ -20,7 +20,7 @@ V. Super ipsum continebunt reges os suum, ipsum Gentes deprecabuntur.
 R. Quem Joannes praedicavit Agnum esse venturum.
 
 [Lectio2]
-!Isa 3:5-7
+!Isai 3:5-7
 5 et irruet populus, vir ad virum, et unusquisque ad proximum suum; tumultuabitur puer contra senem, et ignobilis contra nobilem.
 6 Apprehendet enim vir fratrem suum, domesticum patris sui: Vestimentum tibi est, princeps esto noster, ruina autem haec sub manu tua.
 7 Respondebit in die illa, dicens: Non sum medicus, et in domo mea non est panis neque vestimentum: nolite constituere me principem populi.
@@ -35,7 +35,7 @@ R. Et erat iterum clausa, demonstrans Virginem, quia post partum permansit~
 virgo.
 
 [Lectio3]
-!Isa 3:8-11
+!Isai 3:8-11
 8 Ruit enim Jerusalem, et Judas concidit, quia lingua eorum et adinventiones eorum contra Dominum, ut provocarent oculos majestatis ejus.
 9 Agnitio vultus eorum respondit eis; et peccatum suum quasi Sodoma praedicaverunt, nec absconderunt. Vae animae eorum, quoniam reddita sunt eis mala !
 10 Dicite justo quoniam bene, quoniam fructum adinventionum suarum comedet.

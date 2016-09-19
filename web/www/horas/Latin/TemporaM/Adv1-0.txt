@@ -34,7 +34,7 @@ $Qui vivis
 
 [Lectio1]
 Incipit liber Isaiae Prophetae
-!Isa 1:1-3
+!Isai 1:1-3
 1 Visio Isaiae, filii Amos, quam vidit super Judam et Jerusalem, in diebus Oziae,~
 Joathan, Achaz, et Ezechiae, regum Juda.
 2 Audite, caeli, et auribus percipe, terra, quoniam Dominus locutus est. Filios~
@@ -61,7 +61,7 @@ terram tegentem.
 populo Israël.
 
 [Lectio2]
-!Isa 1:4-6
+!Isai 1:4-6
 4 Vae genti peccatrici, populo gravi iniquitate, semini nequam, filiis~
 sceleratis ! dereliquerunt Dominum; blasphemaverunt Sanctum Israël; abalienati~
 sunt retrorsum.
@@ -79,7 +79,7 @@ corrumpetur.
 R. Et omnis populus, tribus, et linguae servient ei.
 
 [Lectio3]
-!Isa 1:7-9
+!Isai 1:7-9
 7 Terra vestra deserta; civitates vestrae succensae igni: regionem vestram coram~
 vobis alieni devorant, et desolabitur sicut in vastitate hostili.
 8 Et derelinquetur filia Sion ut umbraculum in vinea, et sicut tugurium in~

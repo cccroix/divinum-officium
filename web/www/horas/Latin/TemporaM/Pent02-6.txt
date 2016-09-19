@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 De libro primo Regum.
-!1 Sam 8:1-4
+!1 Reg 8:1-4
 1 Factum est autem cum senuisset Samuel, posuit filios suos judices Israël.
 2 Fuitque nomen filii ejus primogeniti Joël: et nomen secundi Abia, judicum in Bersabee.
 3 Et non ambulaverunt filii illius in viis ejus: sed declinaverunt post avaritiam, acceperuntque munera, et perverterunt judicium.
@@ -17,7 +17,7 @@ De libro primo Regum.
 @TemporaM/Pent01-3:Responsory1
 
 [Lectio2]
-!1 Sam 9:5-13
+!1 Reg 9:5-13
 5 Cum autem venissent in terram Suph, dixit Saul ad puerum qui erat cum eo: Veni et revertamur, ne forte dimiserit pater meus asinas, et sollicitus sit pro nobis.
 6 Qui ait ei: Ecce vir Dei est in civitate hac, vir nobilis: omne quod loquitur, sine ambiguitate venit. Nunc ergo eamus illuc, si forte indicet nobis de via nostra, propter quam venimus.
 7 Dixitque Saul ad puerum suum: Ecce ibimus: quid feremus ad virum Dei? panis defecit in sitarciis nostris, et sportulam non habemus ut demus homini Dei, nec quidquam aliud.
@@ -33,7 +33,7 @@ De libro primo Regum.
 @TemporaM/Pent01-3:Responsory2
 
 [Lectio3]
-!1 Sam 9:14-17
+!1 Reg 9:14-17
 14 Et ascenderunt in civitatem. Cumque illi ambularent in medio urbis, apparuit Samuel egrediens obviam eis, ut ascenderet in excelsum.
 15 Dominus autem revelaverat auriculam Samuelis ante unam diem quam veniret Saul, dicens:
 16 Hac ipsa hora quae nunc est, cras mittam virum ad te de terra Benjaminm, et unges eum ducem super populum meum Israël: et salvabit populum meum de manu Philisthinorum, quia respexi populum meum: venit enim clamor eorum ad me.

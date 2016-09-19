@@ -10,7 +10,7 @@ Feria
 
 [Lectio1]
 De Jeremia Propheta.
-!Jer 17:13-18
+!Jerem 17:13-18
 13 Exspectatio Israël, Domine, omnes qui te derelinquunt confundentur: recedentes a te, in terra scribentur, quoniam dereliquerunt venam aquarum viventium Dominum.
 14 Sana me, Domine, et sanabor: salvum me fac, et salvus ero: quoniam laus mea tu es.
 15 Ecce ipsi dicunt ad me: Ubi est verbum Domini? veniat:
@@ -25,7 +25,7 @@ V. Et posuerunt adversum me mala pro bonis, et odium pro dilectione mea.
 R. Ego autem orabam, et exaudisti me, Domine, Deus meus.
 
 [Lectio2]
-!Jer 18:13-18
+!Jerem 18:13-18
 13 Quis audivit talia horribilia, quae fecit nimis virgo Israël?
 14 Numquid deficiet de petra agri nix Libani? aut evelli possunt aquae erumpentes frigidae, et defluentes?
 15 Quia oblitus est mei populus meus, frustra libantes, et impingentes in viis suis, in semitis saeculi, ut ambularent per eas in itinere non trito,
@@ -40,7 +40,7 @@ V. Tamquam nugaces aestimati sumus ab illo, et abstinet se a viis nostris tamqua
 R. Videamus si sermones illius veri sunt: et si est vere Filius Dei, liberet eum de manibus nostris: morte turpissima condemnemus eum.
 
 [Lectio3]
-!Jer 18:19-23
+!Jerem 18:19-23
 19 Attende, Domine, ad me, et audi vocem adversariorum meorum.
 20 Numquid redditur pro bono malum, quia foderunt foveam animae meae? Recordare quod steterim in conspectu tuo ut loquerer pro eis bonum, et averterem indignationem tuam ab eis.
 21 Propterea da filios eorum in famem, et deduc eos in manus gladii: fiant uxores eorum absque liberis, et viduae: et viri earum interficiantur morte: juvenes eorum confodiantur gladio in praelio:

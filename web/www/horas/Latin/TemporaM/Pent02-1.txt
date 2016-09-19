@@ -5,7 +5,7 @@ Feria II infra Hebdomadam II post Octavam Pentecostes;;Feria;;1
 Oratio Dominica
 
 [Lectio1]
-!1 Sam 5:1-5
+!1 Reg 5:1-5
 1 Philisthiim autem tulerunt arcam Dei, et asportaverunt eam a lapide Adjutorii in Azotum.
 2 Tuleruntque Philisthiim arcam Dei, et intulerunt eam in templum Dagon, et statuerunt eam juxta Dagon.
 3 Cumque surrexissent diluculo Azotii altera die, ecce Dagon jacebat pronus in terra ante arcam Domini: et tulerunt Dagon, et restituerunt eum in locum suum.
@@ -17,7 +17,7 @@ Oratio Dominica
 @TemporaM/Pent03-1:Responsory1
 
 [Lectio2]
-!1 Sam 5:6-8
+!1 Reg 5:6-8
 6 Aggravata est autem manus Domini super Azotios, et demolitus est eos: et percussit in secretiori parte natium Azotum, et fines ejus. Et ebullierunt villae et agri in medio regionis illius, et nati sunt mures et facta est confusio mortis magnae in civitate.
 7 Videntes autem viri Azotii hujuscemodi plagam, dixerunt: Non maneat arca Dei Israël apud nos: quoniam dura est manus ejus super nos, et super Dagon deum nostrum.
 8 Et mittentes congregaverunt omnes satrapas Philisthinorum ad se, et dixerunt: Quid faciemus de arca Dei Israël? Responderuntque Gethaei: Circumducatur arca Dei Israël. Et circumduxerunt arcam Dei Israël.
@@ -27,7 +27,7 @@ Oratio Dominica
 @TemporaM/Pent03-1:Responsory2
 
 [Lectio3]
-!1 Sam 5:9-12
+!1 Reg 5:9-12
 9 Illis autem circumducentibus eam, fiebat manus Domini per singulas civitates interfectionis magnae nimis: et percutiebat viros uniuscujusque urbis, a parvo usque ad majorem, et computrescebant prominentes extales eorum. Inieruntque Gethaei consilium, et fecerunt sibi sedes pelliceas.
 10 Miserunt ergo arcam Dei in Accaron. Cumque venisset arca Dei in Accaron, exclamaverunt Accaronitae, dicentes: Adduxerunt ad nos arcam Dei Israël ut interficiat nos et populum nostrum.
 11 Miserunt itaque et congregaverunt omnes satrapas Philisthinorum: qui dixerunt: Dimittite arcam Dei Israël, et revertatur in locum suum, et non interficiat nos cum populo nostro.
@@ -81,7 +81,7 @@ Simon. Hi namque duo propter avaritiam perierunt: hoc igitur barathrum fugiamus.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Joannem
-!Joannes 6:56-59
+!Joann 6:56-59
 In illo tempore: Dixit Jesus turbis Judaeorum: Caro mea, vere est cibus: et~
 sanguis meus, vere est potus. Et reliqua.
 _

@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 De epistola ad Ephesios
-!Eph 6:1-4
+!Ephes 6:1-4
 1 Filii, obedite parentibus vestris in Domino: hoc enim justum est.
 2 Honora patrem tuum, et matrem tuam, quod est mandatum primum in promissione:
 3 ut bene sit tibi, et sis longaevus super terram.
@@ -17,7 +17,7 @@ illos in disciplina et correptione Domini.
 @TemporaM/Epi2-3:Responsory1
 
 [Lectio2]
-!Eph 6:5-9
+!Ephes 6:5-9
 5 Servi, obedite dominis carnalibus cum timore et tremore, in simplicitate~
 cordis vestri, sicut Christo:
 6 non ad oculum servientes, quasi hominibus placentes, sed ut servi Christi,~
@@ -32,7 +32,7 @@ et vester Dominus est in caelis: et personarum acceptio non est apud eum.
 @TemporaM/Epi2-3:Responsory1
 
 [Lectio3]
-!Eph 6:10-13
+!Ephes 6:10-13
 10 De cetero, fratres, confortamini in Domino, et in potentia virtutis ejus.
 11 Induite vos armaturam Dei, ut possitis stare adversus insidias diaboli:
 12 quoniam non est nobis colluctatio adversus carnem et sanguinem, sed adversus~

@@ -111,7 +111,7 @@ nisi se proculdubio vinctum videret.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matt 8:23-27
+!Matth 8:23-27
 In illo tempore: Ascendente Jesu in naviculam, secuti sunt eum discipuli ejus:~
 et ecce motus magnus factus est in mari, ita ut navicula operiretur fluctibus,~
 ipse vero dormiebat. Et reliqua.
@@ -162,7 +162,7 @@ Domine, * salva nos, perimus: impera, et fac Deus tranquillitatem.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matt 8:23-27
+!Matth 8:23-27
 8:23 Et ascendente eo in naviculam, secuti sunt eum discipuli ejus:
 8:24 et ecce motus magnus factus est in mari, ita ut navicula operiretur~
 fluctibus: ipse vero dormiebat.

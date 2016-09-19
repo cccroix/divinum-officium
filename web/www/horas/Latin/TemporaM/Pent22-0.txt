@@ -14,7 +14,7 @@ $Per Dominum
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matt 22:15-21
+!Matth 22:15-21
 In illo tempore: Abeuntes pharisaei, consilium inierunt ut caperent Jesum in~
 sermone. Et reliqua.
 _
@@ -63,7 +63,7 @@ R. Sicut incensum in conspectu tuo.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matt 22:15-21
+!Matth 22:15-21
 22:15 Tunc abeuntes pharisaei, consilium inierunt ut caperent eum in sermone.
 22:16 Et mittunt ei discipulos suos cum Herodianis, dicentes: Magister, scimus quia verax es, et viam Dei in veritate doces, et non est tibi cura de aliquo: non enim respicis personam hominum:
 22:17 dic ergo nobis quid tibi videtur, licet censum dare Caesari, an non?

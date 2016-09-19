@@ -22,7 +22,7 @@ $Per Dominum
 
 [Lectio1]
 De libro secundo Regum.
-!2 Sam 12:1-4
+!2 Reg 12:1-4
 1 Misit ergo Dominus Nathan ad David: qui cum venisset ad eum, dixit ei: Duo viri erant in civitate una, unus dives, et alter pauper.
 2 Dives habebat oves et boves plurimos valde.
 3 Pauper autem nihil habebat omnino, praeter ovem unam parvulam quam emerat et nutrierat, et quae creverat apud eum cum filiis ejus simul, de pane illius comedens, et de calice ejus bibens, et in sinu illius dormiens: eratque illi sicut filia.
@@ -37,7 +37,7 @@ vestri.
 R. Et liberabit vos de manibus inimicorum vestrorum.
 
 [Lectio2]
-!2 Sam 12:5-9
+!2 Reg 12:5-9
 5 Iratus autem indignatione David adversus hominem illum nimis, dixit ad Nathan: Vivit Dominus, quoniam filius mortis est vir qui fecit hoc.
 6 Ovem reddet in quadruplum, eo quod fecerit verbum istud, et non pepercerit.
 7 Dixit autem Nathan ad David: Tu es ille vir. Haec dicit Dominus Deus Israël: Ego unxi te in regem super Israël, et ego erui te de manu Saul,
@@ -53,7 +53,7 @@ V. Dominus, qui eripuit me de ore leonis, et de manu bestiae liberavit me.
 R. Et unxit me unctione misericordiae suae.
 
 [Lectio3]
-!2 Sam 12:10-16
+!2 Reg 12:10-16
 10 Quam ob rem non recedet gladius de domo tua usque in sempiternum, eo quod despexeris me, et tuleris uxorem Uriae Hethaei ut esset uxor tua.
 11 Itaque haec dicit Dominus: Ecce ego suscitabo super te malum de domo tua, et tollam uxores tuas in oculis tuis, et dabo proximo tuo: et dormiet cum uxoribus tuis in oculis solis hujus.
 12 Tu enim fecisti abscondite: ego autem faciam verbum istud in conspectu omnis Israël, et in conspectu solis.

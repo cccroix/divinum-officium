@@ -19,7 +19,7 @@ Mária et flúmina * benedícite Dómino: hymnum dícite fontes Dómino, allelú
 Stella ista * sicut flamma corúscat, et Regem regum Deum demónstrat: Magi eam vidérunt, et magno Regi múnera obtulérunt.
 
 [Capitulum Vespera]
-!Isa 60:1
+!Isai 60:1
 v. Surge, illumináre Jerúsalem, quia venit lumen tuum, et glória Dómini super te orta est.
 $Deo gratias
 
@@ -88,7 +88,7 @@ R. In aula sancta ejus, allelúja.
 
 [Lectio1]
 De Isaia Prophéta.
-!Isa 55:1-4
+!Isai 55:1-4
 1 Omnes sitiéntes, veníte ad aquas, et qui non habétis argéntum, properáte, émite, et comédite: veníte, émite absque argénto et absque ulla commutatióne vinum et lac.
 2 Quare appénditis argéntum non in pánibus, et labórem vestrum non in saturitáte? Audíte, audiéntes me, et comédite bonum, et delectábitur in crassitúdine ánima vestra.
 3 Inclináte aurem vestram, et veníte ad me; audíte, et vivet ánima vestra, et fériam vobíscum pactum sempitérnum, misericórdias David fidéles.
@@ -107,7 +107,7 @@ V. Salútis nostræ auctórem Magi veneráti sunt in cunábulis, et de thesáuri
 R. In auro, ut ostendátur Regis poténtia: in thure, Sacerdótem magnum consídera: et in myrrha, Domínicam sepultúram.
 
 [Lectio2]
-!Isa 60:1-6
+!Isai 60:1-6
 1 Surge, illumináre, Jerúsalem, quia venit lumen tuum, et glória Dómini super te orta est.
 2 Quia ecce ténebræ opérient terram, et calígo pópulos; super te autem oriétur Dóminus, et glória ejus in te vidébitur.
 3 Et ambulábunt gentes in lúmine tuo, et reges in splendóre ortus tui.
@@ -122,7 +122,7 @@ V. Cæli apérti sunt super eum, et vox Patris intónuit.
 R. Hic est Fílius meus diléctus, in quo mihi bene complácui.
 
 [Lectio3]
-!Isa 61:10-11; 62:1
+!Isai 61:10-11; 62:1
 10 Gaudens gaudébo in Dómino, et exsultábit ánima mea in Deo meo, quia índuit me vestiméntis salútis, et induménto justítiæ circúmdedit me, quasi sponsum decorátum coróna, et quasi sponsam ornátam monílibus suis.
 11 Sicut enim terra profert germen suum, et sicut hortus semen suum gérminat, sic Dóminus Deus germinábit justítiam et laudem coram univérsis géntibus.
 1 Propter Sion non tacébo, et propter Jerúsalem non quiéscam, donec egrediátur ut splendor justus ejus, et salvátor ejus ut lampas accendátur.
@@ -197,7 +197,7 @@ R. Et vénimus adoráre Dóminum.
 
 [Lectio7]
 Léctio sancti Evangélii secúndum Matthǽum.
-!Matt 2:1-12
+!Matth 2:1-12
 Cum natus esset Jesus in Béthlehem Juda in diébus Heródis regis, ecce~
 Magi ab Oriénte venérunt Jerosólymam, dicéntes: Ubi est qui natus est~
 Rex Judæórum? Et réliqua.
@@ -297,7 +297,7 @@ R. Omnes Angeli ejus, allelúja.
 Hódie * cælésti sponso juncta est Ecclésia, quóniam in Jordáne lavit Christus ejus crímina: currunt cum munéribus Magi ad regáles núptias, et ex aqua facto vino lætantur convívæ, allelúja.
 
 [Lectio Prima]
-!Isa 60:6
+!Isai 60:6
 v. Omnes de Saba vénient, aurum et thus deferéntes, et laudem Dómino annuntiántes.
 
 [Capitulum Tertia]
@@ -315,7 +315,7 @@ V. Omnes de Saba vénient, allelúja.
 R. Aurum et thus deferéntes, allelúja.
 
 [Capitulum Sexta]
-!Isa 60:4
+!Isai 60:4
 v. Leva in circúitu óculos tuos, et vide: omnes isti congregáti sunt, venérunt tibi: fílii tui de longe vénient, et fíliæ tuæ de látere surgent.
 $Deo gratias
 

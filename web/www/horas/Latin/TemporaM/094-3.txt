@@ -1,6 +1,6 @@
 [Lectio1]
 De libro Judith
-!Jdt 10:1-4
+!Judith 10:1-4
 1 Factum est autem, cum cessasset clamare ad Dominum, surrexit de loco in quo jacuerat prostrata ad Dominum.
 2 Vocavitque abram suam, et descendens in domum suam, abstulit a se cilicium, et exuit se vestimentis viduitatis suae,
 3 et lavit corpus suum, et unxit se myro optimo, et discriminavit crinem capitis sui, et imposuit mitram super caput suum, et induit se vestimentis jucunditatis suae, induitque sandalia pedibus suis, assumpsitque dextraliola, et lilia, et inaures, et annulos, et omnibus ornamentis suis ornavit se.
@@ -11,7 +11,7 @@ De libro Judith
 @TemporaM/094-0:Responsory7
 
 [Lectio2]
-!Jdt 10:11-12
+!Judith 10:11-12
 11 Factum est autem cum descenderet montem, circa ortum diei, occurrerunt ei exploratores Assyriorum, et tenuerunt eam, dicentes: Unde venis? aut quo vadis?
 12 Quae respondit: Filia sum Hebraeorum, ideo ego fugi a facie eorum, quoniam futurum agnovi quod dentur vobis in depraedationem, pro eo quod contemnentes vos, noluerunt ultro tradere seipsos ut invenirent misericordiam in conspectu vestro.
 
@@ -20,7 +20,7 @@ De libro Judith
 @TemporaM/093-0:Responsory7
 
 [Lectio3]
-!Jdt 10:16-20
+!Judith 10:16-20
 16 Hoc autem scias, quoniam cum steteris in conspectu ejus, bene tibi faciet, et eris gratissima in corde ejus. Duxeruntque illam ad tabernaculum Holofernis, annuntiantes eam.
 17 Cumque intrasset ante faciem ejus, statim captus est in suis oculis Holofernes.
 18 Dixeruntque ad eum satellites ejus: Quis contemnat populum Hebraeorum, qui tam decoras mulieres habent, ut non pro his merito pugnare contra eos debeamus?

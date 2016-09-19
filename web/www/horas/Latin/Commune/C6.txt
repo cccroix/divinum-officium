@@ -200,7 +200,7 @@ R. Afferentur tibi in laetitia et exsultatione.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matt 25:1-13
+!Matth 25:1-13
 In illo tempore: Dixit Jesus discipulis suis parabolam hanc: Simile erit regnum caelorum decem virginibus: quae accipientes lampades suas, exierunt obviam sponso et sponsae. Et reliqua.
 _
 Homilia sancti Gregorii Papae.
@@ -309,7 +309,7 @@ R. Propterea benedixit te Deus in aeternum.
 
 [Lectio11]
 De libro Ecclesiastici
-!Sir 51:1-7
+!Eccl 51:1-7
 1 Confitebor tibi, Domine Rex, et collaudabo te Deum Salvatorem meum.
 2 Confitebor nomini tuo, quoniam adjutor et protector factus es mihi,
 3 et liberasti corpus meum a perditione: a laqueo linguae iniquae, et a labiis operantium mendacium: et in conspectu astantium factus es mihi adjutor.
@@ -319,7 +319,7 @@ De libro Ecclesiastici
 7 de altitudine ventris inferi, et a lingua coinquinata, et a verbo mendacii, a rege iniquo, et a lingua injusta.
 
 [Lectio21]
-!Sir 51:8-12
+!Eccl 51:8-12
 8 Laudabit usque ad mortem anima mea Dominum,
 9 et vita mea appropinquans erat in inferno deorsum.
 10 Circumdederunt me undique, et non erat qui adjuvaret: Respiciens eram ad adjutorium hominum, et non erat.
@@ -327,7 +327,7 @@ De libro Ecclesiastici
 12 quoniam eruis sustinentes te, Domine, et liberas eos de manibus gentium.
 
 [Lectio31]
-!Sir 51:13-17
+!Eccl 51:13-17
 13 Exaltasti super terram habitationem meam, et pro morte defluente deprecata sum.
 14 Invocavi Dominum Patrem Domini mei, ut non derelinquat me in die tribulationis meae, et in tempore superborum, sine adjutorio.
 15 Laudabo nomen tuum assidue, et collaudabo illud in confessione: et exaudita est oratio mea,

@@ -72,7 +72,7 @@ Tu es Pastor ovium, Princeps Apostolorum: * Tibi tradidit Deus claves regni cael
 
 [Lectio1]
 Incipit Epistola prima beati Petri Apostoli
-!1 Pet 1:1-5
+!1 Petri 1:1-5
 1 Petrus Apostolus Jesu Christi, electis advenis dispersionis Ponti, Galatiae, Cappadociae, Asiae, et Bithyniae,
 2 secundum praescientiam Dei Patris, in sanctificationem Spiritus, in obedientiam, et aspersionem sanguinis Jesu Christi. Gratia vobis, et pax multiplicetur.
 3 Benedictus Deus et Pater Domini nostri Jesu Christi, qui secundum misericordiam suam magnam regeneravit nos in spem vivam, per resurrectionem Jesu Christi ex mortuis,
@@ -86,7 +86,7 @@ V. Quodcumque ligaveris super terram erit ligatum et in caelis; et quodcumque so
 R. Et claves regni caelorum tradidi tibi.
 
 [Lectio2]
-!1 Pet 1:6-9
+!1 Petri 1:6-9
 6 In quo exsultabis, modicum nunc si oportet contristari in variis tentationibus:
 7 ut probatio vestrae fidei multo pretiosior auro (quod per ignem probatur) inveniatur in laudem, et gloriam, et honorem in revelatione Jesu Christi:
 8 quem cum non videritis, diligitis: in quem nunc quoque non videntes creditis: credentes autem exsultabitis laetitia inenarrabili, et glorificata:
@@ -99,7 +99,7 @@ V. Si oportuerit me mori tecum, non te negabo.
 R. Et animam meam pono pro te.
 
 [Lectio3]
-!1 Pet 1:10-12
+!1 Petri 1:10-12
 10 De qua salute exquisierunt, atque scrutati sunt prophetae, qui de futura in vobis gratia prophetaverunt:
 11 scrutantes in quod vel quale tempus significaret in eis Spiritus Christi: praenuntians eas quae in Christo sunt passiones, et posteriores glorias:
 12 quibus revelatum est quia non sibimetipsis, vobis autem ministrabant ea quae nunc nuntiata sunt vobis per eos qui evangelizaverunt vobis, Spiritu Sancto misso de caelo, in quem desiderant angeli prospicere.
@@ -145,7 +145,7 @@ R. Pasce oves meas.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matt 16:13-19
+!Matth 16:13-19
 In illo tempore: Venit Jesus in partes Caesareae Philippi, et interrogabat discipulos suos, dicens: Quem dicunt homines esse Filium hominis? Et reliqua.
 _
 Homilia sancti Leonis Papae.

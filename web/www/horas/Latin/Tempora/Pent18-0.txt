@@ -13,7 +13,7 @@ $Per Dominum
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matt 9:1-8
+!Matth 9:1-8
 In illo tempore: Ascendens Jesus in naviculam, transfretavit, et venit in civitatem suam. Et reliqua.
 _
 Homilia sancti Petri Chrysologi.

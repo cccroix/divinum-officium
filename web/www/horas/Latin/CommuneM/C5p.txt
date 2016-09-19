@@ -12,7 +12,7 @@ Fidelis servus * et prudens quem constituit Dominus super familiam suam. Allelui
 Serve bone * et fidelis, intra in gaudium Domini tui. Alleluia;;112
 
 [Capitulum Vespera]
-!Sir 31:8-9
+!Eccl 31:8-9
 v. Beatus vir, qui inventus est sine macula, et qui post aurum non abiit, nec~
 speravit in pecunia et thesauris. Quis est hic, et laudabimus eum? fecit enim~
 mirabilia in vita sua.
@@ -70,7 +70,7 @@ R. Secundum ordinem Melchisedech. Alleluia
 
 [Lectio1]
 De libro Ecclesiastici
-!Sir 31:8-11
+!Eccl 31:8-11
 8 Beatus dives qui inventus est sine macula, et qui post aurum non abiit, nec speravit in pecunia et thesauris.
 9 Quis est hic? et laudabimus eum: fecit enim mirabilia in vita sua.
 10 Qui probatus est in illo, et perfectus est, erit illi gloria aeterna: qui potuit transgredi, et non est transgressus; facere mala, et non fecit.
@@ -84,7 +84,7 @@ V. Domine quinque talenta tradidisti mihi, ecce alia quinque superlucratus sum.
 R. Intra in gaudium Domini tui. Alleluia
 
 [Lectio2]
-!Sir 32:18-20; 32:28; 33:1-3
+!Eccl 32:18-20; 32:28; 33:1-3
 18 Qui timet Dominum excipiet doctrinam ejus: et qui vigilaverint ad illum invenient benedictionem.
 19 Qui quaerit legem replebitur ab ea, et qui insidiose agit scandalizabitur in ea.
 20 Qui timent Dominum invenient judicium justum, et justitias quasi lumen accendent.
@@ -100,7 +100,7 @@ V. Plantatus in domo Domini, in atriis domus Dei nostri.
 R. Et florebit in aeternum ante Dominum. Alleluia
 
 [Lectio3]
-!Sir 34:14-20
+!Eccl 34:14-20
 14 Spiritus timentium Deum quaeritur, et in respectu illius benedicetur.
 15 Spes enim illorum in salvantem illos, et oculi Dei in diligentes se.
 16 Qui timet Dominum nihil trepidabit: et non pavebit, quoniam ipse est spes ejus.
@@ -119,7 +119,7 @@ R. Et inventus est in numero sanctorum. Alleluia
 R. Et inventus est in numero sanctorum. Alleluia
 
 [MM Capitulum]
-!Eccli 39:6
+!Eccl 39:6
 Justus cor suum tradidit ad vigilandum diluculo ad Dominum, qui fecit illum, et in conspectu Altissimi deprecabitur. 
 $Deo gratias
 V. Justus germinabit sicut lilium
@@ -244,7 +244,7 @@ Beatus ille servus * quem cum venerit Dominus eius et pulsaverit januam inveneri
 Serve bone * et fidelis, intra in gaudium Domini tui. Alleluia
 
 [Capitulum Laudes]
-!Sir 31;8-9
+!Eccl 31;8-9
 v. Beatus vir, qui inventus est sine macula, et qui post aurum non abiit, nec~
 speravit in pecunia et thesauris. Quis est hic, et laudabimus eum? fecit enim~
 mirabilia in vita sua.
@@ -277,7 +277,7 @@ $Per Dominum.
 v. Justum deduxit Dominus per vias rectas, et ostendit illi regnum Dei, et dedit illi scientiam sanctorum: honestavit illum in laboribus, et complevit labores illius.
 
 [Capitulum Tertia]
-!Sir 31:8-9
+!Eccl 31:8-9
 v. Beatus vir, qui inventus est sine macula, et qui post aurum non abiit, nec~
 speravit in pecunia et thesauris. Quis est hic, et laudabimus eum? fecit enim~
 mirabilia in vita sua.
@@ -288,7 +288,7 @@ V. Os justi meditabitur sapientiam.
 R. Et lingua ejus loquetur judicium.
 
 [Capitulum Sexta]
-!Sir 39:6
+!Eccl 39:6
 v. Justus cor suum tradidit ad vigilandum diluculo ad Dominum, qui fecit illum,~
 et in conspectu Altissimi deprecabitur.
 $Deo gratias

@@ -3,7 +3,7 @@ V. Iube, domne, benedícere.
 Benedictio. Noctem quiétam et finem perféctum concédat nobis Dóminus omnípotens. Amen.
 
 #Lectio brevis
-!1 Pet 5:8-9
+!1 Petri 5:8-9
 Fratres: Sóbrii estóte, et vigiláte: quia adversárius vester diábolus tamquam leo rúgiens círcuit, quærens quem dévoret: cui resístite fortes in fide. 
 $Tu autem
 
@@ -40,7 +40,7 @@ Regnans per omne sǽculum.
 Amen.
 
 #Capitulum Responsorium Versus
-!Jer 14:9
+!Jerem 14:9
 v. Tu autem in nobis es, Dómine, et nomen sanctum tuum invocátum est super nos: ne derelínquas nos, Dómine, Deus noster. 
 R. Deo grátias.
 _

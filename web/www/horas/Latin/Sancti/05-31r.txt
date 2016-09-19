@@ -16,7 +16,7 @@ Antiphonas horas
 Psalmi Dominica
 
 [Capitulum Vespera]
-!Sir 24:5; 24:7
+!Eccl 24:5; 24:7
 v. Ego ex ore Altissimi prodivi, primogenita ante omnem creaturam; ego in altissimis habitavi, et thronus meus in columna nubis.
 $Deo gratias
 
@@ -80,7 +80,7 @@ R. Quia fecit mihi magna qui potens est. (Alleluia.)
 
 [Lectio1]
 De libro Ecclesiastici
-!Sir 24:5-11
+!Eccl 24:5-11
 5 Ego ex ore Altissimi prodivi, primogenita ante omnem creaturam.
 6 Ego feci in cælis ut oriretur lumen indeficiens, et sicut nebula texi omnem terram.
 7 Ego in altissimis habitavi, et thronus meus in columna nubis.
@@ -96,7 +96,7 @@ V. Ave Maria, gratia plena, Dominus tecum.
 R. Ecce, exaltata es super choros Angelorum ad celestia Regna. (Alleluia.)
 
 [Lectio2]
-!Sir 24:14-16
+!Eccl 24:14-16
 14 Ab initio et ante sæcula creata sum, et usque ad futurum sæculum non desinam: et in habitatione sancta coram ipso ministravi.
 15 Et sic in Sion firmata sum, et in civitate sanctificata similiter requievi, et in Jerusalem potestas mea.
 16 Et radicavi in populo honorificato, et in parte Dei mei hæreditas illius, et in plenitudine sanctorum detentio mea.
@@ -108,7 +108,7 @@ V. Gloriam Reginae nostrae celebramus.
 R. Quia cum Christo regnat in aeternum. (Alleluia.)
 
 [Lectio3]
-!Sir 24:24-30
+!Eccl 24:24-30
 24 Ego mater pulchræ dilectionis, et timoris, et agnitionis, et sanctæ spei.
 25 In me gratia omnis viæ et veritatis: in me omnis spes vitæ et virtutis.
 26 Transite ad me, omnes qui concupiscitis me, et a generationibus meis implemini:
@@ -189,7 +189,7 @@ Maria Regina est et dispensatrix gratia, quod designatum fuit in libro Esther, u
 &teDeum
 
 [Capitulum Laudes]
-!Sir 24:5; 24:7
+!Eccl 24:5; 24:7
 v. Ego ex ore Altissimi prodivi, primogenita ante omnem creaturam; ego in altissimis habitavi, et thronus meus in columna nubis.
 $Deo gratias
 
@@ -204,11 +204,11 @@ Regina mundi dignissima, * Maria, Virgo perpetua, intercede pro nostra pace et s
 @Sancti/05-31:Commemoratio 2
 
 [Lectio Prima]
-!Sir 24:30-31
+!Eccl 24:30-31
 v. Qui audit me, non confundetur, et qui operantur in me, non peccabunt: qui elucidant me, vitam aeternam habebunt.
 
 [Capitulum Tertia]
-!Sir 24:5; 24:7
+!Eccl 24:5; 24:7
 v. Ego ex ore Altissimi prodivi, primogenita ante omnem creaturam; ego in altissimis habitavi, et thronus meus in columna nubis.
 $Deo gratias
 
@@ -224,7 +224,7 @@ V. Stabat juxta crucem Jesu Mater ejus. (Alleluia.)
 R. In passione socia, totius mundi Regina. (Alleluia.)
 
 [Capitulum Sexta]
-!Sir 24, 9-11
+!Eccl 24, 9-11
 v. In omni terra steti et in omni populo, et in omni gente primatum habui, et omnium excellentium et humilium corda virtute calcavi.
 $Deo gratias
 
@@ -240,7 +240,7 @@ V. Beatam me dicent omnes generationes. (Alleluia.)
 R. Quia fecit mihi magna qui potens est. (Alleluia.)
 
 [Capitulum Nona]
-!Sir 24:30-31
+!Eccl 24:30-31
 v. Qui audit me, non confundetur, et qui operantur in me, non peccabunt: qui elucidant me, vitam aeternam habebunt.
 $Deo gratias
 

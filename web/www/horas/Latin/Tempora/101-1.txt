@@ -1,6 +1,6 @@
 [Lectio1]
 De libro primo Machabaeorum
-!1 Mac 1:17-20
+!1 Mach 1:17-20
 17 Et paratum est regnum in conspectu Antiochi, et cœpit regnare in terra Ægypti ut regnaret super duo regna,
 18 et intravit in Ægyptum in multitudine gravi, in curribus, et elephantis, et equitibus, et copiosa navium multitudine:
 19 et constituit bellum adversus Ptolemaeum regem Ægypti, et veritus est Ptolemaeus a facie ejus, et fugit, et ceciderunt vulnerati multi,
@@ -13,7 +13,7 @@ V. Accingimini filii potentes, et estote parati: quoniam melius est nobis mori i
 R. Sicut fuerit voluntas in caelo, sic fiat.
 
 [Lectio2]
-!1 Mac 1:21-23
+!1 Mach 1:21-23
 21 Et convertit Antiochus, postquam percussit Ægyptum in centesimo et quadragesimo tertio anno: et ascendit ad Israël,
 22 Et ascendit Jerosolymam in multitudine gravi;
 23 et intravit in sanctificationem cum superbia, et accepit altare aureum, et candelabrum luminis, et universa vasa ejus, et mensam propositionis, et libatoria, et phialas, et mortariola aurea, et velum, et coronas, et ornamentum aureum, quod in facie templi erat: et comminuit omnia.
@@ -25,7 +25,7 @@ V. In hymnis et confessionibus benedicebant Dominum.
 R. Et facta est laetitia magna in populo.
 
 [Lectio3]
-!1 Mac 1:24-29
+!1 Mach 1:24-29
 24 Et accepit argentum, et aurum, et vasa concupiscibilia: et accepit thesauros occultos, quos invenit: et sublatis omnibus, abiit in terram suam;
 25 et fecit caedem hominum, et locutus est in superbia magna;
 26 et factus est planctus magnus in Israël, et in omni loco eorum:

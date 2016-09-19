@@ -155,7 +155,7 @@ Vim virtutis suae * oblitus est ignis: ut pueri tui liberarentur illaesi.
 Sol et luna * laudate Deum quia exaltatum est nomen eius solius.
 
 [Capitulum Laudes]
-!Eph 5:1-2
+!Ephes 5:1-2
 v. Fratres: Estote imitatores Dei, sicut filii carissimi et ambulate in dilectione, sicut et Christus dilexit nos, et tradidit semetipsum pro nobis oblationem et hostiam Deo in odorem suavitatis.
 $Deo gratias
 
@@ -175,7 +175,7 @@ Si in digito Dei * ejicio daemonia, profecto pervenit in vos regnum Dei.
 Qui non colligit mecum * dispergit, et qui non est mecum, contra me est.
 
 [Capitulum Sexta]
-!Eph 5:5
+!Ephes 5:5
 v. Hoc enim scitote intelligentes, quod omnis fornicator, aut immundus, aut avarus quod est idolorum servitus, non habet hereditatem in regno Christi et Dei.
 $Deo gratias
 
@@ -183,7 +183,7 @@ $Deo gratias
 Cum immundus spiritus * exierit ab homine, ambulat per loca inaquosa quaerens requiem et non invenit.
 
 [Capitulum Nona]
-!Eph 5:8-9
+!Ephes 5:8-9
 v. Eratis enim aliquando tenebrae, nunc autem lux in Domino: ut filii lucis ambulate: fructus enim lucis est in omni bonitate, et iustitia, et veritate.
 $Deo gratias
 

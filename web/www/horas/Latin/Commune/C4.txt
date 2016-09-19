@@ -15,7 +15,7 @@ Sacerdotes Dei, * benedicite Dominum: servi Domini, hymnum dicite Deo, allelúia
 Serve bone * et fidelis, intra in gaudium Domini tui.
 
 [Capitulum Vespera]
-!Sir 44:16-17
+!Eccl 44:16-17
 v. Ecce sacerdos magnus, qui in diebus suis placuit Deo, et inventus est justus: et in tempore iracundiae factus est reconciliatio.
 $Deo gratias
 
@@ -125,7 +125,7 @@ R. Intra in gáudium Dómini tui.
 
 [Lectio2]
 De Epistola ad Titum.
-!Titus 1:7-11
+!Tit 1:7-11
 7 Oportet enim episcopum sine crimine esse, sicut Dei dispensatorem: non superbum, non iracundum, non vinolentum, non percussorem, non turpis lucri cupidum:
 8 sed hospitalem, benignum, sobrium, justum, sanctum, continentem,
 9 amplectentem eum, qui secundum doctrinam est, fidelem sermonem: ut potens sit exhortari in doctrina sana, et eos qui contradicunt, arguere.
@@ -139,7 +139,7 @@ V. Benedictionem omnium gentium dedit illi, et testamentum suum confirmavit supe
 R. Ideo jurejurando fecit illum Dominus crescere in plebem suam.
 
 [Lectio3]
-!Titus 2:1-8
+!Tit 2:1-8
 1 Tu autem loquere quae decent sanam doctrinam:
 2 Senes ut sobrii sint, pudici, prudentes, sani in fide, in dilectione, in patientia:
 3 Anus similiter in habitu sancto, non criminatrices, non multo vino servientes, bene docentes:
@@ -190,7 +190,7 @@ R. Ipse intercedat pro peccatis omnium populorum.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matt 25:14-23
+!Matth 25:14-23
 In illo tempore: Dixit Jesus discipulis suis parabolam hanc: Homo peregre proficiscens, vocavit servos suos, et tradidit illis bona sua. Et reliqua.
 _
 Homilia sancti Gregorii Papae.
@@ -283,7 +283,7 @@ Gregem tuum, Pastor ætérne, placátus inténde: et per beátos N. et N. (Márt
 $Per Dominum
 
 [Lectio Prima]
-!Sir 45:19-20
+!Eccl 45:19-20
 v. Fungi sacerdotio, et habere laudem in nomine ipsius, et offerre illi incensum dignum in odorem suavitatis.
 
 [Capitulum Tertia]
@@ -301,7 +301,7 @@ V. Elegit eum Dominus sacerdotem sibi.
 R. Ad sacrificandum ei hostiam laudis.
 
 [Capitulum Sexta]
-!Sir 44:20; 44:22
+!Eccl 44:20; 44:22
 v. Non est inventus similis illi, qui conservaret legem Excelsi: ideo jurejurando fecit illum Dominus crescere in plebem suam.
 $Deo gratias
 
@@ -342,7 +342,7 @@ Dum esset * summus Pontifex, terrena non metuit, sed ad caelestia regna gloriosu
 
 [Lectio11]
 De libro Ecclesiastici
-!Sir 44:1-5
+!Eccl 44:1-5
 1 Laudemus viros gloriosos, et parentes nostros in generatione sua.
 2 Multam gloriam fecit Dominus: magnificentia sua a saeculo.
 3 Dominantes in potestatibus suis, homines magni virtute et prudentia sua praediti, nuntiantes in prophetis dignitatem prophetarum:
@@ -350,14 +350,14 @@ De libro Ecclesiastici
 5 In peritia sua requirentes modos musicos, et narrantes carmina scripturarum:
 
 [Lectio21]
-!Sir 44:6-9
+!Eccl 44:6-9
 6 Homines divites in virtute, pulchritudinis studium habentes, pacificantes in domibus suis.
 7 Omnes isti in generationibus gentis suae gloriam adepti sunt, et in diebus suis habentur in laudibus.
 8 Qui de illis nati sunt reliquerunt nomen narrandi laudes eorum.
 9 Et sunt quorum non est memoria: perierunt quasi qui non fuerint: et nati sunt quasi non nati, et filii ipsorum cum ipsis.
 
 [Lectio31]
-!Sir 44:10-15
+!Eccl 44:10-15
 10 Sed illi viri misericordiae sunt, quorum pietates non defuerunt.
 11 Cum semine eorum permanent bona:
 12 hereditas sancta nepotes eorum, et in testamentis stetit semen eorum:
@@ -367,7 +367,7 @@ De libro Ecclesiastici
 
 [Lectio71]
 Léctio sancti Evangélii secúndum Matthæum
-!Matt 16:13-19
+!Matth 16:13-19
 In illo témpore: Venit Jesus in partes Cæsaréæ Philíppi, et interrogábat discípulos suos, dicens: Quem dicunt hómines esse Fílium hóminis? Et réliqua.
 _
 Homilía sancti Leónis Papæ
@@ -383,7 +383,7 @@ Cum ergo cohortatiónes nostras áuribus vestræ sanctitátis adhibémus, ipsum 
 
 [Lectio73]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matt 19:27-29
+!Matth 19:27-29
 In illo tempore: Dixit Petrus ad Jesum: Ecce nos reliquimus omnia, et secuti sumus te: quid ergo erit nobis? Et reliqua. De Homilia venerabilis Bedae Presbyteri.
 !In Natali S. Benedicti.
 Duo sunt ordines electorum in judicio futuri: unus judicantium cum Domino, de quibus hoc loco memorat, qui reliquerunt omnia, et secuti sunt illum: alius judicandorum a Domino, qui non quidem omnia sua pariter reliquerunt, sed de his tamen quae habebant, quotidianas dare eleemosynas Christi pauperibus curabant: unde et audituri sunt in judicio: Venite benedicti Patris mei, possidete praeparatum vobis regnum a constitutione mundi. Esurivi enim, et dedistis mihi manducare: sitivi, et dedistis mihi bibere.

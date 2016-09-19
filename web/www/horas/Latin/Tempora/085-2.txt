@@ -1,6 +1,6 @@
 [Lectio1]
 De libro Ecclesiastici.
-!Sir 10:1-5
+!Eccl 10:1-5
 1 Judex sapiens judicabit populum suum, et principatus sensati stabilis erit.
 2 Secundum judicem populi, sic et ministri ejus: et qualis rector est civitatis, tales et inhabitantes in ea.
 3 Rex insipiens perdet populum suum: et civitates inhabitabuntur per sensum potentium.
@@ -11,7 +11,7 @@ De libro Ecclesiastici.
 @Tempora/081-2:Responsory1
 
 [Lectio2]
-!Sir 10:6-10
+!Eccl 10:6-10
 6 Omnis injuriae proximi ne memineris, et nihil agas in operibus injuriae.
 7 Odibilis coram Deo est et hominibus superbia, et exsecrabilis omnis iniquitas gentium.
 8 Regnum a gente in gentem transfertur propter injustitias, et injurias, et contumelias, et diversos dolos.
@@ -22,7 +22,7 @@ De libro Ecclesiastici.
 @Tempora/081-0:Responsory5
 
 [Lectio3]
-!Sir 10:11-16
+!Eccl 10:11-16
 11 Omnis potentatus brevis vita; languor prolixior gravat medicum,
 12 brevem languorem praecidit medicus: sic et rex hodie est, et cras morietur,
 13 cum enim morietur homo, hereditabit serpentes, et bestias, et vermes.

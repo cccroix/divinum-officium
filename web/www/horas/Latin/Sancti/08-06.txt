@@ -101,7 +101,7 @@ R. Gloriam et magnum decorem impones super eum.
 
 [Lectio1]
 De Epistola secunda beati Petri Apostoli
-!2 Pet 1:10-14
+!2 Petri 1:10-14
 10 Fratres: Magis satagite ut per bona opera certam vestram vocationem, et electionem faciatis: haec enim facientes, non peccabitis aliquando.
 11 Sic enim abundanter ministrabitur vobis introitus in aeternum regnum Domini nostri et Salvatoris Jesu Christi.
 12 Propter quod incipiam vos semper commonere de his: et quidem scientes et confirmatos vos in praesenti veritate.
@@ -115,7 +115,7 @@ V. Et ambulabunt Gentes in lumine tuo, et reges in splendore ortus tui.
 R. Et gloria Domini super te orta est.
 
 [Lectio2]
-!2 Pet 1:15-17
+!2 Petri 1:15-17
 15 Dabo autem operam et frequenter habere vos post obitum meum, ut horum memoriam faciatis.
 16 Non enim doctas fabulas secuti notam fecimus vobis Domini nostri Jesu Christi virtutem et praesentiam: sed speculatores facti illius magnitudinis.
 17 Accipiens enim a Deo Patre honorem et gloriam, voce delapsa ad eum hujuscemodi a magnifica gloria: Hic est Filius meus dilectus, in quo mihi complacui, ipsum audite.
@@ -127,7 +127,7 @@ V. Apparuit nubes obumbrans, et vox Patris intonuit.
 R. Hic est Filius meus dilectus, in quo mihi bene complacui, ipsum audite.
 
 [Lectio3]
-!2 Pet 1:18-21
+!2 Petri 1:18-21
 18 Et hanc vocem nos audivimus de caelo allatam, cum essemus cum ipso in monte sancto.
 19 Et habemus firmiorem propheticum sermonem: cui bene facitis attendentes quasi lucernae lucenti in caliginoso loco donec dies elucescat, et lucifer oriatur in cordibus vestris:
 20 hoc primum intelligentes quod omnis prophetia Scripturae propria interpretatione non fit.
@@ -174,7 +174,7 @@ R. Multo magis ministratio spiritus, quae manet, erit in gloria.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matt 17:1-9
+!Matth 17:1-9
 In illo tempore: Assumpsit Jesus Petrum, et Jacobum, et Joannem, fratrem ejus, et duxit illos in montem excelsum seorsum: et transfiguratus est ante eos. Et reliqua.
 _
 Homilia sancti Joannis Chrysostomi.
@@ -243,7 +243,7 @@ R. Expressa signo sanctitatis, gloriae, et honoris.
 Et ecce * vox de nube dicens: Hic est Filius meus dilectus, in quo mihi complacui: ipsum audite, alleluia.
 
 [Lectio Prima]
-!Apo 21:10-11; 21:23.
+!Apoc 21:10-11; 21:23.
 v. Sustulit me in spiritu in montem magnum et altum, et ostendit mihi civitatem sanctam Jerusalem, descendentem de caelo a Deo, habentem claritatem Dei: et lucerna ejus est Agnus.
 
 [Capitulum Tertia]

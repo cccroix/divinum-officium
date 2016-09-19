@@ -5,7 +5,7 @@ Feria Tertia infra Hebdomadam I in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matt 21:1-17.
+!Matth 21:1-17.
 In illo tempore: Cum intrasset Jesus Hierosolymam, commuta est universa civitas, dicens: Quis est hic? Et reliqua.
 _
 Homilia sancti Bedae Venerabilis Presbyteri.

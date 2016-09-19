@@ -182,7 +182,7 @@ in ecclésia, ipsíus sanctæ Cæcíliæ nómine consecráta, cóndita sunt.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matt 25:1-13
+!Matth 25:1-13
 In illo tempore: Dixit Jesus discipulis suis parabolam hanc: Simile erit regnum~
 caelorum decem virginibus: quae accipientes lampades suas, exierunt obviam~
 sponso, et sponsae. Et reliqua.
@@ -261,7 +261,7 @@ abjicite opera tenebrarum, et induimini arma lucis.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matt 25:1-13
+!Matth 25:1-13
 25:1 Tunc simile erit regnum caelorum decem virginibus: quae accipientes~
 lampades suas exierunt obviam sponso et sponsae.
 25:2 Quinque autem ex eis erant fatuae, et quinque prudentes:

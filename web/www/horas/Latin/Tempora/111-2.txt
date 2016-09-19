@@ -1,6 +1,6 @@
 [Lectio1]
 De Ezechiele Propheta
-!Ezek 3:1-4
+!Ezech 3:1-4
 1 Et dixit ad me: Fili hominis, quodcumque inveneris, comede: comede volumen istud, et vadens loquere ad filios Israël.
 2 Et aperui os meum, et cibavit me volumine illo:
 3 et dixit ad me: Fili hominis, venter tuus comedet, et viscera tua complebuntur volumine isto quod ego do tibi. Et comedi illud, et factum est in ore meo sicut mel dulce.
@@ -13,7 +13,7 @@ V. Domine, Dominus noster, quam admirabile est nomen tuum.
 R. Sed miserere, Domine, et ne facias consummationem.
 
 [Lectio2]
-!Ezek 3:5-9
+!Ezech 3:5-9
 5 Non enim ad populum profundi sermonis et ignotae linguae tu mitteris ad domum Israël:
 6 neque ad populos multos profundi sermonis et ignotae linguae, quorum non possis audire sermones: et si ad illos mittereris, ipsi audirent te:
 7 domus autem Israël nolunt audire te, quia nolunt audire me: omnis quippe domus Israël attrita fronte est, et duro corde.
@@ -27,7 +27,7 @@ V. Avertatur furor tuus, Domine, a populo tuo et a civitate sancta tua.
 R. Exaudi, Domine, populum tuum cum misericordia.
 
 [Lectio3]
-!Ezek 3:10-13
+!Ezech 3:10-13
 10 Et dixit ad me: Fili hominis, omnes sermones meos quos ego loquor ad te, assume in corde tuo, et auribus tuis audi:
 11 et vade, ingredere ad transmigrationem, ad filios populi tui, et loqueris ad eos: et dices eis: Haec dicit Dominus Deus: Si forte audiant et quiescant.
 12 Et assumpsit me spiritus, et audivi post me vocem commotionis magnae: Benedicta gloria Domini de loco suo:

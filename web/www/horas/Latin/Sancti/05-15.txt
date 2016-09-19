@@ -57,7 +57,7 @@ signis anno jubilaei milesimo noningentesimo Sanctorum honoribus decoravit. Pius
 
 [Lectio7]
 Lectio Sancti Evangelii secundum Matthaeum
-!Matt 18:1-5
+!Matth 18:1-5
 In illo tempore: Ascenderunt discipuli ad Jesum dicentes: qui putas major et in~
 regno caelorum? Et reliqua.
 _

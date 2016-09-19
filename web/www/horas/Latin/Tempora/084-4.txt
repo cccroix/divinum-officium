@@ -1,6 +1,6 @@
 [Lectio1]
 De libro Ecclesiastici.
-!Sir 3:22-26
+!Eccl 3:22-26
 22 Altiora te ne quaesieris, et fortiora te ne scrutatus fueris: sed quae praecepit tibi Deus, illa cogita semper, et in pluribus operibus ejus ne fueris curiosus,
 23 non est enim tibi necessarium ea, quae abscondita sunt, videre oculis tuis.
 24 In supervacuis rebus noli scrutari multipliciter, et in pluribus operibus ejus non eris curiosus;
@@ -11,7 +11,7 @@ De libro Ecclesiastici.
 @Tempora/081-0:Responsory1
 
 [Lectio2]
-!Sir 3:27-30
+!Eccl 3:27-30
 27 Cor durum habebit male in novissimo, et qui amat periculum in illo peribit.
 28 Cor ingrediens duas vias non habebit successus, et pravus corde in illis scandalizabitur.
 29 Cor nequam gravabitur in doloribus, et peccator adjiciet ad peccandum.
@@ -21,7 +21,7 @@ De libro Ecclesiastici.
 @Tempora/081-0:Responsory2
 
 [Lectio3]
-!Sir 3:31-34
+!Eccl 3:31-34
 31 Cor sapientis intelligitur in sapientia, et auris bona audiet cum omni concupiscentia sapientiam.
 32 Sapiens cor et intelligibile abstinebit se a peccatis, et in operibus justitiae successus habebit.
 33 Ignem ardentem exstinguit aqua, et eleemosyna resistit peccatis:

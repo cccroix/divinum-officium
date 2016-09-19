@@ -15,7 +15,7 @@ $Per eumdem
 
 [Lectio1]
 De Jeremia Propheta.
-!Jer 2:12-18
+!Jerem 2:12-18
 12 Obstupescite, caeli, super hoc, et portae ejus, desolamini vehementer, dicit~
 Dominus.
 13 Duo enim mala fecit populus meus: me dereliquerunt fontem aquae vivae, et~
@@ -36,7 +36,7 @@ V. In die tribulationis meae clamavi ad te, quia exaudisti me.
 R. Judicasti causam meam, et liberasti me, Domine Deus meus.
 
 [Lectio2]
-!Jer 2:18-22
+!Jerem 2:18-22
 18 Et nunc quid tibi vis in via Ægypti, ut bibas aquam turbidam? et quid tibi~
 cum via Assyriorum, ut bibas aquam fluminis?
 19 Arguet te malitia tua, et aversio tua increpabit te. Scito et vide quia malum~
@@ -57,7 +57,7 @@ V. Dereliquerunt me proximi mei, et qui me noverunt.
 R. Quasi alieni recesserunt a me.
 
 [Lectio3]
-!Jer 2:23-32
+!Jerem 2:23-32
 23 Quomodo dicis: Non sum polluta; post Baalim non ambulavi? Vide vias tuas in~
 convalle; scito quid feceris: cursor levis explicans vias suas.
 24 Onager assuetus in solitudine, in desiderio animae suae attraxit ventum~
@@ -155,7 +155,7 @@ me persequuntur, * Et non confundar ego.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matt 21:1-9
+!Matth 21:1-9
 In illo tempore: Cum appropinquasset Jesus Hierosolymis, et venisset Bethphage~
 ad montem Oliveti: tunc misit duos discipulos, dicens eis. Et reliqua.
 _
@@ -296,7 +296,7 @@ autem resurrexero, praecedam vos in Galilaeam: ibi me videbitis, dicit Dominus.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matt 21:1-9
+!Matth 21:1-9
 21:1 Et cum appropinquassent Jerosolymis, et venissent Bethphage ad montem~
 Oliveti: tunc Jesus misit duos discipulos,
 21:2 dicens eis: Ite in castellum, quod contra vos est, et statim invenietis~

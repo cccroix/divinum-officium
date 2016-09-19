@@ -12,7 +12,7 @@ Annulo suo * subarrhavit me Dominus meus Jesus Christus, et tamquam sponsam deco
 Congaudete mecum, * et congratulamini, quia cum his omnibus lucidas sedes accepi;;112
 
 [Capitulum Vespera]
-!Sir 51:1-3
+!Eccl 51:1-3
 v. Confitebor tibi Domine Rex, et collaudabo te Deum Salvatorem meum. Confitebor~
 nomini tuo: quoniam adjutor et protector factus es mihi et liberasti corpus meum a~
 perditione.
@@ -60,7 +60,7 @@ R. In tabernaculo suo habitare facit eam.
 
 [Lectio1]
 De libro Ecclesiastici.
-!Sir 51:1-7
+!Eccl 51:1-7
 1 Oratio Jesu filii Sirach. Confitebor tibi, Domine rex, et collaudabo te Deum~
 salvatorem meum.
 2 Confitebor nomini tuo, quoniam adjutor et protector factus es mihi,
@@ -83,7 +83,7 @@ V. Infantia quidem computabatur in annis, sed erat senectus mentis immensa.
 R. Quia solum vitae dilexit auctorem.
 
 [Lectio2]
-!Sir 51:8-12
+!Eccl 51:8-12
 8 Laudabit usque ad mortem anima mea Dominum,
 9 et vita mea appropinquans erat in inferno deorsum.
 10 Circumdederunt me undique, et non erat qui adjuvaret: respiciens eram ad~
@@ -100,7 +100,7 @@ V. Posuit signum in faciem meam, ut nullum praeter eum amatorem admittam.
 R. Et circumdedit me vernantibus atque coruscantibus gemmis.
 
 [Lectio3]
-!Sir 51:13-17
+!Eccl 51:13-17
 13 Exaltasti super terram habitationem meam, et pro morte defluente deprecatus~
 sum.
 14 Invocavi Dominum patrem Domini mei, ut non derelinquat me in die~
@@ -198,7 +198,7 @@ Benedico te * Pater Domini mei Jesu Christi, quia per Filium tuum ignis exstinct
 Congaudete mecum, * et congratulamini, quia cum his omnibus lucidas sedes accepi.
 
 [Capitulum Laudes]
-!Sir 51:1-3
+!Eccl 51:1-3
 v. Confitebor tibi Domine Rex, et collaudabo te Deum Salvatorem meum. Confitebor~
 nomini tuo: quoniam adjutor et protector factus es mihi et liberasti corpus meum a~
 perditione.
@@ -216,19 +216,19 @@ Ecce quod concupivi * jam video: quod speravi, jam teneo: ipsi sum juncta in~
 caelis, quem in terris posita, tota devotione dilexi.
 
 [Capitulum Tertia]
-!Sir 51:1-3
+!Eccl 51:1-3
 v. Confitebor tibi Domine Rex, et collaudabo te Deum Salvatorem meum. Confitebor~
 nomini tuo: quoniam adjutor et protector factus es mihi et liberasti corpus meum a~
 perditione.
 $Deo gratias
 
 [Capitulum Sexta]
-!Sir 51:4-5
+!Eccl 51:4-5
 v. Liberasti me secundum multitudinem misericordiae nominis tui a rugientibus paratis ad escam, de manibus quaerentium animam meam et de portis tribulationis quae circumdederunt me.
 $Deo gratias
 
 [Capitulum Nona]
-!Sir 51:8; 51:12
+!Eccl 51:8; 51:12
 v. Laudabit usque ad mortem anima mea Deminum, quoniam oruis sustinentes te, et~
 liberas eos de manu angustiae, Domine Deus noster.
 $Deo gratias
@@ -240,7 +240,7 @@ aeternum.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matt 25:1-13
+!Matth 25:1-13
 25:1 Tunc simile erit regnum caelorum decem virginibus: quae accipientes~
 lampades suas exierunt obviam sponso et sponsae.
 25:2 Quinque autem ex eis erant fatuae, et quinque prudentes:

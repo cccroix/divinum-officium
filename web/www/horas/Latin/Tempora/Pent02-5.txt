@@ -20,7 +20,7 @@ Quid retríbuam * Dómino pro ómnibus quæ retríbuit mihi?;;115
 Apud Dóminum * propitiátio est et copiósa apud eum redémptio.;;129
 
 [Capitulum Vespera]
-!Eph 3:8-9
+!Ephes 3:8-9
 v. Fratres: Mihi ómnium sanctórum mínimo data est grátia hæc, in géntibus evangelizáre investigábiles divítias Christi; et illumináre omnes, quæ sit dispensátio sacraménti abscónditi a sæculis in Deo.
 $Deo gratias
 
@@ -121,7 +121,7 @@ R. Escam dedit timéntibus se.
 
 [Lectio1]
 De Jeremia Propheta
-!Jer 24, 5-7
+!Jerem 24, 5-7
 5 Hæc dicit Dóminus, Deus Israël: Cognóscam transmigratiónem Juda, quam emísi de loco isto in terram Chaldæórum, in bonum.
 6 Et ponam óculos meos super eos ad placándum, et redúcam eos in terram hanc; et ædificábo eos, et non déstruam; et plantábo eos et non evéllam.
 7 Et dabo eis cor ut sciant me, quia ego sum Dóminus; et erunt mihi in pópulum, et ego ero eis in Deum, quia reverténtur ad me in toto corde suo.
@@ -133,7 +133,7 @@ V. Et lætábor super eis cum bene eis fécero in toto Corde meo.
 R. Ut non recédant a me.
 
 [Lectio2]
-!Jer 30:18-19; 30:21-24
+!Jerem 30:18-19; 30:21-24
 18 Hæc dicit Dóminus: Ecce ego convértam conversiónem tabernaculórum Jacob, et tectis ejus miserébor, et ædificábitur cívitas in excélso suo, et templum juxta órdinem suum fundábitur,
 19 et egrediétur de eis laus, voxque ludéntium.  
 21 Et erit dux ejus ex eo, et princeps de médio ejus producétur; et, applicábo eum et accédet ad me. Quis enim iste est qui ápplicet cor suum ut appropínquet mihi? ait Dóminus. 
@@ -148,7 +148,7 @@ V. Et si is qui me óderat super me magna locútus fuísset, abscondíssem me f�
 R. Tu vero homo unánimis qui simul mecum dulces capiébas cibos.
 
 [Lectio3]
-!Jer 31:1-3; 31:31-33
+!Jerem 31:1-3; 31:31-33
 1 In témpore illo, dicit Dóminus, ero Deus univérsis cognatiónibus Israël, et ipsi erunt mihi in pópulum. 
 2 Hæc dicit Dóminus: Invénit grátiam in desérto pópulus qui remánserat a gládio; vadet ad réquiem suam Israël. 
 3 Longe Dóminus appáruit mihi. Et in caritáte perpétua diléxi te: ídeo attráxi te, míserans. 
@@ -196,7 +196,7 @@ R. Et adorábunt coram te, Dómine.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Joannem.
-!Joannes 19:31-37
+!Joann 19:31-37
 In illo tempore: Judaei, quoniam parasceve erat, ut non remanerent in cruce corpora sabbato (erat enim magnus dies ille sabbati), rogaverunt Pilatum, ut frangerentur eorum crura, et tollerentur. Et reliqua.
 _
 Homilía sancti Bonaventúræ Epíscopi
@@ -275,7 +275,7 @@ R. De fóntibus Salvatóris.
 Facta sunt * enim hæc ut Scriptúra impleréntur quæ dicit: Vidébunt in quem transfixérunt.
 
 [Lectio Prima]
-!Eph 3:17-19
+!Ephes 3:17-19
 v. In caritáte radicáti et fundáti, ut possítis comprehéndere cum ómnibus sanctis, quæ sit latitúdo et longitúdo, et sublímitas et profúndum; scire étiam supereminéntem sciéntiæ caritátem Christi, ut impleámini in omnem plenitúdinem Dei.
 
 [Capitulum Tertia]
@@ -293,7 +293,7 @@ V. Ego dixi: Dómine, miserére mei.
 R. Sana ánimam meam quia peccávi tibi.
 
 [Capitulum Sexta]
-!Eph 3:14-17
+!Ephes 3:14-17
 v. Hujus rei grátia flecto génua mea ad Patrem Dómini nostri Jesu Christi, ut det vobis secúndum divítias glóriæ suæ virtúte corroborári per Spíritum ejus in interiórem hóminem: Christum habitáre per fidem in córdibus vestris.
 $Deo gratias
 
@@ -309,7 +309,7 @@ V. Memóriam fecit mirabílium suórum miserátor Dóminus.
 R. Escam dedit timéntibus se.
 
 [Capitulum Nona]
-!Eph 3:17-19
+!Ephes 3:17-19
 v. In caritáte radicáti et fundáti, ut possítis comprehéndere cum ómnibus sanctis, quæ sit latitúdo et longitúdo, et sublímitas et profúndum; scire étiam supereminéntem sciéntiæ caritátem Christi, ut impleámini in omnem plenitúdinem Dei.
 $Deo gratias
 

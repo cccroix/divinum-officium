@@ -57,7 +57,7 @@ Cum Patre, et almo Spiritu,
 In sempiterna saecula. Amen.
 _
 v. Capitulum
-!Isa &:14-15
+!Isai &:14-15
 v. Ecce virgo concipiet et pariet filium, et vocabitur nomen ejus Emmanuel. Butyrum et mel comedet, ut sciat reprobare malum, et eligere bonum.
 $Deo gratias
 _
@@ -146,7 +146,7 @@ Dabit ei Dominus * sedem David patris ejus, et regnabit in aeternum.
 Ecce ancilla Domini, * fiat mihi secundum verbum tuum
 
 [Capitulum Laudes]
-!Isa 11:1-2
+!Isai 11:1-2
 v. Egredietur virga de radice Jesse, et flos de radice ejus ascendet. Et requiescet super eum Spiritus Domini.
 $Deo gratias.
 
@@ -190,7 +190,7 @@ _
 Ant. Missus est * Gabriel Angelus ad Mariam Virginem desponsatam Joseph.
 _
 #Capitulum
-!Isa 7:14-15
+!Isai 7:14-15
 v. Ecce virgo concipiet et pariet filium, et vocabitur nomen ejus Emmanuel. Butyrum et mel comedet, ut sciat reprobare malum, et eligere bonum.
 $Deo gratias
 _
@@ -235,7 +235,7 @@ _
 Ant. Ave Maria, * gratia plena, Dominus tecum: benedicta tu in mulieribus, alleluia.
 _
 #Capitulum
-!Isa 11:1-2
+!Isai 11:1-2
 v. Egredietur virga de radice Jesse, et flos de radice ejus ascendet. Et requiescet super eum Spiritus Domini.
 $Deo gratias
 _
@@ -325,7 +325,7 @@ _
 Ant. Ecce ancilla Domini, * fiat mihi secundum verbum tuum
 _
 #Capitulum
-!Isa 7:14-15
+!Isai 7:14-15
 v. Ecce virgo concipiet et pariet filium, et vocabitur nomen ejus Emmanuel. Butyrum et mel comedet, ut sciat reprobare malum, et eligere bonum.
 $Deo gratias.
 _

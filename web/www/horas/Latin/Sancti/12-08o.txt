@@ -35,7 +35,7 @@ $Per Dominum
 Conceptionem Virginis Mariae celebremus: * Christum ejus Filium adoremus Dominum.
 
 [Lectio1]
-!Sir 24:5-13
+!Eccl 24:5-13
 24:5 Ego ex ore Altissimi prodivi, primogenita ante omnem creaturam.
 24:6 Ego feci in caelis ut oriretur lumen indeficiens, et sicut nebula texi omnem terram.
 24:7 Ego in altissimis habitavi, et thronus meus in columna nubis.
@@ -49,7 +49,7 @@ Conceptionem Virginis Mariae celebremus: * Christum ejus Filium adoremus Dominum
 @Sancti/12-25:Responsory1
 
 [Lectio2]
-!Sir 24:14-21
+!Eccl 24:14-21
 24:14 Ab initio et ante saecula creata sum, et usque ad futurum saeculum non desinam: et in habitatione sancta coram ipso ministravi.
 24:15 Et sic in Sion firmata sum, et in civitate sanctificata similiter requievi, et in Jerusalem potestas mea.
 24:16 Et radicavi in populo honorificato, et in parte Dei mei hereditas illius, et in plenitudine sanctorum detentio mea.
@@ -63,7 +63,7 @@ Conceptionem Virginis Mariae celebremus: * Christum ejus Filium adoremus Dominum
 @Sancti/12-25:Responsory2
 
 [Lectio3]
-!Sir 24:22-31
+!Eccl 24:22-31
 24:22 Ego quasi terebinthus extendi ramos meos, et rami mei honoris et gratiae.
 24:23 Ego quasi vitis fructificavi suavitatem odoris: et flores mei fructus honoris et honestatis.
 24:24 Ego mater pulchrae dilectionis, et timoris, et agnitionis, et sanctae spei.
@@ -100,7 +100,7 @@ Quando ista vel vultu læsit parentes? Quando dissensit a propinquis? Quando fas
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matt 1:1-17
+!Matth 1:1-17
 Liber generationis Jesu Christi filii David, filii Abraham. Abraham genuit Isaac. Isaac autem genuit Jacob. Et reliqua.
 _
 Homilia sancti Hieronymi Presbyteri.

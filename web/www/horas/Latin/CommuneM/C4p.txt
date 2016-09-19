@@ -13,7 +13,7 @@ Ideo jurejurando * fecit illum Dominus crescere in plebem suam Alleluia;;111
 Serve bone * et fidelis, intra in gaudium Domini tui Alleluia;;112
 
 [Capitulum Vespera]
-!Sir 44:16-17
+!Eccl 44:16-17
 v. Ecce sacerdos magnus, qui in diebus suis placuit Deo, et inventus est~
 justus: et in tempore iracundiae factus est reconciliatio.
 $Deo gratias
@@ -88,7 +88,7 @@ R. Intra in gaudium domini tui. Alleluia
 
 [Lectio2]
 De Epistola ad Titum.
-!Titus 1:7-11
+!Tit 1:7-11
 7 Oportet enim episcopum sine crimine esse, sicut Dei dispensatorem: non superbum, non iracundum, non vinolentum, non percussorem, non turpis lucri cupidum:
 8 sed hospitalem, benignum, sobrium, justum, sanctum, continentem,
 9 amplectentem eum, qui secundum doctrinam est, fidelem sermonem: ut potens sit exhortari in doctrina sana, et eos qui contradicunt, arguere.
@@ -103,7 +103,7 @@ V. Benedictionem omnium gentium dedit illi, et testamentum suum confirmavit supe
 R. Ideo jurejurando fecit illum Dominus crescere in plebem suam. Alleluia
 
 [Lectio3]
-!Titus 2:1-8
+!Tit 2:1-8
 1 Tu autem loquere quae decent sanam doctrinam:
 2 senes ut sobrii sint, pudici, prudentes, sani in fide, in dilectione, in patientia:
 3 anus similiter in habitu sancto, non criminatrices, non multo vino servientes, bene docentes:
@@ -123,7 +123,7 @@ R. Tu es sacerdos in aeternum secundum ordinem Melchisedech. Alleluia
 R. Tu es sacerdos in aeternum secundum ordinem Melchisedech. Alleluia
 
 [MM Capitulum]
-!Eccli 44:20
+!Eccl 44:20
 Non est inventus similis illi in gloria: qui conservavit legem Excelsi. Ideo jurejurando fecit illum Dominus crescere in plebem suam. 
 $Deo gratias
 _
@@ -179,7 +179,7 @@ R. Ipse intercedat pro peccatis omnium populorum. Alleluia
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matt 25:14-23
+!Matth 25:14-23
 In illo tempore: Dixit Jesus discipulis suis parabolam hanc: Homo peregre~
 proficiscens, vocavit servos suos, et tradidit illis bonis suis. Et reliqua.
 _
@@ -241,7 +241,7 @@ Sacerdotes Dei * benedicite Dominum: servi Domini hymnum dicite Deo. Alleluia
 Serve bone * et fidelis, intra in gaudium Domini tui. Alleluia
 
 [Capitulum Laudes]
-!Sir 44:16-17
+!Eccl 44:16-17
 v. Ecce sacerdos magnus, qui in diebus suis placuit Deo, et inventus est justus:~
 et in tempore iracundiae factus est reconciliatio.
 $Deo gratias
@@ -276,11 +276,11 @@ intercedentibus meritis ab omnibus nos absolve peccatis.
 $Per Dominum.
 
 [Lectio Prima]
-!Sir 45:19-20
+!Eccl 45:19-20
 v. Fungi sacerdotio, et habere laudem in nomine ipsius, et offerri illi incensum dignum in odorem suavitatis.
 
 [Capitulum Tertia]
-!Sir 44. c.
+!Eccl 44. c.
 v. Ecce sacerdos magnus, qui in diebus suis placuit Deo, et inventus est~
 justus: et in tempore iracundiae factus est reconciliatio.
 $Deo gratias
@@ -290,7 +290,7 @@ V. Elegit eum Dominus sacerdotem sibi.
 R. Ad sacrificandum ei hostiam laudis.
 
 [Capitulum Sexta]
-!Sir 44:20; 44:22
+!Eccl 44:20; 44:22
 v. Non est inventus similis illi, qui conservaret legem Excelsi: ideo~
 jurejurando fecit illum Dominus crescere in plebem suam.
 $Deo gratias
@@ -300,7 +300,7 @@ V. Tu es sacerdos in aeternum.
 R. Secundum ordinem Melchisedech.
 
 [Capitulum Nona]
-!Sir 45:19-20
+!Eccl 45:19-20
 v. Fungi sacerdotio, et habere laudem in nomine ipsius, et offerri illi incensum~
 dignum in odorem suavitatis.
 $Deo gratias
@@ -319,7 +319,7 @@ R. Et ostendit illi regnum Dei.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matt 25:14-23
+!Matth 25:14-23
 25:14 Sicut enim homo peregre proficiscens, vocavit servos suos, et tradidit illis bona sua.
 25:15 Et uni dedit quinque talenta, alii autem duo, alii vero unum, unicuique secundum propriam virtutem: et profectus est statim.
 25:16 Abiit autem qui quinque talenta acceperat, et operatus est in eis, et lucratus est alia quinque.

@@ -8,7 +8,7 @@ Doxology=Heart
 
 [Lectio1]
 De libro primo Regum.
-!1 Sam 14:6-11
+!1 Reg 14:6-11
 6 Dixit autem Jonathas ad adolescentem armigerum suum: Veni, transeamus ad stationem incircumcisorum horum, si forte faciat Dominus pro nobis: quia non est Domino difficile salvare, vel in multis, vel in paucis.
 7 Dixitque ei armiger suus: Fac omnia quae placent animo tuo: perge quo cupis, et ero tecum ubicumque volueris.
 8 Et ait Jonathas: Ecce nos transimus ad viros istos. Cumque apparuerimus eis,
@@ -17,14 +17,14 @@ De libro primo Regum.
 11 Apparuit igitur uterque stationi Philisthinorum. Dixeruntque Philisthiim: En Hebraei egrediuntur de cavernis in quibus absconditi fuerant.
 
 [Lectio2]
-!1 Sam 14:12-15
+!1 Reg 14:12-15
 12 Et locuti sunt viri de statione ad Jonatham et ad armigerum ejus, dixeruntque: Ascendite ad nos, et ostendemus vobis rem. Et ait Jonathas ad armigerum suum: Ascendamus: sequere me: tradidit enim Dominus eos in manus Israël.
 13 Ascendit autem Jonathas manibus et pedibus reptans, et armiger ejus post eum. Itaque alii cadebant ante Jonatham, alios armiger ejus interficiebat sequens eum.
 14 Et facta est plaga prima qua percussit Jonathas et armiger ejus, quasi viginti virorum in media parte jugeri quam par boum in die arare consuevit.
 15 Et factum est miraculum in castris per agros: sed et omnis populus stationis eorum qui ierant ad praedandum, obstupuit, et conturbata est terra: et accidit quasi miraculum a Deo.
 
 [Lectio3]
-!1 Sam 14:16-20
+!1 Reg 14:16-20
 16 Et respexerunt speculatores Saul qui erant in Gabaa Benjamin, et ecce multitudo prostrata, et huc illucque diffugiens.
 17 Et ait Saul populo qui erat cum eo: Requirite, et videte quis abierit ex nobis. Cumque requisissent, repertum est non adesse Jonatham et armigerum ejus.
 18 Et ait Saul ad Achiam: Applica arcam Dei, erat enim ibi arca Dei in die illa cum filiis Israël.
@@ -43,7 +43,7 @@ Et sane illud Apóstoli: Ubi abundávit delíctum, superabundávit grátia, áliquo pa
 
 [Lectio7]
 Léctio sancti Evangélii secúndum Joánnem
-!Joannes 19:31-37
+!Joann 19:31-37
 In illo témpore: Judæi, quóniam parascéve erat, ut non remanérent in cruce córpora sábbato (erat enim magnus dies ille sábbati) rogavérunt Pilátum, ut frangeréntur eórum crura et tolleréntur. Et réliqua.
 _
 Homilía sancti Cyrilli Alexandríni

@@ -5,7 +5,7 @@ Feria Quarta infra Hebdomadam III in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Lectio Sancti Evangelii secundum Matthaeum
-!Matt 15:1-20
+!Matth 15:1-20
 In illo tempore: Accesserunt ad Jesum ab Hierosolymis scribae~
 et pharisaei dicentes: Quare discipuli tui transgrediuntur traditionem~
 seniorum? Et reliqua.
@@ -70,7 +70,7 @@ $Per Dominum
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matt 15:1-20
+!Matth 15:1-20
 15:1 Tunc accesserunt ad eum ab Jerosolymis scribae et pharisaei, dicentes:
 15:2 Quare discipuli tui transgrediuntur traditionem seniorum? non enim lavant manus suas cum panem manducant.
 15:3 Ipse autem respondens ait illis: Quare et vos transgredimini mandatum Dei propter traditionem vestram? Nam Deus dixit:

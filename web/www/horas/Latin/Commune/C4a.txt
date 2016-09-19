@@ -39,7 +39,7 @@ O Doctor optime, * Ecclesiae Sanctae lumen, beate N., divinae legis amator, depr
 
 [Lectio1]
 De libro Ecclesiastici.
-!Sir 39:1-5
+!Eccl 39:1-5
 1 Sapientiam omnium antiquorum exquiret sapiens, et in prophetis vacabit.
 2 Narrationem virorum nominatorum conservabit, et in versutias parabolarum simul introibit.
 3 Occulta proverbiorum exquiret, et in absconditis parabolarum conversabitur.
@@ -50,7 +50,7 @@ De libro Ecclesiastici.
 @Commune/C4
 
 [Lectio2]
-!Sir 39:6-10
+!Eccl 39:6-10
 6 Cor suum tradet ad vigilandum diluculo ad Dominum, qui fecit illum, et in conspectu Altissimi deprecabitur.
 7 Aperiet os suum in oratione, et pro delictis suis deprecabitur.
 8 Si enim Dominus magnus voluerit, spiritu intelligentiae replebit illum:
@@ -61,7 +61,7 @@ De libro Ecclesiastici.
 @Commune/C4
 
 [Lectio3]
-!Sir 39:11-14
+!Eccl 39:11-14
 11 Ipse palam faciet disciplinam doctrinae suae, et in lege testamenti Domini gloriabitur.
 12 Collaudabunt multi sapientiam ejus, et usque in saeculum non delebitur.
 13 Non recedet memoria ejus, et nomen ejus requiretur a generatione in generationem.
@@ -90,7 +90,7 @@ De libro Ecclesiastici.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matt 5:13-19
+!Matth 5:13-19
 In illo tempore: Dixit Jesus discipulis suis: Vos estis sal terrae. Quod si sal evanuerit, in quo salietur? Et reliqua.
 _
 Homilia sancti Hilarii Episcopi.
@@ -173,7 +173,7 @@ $Per Dominum.
 
 [Lectio72]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matt 5:13-19
+!Matth 5:13-19
 In illo tempore: Dixit Jesus discipulis suis: Vos estis sal terrae. Quod si sal evanuerit, in quo salietur? Et reliqua.
 _
 Homilia sancti Joannis Chrysostomi.

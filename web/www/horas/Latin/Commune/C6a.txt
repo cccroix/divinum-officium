@@ -105,7 +105,7 @@ Da nobis, quaesumus Domine Deus noster, sanctarum Virginum et Martyrum tuarum N.
 $Per Dominum
 
 [Lectio Prima]
-!Sir 51:13-14
+!Eccl 51:13-14
 v. Domine Deus meus, exaltasti super terram habitationem meam, et pro morte defluente deprecata sum. Invocavi Dominum Patrem Domini mei, ut non derelinquat me in die tribulationis meae, et in tempore superborum sine adjutorio.
 
 [Capitulum Tertia]

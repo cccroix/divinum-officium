@@ -107,7 +107,7 @@ illius. Hanc suscepit naturam, quam salvandam esse judicavit
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matt 13:24-30
+!Matth 13:24-30
 In illo tempore: Dixit Jesus turbis parabolam hanc: Simile factum est regnum~
 caelorum homini qui seminavit bonum semen in agro suo. Et reliqua.
 _
@@ -159,7 +159,7 @@ triticum autem congregate in horreum meum, dicit Dominus.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matt 13:24-30
+!Matth 13:24-30
 13:24 Aliam parabolam proposuit illis, dicens: Simile factum est regnum caelorum~
 homini, qui seminavit bonum semen in agro suo:
 13:25 cum autem dormirent homines, venit inimicus ejus, et superseminavit~

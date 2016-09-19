@@ -13,7 +13,7 @@ Nigra sum, * sed formosa, filiae Jerusalem: ideo dilexit me Rex, et introduxit m
 Speciosa * facta es et suavis in deliciis tuis, sancta Dei Genitrix;;126
 
 [Capitulum Vespera]
-!Sir 24:14
+!Eccl 24:14
 v. Ab initio et ante saecula creata sum, et usque ad futurum saeculum non~
 desinam, et in habitatione sancta coram ipso ministravi.
 $Deo gratias.
@@ -306,7 +306,7 @@ Jam hiems transiit, * imber abiit, et recessit: surge amica mea, et veni.
 Speciosa * facta es et suavis in deliciis tuis, sancta Dei Genitrix.
 
 [Capitulum Laudes]
-!Sir 24:14
+!Eccl 24:14
 v. Ab initio, et ante saecula creata sum, et usque ad futurum saeculum non~
 desinam, et in habitatione sancta coram ipso ministravi.
 $Deo gratias.
@@ -355,12 +355,12 @@ praesenti liberari tristitia, et aeterna perfrui laetitia.
 $Per Dominum
 
 [Lectio Prima]
-!Sir 24:19-20
+!Eccl 24:19-20
 v. In plateis sicut cinnamomum, et balsamum aromatizans odorem dedi: quasi~
 myrrha electa dedi suavitatem odoris.
 
 [Capitulum Tertia]
-!Sir 24:14
+!Eccl 24:14
 v. Ab initio, et ante saecula creata sum, et usque ad futurum saeculum non~
 desinam, et in habitatione sancta coram ipso ministravi.
 $Deo gratias.
@@ -370,7 +370,7 @@ V. Adjuvabit eam Deus vultu suo.
 R. Deus in medio ejus, non commovebitur.
 
 [Capitulum Sexta]
-!Sir 24:15-16
+!Eccl 24:15-16
 v. Et sic in Sion firmata sum, et in civitate sanctificata similiter requievi,~
 et in Jerusalem potestas mea. Et radicavi in populo honorificato, et in parte~
 Dei mei hereditas illius, et in plenitudine sanctorum detentio mea.
@@ -381,7 +381,7 @@ V. Elegit eam Deus, et praeelegit eam.
 R. In tabernaculo suo habitare facit eam.
 
 [Capitulum Nona]
-!Sir 24:19-20
+!Eccl 24:19-20
 v. In plateis sicut cinnamomum, et balsamum aromatizans odorem dedi: quasi~
 myrrha electa dedi suavitatem odoris.
 $Deo gratias.

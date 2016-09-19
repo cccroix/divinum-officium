@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 De Epistola beati Jacobi Apostoli.
-!Jas 4:1-4
+!Jacob 4:1-4
 1 Unde bella et lites in vobis? nonne hinc: ex concupiscentiis vestris, quae militant in membris vestris?
 2 concupiscitis, et non habetis: occiditis, et zelatis: et non potestis adipisci: litigatis, et belligeratis, et non habetis, propter quod non postulatis.
 3 Petitis, et non accipitis: eo quod male petatis: ut in concupiscentiis vestris insumatis.
@@ -22,7 +22,7 @@ V. Psalmum dicite nomini ejus, date gloriam laudi ejus.
 R. Domino de fontibus Israël, alleluia, alleluia.
 
 [Lectio2]
-!Jas 4:5-10
+!Jacob 4:5-10
 5 An putatis quia inaniter Scriptura dicat: Ad invidiam concupiscit spiritus qui habitat in vobis?
 6 majorem autem dat gratiam. Propter quod dicit: Deus superbis resistit, humilibus autem dat gratiam.
 7 Subditi ergo estote Deo, resistite autem diabolo, et fugiet a vobis.
@@ -40,7 +40,7 @@ R. Ne repellas me a mandatis tuis, alleluia, alleluia.
 R. Ne repellas me a mandatis tuis, alleluia, alleluia.
 
 [Lectio3]
-!Jas 4:11-15
+!Jacob 4:11-15
 11 Nolite detrahere alterutrum fratres. Qui detrahit fratri, aut qui judicat fratrem suum, detrahit legi, et judicat legem. Si autem judicas legem, non es factor legis, sed judex.
 12 Unus est legislator et judex, qui potest perdere et liberare.
 13 Tu autem quis es, qui judicas proximum? Ecce nunc qui dicitis: Hodie, aut crastino ibimus in illam civitatem, et faciemus ibi quidem annum, et mercabimur, et lucrum faciemus:

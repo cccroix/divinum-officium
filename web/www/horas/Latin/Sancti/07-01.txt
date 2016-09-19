@@ -18,7 +18,7 @@ Quare ergo * rubrum est indumentum tuum, et vestimenta tua sicut calcantium in t
 Torcular * calcavi solus, et de Gentibus non est vir mecum.
 
 [Capitulum Vespera]
-!Heb 9:11-12
+!Hebr 9:11-12
 v. Fratres: Christus assistens Pontifex futurorum bonorum, per amplius et perfectius tabernaculum non manufactum, id est, non hujus creationis: neque per sanguinem hircorum aut vitulorum, sed per proprium sanguinem introivit semel in Sancta, aeterna redemptione inventa.
 $Deo gratias
 
@@ -136,7 +136,7 @@ R. Et lavit nos a peccatis nostris in sanguine suo.
 
 [Lectio1]
 De Epistola beati Pauli Apostoli ad Hebraeos.
-!Heb 9:11-15
+!Hebr 9:11-15
 11 Christus assistens Pontifex futurorum bonorum, per amplius et perfectius tabernaculum, non manufactum, id est, non hujus creationis:
 12 neque per sanguinem hircorum aut vitulorum, sed per proprium sanguinem introivit semel in Sancta, aeterna redemptione inventa.
 13 Si enim sanguis hircorum et taurorum, et cinis vitulae aspersus inquinatos sanctificat ad emundationem carnis:
@@ -150,7 +150,7 @@ V. Nondum enim usque ad sanguinem restitistis adversus peccatum repugnantes.
 R. Exeamus igitur ad eum extra castra, improperium ejus portantes.
 
 [Lectio2]
-!Heb 9:16-22
+!Hebr 9:16-22
 16 Ubi enim testamentum est, mors necesse est intercedat testatoris.
 17 Testamentum enim in mortuis confirmatum est: alioquin nondum valet, dum vivit qui testatus est.
 18 Unde nec primum quidem sine sanguine dedicatum est.
@@ -166,7 +166,7 @@ V. Fide celebravit Pascha et sanguinis effusione, ne qui vastabat primitiva, tan
 R. Et ait: Hic est sanguis foederis, quod pepigit Dominus vobiscum.
 
 [Lectio3]
-!Heb 10:19-24
+!Hebr 10:19-24
 19 Habentes itaque, fratres, fiduciam in introitu sanctorum in sanguine Christi,
 20 quam initiavit nobis viam novam, et viventem per velamen, id est, carnem suam,
 21 et sacerdotem magnum super domum Dei:
@@ -215,7 +215,7 @@ R. Quoniam cum adhuc peccatores essemus, secundum tempus Christus pro nobis mort
 
 [Lectio7]
 Lectio sancti Evangelii secundum Joannem.
-!Joannes 19:30-35
+!Joann 19:30-35
 In illo tempore: Cum accepisset Jesus acetum, dixit: Consummatum est. Et inclinato capite, tradidit spiritum. Et reliqua.
 _
 Homilia sancti Augustini Episcopi.
@@ -313,7 +313,7 @@ Erit sanguis Agni * vobis in signum, dicit Dominus: et videbo sanguinem, et tran
 @Sancti/06-24:Octava
 
 [Lectio Prima]
-!Heb 9:19-20
+!Hebr 9:19-20
 v. Accipiens Moyses sanguinem vitulorum, et hircorum cum aqua, et lana coccinea, et hyssopo: ipsum quoque librum, et omnem populum aspersit, dicens: Hic sanguis testamenti, quod mandavit ad vos Deus.
 
 [Versum Prima]
@@ -334,7 +334,7 @@ V. Sanguis Jesu Christi Filii Dei.
 R. Emundat nos ab omni peccato.
 
 [Capitulum Sexta]
-!Heb 9:13-14
+!Hebr 9:13-14
 v. Si sanguis hircorum, et taurorum, et cinis vitulae aspersus inquinatos sanctificat ad emundationem carnis: quanto magis sanguis Christi, qui per Spiritum Sanctum semetipsum obtulit immaculatum Deo, emundabit conscientiam nostram ab operibus mortuis, ad serviendum Deo viventi?
 $Deo gratias
 

@@ -26,7 +26,7 @@ $Qui vivis
 
 [Lectio1]
 De Isaia Propheta
-!Isa 35:1-7
+!Isai 35:1-7
 1 Laetabitur deserta et invia, et exsultabit solitudo, et florebit quasi lilium.
 2 Germinans germinabit, et exsultabit laetabunda et laudans: gloria Libani data est ei, decor Carmeli et Saron; ipsi videbunt gloriam Domini, et decorem Dei nostri.
 3 Confortate manus dissolutas, et genua debilia roborate.
@@ -42,7 +42,7 @@ V. Annuntiate, et auditum facite: loquimini, et clamate.
 R. Ecce Deus Salvator noster adveniet.
 
 [Lectio2]
-!Isa 35:7-10
+!Isai 35:7-10
 7 In cubilibus, in quibus prius dracones habitabant, orietur viror calami et junci.
 8 Et erit ibi semita et via, et via sancta vocabitur: non transibit per eam pollutus, et haec erit vobis directa via, ita ut stulti non errent per eam.
 9 Non erit ibi leo, et mala bestia non ascendet per eam, nec invenietur ibi; et ambulabunt qui liberati fuerint.
@@ -55,7 +55,7 @@ V. Pulchriores sunt oculi ejus vino, et dentes ejus lacte candidiores.
 R. Et ipse erit exspectatio Gentium.
 
 [Lectio3]
-!Isa 41:1-4
+!Isai 41:1-4
 1 Taceant ad me insulae, et gentes mutent fortitudinem: accedant, et tunc loquantur; simul ad judicium propinquemus.
 2 Quis suscitavit ab oriente Justum, vocavit eum ut sequeretur se? Dabit in conspectu ejus gentes, et reges obtinebit: dabit quasi pulverem gladio ejus, sicut stipulam vento raptam arcui ejus.
 3 Persequetur eos, transibit in pace: semita in pedibus ejus non apparebit.

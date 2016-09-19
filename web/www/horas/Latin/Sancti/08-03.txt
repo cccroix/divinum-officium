@@ -24,7 +24,7 @@ $Deo gratias
 
 [Lectio1]
 De Actibus Apostolorum.
-!Acts 7:51-54
+!Act 7:51-54
 51 Dura cervice, et incircumcisis cordibus et auribus, vos semper Spiritui Sancto resistitis: sicut patres vestri, ita et vos.
 52 Quem prophetarum non sunt persecuti patres vestri? Et occiderunt eos qui praenuntiabant de adventu Justi, cujus vos nunc proditores et homicidae fuistis:
 53 qui accepistis legem in dispositione Angelorum, et non custodistis.
@@ -34,7 +34,7 @@ De Actibus Apostolorum.
 @Sancti/12-26
 
 [Lectio2]
-!Acts 7:55-58
+!Act 7:55-58
 55 Cum autem esset plenus Spiritu Sancto, intendens in caelum, vidit gloriam Dei, et Jesum stantem a dextris Dei. Et ait: Ecce video caelos apertos, et Filium hominis stantem a dextris Dei.
 56 Exclamantes autem voce magna continuerunt aures suas, et impetum fecerunt unanimiter in eum.
 57 Et ejicientes eum extra civitatem, lapidabant: et testes deposuerunt vestimenta sua secus pedes adolescentis qui vocabatur Saulus.
@@ -44,7 +44,7 @@ De Actibus Apostolorum.
 @Sancti/12-26
 
 [Lectio3]
-!Acts 7:59; 8:1-2
+!Act 7:59; 8:1-2
 59 Positis autem genibus, clamavit voce magna, dicens: Domine, ne statuas illis hoc peccatum. Et cum hoc dixisset, obdormivit in Domino. Saulus autem erat consentiens neci ejus.
 1 Facta est autem in illa die persecutio magna in ecclesia quae erat Jerosolymis, et omnes dispersi sunt per regiones Judaeae et Samariae praeter Apostolos.
 2 Curaverunt autem Stephanum viri timorati, et fecerunt planctum magnum super eum.
@@ -74,7 +74,7 @@ Ad aquas Tibilitanas episcopo afferente Projecto reliquias Martyris gloriosissim
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matt 23:34-39
+!Matth 23:34-39
 In illo tempore: Dicebat Jesus scribis et pharisaeis: Ecce ego mitto ad vos prophetas, et sapientes, et scribas: et ex illis occidetis, et crucifigetis. Et reliqua.
 _
 Homilia sancti Hieronymi Presbyteri.

@@ -3,7 +3,7 @@ Adaperiat Dominus * cor vestrum in lege sua, et in praeceptis suis, et faciat pa
 
 [Lectio1]
 Incipit liber primus Machabaeorum
-!1 Mac 1:1-7
+!1 Mach 1:1-7
 1 Et factum est, postquam percussit Alexander Philippi Macedo, qui primus regnavit in Graecia, egressus de terra Cethim, Darium regem Persarum et Medorum:
 2 constituit praelia multa, et obtinuit omnium munitiones, et interfecit reges terrae,
 3 et pertransiit usque ad fines terrae: et accepit spolia multitudinis Gentium, et siluit terra in conspectu ejus.
@@ -19,7 +19,7 @@ V. Exaudiat Dominus orationes vestras, et reconcilietur vobis, nec vos deserat i
 R. Concedat vobis salutem, et redimat vos a malis.
 
 [Lectio2]
-!1 Mac 1:8-11
+!1 Mach 1:8-11
 8 Et regnavit Alexander annis duodecim, et mortuus est.
 9 Et obtinuerunt pueri ejus regnum, unusquisque in loco suo:
 10 et imposuerunt omnes sibi diademata post mortem ejus, et filii eorum post eos annis multis. Et multiplicata sunt mala in terra.
@@ -32,7 +32,7 @@ V. Det vobis cor omnibus, ut colatis eum, et faciatis ejus voluntatem.
 R. Dominus Deus noster.
 
 [Lectio3]
-!1 Mac 1:12-16
+!1 Mach 1:12-16
 12 In diebus illis, exierunt ex Israël filii iniqui, et suaserunt multis, dicentes: Eamus, et disponamus testamentum cum Gentibus, quae circa nos sunt: quia ex quo recessimus ab eis, invenerunt nos multa mala.
 13 Et bonus visus est sermo in oculis eorum.
 14 Et destinaverunt aliqui de populo, et abierunt ad regem: et dedit illis potestatem ut facerent justitiam Gentium,

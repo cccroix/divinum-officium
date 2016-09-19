@@ -1,6 +1,6 @@
 [Lectio1]
 De libro Ecclesiastici.
-!Sir 13:1-6
+!Eccl 13:1-6
 1 Qui tetigerit picem inquinabitur ab ea: et qui communicaverit superbo induet superbiam.
 2 Pondus super se tollat qui honestiori se communicat, et ditiori te ne socius fueris.
 3 Quid communicabit cacabus ad ollam? quando enim se colliserint, confringetur.
@@ -13,7 +13,7 @@ De libro Ecclesiastici.
 @TemporaM/081-0:Responsory7
 
 [Lectio2]
-!Sir 13:9-15
+!Eccl 13:9-15
 9 Humiliare Deo, et exspecta manus ejus.
 10 Attende ne seductus in stultitiam humilieris.
 11 Noli esse humilis in sapientia tua, ne humiliatus in stultitiam seducaris.
@@ -27,7 +27,7 @@ De libro Ecclesiastici.
 @TemporaM/081-1:Responsory2
 
 [Lectio3]
-!Sir 13:16-22
+!Eccl 13:16-22
 16 Cave tibi, et attende diligenter auditui tuo, quoniam cum subversione tua ambulas:
 17 audiens vero illa, quasi in somnis vide, et vigilabis.
 18 Omni vita tua dilige Deum, et invoca illum in salute tua.

@@ -16,7 +16,7 @@ $Per Dominum
 
 [Lectio1]
 De Actibus Apostolorum.
-!Acts 13:43-47
+!Act 13:43-47
 43 Cum dimissa esset synagoga, secuti sunt multi Judaeorum, et colentium advenarum, Paulum et Barnabam: qui loquentes suadebant eis ut permanerent in gratia Dei.
 44 Sequenti vero sabbato pene universa civitas convenit audire verbum Dei.
 45 Videntes autem turbas Judaei, repleti sunt zelo, et contradicebant his quae a Paulo dicebantur, blasphemantes.
@@ -48,7 +48,7 @@ Cum autem Antiochiae in Ecclesia, cum ceteris prophetis et doctoribus, Paulus et
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matt 10:16-22
+!Matth 10:16-22
 In illo tempore: Dixit Jesus discipulis suis: Ecce ego mitto vos sicut oves in medio luporum. Et reliqua.
 _
 !Homilia sancti Joannis Chrysostomi.

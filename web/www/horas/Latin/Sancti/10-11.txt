@@ -19,7 +19,7 @@ Benedicta filia * tu a Domino, quia per te fructum vitae communicavimus.;;126
 Viderunt eam * filiae Sion, et beatam dixerunt, et reginae laudaverunt eam.;;147
 
 [Capitulum Vespera]
-!Sir 24:12-13
+!Eccl 24:12-13
 v. Qui creavit me, requievit in tabernaculo meo et dixit mihi: in Jacob inhabita, et in electis meis mitte radices.
 $Deo gratias
 
@@ -66,7 +66,7 @@ Amen.
 
 [Lectio1]
 De libro Ecclesiatici
-!Sir 24:5-11
+!Eccl 24:5-11
 5 Ego ex ore Altissimi prodivi, primogenita ante omnem creaturam.
 6 Ego feci in caelis ut oriretur lumen indeficiens, et sicut nebula texi omnem terram.
 7 Ego in altissimis habitavi, et thronus meus in columna nubis.
@@ -82,7 +82,7 @@ V. Maternitatem Beatae Mariae Virginis cum gaudio celebremus.
 R. Ex qua ortus es Sol justitiae, Christus Deus noster, per quem salvati et redempti sumus.
 
 [Lectio2]
-!Sir 24:12-16
+!Eccl 24:12-16
 12 Tunc praecepit, et dixit mihi Creator omnium: et qui creavit me, requievit in tabernaculo meo.
 13 Et dixit mihi: In Jacob inhabita, et in Israel hereditare, et in electis meis mitte radices.
 14 Ab initio et ante saecula creata sum, et usque ad futurum saeculum non desinam: et in habitatione sancta coram ipso ministravi.
@@ -96,7 +96,7 @@ V. Benedicta tu in mulieribus, et benedictus fructus ventris tui.
 R. Qui caelum terramque regit, in tua se clausit viscera factus homo.
 
 [Lectio3]
-!Sir 24:17-23
+!Eccl 24:17-23
 17 Quasi cedrus exaltata sum in Libano, et quasi cypressus in monte Sion:
 18 quasi palma exaltata sum in Cades, et quasi plantatio rosae in Jericho:
 19 quasi oliva speciosa in campis, et quasi platanus exaltata sum juxta aquam in plateis.
@@ -185,7 +185,7 @@ Benedicta filia * tu a Domino, quia per te fructum vitae communicavimus.
 Viderunt eam * filiae Sion, et beatam dixerunt, et reginae laudaverunt eam.
 
 [Capitulum Laudes]
-!Sir 24:12-13
+!Eccl 24:12-13
 v. Qui creavit me, requievit in tabernaculo meo, et dixit mihi: in Jacob inhabita, et in electis meis mitte radices.
 $Deo gratias
 
@@ -219,7 +219,7 @@ R. Virgo peperit Salvatorem: te laudamus Deus noster.
 Sancta Maria, * succurre miseris, juva pusíllanimes, refove flebiles, ora pro pópulo, interveni pro clero, intercede pro devoto femineo sexu: séntiant omnes tuum juvamen, quicúmque celebrant tuam admirábilem Maternitátem.
 
 [Capitulum Tertia]
-!Sir 24:12-13
+!Eccl 24:12-13
 v. Qui creavit me, requievit in tabernaculo meo, et dixit mihi: in Jacob inhabita, et in electis meis mitte radices.
 $Deo gratias
 

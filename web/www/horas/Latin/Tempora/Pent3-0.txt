@@ -9,7 +9,7 @@ Symbolum Athanasium
 
 [Lectio1]
 De libro primo Regum.
-!1 Sam 9:18-21
+!1 Reg 9:18-21
 18 accessit autem Saul ad Samuelem in medio portae et ait indica oro mihi ubi~
 est domus videntis
 19 et respondit Samuel Sauli dicens ego sum videns ascende ante me in excelsum~

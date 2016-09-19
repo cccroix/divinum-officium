@@ -104,7 +104,7 @@ ad observationes legis cogebant.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matt 8:1-13
+!Matth 8:1-13
 In illo tempore: Cum descendisset Jesus de monte, secutae sunt eum turbae multae;~
 et ecce leprosus veniens, adorabat eum. Et reliqua.
 _
@@ -161,7 +161,7 @@ Domine, * si vis, potes me mundare: et ait Jesus: Volo, mundare.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matt 8:1-13
+!Matth 8:1-13
 8:1 Cum autem descendisset de monte, secutae sunt eum turbae multae:
 8:2 et ecce leprosus veniens, adorabat eum, dicens: Domine, si vis, potes me~
 mundare.

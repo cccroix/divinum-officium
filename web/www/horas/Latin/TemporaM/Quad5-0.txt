@@ -15,7 +15,7 @@ $Per Dominum
 
 [Lectio1]
 Incipit liber Jeremiae Prophetae.
-!Jer 1:1-6
+!Jerem 1:1-6
 1 Verba Jeremiae filii Helciae, de sacerdotibus qui fuerunt in Anathoth, in~
 terra Benjamin.
 2 Quod factum est verbum Domini ad eum in diebus Josiae filii Amon, regis Juda,~
@@ -38,7 +38,7 @@ R. Quartadecima die ad vesperum Pascha Domini est: et in quintadecima~
 solemnitatem celebrabitis altissimo Domino.
 
 [Lectio2]
-!Jer 1:7-13
+!Jerem 1:7-13
 7 Et dixit Dominus ad me: Noli dicere: Puer sum: quoniam ad omnia quae mittam te~
 ibis, et universa quaecumque mandavero tibi loqueris.
 8 Ne timeas a facie eorum, quia tecum ego sum ut eruam te, dicit Dominus.
@@ -61,7 +61,7 @@ V. Nequando dicat inimicus meus, Praevalui adversus eum.
 R. Exsurge Domine, salvum me fac, Deus meus.
 
 [Lectio3]
-!Jer 1:14-19
+!Jerem 1:14-19
 14 Et dixit Dominus ad me: Ab aquilone pandetur malum super omnes habitatores~
 terrae:
 15 quia ecce ego convocabo omnes cognationes regnorum aquilonis, ait Dominus: et~
@@ -150,7 +150,7 @@ manus meas et pedes meos: libera me de ore leonis, * Ut enarrem nomen tuum fratr
 
 [Lectio7]
 Lectio sancti Evangelii secundum Joannem.
-!Joannes 8:46-59
+!Joann 8:46-59
 In illo tempore: Dicebat Jesus turbis Judaeorum: Quis ex vobis arguet me de~
 peccato? Si veritatem dico vobis, quare non creditis mihi? Et reliqua.
 _
@@ -222,7 +222,7 @@ Popule meus * quid feci tibi, aut quid molestus fui? responde mihi.
 Numquid redditur * pro bono malum, quia foderunt foveam animae meae?
 
 [Capitulum Laudes]
-!Heb 9:11-12
+!Hebr 9:11-12
 v. Fratres: Christus assistens Pontifex futurorum bonorum, per amplius et~
 perfectius tabernaculum non manu factum, id est, non hujus creationis: neque per~
 sanguinem hircorum aut vitulorum, sed per proprium sanguinem introivit semel in~
@@ -246,7 +246,7 @@ Ego demonium non habeo, * sed honorifico Patrem meum, dicit Dominus.
 Ego gloriam meam * non quaero: est qui quaerat, et judicet.
 
 [Capitulum Tertia]
-!Heb 9:11-12
+!Hebr 9:11-12
 v. Fratres: Christus assistens Pontifex futurorum bonorum, per amplius et~
 perfectius tabernaculum non manu factum, id est, non hujus creationis: neque per~
 sanguinem hircorum aut vitulorum, sed per proprium sanguinem introivit semel in~
@@ -258,7 +258,7 @@ Amen, amen dico vobis: * si quis sermonem meum servaverit, mortem non gustabit~
 in aeternum.
 
 [Capitulum Sexta]
-!Heb 9:13-14
+!Hebr 9:13-14
 v. Si enim sanguis hircorum, et taurorum, et cinis vitulas aspersus inquinatos~
 sanctificat ad emundationem carnis: quanto magis sanguis Christi, qui per~
 Spiritum sanctum semetipsum obtulit immaculatum Deo, emundabit conscientiam~
@@ -270,14 +270,14 @@ Tulerunt lapides * Judaei ut jacerent in eum: Jesus autem abscondit se, et~
 exivit de templo.
 
 [Capitulum Nona]
-!Heb 9:15
+!Hebr 9:15
 v. Et ideo novi Testamenti mediator est: ut morte intercedente, in redemptionem~
 earum praevaricatidnum, quae erant sub priori Testamento, repromissionem~
 accipiant, qui vocati sunt aeternae hereditatis in Christo Jesu Domino nostro
 $Deo gratias
 
 [Capitulum Vespera]
-!Heb 9:11-12
+!Hebr 9:11-12
 v. Fratres: Christus assistens Pontifex futurorum bonorum, per amplius et~
 perfectius tabernaculum non manu factum, id est, non hujus creationis: neque per~
 sanguinem hircorum aut vitulorum, sed per proprium sanguinem introivit semel in~
@@ -295,7 +295,7 @@ Abraham pater vester * exsultavit ut videret diem meum: vidit, et gavisus est.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Joannem
-!Joannes 8:46-59
+!Joann 8:46-59
 8:46 Quis ex vobis arguet me de peccato? si veritatem dico vobis, quare non~
 creditis mihi?
 8:47 Qui ex Deo est, verba Dei audit. Propterea vos non auditis, quia ex Deo non~

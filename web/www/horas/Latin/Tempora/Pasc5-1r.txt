@@ -13,7 +13,7 @@ Doxology=Pasc
 
 [Lectio1]
 De Epistola prima beati Petri Apostoli
-!1 Pet 2:1-5
+!1 Petri 2:1-5
 1 Deponentes igitur omnem malitiam, et omnem dolum, et simulationes, et invidias, et omnes detractiones,
 2 sicut modo geniti infantes, rationabile, sine dolo lac concupiscite: ut in eo crescatis in salutem:
 3 si tamen gustastis quoniam dulcis est Dominus.
@@ -27,7 +27,7 @@ V. Quos redemit de manu inimici, et de regionibus congregavit eos.
 R. A Domino, alleluia, alleluia.
 
 [Lectio2]
-!1 Pet 2:6-10
+!1 Petri 2:6-10
 6 Propter quod continet Scriptura: Ecce pono in Sion lapidem summum angularem, electum, pretiosum: et qui crediderit in eum, non confundetur.
 7 Vobis igitur honor credentibus: non credentibus autem lapis, quem reprobaverunt aedificantes: hic factus est in caput anguli,
 8 et lapis offensionis, et petra scandali, his qui offendunt verbo, nec credunt in quo et positi sunt.
@@ -41,7 +41,7 @@ V. Afferte Domino gloriam et honorem, afferte Domino gloriam nomini ejus.
 R. Psalmum dicite ei, alleluia.
 
 [Lectio3]
-!1 Pet 2:11-17
+!1 Petri 2:11-17
 11 Carissimi, obsecro vos tamquam advenas et peregrinos abstinere vos a carnalibus desideriis, quae militant adversus animam,
 12 conversationem vestram inter gentes habentes bonam: ut in eo quod detrectant de vobis tamquam de malefactoribus, ex bonis operibus vos considerantes, glorificent Deum in die visitationis.
 13 Subjecti igitur estote omni humanae creaturae propter Deum: sive regi quasi praecellenti:

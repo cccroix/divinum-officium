@@ -11,7 +11,7 @@ Feria IV. infra Hebdomadam I in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matt 12:38-50
+!Matth 12:38-50
 In illo tempore: Responderunt Jesu quidam de scribis et pharisaeis, dicentes: Magister, volumus a te signum videre. Et reliqua.
 _
 Homilia sancti Ambrosii Episcopi.

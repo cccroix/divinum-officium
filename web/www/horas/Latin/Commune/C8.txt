@@ -17,7 +17,7 @@ Bene fundata est * domus Domini supra firmam petram.;;112
 Lapides pretiosi * omnes muri tui, et turres Jerusalem gemmis aedificabuntur.;;147
 
 [Capitulum Vespera]
-!Apo 21:2
+!Apoc 21:2
 v. Vidi civitatem sanctam Jerusalem novam descendentem de caelo a Deo, paratam, sicut sponsam ornatam viro suo.
 $Deo gratias
 
@@ -135,7 +135,7 @@ R. Bene fundata est supra firmam petram.
 
 [Lectio1]
 De libro secundo Paralipomenon.
-!2 Chr 7:1-5
+!2 Paral 7:1-5
 1 Cum complesset Salomon fundens preces, ignis descendit de caelo, et devoravit holocausta et victimas: et majestas Domini implevit domum.
 2 Nec poterant sacerdotes ingredi templum Domini, eo quod implesset majestas Domini templum Domini.
 3 Sed et omnes filii Israël videbant descendentem ignem, et gloriam Domini super domum: et corruentes proni in terram super pavimentum stratum lapide, adoraverunt, et laudaverunt Dominum, quoniam bonus, quoniam in saeculum misericordia ejus.
@@ -149,7 +149,7 @@ V. Fundata est domus Domini supra verticem montium, et venient ad eam omnes Gent
 R. Et in ore eorum dulcis resonabat sonus.
 
 [Lectio2]
-!2 Chr 7:6-9
+!2 Paral 7:6-9
 6 Sacerdotes autem stabant in officiis suis, et Levitae in organis carminum Domini, quae fecit David rex ad laudandum Dominum: Quoniam in aeternum misericordia ejus, hymnos David canentes per manus suas: porro sacerdotes canebant tubis ante eos, cunctusque Israël stabat.
 7 Sanctificavit quoque Salomon medium atrii ante templum Domini: obtulerat enim ibi holocausta et adipes pacificorum: quia altare aeneum quod fecerat, non poterat sustinere holocausta et sacrificia et adipes.
 8 Fecit ergo Salomon solemnitatem in tempore illo septem diebus, et omnis Israël cum eo, ecclesia magna valde, ab introitu Emath usque ad torrentem Ægypti.
@@ -162,7 +162,7 @@ V. Venientes autem venient cum exsultatione, portantes manipulos suos.
 R. Et venient ad eam omnes Gentes, et dicent: Gloria tibi, Domine.
 
 [Lectio3]
-!2 Chr 7:11-16
+!2 Paral 7:11-16
 11 Complevitque Salomon domum Domini, et domum regis, et omnia quae disposuerat in corde suo ut faceret in domo Domini, et in domo sua, et prosperatus est.
 12 Apparuit autem ei Dominus nocte, et ait: Audivi orationem tuam, et elegi locum istum mihi in domum sacrificii.
 13 Si clausero caelum, et pluvia non fluxerit, et mandavero et praecepero locustae ut devoret terram, et misero pestilentiam in populum meum:
@@ -247,7 +247,7 @@ Bene fundata est * domus Domini supra firmam petram.
 Lapides pretiosi * omnes muri tui, et turres Jerusalem gemmis aedificabuntur.
 
 [Capitulum Laudes]
-!Apo 21:2
+!Apoc 21:2
 v. Vidi civitatem sanctam Jerusalem novam descendentem de caelo a Deo, paratam sicut sponsam ornatam viro suo.
 $Deo gratias
 
@@ -332,7 +332,7 @@ Amen.
 Zachaee, * festinans descende, quia hodie in domo tua oportet me manere: at ille festinans descendit, et suscepit illum gaudens in domum suam. Hodie huic domui salus a Deo facta est, alleluia.
 
 [Lectio Prima]
-!Apo 21:4-5
+!Apoc 21:4-5
 v. Et absterget Deus omnem lacrimam ab oculis eorum: et mors ultra non erit, neque luctus, neque clamor, neque dolor erit ultra, quia prima abierunt. Et dixit qui sedebat in throno: Ecce nova facio omnia.
 
 [Capitulum Tertia]
@@ -350,7 +350,7 @@ V. Locus iste sanctus est, in quo orat sacerdos.
 R. Pro delictis et peccatis populi.
 
 [Capitulum Sexta]
-!Apo 21:3
+!Apoc 21:3
 v. Et audivi vocem magnam de throno dicentem: Ecce tabernaculum Dei cum hominibus, et habitabit cum eis. Et ipsi populus ejus erunt, et ipse Deus cum eis erit eorum Deus.
 $Deo gratias
 
@@ -366,7 +366,7 @@ V. Haec est domus Domini firmiter aedificata.
 R. Bene fundata est supra firmam petram.
 
 [Capitulum Nona]
-!Apo 21:4-5
+!Apoc 21:4-5
 v. Et absterget Deus omnem lacrimam ab oculis eorum: et mors ultra non erit, neque luctus, neque clamor, neque dolor erit ultra, quia prima abierunt. Et dixit qui sedebat in throno: Ecce nova facio omnia.
 $Deo gratias
 

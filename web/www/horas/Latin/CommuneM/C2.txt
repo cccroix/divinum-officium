@@ -12,7 +12,7 @@ Qui mihi ministrat, * me sequatur: et ubi ego sum, illic sit et minister meus;;1
 Volo Pater, *ut ubi ego sum, illic sit et minister meus;;112
 
 [Capitulum Vespera]
-!Jas 1:12
+!Jacob 1:12
 v. Beatus vir, qui suffert tentationem: quoniam cum probatus fuerit, accipiet~
 coronam vitae, quam repromisit Deus diligentibus se.
 $Deo gratias
@@ -88,7 +88,7 @@ R. Gloriam et magnum decorem impones super eum.
 
 [Lectio1]
 De Actibus Apostolorum
-!Acts 20:17-24
+!Act 20:17-24
 17 A Mileto autem mittens Ephesum, vocavit majores natu ecclesiae.
 18 Qui cum venissent ad eum, et simul essent, dixit eis: Vos scitis a prima die qua ingressus sum in Asiam, qualiter vobiscum per omne tempus fuerim,
 19 serviens Domino cum omni humilitate, et lacrimis, et tentationibus, quae mihi acciderunt ex insidiis Judaeorum:
@@ -106,7 +106,7 @@ V. Iste est qui contempsit vitam mundi, et pervenit ad celestia regna.
 R. Fundatus enim erat supra firmam petram
 
 [Lectio2]
-!Acts 20:25-31
+!Act 20:25-31
 25 Et nunc ecce ego scio quia amplius non videbitis faciem meam vos omnes, per quos transivi praedicans regnum Dei.
 26 Quapropter contestor vos hodierna die, quia mundus sum a sanguine omnium.
 27 Non enim subterfugi, quominus annuntiarem omne consilium Dei vobis.
@@ -123,7 +123,7 @@ V. Plantatus in domo Domini, in atriis domus Dei nostri.
 R. Et florebit in aeternum ante Dominum.
 
 [Lectio3]
-!Acts 20:32-38
+!Act 20:32-38
 32 Et nunc commendo vos Deo, et verbo gratiae ipsius, qui potens est aedificare, et dare hereditatem in sanctificatis omnibus.
 33 Argentum, et aurum, aut vestem nullius concupivi, sicut
 34 ipsi scitis: quoniam ad ea quae mihi opus erant, et his qui mecum sunt, ministraverunt manus istae.
@@ -142,7 +142,7 @@ R. Et inventus est in numero sanctorum.
 R. Et inventus est in numero sanctorum.
 
 [MM Capitulum]
-!Eccli 15:3
+!Eccl 15:3
 Cibabit illum pane vitae et intellectus, et aqua sapientiae salutaris potabit illum Dominus Deus noster.
 $Deo gratias
 _
@@ -280,7 +280,7 @@ Si quis mihi ministraverit, * honorificabit eum Pater meus, qui est in caelis, d
 Volo Pater, *ut ubi ego sum, illic sit et minister meus
 
 [Capitulum Laudes]
-!Jas 1:12
+!Jacob 1:12
 v. Beatus vir, qui suffert tentationem: quoniam cum probatus fuerit, accipiet~
 coronam vitae, quam repromisit Deus diligentibus se.
 $Deo gratias
@@ -345,12 +345,12 @@ in mente.
 $Per Dominum
 
 [Lectio Prima]
-!Sir 39:6
+!Eccl 39:6
 v. Justus cor suum tradidit ad vigilandum diluculo ad Dominum, qui fecit illum,~
 et in conspectu Altissimi deprecabitur.
 
 [Capitulum Tertia]
-!Jas 1:12
+!Jacob 1:12
 v. Beatus vir, qui suffert tentationem: quoniam cum probatus fuerit, accipiet~
 coronam vitae, quam repromisit Deus diligentibus se.
 $Deo gratias
@@ -360,7 +360,7 @@ V. Gloria et honore coronasti eum Domine.
 R. Et constituisti eum super opera manuum tuarum
 
 [Capitulum Sexta]
-!Sir 15:3
+!Eccl 15:3
 v. Cibavit illum pane vitae et intellectus, et aqua sapientiæ salutaris potavit~
 illum Dominus Deus noster.
 $Deo gratias
@@ -370,7 +370,7 @@ V. Posuisti Domine super caput ejus.
 R. Coronam de lapide pretioso
 
 [Capitulum Nona]
-!Sir 39:6
+!Eccl 39:6
 v. Justus cor suum tradidit ad vigilandum diluculo ad Dominum, qui fecit illum,~
 et in conspectu Altissimi deprecabitur.
 $Deo gratias

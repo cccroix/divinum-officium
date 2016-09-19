@@ -1,6 +1,6 @@
 [Lectio1]
 De libro Ecclesiastici.
-!Sir 21:1-5
+!Eccl 21:1-5
 1 Fili, peccasti, non adjicias iterum: sed et de pristinis deprecare, ut tibi dimittantur.
 2 Quasi a facie colubri fuge peccata: et si accesseris ad illa, suscipient te.
 3 Dentes leonis dentes ejus, interficientes animas hominum.
@@ -12,7 +12,7 @@ De libro Ecclesiastici.
 @TemporaM/081-0:Responsory4
 
 [Lectio2]
-!Sir 21:6-10
+!Eccl 21:6-10
 6 Deprecatio pauperis ex ore usque ad aures ejus perveniet, et judicium festinato adveniet illi.
 7 Qui odit correptionem vestigium est peccatoris, et qui timet Deum convertetur ad cor suum.
 8 Notus a longe potens lingua audaci, et sensatus scit labi se ab ipso.
@@ -24,7 +24,7 @@ De libro Ecclesiastici.
 @TemporaM/081-0:Responsory5
 
 [Lectio3]
-!Sir 21:11-16
+!Eccl 21:11-16
 11 Via peccatorum complanata lapidibus: et in fine illorum inferi, et tenebrae, et pœnae.
 12 Qui custodit justitiam, continebit sensum ejus.
 13 Consummatio timoris Dei, sapientia et sensus.

@@ -14,7 +14,7 @@ $Per Dominum
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matt 24:15-35
+!Matth 24:15-35
 In illo tempore: Dixit Jesus discipulis suis: Cum videritis abominationem~
 desolationis, quae dicta est a Daniele propheta, stantem in loco sancto: qui~
 legit, intelligat. Et reliqua.
@@ -66,7 +66,7 @@ R. Sicut incensum in conspectu tuo.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matt 24:15-35
+!Matth 24:15-35
 24:15 Cum ergo videritis abominationem desolationis, quae dicta est a Daniele propheta, stantem in loco sancto, qui legit, intelligat:
 24:16 tunc qui in Judaea sunt, fugiant ad montes:
 24:17 et qui in tecto, non descendat tollere aliquid de domo sua:

@@ -8,7 +8,7 @@ R. Et descendat super nos misericordia tua.
 
 [Lectio1]
 De libro primo Machabaeorum
-!1 Mac 9:1-6
+!1 Mach 9:1-6
 1 Interea, ut audivit Demetrius quia cecidit Nicanor et exercitus ejus in praelio, apposuit Bacchidem et Alcimum rursum mittere in Judaeam, et dextrum cornu cum illis.
 2 Et abierunt viam quae ducit in Galgala, et castra posuerunt in Masaloth, quae est in Arbellis: et occupaverunt eam, et peremerunt animas hominum multas.
 3 In mense primo anni centesimi et quinquagesimi secundi, applicuerunt exercitum ad Jerusalem:
@@ -21,7 +21,7 @@ De libro primo Machabaeorum
 @TemporaM/101-0:Responsory1
 
 [Lectio2]
-!1 Mac 9:7-11
+!1 Mach 9:7-11
 7 Et vidit Judas quod defluxit exercitus suus, et bellum perurgebat eum, et confractus est corde, quia non habebat tempus congregandi eos, et dissolutus est.
 8 Et dixit his qui residui erant: Surgamus, et eamus ad adversarios nostros, si poterimus pugnare adversus eos.
 9 Et avertebant eum, dicentes: Non poterimus, sed liberemus animas nostras modo, et revertamur ad fratres nostros, et tunc pugnabimus adversus eos: nos autem pauci sumus.
@@ -33,7 +33,7 @@ De libro primo Machabaeorum
 @TemporaM/101-0:Responsory2
 
 [Lectio3]
-!1 Mac 9:12-20
+!1 Mach 9:12-20
 12 Bacchides autem erat in dextro cornu, et proximavit legio ex duabus partibus, et clamabant tubis:
 13 exclamaverunt autem et hi qui erant ex parte Judae etiam ipsi, et commota est terra a voce exercituum: et commissum est praelium a mane usque ad vesperam.
 14 Et vidit Judas quod firmior est pars exercitus Bacchidis in dextris, et convenerunt cum ipso omnes constantes corde:

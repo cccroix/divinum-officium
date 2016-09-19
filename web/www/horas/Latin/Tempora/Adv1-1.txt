@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 De Isaia Propheta
-!Isa 1:16-18
+!Isai 1:16-18
 16 Lavamini, mundi estote; auferte malum cogitationum vestrarum ab oculis meis: quiescite agere perverse,
 17 discite benefacere; quaerite judicium, subvenite oppresso, judicate pupillo, defendite viduam.
 18 Et venite, et arguite me, dicit Dominus: si fuerint peccata vestra ut coccinum, quasi nix dealbabuntur; et si fuerint rubra quasi vermiculus, velut lana alba erunt.
@@ -18,7 +18,7 @@ V. Paries quidem filium, et virginitatis non patieris detrimentum: efficieris gr
 R. Ut benedicta dicaris inter omnes mulieres.
 
 [Lectio2]
-!Isa 1:19-23
+!Isai 1:19-23
 19 Si volueritis, et audieritis me, bona terrae comedetis.
 20 Quod si nolueritis, et me ad iracundiam provocaveritis, gladius devorabit vos, quia os Domini locutum est.
 21 Quomodo facta est meretrix civitas fidelis, plena judicii? Justitia habitavit in ea, nunc autem homicidae.
@@ -32,7 +32,7 @@ V. Orietur in diebus ejus justitia, et abundantia pacis.
 R. Et pauperum suorum miserebitur.
 
 [Lectio3]
-!Isa 1:24-28
+!Isai 1:24-28
 24 Propter hoc ait Dominus, Deus exercituum, fortis Israël: Heu! consolabor super hostibus meis, et vindicabor de inimicis meis.
 25 Et convertam manum meam ad te, et excoquam ad purum scoriam tuam, et auferam omne stannum tuum.
 26 Et restituam judices tuos ut fuerunt prius, et consiliarios tuos sicut antiquitus; post haec vocaberis civitas justi, urbs fidelis.

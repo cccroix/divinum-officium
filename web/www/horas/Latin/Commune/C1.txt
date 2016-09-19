@@ -13,7 +13,7 @@ Beáti pacífici, * beáti mundo corde: quóniam ipsi Deum vidébunt.;;112
 In patiéntia vestra * possidébitis ánimas vestras.;;116
 
 [Capitulum Vespera]
-!Eph 2:19
+!Ephes 2:19
 v. Fratres: Jam non estis hóspites et ádvenæ: sed estis cives Sanctórum et doméstici Dei: superædificáti super fundaméntum Apostolórum, et Prophetárum, ipso summo angulári lápide Christo Jesu.
 $Deo gratias.
 
@@ -213,7 +213,7 @@ R. Modo coronántur, et accípiunt palmam.
 
 [Lectio7]
 Léctio sancti Evangélii secúndum Matthǽum.
-!Matt 19:27-29
+!Matth 19:27-29
 In illo témpore: Dixit Petrus ad Jesum: Ecce nos relíquimus ómnia, et secúti sumus te: quid ergo erit nobis? Et réliqua.
 _
 Homilía sancti Hierónymi Presbýteri.
@@ -249,7 +249,7 @@ Beáti pacífici, * beáti mundo corde: quóniam ipsi Deum vidébunt.
 In patiéntia vestra * possidébitis ánimas vestras.
 
 [Capitulum Laudes]
-!Eph. 2:19-20
+!Ephes 2:19-20
 v. Fratres: Jam non estis hóspites, et ádvenæ: sed estis cives Sanctórum, et doméstici Dei: superædificáti super fundaméntum Apostolórum et Prophetárum, ipso summo angulári lápide Christo Jesu.
 $Deo gratias.
 

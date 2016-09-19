@@ -5,7 +5,7 @@ Feria Tertia infra Hebdomadam III in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Lectio sancti Evangelii secundum Matthaeum
-!Matt 18:15-22
+!Matth 18:15-22
 In illo tempore: Dixit Jesus discipulis suis: Si peccaverit in te frater tuus,~
 vade, et corripe eum inter te et ipsum solum. Et reliqua.
 _
@@ -73,7 +73,7 @@ $Per Dominum
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matt 18:15-22
+!Matth 18:15-22
 18:15 Si autem peccaverit in te frater tuus, vade, et corripe eum inter te, et ipsum solum: si te audierit, lucratus eris fratrem tuum.
 18:16 Si autem te non audierit, adhibe tecum adhuc unum, vel duos, ut in ore duorum, vel trium testium stet omne verbum.
 18:17 Quod si non audierit eos: dic ecclesiae. Si autem ecclesiam non audierit, sit tibi sicut ethnicus et publicanus.

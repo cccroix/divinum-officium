@@ -304,7 +304,7 @@ V. Magna est gloria ejus in salutari tuo.
 R. Gloriam et magnum decorem impones super eum.
 
 [Capitulum Sexta]
-!Sir 45:1; 45:4
+!Eccl 45:1; 45:4
 v. Dilectus Deo et hominibus, cujus memoria in benedictione est. In fide et lenitate ipsius sanctum fecit illum, et elegit eum ex omni carne.
 $Deo gratias 
 

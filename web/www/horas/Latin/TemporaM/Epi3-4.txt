@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 De epistola ad Ephesios
-!Eph 4:1-6
+!Ephes 4:1-6
 1 Obsecro itaque vos ego vinctus in Domino, ut digne ambuletis vocatione, qua~
 vocati estis,
 2 cum omni humilitate, et mansuetudine, cum patientia, supportantes invicem in~
@@ -22,7 +22,7 @@ nobis.
 @TemporaM/Epi2-4:Responsory1
 
 [Lectio2]
-!Eph 4:7-10
+!Ephes 4:7-10
 7 Unicuique autem nostrum data est gratia secundum mensuram donationis Christi.
 8 Propter quod dicit: Ascendens in altum, captivam duxit captivitatem: dedit~
 dona hominibus.
@@ -35,7 +35,7 @@ omnia.
 @TemporaM/Epi2-4:Responsory2
 
 [Lectio3]
-!Eph 4:11-15
+!Ephes 4:11-15
 11 Et ipse dedit quosdam quidem apostolos, quosdam autem prophetas, alios vero~
 evangelistas, alios autem pastores et doctores,
 12 ad consummationem sanctorum in opus ministerii, in aedificationem corporis~

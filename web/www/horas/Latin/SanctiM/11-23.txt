@@ -102,7 +102,7 @@ salva illum: et Clemens cum lacrimis dicebat: Suscipe Pater spiritum meum.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matt 24:42-45
+!Matth 24:42-45
 24:42 Vigilate ergo, quia nescitis qua hora Dominus vester venturus sit.
 24:43 Illud autem scitote, quoniam si sciret paterfamilias qua hora fur venturus~
 esset, vigilaret utique, et non sineret perfodi domum suam.

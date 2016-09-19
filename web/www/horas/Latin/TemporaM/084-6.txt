@@ -1,6 +1,6 @@
 [Lectio1]
 De libro Ecclesiastici.
-!Sir 4:23-28
+!Eccl 4:23-28
 23 Fili, conserva tempus, et devita a malo.
 24 Pro anima tua ne confundaris dicere verum:
 25 est enim confusio adducens peccatum, et est confusio adducens gloriam et gratiam.
@@ -13,7 +13,7 @@ De libro Ecclesiastici.
 @TemporaM/081-0:Responsory7
 
 [Lectio2]
-!Sir 4:29-32
+!Eccl 4:29-32
 29 in lingua enim sapientia dignoscitur: et sensus, et scientia, et doctrina in verbo sensati, et firmamentum in operibus justitiae.
 30 Non contradicas verbo veritatis ullo modo, et de mendacio ineruditionis tuae confundere.
 31 Non confundaris confiteri peccata tua, et ne subjicias te omni homini pro peccato.
@@ -24,7 +24,7 @@ De libro Ecclesiastici.
 @TemporaM/081-1:Responsory2
 
 [Lectio3]
-!Sir 4:33-36
+!Eccl 4:33-36
 33 Pro justitia agonizare pro anima tua, et usque ad mortem certa pro justitia: et Deus expugnabit pro te inimicos tuos.
 34 Noli citatus esse in lingua tua, et inutilis, et remissus in operibus tuis.
 35 Noli esse sicut leo in domo tua, evertens domesticos tuos, et opprimens subjectos tibi.

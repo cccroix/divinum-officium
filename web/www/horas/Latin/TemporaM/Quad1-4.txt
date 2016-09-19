@@ -5,7 +5,7 @@ Feria Quinta infra Hebdomadam I in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Lectio sancti Evangelii secundum Matthaeum
-!Matt 15:21-28
+!Matth 15:21-28
 In illo tempore: Egressus Jesus, secessit in partes Tyri et Sidonis. Et reliqua.
 _
 Homilia sancti Hieronymi presbyteri
@@ -68,7 +68,7 @@ $Per Dominum
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matt 15:21-28
+!Matth 15:21-28
 15:21 Et egressus inde Jesus secessit in partes Tyri et Sidonis.
 15:22 Et ecce mulier chananaea a finibus illis egressa clamavit, dicens ei: Miserere mei, Domine fili David: filia mea male a daemonio vexatur.
 15:23 Qui non respondit ei verbum. Et accedentes discipuli ejus rogabant eum dicentes: Dimitte eam: quia clamat post nos.

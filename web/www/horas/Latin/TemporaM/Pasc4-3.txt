@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 De Epistola beati Jacobi Apostoli.
-!Jas 2:14-17
+!Jacob 2:14-17
 14 Quid proderit, fratres mei, si fidem quis dicat se habere, opera autem non habeat? numquid poterit fides salvare eum?
 15 Si autem frater et soror nudi sint, et indigeant victu quotidiano,
 16 dicat autem aliquis ex vobis illis: Ite in pace, calefacimini et saturamini: non dederitis autem eis quae necessaria sunt corpori, quid proderit?
@@ -22,7 +22,7 @@ V. Deus meus es tu, et confitebor tibi: Deus meus es tu, et exaltabo te.
 R. In psalterio decem chordarum psallam tibi, alleluia, alleluia.
 
 [Lectio2]
-!Jas 2:18-22
+!Jacob 2:18-22
 18 Sed dicet quis: Tu fidem habes, et ego opera habeo: ostende mihi fidem tuam sine operibus: et ego ostendam tibi ex operibus fidem meam.
 19 Tu credis quoniam unus est Deus: bene facis: et daemones credunt, et contremiscunt.
 20 Vis autem scire, o homo inanis, quoniam fides sine operibus mortua est?
@@ -39,7 +39,7 @@ R. Et psallere, alleluia.
 R. Et psallere, alleluia.
 
 [Lectio3]
-!Jas 2:23-26
+!Jacob 2:23-26
 23 Et suppleta est Scriptura, dicens: Credidit Abraham Deo, et reputatum est illi ad justitiam, et amicus Dei appellatus est.
 24 Videtis quoniam ex operibus justificatur homo, et non ex fide tantum?
 25 Similiter et Rahab meretrix, nonne ex operibus justificata est, suscipiens nuntios, et alia via ejiciens?

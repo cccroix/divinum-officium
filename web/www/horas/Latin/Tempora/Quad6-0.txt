@@ -13,7 +13,7 @@ $Per eumdem
 
 [Lectio1]
 De Jeremia Propheta.
-!Jer 2:12-17
+!Jerem 2:12-17
 12 Obstupescite, caeli, super hoc, et, portae ejus, desolamini vehementer, dicit Dominus.
 13 Duo enim mala fecit populus meus: Me dereliquerunt fontem aquae vivae, et foderunt sibi cisternas, cisternas dissipatas, quae continere non valent aquas.
 14 Numquid servus est Israël, aut vernaculus? Quare ergo factus est in praedam?
@@ -28,7 +28,7 @@ V. In die tribulationis meae clamavi ad te, quia exaudisti me.
 R. Judicasti causam meam, et liberasti me, Domine, Deus meus.
 
 [Lectio2]
-!Jer 2:18-22
+!Jerem 2:18-22
 18 Et nunc quid tibi vis in via Ægypti, ut bibas aquam turbidam? et quid tibi cum via Assyriorum, ut bibas aquam fluminis?
 19 Arguet te malitia tua, et aversio tua increpabit te. Scito et vide quia malum et amarum est reliquisse te Dominum Deum tuum, et non esse timorem mei apud te, dicit Dominus Deus exercituum.
 20 A saeculo confregisti jugum meum: rupisti vincula mea, et dixisti: Non serviam. In omni enim colle sublimi, et sub omni ligno frondoso, tu prosternebaris meretrix.
@@ -42,7 +42,7 @@ V. Dereliquerunt me proximi mei, et qui me noverunt.
 R. Quasi alieni recesserunt a me.
 
 [Lectio3]
-!Jer 2:29-32
+!Jerem 2:29-32
 29 Quid vultis mecum judicio contendere? Omnes dereliquistis me, dicit Dominus.
 30 Frustra percussi filios vestros: disciplinam non receperunt: devoravit gladius vester prophetas vestros: quasi leo vastator
 31 generatio vestra. Videte verbum Domini: Numquid solitudo factus sum Israéli, aut terra serotina? Quare ergo dixit populus meus: Recessimus; non veniemus ultra ad te?
@@ -89,7 +89,7 @@ R. Noli esse mihi, Domine, alienus: parce mihi in die mala: confundantur omnes q
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matt 21:1-9
+!Matth 21:1-9
 In illo tempore: Cum appropinquasset Jesus Jerosolymis, et venisset Bethphage ad montem Oliveti: tunc misit duos discipulos, dicens eis. Et reliqua.
 _
 Homilia sancti Ambrosii Episcopi.

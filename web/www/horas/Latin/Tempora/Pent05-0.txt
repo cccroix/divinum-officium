@@ -16,7 +16,7 @@ $Per Dominum
 
 [Lectio1]
 Incipit liber secundus Regum.
-!2 Sam 1:1-4
+!2 Reg 1:1-4
 1 Factum est autem, postquam mortuus est Saul, ut David reverteretur a caede Amalec, et maneret in Siceleg duos dies.
 2 In die autem tertia apparuit homo veniens de castris Saul veste conscissa, et pulvere conspersus caput: et ut venit ad David, cecidit super faciem suam, et adoravit.
 3 Dixitque ad eum David: Unde venis? Qui ait ad eum: De castris Israël fugi.
@@ -26,7 +26,7 @@ Incipit liber secundus Regum.
 @Tempora/Pent01-1
 
 [Lectio2]
-!2 Sam 1:5-10
+!2 Reg 1:5-10
 5 Dixitque David ad adolescentem qui nuntiabat ei: Unde scis quia mortuus est Saul, et Jonathas filius ejus?
 6 Et ait adolescens qui nuntiabat ei: Casu veni in montem Gelboë, et Saul incumbebat super hastam suam: Porro currus et equites appropinquabant ei,
 7 et conversus post tergum suum, vidensque me, vocavit, cui cum respondissem: Adsum:
@@ -38,7 +38,7 @@ Incipit liber secundus Regum.
 @Tempora/Pent01-1
 
 [Lectio3]
-!2 Sam 1:11-15
+!2 Reg 1:11-15
 11 Apprehendens autem David, vestimenta sua scidit, omnesque viri qui erant cum eo,
 12 et planxerunt, et fleverunt, et jejunaverunt usque ad vesperam super Saul, et super Jonathan filium ejus, et super populum Domini, et super domum Israël, eo quod corruissent gladio.
 13 Dixitque David ad juvenem qui nuntiaverat ei: Unde es tu? Qui respondit: Filius hominis advenae Amalecitae ego sum.
@@ -70,7 +70,7 @@ De quibus et bene dicitur, ut agri primitiarum esse non possint. Superbae quippe
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matt 5:20-24
+!Matth 5:20-24
 In illo tempore: Dixit Jesus discipulis suis: Nisi abundaverit justitia vestra plus quam scribarum et pharisaeorum, non intrabitis in regnum caelorum. Et reliqua.
 _
 Homilia sancti Augustini Episcopi.

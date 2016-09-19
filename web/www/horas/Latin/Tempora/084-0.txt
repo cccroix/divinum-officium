@@ -3,7 +3,7 @@ Sapientia * clamitat in plateis: Si quis diligit sapientiam, ad me declinet, et 
 
 [Lectio1]
 Incipit liber Ecclesiastici.
-!Sir 1:1-5
+!Eccl 1:1-5
 1 Omnis sapientia a Domino Deo est: et cum illo fuit semper, et est ante aevum.
 2 Arenam maris, et pluviae guttas, et dies saeculi, quis dinumeravit? Altitudinem caeli, et latitudinem terrae, et profundum abyssi, quis dimensus est?
 3 Sapientiam Dei praecedentem omnia, quis investigavit?
@@ -14,7 +14,7 @@ Incipit liber Ecclesiastici.
 @Tempora/081-0:Responsory1
 
 [Lectio2]
-!Sir 1:6-10
+!Eccl 1:6-10
 6 Radix sapientiae cui revelata est? et astutias illius quis agnovit?
 7 Disciplina sapientiae cui revelata est et manifestata? et multiplicationem ingressus illius quis intellexit?
 8 Unus est altissimus, Creator omnipotens, et Rex potens et metuendus nimis, sedens super thronum illius, et dominans Deus.
@@ -25,7 +25,7 @@ Incipit liber Ecclesiastici.
 @Tempora/081-0:Responsory2
 
 [Lectio3]
-!Sir 1:11-16
+!Eccl 1:11-16
 11 Timor Domini gloria, et gloriatio, et laetitia, et corona exsultationis.
 12 Timor Domini delectabit cor, et dabit laetitiam, et gaudium, et longitudinem dierum.
 13 Timenti Dominum bene erit in extremis, et in die defunctionis suae benedicetur.

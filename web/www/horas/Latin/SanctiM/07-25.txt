@@ -44,7 +44,7 @@ dederit.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matt 20:20-23
+!Matth 20:20-23
 In illo tempore: Accessit ad Jesum mater filiorum Zebedaei cum filiis suis,~
 adorans et petens aliquid ab eo. Et reliqua.
 _
@@ -98,7 +98,7 @@ $Per Dominum
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matt 20:20-23
+!Matth 20:20-23
 20:20 Tunc accessit ad eum mater filiorum Zebedaei cum filiis suis, adorans et~
 petens aliquid ab eo.
 20:21 Qui dixit ei: Quid vis? Ait illi: Dic ut sedeant hi duo filii mei, unus ad~

@@ -22,7 +22,7 @@ Damasci praepositus * gentis Aretae regis voluit me comprehendere: a fratribus p
 Ter virgis caesus sum: * semel lapidatus sum: ter naufragium pertuli pro Christi nomine.
 
 [Capitulum Vespera]
-!2. Tim 4:7-8
+!2 Tim 4:7-8
 v. Bonum certamen certavi, cursum consummavi, fidem servavi. In reliquo reposita est mihi corona justitiae, quam reddet mihi Dominus in illa die justus judex.
 $Deo gratias
 
@@ -144,7 +144,7 @@ Apostolus Paulus, quem certe invenimus sine ullis meritis bonis, immo cum multis
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matt 10:16-22
+!Matth 10:16-22
 In illo tempore: Dixit Jesus discipulis suis: Ecce ego mitto vos sicut oves in medio luporum. Et reliqua.
 _
 Homilia sancti Joannis Chrysostomi.
@@ -210,7 +210,7 @@ v. Ego enim sum minimus Apostolorum, qui non sum dignus vocari Apostolus, quonia
 @Sancti/06-29
 
 [Capitulum Sexta]
-!2. Cor. 12:7-9
+!2 Cor 12:7-9
 v. Ne magnitudo revelationum extollat me, datus est mihi stimulus carnis meae, angelus satanae, qui me colaphizet: propter quod ter Dominum rogavi, ut discederet a me: et dixit mihi: Sufficit tibi gratia mea.
 $Deo gratias
 

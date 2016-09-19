@@ -14,20 +14,20 @@ Hymnus Tertia
 
 [Lectio1]
 De Joele Propheta
-!Joel 2:23-26
+!Joël 2:23-26
 23 et filii Sion exultate et laetamini in Domino Deo vestro quia dedit vobis doctorem iustitiae et descendere faciet ad vos imbrem matutinum et serotinum in principio 
 24 et implebuntur areae frumento et redundabunt torcularia vino et oleo 
 25 et reddam vobis annos quos comedit lucusta bruchus et rubigo et eruca fortitudo mea magna quam misi in vos
 26 et comedetis vescentes et saturabimini et laudabitis nomen Domini Dei vestri qui fecit vobiscum mirabilia et non confundetur populus meus in sempiternum 
 
 [Lectio2]
-!Joel 2:27-29
+!Joël 2:27-29
 27 et scietis quia in medio Israhel ego sum et ego Dominus Deus vester et non est amplius et non confundetur populus meus in aeternum 
 28 et erit post haec effundam spiritum meum super omnem carnem et prophetabunt filii vestri et filiae vestrae senes vestri somnia somniabunt et iuvenes vestri visiones videbunt 
 29 sed et super servos et ancillas in diebus illis effundam spiritum meum 
 
 [Lectio3]
-!Joel 2:30-32
+!Joël 2:30-32
 30 et dabo prodigia in caelo et in terra sanguinem et ignem et vaporem fumi
 31 sol vertetur in tenebras et luna in sanguinem antequam veniat dies Domini magnus et horribilis 
 32 et erit omnis qui invocaverit nomen Domini salvus erit quia in monte Sion et in Hierusalem erit salvatio sicut dixit Dominus et in residuis quos Dominus vocaverit 
@@ -46,7 +46,7 @@ Et quomodo corpora trium puerorum ignis non exsussit, sed caminus in rorem versu
 
 [Lectio7]
 Lectio sancti Evangelii secundum Joannem.
-!Joannes 10:1-10
+!Joann 10:1-10
 In illo tempore: Dixit Jesus pharisaeis: Amen, amen dico vobis: qui non intrat~
 per ostium in ovile ovium, sed ascendit aliunde, ille fur est, et latro. Qui~
 autem intrat per ostium, pastor est ovium. Et reliqua.
@@ -97,7 +97,7 @@ alleluia.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Joannem
-!Joannes 10:1-10
+!Joann 10:1-10
 10:1 Amen, amen dico vobis: qui non intrat per ostium in ovile ovium, sed ascendit aliunde, ille fur est et latro.
 10:2 Qui autem intrat per ostium, pastor est ovium.
 10:3 Huic ostiarius aperit, et oves vocem ejus audiunt, et proprias ovas vocat nominatim, et educit eas.

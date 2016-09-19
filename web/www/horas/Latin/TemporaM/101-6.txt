@@ -1,6 +1,6 @@
 [Lectio1]
 De libro primo Machabaeorum
-!1 Mac 3:42-45
+!1 Mach 3:42-45
 42 Et vidit Judas et fratres ejus, quia multiplicata sunt mala, et exercitus applicabant ad fines eorum: et cognoverunt verba regis, quae mandavit populo facere in interitum et consummationem:
 43 et dixerunt unusquisque ad proximum suum: Erigamus dejectionem populi nostri, et pugnemus pro populo nostro, et sanctis nostris.
 44 Et congregatus est conventus ut essent parati in praelium, et ut orarent et peterent misericordiam et miserationes.
@@ -11,7 +11,7 @@ De libro primo Machabaeorum
 @TemporaM/101-0:Responsory7
 
 [Lectio2]
-!1 Mac 3:46-53
+!1 Mach 3:46-53
 46 Et congregati sunt, et venerunt in Maspha contra Jerusalem, quia locus orationis erat in Maspha ante in Israël.
 47 Et jejunaverunt illa die, et induerunt se ciliciis, et cinerem imposuerunt capiti suo, et disciderunt vestimenta sua:
 48 et expanderunt libros legis, de quibus scrutabantur gentes similitudinem simulacrorum suorum:
@@ -26,7 +26,7 @@ De libro primo Machabaeorum
 @TemporaM/101-1:Responsory2
 
 [Lectio3]
-!1 Mac 3:54-60
+!1 Mach 3:54-60
 54 Et tubis exclamaverunt voce magna.
 55 Et post haec constituit Judas duces populi, tribunos, et centuriones, et pentacontarchos, et decuriones.
 56 Et dixit his, qui aedificabant domos, et sponsabant uxores, et plantabant vineas, et formidolosis, ut redirent unusquisque in domum suam secundum legem.

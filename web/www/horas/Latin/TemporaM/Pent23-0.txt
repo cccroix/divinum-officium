@@ -14,7 +14,7 @@ $Per Dominum
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matt 9:18-26
+!Matth 9:18-26
 In illo tempore: Loquente Jesu ad turbas, ecce princeps unus accessit, et~
 adorabat eum, dicens: Domine, filia mea modo defuncta est. Et reliqua.
 _
@@ -57,7 +57,7 @@ R. Sicut incensum in conspectu tuo.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matt 9:18-26
+!Matth 9:18-26
 9:18 Haec illo loquente ad eos, ecce princeps unus accessit, et adorabat eum, dicens: Domine, filia mea modo defuncta est: sed veni, impone manum tuam super eam, et vivet.
 9:19 Et surgens Jesus, sequebatur eum, et discipuli ejus.
 9:20 Et ecce mulier, quae sanguinis fluxum patiebatur duodecim annis, accessit retro, et tetigit fimbriam vestimenti ejus.

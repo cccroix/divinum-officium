@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 De Isaia Propheta
-!Isa 30:18-20
+!Isai 30:18-20
 18 Exspectat Dominus ut misereatur vestri; et ideo exaltabitur parcens vobis, quia Deus judicii Dominus: beati omnes qui exspectant eum.
 19 Populus enim Sion habitabit in Jerusalem: plorans nequaquam plorabis: miserans miserebitur tui, ad vocem clamoris tui: statim ut audierit, respondebit tibi.
 20 Et dabit vobis Dominus panem arctum, et aquam brevem; et non faciet avolare a te ultra doctorem tuum; et erunt oculi tui videntes praeceptorem tuum.
@@ -15,7 +15,7 @@ De Isaia Propheta
 @Tempora/Adv3-0:Responsory4
 
 [Lectio2]
-!Isa 30:22-25
+!Isai 30:22-25
 22 Egredere, dices ei.
 23 Et dabitur pluvia semini tuo, ubicumque seminaveris in terra, et panis frugum terrae erit uberrimus et pinguis; pascetur in possessione tua in die illo agnus spatiose,
 24 et tauri tui, et pulli asinorum, qui operantur terram, commistum migma comedent sicut in area ventilatum est.
@@ -25,7 +25,7 @@ De Isaia Propheta
 @Tempora/Adv3-0:Responsory5
 
 [Lectio3]
-!Isa 30:26-28
+!Isai 30:26-28
 26 Et erit lux lunae sicut lux solis, et lux solis erit septempliciter sicut lux septem dierum, in die qua alligaverit Dominus vulnus populi sui, et percussuram plagae ejus sanaverit.
 27 Ecce nomen Domini venit de longinquo, ardens furor ejus, et gravis ad portandum; labia ejus repleta sunt indignatione, et lingua ejus quasi ignis devorans.
 28 Spiritus ejus velut torrens inundans usque ad medium colli, ad perdendas gentes in nihilum, et frenum erroris quod erat in maxillis populorum.

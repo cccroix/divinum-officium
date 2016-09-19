@@ -15,7 +15,7 @@ In odorem * unguentorum tuorum currimus: adolescentulae dilexerunt te nimis;;121
 Pulchra es * et decora, filia Jerusalem, terribilis ut castrorum acies ordinata;;126
 
 [Capitulum Vespera]
-!Sir 24:11-12
+!Eccl 24:11-12
 v. In omnibus requiem quaesivi, et in hereditate Domini morabor. Tunc praecepit,~
 et dixit mihi Creator omnium: et qui creavit me, requievit in tabernaculo meo.
 $Deo gratias
@@ -245,7 +245,7 @@ Benedicta filia * tu a Domino: quia per te fructum vitae communicavimus.
 Pulchra es * et decora, filia Jerusalem, terribilis ut castrorum acies ordinata.
 
 [Capitulum Laudes]
-!Sir 24:11-12
+!Eccl 24:11-12
 v. In omnibus requiem quaesivi, et in hereditate Domini morabor. Tunc praecepit,~
 et dixit mihi Creator omnium: et qui creavit me, requievit in tabernaculo meo.
 $Deo gratias
@@ -266,7 +266,7 @@ Quae est ista, * quae ascendit sicut aurora consurgens, pulchra ut luna, electa~
 ut sol, terribilis ut castrorum acies ordinata?
 
 [Capitulum Tertia]
-!Sir 24:11-12
+!Eccl 24:11-12
 v. In omnibus requiem quaesivi, et in hereditate Domini morabor. Tunc praecepit,~
 et dixit mihi Creator omnium: et qui creavit me, requievit in tabernaculo meo.
 $Deo gratias
@@ -276,7 +276,7 @@ V. Exaltata est * Sancta Dei Genitrix.
 R. Super choros Angelorum ad caelestia regna.
 
 [Capitulum Sexta]
-!Sir 24:15-16
+!Eccl 24:15-16
 v. Et sic in Sion firmata sum, et in civitate sanctificata similiter requievi,~
 et in Jerusalem potestas mea. Et radicavi in populo honorificato, et in parte~
 Dei mei hereditas illius, et in plenitudine sanctorum detentio mea.
@@ -287,7 +287,7 @@ V. Assumpta est Maria in caelum, gaudent Angeli.
 R. Laudantes benedicunt Dominum.
 
 [Capitulum Nona]
-!Sir 24:19-20
+!Eccl 24:19-20
 v. In plateis sicut cinnamomum et balsamum aromatizans odorem dedi: quasi myrrha~
 electa, dedi suavitatem odoris.
 $Deo gratias

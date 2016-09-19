@@ -11,7 +11,7 @@ Antiphonas horas
 Doxology=Corp
 
 [Capitulum Vespera]
-!1 Joann. 3:13-14
+!1 Joann 3:13-14
 v. Carissimi: Nolite mirari, si odit vos mundus. Nos scimus quoniam translati sumus de morte ad vitam, quoniam diligimus fratres.
 $Deo gratias
 
@@ -42,19 +42,19 @@ $Qui vivis
 
 [Lectio1]
 De libro primo Regum.
-!1 Sam 4:1-3
+!1 Reg 4:1-3
 1 Et factum est in diebus illis, convenerunt Philisthiim in pugnam: et egressus est Israël obviam Philisthiim in praelium, et castrametatus est juxta Lapidem adjutorii. Porro Philisthiim venerunt in Aphec,
 2 et instruxerunt aciem contra Israël. Inito autem certamine, terga vertit Israël Philisthaeis: et caesa sunt in illo certamine passim per agros, quasi quatuor millia virorum.
 3 Et reversus est populus ad castra: dixeruntque majores natu de Israël: Quare percussit nos Dominus hodie coram Philisthiim? Afferamus ad nos de Silo arcam fœderis Domini, et veniat in medium nostri, ut salvet nos de manu inimicorum nostrorum.
 
 [Lectio2]
-!1 Sam 4:4-6
+!1 Reg 4:4-6
 4 Misit ergo populus in Silo, et tulerunt inde arcam fœderis Domini exercituum sedentis super Cherubim: erantque duo filii Heli cum arca fœderis Dei, Ophni et Phinees.
 5 Cumque venisset arca fœderis Domini in castra, vociferatus est omnis Israël clamore grandi, et personuit terra.
 6 Et audierunt Philisthiim vocem clamoris, dixeruntque: Quaenam est haec vox clamoris magni in castris Hebraeorum? Et cognoverunt quod arca Domini venisset in castra.
 
 [Lectio3]
-!1 Sam 4:7-11
+!1 Reg 4:7-11
 7 Timueruntque Philisthiim, dicentes: Venit Deus in castra, et ingemuerunt, dicentes:
 8 Vae nobis: non enim fuit tanta exsultatio heri et nudiustertius: vae nobis. Quis nos salvabit de manu deorum sublimium istorum? Hi sunt dii, qui percusserunt Ægyptum omni plaga in deserto.
 9 Confortamini, et estote viri, Philisthiim, ne serviatis Hebraeis, sicut et illi servierunt vobis: confortamini, et bellate.
@@ -121,7 +121,7 @@ Deus, qui nobis sub Sacramento mirabili passionis tuae memoriam reliquisti: trib
 $Qui vivis
 
 [Lectio Prima]
-!1 Joann. 3:18
+!1 Joann 3:18
 v. Filioli mei, non diligamus verbo, neque lingua, sed opere et veritate.
 
 [Capitulum Tertia]
@@ -139,7 +139,7 @@ V. Cibavit illos ex adipe frumenti, alleluia.
 R. Et de petra, melle saturavit eos, alleluia.
 
 [Capitulum Sexta]
-!1 Joann. 3:16
+!1 Joann 3:16
 v. In hoc cognovimus caritatem Dei, quoniam ille animam suam pro nobis posuit: et nos debemus pro fratribus animas ponere.
 $Deo gratias
 
@@ -155,7 +155,7 @@ V. Educas panem de terra, alleluia.
 R. Et vinum laetificet cor hominis, alleluia.
 
 [Capitulum Nona]
-!1 Joann. 3:18
+!1 Joann 3:18
 v. Filioli mei, non diligamus verbo, neque lingua, sed opere et veritate.
 $Deo gratias
 

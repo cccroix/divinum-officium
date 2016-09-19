@@ -5,7 +5,7 @@ Sabbato Quattuor Temporum;;Feria major;;2
 
 [Lectio1]
 Lectio sancti Evangelii secundum Matthaeum
-!Matt 17:1-9
+!Matth 17:1-9
 In illo tempore: Assumpsit Jesus Petrum, et Jacobum, et~
 Joannem fratrem ejus, et duxit illos in montem excelsum seorsum: et~
 transfiguratus est ante eos. Et reliqua.
@@ -70,7 +70,7 @@ $Per Dominum
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matt 17:1-9
+!Matth 17:1-9
 17:1 Et post dies sex assumit Jesus Petrum, et Jacobum, et Joannem fratrem ejus,~
 et ducit illos in montem excelsum seorsum:
 17:2 et transfiguratus est ante eos. Et resplenduit facies ejus sicut sol:~

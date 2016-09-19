@@ -7,7 +7,7 @@ Feria Te Deum
 
 [Lectio1]
 De Epistola secunda beati Petri Apostoli.
-!2 Pet 3:1-7
+!2 Petri 3:1-7
 1 Hanc ecce vobis, carissimi, secundam scribo epistolam, in quibus vestram excito in commonitione sinceram mentem:
 2 ut memores sitis eorum, quae praedixi, verborum, a sanctis prophetis et apostolorum vestrorum, praeceptorum Domini et Salvatoris.
 3 Hoc primum scientes, quod venient in novissimis diebus in deceptione illusores, juxta proprias concupiscentias ambulantes,
@@ -21,7 +21,7 @@ De Epistola secunda beati Petri Apostoli.
 @TemporaM/Pasc5-4:Responsory1
 
 [Lectio2]
-!2 Pet 3:8-13
+!2 Petri 3:8-13
 8 Unum vero hoc non lateat vos, carissimi, quia unus dies apud Dominum sicut mille anni, et mille anni sicut dies unus.
 9 Non tardat Dominus promissionem suam, sicut quidam existimant: sed patienter agit propter vos, nolens aliquos perire, sed omnes ad pœnitentiam reverti.
 10 Adveniet autem dies Domini ut fur: in quo caeli magno impetu transient, elementa vero calore solventur, terra autem et quae in ipsa sunt opera, exurentur.
@@ -34,7 +34,7 @@ De Epistola secunda beati Petri Apostoli.
 @TemporaM/Pasc5-4:Responsory2
 
 [Lectio3]
-!2 Pet 3:14-18
+!2 Petri 3:14-18
 14 Propter quod, carissimi, haec exspectantes, satagite immaculati, et inviolati ei inveniri in pace:
 15 et Domini nostri longanimitatem, salutem arbitremini: sicut et carissimus frater noster Paulus secundum datam sibi sapientiam scripsit vobis,
 16 sicut et omnibus epistolis, loquens in eis de his in quibus sunt quaedam difficilia intellectu, quae indocti et instabiles depravant, sicut et ceteras Scripturas, ad suam ipsorum perditionem.

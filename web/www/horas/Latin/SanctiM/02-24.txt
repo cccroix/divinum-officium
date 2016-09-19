@@ -14,7 +14,7 @@ $Per Dominum
 
 [Lectio1]
 De Actibus Apostolorum
-!Acts 1:15-18
+!Act 1:15-18
 15 In diebus illis, exsurgens Petrus in medio fratrum, dixit (erat autem turba~
 hominum simul, fere centum viginti):
 16 Viri fratres, oportet impleri Scripturam quam praedixit Spiritus Sanctus per~
@@ -24,7 +24,7 @@ os David de Juda, qui fuit dux eorum qui comprehenderunt Jesum:
 medius: et diffusa sunt omnia viscera ejus.
 
 [Lectio2]
-!Acts 1:19-22
+!Act 1:19-22
 19 Et notum factum est omnibus habitantibus Jerusalem, ita ut appellaretur ager~
 ille, lingua eorum, Haceldama, hoc est, ager sanguinis.
 20 Scriptum est enim in libro Psalmorum: Fiat commoratio eorum deserta, et non~
@@ -35,7 +35,7 @@ intravit et exivit inter nos Dominus Jesus,
 testem resurrectionis ejus nobiscum fieri unum ex istis.
 
 [Lectio3]
-!Acts 1:23-26
+!Act 1:23-26
 23 Et statuerunt duos, Joseph, qui vocabatur Barsabas, qui cognominatus est~
 Justus, et Mathiam.
 24 Et orantes dixerunt: Tu Domine, qui corda nosti omnium, ostende quem elegeris~
@@ -85,7 +85,7 @@ duodecim inveniuntur.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matt 11:25-30
+!Matth 11:25-30
 In illo tempore: Respondens Jesus dixit: Confiteor tibi Pater, Domine caeli et~
 terrae, quia abscondisti haec a sapientibus, et prudentibus, et revelasti ea~
 parvulis. Et reliqua.
@@ -129,7 +129,7 @@ R. In omnem terram exivit sonus eorum, et in fines orbis terrae verba eorum.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matt 11:25-30
+!Matth 11:25-30
 11:25 In illo tempore respondens Jesus dixit: Confiteor tibi, Pater, Domine~
 caeli et terrae, quia abscondisti haec a sapientibus, et prudentibus, et~
 revelasti ea parvulis.

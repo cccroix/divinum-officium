@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 De Epistola beati Jacobi Apostoli.
-!Jas 3:1-3
+!Jacob 3:1-3
 1 Nolite plures magistri fieri fratres mei, scientes quoniam majus judicium sumitis.
 2 In multis enim offendimus omnes. Si quis in verbo non offendit, hic perfectus est vir: potest etiam freno circumducere totum corpus.
 3 Si autem equis frena in ora mittimus ad consentiendum nobis, et omne corpus illorum circumferimus.
@@ -21,7 +21,7 @@ V. Super flumina Babylonis illic sedimus et flevimus, dum recordaremur tui Sion.
 R. Adhaereat lingua mea faucibus meis, si non meminero tui, alleluia, alleluia.
 
 [Lectio2]
-!Jas 3:4-6
+!Jacob 3:4-6
 4 Ecce et naves, cum magnae sint, et a ventis validis minentur, circumferuntur a modico gubernaculo ubi impetus dirigentis voluerit.
 5 Ita et lingua modicum quidem membrum est, et magna exaltat. Ecce quantus ignis quam magnam silvam incendit !
 6 Et lingua ignis est, universitas iniquitatis. Lingua constituitur in membris nostris, quae maculat totum corpus, et inflammat rotam nativitatis nostrae inflammata a gehenna.
@@ -36,7 +36,7 @@ R. Multitudo sonitus aquarum vocem dederunt nubes, alleluia, alleluia, alleluia.
 R. Multitudo sonitus aquarum vocem dederunt nubes, alleluia, alleluia, alleluia.
 
 [Lectio3]
-!Jas 3:6-10
+!Jacob 3:6-10
 6 Et lingua ignis est, universitas iniquitatis. Lingua constituitur in membris nostris, quae maculat totum corpus, et inflammat rotam nativitatis nostrae inflammata a gehenna.
 7 Omnis enim natura bestiarum, et volucrum, et serpentium, et ceterorum domantur, et domita sunt a natura humana:
 8 linguam autem nullus hominum domare potest: inquietum malum, plena veneno mortifero.

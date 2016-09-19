@@ -47,7 +47,7 @@ tollimur, quasi in aera levamur.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum. 
-!Matt 9:9-13 
+!Matth 9:9-13 
 In illo tempore: Vidit~
 Jesus hominem sedentem in telonio, Matthaeum nomine. Et ait illi: Sequere me. Et~
 reliqua.
@@ -86,7 +86,7 @@ occasionem haberet docendi, et spirituales invitatoribus suis praeberet cibos.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matt 9:9-13 
+!Matth 9:9-13 
 9:9 Et, cum transiret inde Jesus, vidit hominem sedentem in telonio, Matthaeum nomine. Et ait illi: Sequere me. Et surgens, secutus est eum.
 9:10 Et factum est, discumbente eo in domo, ecce multi publicani et peccatores venientes, discumbebant cum Jesu, et discipulis ejus.
 9:11 Et videntes pharisaei, dicebant discipulis ejus: Quare cum publicanis et peccatoribus manducat magister vester?

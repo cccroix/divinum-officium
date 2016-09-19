@@ -23,7 +23,7 @@ Scripsit Isidorus libros etymologiarum, et de ecclesiasticis officiis, aliosque 
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matt 5:13-19
+!Matth 5:13-19
 In illo tempore: Dixit Jesus discipulis suis: Vos estis sal terrae. Quod si sal evamierit, in quo salietur? Ad nihilum valet ultra, nisi ut mittatur foras, et conculcetur ab hominibus. Et reliqua.
 _
 Homilia sancti Isidori Episcopi.

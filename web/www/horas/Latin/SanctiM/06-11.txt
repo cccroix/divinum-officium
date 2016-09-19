@@ -15,7 +15,7 @@ $Per Dominum
 
 [Lectio1]
 De Actibus Apostolorum.
-!Acts 13:43-47
+!Act 13:43-47
 43 Cumque dimissa esset synagoga, secuti sunt multi Judaeorum, et colentium~
 advenarum, Paulum et Barnabam: qui loquentes suadebant eis ut permanerent in~
 gratia Dei.
@@ -81,7 +81,7 @@ Cypro; ad cujus pectus erat Evangelium Matthaei, Barnabae manu conscriptum.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matt 10:16-22
+!Matth 10:16-22
 In illo tempore: Dixit Jesus discipulis suis: Ecce ego mitto vos sicut oves in~
 medio luporum. Et reliqua.
 _
@@ -120,7 +120,7 @@ lupos, sed oves pascit.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matt 10:16-22
+!Matth 10:16-22
 10:16 Ecce ego mitto vos sicut oves in medio luporum. Estote ergo prudentes~
 sicut serpentes, et simplices sicut columbae.
 10:17 Cavete autem ab hominibus. Tradent enim vos in conciliis, et in synagogis~

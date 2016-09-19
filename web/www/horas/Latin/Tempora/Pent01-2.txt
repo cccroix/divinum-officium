@@ -3,7 +3,7 @@ Feria Tertia infra Hebdomadam I post Octavam Pentecostes;;Feria;;1
 										
 [Lectio1]
 De libro primo Regum 
-!1 Sam 1:12-18
+!1 Reg 1:12-18
 12 Factum est autem, cum illa multiplicaret preces coram Domino, ut Heli observaret os ejus.
 13 Porro Anna loquebatur in corde suo, tantumque labia illius movebantur, et vox penitus non audiebatur. Æstimavit ergo eam Heli temulentam,
 14 dixitque ei: Usquequo ebria eris? Digere paulisper vinum, quo mades.
@@ -19,7 +19,7 @@ V. Nonne iste est David, de quo canebant in choro, dicentes: Saul percussit mill
 R. Quia manus Domini erat cum illo: percussit Philisthaeum, et abstulit opprobrium ex Israël.
 
 [Lectio2]
-!1 Sam 1:18-22
+!1 Reg 1:18-22
 18 Et abiit mulier in viam suam, et comedit, vultusque illius non sunt amplius in diversa mutati.
 19 Et surrexerunt mane, et adoraverunt coram Domino: reversique sunt, et venerunt in domum suam Ramatha. Cognovit autem Elcana Annam uxorem suam: et recordatus est ejus Dominus.
 20 Et factum est post circulum dierum, concepit Anna, et peperit filium: vocavitque nomen ejus Samuel, eo quod a Domino postulasset eum.
@@ -33,7 +33,7 @@ V. Omnes montes, qui estis in circuitu ejus, visitet Dominus; a Gelboë autem tra
 R. Ubi ceciderunt fortes Israël.
 
 [Lectio3]
-!1 Sam 1:23-28
+!1 Reg 1:23-28
 23 Et ait ei Elcana vir suus: Fac quod bonum tibi videtur, et mane donec ablactes eum: precorque ut impleat Dominus verbum suum. Mansit ergo mulier, et lactavit filium suum, donec amoveret eum a lacte.
 24 Et adduxit eum secum, postquam ablactaverat, in vitulis tribus, et tribus modiis farinae, et amphora vini, et adduxit eum ad domum Domini in Silo. Puer autem erat adhuc infantulus:
 25 Et immolaverunt vitulum, et obtulerunt puerum Heli,

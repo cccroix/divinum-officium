@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 De epistola ad Ephesios
-!Eph 5:1-4
+!Ephes 5:1-4
 1 Estote ergo imitatores Dei, sicut filii carissimi,
 2 et ambulate in dilectione, sicut et Christus dilexit nos, et tradidit semetipsum pro nobis, oblationem et hostiam Deo in odorem suavitatis.
 3 Fornicatio autem, et omnis immunditia, aut avaritia, nec nominetur in vobis, sicut decet sanctos:
@@ -16,7 +16,7 @@ De epistola ad Ephesios
 @Tempora/Epi2-5:Responsory1
 
 [Lectio2]
-!Eph 5:5-8
+!Ephes 5:5-8
 5 Hoc enim scitote intelligentes: quod omnis fornicator, aut immundus, aut avarus, quod est idolorum servitus, non habet hereditatem in regno Christi et Dei.
 6 Nemo vos seducat inanibus verbis: propter haec enim venit ira Dei in filios diffidentiae.
 7 Nolite ergo effici participes eorum.
@@ -26,7 +26,7 @@ De epistola ad Ephesios
 @Tempora/Epi2-5:Responsory2
 
 [Lectio3]
-!Eph 5:9-14
+!Ephes 5:9-14
 9 fructus enim lucis est in omni bonitate, et justitia, et veritate:
 10 probantes quid sit beneplacitum Deo:
 11 et nolite communicare operibus infructuosis tenebrarum, magis autem redarguite.

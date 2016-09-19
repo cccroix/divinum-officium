@@ -21,7 +21,7 @@ Exaltate Regem regum, * et hymnum dicite Deo, alleluia.
 Videntibus illis * elevatus est, et nubes suscepit eum in caelo, alleluia.
 
 [Capitulum Vespera]
-!Act. 1:1-2
+!Act 1:1-2
 v. Primum quidem sermonem feci de omnibus, o Theophile, quae coepit Jesus facere, et docere usque in diem, qua praecipiens Apostolis per Spiritum Sanctum, quos elegit, assumptus est.
 $Deo gratias
 
@@ -127,7 +127,7 @@ R. Deum meum, et Deum vestrum, alleluia.
 
 [Lectio1]
 Incipit liber Actuum Apostolorum.
-!Act. 1:1-5
+!Act 1:1-5
 1 Primum quidem sermonem feci de omnibus, o Theophile, quae cœpit Jesus facere et docere
 2 usque in diem qua praecipiens Apostolis per Spiritum Sanctum, quos elegit, assumptus est:
 3 quibus et praebuit seipsum vivum post passionem suam in multis argumentis, per dies quadraginta apparens eis, et loquens de regno Dei.
@@ -141,7 +141,7 @@ V. Et convescens praecepit eis, ab Jerosolymis ne discederent, sed exspectarent 
 R. Et videntibus illis elevatus est, alleluia: et nubes suscepit eum ab oculis eorum, alleluia.
 
 [Lectio2]
-!Act. 1:6-9
+!Act 1:6-9
 6 Igitur qui convenerant, interrogabant eum, dicentes: Domine, si in tempore hoc restitues regnum Israël?
 7 Dixit autem eis: Non est vestrum nosse tempora vel momenta quae Pater posuit in sua potestate:
 8 sed accipietis virtutem supervenientis Spiritus Sancti in vos, et eritis mihi testes in Jerusalem, et in omni Judaea, et Samaria, et usque ad ultimum terrae.
@@ -154,7 +154,7 @@ V. A summo caelo egressio ejus, et occursus ejus usque ad summum ejus.
 R. Species ejus in nubibus caeli, et nomen ejus in aeternum permanet, alleluia.
 
 [Lectio3]
-!Act. 1:10-14
+!Act 1:10-14
 10 Cumque intuerentur in caelum euntem illum, ecce duo viri astiterunt juxta illos in vestibus albis,
 11 qui et dixerunt: Viri Galilaei, quid statis aspicientes in caelum? Hic Jesus, qui assumptus est a vobis in caelum, sic veniet quemadmodum vidistis eum euntem in caelum.
 12 Tunc reversi sunt Jerosolymam a monte qui vocatur Oliveti, qui est juxta Jerusalem, sabbati habens iter.
@@ -274,7 +274,7 @@ Concede, quaesumus, omnipotens Deus: ut, qui hodierna die Unigenitum tuum Redemp
 $Per eumdem
 
 [Lectio Prima]
-!Act. 1:11
+!Act 1:11
 v. Viri Galilaei, quid statis aspicientes in caelum? Hic Jesus, qui assumptus est a vobis in caelum, sic veniet, quemadmodum vidistis eum euntem in caelum.
 
 [Capitulum Tertia]
@@ -292,7 +292,7 @@ V. Ascendens Christus in altum, alleluia.
 R. Captivam duxit captivitatem, alleluia.
 
 [Capitulum Sexta]
-!Act. 1:4-5
+!Act 1:4-5
 v. Et convescens, praecepit eis ab Jerosolymis ne discederent, sed exspectarent promissionem Patris, quam audistis (inquit) per os meum: quia Joannes quidem baptizavit aqua, vos autem baptizabimini Spiritu Sancto non post multos hos dies.
 $Deo gratias
 

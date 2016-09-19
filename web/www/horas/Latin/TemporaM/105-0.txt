@@ -8,7 +8,7 @@ R. Et descendat super nos misericordia tua.
 
 [Lectio1]
 De libro secundo Machabaeorum
-!2 Mac 6:18-22
+!2 Mach 6:18-22
 18 Igitur Eleazarus, unus de primoribus scribarum, vir aetate provectus, et vultu decorus, aperto ore hians compellebatur carnem porcinam manducare.
 19 At ille gloriosissimam mortem magis quam odibilem vitam complectens, voluntarie praeibat ad supplicium.
 20 Intuens autem quemadmodum oporteret accedere, patienter sustinens, destinavit non admittere illicita propter vitae amorem.
@@ -20,7 +20,7 @@ De libro secundo Machabaeorum
 @TemporaM/101-0:Responsory1
 
 [Lectio2]
-!2 Mac 6:23-29
+!2 Mach 6:23-29
 23 At ille cogitare cœpit aetatis ac senectutis suae eminentiam dignam, et ingenitae nobilitatis canitiem, atque a puero optimae conversationis actus: et secundum sanctae et a Deo conditae legis constituta, respondit cito, dicens praemitti se velle in infernum.
 24 Non enim aetati nostrae dignum est, inquit, fingere: ut multi adolescentium, arbitrantes Eleazarum nonaginta annorum transisse ad vitam alienigenarum,
 25 et ipsi propter meam simulationem, et propter modicum corruptibilis vitae tempus decipiantur, et per hoc maculam atque execrationem meae senectuti conquiram.
@@ -34,7 +34,7 @@ De libro secundo Machabaeorum
 @TemporaM/101-0:Responsory2
 
 [Lectio3]
-!2 Mac 7:1-5
+!2 Mach 7:1-5
 1 Contigit autem et septem fratres una cum matre sua apprehensos compelli a rege edere contra fas carnes porcinas, flagris et taureis cruciatos.
 2 Unus autem ex illis, qui erat primus, sic ait: Quid quaeris, et quid vis discere a nobis? parati sumus mori, magis quam patrias Dei leges praevaricari.
 3 Iratus itaque rex, jussit sartagines et ollas aeneas succendi: quibus statim succensis,

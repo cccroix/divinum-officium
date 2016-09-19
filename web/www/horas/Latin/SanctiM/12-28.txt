@@ -10,7 +10,7 @@ $Qui tecum
 
 [Lectio1]
 De Jeremia Propheta.
-!Jer 31:15-17
+!Jerem 31:15-17
 15 Haec dicit Dominus: Vox in excelso audita est lamentationis: luctus, et~
 fletus Rachel plorantis filios suos, et nolentis consolari super eis, quia non~
 sunt.
@@ -28,7 +28,7 @@ sanguine Agni.
 R. Virgines enim permanserunt, ideo regnant cum Deo, et Agnus Dei cum illis.
 
 [Lectio2]
-!Jer 31:18-20
+!Jerem 31:18-20
 18 Audiens audivi Ephraim transmigrantem: Castigasti me, et eruditus sum, quasi~
 juvenculus indomitus: converte me, et convertar, quia tu Dominus Deus meus.
 19 Postquam enim convertisti me, egi pœnitentiam: et postquam ostendisti mihi,~
@@ -48,7 +48,7 @@ R. Quare non defendis sanguinem nostrum? Et acceperunt divinum responsum: Adhuc~
 sustinete modicum tempus, donec impleatur numerus fratrum vestrorum.
 
 [Lectio3]
-!Jer 31:21-23
+!Jerem 31:21-23
 21 Statue tibi speculam; pone tibi amaritudines; dirige cor tuum in viam rectam~
 in qua ambulasti: revertere, virgo Israël, revertere ad civitates tuas istas.
 22 Usquequo deliciis dissolveris, filia vaga? quia creavit Dominus novum super~

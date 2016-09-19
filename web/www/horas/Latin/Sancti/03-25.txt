@@ -20,7 +20,7 @@ Dabit ei Dominus * sedem David patris ejus, et regnabit in æternum. (Alleluia.)
 Ecce ancilla Domini: * fiat mihi secundum verbum tuum. (Alleluia.);;147
 
 [Capitulum Vespera]
-!Isa 7:14-15
+!Isai 7:14-15
 v. Ecce virgo concipiet et pariet filium, et vocabitur nomen ejus Emmanuel. Butyrum et mel comedet, ut sciat reprobare malum, et eligere bonum.
 $Deo gratias
 
@@ -43,7 +43,7 @@ Angelus Domini * nuntiavit Mariæ, et concepit de Spiritu Sancto. (Alleluia.)
 
 [Lectio1]
 De Isaia Propheta.
-!Isa 7:10-15
+!Isai 7:10-15
 10 Et adjecit Dominus loqui ad Achaz, dicens:
 11 Pete tibi signum a Domino Deo tuo, in profundum inferni, sive in excelsum supra.
 12 Et dixit Achaz: Non petam, et non tentabo Dominum.
@@ -58,7 +58,7 @@ V. Dabit ei Dominus Deus sedem David, patris ejus, et regnabit in domo Jacob in 
 R. Ecce concipies et paries, et vocabitur Altissimi Filius. (Alleluia.) 
 
 [Lectio2]
-!Isa 11:1-5
+!Isai 11:1-5
 1 Et egredietur virga de radice Jesse, et flos de radice ejus ascendet.
 2 Et requiescet super eum Spiritus Domini: spiritus sapientiae et intellectus, spiritus consilii et fortitudinis, spiritus scientiae et pietatis;
 3 et replebit eum spiritus timoris Domini, non secundum visionem oculorum judicabit, neque secundum auditum aurium arguet;
@@ -72,7 +72,7 @@ V. Quomodo fiet istud, quoniam virum non cognosco? Et respondens Angelus dixit e
 R. Spiritus Sanctus superveniet in te, et virtus Altissimi obumbrabit tibi: quod enim ex te nascetur Sanctum, vocabitur Filius Dei. (Alleluia.) 
 
 [Lectio3]
-!Isa 35:1-7
+!Isai 35:1-7
 1 Laetabitur deserta et invia, et exsultabit solitudo, et florebit quasi lilium.
 2 Germinans germinabit, et exsultabit laetabunda et laudans: gloria Libani data est ei, decor Carmeli et Saron; ipsi videbunt gloriam Domini, et decorem Dei nostri.
 3 Confortate manus dissolutas, et genua debilia roborate.
@@ -168,7 +168,7 @@ R. Dominus tecum. (Alleluia.)
 Quomodo fiet istud * Angele Dei, quoniam virum non cognosco? Audi, Maria Virgo: Spiritus Sanctus superveniet in te, et virtus Altissimi obumbrabit tibi. (Alleluia.)
 
 [Lectio Prima]
-!Isa 11:1-2
+!Isai 11:1-2
 v. Egredietur virga de radice Jesse, et flos de radice ejus ascendet. Et requiescet super eum Spiritus Domini.
 
 [Capitulum Tertia]

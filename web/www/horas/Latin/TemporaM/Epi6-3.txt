@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 De epistola ad Hebraeos
-!Heb 6:1-3
+!Hebr 6:1-3
 1 Quapropter intermittentes inchoationis Christi sermonem, ad perfectiora~
 feramur, non rursum jacientes fundamentum pœnitentiae ab operibus mortuis, et~
 fidei ad Deum,
@@ -18,7 +18,7 @@ et judicii aeterni.
 @TemporaM/Epi2-3:Responsory1
 
 [Lectio2]
-!Heb 6:4-6
+!Hebr 6:4-6
 4 Impossibile est enim eos qui semel sunt illuminati, gustaverunt etiam donum~
 caeleste, et participes facti sunt Spiritus Sancti,
 5 gustaverunt nihilominus bonum Dei verbum, virtutesque saeculi venturi,
@@ -29,7 +29,7 @@ sibimetipsis Filium Dei, et ostentui habentes.
 @TemporaM/Epi2-3:Responsory2
 
 [Lectio3]
-!Heb 6:7-10
+!Hebr 6:7-10
 7 Terra enim saepe venientem super se bibens imbrem, et generans herbam~
 opportunam illis, a quibus colitur, accipit benedictionem a Deo:
 8 proferens autem spinas ac tribulos, reproba est, et maledicto proxima: cujus~

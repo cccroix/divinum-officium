@@ -73,7 +73,7 @@ nuntiabatur indicio.
 
 [Lectio7]
 Léctio sancti Evangélii secúndum Matthǽum.
-!Matt 2:1-12
+!Matth 2:1-12
 Cum natus esset Jesus in Béthlehem Juda in diébus Heródis regis, ecce~
 Magi ab Oriénte venérunt Jerosólymam, dicéntes: Ubi est qui natus est~
 Rex Judæórum? Et réliqua.

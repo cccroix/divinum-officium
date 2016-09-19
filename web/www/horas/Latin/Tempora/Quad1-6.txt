@@ -11,7 +11,7 @@ Sabbato infra Hebdomadam I in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matt 17:1-9
+!Matth 17:1-9
 In illo tempore: Assumpsit Jesus Petrum, et Jacobum, et Joannem fratrem ejus, et duxit illos in montem excelsum seorsum: et transfiguratus est ante eos. Et reliqua.
 _
 Homilia sancti Leonis Papae

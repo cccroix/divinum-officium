@@ -132,7 +132,7 @@ R. Et fui tecum in omnibus ubicumque ambulasti, firmans regnum tuum in aeternum.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matt 7:15-21
+!Matth 7:15-21
 In illo tempore: Dixit Jesus discipulis suis: Attendite a falsis prophetis, qui~
 veniunt ad vos in vestimentis ovium, intrinsecus autem sunt lupi rapaces. Et~
 reliqua.
@@ -195,7 +195,7 @@ R. Sicut incensum in conspectu tuo.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matt 7:15-21
+!Matth 7:15-21
 7:15 Attendite a falsis prophetis, qui veniunt ad vos in vestimentis ovium, intrinsecus autem sunt lupi rapaces:
 7:16 a fructibus eorum cognoscetis eos. Numquid colligunt de spinas uvas, aut de tribulis ficus?
 7:17 Sic omnis arbor bona fructus bonos facit: mala autem arbor malos fructus facit.

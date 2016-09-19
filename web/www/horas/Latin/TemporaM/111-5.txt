@@ -1,6 +1,6 @@
 [Lectio1]
 De Ezechiele Propheta
-!Ezek 15:1-5
+!Ezech 15:1-5
 1 Et factus est sermo Domini ad me, dicens:
 2 Fili hominis, quid fiet de ligno vitis, ex omnibus lignis nemorum quae sunt inter ligna silvarum?
 3 numquid tolletur de ea lignum ut fiat opus, aut fabricabitur de ea paxillus ut dependeat in eo quodcumque vas?
@@ -12,7 +12,7 @@ De Ezechiele Propheta
 @TemporaM/111-0:Responsory4
 
 [Lectio2]
-!Ezek 15:6-8
+!Ezech 15:6-8
 6 Propterea haec dicit Dominus Deus: Quomodo lignum vitis inter ligna silvarum, quod dedi igni ad devorandum, sic tradam habitatores Jerusalem.
 7 Et ponam faciem meam in eos: de igne egredientur, et ignis consumet eos: et scietis quia ego Dominus, cum posuero faciem meam in eos,
 8 et dedero terram inviam et desolatam, eo quod praevaricatores extiterint, dicit Dominus Deus.
@@ -22,7 +22,7 @@ De Ezechiele Propheta
 @TemporaM/111-0:Responsory5
 
 [Lectio3]
-!Ezek 16:1-5
+!Ezech 16:1-5
 1 Et factus est sermo Domini ad me, dicens:
 2 Fili hominis, notas fac Jerusalem abominationes suas,
 3 et dices: Haec dicit Dominus Deus Jerusalem: Radix tua et generatio tua de terra Chanaan: pater tuus Amorrhaeus, et mater tua Cethaea.
