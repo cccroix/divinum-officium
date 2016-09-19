@@ -35,7 +35,7 @@ $Qui tecum
 
 [Lectio]
 Lesson from the book of Wisdom
-!Wis 10:10:14
+!Sap 10:10:14
 The Lord guided the just in direct ways, showed him the kingdom of God, and gave him knowledge of holy things; He prospered him in his labors and made abundant the fruit of his works, stood by him against the greed of his defrauders, and enriched him; He preserved him from foes, and secured him against ambush, and He gave him the prize for his stern struggle that he might recognize that devotion to God is mightier than all else. He did not abandon the just man when he was sold, but delivered him from sin. He went down with him into the dungeon, and did not desert him in his bonds, until He brought him the scepter of royalty and authority over his oppressors, and showed those who had defamed him false; and the Lord our God gave him eternal glory.
 
 [Graduale]
@@ -45,13 +45,13 @@ grow in the house of the Lord.
 !Ps 91:3
 V. To proclaim Your kindness at dawn and Your faithfulness throughout the night.~
 Alleluia, alleluia.
-!James 1:12
+!Jacob 1:12
 V. Blessed is the man who endures temptation; for when he has been tried, he~
 will receive the crown of life. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
-!Luke 19:12-26
+!Luc 19:12-26
 At that time, Jesus spoke this parable to His disciples: A certain nobleman went~
 into a far country to obtain for himself a kingdom and then return. And having~
 summoned ten of his servants, he gave them ten gold pieces and said to them,~
@@ -87,7 +87,7 @@ King, so may his prayer make us pleasing to You.
 $Per Dominum
 
 [Communio]
-!Matt 24:46-47
+!Matth 24:46-47
 Blessed is that servant whom his master, when he comes, shall find watching.~
 Amen I say to you, he will set him over all his goods. (Alleluia.)
 

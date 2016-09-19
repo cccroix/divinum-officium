@@ -5,7 +5,7 @@ Ss. Primi et Feliciani Martyrum;;Simplex;;1.1;;vide C3
 vide C3;
 
 [Introitus]
-!Ecclus. 44:15; 44:14.
+!Eccl 44:15; 44:14.
 v. At gatherings the wisdom of the Saints is retold, and the assembly sings~
 their praises; their name lives on and on.
 !Ps 32:1
@@ -21,11 +21,11 @@ $Per Dominum
 
 [Lectio]
 Lesson from the book of Wisdom
-!Wis 5:16-20
+!Sap 5:16-20
 But the just live forever, and in the Lord is their recompense, and the thought of them is with the Most High. Therefore shall they receive the splendid kingdom and the beauteous diadem from the hand of the Lord - for He shall shelter them with His right hand, and protect them with His holy arm. He shall take His zeal for armor and He shall arm creation to requite the enemy; He shall don justice for a breastplate and shall wear sure judgment for a helmet; He shall take rectitude as an invincible shield.
 
 [Graduale]
-!Ps. 88:6; 88:2
+!Ps 88:6; 88:2
 The heavens shall confess thy wonders, O Lord: and thy truth in the church of~
 the saints.
 V. The mercies of the Lord I will sing for ever. I will shew forth thy truth~
@@ -35,7 +35,7 @@ followed Christ, attaining the noble kingdom of heaven. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
-!Matt 11:25-30
+!Matth 11:25-30
 At that time Jesus answered and said: I confess to thee, O Father, Lord of~
 heaven and earth, because thou hast hid these things from the wise and prudent,~
 and hast revealed them to the little ones. Yea, Father; for so hath it seemed~
@@ -58,7 +58,7 @@ thy setvants acceptable unto thee.
 $Per Dominum
 
 [Communio]
-!John 15:16
+!Joann 15:16
 I have chosen you; that you should go, and should bring forth fruit; and your~
 fruit should remain.
 

@@ -10,10 +10,10 @@ no Credo
 Suffr=Maria3
 
 [Introitus]
-!Isa. 48:20.
+!Isai 48:20.
 v. Declare the word of joy, and let it be heard, alleluia: declare it even to~
 the ends of the earth; the Lord has delivered His people: alleluia, alleluia.
-!Ps. 61:1-2.
+!Ps 61:1-2.
 Shout joyfully to God, all you on earth, sing praise to the glory of His name;~
 proclaim His glorious praise.
 &Gloria
@@ -27,20 +27,20 @@ $Per Dominum
 
 [Lectio]
 Lesson from the letter of St Paul the Apostle to the Ephesians
-!Eph. 4:7-13.
+!Ephes 4:7-13.
 Brethren: To each one of us grace was given according to the measure of Christ’s bestowal. Thus it says, Ascending on high, He led away captives; He gave gifts to men. Now this, He ascended, what does it mean but that He also first descended into the lower parts of the earth? He Who descended, He it is Who ascended also above all the heavens, that He might fill all things. And He Himself gave some men as apostles, and some as prophets, others again as evangelists, and others as pastors and teachers, in order to perfect the saints for a work of ministry, for building up the body of Christ, until we all attain to the unity of the faith and of the deep knowledge of the Son of God, to perfect manhood, to the mature measure of the fullness of Christ.
 
 [Graduale]
 Alleluia, alleluia.
 V. Christ is risen, and has shone upon us, whom He redeemed with His Blood.~
 Alleluia.
-!John 16:28
+!Joann 16:28
 V. I came forth from the Father, and have come into the world. Again I leave the~
 world, and go to the Father. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to John
-!John 17:1-11.
+!Joann 17:1-11.
 At that time, raising His eyes to heaven, Jesus said, Father, the hour has come!~
 Glorify Your Son, that Your Son may glorify You, even as You have given Him~
 power over all flesh, in order that to all You have given Him He may give~
@@ -70,7 +70,7 @@ these rites of love and devotion we may pass to the glory of heaven.
 $Per Dominum]
 
 [Communio]
-!Ps. 95:2.
+!Ps 95:2.
 Sing to the Lord, alleluia; sing to the Lord; bless His name; announce His~
 salvation day after day, alleluia, alleluia.
 

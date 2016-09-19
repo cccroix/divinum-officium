@@ -21,7 +21,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the letter of St Paul the Apostle to the Jews
-!Heb 7:23-27
+!Hebr 7:23-27
 Brethren: The priests were numerous, because they were prevented by death~
 from continuing in office; but Jesus, because he continues forever, has an~
 everlasting priesthood. Therefore He is able at all times to save those who~
@@ -53,12 +53,12 @@ Alleluia, alleluia.
 !Ps 109:4.
 The Lord has sworn, and He will not repent: You are a priest forever, according~
 to the order of Melchisedec. Alleluia.
-!Eccli 45:9
+!Eccl 45:9
 V. The Lord loved him, and beautified him: He clothed him with a robe of glory. Alleluia.
 
 [Evangelium]
 Continuation ++ of the Holy Gospel according to Matthew
-!Matt. 24:42 - 47.
+!Matth 24:42 - 47.
 At that time, Jesus said to His disciples, "Watch, for you do not know at what~
 hour your Lord is to come. But of this be assured, that if the householder had~
 known at what hour the thief was coming, he would certainly have watched, and~

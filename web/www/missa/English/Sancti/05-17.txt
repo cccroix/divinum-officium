@@ -5,7 +5,7 @@ S. Paschalis Baylon Confessoris;;Duplex;;3;;vide C5
 Gloria
 
 [Introitus]
-!Ps. 36:30-31
+!Ps 36:30-31
 v. The mouth of the just man tells of wisdom, and his tongue utters what is~
 right. The law of his God is in his heart. (Alleluia, alleluia.)
 !Ps 36:1
@@ -23,20 +23,20 @@ $Qui vivis
 
 [Lectio]
 Lesson from the book of Ecclesiasticus
-!Eccli 31:8-11
+!Eccl 31:8-11
 Happy the man found without fault, who turns not aside after gain, nor puts his trust in money nor in treasures! Who is he, that we may praise him? For he has done wonders in his life. He has been tested by gold and come off safe, and this remains his glory forever; he could have sinned but did not, could have done evil but would not, so that his possessions are secure in the Lord, and the assembly of the Saints shall recount his alms.
 
 [Graduale]
 Alleluia, alleluia.
 V. James 1:12. Blessed is the man who endures temptation; for when he has been~
 tried, he shall receive the crown of life. Alleluia.
-!Eccli 45:9
+!Eccl 45:9
 V. The Lord loved him and adorned him; He clothed him with a robe~
 of glory. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
-!Luke 12:35-40
+!Luc 12:35-40
 At that time, Jesus said to His disciples, Let your loins be girt about and your~
 lamps burning, and you yourselves like men waiting for their master’s return~
 from the wedding; so that when he comes and knocks, they may straight-way open~
@@ -50,7 +50,7 @@ also must be ready, because at an hour that you do not expect, the Son of Man is
 coming.
 
 [Offertorium]
-!Ps. 88:25
+!Ps 88:25
 My faithfulness and My kindness shall be with him, and through My name shall his~
 horn be exalted. (Alleluia.)
 
@@ -60,7 +60,7 @@ that by them we may be delivered from both present and future evils.
 $Per Dominum
 
 [Communio]
-!Matt. 24:46-47
+!Matth 24:46-47
 Blessed is that servant whom his master, when he comes, shall find watching.~
 Amen I say to you, he will set him over all his goods. (Alleluia.)
 

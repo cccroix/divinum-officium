@@ -33,13 +33,13 @@ $Per Dominum eiusdem
 
 [LectioL1]
 Lesson from the book of Joel
-!Joel 2:28-32.
+!JoÃ«l 2:28-32.
 Thus says the Lord God: I will pour out My Spirit upon all mankind. Your sons and daughters shall prophesy, your old men shall dream dreams, your young men shall see visions; even upon the servants and the handmaids, in those days, I will pour out My Spirit. And I will work wonders in the heavens and on the earth, blood, fire, and columns of smoke; the sun will be turned to darkness, and the moon to blood, at the coming of the Day of the Lord, the great and terrible day. Then everyone shall be rescued who calls on the name of the Lord.
 $Deo gratias
 
 [GradualeL1]
 Alleluia.
-!John 6:64
+!Joann 6:64
 !It is the Spirit that gives life; but the flesh profits nothing.
 
 [OratioL1]
@@ -49,7 +49,7 @@ $Qui tecum eiusdem
 
 [LectioL2]
 Lesson from the book of Leviticus
-!Lev. 23:9-11; 15-17, 21. 
+!Levit 23:9-11; 15-17, 21. 
 In those days, the Lord spoke to Moses, saying: Speak to the Israelites and tell them: When you come into the land which I am giving to you, and reap your harvest, you shall bring a sheaf of the first fruits of your harvest to the priest, who shall wave the sheaf before the Lord that it may be acceptable for you, and shall sanctify it. On the day after the Sabbath the priest shall do this. Beginning with the day after the Sabbath, the day on which you bring the wave-offering sheaf, you shall count seven full weeks, and then on the day after the seventh week, the fiftieth day, you shall present the new cereal offering to the Lord. For the wave-offering of your first fruits to the Lord, you shall bring with you from wherever you live two loaves of bread made of two tenths of an epha of fine flour and baked with leaven. On this same day you shall by proclamation have a sacred assembly, and no sort of work may be done. This shall be a perpetual statute for you and your descendants wherever you dwell, says the Lord almighty.
 $Deo gratias
 
@@ -66,13 +66,13 @@ $Per Dominum
 
 [LectioL3]
 Lesson from the book of Deuteronomy
-!Deut. 26:1-3; 7-11.
+!Deut 26:1-3; 7-11.
 In those days, Moses said to the Israelites: Hear, O Israel, the things that I command you today. When you have come into the land which the Lord, your God, is giving you as a heritage, and have occupied it and settled in it, you shall take the first of all your fruits, and putting them in a basket, you shall go to the place which the Lord, your God, chooses for the dwelling place of His name. There you shall go to the priest in office at that time and say to him, Today I acknowledge the Lord, your God, Who heard our cry and saw our affliction, our toil and our oppression. He brought us out of Egypt with His strong hand and outstretched arm, with terrifying power, with signs and wonders; and bringing us into this country, He gave us this land flowing with milk and honey. Therefore, I have now brought you the first fruits of the products of the soil which the Lord has given me.’ And having set them before the Lord, your God, you shall bow down in His presence. Then you shall make merry over all these good things which the Lord, your God, has given you.
 $Deo gratias
 
 [GradualeL3]
 Alleluia.
-!Acts 2:1
+!Act 2:1
 V. When the days of Pentecost were accomplished, they were all sitting together.
 
 [OratioL3]
@@ -82,7 +82,7 @@ forgiveness. $Per Dominum
 
 [LectioL4]
 Lesson from the book of Leviticus
-!Lev. 26:3-12. 
+!Levit 26:3-12. 
 In those days, the Lord said to Moses. Speak to the Israelites, and tell them: If you live in accordance with My precepts and are careful to observe My commandments, I will give you rain in due season, so that the land will bear its crops, and the trees their fruit; your threshing will last till vintage time, and your vintage till the time for sowing, and you will have food to eat in abundance, so that you may dwell securely in your land. I will establish peace in the land, that you may lie down to rest without anxiety. I will rid the country of ravenous beasts, and keep the sword of war from sweeping across your land. You will rout your enemies and lay them low with your sword. Five of you will but a hundred of your foes to flight, and a hundred of you will chase ten thousand of them, till they are cut down by your sword. I will look with favor upon you, and make you fruitful and numerous, as I carry out My covenant with you. So much of the old crops will you have stored up for food that you will have to discard them to make room for the new. I will set My Dwelling among you, and will not disdain you. Ever present in your midst, I will be your God, and you will be My people, says the Lord almighty.
 $Deo gratias
 
@@ -98,7 +98,7 @@ $Per Dominum
 
 [LectioL5]
 Lesson from the book of Daniel
-!Dan. 3:47-51.
+!Dan 3:47-51.
 In those days, the Angel of the Lord went down into the furnace with Azaria and his companions, drove the fiery flames out of the furnace, and made the inside of the furnace as though a dew-laden breeze were blowing through it. And the flames rose forty-nine cubits above the furnace, and spread out, burning the Chaldeans nearby, the king’s men who were stoking the furnace. And the fire in no way touched them or caused them pain or harm. Then these three in the furnace with one voice sang, glorifying and blessing God:
 $Deo Gratias
 
@@ -115,7 +115,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the letter of St Paul the Apostle to the Romans
-!Rom. 5:1-5.
+!Rom 5:1-5.
 Brethren: Having been justified by faith, let us have peace with God through our Lord Jesus Christ, through Whom we also have access by faith unto that grace in which we stand, and exult in the hope of the glory of the sons of God. And not only this, but we exult in tribulations also, knowing that tribulation works out endurance, and endurance tried virtue, and tried virtue hope. And hope does not disappoint, because the charity of God is poured forth in our hearts by the Holy Spirit Who has been given to us.
 
 [Graduale]
@@ -128,7 +128,7 @@ is His kindness toward us, and the fidelity of the Lord endures forever.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
-!Luke 4:38-44.
+!Luc 4:38-44.
 At that time, Jesus rose from the synagogue and entered Simon’s house. Now~
 Simon’s mother-in-law was suffering from a great fever, and they besought Him~
 for her. And standing over her He rebuked the fever, and it left her; and she~
@@ -154,7 +154,7 @@ sacred rite so that our fast may be acceptable to You.
 $Per Dominum
 
 [Communio]
-!John 3:8.
+!Joann 3:8.
 The Spirit breaths where He will, and you hear His voice, alleluia, alleluia;~
 but do not know whence He comes or where He goes, alleluia, alleluia, alleluia.
 

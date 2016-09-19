@@ -23,7 +23,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the book of Ecclesiasticus
-!Ecclus 31:8-11
+!Eccl 31:8-11
 Happy the man found without fault, who turns not aside after gain, nor puts his trust in money nor in treasures! Who is he, that we may praise him? For he has done wonders in his life. He has been tested by gold and come off safe, and this remains his glory forever; he could have sinned but did not, could have done evil but would not, so that his possessions are secure in the Lord, and the assembly of the Saints shall recount his alms.
 
 [Graduale]
@@ -33,7 +33,7 @@ grow in the house of the Lord.
 !Ps 91:3
 V. To proclaim Your kindness at dawn and Your faithfulness throughout the night.~
 Alleluia, alleluia.
-!James 1:12
+!Jacob 1:12
 V. Blessed is the man who endures temptation; for when he has been tried, he~
 will receive the crown of life. Alleluia.
 
@@ -45,16 +45,16 @@ V. Wealth and riches shall be in his house; his generosity shall endure forever.
 
 [GradualeP]
 Alleluia, alleluia.
-!James 1:12
+!Jacob 1:12
 V. Blessed is the man who endures temptation; for when he has been tried, he~
 shall receive the crown of life. Alleluia.
-!Ecclus. 45:9
+!Eccl 45:9
 V. The Lord loved him and adorned him; He clothed him with a robe of glory.~
 Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
-!Luke 19:12-26
+!Luc 19:12-26
 At that time, Jesus spoke this parable to His disciples: A certain nobleman went~
 into a far country to obtain for himself a kingdom and then return. And having~
 summoned ten of his servants, he gave them ten gold pieces and said to them,~
@@ -91,7 +91,7 @@ imitate what we commemorate.
 $Per eundem
 
 [Communio]
-!Matt 24:46-47
+!Matth 24:46-47
 Blessed is that servant whom his master, when he comes, shall find watching.~
 Amen I say to you, he will set him over all his goods. (Alleluia.)
 

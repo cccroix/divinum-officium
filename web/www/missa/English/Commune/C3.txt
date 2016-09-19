@@ -27,31 +27,31 @@ $Per Dominum
 
 [Lectio]
 Lesson from the book of Wisdom
-!Wis 3:1-8
+!Sap 3:1-8
 The souls of the just are in the hands of God, and no torment of death shall touch them. They seemed, in the view of the foolish, to be dead; and their passing away was judged an affliction, and their going forth from us, utter destruction. But they are in peace. For if before men, indeed, they be punished, yet is their hope full of immortality; chastised a little, they shall be greatly blessed, because God tried them and found them worthy of Himself. As gold in the furnace, He proved them, and as sacrificial offerings He took them to Himself. In the time of their visitation they shall shine, and shall dart about as sparks through stubble; they shall judge nations and rule over peoples, and the Lord shall be their King forever.
 
 [Graduale]
-!Exo 15:11; 15:6
+!Ex 15:11; 15:6
 God is glorious in His Saints, wonderful in majesty, a worker of wonders.
 V. Your right hand, O Lord, is magnificent in power; Your right hand has~
 shattered the enemy. Alleluia, alleluia. 
-!Sir 44:14
+!Eccl 44:14
 V. The bodies of the Saints are buried in peace, but their name lives on and on.~
 Alleluia.
 
 [Tractus]
-!Exo 15:11; 15:6
+!Ex 15:11; 15:6
 God is glorious in His Saints, wonderful in majesty, a worker of wonders.
 V. Your right hand, O Lord, is magnificent in power; Your right hand has~
 shattered the enemy.
-!Ps. 125:5-6
+!Ps 125:5-6
 Those that sow in tears shall reap rejoicing.
 V. Although they go forth weeping, carrying the seed to be sown.
 V. They shall come back rejoicing, carrying their sheaves.
 
 [Evangelium]
 Continuation ++ of the Holy Gospel according to Luke
-!Luke 21:9-19
+!Luc 21:9-19
 At that time, Jesus said to His disciples, When you hear of wars and~
 insurrections, do not be terrified; these things must first come to pass, but~
 the end will not be at once. Then He said to them, Nation will rise against~
@@ -87,7 +87,7 @@ salvation.
 $Per Dominum
 
 [Communio]
-!Wis 3:4-6
+!Sap 3:4-6
 For if before men they be punished, God tried them; as gold in the furnace, He~
 proved them, and as sacrificial offerings He took them to Himself.
 

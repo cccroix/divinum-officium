@@ -21,7 +21,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the book of Wisdom
-!Wis 5:1-5
+!Sap 5:1-5
 The just shall stand with great assurance before their oppressors who set at nought their labors. Seeing this, these shall be shaken with dreadful fear, and amazed at the suddenness of the unlooked-for salvation. They shall say among themselves, rueful and groaning through anguish of spirit: These are they whom once we held as a laughingstock and as a type for mockery, fools that we were! Their life we deemed madness, and their death dishonored. See how they are accounted among the sons of God; how their lot is with the Saints!
 
 [Graduale]
@@ -34,7 +34,7 @@ You placed on his head, O Lord, a crown of pure gold.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to John
-!John 15:1-7.
+!Joann 15:1-7.
 At that time, Jesus to His disciples, I am the true vine, and My Father is the~
 vine-dresser. Every branch in Me that bears no fruit He will take away; and~
 every branch that bears fruit He will cleanse, that it may bear more fruit. You~

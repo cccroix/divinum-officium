@@ -22,7 +22,7 @@ $Per eundem
 
 [Lectio]
 Lesson from the book of Ecclesiasticus
-!Ecclus 31:8-11
+!Eccl 31:8-11
 Happy the man found without fault, who turns not aside after gain, nor puts his trust in money nor in treasures! For he has done wonders in his life. He has been tested by gold and come off safe, and this remains his glory forever; he could have sinned but did not, could have done evil but would not, so that his possessions are secure in the Lord, and the assembly of the Saints shall recount his alms.
 
 [Graduale]
@@ -33,7 +33,7 @@ V. O Joachim, spouse of St. Anne, father of the kindly Virgin, help your servant
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
-!Matt 1:1-16
+!Matth 1:1-16
 The book of the origin of Jesus Christ, the Son of David, the son of Abraham. Abraham begot Isaac, Isaac begot Jacob, Jacob begot Judas and his brethren. Judas begot Phares and Zara of Thamar, Phares begot Esron, Esron begot Aram. And Aram begot Aminadab, Aminadab begot Naasson, Naasson begot Salmon. Salmon begot Booz of Rahab. Booz begot Obed of Ruth, Obed begot Jesse, Jesse begot David the King. And David the king begot Solomon of the former wife of Urias. Solomon begot Roboam, Roboam begot Abia, Abia begot Asa. And Asa begot Josaphat, Josaphat begot Joram, Joram begot Ozias. And Ozias begot Joatham, Joatham begot Achaz, Achaz begot Ezechias. And Ezechias begot Manasses, Manasses begot Amon, Amon begot Josias. And Josias begot Jechonias and his brethren at the time of the carrying away to Babylon. And after the carrying away to Babylon, Jechonias begot Salathiel, Salathiel begot Zorobabel. And Zorobabel begot Abiud, Abiud begot Eliachim, Eliachim begot Azor. And Azor begot Sadoc, Sadoc begot Achim, Achim begot Eliud. And Eliud begot Eleazar, Eleazar begot Matthan, Matthan begot Jacob. And Jacob begot Joseph, the husband of Mary, and of her was born Jesus Who is called Christ.
 
 [Offertorium]
@@ -45,7 +45,7 @@ Graciously accept, most merciful God, the sacrifice offered to Your majesty in h
 $Per Dominum
 
 [Communio]
-!Luke 12:42
+!Luc 12:42
 The faithful and prudent servant whom the master will set over his household to give them their ration of grain in due time.
 
 [Postcommunio]

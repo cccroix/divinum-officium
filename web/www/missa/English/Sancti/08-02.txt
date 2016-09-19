@@ -8,7 +8,7 @@ Gloria
 CredoDA
 
 [Introitus]
-!Luke 4:18
+!Luc 4:18
 v. The Spirit of the Lord is upon me, because He has anointed me; to bring good~
 news to the poor He has sent me, to heal the contrite of heart.
 !Ps 77:1
@@ -26,7 +26,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the secons letter of St Paul the Apostle to Timotheus
-!2 Tim. 2:1-7
+!2 Tim 2:1-7
 Dearly beloved: Be strengthened in the grace which is in Christ Jesus; and the things that you have heard from me through many witnesses, commend to trustworthy men who shall be competent in turn to teach others. Conduct yourself in work as a good soldier of Christ Jesus. No one serving as God’s soldier entangles himself in worldly affairs, that he may please him whose approval he has secured. And again, one who enters a contest is not crowned unless he has competed according to the rules. The farmer who toils must be the first to partake of the fruits. Take in what I tell you, for the Lord will give you understanding in all things.
 
 [Graduale]
@@ -36,14 +36,14 @@ seizes me because of the wicked who forsake Your law.
 !Ps 39:11
 V. Your justice I kept not hid within my heart; Your faithfulness and Your~
 salvation I have spoken of. Alleluia, alleluia.
-!Ecclus. 49:3-4
+!Eccl 49:3-4
 V, He was directed by God to the repentance of the nation, and he took away the~
 abominations of wickedness. He turned to God with his whole heart, and though~
 times were evil, he practiced virtue.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
-!Luke 10:1-9
+!Luc 10:1-9
 At that time, the Lord appointed seventy-two others, and sent them forth two by~
 two before Him into every town and place where He Himself was about to come. And~
 He said to them, The harvest indeed is great, but the laborers are few. Pray~
@@ -71,7 +71,7 @@ You.
 $Qui vivis
 
 [Communio]
-!Ecclus 50:1, 9.
+!Eccl 50:1, 9.
 A great priest, who in his time renovated the house, and in his days reinforced~
 the temple, as a bright fire, and frankincense burning in the fire.
 

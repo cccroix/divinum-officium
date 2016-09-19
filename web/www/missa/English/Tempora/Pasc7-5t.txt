@@ -31,12 +31,12 @@ $Per Dominum eiusdem
 
 [Lectio]
 Lesson from the book of Joel
-!Joel 2:23-24; 26-27
+!Joël 2:23-24; 26-27
 Thus says the Lord God: O children of Sion, exult and rejoice in the Lord, your God! He has given you the teacher of justice: He has made the rain come down for you, the early and the late rain as before. The threshing floors shall be full of grain and the vats shall overflow with wine and oil. You shall eat and be filled, and shall praise the name of the Lord, your God, because He has dealt wondrously with you; My people shall nevermore be put to shame. And you shall know that I am in the midst of Israel; I am the Lord, your God, and there is no other; My people shall nevermore be put to shame, says the Lord almighty.
 
 [Graduale]
 Alleluia, alleluia.
-!Wis 12:1
+!Sap 12:1
 V. O how good and sweet is Your Spirit, O Lord, within us! Alleluia. (Kneel.)
 V. Come, O Holy Spirit, fill the hearts of Your faithful; and kindle in them the~
 fire of Your love.
@@ -46,7 +46,7 @@ fire of Your love.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
-!Luke 5:17-26.
+!Luc 5:17-26.
 At that time, it came to pass on one of the days, that Jesus sat teaching. And~
 there were Pharisees and teachers of the Law sitting by, who had come out of~
 every village of Galilee and Judea and out of Jerusalem. And the power of the~
@@ -78,7 +78,7 @@ Christ, Your Son.
 $Per Dominum eiusdem
 
 [Communio]
-!John 14:18.
+!Joann 14:18.
 I will not leave you orphans; I will come to you again, alleluia: and your heart~
 shall rejoice, alleluia.
 

@@ -15,7 +15,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the book of Wisdom
-!Wis 10:17-20
+!Sap 10:17-20
 God gave the holy ones the recompense of their labors, conducted them by a wondrous road, and became a shelter for them by day and a starry flame by night. He took them across the Red Sea and brought them through the deep waters - but their enemies He drowned in the sea, and cast them up from the bottom of the depths. Therefore the just despoiled the wicked; and they sang, O Lord, Your holy name and praised in unison Your conquering hand, O Lord, our God.
 
 [Graduale]
@@ -23,13 +23,13 @@ God gave the holy ones the recompense of their labors, conducted them by a wondr
 God is glorious in His Saints, wonderful in majesty, a worker of wonders.
 V. Your right hand, O Lord, is magnificent in power; Your right hand has~
 shattered the enemy. Alleluia, alleluia.
-!Sir 44:14
+!Eccl 44:14
 V. The bodies of the Saints are buried in peace, but their name lives on and on.~
 Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
-!Luke 21:9-19
+!Luc 21:9-19
 At that time, Jesus said to His disciples, When you hear of wars and~
 insurrections, do not be terrified; these things must first come to pass, but~
 the end will not be at once. Then He said to them, Nation will rise against~
@@ -57,7 +57,7 @@ them we may be strengthened by Your accepting them.
 $Per Dominum
 
 [Communio]
-!Wis 3:4-6
+!Sap 3:4-6
 For if before men they be punished, God tried them; as gold in the furnace, He~
 proved them, and as sacrificial offerings He took them to Himself.
 

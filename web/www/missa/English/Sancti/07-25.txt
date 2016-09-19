@@ -28,7 +28,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the first letter of St Paul the Apostle to the Corinthians
-!1 Cor. 4:9-15
+!1 Cor 4:9-15
 Brethren: I think God has set forth us the Apostles last of all, as men doomed to death, seeing that we have been made a spectacle to the world, and to angels, and to men. We are fools for Christ, but you are wise in Christ! We are weak, but you are strong! You are honored, but we are without honor! To this very hour we hunger and thirst, and we are naked and buffeted, and have no fixed abode. And we toil, working with our own hands. We are reviled and we bless, we are persecuted and we bear with it, we are maligned and we entreat, we have become as the refuse of this world, the offscouring of all, even until now! I write these things not to put you to shame, but to admonish you as my dearest children. For although you have ten thousand tutors in Christ, yet you have not many fathers. For in Christ Jesus, through the gospel, did I beget you.
 
 [Graduale]
@@ -37,13 +37,13 @@ You shall make them princes through all the land; they shall remember Your name,
 Lord.
 V. The place of your fathers your sons shall have; therefore shall nations~
 praise You. Alleluia, alleluia.
-!John 15:16
+!Joann 15:16
 V. I have chosen you out of the world, that you should go and bear fruit, and~
 that your fruit should remain. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
-!Matt 20:20-23
+!Matth 20:20-23
 At that time, the mother of the sons of Zebedee came to Jesus with her sons; and~
 worshipping, she made a request of Him. He said to her, What do you want? She~
 said to Him, Command that these my two sons may sit, one at Your right hand and~
@@ -65,7 +65,7 @@ prayer make them pleasing to You.
 $Per Dominum
 
 [Communio]
-!Matt 19:28
+!Matth 19:28
 You who have followed Me shall sit on thrones, judging the twelve tribes of~
 Israel.
 

@@ -4,7 +4,7 @@ Commune Plurimorum Martyrum; Sapientiam Sanctorum
 [Rule]
 
 [Introitus]
-!Sir 44:15; 44:14
+!Eccl 44:15; 44:14
 v. Let the people shew forth their wisdom, and the church declare their praise.~
 Their name liveth unto generation and generation.
 !Ps 32:1
@@ -21,7 +21,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the book of Wisdom
-!Wis 5:16-20
+!Sap 5:16-20
 v. But the just shall live for evermore: and their reward is with the Lord, and the care of them with the most High. Therefore shall they receive a kingdom of glory, and a crown of beauty at the hand of the Lord: for with his right hand he will cover them, and with his holy arm he will defend them. And his zeal will take armour, and he will arm the creature for the revenge of his enemies. He will put on justice as a breastplate, and will take true judgment instead of a helmet. He will take equity for an invincible shield:
 
 [Graduale]
@@ -45,7 +45,7 @@ V. They shall come back rejoicing, carrying their sheaves.
 
 [Evangelium]
 Continuation ++ of the Holy Gospel according to Luke
-!Luke 6:17-23
+!Luc 6:17-23
 v. And coming down with them, he stood in a plain place, and the company of his~
 disciples, and a very great multitude of people from all Judea and Jerusalem,~
 and the sea coast both of Tyre and Sidon, Who were come to hear him, and to be~
@@ -72,7 +72,7 @@ We present to thee, O Lord, these gifts for our sacrifice, as honoring thy holy 
 $Per Dominum
 
 [Communio]
-!Luke 12:4
+!Luc 12:4
 v. And I say to you, my friends: Be not afraid of them who kill the body.
 
 [Postcommunio]

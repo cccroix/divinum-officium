@@ -49,7 +49,7 @@ V. I will worship at Your holy temple and give thanks to Your name. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
-!Luke 19:1-10
+!Luc 19:1-10
 At that time, Jesus entered and was passing through Jericho. And behold there~
 was a man named Zacchaeus; and he was a leading publican, and he was rich. And~
 he was trying to see Jesus, Who He was, but could not, on account of the crowd,~
@@ -83,7 +83,7 @@ heaven.
 $Per Dominum
 
 [Communio]
-!Matt 21:13
+!Matth 21:13
 My house shall be called a house of prayer, says the Lord; in it everyone who~
 asks receives: and he who seeks finds, and to him who knocks it shall be opened.
 

@@ -33,7 +33,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the book of Jeremias
-!Jer 1:17-19
+!Jerem 1:17-19
 In those days, the word of the Lord came to me, saying: Gird your loins; stand up and tell Juda all that I command you. Be not crushed on their account, as though I would leave you crushed before them; for it is I this day Who have made you a fortified city, a pillar of iron, a wall of brass, against the whole land; against Juda’s kings and princes, against its priests and people. They will fight against you, but not prevail over you, for I am with you to deliver you, says the Lord.
 
 [Graduale]
@@ -49,7 +49,7 @@ Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Mark
-!Mark 6:17-29
+!Marc 6:17-29
 At that time, Herod had sent and taken John, and bound him in prison, because of~
 Herodias, his brother Philip’s wife, whom he had married. For John had said to~
 Herod, It is not lawful for you to have your brother’s wife. But Herodias laid~

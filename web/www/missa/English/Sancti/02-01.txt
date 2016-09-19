@@ -25,14 +25,14 @@ Lesson from the letter of St Paul the Apostle to the Romans
 Brethren, who shall separate us from the love of Christ? shall tribulation? or distress? or famine? Or nakedness? or danger? Or persecution? or the sword? As it is written: For Thy sake we are put to death all the day long: we are accounted as sheep for the slaughter. But in all these things we overcome because of Him that hath loved us. For I am sure that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, nor might, nor height, nor depth, nor any other creature shall be able to separate us from the love of God, which is in Christ Jesus our Lord.
 
 [Graduale]
-!Ecclus 44:16, 20.
+!Eccl 44:16, 20.
 Behold a great priest, who in his days pleased God.
 V. There was not any found the like to him, who kept the law of the Most High. Alleluia, alleluia.
-!Gal. 2:19-20
+!Gal 2:19-20
 V. With Christ I am nailed to the cross: I live, now not I, but Christ liveth in me. Alleluia.
 
 [Tractus]
-!Ecclus 44:16, 20.
+!Eccl 44:16, 20.
 Behold a great priest, who in his days pleased God.
 V. There was not any found the like to him, who kept the law of the Most High. 
 !Ps 20:3 - 4.
@@ -42,7 +42,7 @@ V. Thou hast set on his head a crown of precious stones.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to John
-!John 12:24-26
+!Joann 12:24-26
 At that time, Jesus said to His disciples: Amen, amen, I say to you, unless the grain of wheat falling into the ground, die, itself remaineth alone: but if it die, it bringeth forth much fruit. He that loveth his life, shall lose it; and he that hateth his life in this world, keepeth it unto life eternal. If any man ministers to Me, let him follow Me; and where I am, there also shall My minister be. If any man minister to Me, him will My Father honor.
 
 [Offertorium]

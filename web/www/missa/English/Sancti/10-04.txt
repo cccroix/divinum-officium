@@ -45,7 +45,7 @@ Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
-!Matt 11:25-30
+!Matth 11:25-30
 At that time, Jesus spoke and said, I praise You, Father, Lord of heaven and~
 earth, that You hid these things from the wise and prudent, and revealed them to~
 little ones. Yes, Father, for such was Your good pleasure. All things have been~
@@ -67,7 +67,7 @@ Francis, cleanse us from every stain of sin.
 $Per Dominum
 
 [Communio]
-!Luke 12:42
+!Luc 12:42
 The faithful and prudent servant whom the master will set over his household to~
 give them their ration of grain in due time.
 

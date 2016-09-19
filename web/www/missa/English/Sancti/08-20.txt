@@ -10,7 +10,7 @@ Gloria
 CredoDA
 
 [Introitus]
-!Ecclus 15:5
+!Eccl 15:5
 v. In the midst of the assembly he opened his mouth; and the Lord filled him~
 with the spirit of wisdom and understanding; He clothed him with a robe of~
 glory.
@@ -29,7 +29,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the book of Ecclesiasticus
-!Ecclus 39:6-14
+!Eccl 39:6-14
 The just man will give his heart to resort early to the Lord his Maker, and he will pray in the sight of the Most High. He will open his mouth in prayer, and will ask pardon for his sins. Then, if it pleases the Lord Almighty, He will fill him with the spirit of understanding; and he will pour forth his words of wisdom as showers, and in prayer give thanks to the Lord, Who will direct his knowledge and his counsel, as he meditates upon His mysteries. He will show the wisdom of what he has learned and glory in the Law of the Lord’s covenant. Many will praise his understanding; his fame can never be effaced; unfading will be his memory, through all generations his name will live; peoples will speak of his wisdom, the assembly will sing his praises.
 
 [Graduale]
@@ -37,13 +37,13 @@ The just man will give his heart to resort early to the Lord his Maker, and he w
 The mouth of the just man tells of wisdom, and his tongue utters what is right.
 V. The law of his God is in his heart, and his steps do not falter. Alleluia,~
 alleluia.
-!Ecclus. 45:9
+!Eccl 45:9
 V. The Lord loved him and adorned him; He clothed him with a robe of glory.~
 Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
-!Matt 5:13-19
+!Matth 5:13-19
 At that time Jesus said to His disciples: "You are the salt of the earth; but if~
 the salt loses its strength, what shall it be salted with? It is no longer of~
 any use but to be thrown out and trodden underfoot by men. You are the light of~
@@ -71,7 +71,7 @@ forgiveness.
 $Per Dominum
 
 [Communio]
-!Luke 12:42
+!Luc 12:42
 The faithful and prudent servant whom the master will set over his household to~
 give them their ration of grain in due time.
 

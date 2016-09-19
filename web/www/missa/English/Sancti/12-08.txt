@@ -8,7 +8,7 @@ Credo
 Prefatio=Maria=Immaculate Conception;
 
 [Introitus]
-!Isa 61:10
+!Isai 61:10
 v. I will heartily rejoice in the Lord, in my God is the joy of my soul; for He~
 has clothed me with a robe of salvation, and wrapped me in a mantle of justice,~
 like a bride bedecked with her jewels.
@@ -39,20 +39,20 @@ upon the earth.
 !Judith 15:10 
 V. You are the glory of Jerusalem, you are the joy of Israel, you~
 are the honor of our people. Alleluia, alleluia.
-!Cant. 4:7 
+!Cant 4:7 
 V. You are all-beautiful, O Mary, and there is in you no stain of~
 original sin. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
-!Luke 1:26-28
+!Luc 1:26-28
 At that time, the angel Gabriel was sent from God to a town of Galilee called~
 Nazareth, to a virgin betrothed to a man named Joseph, of the house of David,~
 and the virgin’s name was Mary. And when the angel come to her, he said, Hail,~
 full of grace, the Lord is with you. Blessed are you among women.
 
 [Offertorium]
-!Luke 1:28
+!Luc 1:28
 Hail Mary full of grace, the Lord is with you; blessed are you among women.~
 Alleluia.
 

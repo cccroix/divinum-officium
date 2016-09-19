@@ -30,7 +30,7 @@ $Qui vivis
 
 [Lectio]
 Lesson from the book of Isaias
-!Isa 11:1-5
+!Isai 11:1-5
 Thus says the Lord God: A shoot shall sprout from the stump of Jesse, and from his roots a bud shall blossom. The spirit of the Lord shall rest upon Him: a spirit of wisdom and of understanding, a spirit of knowledge and of piety, and His delight shall be the fear of the Lord. Not by appearance shall He judge, nor by hearsay shall He decide, but He shall judge the poor with justice, and decide aright for the land’s afflicted. He shall strike the ruthless with the rod of His mouth, and with the breath of His lips He shall slay the wicked. Justice shall be the band around His waist, and faithfulness a belt upon His hips.
 
 [Graduale]
@@ -41,7 +41,7 @@ Jacob.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
-!Luke 1:39-47
+!Luc 1:39-47
 At that time, Mary arose and went with haste into the hill country, to a town of~
 Juda. And she entered the house of Zachary and saluted Elizabeth. And it came to~
 pass, when Elizabeth heard the greeting of Mary, that the babe in her womb~

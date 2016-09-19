@@ -10,7 +10,7 @@ Credo
 Prefatio=Nat
 
 [Introitus]
-!Wis 18:14 - 15.
+!Sap 18:14 - 15.
 v. When a profound stillness compassed everything and the night in its swift~
 course was half spent, Your all-powerful Word, O Lord, bounded from heaven’s~
 royal throne.
@@ -44,7 +44,7 @@ with strength. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
-!Luke 2:33-40
+!Luc 2:33-40
 At that time, Joseph and Mary, the mother of Jesus were marvelling at the things~
 spoken concerning Him. And Simeon blessed them, and said to Mary His mother,~
 Behold, this Child is destined for the fall and for the rise of many in Israel,~
@@ -72,7 +72,7 @@ happiness.
 $Per Dominum
 
 [Communio]
-!Matt 2:20
+!Matth 2:20
 Take the Child and His mother, and go into the land of Israel, for those who~
 sought the Child’s life are dead.
 

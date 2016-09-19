@@ -10,7 +10,7 @@ Credo
 Suffr=Maria1;Ecclesiae,Papa;;
 
 [Introitus]
-!Phil. 4:4-6
+!Phil 4:4-6
 v. Rejoice in the Lord always: again I say, rejoice. Let you moderation be known~
 to all men: for the Lord is near. Have no anxiety, but in everything, by prayer~
 let your petitions be made known to God.
@@ -45,7 +45,7 @@ V. O Shepherd of Israel, hearken, O Guide of the flock of Joseph!
 
 [Evangelium]
 Continuation + of the Holy Gospel according to John
-!John 1:19-28
+!Joann 1:19-28
 At that time, the Jews sent to John from Jerusalem priests and Levites to ask~
 him, Who are you? And he acknowledged and did not deny; and he acknowledged, I~
 am not the Christ. And they asked him, What then? Are you Elias? And he said, I~
@@ -72,7 +72,7 @@ observed, and the work of Your salvation may be wonderfully effective within us.
 $Per Dominum
 
 [Communio]
-!Isa 35:4
+!Isai 35:4
 Say to those who are frightened: Be strong, fear not! Here is our God, He comes~
 to save us.
 

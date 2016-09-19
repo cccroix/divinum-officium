@@ -25,7 +25,7 @@ $Qui tecum
 
 [Lectio]
 Lesson from the letter of St Paul the Apostle to Titus
-!Titus 3:4-7
+!Tit 3:4-7
 Beloved: When the goodness and kindness of God our Savior appeared, then not by reason of good works that we did ourselves, but according to His mercy, He saved us through the bath of regeneration and renewal by the Holy Spirit; Whom He has abundantly poured out upon us through Jesus Christ our savior, in order that, justified by His grace, we may be heirs in the hop of everlasting , in Christ Jesus, our Lord.
 
 [Graduale]
@@ -51,7 +51,7 @@ V. O Mother of God, intercede for us.
 
 [Evangelium]
 Continuation ++ of the Holy Gospel according to Luke
-!Luke 2:15-20
+!Luc 2:15-20
 At that time, the shepherds were saying to one another, Let us go over to~
 Bethlehem and see this thing that has come to pass, which the Lord has made~
 known to us. So they went with haste, and the found Mary and Joseph, and the~

@@ -33,7 +33,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the book of Ecclesiasticus
-!Eccli 24:5; 14:7; 14:9-11; 24:30-31
+!Eccl 24:5; 14:7; 14:9-11; 24:30-31
 From the mouth of the Most High I came forth, the firstborn before all creatures. In the highest heavens did I dwell, my throne on a pillar cloud. Over all the land, over every people and nation I held sway, and by my power I have trodden under my feet the hearts of all the high and low. He who obeys me will not be put to shame, and they who work by me shall not sin. They who explain my shall have life everlasting.
 
 [GradualeP]
@@ -43,7 +43,7 @@ Alleluia.
 V. Now with Him you reign forever. Alleluia.
 
 [Graduale]
-!Rev 19:16; Ps 44:10
+!Apoc 19:16; Ps 44:10
 He has on His garment and on His thigh a name written: King of kings and Lord of~
 lords.
 V. The Queen takes her place at His right hand, in gold of Ophir. Alleluia,~
@@ -53,7 +53,7 @@ of death. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
-!Luke 1:26-33
+!Luc 1:26-33
 At that time, the angel Gabriel was sent from God to a town of Galilee called~
 Nazareth, to a virgin betrothed to a man named Joseph, of the house of David,~
 and the virgin’s name was Mary. And when the angel had come to her, he said,~
@@ -78,7 +78,7 @@ helpful for our salvation.
 $Per Dominum
 
 [Communio]
-!Matt 19:28-29
+!Matth 19:28-29
 Most worthy Queen of the world, Mary ever Virgin, who have borne Christ the Lord,~
 the Savior of all, intercede for our peace and salvation. (Alleluia.)
 

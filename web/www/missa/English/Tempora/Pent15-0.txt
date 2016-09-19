@@ -38,7 +38,7 @@ Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
-!Luke 7:11-16
+!Luc 7:11-16
 At that time, Jesus went to a town called Naim; and His disciples and a large~
 crowd went with Him. And as He drew near the gate of the town, behold, a dead~
 man was being carried out, the only son of his mother, and she was a widow; and a~
@@ -60,7 +60,7 @@ devil.
 $Per Dominum
 
 [Communio]
-!John 6:52
+!Joann 6:52
 The bread that I will give is My Flesh for the life of the world.
 
 [Postcommunio]

@@ -23,7 +23,7 @@ $Qui tecum
 
 [Lectio]
 Lesson from the letter of St Paul the Apostle to Titus
-!Titus 2:11-15
+!Tit 2:11-15
 Beloved: The grace of God our Savior has appeared to all men, instructing us, in order that, rejecting ungodliness and worldly lusts, we may live temperately and justly and piously in this world; looking for the blessed hope and glorious coming of our great God and Savior, Jesus Christ, Who gave Himself for us that He might redeem us from all iniquity and cleanse for Himself and acceptable people, pursuing good works. Thus speak, and exhort, in Christ Jesus our Lord.
 
 [Graduale]
@@ -37,7 +37,7 @@ The Lord said to Me, You are My Son; this day I have begotten You. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
-!Luke 2:1-14
+!Luc 2:1-14
 At that time, there went forth a decree from Caesar Augustus that a census of~
 the whole world should be taken. This first census took place while Cyrinus was~
 governor of Syria. And all were going, each to his own town, to register. And~

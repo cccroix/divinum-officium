@@ -39,7 +39,7 @@ Alleluia.
 
 [Evangelium]
 Continuation of the Holy Gospel according to St. Matthew
-!Matt 13:24-30
+!Matth 13:24-30
 At that time, Jesus spoke this parable to the crowds: The kingdom of heaven is~
 like a man who sowed good seed in his field; but while men were asleep, his~
 enemy came and sowed weeds among the wheat, and went away. And when the blade~
@@ -63,7 +63,7 @@ absolve our sins and direct our faltering hearts.
 $Per Dominum
 
 [Communio]
-!Luke 4:22
+!Luc 4:22
 They all marveled at these things that came from the mouth of God.
 
 [Postcommunio]

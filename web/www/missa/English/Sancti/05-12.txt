@@ -8,7 +8,7 @@ Ss. Nereus, Achilleus and Pancras martyrs;;Simplex;;1.1;;vide C3
 Gloria
 
 [Introitus]
-!Ps. 32:18-20.
+!Ps 32:18-20.
 v. But see, the eyes of the Lord are upon those who fear Him, upon those who~
 hope in His kindness, alleluia: to deliver them from death; for He is our help~
 and our shield, alleluia, alleluia.
@@ -26,7 +26,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the book of Wisdom
-!Wis 5:1-5.
+!Sap 5:1-5.
 The just shall stand with great assurance before their oppressors who set at nought their labors. Seeing this, these shall be shaken with dreadful fear, and amazed at the suddenness of the unlooked-for salvation. They shall say among themselves, rueful and groaning through anguish of spirit: These are they whom once we held as a laughingstock and as a type for mockery, fools that we were! Their life we deemed madness, and their death dishonored. See how they are accounted among the sons of God; how their lot is with the Saints!
 
 [Graduale]
@@ -37,7 +37,7 @@ V. The white-robed army of Martyrs praises You, O Lord. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to John
-!John 4:46 - 53.
+!Joann 4:46 - 53.
 At that time, there was a certain royal official whose son was lying sick at~
 Capharnaum. When he heard that Jesus had come from Judea into Galilee, he went~
 to him and besought Him to come down and heal his son, for he was at the point~
@@ -52,7 +52,7 @@ very hour in which Jesus had said to him, Your son lives. And he himself~
 believed, and his whole household.
 
 [Offertorium]
-!Ps. 88:6
+!Ps 88:6
 The heavens proclaim Your wonders, O Lord, and Your faithfulness, in the~
 assembly of the holy ones, alleluia, alleluia, alleluia.
 
@@ -63,7 +63,7 @@ to You and to assure us of Your everlasting mercy.
 $Per Dominum
 
 [Communio]
-!Ps. 32:1
+!Ps 32:1
 Exult, you just, in the Lord, alleluia: praise from the upright is fitting,~
 alleluia.
 

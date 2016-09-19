@@ -33,7 +33,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the letter of St Paul the Apostle to the Romans
-!Rom. 11:33-36.
+!Rom 11:33-36.
 Oh, the depth of the riches of the wisdom and of the knowledge of God! How incomprehensible and His judgments and how unsearchable His ways! For Who has known the mind of the Lord, or who has been His counselor? Or who has first given to Him, that recompense should be made him? For from Him and through Him and unto Him are all things. To Him be the glory forever, amen.
 
 [Graduale]
@@ -48,7 +48,7 @@ Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
-!Matt 28:18-20
+!Matth 28:18-20
 At that time, Jesus said to His disciples: All power in heaven and on earth has~
 been given to Me. Go, therefore, and make disciples of all nations, baptizing~
 them in the Name of the Father, and of the Son, and of the Holy Spirit, teaching~
@@ -56,7 +56,7 @@ them to observe all that I have commanded you; and behold, I am with you all~
 days, even unto the consummation of the world.
 
 [Offertorium]
-!Tob. 12:6.
+!Tob 12:6.
 Blessed be God the Father, and the only-begotten Son of God, and also the Holy~
 Spirit: because He has shown His mercy to us.
 

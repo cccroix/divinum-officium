@@ -12,7 +12,7 @@ Prefatio=Nat
 Prefatio1960=Trinitate
 
 [Introitus]
-!Ps. 17:19-20.
+!Ps 17:19-20.
 v. The Lord came to my support. He set me free in the open, and rescued me,~
 because He loves me.
 !Ps 17:2-3
@@ -32,7 +32,7 @@ Lesson from the first letter of St John the Apostle
 Beloved: Do not be surprised if the world hates you. We know that we have passed from death to life, because we love the brethren. He who does not love abides in death. Everyone who hates his brother is a murderer. And you know that no murderer has eternal life abiding in him. In this we have come to know His love, that He laid down His life for us; and we likewise ought to lay down our life for the brethren. He who has the goods of this world and sees his brother in need and closes his heart to him, how does the love of God abide in him? My dear children, let us not love in word, neither with the tongue, but in deed and in truth.
 
 [Graduale]
-!Ps. 119:1-2.
+!Ps 119:1-2.
 In my distress I called to the Lord, and He answered me.
 V. O Lord, deliver me from lying lip, from treacherous tongue. Alleluia,~
 alleluia.
@@ -42,7 +42,7 @@ me. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
-!Luke 14:16-24.
+!Luc 14:16-24.
 At that time, Jesus spoke to the Pharisees this parable: A certain man gave a~
 great supper, and he invited many. And he sent his servant at supper time to~
 tell those invited to come, for everything is now ready. And they all with one~
@@ -60,7 +60,7 @@ filled. For I tell you that none of those who were invited shall taste of my~
 supper.’
 
 [Offertorium]
-!Ps. 6:5.
+!Ps 6:5.
 Return, O Lord, save my life; rescue me because of Your kindness.
 
 [Secreta]
@@ -69,7 +69,7 @@ pure, and day by day help us to live a more heavenly life.
 $Per Dominum
 
 [Communio]
-!Ps. 12:6.
+!Ps 12:6.
 I will sing of the Lord, He has been good to me; and I will sing to the Name of~
 the Lord the Most High.
 

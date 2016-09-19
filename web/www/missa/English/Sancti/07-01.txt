@@ -29,7 +29,7 @@ $Per endem
 
 [Lectio]
 Lesson from the letter of St Paul the Apostle to the Jews
-!Heb 9:11-15
+!Hebr 9:11-15
 Brethren: When Christ appeared as High Priest of the good things to come, He entered once for all through the greater and more perfect tabernacle, not made by hands (that is, not of this creation), nor again by virtue of blood of goats and calves, but by virtue of His own blood, into the Holies, having obtained eternal redemption. For if the blood of goats and bulls and the sprinkled ashes of a heifer sanctify the unclean unto the cleansing of the flesh, how much more will the blood of Christ, Who through the Holy Spirit offered Himself unblemished unto God, cleanse your conscience from dead works to serve the living God? And this is why He is mediator of a new covenant, that whereas a death has taken place for redemption from the transgressions committed under the former covenant, they who have been called may receive eternal inheritance according to the promise, in Christ Jesus our Lord.
 
 [Graduale]
@@ -45,7 +45,7 @@ greater. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to John
-!John 19:30-35
+!Joann 19:30-35
 At that time, when Jesus had taken the wine, He said, It is consummated! And~
 bowing His head, He gave up His spirit. The Jews therefore, since it was the~
 Preparation Day, in order that the bodies might not remain upon the cross on the~
@@ -58,7 +58,7 @@ immediately there came out Blood and water. And he who saw it has borne witness,
 and his witness is true.
 
 [Offertorium]
-!1 Cor. 10:16
+!1 Cor 10:16
 The Cup of blessing that we bless, is it not the sharing of the Blood of Christ?~
 And the Bread that we break, is it not the partaking of the Body of the Lord?~
 ~(Alleluia.)
@@ -70,7 +70,7 @@ sprinkling of blood more eloquent than that of Abel.
 $Per eundem
 
 [Communio]
-!Heb 9:28
+!Hebr 9:28
 Christ was offered once to take away the sins of many; the second time with no~
 part in sin He will appear unto the salvation of those who await Him. (Alleluia.)
 

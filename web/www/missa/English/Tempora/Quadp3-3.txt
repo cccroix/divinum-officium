@@ -44,12 +44,12 @@ _
 _
 !Postea Celebrans, imposito incenso in thuribulo, ter aspergit cineres aqua benedícta, dicendo Antiphonam Aspérges, sine cantu et sine Psalmo, et ter adolet incenso. Deinde dignior Sacerdos ex Clero accedens ad Altare, imponit cineres Celebranti non genuflexo. Si vero non adsit alius Sacerdos, ipsemet Celebrans, genibus flexis coram Altari, sibi ipsi cineres imponit in capite, nihil dicens, et cantatur statim a choro:
 !Antiphona.
-!Joel 2:13
+!JoÃ«l 2:13
 Let us change our garment for ashes and sackcloth: let us fast and lament before the Lord: for our God is plenteous in mercy to forgive sins.
 _
 _
 !Alia Antiph.
-!Joel 2:17
+!JoÃ«l 2:17
 Between the porch and the altar the priests the Lord's ministers shall weep, and shall say: Spare, O Lord, spare thy people: and shut not the mouths of them that sing to thee, O Lord?
 _
 _
@@ -61,7 +61,7 @@ Help us, O God, our saviour: and for the glory of thy name, O Lord, deliver us: 
 V. Glory be to the Father, and to the Son, * and to the Holy Ghost. Listen, O Lord.
 !Sacerdos vero, dum cantantur Antiphonæ et Responsorium, detecto capite, primo imponit cineres digniori Sacerdoti, a quo ipse accepit, deinde Ministris paratis, genibus flexis coram Altari, dicens:
 !Imposition of the Ashes.
-!Gen. 3:19 
+!Gen 3:19 
 Remember, man, that you are dust and into dust you shall return.
 _
 _
@@ -71,7 +71,7 @@ v. Let us pray.
 Grant us, O Lord, to take up our duty as soldiers of Christ by holy fasting that we, who are going to struggle with the evil spirits, may be protected by the help of self-restraint. Through Christ our Lord.
 
 [Introitus]
-!Wis 11:24-25, 27.
+!Sap 11:24-25, 27.
 v. You have mercy on all, O Lord, and hate none of the things which You have~
 made, overlooking the sins of men for the sake of repentance, and sparing them:~
 because You are the Lord our God.
@@ -89,7 +89,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the book of Joel
-!Joel 2:12-19
+!JoÃ«l 2:12-19
 Thus says the Lord: Return to Me with your whole heart, with fasting, and weeping, and mourning; rend your hearts, not your garments, and return to the Lord, your God. For gracious and merciful is He, slow to anger, rich in kindness, and relenting in punishment. Perhaps He will again relent and leave behind Him a blessing, offerings and libations for the Lord, your God. Blow the trumpet in Sion! proclaim a fast, call an assembly; gather the people, notify the congregation; assemble the elders, gather the children and the infants at the breast; let the bridegroom quit his room, and the bride her chamber. Between the porch and the altar let the priests, the ministers of the Lord, weep, and say, ‘Spare, O Lord, Your people, and make not Your heritage a reproach, with the nations ruling over them! Why should they say among the peoples: Where is their God?’ Then the Lord was stirred to concern for His land and took pity on His people. The Lord answered and said to His people: See, I will send you grain, and wine, and oil, and you shall be filled with them; no more will I make you a reproach among the nations, say the Lord almighty.
 
 [Graduale]
@@ -109,7 +109,7 @@ deliver us and pardon our sins for Your Name’s sake.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
-!Matt. 6:16-21
+!Matth 6:16-21
 At that time, Jesus said to His disciples, When you fast, do not look gloomy~
 like the hypocrites, who disfigure their face in order to appear to men as~
 fasting. Amen I say to you, they have received their reward. But you, when you~

@@ -25,7 +25,7 @@ $Per Dominum eiusdem
 
 [Lectio]
 Lesson from the letter of St Paul the Apostle to the Jews
-!Heb 5:1-6
+!Hebr 5:1-6
 Brethren: For every high priest taken from among men is appointed for men in the things pertaining to God, that he may offer gifts and sacrifices for sins. He is able to have compassion on the ignorant and erring, because he himself also is beset with weakness, and by reason thereof is obliged to offer for sins, as on behalf of the people, so also for himself. And no man takes the honor to himself; he takes it who is called by God, as Aaron was. So also Christ did not glorify Himself with the high priesthood, but He Who spoke to Him, Thou are My Son, I this day have begotten Thee. As He says also in another place, Thou are a priest forever, according to the order of Melchisedech.
 
 [Graduale]
@@ -38,7 +38,7 @@ V. This is the priest who the Lord has crowned. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to John
-!John 10:11-16
+!Joann 10:11-16
  At that time, Jesus said to the Pharisees: I am the Good Shepherd. The good~
 shepherd lays down his life for his sheep. But the hireling, who is not a~
 shepherd, whose own the sheep are not, sees the wolf coming and leaves the sheep~
@@ -50,7 +50,7 @@ that are not of this fold. Them also I must bring, and they shall hear My voice,
 and there shall be one fold and one Shepherd.
 
 [Offertorium]
-!John 15:13
+!Joann 15:13
 Greater love than this no one has, that one lay down his life for his friends.
 
 [Secreta]
@@ -60,7 +60,7 @@ of his blood.
 $Per Dominum
 
 [Communio]
-!John 10:14
+!Joann 10:14
 I am the Good Shepherd, and I know My sheep, and Mine know Me.
 
 [Postcommunio]

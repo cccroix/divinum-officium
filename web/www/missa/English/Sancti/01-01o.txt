@@ -14,7 +14,7 @@ Credo
 Prefatio=Nat
 
 [Introitus]
-!Isa 9:6
+!Isai 9:6
 v. A Child is born to us, a Son is given to us; upon His shoulder dominion rests; and His name shall be called the Angel of great counsel. 
 !Ps 97:1 
 Sing to the Lord a new song, for He has done wondrous deeds. 
@@ -27,19 +27,19 @@ $Qui tecum
 
 [Lectio]
 Lesson from the letter of St Paul the Apostle to Titus
-!Titus 2:11-15
+!Tit 2:11-15
 Beloved: The grace of God our Savior has appeared to all men, instructing us, in order that, rejecting ungodliness and worldly lusts, we may live temperately and justly and piously in this world; looking for the blessed hope and glorious coming of our great God and Savior, Jesus Christ, Who gave Himself for us that He might redeem us from all iniquity and cleanse for Himself an acceptable people, pursuing good works. Thus speak, and exhort, in Christ Jesus our Lord.
 
 [Graduale]
 !Ps 97:3-4, 2.
 All the ends of the earth have seen the salvation by our God. Sing joyfully to God, all you lands. 
 V. The Lord has made His salvation known: in the sight of the nations He has revealed His justice. Alleluia, alleluia. 
-!Heb 1:1-2 
+!Hebr 1:1-2 
 V. God, Who in diverse ways spoke in times past to the fathers by the prophets; last of all, in these days, has spoken to us by His Son. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
-!Luke 2:21
+!Luc 2:21
 At that time, when eight days were fulfilled for the circumcision of the Child, His name was called Jesus, the name given Him by the angel before He was conceived in the womb.  
 
 [Offertorium]

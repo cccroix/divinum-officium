@@ -27,7 +27,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the book of Ecclesiasticus
-!Ecclus 51:13-17
+!Eccl 51:13-17
 O Lord, my God, You have exalted my dwelling place upon the earth, and I have prayed for death to pass away. I called upon the Lord, the Father of my Lord, that He would not abandon me in the day of my trouble, and in the time of the proud without help. I will ever praise Your name, and will praise it with thanksgiving; and my prayer was heard. And You saved me from destruction, and delivered me from the evil time. For this reason I thank You and I praise You, O Lord, our God.
 
 [Graduale]
@@ -40,7 +40,7 @@ V. This is a wise virgin, and one of the number of the prudent. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
-!Matt 13:44-52
+!Matth 13:44-52
 At that time, Jesus spoke this parable to His disciples: The kingdom of heaven~
 is like a treasure hidden in a field; he who finds it hides it, and in his joy~
 goes and sells all that he has and buys that field. Again, the kingdom of heaven~

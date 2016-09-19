@@ -18,7 +18,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the book of Wisdom
-!Wis 10:10-14
+!Sap 10:10-14
 She conducted the just, when he fled from his brother's wrath, through the right ways, and shewed him the kingdom of God, and gave him the knowledge of the holy things, made him honourable in his labours, and accomplished his labours. In the deceit of them that overreached him, she stood by him, and made him honourable. She kept him safe from his enemies, and she defended him from seducers, and gave him a strong conflict, that he might overcome, and know that wisdom is mightier than all. She forsook not the just when he was sold, but delivered him from sinners: she went down with him into the pit. And in bands she left him not, till she brought him the sceptre of the kingdom, and power against those that oppressed him: and shewed them to be liars that had accused him, and gave him everlasting glory.
  
 [Graduale]
@@ -37,7 +37,7 @@ V. Thou hast set on his head a crown of precious stones.
 
 [Evangelium]
 Continuation ++ of the Holy Gospel according to Matthew
-!Matt 10:34-42 
+!Matth 10:34-42 
 In that time: Jesus said to his disciples: Do not think that I came to send peace upon earth: I came not to send peace, but the sword. For I came to set a man at variance against his father, and the daughter against her mother, and the daughter in law against her mother in law. And as a man's enemies shall be they of his own household. He that loveth father or mother more than me, is not worthy of me; and he that loveth son or daughter more than me, is not worthy of me. And he that taketh not up his cross, and followeth me, is not worthy of me. He that findeth his life, shall lose it: and he that shall lose his life for me, shall find it. He that receiveth you, receiveth me: and he that receiveth me, receiveth him that sent me. He that receiveth a prophet in the name of a prophet, shall receive the reward of a prophet: and he that receiveth a just man in the name of a just man, shall receive the reward of a just man. And whosoever shall give to drink to one of these little ones a cup of cold water only in the name of a disciple, amen I say to you, he shall not lose his reward.
 
 [Offertorium]
@@ -49,7 +49,7 @@ As thou hast received our gifts and prayers, O Lord, cleanse us, we ask by thy h
 $Per Dominum
 
 [Communio]
-!Matt 16:24
+!Matth 16:24
 He who wishes to come after Me, let him deny himself, and take up his cross, and~
 follow Me.
 

@@ -6,7 +6,7 @@ vide C5;;
 9 lectiones
 
 [Introitus]
-!Ecclus 11:13
+!Eccl 11:13
 v. The eye of God looks favorably upon him; He raises him free of the vile dust, and lifts up his head to the amazement of the many who glorify God.
 !Ps 72:1
 How good is God to Israel, to those who are clean of heart!
@@ -42,11 +42,11 @@ V. You have made him little less than the angels, and crowned him with glory and
 Alleluia, alleluia.
 !Ps 8:6-7
 V. O Lord, You have made him little less than the angels, and crowned him with glory and honor. You have given him rule over the works of Your hands. Alleluia.
-!Sir. 11:24 God’s blessing is the lot of the just man, and in due time his hopes bear fruit. Alleluia.
+!Eccl 11:24 God’s blessing is the lot of the just man, and in due time his hopes bear fruit. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Mark
-!Mark 10:13-21
+!Marc 10:13-21
  At that time, they were bringing little children to Jesus that He might touch them; but the disciples rebuked those who brought them. But when Jesus saw them, He was indignant, and said to them, Let the little children come to Me, and do not hinder them, for of such is the kingdom of God. Amen I say to you, whoever does not accept the kingdom of God as a little child will not enter into it. And He put His arms about them, He began to bless them.  And as he was going forth on His journey, a certain man running up fell upon his knees before Him, and asked Him, Good Master, what shall I do to gain eternal life? But Jesus said to him, Why do you call Me good? No one is good but only God. You know the commandments: You shall not commit adultery. You shall not kill. You shall not steal. You shall not bear false witness. You shall not defraud. Honor your father and mother. And he answered and said, ‘Master, all these I have kept ever since I was a child. And Jesus, looking upon him, loved him, and said to him, One thing is lacking to you; go, sell whatever you have, and give to the poor, and you shall have treasure in heaven; and come, follow Me.
 
 [Offertorium]
@@ -58,7 +58,7 @@ O Lord, make us who offer You the saving sacrificial gifts in memory of blessed 
 $Qui vivis
 
 [Communio]
-!Rev 3:20
+!Apoc 3:20
 Behold, I stand at the door and knock. If any man listens to My voice and opens the door to Me, I will come in to him and will sup with him, and he with Me.
 
 [Postcommunio]

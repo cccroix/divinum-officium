@@ -11,7 +11,7 @@ Credo
 Prefatio=Nat
 
 [Introitus]
-!Isa 9:6
+!Isai 9:6
 v. A Child is born to us, a Son is given to us; upon His shoulder dominion rests;~
 and His name shall be called the Angel of great counsel.
 !Ps 97:1
@@ -28,7 +28,7 @@ $Per eundem
 
 [Lectio]
 Lesson from the letter of St Paul the Apostle to Titus
-!Titus 3:4-7
+!Tit 3:4-7
 Dearly beloved: When the goodness and kindness of God our Savior appeared, then not by reason of good works that we did ourselves, but according to His mercy, He saved us through the bath of regeneration and renewal by the Holy Spirit; Whom He has abundantly poured out upon us through Jesus Christ our Savior, in order that, justified by His grace, we may be heirs in the hope of life everlasting, in Christ Jesus our Lord.
 
 [Graduale]
@@ -42,7 +42,7 @@ for this day a great light has descended upon the earth. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
-!Luke 2:15-20
+!Luc 2:15-20
 At that time, the shepherds were saying to one another, Let us go over to~
 Bethlehem and see this thing that has come to pass, which the Lord has made~
 known to us. So they went with haste, and they found Mary and Joseph, and the~
