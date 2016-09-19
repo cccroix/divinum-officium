@@ -22,7 +22,7 @@ $Per Dominum eiusdem
 
 [Lectio]
 Lettura degli Atti degli Apostoli.
-!Acts 2:1-11
+!Act 2:1-11
 Giunto il giorno di Pentecoste, tutti i discepoli stavano insieme nello stesso luogo: e improvvisamente si sentí un suono, come di un violento colpo di vento: che riempí tutta la casa ove erano seduti. Ed apparvero loro delle lingue come di fuoco, che, divise, si posarono su ciascuno di essi, cosicché furono tutti ripieni di Spirito Santo e incominciarono a parlare in altre lingue, secondo che lo Spirito concedeva loro. Soggiornavano allora in Gerusalemme molti Giudei, uomini religiosi di tutte le nazioni della terra. A tale suono si radunò molta gente, e rimase attònita, perché ciascuno li udiva parlare nella propria lingua. E si stupivano tutti, e si meravigliavano, dicendo: Costoro che parlano, non sono tutti Galilei? E come mai ciascuno di noi ha udito il suo linguaggio natio? Parti, Medi ed Elamiti, abitanti della Mesopotamia, della Giudea e della Cappadocia, del Ponto e dell’Asia, della Frigia, della Panfilia, dell’Egitto e della Libia, che è intorno a Cirene, e pellegrini Romani, tanto Giudei come proseliti, Cretesi ed Arabi: come mai abbiamo udito costoro discorrere nelle nostre lingue delle grandezze di Dio?
 
 [Graduale]
@@ -76,7 +76,7 @@ Amen. Allelúia.
 
 [Evangelium]
 Séguito ++ del S. Vangelo secondo Giovanni.
-!Joannes 14:23-31
+!Joann 14:23-31
 In quel tempo: Gesú disse ai suoi discepoli: Chiunque mi ama osserverà la mia parola, e il Padre mio lo amerà, e verremo da lui, e faremo dimora presso di lui. Chi non mi ama non osserva le mie parole. E la parola che udiste non è mia, ma del Padre che mi ha mandato. Queste cose vi ho detto mentre vivevo con voi. Il Paràclito, poi, lo Spirito Santo che il Padre manderà nel nome mio, insegnerà a voi ogni cosa, e vi ricorderà tutto quello che vi ho detto. Vi lascio la pace, vi dò la mia pace: ve la dò non come la dà il mondo. Non si turbi il vostro cuore, né si impaurisca. Avete udito che vi ho detto: Vado e vengo a voi. Se voi mi amaste, vi rallegrereste certamente che io vado al Padre, perché il Padre è maggiore di me. Ve l’ho detto adesso, prima che succeda: affinché quando ciò sia avvenuto crediate. Non parlerò ancora molto con voi. Viene il príncipe di questo mondo e non ha alcun potere su di me; ma bisogna che il mondo sappia che amo il Padre e agisco conformemente al mandato che il Padre mi ha dato.
 
 [Offertorium]
@@ -88,7 +88,7 @@ Santifica, Te ne preghiamo, o Signore, i doni che Ti vengono offerti, e monda i 
 $Per Dominum eiusdem
 
 [Communio]
-!Acts 2:2; 2:4
+!Act 2:2; 2:4
 Improvvisamente, nel luogo ove si trovavano, venne dal cielo un suono come di un vento impetuoso, allelúia: e furono ripieni di Spirito Santo, e decantavano le meraviglie del Signore, allelúia, allelúia.
 
 [Postcommunio]

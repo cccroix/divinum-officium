@@ -5,7 +5,7 @@ In Vigilia Nativitatis Domini;;Duplex I classis;;6
 Tempora none
 
 [Introitus]
-!Exod 16:6; 16:7
+!Ex 16:6; 16:7
 v. Oggi saprete che verrà il Signore e ci salverà: e domattina vedrete la sua gloria.
 !Ps 23:1
 I cieli narrano la gloria di Dio: e il firmamento proclama l’òpera della sue mani.
@@ -22,7 +22,7 @@ Lettura della Lettera del B. Paolo Ap. ai Romani
 Paolo, servo di Gesù Cristo, Apostolo prescelto e assegnato all’annuncio del Vangelo di Dio, che Dio aveva già promesso nelle sacre Scritture per mezzo dei Profeti, a riguardo di Suo Figlio, nato secondo la carne dalla progenie di Davide: costituito Figlio di Dio nella Sua potenza secondo lo spirito di santificazione, mediante la resurrezione dei morti: Gesù Cristo nostro Signore: per il quale abbiamo ricevuto la grazia e l’apostolato presso tutti Gentili affinché si facciano obbedienti alla fede nel Suo nome, e tra cui siete anche voi che siete stati chiamati a Gesù Cristo nostro Signore.
 
 [Graduale]
-!Exod 16:6; 16:7
+!Ex 16:6; 16:7
 Oggi saprete che verrà il Signore e ci salverà: e domattina vedrete la sua gloria.
 !Ps 79:2-3
 Ascolta: o Tu che reggi Israele: Tu che guidi Giuseppe come un gregge: che hai per trono i Cherubini: móstrati a Efraim, Beniamino e Manasse. 
@@ -30,7 +30,7 @@ V. Domani verrà tolta l’iniquità dalla terra: e regnerà su di noi il Salvat
 
 [Evangelium]
 Séguito ++ del S. Vangelo secondo Matteo.
-!Matt 1:18-21
+!Matth 1:18-21
 Quando Maria, Madre di Gesù, si sposò con Giuseppe, prima di abitare con lui fu trovata incinta per virtù dello Spirito Santo. Ora, Giuseppe, suo marito, essendo giusto e non volendo accusarla, pensò di rimandarla segretamente. Mentre pensava a questo, ecco apparirgli in sogno un Angelo del Signore, che gli disse: Giuseppe, figlio di Davide, non temere di prendere Maria in sposa: poiché quel che è nato in lei è opera dello Spirito Santo. Ella partorirà un figlio che chiamerai Gesù: poiché egli libererà il suo popolo dai suoi peccati.
 
 [Offertorium]
@@ -42,7 +42,7 @@ Concedici, Dio onnipotente, Te ne preghiamo, che come preveniamo l’adorata nas
 $Qui tecum
 
 [Communio]
-!Isa 40:5
+!Isai 40:5
 Si manifesterà la gloria del Signore: e ogni vivente vedrà la salvezza del nostro Dio.
 
 [Postcommunio]

@@ -8,7 +8,7 @@ Prefatio=Trinitate
 Suffr=Sanctorum;Maria3,Ecclesiae,Papa;;
 
 [Introitus]
-!Jer 29:11; 29:12; 29:14
+!Jerem 29:11; 29:12; 29:14
 v. Dice il Signore: Io ho pensieri di pace e non di afflizione: mi invocherete e io vi esaudirò: vi ricondurrò da tutti i luoghi in cui siete stati condotti.
 !Ps 84:2
 Hai benedetta la tua terra, o Signore: hai distrutta la schiavitú di Giacobbe.
@@ -33,7 +33,7 @@ Dal profondo Ti invoco, o Signore: o Signore, esaudisci la mia preghiera. Allel�
 
 [Evangelium]
 Séguito ++ del S. Vangelo secondo Matteo.
-!Matt 9:18-26
+!Matth 9:18-26
 In quel tempo: Mentre Gesú parlava alle turbe, ecco che uno dei capi gli si accostò e lo adorò, dicendo: Signore, or ora mia figlia è morta: ma vieni, imponi la tua mano su di essa, e vivrà. Gesú, alzatosi, gli andò dietro con i suoi discepoli. Quand’ecco una donna, che da dodici anni pativa una perdita di sangue, gli si accostò da dietro, e toccò il lembo della sua veste. Diceva infatti tra sé: Solo che io tocchi la sua veste e sarò guarita. E Gesú, rivoltosi e miràtala, le disse: Abbi fiducia, o figlia, la tua fede ti ha salvata. E da quel momento la donna fu salva. Giunto che fu alla casa del capo, vedendo dei suonatori e una turba di gente rumoreggiante, disse: Ritiratevi, poiché la fanciulla non è morta, ma dorme. E lo deridevano. Ma dopo che la gente venne fatta sgombrare, Egli entrò, prese la giovane per mano ed ella si alzò. E la fama di ciò si diffuse per tutto quel paese.
 
 [Offertorium]

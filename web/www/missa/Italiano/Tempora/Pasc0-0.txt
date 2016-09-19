@@ -7,7 +7,7 @@ Credo
 Prefatio=Pasch
 
 [Introitus]
-!Ps. 1:38; 1:18; 1:5-6
+!Ps 1:38; 1:18; 1:5-6
 v. Son risorto e sono ancora con te, allelúia: ponesti la tua mano su di me, allelúia: miràbile si è dimostrata la tua scienza, allelúia, allelúia.
 !Ps 1:1-2.
 O Signore, tu mi provi e mi conosci: conosci il mio riposo e il mio sòrgere.
@@ -25,10 +25,10 @@ Fratelli: Purificàtevi dal vecchio liévito per essere nuova pasta, come già s
 
 [Graduale]
 Alleluia, alleluia
-!Ps. 117:24; 117:1
+!Ps 117:24; 117:1
 Questo è il giorno che fece il Signore: esultiamo e rallegriàmoci in esso.
 V. Lodate il Signore, poiché è buono: eterna è la sua misericòrdia. Allelúia, allelúia.
-!1: Cor 5:7
+!1 Cor 5:7
 V. Il Cristo, Pasqua nostra, è stato immolato.
 
 [Sequentia]
@@ -48,7 +48,7 @@ Séguito ++ del S. Vangelo secondo Marco.
 In quel tempo: Maria Maddalena, Maria di Giacomo, e Salòme, comperàrono degli aromi per andare ad úngere Gesú. E di buon mattino, il primo giorno dopo il sàbato, arrivàrono al sepolcro, che il sole era già sorto. Ora, dicévano tra loro: Chi mai ci sposterà la pietra dall’ingresso del sepolcro? E guardando, vídero che la pietra era stata spostata: ed era molto grande. Entrate nel sepolcro, vídero un giòvane seduto sul lato destro, rivestito di càndida veste, e sbalordírono. Egli disse loro: Non vi spaventate, voi cercate Gesú Nazareno, il crocifisso: è risorto, non è qui: ecco il luogo dove lo avévano posto. Ma andate, e dite ai suoi discépoli, e a Pietro, che egli vi precede in Galilea: là lo vedrete, come vi disse.
 
 [Offertorium]
-!Ps. 75:9-10.
+!Ps 75:9-10.
 La terra tremò e ristette, quando sorse Dio a fare giustizia, allelúia.
 
 [Secreta]

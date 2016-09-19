@@ -8,7 +8,7 @@ Prefatio=Nat
 celebranda aut missa prima aut missa secunda aut missa tertia
 
 [Introitus]
-!Is 9:2 et 6.
+!Isai 9:2 et 6.
 v. La luce splenderà oggi su di noi: poiché ci è nato il Signore: e si chiamerà Ammirabile, Dio, Principe della pace, Padre per sempre: e il suo regno non avrà fine.
 !Ps 92:1
 Il Signore regna, si ammanta di maestà: Il Signore si ammanta di fortezza, e si cinge di potenza.

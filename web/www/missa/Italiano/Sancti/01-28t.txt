@@ -39,7 +39,7 @@ V. Sono condotte con gioia ed esultanza, sono introdotte nel palazzo del Re.
 
 [Evangelium]
 Seguito ++ del Santo Vangelo secondo Matteo.
-!Matt 13:44-52
+!Matth 13:44-52
 In quel tempo, Gesù disse ai suoi discepoli questa parabola: «Il regno dei cieli è simile a un tesoro nascosto nel campo che un uomo, trovatolo, nasconde; poi tutto contento va a vendere tutto ciò che possiede e compra quel campo. Il regno dei cieli e ancora simile a un mercante che cera belle perle; avendo trovato una perla di grande valore, se ne va a vendere tutto ciò che possiede e la compra. Il regno dei cieli è ancora simile a una gran rete gettata in mare e che ha raccolto ogni genere di pesci. Una volta piena, i pescatori l’hanno tirata a riva, poi, sedutisi, ha raccolto i pesci buoni in ceste e gettati via i cattivi. Così sarà alla fine del mondo: gli Angeli si presenteranno e separeranno i malvagi di mezzo ai giusti, e li getteranno nella fornace ardente; là sarà il pianto e lo stridore dei denti. Avete capito tutto questo?» Rispondono: «Sì». Egli disse loro: «Perciò ogni scriba divenuto discepolo del regno dei cieli è simile a un padrone di casa che trae dal suo tesoro cose nuove e antiche».
 
 [Offertorium]
@@ -51,7 +51,7 @@ O Signore, discenda su queste offerte una copiosa benedizione: la quale operi be
 $Per Dominum
 
 [Communio]
-!Matt 13:45-46
+!Matth 13:45-46
 Il regno dei cieli è simile ad un mercante che va in cerca di belle perle: trovatane una di gran pregio, vende quanto ha e la compra.
 
 [Postcommunio]

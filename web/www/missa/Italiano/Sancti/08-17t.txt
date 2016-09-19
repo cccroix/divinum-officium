@@ -41,7 +41,7 @@ La santa preghiera del beato Lorenzo, ti preghiamo, o Signore, ti renda gradito 
 $Per Dominum
 
 [Communio]
-!Matt 16:24
+!Matth 16:24
 Se qualcuno vuol venire dietro a me, rinunzi a se stesso, prenda la sua croce e mi segua.
 
 [Postcommunio]

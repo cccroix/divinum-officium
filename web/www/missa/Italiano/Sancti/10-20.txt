@@ -9,7 +9,7 @@ vide C5;
 Gloria
 
 [Introitus]
-!Eccli 18:12-13
+!Eccl 18:12-13
 v. La pietà dell'uomo va al suo vicino, ma la misericordia di Dio si estende ad ogni vivente. Chi è misericordioso, ammaestra e guida, come pastore il proprio gregge.
 !Ps 1:1
 Beato l'uomo che non segue il consiglio degli empi, e non si ferma nella via dei peccatori, e nel convegno degli schernitori non si asside.
@@ -22,7 +22,7 @@ $Per Dominum
 
 [Lectio]
 Dalla lettera di san Giacomo apostolo.
-!Jac 2:12-17
+!Jacob 2:12-17
 Carissimi, così parlate e così operate, come persone che hanno da essere giudicate secondo una legge di libertà. Poiché senza misericordia sarà giudicato chi non usa misericordia: ma la misericordia trionfa del giudizio. Che giova, fratelli miei, se uno dice di aver la fede e non abbia le opere? Potrà forse salvarlo la fede? Che se un fratello e una sorella sono ignudi e bisognosi del vitto quotidiano, e uno di voi dica loro: «Andate in pace, riscaldatevi e satollatevi»; né diate loro le cose necessarie al corpo, che gioverà? Così la fede, se non ha le opere, è morta in se stessa.
 
 [Graduale]
@@ -36,7 +36,7 @@ Alleluia.
 
 [GradualeP]
 Allelúia, allelúia
-!Prov. 31:20
+!Prov 31:20
 Aprì la sua mano al miserabile, e stese le sue palme al poverello.
 !Ps 111:1
 Beato l'uomo che teme il Signore, e molto si compiace nei suoi comandi. Allelúia.

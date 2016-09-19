@@ -19,7 +19,7 @@ $Qui vivis
 
 [Lectio]
 Dal libro del profeta Isaia..
-!Is 66:12-14
+!Isai 66:12-14
 Così dice il Signore: «Ecco io riverserò sopra di lei come un fiume di pace, e la gloria delle nazioni come torrente che trabocca. Sarete nutriti di latte, portati al seno, accarezzati sulle ginocchia. Come una madre accarezza il bambino, cosi io consolerò voi e sarete consolati in Gerusalemme». Voi lo vedrete, e il vostro cuore sarà pieno di gioia, e le vostre ossa come erba riprenderanno vigore, e la mano del Signore si farà conoscere ai suoi servi.
 
 [Graduale]
@@ -28,7 +28,7 @@ Grazie, o Padre, Signore del cielo e della terra, perché hai nascoste queste co
 !Ps 70:5
 Tu sei, o Signore, la mia speranza fin dalla mia giovinezza.
 Alleluia, alleluia.
-!Eccl. 39:17-19
+!Eccl 39:17-19
 Fruttificate come rose piantate lungo la corrente di acque. Come i boschi del Libano diffondete odore soave. Sbocciate, o fiori, come giglio, effondete odori, mettete graziose fronde, cantate insieme un cantico di lode e benedite il Signore in tutte le sue opere.
 Alleluia.
 
@@ -36,13 +36,13 @@ Alleluia.
 !Cant 2:11-12
 L'inverno è già passato, la pioggia è cessata, è andata.
 V. I fiori sono spuntati sulla nostra terra, il tempo della potatura è venuto; si è sentito nelle nostre campagne il tubar della tortorella.
-!Jer 31:3
+!Jerem 31:3
 T'ho amato con un amore eterno: perciò ti ho tirato a me per misericordia.
 
 
 [GradualeP]
 Allelúia, allelúia
-!Eccli 39:17-19
+!Eccl 39:17-19
 V. Fruttificate come rose piantate lungo la corrente di acque. Come i boschi del Libano diffondete odore soave. Sbocciate, o fiori, come giglio, effondete odori, mettete graziose fronde, cantate insieme un cantico di lode e benedite il Signore in tutte le sue opere.~
 Allelúia.
 !Ps 33:9; 99:5.
@@ -51,7 +51,7 @@ Allelúia.
 
 [Evangelium]
 Seguito ++ del Santo Vangelo secondo Matteo.
-!Matt 18:1-4
+!Matth 18:1-4
 In quel tempo, i discepoli si avvicinarono a Gesù e gli chiesero: «Chi è dunque il più grande nel regno dei cieli?» E Gesù, chiamato a sé un fanciullo, lo pose in mezzo a loro e disse: «In verità vi dico: se non vi convertirete e non diventerete come fanciulli, non entrerete nel regno dei cieli. Chi dunque si farà piccolo come questo fanciullo, costui è il più grande nel regno dei cieli».
 
 [Offertorium]

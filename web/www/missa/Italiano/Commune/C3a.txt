@@ -4,7 +4,7 @@ Commune Plurimorum Martyrum Sapientiam Sanctorum
 [Rule]
 
 [Introitus]
-!Eccli 44:15; 44:14
+!Eccl 44:15; 44:14
 v. Celebrino i popoli la sapienza dei Santi, e ne annunzi la lode l'assemblea; vivano i loro nomi per tutti i secoli.
 !Ps 32:1
 Esultate, o giusti, nel Signore, ai buoni si addice la lode.

@@ -24,7 +24,7 @@ $Per Dominum eiusdem
 
 [Lectio]
 Dagli Atti degli Apostoli.
-!Acts 8:14-17
+!Act 8:14-17
 In quei giorni gli Apostoli presenti in Gerusalemme, avendo sentito che la Samaria aveva accolta la parola di Dio, vi mandarono Pietro e Giovanni; i quali, arrivati, pregarono per loro, affinché ricevessero lo Spirito Santo. Perché non era ancor disceso in nessuno di essi, ma erano soltanto battezzati nel nome del Signore Gesù. Allora imposero loro le mani, ed essi ricevettero lo Spirito Santo.
 
 [Graduale]
@@ -38,7 +38,7 @@ V. Vieni, Spirito Santo, riempi i cuori dei fedeli, accendi il fuoco del tuo amo
 
 [Evangelium]
 Seguito ++ del Santo Vangelo secondo Giovanni.
-!Joannes 10:1-10
+!Joann 10:1-10
 In quel tempo: Disse Gesù ai farisei: «In verità, in verità vi dico: chi non entra nell'ovile del gregge per la porta, ma s'introduce da qualche altra parte, è ladrone ed assassino. Invece chi entra per la porta, è pastore delle pecorelle. A lui apre il portinaio, e le pecore ascoltano la sua voce, ed egli chiama per nome le sue pecore e le fa uscire. E quando le ha fatte uscire tutte fuori , cammina innanzi ad esse; e le pecore lo seguono perché conoscono la sua voce. Ma non vanno dietro ad un estraneo, anzi fuggon da lui; perché non riconoscono la voce degli estranei». Questa similitudine disse loro Gesù. Ma essi non compresero di che parlasse. Gesù allora disse loro di nuovo: «In verità, in verità vi dico, io sono la porta delle pecore. Quanti vennero prima di me, son ladri e malandrini; ma le pecore non li hanno ascoltati. Io sono la porta. Chi per me passerà, sarà salvo; entrerà e uscirà, e troverà pascolo. Il ladro non viene se non per rubare, e uccidere, e distruggere. Io sono venuto perché abbiano vita, e l'abbiano sovrabbondante».
 
 [Offertorium]
@@ -50,7 +50,7 @@ Ti preghiamo, Signore, l'offerta del dono presente ci purifichi, e ci faccia deg
 $Per Dominum
 
 [Communio]
-!Joannes 15:26; 15:16; 15:14; 17:1 17:5
+!Joann 15:26; 15:16; 15:14; 17:1 17:5
 Lo Spirito che procede dal Padre, alleluia, mi glorificherà, alleluia, alleluia.
 
 [Postcommunio]

@@ -6,7 +6,7 @@ vide C5;
 Gloria
 
 [Introitus]
-!Habac 3:18-19.
+!Hab 3:18-19.
 v. Mi rallegrerò nel Signore ed esulterò in Dio, mio Salvatore: il Signore Dio è la mia fora.
 Inneggiate a Dio nostro aiuto, acclamate al Dio di Giacobbe.
 &Gloria
@@ -51,7 +51,7 @@ Seguito ++ del Santo Vangelo secondo Luca.
 In quel tempo: Chiamati a sè i Dodici, diede lo potere ed autorità sopra tutti i demoni e il potere di guarire le malattie. Li mandò poi a predicare il regno di Dio e a risanare gl’infermi, dicendo loro: «Non prendete nulla per il viaggio, né bastone, né bisaccia, né pane, né denaro e non abbiate due tuniche. In qualunque casa entrerete rimanetevi e non ne partite. E se rifiutano di ricevervi, uscite da quella città, scotendovi la polvere dai vostri piedi in segno di protesta contro di loro». Ed essi partitesi, andavano a torno di paese in paese, annunziando la buona novella e facendo ovunque guarigioni.
 
 [Offertorium]
-!Eccli 46:6.
+!Eccl 46:6.
 Invocávit Altíssimum poténtem in oppugnándo inimícos úndique, et audívit illum magnus et sanctus Deus.
 
 [Secreta]

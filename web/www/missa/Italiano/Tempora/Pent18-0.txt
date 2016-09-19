@@ -8,7 +8,7 @@ Prefatio=Trinitate
 Suffr=Sanctorum;Maria3,Ecclesiae,Papa;;
 
 [Introitus]
-!Eccli 36:18
+!Eccl 36:18
 v. O Signore, dà pace a coloro che sperano in Te, e i tuoi profeti siano riconosciuti fedeli: ascolta la preghiera del tuo servo e del popolo tuo Israele.
 !Ps 121:1
 Mi rallegrai per ciò che mi fu detto: andremo alla casa del Signore.
@@ -33,11 +33,11 @@ Le genti temeranno il tuo nome, o Signore: e tutti i re della terra la tua glori
 
 [Evangelium]
 Séguito ++ del S. Vangelo secondo Matteo.
-!Matt 9:1-8
+!Matth 9:1-8
 In quel tempo: Gesú, salito su una barca, ripassò il lago, e andò nella sua città. Quand’ecco gli presentarono un paralitico giacente nel letto. Veduta la loro fede, Gesú disse al paralitico: Figlio, confida: ti sono perdonati i tuoi peccati. Súbito alcuni scribi dissero in cuor loro: Costui bestemmia. E Gesú, avendo visto i loro pensieri, rispose: Perché pensate male in cuor vostro? Cos’è piú facile dire: Ti sono perdonati i tuoi peccati, o dire: Alzati e cammina? Ora, onde sappiate che il Figlio dell’uomo ha il potere sopra la terra di rimettere i peccati: Sorgi, disse al paralitico, piglia il tuo letto e vattene a casa tua. E quegli si alzò e se ne andò a casa sua. Vedendo ciò le turbe si intimorirono e glorificarono Iddio che diede agli uomini tanto potere.
 
 [Offertorium]
-!Exodi 24:4; 24:5
+!Ex 24:4; 24:5
 Mosè edificò un altare al Signore, offrendo su di esso olocausti e immolando vittime: fece un sacrificio della sera, gradevole al Signore Iddio, alla presenza dei figli di Israele.
 
 [Secreta]

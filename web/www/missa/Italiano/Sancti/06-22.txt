@@ -26,7 +26,7 @@ Dalla seconda lettera di san Paolo apostolo ai Corinti.
 Fratelli, voi conoscete la grazia del Signor nostro Gesù Cristo che, essendo ricco, si fece povero per voi, affinché voi mediante la sua povertà diventaste ricchi. E in questo vi do un consiglio, poiché ciò è utile a voi, che fin dall'anno scorso foste i primi non solo a fare la colletta, ma anche a volerla; ed ora conducetela a termine, affinché alla pronta volontà corrisponda il compire l'opera, secondo i vostri mezzi. Se infatti la volontà è pronta, riesce gradita per quello che uno ha, non per quello che non ha. Non si tratta di procurare sollievo agli altri e a voi penuria, ma uguaglianza. Al presente la vostra abbondanza supplisca alla loro indigenza, affinché la loro abbondanza supplisca alla vostra indigenza, e ci sia uguaglianza secondo quanto è detto: «Chi aveva raccolto molto, non ne ebbe di troppo, e chi poco, non ne ebbe scarsità».
 
 [Graduale]
-!Eccli 44:16
+!Eccl 44:16
 Ecco il grande pontefice, che nella sua vita piacque a Dio.
 !Ps 44:20
 Non si trovò alcuno simile a lui nell'osservare la legge dell'Eccelso. Alleluia, alleluia.
@@ -36,7 +36,7 @@ Alleluia.
 
 [Evangelium]
 Seguito ++ del Santo Vangelo secondo Luca.
-!Luke 12:32-34
+!Luc 12:32-34
 In quel tempo Gesù disse ai suoi discepoli: «Non temere, piccolo gregge, perché è piaciuto al Padre vostro di dare a voi il regno. Vendete i vostri beni e dateli in elemosina. Fatevi delle borse che non invecchiano, un tesoro che mai vien meno nei cieli, dove il ladro non giunge e la tignuola non consuma; dove è il vostro tesoro ci sarà pure il vostro cuore».
 
 [Offertorium]
@@ -48,7 +48,7 @@ Fa', o Signore, che ad imitazione del santo vescovo Paolino, uniamo il sacrifici
 $Per Dominum
 
 [Communio]
-!Luke 12:42
+!Luc 12:42
 Fedele e saggio è il servitore che il Signore ha preposto alla sua casa: perché al tempo conveniente dia il cibo che spetta a ciascuno.
 
 [Postcommunio]

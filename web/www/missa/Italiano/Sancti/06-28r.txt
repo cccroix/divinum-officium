@@ -7,7 +7,7 @@ no Gloria
 Suffr=Maria3;Ecclesiae,Papa;;
 
 [Introitus]
-!Joannes 21:18-19
+!Joann 21:18-19
 v. Dice il Signore a Pietro: Quando eri più giovane, ti cingevi da solo e andavi dove volevi; ma quando sarai vecchio tenderai le mani e un altro ti cingerà e ti condurrà dove non vorrai. E disse questo per indicare con qual morte avrebbe reso gloria a Dio.
 !Deut 18:1. 
 I cieli narrano la gloria di Dio, e il firmamento narra l'opera delle sue mani.
@@ -29,7 +29,7 @@ V. I cieli narrano la gloria di Dio: e il firmamento annunzia le opere delle sue
 
 [Evangelium]
 Seguito ++ del Santo Vangelo secondo Giovanni.
-!Joannes 21:15-10
+!Joann 21:15-10
 In quel tempo, disse Gesù a Simone Pietro: «Simone di Giovanni, mi ami tu più di costoro?». Gli risponde: «Signore, sì, tu sai che io ti amo». Gli dice Gesù: «Pasci i miei agnelli». Poi, per la seconda volta, gli chiede: «Simone di Giovanni, mi ami tu?». E Pietro: «Signore, sì, tu sai che io ti amo». Gli dice Gesù: «Pasci i miei agnelli». Per la terza volta gli chiede: «Simone di Giovanni, mi vuoi bene?». Si rattristò Pietro che per la terza volta gli avesse detto: mi vuoi bene? e gli rispose: «Signore, tu conosci tutto; tu sai che ti voglio bene!». Gesù soggiunse: «Pasci le mie pecore. In verità, in verità ti dico: quando eri più giovane, ti cingevi da te e andavi dove volevi: ma quando sarai vecchio tenderai le tue mani, e altri ti cingerà e ti condurrà dove non vuoi». E disse questo, per indicare con qual morte avrebbe dato gloria a Dio.
 
 [Offertorium]
@@ -41,7 +41,7 @@ Rendi sacra, o Signore, per intercessione degli apostoli, l'offerta del tuo popo
 $Per Dominum
 
 [Communio]
-!Joannes 21:15; 21:17
+!Joann 21:15; 21:17
 Simone di Giovanni, mi ami tu più di questi? Signore, tu sai tutto; tu lo sai, o Signore. che io ti amo.
 
 [Postcommunio]

@@ -19,7 +19,7 @@ $Qui vivis
 
 [Lectio]
 Lettura del libro della Sapienza.
-!Eccli 45:1-6.
+!Eccl 45:1-6.
 Fu caro a Dio e agli uomini, la sua memoria è in benedizione. Il Signore lo fece simile ai Santi nella gloria e lo rese grande e terribile ai nemici: e con la sua parola fece cessare le piaghe. Lo glorificò al cospetto del re e gli diede i comandamenti per il suo popolo, e gli fece vedere la sua gloria. Per la sua fede e la sua mansuetudine lo consacrò e lo elesse tra tutti i mortali. Dio infatti ascoltò la sua voce e lo fece entrare nella nuvola. Faccia a faccia gli diede i precetti e la legge della vita e della scienza.
 
 [Graduale]
@@ -40,7 +40,7 @@ Il giusto spunterà quale giglio, e fiorirà in eterno al cospetto del Signore. 
 
 [Evangelium]
 Séguito ++ del S. Vangelo secondo Matteo.
-!Matt 1:18-21.
+!Matth 1:18-21.
 Essendo Maria, la Madre di Gesù, sposata a Giuseppe, prima di abitare con lui fu trovata incinta, per virtù dello Spirito Santo. Ora, Giuseppe, suo marito, essendo giusto e non volendo esporla all’infamia, pensò di rimandarla segretamente. Mentre pensava questo, ecco apparirgli in sogno un Angelo del Signore, che gli disse: Giuseppe, figlio di Davide, non temere di prendere Maria come tua sposa: poiché quel che è nato in lei è opera dello Spirito Santo. Ella partorirà un figlio, cui porrai nome Gesù: perché egli libererà il suo popolo dai suoi peccati.
 
 [Offertorium]
@@ -52,7 +52,7 @@ Ti rendiamo, o Signore, il doveroso omaggio della nostra sudditanza, prengandoTi
 $Per eundem
 
 [Communio]
-!Matt 1:20.
+!Matth 1:20.
 Giuseppe, figlio di Davide, non temere di prendere Maria come tua sposa: poiché quel che è nato in lei è opera dello Spirito Santo. (Allelúia.)
 
 [Postcommunio]

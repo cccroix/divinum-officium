@@ -7,7 +7,7 @@ Credo
 Prefatio=Maria=Assunzione;
 
 [Introitus]
-!Ap 12:1
+!Apoc 12:1
 v. Un gran segno apparve nel cielo: una donna rivestita di sole, con la luna sotto i piedi, ed in capo una corona di dodici stelle.
 !Ps 97:1
 Cantate al Signore un càntico nuovo: perché ha fatto meraviglie.

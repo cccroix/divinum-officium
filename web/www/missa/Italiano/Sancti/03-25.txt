@@ -21,7 +21,7 @@ $Per eundem
 
 [Lectio]
 Lettura del libro di Isaia.
-!Is 7:10-15.
+!Isai 7:10-15.
 In quei giorni: Così parlò il Signore ad Achaz: Domanda per te un segno al Signore Dio tuo, o negli abissi degli inferi, o nelle altezze del cielo. E Achaz rispose: Non lo chiederò e non tenterò il Signore, E disse: Udite dunque, o discendenti di Davide. È forse poco per voi far torto agli uomini, che fate torto anche al mio Dio ? Per questo il Signore vi darà Egli stesso un segno. Ecco che la vergine concepirà e partorirà un figlio, il cui nome sarà Emmanuel. Egli mangerà burro e miele, affinché sappia rigettare il male ed eleggere il bene.
 
 [Tractus]
@@ -49,7 +49,7 @@ Séguito ++ del S. Vangelo secondo Luca.
 In quel tempo: L’Angelo Gabriele fu mandato da Dio in una città della Galilea, chiamata Nazaret, ad una Vergine sposata con un uomo della stirpe di Davide che si chiamava Giuseppe, e il nome della Vergine era Maria. Ed entrato da lei, l’Angelo disse: Ave, piena di grazia: il Signore è con te: benedetta tu tra le donne. Udendo ciò ella si turbò e pensava che specie di saluto fosse quello. E l’Angelo soggiunse: Non temere, Maria, perché hai trovato grazia davanti a Dio, ecco che concepirai e partorirai un figlio, cui porrai nome Gesù. Esso sarà grande e chiamato figlio dell’Altissimo; e il Signore Iddio gli darà il trono di Davide, suo padre, e regnerà in eterno sulla casa di Giacobbe, e il suo regno non avrà fine. Disse allora Maria all’Angelo: Come avverrà questo, che non conosco uomo ? E l’Angelo le rispose. Lo Spirito Santo scenderà in te e ti adombrerà la potenza dell’Altissimo. Perciò quel santo che nascerà da te sarà chiamato Figlio di Dio. Ed ecco che Elisabetta, tua parente, ha concepito anch’essa un figlio, in vecchiaia: ed è già al sesto mese, lei che era chiamata sterile: poiché niente è impossibile a Dio. E Maria disse: si faccia di me secondo la tua parola.
 
 [Offertorium]
-!Luc. l, 28 et 42.
+!Luc l, 28 et 42.
 Ave, María, piena di grazia: il Signore è con te: benedícta tu tra le donne, e benedetto il frutto del tuo ventre. (Allelúia.)
 
 [Secreta]
@@ -57,7 +57,7 @@ Conferma nelle nostre menti, o Signore, Te ne preghiamo, i misteri della vera fe
 $Per eundem
 
 [Communio]
-!Is 7:14.
+!Isai 7:14.
 Ecco, una vergine concepirà e partorirà un figlio: al quale si darà il nome di Emmanuel. (Allelúia.)
 
 [Postcommunio]

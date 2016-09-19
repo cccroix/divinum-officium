@@ -49,12 +49,12 @@ _
 _
 ! Il sacerdote, posto l’incenso nel turibolo, asperge tre volte le ceneri con l’acqua benedetta dicendo l’antifona (senza canto e senza Salmo): Aspérges me, Dómine, hyssópo, et mundábor: lavábis me, et super nivem dealbábor; e le incensa tre volte. Il sacerdote più degno, avvicinatosi all’altare, impone le ceneri al sacerdote celebrante che sta in piedi. Se il sacerdote è solo, rivolto all’altare, si impone le ceneri, senza recitare alcun formula. Il coro canta:
 !Antiphona.
-!Joel 2:13
+!Joël 2:13
 Mutiamo d’abito col cilicio e con la cenere: digiuniamo e piangiamo dinanzi al Signore: poiché il nostro Dio è molto misericordioso nel rimettere i nostri peccati.
 _
 _
 !Alia Antiph.
-!Joel 2:17
+!Joël 2:17
 Tra il vestibolo e l’altare, piangenti, i sacerdoti ministri del Signore dicano: Perdona, o Signore, perdona il tuo popolo: e non chiudere la bocca a quelli che Ti benedicono, o Signore.
 _
 _
@@ -89,7 +89,7 @@ $Per Dominum
 
 [Lectio]
 Lettura del Profeta Gioele.
-!Joel 2:12-19
+!Joël 2:12-19
 Questo dice il Signore: Convertitevi a me con tutto il vostro cuore, nel digiuno, nelle lacrime e nei sospiri. E squarciate i vostri cuori, e non le vostre vesti, e convertitevi al Signore Dio vostro, perché Egli è benigno, misericordioso, paziente, di molta clemenza, e portato a revocare il castigo. Chi sa che Egli non ritorni sulla sua decisione, vi perdoni, e lasci dopo di sé una benedizione, offerta e libagione al Signore Dio vostro? Suonate la tromba in Sion, intimate il santo digiuno, convocate l’adunanza, radunate il popolo, fate venire i fanciulli e i lattanti: esca lo sposo dal letto nuziale e la sposa dal suo tàlamo. Tra il vestibolo e l’altare piangano i sacerdoti ministri del Signore, e dicano: Perdona, o Signore, perdona al popolo tuo, e non abbandonare all’obbrobrio il tuo retaggio sotto il dominio delle nazioni. Perché si direbbe fra le genti: Dov’è il loro Dio? Il Signore ha mostrato zelo per la sua terra ed ha perdonato al suo popolo. Il Signore ha parlato e ha detto al suo popolo: Ecco, io manderò a voi grano, vino ed olio: e ne avrete in abbondanza, e non permetterò più che voi siate lo scherno delle nazioni: dice il Signore onnipotente.
 
 [Graduale]
@@ -106,7 +106,7 @@ V. Soccorrici, o Dio nostra salvezza: e a gloria del tuo nome, o Signore, libera
 
 [Evangelium]
 Séguito ++ del S. Vangelo secondo Matteo.
-!Matt 6:16-21
+!Matth 6:16-21
 In quel tempo: Disse Gesù ai suoi discepoli: Quando digiunate non fate i malinconici, come gli ipocriti, che sfigurano il proprio volto per far vedere agli uomini che digiunano. In verità, vi dico che hanno già ricevuta la loro ricompensa. Ma tu, quando digiuni, profumati la testa e lavati la faccia: che il tuo digiuno sia noto, non agli uomini, ma al Padre tuo celeste, il quale sta nel segreto: e il Padre tuo, che vede nel segreto, te ne darà la ricompensa. Non cercate di accumulare tesori sopra la terra, dove la ruggine e la tignola consumano, e dove i ladri disotterrano e rubano. Procurate di accumulare tesori nel cielo, dove la ruggine e la tignola non consumano, e dove i ladri non disotterrano e non rubano. Poiché dov’è il tuo tesoro, lì è il tuo cuore.
 
 [Offertorium]

@@ -6,7 +6,7 @@ vide C5;;
 9 lectiones
 
 [Introitus]
-!Eccli 11:13.
+!Eccl 11:13.
 v. Dio guarda con benevolenza all'umile, lo fa sorgere dalla sua bassezza, gli solleva il capo, così che molti ne sono stupiti e lodano il Signore. (Alleluia, alleluia)
 !Ps 72:1.
 Come è buono Iddio con Israele, con i retti di cuore!
@@ -42,7 +42,7 @@ V. Tu non priverai di beni chi vive innocente: Signore degli eserciti, felice ch
 Alleluia, alleluia
 !Ps 8:6-7.
 L’hai fatto, o Signore, poco inferiore agli Angeli: Di gloria e di onore lo coronasti: e lo costituisti sopra le opere delle tue mani. Alleluia.
-!Eccli 11:24.
+!Eccl 11:24.
 v. La benedizione di Dio corre a rimunerare il giusto, e in breve ora fa che egli cresca e fruttifichi. Alleluia.
 
 [Evangelium]
@@ -59,7 +59,7 @@ A noi che ti offriamo, o Signore, questa ostia di salvezza in memoria di san Gab
 $Qui vivis
 
 [Communio]
-!Apoc, 3, 20.
+!Apoc 3, 20.
 Ecco che io sto alla porta e busso: se alcuno udrà la mia voce e mi aprirà, io entrerò da lui e cenerò con lui, ed egli con me.
 
 [Postcommunio]

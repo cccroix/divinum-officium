@@ -8,7 +8,7 @@ Credo
 Prefatio=Maria=Conceptióne immaculáta;
 
 [Introitus]
-!Is 61:10
+!Isai 61:10
 v. Mi rallegrerò nel Signore, e l’ànima mia esulterà nel mio Dio: perché mi ha rivestita di una veste di salvezza e mi ornata del manto della giustizia, come sposa adorna dei suoi gioielli.
 !Ps 29:2
 Ti esalterò, o Signore, perché mi hai rialzato: e non hai permesso ai miei nemici di rallegrarsi del mio danno.

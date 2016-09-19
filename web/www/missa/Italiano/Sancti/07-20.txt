@@ -22,7 +22,7 @@ $Per Dominum
 
 [Lectio]
 Dal libro del profeta Isaia.
-!Is 58:7-11.
+!Isai 58:7-11.
 Questo dice il Signore Iddio. «Spezza all'affamato il tuo pane, accogli nella tua casa i poveri e i pellegrini, e, se vedi un ignudo, rivestilo, e non disprezzare il tuo prossimo. Allora spunterà come aurora la tua felicità, fiorirà la tua salute; la giustizia ti segnerà la via, e la gloria del Signore ti seguirà. Allora pregherai, e il Signore ti esaudirà: appena alzerai la voce, dirà: “Eccomi". Se ti toglierai d'addosso le catene, se cesserai di minacciare e sparlare del prossimo, se aprirai il cuore a chi ha fame e consolerai l'afflitto, la tua luce brillerà nelle tenebre, le tue tenebre diverranno come meriggio; il Signore ti darà riposo eterno e di splendori inonderà la tua anima. E darà vigore al tuo corpo, sarai come giardino irriguo e come fontana perenne».
 
 [Graduale]
@@ -54,7 +54,7 @@ Dio clementissimo, che, distrutto l'uomo vecchio, ti degnasti di creare nel beat
 $Per Dominum
 
 [Communio]
-!Jac 1:27
+!Jacob 1:27
 Religione pura e senza macchia agli occhi di Dio e del Padre è questa: visitare gli orfani e le vedove nella loro sventura e conservarsi puro da questo mondo.
 
 [Postcommunio]

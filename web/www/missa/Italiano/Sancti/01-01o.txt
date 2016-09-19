@@ -14,7 +14,7 @@ Credo
 Prefatio=Nat
 
 [Introitus]
-!Isa 9:6
+!Isai 9:6
 v. Ci è nato un bambino, ci è stato dato un figlio, il cui impero poggia sugli ómeri suoi: e il suo nome sarà: Angelo del buon consiglio.
 !Ps 97:1
 Cantate al Signore un cantico nuovo: perché ha fatto cose mirabili.
@@ -34,7 +34,7 @@ Carissimo: La grazia salvatrice di Dio si è manifestata per tutti gli uomini e 
 !Ps 97:3; 97:2
 Tutti i confini della terra videro la salvezza del nostro Dio: acclami a Dio tutta la terra.
 V Il Signore ci fece conoscere la sua salvezza: agli occhi delle genti rivelò la sua giustizi. Alleluia, alleluia.
-!Heb 1:1-2
+!Hebr 1:1-2
 Un tempo Iddio parlò in molti modi ai nostri padri per mezzo dei profeti, ultimamente in questi giorni ha parlato a noi per mezzo del Figlio. Allelúia.
 
 [Evangelium]

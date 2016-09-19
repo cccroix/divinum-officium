@@ -22,7 +22,7 @@ $Per Dominum
 
 [Lectio]
 Dalla lettera di san Paolo apostolo agli Ebrei
-!Heb 7:23-27.
+!Hebr 7:23-27.
 v. Fratelli: I Sacerdoti levitici erano in molti, perché la morte non permetteva che durassero; ma il Cristo invece possiede il sacerdozio che non finisce mai, perché Egli dura in eterno; e perciò può anche in perpetuo salvare coloro che per mezzo suo si accostano a Dio. Egli infatti vive sempre ad intercedere per noi. E certo era conveniente che noi avessimo un tal Pontefice, santo, innocente, immacolato, segregato dai peccatori, elevato al di sopra dei cieli; da non aver bisogno, come gli altri sacerdoti, di offrire ogni giorno sacrifici, prima per i suoi peccati e poi per quelli del popolo. Perché ciò l'ha fatto una volta per sempre, offrendo se stesso, il Cristo Gesù Signore nostro.
 
 [Graduale]
@@ -34,7 +34,7 @@ V. Il Signore ha giurato e non si ricrederà: Tu sei sacerdote per sempre, secon
 
 [Evangelium]
 Seguito ++ del Santo Vangelo secondo Matteo
-!Matt. 24:42-47.
+!Matth 24:42-47.
 In quel tempo Gesù disse ai suoi discepoli: «Vegliate adunque perché non sapete a che ora verrà il vostro Signore. Abbiate però presente questo: che se il capo di famiglia sapesse a che ora il ladro ha da venire, veglierebbe certamente e non lascerebbe spogliare la sua casa. Quindi anche voi state preparati, perché nell'ora che non pensate il Figlio dell'uomo verrà. Chi è dunque quel servo fedele e prudente, preposto dal padrone ai suoi domestici per dar loro il cibo a suo tempo? Beato quel servo che il suo padrone quando viene, troverà a fare cosi. In verità vi dico che lo metterà a capo di tutte le sue sostanze».
 
 [Offertorium]
@@ -46,7 +46,7 @@ Ti preghiamo, o Signore, perché l'annuale solennità del beato Antonio Maria tu
 $Per Dominum
 
 [Communio]
-!Matt 24:46 - 47.
+!Matth 24:46 - 47.
 Beato è quel servo se il padrone, quando ritorna, lo troverà al lavoro.
 
 [Postcommunio]

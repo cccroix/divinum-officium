@@ -5,7 +5,7 @@ Commune confessoris doctoris Paschal time; In medio
 Gloria
 
 [Introitus]
-!Eccli 15:5
+!Eccl 15:5
 v. Dio gli apri la bocca in mezzo all'assemblea, lo riempì dello spirito di sapienza e d'intelligenza; lo copri col manto della gloria. (Allelúia, allelúia.)
 !Ps 91:2 
 È bene cantare la gloria al Signore: e lodare, Altissimo, il tuo Nome.
@@ -23,14 +23,14 @@ Carissimo: Ti scongiuro davanti a Dio e a Gesù Cristo, che ha da venire a giudi
 
 [Graduale]
 Allelúia, allelúia
-!Eccli 45:9
+!Eccl 45:9
 Il Signore lo ha amato e lo ha colmato d'onore: lo ha rivestito di una veste di gloria.
 !Osee 14:6. Il giusto crescerà come il giglio, fiorirà in eterno davanti al Signore. 
 Alleluia.
 
 [Evangelium]
 Seguito ++ del Santo Vangelo secondo Matteo.
-!Matt 5:13-19
+!Matth 5:13-19
 In quel tempo Gesù disse ai suoi discepoli: «Voi siete il sale della terra. E se il sale perde la sua virtù, come lo si riattiverà? Non è più buono che ad essere gettato via e calpestato dalla gente. Voi siete la luce del mondo. Non può rimanere nascosta una città posta sopra un monte. Né si accende la lucerna per riporla sotto il moggio, ma sul candeliere, perché faccia lume a quanti sono in casa. Così risplenda la vostra luce dinanzi agli uomini, affinché vedano le vostre opere buone e glorifichino il Padre vostro che è nei cieli. Non crediate che io sia venuto ad abrogare la Legge o i Profeti, ma a completare. In verità vi dico che finché non passi il cielo e la terra non passerà un solo iota o un apice solo della Legge, che tutto non sia compiuto. Chi pertanto violerà uno dei minimi di questi comandamenti e insegnerà così agli uomini, sarà tenuto minimo nel regno dei cieli; ma colui che avrà operato ed insegnato, sarà tenuto grande nel regno dei cieli».
 
 [Offertorium]
@@ -46,7 +46,7 @@ O Signore, non ci venga mai meno l'intercessione pia del beato N. confessore tuo
 $Per Dominum.
 
 [Communio]
-!Luke 2:42
+!Luc 2:42
 Fedele e saggio è il servitore che il Signore ha preposto alla sua casa: perché al tempo conveniente dia il cibo che spetta a ciascuno. Alleluia.
 
 [Postcommunio] Pro Doctore Pontifice.
@@ -59,6 +59,6 @@ $Per Dominum
 
 [Lectio1]
 Lettura dal libro della Sapienza.
-!Eccli 39:6-14.
+!Eccl 39:6-14.
 Il giusto di buon’ora indirizza il cuore verso Colui che lo ha fatto e si pone dinanzi all’Altissimo in orazione; apre la bocca nella preghiera e prega per i propri peccati. Se il Signore grande vuole, quegli sarà riempito dello spirito d’intelligenza; ed ecco che egli fa piovere le parole della sua sapienza e questi loda il Signore nella preghiera. Egli dirige bene il suo consiglio e la scienza e questi entra nei segreti di Lui. Egli mostra la sua dottrina che erudisce, e si gloria della legge dell’alleanza del Signore. Molti loderanno il suo senno, che non sarà mai più dimenticato; non viene meno la memoria di lui e il suo nome sarà ricercato di generazione in generazione. Le genti racconteranno la sapienza di lui e l’assemblea proclamerà le sue lodi.
 

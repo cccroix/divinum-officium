@@ -89,7 +89,7 @@ _
 ! Terminata la preghiera, il Diacono, deposta la dalmatica bianca, riprende i paramenti violacei, e assiste il celebrante, mentre si leggono le Profezie.
 
 ! Prima lezione
-!Gen. 1:1-31; 2:1-2
+!Gen 1:1-31; 2:1-2
 In principio Dio creò il cielo e la terra. Or la terra era solitudine e caos, e le tenebre coprivano la faccia dell'abisso, ma lo Spirito di Dio si librava sopra le acque. Allora Dio disse: «Sia la luce». E luce fu. E Dio vide che la luce era buona, e separò la luce dalle tenebre. E diede il nome di Giorno alla luce e di Notte alle tenebre. Così si fece sera e poi mattina: primo giorno. Poi Dio disse: «Ci sia uno strato in mezzo alle acque, e separi le acque dalle acque». E Dio fece lo strato, e separò le acque che erano sotto da quelle che erano sopra lo strato. E così fu. E Dio chiamò Cielo lo strato. Intanto si fece sera e poi mattina: secondo giorno. Poi Dio disse: «Le acque che sono sotto il cielo si radunino in un solo luogo, e appaia l'asciutto». E così fu. E Dio chiamò Terra l'asciutto, e Mare l'ammasso delle acque. E Dio vide che ciò era ben fatto. Quindi disse: «Produca la terra erba verdeggiante che faccia seme, e piante fruttifere che diano frutto secondo la loro specie ed abbiano in se stesse la propria semenza sopra la terra». E così fu. E la terra produsse verdura, erba che fa seme della sua specie, e piante che danno frutto ed hanno ciascuna la semenza secondo la propria specie. E Dio vide che ciò era ben fatto. Intanto si fece sera e poi mattino: terzo giorno. Dio disse ancora: «Vi siano dei luminari nella volta del cielo per distinguere il giorno dalla notte e siano segni dei tempi, dei giorni e degli anni, e risplendano nel firmamento del cielo per far luce sulla terra». E così fu. E Dio fece i due grandi luminari: il luminare maggiore, affinché presiedesse al giorno: il luminare minore, affinché presiedesse alla notte; e fece pure le stelle. E le mise nella volta del cielo, perché dessero luce alla terra e regolassero il giorno e la notte, e separassero la luce dalle tenebre. E Dio vide che ciò era ben fatto. Intanto si fece sera e poi mattino: quarto giorno. Disse poi Dio: «Brulichino le acque di animali e gli uccelli volino sopra la terra, sotto la volta del cielo». E Dio creò i grandi mostri marini e tutti gli animali viventi striscianti, di cui si popolarono le acque, secondo le loro specie, ed ogni volatile secondo la sua specie. E Dio vide che ciò era ben fatto. E li benedisse, dicendo: «Crescete e moltiplicatevi, e popolate le acque del mare, e si moltiplichino gli uccelli sopra la terra». E intanto si fece sera e poi mattino: quinto giorno. Disse ancora Dio: «Produca la terra animali viventi secondo la loro specie, animali domestici, e rettili e bestie selvatiche della terra, secondo la loro specie». E così fu. E Dio fece le fiere terrestri, secondo la loro specie, e gli animali domestici, e tutti i rettili della terra, secondo la loro specie. E Dio vide che ciò era ben fatto. Poi Dio disse: «Facciamo l'Uomo a nostra immagine e somiglianza, che domini i pesci del mare, i volatili del cielo, le bestie, e tutta la terra, e tutti i rettili che strisciano sopra la terra». Dio creò l'uomo a sua immagine, lo creò a immagine di Dio; li creò maschio e femmina. E Dio li benedì dicendo: «Crescete e moltiplicatevi, e riempite la terra e rendetevela soggetta, e dominate sui pesci del mare, e sui volatili del cielo, e sopra tutti gli animali che si muovono sulla terra». E Dio disse: «Ecco io vi do tutte le erbe che fanno seme sulla terra e tutte le piante che hanno in se stesse semenza della loro specie, perché servano di cibo a voi; e a tutti gli animali della terra, e a tutti gli uccelli del cielo e a quanto si muove sulla terra ed ha in sé anima vivente, affinché abbiano da mangiare». E così fu. E Dio vide tutte le cose che aveva fatte; ed esse erano molto buone. Intanto si fece sera e poi mattino: sesto giorno. Così furono compiuti i cieli e la terra e tutto il loro assetto. E Dio nel settimo giorno finì l'opera che aveva fatta e nel settimo giorno si riposò da tutte le opere che aveva compiute.
 _`
 v. Preghiamo. 
@@ -100,12 +100,12 @@ $Per Dominum
 _
 _
 ! Seconda lezione
-!Exod 14:24-31; 15:1
+!Ex 14:24-31; 15:1
 
 In quei giorni, era già la vigilia del mattino, e il Signore da una nuvola di fuoco guardò verso il campo degli Egiziani e lo scompigliò. Fece rovesciare le ruote dei cocchi, che erano trascinati nel profondo. Dissero allora gli Egiziani: «Fuggiamo Israele, perché il Signore combatte per loro contro di noi!». E il Signore disse a Mosè: «Stendi la tua mano sopra il mare, affinché le acque si rovescino sugli Egiziani, sopra i loro cocchi e i loro cavalieri». E avendo Mosè stesa la mano verso il mare, sul far della mattina, il mare tornò al suo posto di prima, e le acque piombarono addosso agli Egiziani che fuggivano: così il Signore li travolse in mezzo ai flutti. E le acque, ritornando, coprirono i cocchi e i cavalieri di tutto l'esercito del Faraone, che per inseguire erano entrati nel mare: né un solo di loro scampò. Ma i figli d'Israele camminarono sull'asciutto nel mezzo del mare, e le acque erano per loro come un muro a destra e a sinistra. Così in quel giorno il Signore liberò Israele dalle mani degli Egiziani. E gli Israeliti videro sul lido del mare gli Egiziani morti e la grande potenza che il Signore aveva dispiegato contro di essi. E il popolo temé il Signore e credettero al Signore e a Mosè, suo servo. E allora Mosè cantò coi figli d'Israele questo cantico al Signore, dicendo:
 _`
 ! Cantico
-!Exod 15:1-2
+!Ex 15:1-2
 Cantiamo al Signore perché si è maestosamente glorificato; ha precipitato in mare cavallo e cavaliere. Il Signore è la mia forza ed il mio cantico;
 V. Egli è il mio Dio e lo glorificherò; il Dio di mio padre e Lo esalterò.
 V. Il Signore debella le guerre: il suo nome è l'Onnipotente.
@@ -118,11 +118,11 @@ $Per Dominum
 _
 _
 ! Terza lezione
-!Isa 4:2-6
+!Isai 4:2-6
 n quel giorno il «Germoglio del Signore (Il Cristo) sarà in magnificenza e gloria, e il «Frutto della terra» (Il Salvatore) sarà il sublime vanto e la gioia dei salvati d'Israele. Tutti quelli restati in Sion, quelli rimasti in Gerusalemme, saranno chiamati santi, tutti quelli inscritti per la vita saranno in Gerusalemme (la Chiesa). Quando il Signore avrà lavata dalle macchie la figlia di Sion, e Gerusalemme dal sangue che è in mezzo ad essa con lo spirito di giustizia e lo spirito di fuoco, il Signore allora creerà sopra tutto il monte di Sion, e dovunque sarà invocato, una nuvola di fumo durante il giorno, e lo splendore del fuoco fiammante nella notte, e sopra tutta la sua Gloria (la Chiesa) vi sarà protezione. Il Santuario farà ombra per il calore del giorno, e di difesa contro la bufera e la pioggia.
 _`
 ! Cantico
-!Isa 5:1-2
+!Isai 5:1-2
 Il mio diletto aveva una vigna in un colle fertile.
 V. La circondò di mura e di fossati; vi piantò la vigna di Sorec ed edificò in mezzo di essa una torre.
 V. E vi scavò uno strettoio, perché la vigna del Signore degli Eserciti è la casa d'Israele (la Chiesa).
@@ -139,7 +139,7 @@ _
 In quei giorni Mosè scrisse un cantico e lo insegnò ai figli di Israele. E il Signore diede i suoi ordini a Giosuè figlio di Nun e gli disse: «Fatti coraggio e sii forte: tu introdurrai i figli d'Israele nella terra che ho loro promessa, io poi sarò con te». Or quando Mosè ebbe finito di scrivere le parole di questa legge in un libro, diede ordine ai leviti, che portavano l'arca del patto del Signore: «Prendete questo libro e mettetelo in un lato dell'arca del patto del Signore Dio vostro, che vi rimanga come testimonio contro di te, (o Israele); perché ben conosco la tua ostinazione e la tua durezza di testa. Se, mentre sono ancor vivo e cammino con voi, siete stati sempre ribelli contro il Signore; quanto più dopo la mia morte! Radunate presso di me tutti gli anziani di ciascuna delle vostre tribù, e i vostri prefetti, che pronunzierò dinanzi a loro queste parole, chiamando a testimonio contro di loro il cielo e la terra. Poiché so bene che dopo la mia morte agirete iniquamente, uscendo ben presto dalla strada che vi ho prescritta; e vi cadranno addosso i mali negli ultimi tempi, allorché avrete fatto il male nel cospetto del Signore, provocandolo a sdegno colle opere vostre». Mosè quindi pronunciò e recitò sino alla fine le parole di questo cantico mentre tutto Israele stava ad ascoltarlo.
 _`
 ! Cantico
-!Deut. 32:1-4
+!Deut 32:1-4
 Udite, o cieli, quello che io dico, ascolti la terra le parole della mia bocca.
 V. Si aspetti come pioggia la mia dottrina, stilli come rugiada la mia parola;
 V. Come acquazzone su una pianura verdeggiante, come scroscio d’acqua su l’erba nascente; poiché il nome del Signore io proclamo:
@@ -415,10 +415,10 @@ S. Allelúia.
 C. Allelúia.
 _`
 ! Il coro poi prosegue:               
-! Ps. 117, 1
+!Ps 117, 1
 V. Celebrate il Signore perché Egli è buono, perché eterna è la sua misericordia.
 ! Poi si dice      
-!Ps. 116
+!Ps 116
 V. Nazioni tutte lodate il Signore; popoli tutti, lodatelo!         
 V. Poiché la sua misericordia è stata confermata sopra di noi; e la fedeltà del Signore dura in eterno.
 _
@@ -470,7 +470,7 @@ v.  Per intercessione del beato Michele Arcangelo, che sta alla destra dell'alta
 !e, ricevuto il turibolo dal diacono - o dal ministro -, incensa le offerte, dicendo:
 v. Quest'incenso da Te benedetto salga fino a Te, o Signore, e discenda su di noi la tua misericordia. 
 !quindi incensa l'Altare, dicendo:
-!Ps. 140, 2-4. 
+!Ps 140, 2-4. 
 v. Salga, o Signore, la mia orazione come l'incenso al tuo cospetto; sia l'elevazione delle mie mani come il sacrificio della sera. Custodisci, o Signore, la mia bocca e sorveglia le mie labbra: non permettere che il mio cuore trascenda a maliziose parole e a cercare scuse ai peccati. 
 !Mentre restituisce il turibolo al diacono - o al ministro -, dice:
 v. Accenda in noi il Signore il fuoco del suo amore e la fiamma dell'eterna carità. Amen.
@@ -478,7 +478,7 @@ v. Accenda in noi il Signore il fuoco del suo amore e la fiamma dell'eterna cari
 _
 _
 !Intanto il sacerdote si lava le mani, dicendo:
-!Ps. 25, 6-12. 
+!Ps 25, 6-12. 
 v. Laverò fra gli innocenti le mie mani: ed andrò attorno al tuo altare, o Signore: Per udire voci di lode, e per narrare tutte quante le tue meraviglie.  O Signore, ho amato lo splendore della tua casa, e il luogo ove abita la tua gloria.  Non perdere insieme con gli empi, o Dio, l'anima mia, né la mia vita con gli uomini sanguinari: Nelle cui mani stanno le iniquità: e la cui destra è piena di regali.  .  Io invece ho camminato nella mia innocenza: riscàttami e abbi pietà di me.  Il mio piede è rimasto sul retto sentiero: ti benedirò nelle adunanze, o Signore. 
 &Gloria
 _
@@ -658,7 +658,7 @@ _
 !! Per le Lodi 
 ! Dopo l'assunzione del Sacramento, per le Lodi si canta in coro l'antifona:
 Ant. Allelúia, allelúia, allelúia.
-!Psalmus 150.
+!Ps 150.
 Lodate Dio nel suo santuario, * lodatelo nel firmamento della sua potenza;
 Lodatelo nelle sue opere sublimi, * lodatelo in tutta la sua grandezza!
 Lodatelo col suono del corno, * lodatelo sull’arpa e sulla cetra;

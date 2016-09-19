@@ -35,7 +35,7 @@ V. Sciogli, o Pietro, per ordine di Dio le catene che ci legano sulla terra, tu 
 
 [Evangelium]
 Séguito ++ del S. Vangelo secondo Matteo.
-!Matt 16:13-19
+!Matth 16:13-19
 In quel tempo, Gesù, venuto nella zona di Cesarea di Filippo, interrogava i suoi discepoli: «Chi dicono che sia il Figlio dell'uomo?». Ed essi risposero: «Alcuni Giovanni il Battista, altri Ella, altri ancora Geremia, o uno dei profeti». Disse loro Gesù: «Ma voi, chi dite che io sia?». Rispose Simon Pietro: «Tu sei il Cristo, il Figlio del Dio vivente». E Gesù, in risposta, gli disse: «Beato sei tu, Simone, figlio di Giona, poiché non la carne e il sangue te l'hanno rivelato, ma il Padre mio che è nei cieli. E io dico a te che tu sei Pietro, e su questa pietra edificherò la mia Chiesa, e le porte degli inferi non prevarranno contro di essa. E ti darò le chiavi del regno dei cieli: tutto ciò che avrai legato sulla terra sarà legato anche nei cieli, e tutto ciò che avrai sciolto sulla terra sarà sciolto anche nei cieli».
 
 [Offertorium]
@@ -51,7 +51,7 @@ Per le preghiere del tuo Apostolo Paolo santifica, o Signore, i doni del tuo pop
 $Per Dominum
 
 [Communio]
-!Matt 16:18
+!Matth 16:18
 Tu sei Pietro, e su questa pietra edificherò la mia Chiesa.
 
 [Postcommunio]

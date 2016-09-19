@@ -10,7 +10,7 @@ Credo
 Suffr=Maria1;Ecclesiae,Papa;;
 
 [Introitus]
-!Isa 45:8
+!Isai 45:8
 v. Stillate, o cieli, dall’alto la vostra rugiada e le nuvole piòvano il giusto: si apra la terra e germogli il Salvatore.
 !Ps 18:2
 I cieli narrano la gloria di Dio: e il firmamento proclama l’òpera della sue mani.
@@ -51,7 +51,7 @@ O Signore, Te ne preghiamo, guarda benigno alle presenti offerte: affinché giov
 $Per Dominum
 
 [Communio]
-!Is 7:14
+!Isai 7:14
 Ecco la Vergine concepirà e partorirà un figlio: e si chiamerà Emanuele.
 
 [Postcommunio]
