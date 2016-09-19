@@ -10,7 +10,7 @@ Credo
 Suffr=Maria1;Ecclesiae,Papa;;
 
 [Introitus]
-!Is 30:30.
+!Isai 30:30.
 v. Pópulus Sion, ecce, Dóminus véniet ad salvándas gentes: et audítam fáciet~
 Dóminus glóriam vocis suæ in lætítia cordis vestri.
 !Ps 79:2
@@ -45,7 +45,7 @@ sacrifícia.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthaeum.
-!Matt 11:2-10
+!Matth 11:2-10
 In illo tempore: Cum audísset Joánnes in vínculis ópera Christi, mittens duos de~
 discípulis suis, ait illi: Tu es, qui ventúrus es, an alium exspectámus ? Et~
 respóndens Jesus, ait illis: Eúntes renuntiáte Joánni, quæ audístis et vidístis.~
@@ -70,7 +70,7 @@ nulla suppétunt suffrágia meritórum, tuis nobis succúrre præsídiis.
 $Per Dominum
 
 [Communio]
-!Bar 5:5; 4:36
+!Baruch 5:5; 4:36
 Jerúsalem, surge et sta in excélso, ei vide jucunditátem, quæ véniet tibi a Deo~
 tuo.
 

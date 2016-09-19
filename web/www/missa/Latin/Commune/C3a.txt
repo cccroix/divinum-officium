@@ -4,7 +4,7 @@ Commune Plurimorum Martyrum Sapientiam Sanctorum
 [Rule]
 
 [Introitus]
-!Eccli 44:15; 44:14
+!Eccl 44:15; 44:14
 v. Sapiéntiam Sanctórum narrent populi, et laudes eórum núntiet ecclésia: nómina~
 autem eórum vivent in sǽculum sǽculi.
 !Ps 32:1

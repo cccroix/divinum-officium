@@ -11,7 +11,7 @@ Credo
 Prefatio=Maria=Festivitate;
 
 [Introitus]
-!Isa 7:14.
+!Isai 7:14.
 v. Ecce Virgo concípiet, et páriet fílium, et vocábitur nomen ejus Emmánuel.
 !Ps 97:1.
 Cantáte Dómino cánticum novum: quia mirabília fecit.
@@ -26,11 +26,11 @@ $Per eundem
 
 [Lectio]
 Léctio libri Sapiéntiæ.
-!Eccli 24:23-31
+!Eccl 24:23-31
 Ego quasi vitis fructificávi suavitátem odóris: et flores mei, fructus honóris et honestátis. Ego mater pulchræ dilectiónis, et timóris, et agnitiónis, et sanctæ spei. In me grátia omnis viæ et veritátis: in me omnis spes vitæ et virtútis. Transíte ad me omnes qui concupíscitis me, et a generatiónibus meis implémini. Spíritus enim meus super mel dulcis, et heréditas mea super mel et favum. Memória mea in generatiónes sæculórum. Qui edunt me, adhuc esúrient: et qui bibunt me, adhuc sítient. Qui audit me, non confundétur: et qui operántur in me, non peccábunt. Qui elúcidant me, vitam ætérnam habébunt.
 
 [Graduale]
-!Isa 11:1-2.
+!Isai 11:1-2.
 Egrediétur virga de rádice Jesse, et flos de rádice ejus ascéndet. 
 V. Et requiéscet super eum Spíritus Dómini. Allelúja, allelúja.
 V. Virgo Dei Génitrix, quem totus non capit orbis, in tua se clausit víscera~
@@ -52,7 +52,7 @@ sunt, opórtet me esse. Et ipsi non intellexérunt verbum, quod locútus est ad~
 eos. Et descéndit cum eis, et venit Názareth: et erat súbditus illis.
 
 [Offertorium]
-!Matt 1:18
+!Matth 1:18
 Cum esset desponsáta mater ejus María Joseph, invénta est in útero habens de~
 Spíritu Sancto.
 

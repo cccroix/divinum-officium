@@ -6,7 +6,7 @@ vide C3a;
 Gloria
 
 [Introitus]
-!Eccli 44:15 et 14.
+!Eccl 44:15 et 14.
 v. Sapiéntiam Sanctórum narrent pópuli, et laudes eórum núntiet ecclésia: nómina~
 autem eórum vivent in saeculum saeculi.
 !Ps 32:1

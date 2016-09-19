@@ -7,7 +7,7 @@ Credo
 Prefatio=Maria=Assumptione;
 
 [Introitus]
-!Ap 12:1
+!Apoc 12:1
 v. Signum magnum appáruit in coelo: múlier amicta sole, et luna sub pédibus ejus,~
 et in cápite ejus coróna stellárum duódecim
 !Ps 97:1

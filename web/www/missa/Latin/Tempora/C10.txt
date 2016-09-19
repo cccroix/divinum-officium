@@ -27,7 +27,7 @@ $Per Dominum
 
 [Lectio]
 Léctio libri Sapiéntiæ.
-!Eccli 24:14-16
+!Eccl 24:14-16
 Ab inítio et ante saecula creáta sum, et usque ad futúrum saeculum non désinam, et in habitatióne sancta coram ipso ministrávi. Et sic in Sion firmáta sum, et in civitáte sanctificáta simíliter requiévi, et in Jerúsalem potéstas mea. Et radicávi in pópulo honorificáto, et in parte Dei mei heréditas illíus, et in plenitúdine sanctórum deténtio mea.
 
 [Graduale]

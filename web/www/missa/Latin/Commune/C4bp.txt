@@ -5,7 +5,7 @@ Commune Summorum Pontificum Tempore Paschalis; Si diligis
 Prefatio=Apostolis
 
 [Introitus]
-!Joannes 21:15-17
+!Joann 21:15-17
 v. Si díligis me, Simon Petre, pasce agnos meos, pasce oves meas. Allelúja,~
 allelúja
 !Ps 29:2
@@ -35,7 +35,7 @@ Caríssimi: Senióres, qui in vobis sunt, obsécro consénior et testis Christi pass
 
 [Graduale]
 Allelúja, allelúja
-!Matt 16:18
+!Matth 16:18
 Tu es Petrus, et super hanc petram ædificábo Ecclésiam meam
 !Ps 44:17-18.
 Constítues eos príncipes super omnem terram: mémores erunt nóminis tui, Dómine.~
@@ -43,7 +43,7 @@ Allelúja.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthaeum.
-!Matt 16:13-19
+!Matth 16:13-19
 In illo témpore: Venit Jesus in partes Cæsaréæ Philíppi, et interrogábat~
 discípulos suos, dicens: Quem dicunt hómines esse Fílium hóminis? At illi~
 dixérunt: Alii Joánnem Baptístam, alii autem Elíam, alii vero Jeremíam aut unum~
@@ -57,7 +57,7 @@ erit ligátum et in coelis: et quodcúmque sólveris super terram, erit solútum et~
 in coelis.
 
 [Offertorium]
-!Jer 1:9-10
+!Jerem 1:9-10
 Ecce, dedi verba mea in ore tuo: ecce, constítui te super gentes et super regna,~
 ut evéllas et destruas, et ædífices et plantes. Allelúja.
 
@@ -74,7 +74,7 @@ tranquillitáte semper exsúltet.
 $Per Dominum
 
 [Communio]
-!Matt 16:18
+!Matth 16:18
 Tu es Petrus, et super hanc petram ædificábo Ecclésiam meam. Allelúja.
 
 [Postcommunio]

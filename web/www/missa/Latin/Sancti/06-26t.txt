@@ -26,7 +26,7 @@ $Per Dominum
 
 [Lectio]
 Léctio libri Sapiéntiæ.
-!Eccli 44:10-15
+!Eccl 44:10-15
 Hi viri misericórdiæ sunt, quorum pietátes non defuérunt: cum semine eórum pérmanent bona, heréditas sancta nepótes eórum, et in testaméntis stetit semen eórum: et fílii eórum propter illos usque in ætérnum manent: semen eórum et glória eórum non derelinquétur. Córpora ipsórum in pace sepúlta sunt, et nomen eórum vivit in generatiónem et generatiónem. Sapiéntiam ipsórum narrent pópuli, et laudem eórum núntiet Ecclésia.
 
 [Graduale]

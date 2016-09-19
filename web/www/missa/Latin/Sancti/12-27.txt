@@ -10,7 +10,7 @@ Credo
 Prefatio=Nat
 
 [Introitus]
-!Eccli 15:5
+!Eccl 15:5
 v. In médio Ecclésiæ apéruit os ejus: et implévit eum Dóminus spíritu sapiéntiæ~
 et intelléctus: stolam glóriæ índuit eum
 !Ps 91:2
@@ -32,7 +32,7 @@ $Per eundem
 
 [Lectio]
 Lectio libri Sapiéntiæ.
-!Eccli 15:1-6
+!Eccl 15:1-6
 Qui timet Deum, fáciet bona: et qui cóntinens est justítiæ, apprehéndet illam, et obviábit illi quasi mater honorificáta. Cibábit illum pane vitæ et intelléctus, et aqua sapiéntiæ salutáris potábit illum: et firmábitur in illo, et non flectétur: et continébit illum, et non confundétur: et exaltábit illum apud próximos suos, et in médio ecclésiæ apériet os ejus, et adimplébit illum spíritu sapiéntiæ et intelléctus, et stola glóriæ véstiet illum. Jucunditátem et exsultatiónem thesaurizábit super illum, et nómine ætérno hereditábit illum, Dóminus, Deus noster.
 
 [Graduale]

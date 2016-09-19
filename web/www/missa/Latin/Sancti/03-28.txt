@@ -6,7 +6,7 @@ vide C5;
 Gloria
 
 [Introitus]
-!Habac 3:18-19.
+!Hab 3:18-19.
 v. Ego autem in Dómino gaudébo: et exsultábo in Deo, Jesu meo: Deus Dóminus fortitúdo mea.
 !Ps 80. 2.
 Exsultáte Deo, adjutóri nostro, jubiláte Deo Jacob.
@@ -52,7 +52,7 @@ Sequéntia ++ sancti Evangélii secúndum Lucam.
 In illo témpore: Convocatis Jesus duodecim Apóstolis, dedit illis virtútem et potestatem super ómnia dæmónia, et ut languóres curárent. Et misit illos prædicáre regnum Dei et sanáre infirmos. Et ait ad illos: Nihil tuléritis in via, neque virgam, neque peram, neque panem, nequepecuniam, neque duas tunicas habeátis. Et in quamcúmque domum intravérilis, ibi manéte et inde ne exeátis. Et quicúmque non recéperint vos: exeúntes de civitáte illa, étiam púlverem pedum vestrorum excútite in testimónium supra illos. Egressi autem circuíbant per castélla, evangelizántes et curántes ubique.
 
 [Offertorium]
-!Eccli 46:6.
+!Eccl 46:6.
 Invocávit Altíssimum poténtem in oppugnándo inimícos úndique, et audívit illum magnus et sanctus Deus.
 
 [Secreta]

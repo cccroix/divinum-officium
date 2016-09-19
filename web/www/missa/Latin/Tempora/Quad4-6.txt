@@ -7,7 +7,7 @@ Suffragium=Sanctorum;Vivis;;
 Super popul
 
 [Introitus]
-!Isa 55:1
+!Isai 55:1
 v. Sitiéntes, venite ad aquas, dicit Dóminus: et qui non habétis prétium, veníte et bíbite cum lætítia.
 !Ps 77:1.
 Atténdite, pópule meus, legem meam: inclináte aurem vestram in verba oris mei.
@@ -20,7 +20,7 @@ $Per Dominum
 
 [Lectio]
 Léctio Isaíæ Prophétæ.
-!Isa 49:8-15
+!Isai 49:8-15
 Hæc dicit Dóminus: In témpore plácito exaudívi te, et in die salútis auxiliátus sum tui: et servávi te, et dedi te in foedus pópuli, ut suscitáres terram, et possidéres hereditátes dissipátas: ut díceres his, qui vincti sunt: Exíte: et his, qui in ténebris: Revelámini. Super vias pascéntur, et in ómnibus planis páscua eórum. Non esúrient neque sítient, et non percútiet eos æstus et sol: quia miserátor eórum reget eos, et ad fontes aquárum potábit eos. Et ponam omnes montes meos in viam, et sémitæ meæ exaltabúntur. Ecce, isti de longe vénient, et ecce illi ab aquilóne et mari, et isti de terra austráli. Laudáte, coeli, et exsúlta, terra, jubiláte, montes, laudem: quia consolátus est Dóminus pópulum suum, et páuperum suórum miserébitur. Et dixit Sion: Derelíquit me Dóminus, et Dóminus oblítus est mei. Numquid oblivísci potest múlier infántem suum, ut non misereátur fílio uteri sui? et si illa oblíta fúerit, ego tamen non oblivíscar tui, dicit Dóminus omnípotens.
 
 [Graduale]

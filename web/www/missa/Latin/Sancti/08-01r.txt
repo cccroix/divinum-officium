@@ -21,7 +21,7 @@ $Per Dominum
 
 [Lectio]
 Lectio Epistolae Sancti Pauli Apostoli to Judeos
-!Heb 11:33-39
+!Hebr 11:33-39
 Qui per fidem vicerunt regna, operati sunt justitiam, adepti sunt repromissiones, obturaverunt ora leonum, extinxerunt impetum ignis, effugerunt aciem gladii, convaluerunt de infirmitate, fortes facti sunt in bello, castra verterunt exterorum: acceperunt mulieres de resurrectione mortuos suos: alii autem distenti sunt non suscipientes redemptionem ut meliorem invenirent resurrectionem. Alii vero ludibria, et verbera experti, insuper et vincula, et carceres: lapidati sunt, secti sunt, tentati sunt, in occisione gladii mortui sunt, circuierunt in melotis, in pellibus caprinis, egentes, angustiati, afflicti: quibus dignus non erat mundus: in solitudinibus errantes, in montibus, in speluncis, et in cavernis terrae. Et hi omnes testimonio fidei probati, non acceperunt repromissionem,
 
 [Graduale]

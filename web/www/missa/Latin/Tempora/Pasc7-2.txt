@@ -27,7 +27,7 @@ $Per Dominum eiusdem
 
 [Lectio]
 Léctio Actuum Apostolórum.
-!Acts 8:14-17
+!Act 8:14-17
 In diébus illis: Cum audíssent Apóstoli, qui erant Jerosólymis, quod recepísset Samaría verbum Dei, misérunt ad eos Petrum et Joánnem. Qui cum veníssent, oravérunt pro ipsis, ut accíperent Spíritum Sanctum: nondum enim in quemquam illórum vénerat, sed baptizáti tantum erant in nómine Dómini Jesu. Tunc imponébant manus super illos, et accipiébant Spíritum Sanctum.
 
 [Graduale]
@@ -43,7 +43,7 @@ ignem accénde.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Joánnem.
-!Joannes 10:1-10
+!Joann 10:1-10
 In illo témpore: Dixit Jesus pharisaeis: Amen, amen, dico vobis: qui non intrat~
 per óstium in ovíle óvium, sed ascéndit aliúnde, ille fur est et latro. Qui~
 autem intrat per óstium, pastor est óvium. Huic ostiárius áperit, et oves vocem~
@@ -68,7 +68,7 @@ participatióne effíciat.
 $Per Dominum
 
 [Communio]
-!Joannes 15:26; 16:14
+!Joann 15:26; 16:14
 Spíritus qui a Patre procédit, allelúja: ille me clarificábit, allelúja,~
 allelúja.
 

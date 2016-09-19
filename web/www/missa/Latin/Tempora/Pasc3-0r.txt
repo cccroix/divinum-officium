@@ -25,7 +25,7 @@ $Per Dominum
 
 [Lectio]
 Léctio Epístolæ beáti Petri Apóstoli
-!1 Pet 2:11-19 
+!1 Petri 2:11-19 
 Caríssimi: Obsecro vos tamquam ádvenas et peregrínos abstinére vos a carnálibus desidériis, quæ mílitant advérsus ánimam, conversatiónem vestram inter gentes habéntes bonam: ut in eo, quod detréctant de vobis tamquam de malefactóribus, ex bonis opéribus vos considerántes, gloríficent Deum in die visitatiónis. Subjécti ígitur estóte omni humánæ creatúræ propter Deum: sive regi, quasi præcellénti: sive dúcibus, tamquam ab eo missis ad vindíctam malefactórum, laudem vero bonórum: quia sic est volúntas Dei, ut benefaciéntes obmutéscere faciátis imprudéntium hóminum ignorántiam: quasi líberi, et non quasi velámen habéntes malítiæ libertátem, sed sicut servi Dei. Omnes honoráte: fraternitátem dilígite: Deum timéte: regem honorificáte Servi, súbditi estóte in omni timóre dóminis, non tantum bonis et modéstis, sed étiam dýscolis. Hæc est enim grátia: in Christo Jesu, Dómino nostro.
 
 [Graduale]
@@ -38,7 +38,7 @@ Allelúja.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Joánnem.
-!Joannes 16:16-22
+!Joann 16:16-22
 In illo témpore: Dixit Jesus discípulis suis: Módicum, et jam non vidébitis me:~
 et íterum módicum, et vidébitis me: quia vado ad Patrem. Dixérunt ergo ex~
 discípulis ejus ad ínvicem: Quid est hoc, quod dicit nobis: Módicum, et non~
@@ -64,7 +64,7 @@ discámus amáre coeléstia.
 $Per Dominum
 
 [Communio]
-!Joannes 16:16
+!Joann 16:16
 Módicum, et non vidébitis me, allelúja: íterum módicum, et vidébitis me, quia~
 vado ad Patrem, allelúja, allelúja.
 

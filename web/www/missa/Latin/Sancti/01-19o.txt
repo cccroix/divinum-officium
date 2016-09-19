@@ -21,7 +21,7 @@ $Per Dominum
 
 [Lectio]
 Léctio Epístolæ beáti Pauli Apóstoli ad Hebraeos.
-!Heb 10:32-38
+!Hebr 10:32-38
 Fratres: Rememorámini prístinos dies, in quibus illumináti magnum certámen sustinuístis passiónum; et in áltero quidem oppróbriis et tribulatiónibus spectáculum facti: in áltero autem sócii táliter conversántium effécti. Nam et vinctis compássi estis, et rapínam bonórum vestrórum cum gáudio suscepístis, cognoscéntes vos habére meliórem et manéntem substántiam. Nolíte itaque amíttere confidéntiam vestram, quæ magnam habet remuneratiónem. Patiéntia enim vobis necessária est: ut, voluntátem Dei faciéntes, reportétis promissiónem. Adhuc enim módicum aliquántulum, qui ventúrus est, véniet, et non tardábit. Justus autem meus ex fide vivit.
 
 [Graduale]
@@ -40,7 +40,7 @@ V. Veniéntes autem vénient cum exsultatióne, portántes manípulos suos.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthaeum.
-!Matt 24:3-13
+!Matth 24:3-13
 In illo témpore: Sedénte Jesu super montem Olivéti, accessérunt ad eum discípuli~
 secréto, dicéntes: Dic nobis, quando hæc erunt? et quod signum advéntus tui et~
 consummatiónis saeculi? Et respóndens Jesus, dixit eis: Vidéte, ne quis vos~

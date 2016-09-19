@@ -30,7 +30,7 @@ $Per Dominum
 
 [Lectio]
 Léctio libri Sapiéntiæ.
-!Sir 24:14-16
+!Eccl 24:14-16
 Ab inítio et ante saecula creáta sum, et usque ad futúrum saeculum non désinam, et in habitatióne sancta coram ipso ministrávi. Et sic in Sion firmáta sum, et in civitáte sanctificáta simíliter requiévi, et in Jerúsalem potéstas mea. Et radicávi in pópulo honorificáto, et in parte Dei mei heréditas illíus, et in plenitúdine sanctórum deténtio mea.
 
 [Graduale]
@@ -43,7 +43,7 @@ Ave, María, grátia plena; Dóminus tecum: benedícta tu in muliéribus. Allelúja.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Joánnem.
-!Joannes 19:25-27
+!Joann 19:25-27
 In illo témpore: Stabant juxta Crucem Jesu Mater ejus, et soror Matris ejus,~
 María Cléophæ, et María Magdaléne. Cum vidísset ergo Jesus Matrem, et discípulum~
 stantem, quem diligébat, dicit Matri suæ: Múlier, ecce fílius tuus. Deinde dicit~

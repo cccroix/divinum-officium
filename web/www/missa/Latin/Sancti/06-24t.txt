@@ -9,7 +9,7 @@ Gloria
 Credo
 
 [Introitus]
-!Isa 49:1; 49:2
+!Isai 49:1; 49:2
 v. De ventre matris meæ vocávit me Dóminus in nómine meo: et pósuit os meum ut~
 gládium acútum: sub teguménto manus suæ protéxit me, et pósuit me quasi sagíttam~
 eléctam
@@ -28,11 +28,11 @@ $Per Dominum
 
 [Lectio]
 Léctio Isaíæ Prophétæ.
-!Isa 49:1-3; 49:5-7
+!Isai 49:1-3; 49:5-7
 Audíte, ínsulæ, et atténdite, pópuli, de longe: Dóminus ab útero vocavit me, de ventre matris meæ recordátus est nóminis mei. Et pósuit os meum quasi gládium acútum: in umbra manus suæ protéxit me, et pósuit me sicut sagíttam eléctam: in pháretra sua abscóndit me. Et dixit mihi: Servus meus es tu, Israël, quia in te gloriábor. Et nunc dicit Dóminus, formans me ex útero servum sibi: Ecce, dedi te in lucem géntium, ut sis salus mea usque ad extrémum terræ. Reges vidébunt, et consúrgent príncipes, et adorábunt propter Dominum et sanctum Israël, qui elégit te.
 
 [Graduale]
-!Jer 1:5; 1:9
+!Jerem 1:5; 1:9
 Priusquam te formárem in útero, novi te: et ántequam exíres de ventre,~
 santificávi te.
 V. Misit Dóminus manum suam, et tétigit os meum, et dixit mihi. Allelúja,~
@@ -85,6 +85,6 @@ Allelúja, allelúja
 !Ps 1:76
 Tu, puer, Propheta Altíssimi vocáberis: præíbis ante Dóminum paráre vias ejus.~
 Allelúja.
-!Hos 14:6
+!Osee 14:6
 Justus germinábit sicut lílium, et florébit in ætérnum ante Dóminum. Allelúja.
 

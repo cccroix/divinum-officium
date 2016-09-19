@@ -23,7 +23,7 @@ $Per Dominum
 
 [Lectio]
 Léctio libri Exodi.
-!Exod 23:20-23
+!Ex 23:20-23
 Hæc dicit Dóminus Deus: Ecce, ego mittam Angelum meum, qui præcédat te, et custódiat in via, et intróducat in locum, quem parávi. Obsérva eum, et audi vocem ejus, nec contemnéndum putes: quia non dimíttet, cum peccáveris, et est nomen meum in illo. Quod si audiéris vocem ejus et féceris ómnia, quæ loquor, inimícus ero inimícis tuis et affligam affligéntes te: præcedétque te Angelus meus.
 
 [Graduale]
@@ -47,13 +47,13 @@ Allelúja, allelúja
 !Ps 137:1-2
 In conspéctu Angelórum psallam tibi: adorábo ad templum sanctum tuum, et~
 confitébor nómini tuo. Allelúja.
-!Matt 28:2
+!Matth 28:2
 V. Angelus Dómini descéndit de coelo, et accédens revólvit lápidem, et sedébat~
 super eum. Allelúja.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthaeum.
-!Matt 18:1-10
+!Matth 18:1-10
 In illo témpore: Accessérunt discípuli ad Jesum, dicéntes: Quis, putas, major~
 est in regno coelórum? Et ádvocans Jesus parvulum, statuit eum in médio eórum et~
 dixit: Amen, dico vobis, nisi convérsi fuéritis et efficiámini sicut párvuli,~

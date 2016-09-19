@@ -10,7 +10,7 @@ Credo
 Suffr=Maria1;Ecclesiae,Papa;;
 
 [Introitus]
-!Isa 45:8
+!Isai 45:8
 v. Rorate, coeli, désuper, et nubes pluant justum: aperiátur terra, et gérminet~
 Salvatórem
 !Ps 18:2
@@ -67,7 +67,7 @@ nostræ profíciant et salúti.
 $Per Dominum
 
 [Communio]
-!Is 7:14
+!Isai 7:14
 Ecce, Virgo concípiet et páriet fílium: et vocábitur nomen ejus Emmánuel.
 
 [Postcommunio]

@@ -10,7 +10,7 @@ CredoDA
 !Ps 88:20-22
 v. Extuli electum de populo, oleo sancto meo unxi eum: ut manus mea sit semper~
 cum eo, et bracchium meum confirm et eum.
-!Ps. 88:2 2
+!Ps 88:2 2
 Gratias Domini in seternum cantabo: per omnes generationes annuntiabo~
 fidelitatem tuam ore meo.
 &Gloria
@@ -51,7 +51,7 @@ V. Domine, diligo habitaculum domus tuae et locum tabernaculi gloriae tuae. Alle
 
 [Evangelium]
 Sequentia Sancti evangelii secundum Joannem
-!Joannes 21:15-17
+!Joann 21:15-17
 v. In illo tempore, dicit Jesus Simoni Petro: Simon Joannis, diligis me plus~
 his? Dicit ei: Etiam Domine, tu scis quia amo te. Dicit ei: Pasce agnos meos.~
 Dicit ei iterum: Simon Joannis, diligis me? Ait illi: Etiam Domine, tu scis quia~
@@ -70,7 +70,7 @@ obsequiis et fideli mente sumamus.
 $Per Dominum
 
 [Communio]
-!Joannes 6:56-57
+!Joann 6:56-57
 Caro enim mea vere est cibus: et sanguis meus, vere est potus; qui manducat meam~
 carnem et bibit meum sanguinem, in me manet, et ego in illo.
 

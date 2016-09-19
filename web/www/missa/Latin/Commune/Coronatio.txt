@@ -6,7 +6,7 @@ Gloria
 Credo
 
 [Introitus]
-!Eccli 45:30.
+!Eccl 45:30.
 v. Státuit ei Dóminus testaméntum pacis, et príncipem fecit eum: ut sit illi~
 sacerdótii dígnitas in ætérnum. (Alleluia, alleluia.)
 !Ps 131:1
@@ -24,7 +24,7 @@ $Per Dominum
 
 [Lectio]
 Léctio Epístolæ beáti Petri Apóstoli.
-!1. Pet 1:1-7
+!1 Petri 1:1-7
 Petrus, Apóstolus Jesu Christi, eléctis ádvenis dispersiónis Ponti, Galátiæ, Cappadóciæ, Asiæ et Bithýniæ secúndum præsciéntiam Dei Patris, in sanctificatiónem Spíritus, in oboediéntiam, et aspersiónem sánguinis Jesu Christi: grátia vobis et pax multiplicétur. Benedíctus Deus et Pater Dómini nostri Jesu Christi, qui secúndum misericórdiam suam magnam regenerávit nos in spem vivam, per resurrectiónem Jesu Christi ex mórtuis, in hereditátem incorruptíbilem et incontaminátam et immarcescíbilem, conservátam in coelis in vobis, qui in virtúte Dei custodímini per fidem in salútem, parátam revelári in témpore novíssimo. In quo exsultábitis, modicum nunc si opórtet contristári in váriis tentatiónibus: ut probátio vestræ fídei multo pretiósior auro (quod per ignem probatur) inveniátur in laudem et glóriam et honórem, in revelatióne Jesu Christi, Dómini nostri.
 
 [Graduale]
@@ -32,11 +32,11 @@ Petrus, Apóstolus Jesu Christi, eléctis ádvenis dispersiónis Ponti, Galátiæ, Cap
 Exáltent eum in ecclésia plebis: et in cathedra seniórum laudent eum.~
 Confiteántur Dómino misericórdiæ ejus, et mirabília ejus fíliis hóminum.~
 Allelúja, allelúja
-!Matt 16:18
+!Matth 16:18
 Tu es Petrus, et super hanc petram ædificábo Ecclésiam meam. Allelúja.
 
 [Tractus]
-!Matt 16:18-19
+!Matth 16:18-19
 Tu es Petrus, et super hanc petram ædificábo Ecclésiam meam.
 V. Et portæ ínferi non prævalébunt advérsus eam: et tibi dabo claves regni coelórum.
 V. Quodcúmque ligáveris super terram, erit ligátum et in coelis.
@@ -46,12 +46,12 @@ V. Et quodcúmque sólveris super terram, erit solútum et in coelis.
 Allelúja, allelúja
 !Ps 106:8
 Confitébitur Dómino misericórdiæ ejus, et mirabília ejus fíliis hóminum
-!Matt 6:18
+!Matth 6:18
 Tu es Petrus, et super hanc petram ædificábo Ecclésiam meam. Allelúja.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthaeum.
-!Matt 16:13-19
+!Matth 16:13-19
 In illo témpore: Venit Jesus in partes Cæsaréæ Philippi, et interrogábat~
 discípulos suos, dicens: Quem dicunt hómines esse Fílium hóminis? At illi~
 dixérunt: Alii Joánnem Baptístam, alii autem Elíam, álii vero Jeremíam, aut unum~
@@ -75,7 +75,7 @@ Ecclésiæ tuæ præésse voluísti, assídua protectióne gubérna.
 $Per Dominum.
 
 [Communio]
-!Matt 16:18
+!Matth 16:18
 Tu es Petrus, et super hanc petram ædificábo Ecclésiam meam. (Alleluia)
 
 [Postcommunio]

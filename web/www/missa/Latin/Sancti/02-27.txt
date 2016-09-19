@@ -6,7 +6,7 @@ vide C5;;
 9 lectiones
 
 [Introitus]
-!Eccli 11:13.
+!Eccl 11:13.
 v. Oculus Dei respéxit illum in bono, et eréxit eum ab humilitáte ipsíus, et exaltávit caput ejus: et miráti sunt in illo multi et honoravérunt Deum. (Allelúja, allelúja)
 !Ps 72:1.
 Quam bonus Israël Deus his, qui recto sunt corde!
@@ -42,7 +42,7 @@ V. Non privábit bonis eos, qui ámbulant in innocéntia: Dómine virtútum, beátus h
 Alleluia, alleluia
 !Ps 8:6-7.
 Minuísti eum. Dómine, paulo minus ab Angelis: glória et honóre coronásti eum: et constituísti eum super ópera mánuum tuárum. Allelúja.
-!Eccli 11:24.
+!Eccl 11:24.
 V. Benedíctio Dei in mercédem justi féstinat, et in hora velóci procéssus illíus fructíficat. Allelúja.
 
 [Evangelium]
@@ -59,7 +59,7 @@ Salutárem hóstiam in memóriam sancti Gabriélis tibi, Dómine, offeréntes, fac nos
 $Qui vivis
 
 [Communio]
-!Apoc, 3, 20.
+!Apoc 3, 20.
 Ecce, sto ad óstium et pulso: si quis audiérit vocem meam, et aperúerit mihi jánuam, intrábo ad illum, et cenábo cum illo, et ipse mecum.
 
 [Postcommunio]

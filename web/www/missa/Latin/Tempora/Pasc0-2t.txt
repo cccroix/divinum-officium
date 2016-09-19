@@ -7,7 +7,7 @@ Credo
 Sequentia
 
 [Introitus]
-!Eccli 15:3-4
+!Eccl 15:3-4
 v. Aqua sapiéntiæ potávit eos, allelúja: firmábitur in illis et non flectétur,~
 allelúja: et exaltábit eos in ætérnum, allelúja, allelúja.
 !Ps 104: 1
@@ -23,7 +23,7 @@ $Per Dominum
 
 [Lectio]
 Léctio Actuum Apostolórum.
-!Acts 13:16; 13:26-33
+!Act 13:16; 13:26-33
 In diébus illis: Surgens Paulus et manu silentium índicens, ait: Viri fratres, fílii generis Abraham, et qui in vobis timent Deum, vobis verbum salútis hujus missum est. Qui enim habitábant Jerúsalem, et príncipes ejus, ignorántes Jesum et voces Prophetárum, quæ per omne sábbatum legúntur, judicántes implevérunt: et nullam causam mortis inveniéntes in eo, petiérunt a Piláto, ut interfícerent eum. Cumque consummássent ómnia, quæ de eo scripta erant, deponéntes eum de ligno, posuérunt eum in monuménto. Deus vero suscitávit eum a mórtuis tértia die: qui visus est per dies multos his, qui simul ascénderant cum eo de Galilaea in Jerúsalem, qui usque nunc sunt testes ejus ad plebem. Et nos vobis annuntiámus eam, quæ ad patres nostros repromíssio facta est: quóniam hanc Deus adimplévit fíliis nostris, resúscitans Jesum Christum, Dóminum nostrum.
 
 [Graduale]
@@ -39,7 +39,7 @@ V. Surrexit Dóminus de sepúlcro, qui pro nobis pepéndit in ligno.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Lucam.
-!Luc. 24, 36-47
+!Luc 24, 36-47
 In illo témpore: Stetit Jesus in médio discipulórum suórum et dicit eis: Pax~
 vobis: ego sum, nolíte timére. Conturbáti vero et contérriti, existimábant se~
 spíritum vidére. Et dixit eis: Quid turbáti~
@@ -57,7 +57,7 @@ die: et prædicári in nómine ejus poeniténtiam, et remissiónem peccatórum in~
 omnes gentes.
 
 [Offertorium]
-!Ps. 17:14; 17:16
+!Ps 17:14; 17:16
 Intónuit de coelo Dóminus, et Altíssimus dedit vocem suam: et apparuérunt fontes~
 aquárum, allelúja.
 

@@ -8,7 +8,7 @@ Prefatio=Nat
 celebranda aut missa prima aut missa secunda aut missa tertia
 
 [Introitus]
-!Is 9:2 et 6.
+!Isai 9:2 et 6.
 v. Lux fulgébit hódie super nos: quia natus est nobis Dóminus: et vocábitur~
 Admirábilis, Deus, Princeps pacis, Pater futúri saeculi: cujus regni non erit~
 finis

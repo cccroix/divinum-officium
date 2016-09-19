@@ -42,7 +42,7 @@ Dícite in géntibus: quia Dóminus regnávit a ligno.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthaeum.
-!Matt 28:16-20
+!Matth 28:16-20
 In illo témpore: Undecim discípuli abiérunt in Galilaeam, in montem, ubi~
 constitúerat illis Jesus. Et vidéntes eum adoravérunt: quidam autem~
 dubitavérunt. Et accédens Jesus locútus est eis, dicens: Data est mihi omnis~
@@ -52,7 +52,7 @@ quæcúmque mandávi vobis. Et ecce, ego vobíscum sum ómnibus diébus usque ad~
 consummatiónem saeculi.
 
 [Offertorium]
-!Exod 12:14
+!Ex 12:14
 Erit vobis hæc dies memoriális, allelúja: et diem festum celebrábitis sollémnem~
 Dómino in progénies vestras: legítimum sempitérnum diem, allelúja, allelúja,~
 allelúja.
@@ -63,7 +63,7 @@ expiatióne peccáti deférimus, et pro acceleratióne coeléstis auxílii.
 $Per Dominum
 
 [Communio]
-!Matt 28:18-19
+!Matth 28:18-19
 Data est mihi omnis potéstas in coelo et in terra, allelúja: eúntes, docéte~
 omnes gentes, baptizántes eos in nómine Patris, et Fílii, et Spíritus Sancti,~
 allelúja, allelúja.

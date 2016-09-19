@@ -6,7 +6,7 @@ vide C5;
 Gloria
 
 [Introitus]
-!Eccli 42:15-16.
+!Eccl 42:15-16.
 v. In sermónibus Dómini ópera ejus: sol illúminans per ómnia respéxit, et glória~
 Dómini plenum est opus ejus
 !Ps 95:1
@@ -31,7 +31,7 @@ Fratres: Habéntes administratiónem juxta quod misericórdiam consecúti sumus, non
 !Ps 72:21; 68:10
 Inflammátum est cor meum, et renes mei commutáti sunt: zelus domus tuæ comédit~
 me.
-!Isa 49:2
+!Isai 49:2
 Pósuit os meum quasi gládium acutum: in umbra manus suæ protéxit me, et pósuit~
 me sicut sagíttam eléctam. Allelúja, allelúja
 !Ps 70:7

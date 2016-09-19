@@ -14,7 +14,7 @@ no Ultima Evangelium
 #Benedictio Palmorum
 ! Hora competenti, in choro post Tertiam, omissa aspersione aquae, proceditur ad benedicendum ramos palmarum seu olivarum, sive aliarum arborum. Color paramentorum est rubeus. Celebrans induitur amictu, alba, cingulo, stola et pluviali; ministri sacri amictu, alba, cingulo, subdiaconus insuper tunicella, diaconus stola et dalmatica. Celebrans induitur amictu, alba, cingulo, stola et pluviali, vel manet sine casula. 
 ! Rami, nisi ab ipsis fidelibus iam in manibus teneantur, parentur super abacum, tobalea alba coopertum, et positum in opportuniore loco presbyterii, ita tamen, ut maneat in conspectu populi. Omnibus rite dispositis, celebrans, cum ministris sacris, seu ministrantibus, facta altari debita reverentia, sistit retro abacum, versus populum. Interim vero cantatur sequens 
-!Matt 21:9
+!Matth 21:9
 Ant. Hosánna fílio David: benedíctus, qui venit in nómine Dómini. O Rex Israël: Hosánna in excélsis.
 _
 V. Dóminus vobíscum. 
@@ -31,7 +31,7 @@ _
 ! Itaque, celebrans, stans in suppedaneo altaris, versus populum, adiuvantibus ministris sacris, vel ministrantibus, dat ramos benedictos primum omnibus clericis per ordinem, deinde ministrantibus, denique, ad cancellos, fidelibus. 
 ! Et cum inceperit distribuere, cantantur sequentes antiphonæ et psalmi, hoc modo: 
 Ant. Púeri Hebræórum, portántes ramos olivárum, obviavérunt Dómino, clamántes et dicéntes: Hosánna in excélsis.
-!Psalmus 23:1-2; 23:7-10
+!Ps 23:1-2; 23:7-10
 v. Dómini est terra et plenitúdo eius, orbis terrárum et univérsi qui hábitant in eo.
 Quia ipse super mária fundávit eum et super flúmina præparávit eum.
 Ant. Púeri Hebræórum, portántes ramos olivárum, obviavérunt Dómino, clamántes et dicéntes: Hosánna in excélsis.
@@ -45,7 +45,7 @@ $Gloria
 Ant. Púeri Hebræórum, portántes ramos olivárum, obviavérunt Dómino, clamántes et dicéntes: Hosánna in excélsis.
 _
 _
-!Psalmus 46
+!Ps 46
 Ant. Púeri Hebræórum vestiménta prosternébant in via, et clamábant dicéntes: Hosánna filio David; benedíctus qui venit in nómine Dómini.
 v. Omnes gentes pláudite mánibus: iubiláte Deo in voce exultatiónis.
 Quóniam Dóminus excélsus, terríbilis, rex magnus super omnem terram.
@@ -85,7 +85,7 @@ $Dominus vobiscum
 !! Evangelium
 Sequéntia ++ sancti Evangélii secúndum Matthǽum.
 R. Glória tibi, Dómine.
-!Matt 21:1-9
+!Matth 21:1-9
 In illo témpore: Cum appropinquásset Jesus Jerosólymis, et venísset Béthphage ad montem Olivéti: tunc misit duos discípulos suos, dicens eis: Ite in castéllum, quod contra vos est, et statim inveniétis ásinam alligátam et pullum cum ea: sólvite et addúcite mihi: et si quis vobis áliquid dixerit, dícite, quia Dóminus his opus habet, et conféstim dimíttet eos. Hoc autem totum factum est, ut adimplerétur, quod dictum est per Prophétam, dicéntem: Dícite fíliae Sion: Ecce, Rex tuus venit tibi mansuétus, sedens super ásinam et pullum, fílium subjugális. Eúntes autem discípuli, fecérunt, sicut præcépit illis Jesus. Et adduxérunt ásinam et pullum: et imposuérunt super eos vestiménta sua, et eum désuper sedére tecérunt. Plúrima autem turba stravérunt vestiménta sua in via: álii autem cædébant ramos de arbóribus, et sternébant in via: turbæ autem, quæ præcedébant et quæ sequebántur, clamábant, dicéntes: Hosánna fílio David: benedíctus, qui venit in nómine Dómini.
 R. Laus tibi, Christe!
 S. Per Evangelica dicta, deleantur nostra delicta.
@@ -160,7 +160,7 @@ Glória, laus et honor tibi sit, Rex Christe, Redémptor: Cui pueríle decus pro
 _
 _
 Ant. Omnes colláudant nomen tuum, et dicunt: «Benedíctus qui venit in nómine Dómini: Hosánna in excélsis».
-!!Psalmus 147
+!!Ps 147
 v. Lauda, Jerúsalem, Dóminum: * lauda Deum tuum, Sion.
 Quóniam confortávit seras portárum tuárum: * benedíxit fíliis tuis in te.
 Qui pósuit fines tuos pacem: * et ádipe fruménti sátiat te.
@@ -260,7 +260,7 @@ D. Amen.
 
 [Evangelium1]
 Pássio Dómini nostri Jesu Christi secúndum Matthǽum.
-!Matt 26:36-75; 27:1-60.
+!Matth 26:36-75; 27:1-60.
 
 [Evangelium]
 @:Munda Cor Passionis
@@ -278,7 +278,7 @@ Concéde, quæsumus, Dómine: ut oculis tuæ majestátis munus oblátum, et grá
 $Per Dominum
 
 [Communio]
-!Matt 26:42.
+!Matth 26:42.
 Pater, si non potest hic calix transíre, nisi bibam illum: fiat volúntas tua.
 
 [Postcommunio]

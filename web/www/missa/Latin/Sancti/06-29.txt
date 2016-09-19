@@ -11,7 +11,7 @@ Credo
 Prefatio=Apostolis
 
 [Introitus]
-!Acts 12:11
+!Act 12:11
 v. Nunc scio vere, quia misit Dóminus Angelum suum: et erípuit me de manu~
 Heródis et de omni exspectatióne plebis Judæórum
 !Ps 138:1-2
@@ -37,12 +37,12 @@ In diébus illis: Misit Heródes rex manus, ut afflígeret quosdam de ecclésia. Occ
 Constítues eos príncipes super omnem terram: mémores erunt nóminis tui. Dómine.
 V. Pro pátribus tuis nati sunt tibi fílii: proptérea pópuli confitebúntur tibi.~
 Allelúja, allelúja.
-!Matt 18:18
+!Matth 18:18
 Tu es Petrus, et super hanc petram ædificábo Ecclésiam meam. Allelúja.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthaeum.
-!Matt 16:13-19
+!Matth 16:13-19
 In illo témpore: Venit Jesus in partes Cæsaréæ Philippi, et interrogábat~
 discípulos suos, dicens: Quem dicunt hómines esse Fílium hóminis? At illi~
 dixérunt: Alii Joánnem Baptístam, alii autem Elíam, álii vero Jeremíam aut unum~
@@ -66,7 +66,7 @@ orátio: per quam nos expiári tríbuas et deféndi.
 $Per Dominum
 
 [Communio]
-!Matt 16:18
+!Matth 16:18
 Tu es Petrus, ei super hanc petram aedificabo Ecclésiam meam.
 
 [Postcommunio]

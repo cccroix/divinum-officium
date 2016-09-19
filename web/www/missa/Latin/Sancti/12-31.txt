@@ -25,9 +25,9 @@ Prefatio=Nat
 @Commune/C4a
 
 [Graduale]
-!Eccli 44:16
+!Eccl 44:16
 Ecce sacérdos magnus, qui in diébus suis plácuit Deo.
-!Eccli 44:20
+!Eccl 44:20
 V. Non est invéntus símilis illi, qui conserváret legem Excélsi.~
 Allelúja, allelúja.
 !Ps 88:21

@@ -8,7 +8,7 @@ Prefatio=Trinitate
 Suffr=Sanctorum;Maria3,Ecclesiae,Papa;;
 
 [Introitus]
-!Eccli 36:18
+!Eccl 36:18
 v. Da pacem, Dómine, sustinéntibus te, ut prophétæ tui fidéles inveniántur:~
 exáudi preces servi tui et plebis tuæ Israël
 !Ps 121:1
@@ -36,7 +36,7 @@ Timébunt gentes nomen tuum, Dómine, et omnes reges terræ glóriam tuam. Allelúja.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthaeum.
-!Matt 9:1-8
+!Matth 9:1-8
 In illo témpore: Ascéndens Jesus in navículam, transfretávit et venit in~
 civitátem suam. Et ecce, offerébant ei paralýticum jacéntem in lecto. Et videns~
 Jesus fidem illórum, dixit paralýtico: Confíde, fili, remittúntur tibi peccáta~
@@ -49,7 +49,7 @@ domum tuam. Et surréxit et ábiit in domum suam. Vidéntes autem turbæ timuérunt,~
 et glorificavérunt Deum, qui dedit potestátem talem homínibus.
 
 [Offertorium]
-!Exodi 24:4; 24:5
+!Ex 24:4; 24:5
 Sanctificávit Móyses altáre Dómino, ófferens super illud holocáusta et ímmolans~
 víctimas: fecit sacrifícium vespertínum in odórem suavitátis Dómino Deo, in~
 conspéctu filiórum Israël.

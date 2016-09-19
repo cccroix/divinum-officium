@@ -7,7 +7,7 @@ CredoDA
 Prefatio=Apostolis
 
 [Introitus]
-!Eccli 44:15; 44:14
+!Eccl 44:15; 44:14
 v. Sapiéntiam Sanctórum narrent pópuli, et laudes eórum núntiet ecclésia: nómina~
 autem eórum vivent in saeculum saeculi.
 !Ps 32:1
@@ -25,7 +25,7 @@ $Qui vivis
 
 [Lectio]
 Léctio libri Sapiéntiæ.
-!Eccli 44:10-15
+!Eccl 44:10-15
 Hi viri misericórdiæ sunt, quorum pietátes non defuérunt: cum sémine eórum pérmanent bona, heréditas sancta nepótes eórum, et in testaméntis stetit semen eórum: et fflii eórum propter illos usque in ætérnum manent: semen eórum et glória eórum non derelinquétur. Córpora ipsórum in pace sepúlta sunt, et nomen eórum vivit in generatiónem et generatiónem. Sapiéntiam ipsórum narrent pópuli, et laudem eórum núntiet Ecclésia.
 
 [Graduale]
@@ -39,7 +39,7 @@ regnum, ut sedeátis super thronos, judicántes duódecim tribus Israël. Allelúja.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthaeum.
-!Matt 14:22-33
+!Matth 14:22-33
 In illo témpore: Cómpulit Jesus discípulos ascéndere in navículam, et præcédere~
 eum trans fretum, donec dimítteret turbas. Et dimíssa turba, ascéndit in montem~
 solus oráre. Véspere autem facto, solus erat ibi. Navícula autem in médio mari~

@@ -28,7 +28,7 @@ $Per Dominum
 
 [Lectio]
 Léctio libri Sapiéntiæ.
-!Eccli 31:8-11
+!Eccl 31:8-11
 Beátus vir, qui inventus est sine mácula, et qui post aurum non ábiit, nec sperávit in pecunia et thesáuris. Quis est hic, et laudábimus eum? fecit enim mirabília in vita sua. Qui probátus est in illo, et perféctus est, erit illi glória ætérna: qui potuit tránsgredi, et non est transgressus: fácere mala, et non fecit: ídeo stabilíta sunt bona illíus in Dómino, et eleemosynas illíus enarrábit omnis ecclésia sanctórum.
 
 [Graduale]
@@ -36,12 +36,12 @@ Allelúja, allelúja
 !Ps 1:12
 Beátus vir, qui suffert tentatiónem: quóniam, cum probátus fúerit, accípiet~
 corónam vitæ. Allelúja.
-!Eccli 45:9
+!Eccl 45:9
 Amávit eum Dóminus et ornávit eum: stolam glóriæ índuit eum. Allelúja.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthaeum.
-!Matt 18:1-5
+!Matth 18:1-5
 In illo témpore: Accessérunt discípuli ad Jesum, dicéntes: Quis, putas, major~
 est in regno coelórum? Et ádvocans Jesus párvulum, státuit eum in médio eórum et~
 dixit: Amen, dico vobis, nisi convérsi fuéritis et efficiámini sicut párvuli,~
@@ -60,7 +60,7 @@ quibus nos et præséntibus éxui malis confídimus et futúris.
 $Per Dominum
 
 [Communio]
-!Matt 24:46-47
+!Matth 24:46-47
 Beátus servus, quem, cum vénerit dóminus, invénerit vigilántem: amen, dico vobis,~
 super ómnia bona sua constítuat eum, allelúja.
 

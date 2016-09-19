@@ -21,7 +21,7 @@ $Per eundem
 
 [Lectio]
 Léctio Isaíæ Prophétæ.
-!Is 7:10-15.
+!Isai 7:10-15.
 In diébus illis: Locútus est Dóminus ad Achaz, dicens: Pete tibi signum a Dómino, Deo tuo, in profúndum inférni, sive in excélsum supra. Et dixit Achaz: Non petam ei non tentábo Dóminum. Et dixit: Audíte ergo, domus David: Numquid parum vobis est, moléstos esse homínibus, quia molésti estis et Deo meo? Propter hoc dabit Dóminus ipse vobis signum. Ecce, Virgo concípiet et páriet fílium, et vocábitur nomen ejus Emmánuel. Butýrum ei mel cómedet, ut sciat reprobáre malum et elígere bonum.
 
 [Tractus]
@@ -57,7 +57,7 @@ In méntibus nostris, quaesumus, Dómine, veræ fídei sacraménta confírma: ut, qui 
 $Per eundem
 
 [Communio]
-!Is 7:14.
+!Isai 7:14.
 Ecce. Virgo concípiet et páriet fílium: et vocábitur nomen ejus Emmánuel. (Allelúja.)
 
 [Postcommunio]

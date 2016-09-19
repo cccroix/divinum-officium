@@ -26,7 +26,7 @@ $Per Dominum
 
 [Lectio]
 Léctio libri Sapiéntiæ.
-!Eccli 51:18-17
+!Eccl 51:18-17
 Dómine, Deus meus, exaltásti super terram habitatiónem meam, et pro morte defluénte deprecáta sum. Invocávi Dóminum, Patrem Dómini mei, ut non derelínquat me in die tribulatiónis meæ, et in témpore superbórum sine adjutório. Laudábo nomen tuum assídue, et collaudábo illud in confessióne, et exaudíta est orátio mea. Et liberásti me de perditióne, et eripuísti me de témpore iníquo. Proptérea confitébor et laudem dicam tibi, Dómine, Deus noster.
 
 [Graduale]
@@ -35,14 +35,14 @@ Audi, fília, et vide, et inclína aurem tuam: quia concupívit Rex spéciem tuam.~
 V.Ps 44:5
 Spécie tua et pulchritúdine tua inténde, próspere procéde et regna.~
 Allelúja, allelúja
-!Matt 25:4; 25:6
+!Matth 25:4; 25:6
 Quinque prudéntes vírgines accepérunt óleum in vasis suis cum lampádibus: média~
 autem nocte clamor factus est: Ecce, sponsus venit: exíte óbviam Christo Dómino.~
 Allelúja.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthaeum.
-!Matt 25:1-13
+!Matth 25:1-13
 In illo témpore: Dixit Jesus discípulis suis parábolam hanc: Símile erit regnum~
 coelórum decem virgínibus: quæ. accipiéntes lámpades suas. exiérunt óbviam~
 sponso et sponsæ. Quinque autem ex eis erant fátuæ, et quinque prudéntes: sed~

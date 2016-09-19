@@ -21,7 +21,7 @@ $Per Dominum
 
 [Lectio]
 Léctio libri Sapiéntiæ.
-!Eccli 51:13-17
+!Eccl 51:13-17
 Dómine, Deus meus, exaltásti super terram habitatiónem meam, et pro morte defluénte deprecáta sum. Invocávi Dóminum, Patrem Dómini mei, ut non derelínquat me in die tribulatiónis meæ, et in témpore superbórum sine adjutório. Laudábo nomen tuum assídue, et collaudábo illud in confessióne, et exaudíta est orátio mea. Et liberásti me de perditióne, et eripuísti me de témpore iníquo. Proptérea confitébor et laudem dicam tibi, Dómine, Deus noster.
 
 [Graduale]
@@ -51,7 +51,7 @@ O quam pulchra et casta generátio cum claritáte! Allelúja.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthaeum.
-!Matt 13:44-52
+!Matth 13:44-52
 In illo témpore: Dixit Jesus discípulis suis parábolam me: Símile est regnum~
 coelórum thesáuro abscóndito in agro: quem qui invénit homo, abscóndit, et præ~
 gáudio illíus vadit, et vendit univérsa, quæ habet, et emit agrum illum. Iterum~
@@ -89,7 +89,7 @@ $Per Dominum
 
 [Evangelium1]
 Sequéntia ++ sancti Evangélii secúndum Matthaeum.
-!Matt 19:3-12
+!Matth 19:3-12
 In illo témpore: Accessérunt ad Jesum pharisaei, tentántes eum et dicéntes: Si~
 licet hómini dimíttere uxórem suam quacúmque ex causa? Qui respóndens, ait eis:~
 Non legístis, quia, qui fecit hóminem ab inítio, másculum et féminam fecit eos?~

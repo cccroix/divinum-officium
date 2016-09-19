@@ -23,7 +23,7 @@ $Qui vivis
 
 [Lectio]
 Léctio libri Sapiéntiæ.
-!Eccli 31:8-11
+!Eccl 31:8-11
 Beátus vir, qui inventus est sine mácula, et qui post aurum non ábiit, nec sperávit in pecunia et thesáuris. Quis est hic, et laudábimus eum? fecit enim mirabília in vita sua. Qui probátus est in illo, et perféctus est, erit illi glória ætérna: qui potuit tránsgredi, et non est transgressus: fácere mala, et non fecit: ídeo stabilíta sunt bona illíus in Dómino, et eleemosynas illíus enarrábit omnis ecclésia sanctórum.
 
 [Graduale]
@@ -32,13 +32,13 @@ Justus ut palma florébit: sicut cedrus Líbani multiplicábitur in domo Dómini.
 !Ps 91:3
 Annuntiándum mane misericórdiam tuam, et veritátem tuam per noctem. Allelúja,~
 allelúja
-!Jas 1:1-2
+!Jacob 1:1-2
 Beátus vir, qui suffert tentatiónem: quóniam, cum probátus fúerit, accípiet~
 corónam vitæ. Allelúja.
 
 [GradualeP]
 Allelúja, allelúja
-!Jas 1:1-2.
+!Jacob 1:1-2.
 Beátus vir, qui suffert tentatiónem: quóniam, cum probátus fúerit, accípiet~
 corónam vitæ. Allelúja
 !Ps 45:9
@@ -46,7 +46,7 @@ Amávit eum Dóminus et ornávit eum: stolam glóriæ índuit eum. Allelúja.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthaeum.
-!Matt 19:27-29
+!Matth 19:27-29
 In illo témpore: Dixit Petrus ad Jesum: Ecce, nos relíquimus ómnia, et secúti~
 sumus te: quid ergo erit nobis? Jesus autem dixit illis: Amen, dico vobis, quod~
 vos, qui secuti estis me, in regeneratióne, cum séderit~
@@ -66,7 +66,7 @@ quibus nos et præséntibus éxui malis confídimus et futúris.
 $Per Dominum
 
 [Communio]
-!Matt 24:46-47
+!Matth 24:46-47
 Beátus servus, quem, cum vénerit dóminus, invénerit vigilántem: amen, dico vobis,~
 super ómnia bona sua constítuet eum. (Allelúja.)
 

@@ -43,7 +43,7 @@ Allelúja, allelúja
 !Ps 109:4
 Jurávit Dóminus, et non poenitébit eum: Tu es sacérdos in ætérnum, secúndum~
 órdinem Melchísedech. Allelúja.
-!Eccli 45:9
+!Eccl 45:9
 Amávit eum Dóminus, et ornávit eum: stolam glóriæ índuit eum. Allelúja.
 
 [Evangelium]
@@ -74,7 +74,7 @@ revérsæ, hoc salutári pábulo nutriántur.
 $Per Dominum
 
 [Communio]
-!Matt 24:46-47
+!Matth 24:46-47
 Beátus servus, quem, cum vénerit dóminus, invénerit vigilántem: amen, dico vobis,~
 super ómnia bona sua constítuet eum. (Allelúja.)
 

@@ -41,7 +41,7 @@ V. Diléxit Andréam Dóminus in odórem suavitátis. Allelúja.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthaeum.
-!Matt 4:18-22
+!Matth 4:18-22
 In illo témpore: Ambulans Jesus juxta mare Galilaeæ, vidit duos fratres, Simónem,~
 qui vocátur Petrus, et Andréam fratrem ejus, mitténtes~
 rete in mare - erant enim piscatóres -  et ait illis: Veníte post me, et fáciam~
@@ -62,7 +62,7 @@ efficiátur accéptum.
 $Per Dominum
 
 [Communio]
-!Matt 4:19-20
+!Matth 4:19-20
 Veníte post me: fáciam vos fíeri piscatóres hóminum; at illi contínuo, relíctis~
 rétibus, secúti sunt Dóminum.
 

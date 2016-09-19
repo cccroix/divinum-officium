@@ -29,14 +29,14 @@ $Per eundem
 
 [Lectio]
 Léctio Epístolæ beáti Pauli Apóstoli ad Ephésios.
-!Eph 3:8-19
+!Ephes 3:8-19
 Fratres: Mihi, ómnium sanctórum mínimo, data est grátia hæc, in géntibus evangelizáre investigábiles divítias Christi, et illumináre omnes, quæ sit dispensátio sacraménti abscónditi a saeculis in Deo, qui ómnia creávit: ut innotéscat principátibus et potestátibus in coeléstibus per Ecclésiam multifórmis sapiéntia Dei, secúndum præfinitiónem sæculórum, quam fecit in Christo Jesu, Dómino nostro, in quo habémus fidúciam et accéssum in confidéntia per fidem ejus. Hujus rei grátia flecto génua mea ad Patrem Dómini nostri Jesu Christi, ex quo omnis patérnitas in coelis ei in terra nominátur, ut det vobis, secúndum divítias glóriæ suæ, virtúte corroborári per Spíritum ejus in interiórem hóminem, Christum habitáre per fidem in córdibus vestris: in caritáte radicáti et fundáti, ut póssitis comprehéndere cum ómnibus sanctis, quæ sit latitúdo, et longitúdo, et sublímitas, et profúndum: scire étiam supereminéntem sciéntiæ caritátem Christi, ut impleámini in omnem plenitúdinem Dei.
 
 [Graduale]
 !Ps 24:8-9
 Dulcis et rectus Dóminus: propter hoc legem dabit delinquéntibus in via.
 V. Díriget mansúetos in judício, docébit mites vias suas. 
-!Mt 11:29
+!Matth 11:29
 Allelúja, allelúja. Tóllite jugum meum super vos, et díscite a me, quia mitis sum et húmilis Corde,  et inveniétis réquiem animábus vestris. Allelúja.
 
 [Tractus]
@@ -52,7 +52,7 @@ V. Veníte ad me, omnes qui laborátis, et oneráti estis, et ego refíciam vos. All
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Joánnem.
-!Joannes 19:11-37
+!Joann 19:11-37
 In illo témpore: Judaei - quóniam Parascéve erat, - ut non remanérent in cruce~
 córpora sábbato - erat enim magnus dies ille sábbati, - rogavérunt Pilátum, ut~
 frangeréntur eórum crura, et tolleréntur. Venérunt ergo mílites: et primi quidem~
@@ -81,11 +81,11 @@ ut quod offérimus sit tibi munus accéptum et nostrórum expiátio delictórum.
 $Per eundem
 
 [Communio]
-!Joannes 19:34
+!Joann 19:34
 Unus mílitum láncea latus ejus apéruit, et contínuo exívit sanguis et aqua.
 
 [CommunioP]
-!Joannes 7:37
+!Joann 7:37
 Si quis sitit, véniat ad me et bibat, allelúja, allelúja.
 
 [Postcommunio]

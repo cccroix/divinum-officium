@@ -31,7 +31,7 @@ $Per Dominum eiusdem
 
 [Lectio]
 Léctio Joélis Prophétæ.
-!Joel 2:23-24; 2:26-27
+!JoÃ«l 2:23-24; 2:26-27
 Hæc dicit Dóminus Deus: Exsultáte, fílii Sion, et lætámini in Dómino, Deo vestro: quia dedit vobis doctórem justítiæ, et descéndere fáciet ad vos imbrem matutínum et serótinum, sicut in princípio. Et implebúntur áreæ fruménto et redundábunt torculária vino et óleo Et comedétis vescéntes et saturabímini, et laudábilis nomen Dómini, Dei vestri, qu fecit mirabília vobíscum: et non confundátur pópulus me us in sempitérnum. Et sciétis, quia in médio Israël ego sum: et ego Dóminus, Deus vester, et non est ámplius: et non confundétur pópulus me us in ætérnum: ait Dóminus omnípotens.
 
 [Graduale]
@@ -77,7 +77,7 @@ discipulórum Christi, Fílii tui, per Spíritum Sanctum corda succéndit.
 $Per Dominum eiusdem
 
 [Communio]
-!Joannes 14:18
+!Joann 14:18
 Non vos relínquam órphanos: véniam ad vos íterum, allelúja: et gaudébit cor~
 vestrum, allelúja.
 

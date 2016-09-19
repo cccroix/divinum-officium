@@ -10,7 +10,7 @@ Credo
 Prefatio=Asc
 
 [Introitus]
-!Acta 1:11.
+!Act 1:11.
 v. Viri Galilaei, quid admirámini aspiciéntes in coelum? allelúja: quemádmodum~
 vidístis eum ascendéntem in coelum, ita véniet, allelúja, allelúja, allelúja.
 !Ps 46:2
