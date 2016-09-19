@@ -1,6 +1,6 @@
 [Lectio1Tridentina]
 Olvasmány a Makkabeusok második könyvéből
-!2 Mac 8:10-14
+!2 Mach 8:10-14
 8:10 Nikanor azt tervezte, hogy azt a 2000 talentum adót, amellyel a király a~
 rómaiaknak tartozott, úgy teremti majd elő, hogy eladja a zsidó foglyokat.
 8:11 Haladéktalanul üzent a tengerparti városoknak, és felszólította őket,~
@@ -22,7 +22,7 @@ szabadítsa meg őket, hisz az istentelen Nikanor máris eladta őket,
 @Tempora/101-0:Responsory7
 
 [Lectio2Tridentina]
-!2 Mac 8:16-19
+!2 Mach 8:16-19
 8:16 A Makkabeus maga köré gyűjtötte embereit - összesen hatezren voltak -, és~
 bátorította őket, ne féljenek ellenségeiktől, és ne rettegjenek a pogányok még~
 oly hatalmas sokaságától sem, mert igazságtalanul támadják őket. Harcoljanak~
@@ -45,7 +45,7 @@ Szancherib száznyolcvanötezer embere,
 @Tempora/101-1:Responsory2
 
 [Lectio3Tridentina]
-!2 Mac 8:21-28
+!2 Mach 8:21-28
 8:21 Így bátorságot öntött beléjük, úgyhogy készen voltak rá, hogy a~
 törvényekért és a hazáért meghaljanak. Aztán négy csapatra osztotta seregét.
 8:22 A csapatok élére testvéreit, Simont, Jánost és Jonatánt állította;~

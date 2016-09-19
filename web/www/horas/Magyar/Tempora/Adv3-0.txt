@@ -32,7 +32,7 @@ $Qui vivis
 
 [Lectio1]
 Olvasmány Izaiás próféta könyvéből
-!Isa 26:1-6
+!Isai 26:1-6
 1 Azon a napon ezt az éneket éneklik Júda földjén: Erős várunk van, védelmül~
 kőfal és bástya szolgál.
 2 Nyissátok ki a kapukat! Hadd vonuljon be az igaz nemzet, amely mindvégig~
@@ -53,7 +53,7 @@ R. And ten thousand of His saints with Him; and He shall have on His vesture,~
 and on His thigh a name written King of kings, and Lord of lords.
 
 [Lectio2]
-!Isa 26:7-10
+!Isai 26:7-10
 7 Egyenes az igazak útja, az igaz ember ösvényét te egyengeted.
 8 Ítéleteid útját jártuk s benned reméltünk, Urunk. Neved és emlékezeted után~
 vágyódott a lelkünk.
@@ -72,7 +72,7 @@ sea.
 R. And this Man shall be the peace in our land, when He shall come.
 
 [Lectio3]
-!Isa 26:11-14
+!Isai 26:11-14
 11 Uram, magasra emeled a kezed, de ők nem látják meg. Majd egyszer meglátják,~
 mennyire szereted ezt a népet, és megszégyenülnek; az ellenségeidnek készített~
 tűz megemészti őket.
@@ -147,7 +147,7 @@ R. In His days shall righteousness flourish, and abundance of peace.
 
 [Lectio7]
 Evangélium szent János Apostol kőnyvéből
-!John 1:19-28
+!Joann 1:19-28
 Azon időben a zsidók papokat és levitákat küldtek hozzá Jeruzsálemből, s~
 megkérdeztették: "Ki vagy?" És így tovább.
 _

@@ -19,7 +19,7 @@ The Lord hath sent * His Angel, and hath delivered me out of the hand of Herod. 
 Thou art Peter * and upon this Rock I will build My Church.;;116
 
 [Capitulum Vespera]
-!Acts 12:1-3
+!Act 12:1-3
 v. Heródes király elfogatta az egyház néhány tagját, hogy ártson nekik. János testvérét, Jakabot karddal kivégeztette. Amikor látta, hogy ezzel megnyerheti a zsidók tetszését, azon volt, hogy Pétert is elfogassa.
 $Deo gratias
 
@@ -54,7 +54,7 @@ $Per Dominum
 
 [Lectio1]
 Olvasmány az Apostolok Cselekedeiből
-!Acts 3:1-5
+!Act 3:1-5
 1 Péter és János a kilencórai imádság idején fölment a templomba.
 2 Éppen akkor vittek oda egy bénán született embert, akit mindennap letettek a templom úgynevezett Ékes-kapujánál, hogy a templomba menőktől alamizsnát kérjen.
 3 Amikor meglátta Pétert és Jánost, amint épp be akartak menni a templomba, alamizsnáért könyörgött.
@@ -68,7 +68,7 @@ V. Whatsoever thou shalt bind on earth, shall be bound in heaven and whatsoever 
 R. And I have given unto thee the keys of the kingdom of heaven.
 
 [Lectio2]
-!Acts 3:6-10
+!Act 3:6-10
 6 Péter azonban ezt mondta neki: "Aranyom, ezüstöm nincs, de amim van, neked adom: A názáreti Jézus Krisztus nevében (állj fel és) járj!"
 7 Jobb kezénél fogva fölsegítette, mire annak nyomban erő szállt a lábába és a bokájába.
 8 Egy ugrással talpon volt, és tudott járni. Velük együtt bement a templomba, járkált, ugrándozott és dicsőítette az Istent.
@@ -82,7 +82,7 @@ V. If I should die with thee, I will not deny thee.
 R. I will lay down my life for thy sake.
 
 [Lectio3]
-!Acts 3:11-16
+!Act 3:11-16
 11 Mivel nem tágított Péter és János mellől, odagyűlt köréjük csodálkozva az egész nép az úgynevezett Salamon-csarnokba.
 12 Amikor Péter ezt látta, beszédet intézett a néphez: "Izraelita férfiak! Miért csodálkoztok ezen, miért bámultok úgy ránk, mintha a saját erőnkből vagy jámborságunk folytán értük volna el, hogy ez járni tudjon?
 13 Ábrahám, Izsák és Jákob Istene megdicsőítette a Fiát, Jézust, akit ti kiszolgáltattatok és megtagadtatok Pilátus előtt, noha ő úgy határozott, hogy szabadon bocsátja.
@@ -132,7 +132,7 @@ R. Therefore unto thee hath He given the keys of the kingdom of heaven.
 
 [Lectio7]
 Evangélium szent Máté Apostol kőnyvéből
-!Matt 16:13-19
+!Matth 16:13-19
 Amikor Jézus Fülöp Cezáreájának vidékére ért, megkérdezte tanítványaitól: "Kinek tartják az emberek az Emberfiát?" És így tovább
 _
 Homily by St Jerome, Priest at Bethlehem.
@@ -169,7 +169,7 @@ The Lord hath sent * His Angel, and hath delivered me out of the hand of Herod. 
 Thou art Peter * and upon this Rock I will build My Church.
 
 [Capitulum Laudes]
-!Acts 12:1-3
+!Act 12:1-3
 v. Heródes király elfogatta az egyház néhány tagját, hogy ártson nekik. János testvérét, Jakabot karddal kivégeztette. Amikor látta, hogy ezzel megnyerheti a zsidók tetszését, azon volt, hogy Pétert is elfogassa.
 $Deo gratias
 
@@ -194,11 +194,11 @@ Az öröklétnek minden századain át.
 Whatsoever thou shalt bind * on earth, shall be bound in heaven and whatsoever thou shalt loose on earth shall be loosed in heaven, saith the Lord to Simon Peter.
 
 [Lectio Prima]
-!Acts 12:11
+!Act 12:11
 v. Amikor Péter föleszmélt, megszólalt: - "Most már csakugyan tudom, hogy az Úr elküldte angyalát, és kiszabadított Heródes kezéből, s abból, amire a zsidó nép számított."
 
 [Capitulum Tertia]
-!Acts 12:1-3
+!Act 12:1-3
 v. Heródes király elfogatta az egyház néhány tagját, hogy ártson nekik. János testvérét, Jakabot karddal kivégeztette. Amikor látta, hogy ezzel megnyerheti a zsidók tetszését, azon volt, hogy Pétert is elfogassa.
 $Deo gratias
 
@@ -214,7 +214,7 @@ V. Thou shalt make them princes over all the earth
 R. They shall remember thy name, O Lord
 
 [Capitulum Sexta]
-!Acts 12:5
+!Act 12:5
 v. Míg Pétert fogva tartották a börtönben, az egyház állandóan imádkozott érte az Istenhez.
 $Deo gratias
 
@@ -230,7 +230,7 @@ V. O God, are made exceedingly honourable:
 R. Their principality is exceedingly strengthened.
 
 [Capitulum Nona]
-!Acts 12:11
+!Act 12:11
 v. Amikor Péter föleszmélt, megszólalt: - "Most már csakugyan tudom, hogy az Úr elküldte angyalát, és kiszabadított Heródes kezéből, s abból, amire a zsidó nép számított."
 $Deo gratias
 

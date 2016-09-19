@@ -59,7 +59,7 @@ R. Honour and great majesty shalt Thou lay upon him.
 
 [Lectio1]
 Olvasmány Jézus Sírák fia könyvéből
-!Sir 51:1-7
+!Eccl 51:1-7
 1 Hálát adok neked, Uram Királyom! És dicsérlek téged, szabadító Istenemet.
 2 Hálát adok a te nevednek, mert segítöm és oltalmazóm lettél.
 3 Megszabadítottad testemet a romlástól, a rosz nyelvek törétöl, és a hazudságot koholók ajkaitól, és az ellenem állók szine elött segitöm lettél.
@@ -77,7 +77,7 @@ ever.
 R. And dispersed among the needy the riches of the Church.
 
 [Lectio2]
-!Sir 51:8-13
+!Eccl 51:8-13
 8 Mindhalálig dicséri lelkem az Urat;
 9 mert életem közelgetett lefelé a pokolhoz.
 10 Körölvettek engem mindenfelöl, és nem volt, ki segítsen; körölnéztem az emberek segítsége után, és nem volt.
@@ -95,7 +95,7 @@ R. When thou passest through the fire the flame shall not harm thee, neither~
 shall the smell of fire pass upon thee.
 
 [Lectio3]
-!Sir 51:14-17
+!Eccl 51:14-17
 4 Segítségöl hittam az Urat, az én Uram Atyját, hogy ne hagyjon engem háborúságom napján és a kevélyek idejében segítség nélkül.
 15 Dicsérni fogom a te nevedet szüntelen, és dicsérem azt hálaadással, mert meghallgattatott az én imádságom.
 16 És kiszabadítottál engem a veszedelemböl, és megmentettél a gonosz idöben.
@@ -193,7 +193,7 @@ R. And therefore I am not afraid of thy tortures.
 
 [Lectio7]
 Evangélium szent János Apostol kőnyvéből
-!John 12:24-27
+!Joann 12:24-27
  Bizony, bizony, mondom nektek: ha a búzaszem nem hull a földbe, és nem hal el,~
 egymaga marad, de ha elhal, sok termést hoz. Aki szereti életét, az elveszíti,~
 de aki gyűlöli életét ebben a világban, az megmenti az örök életre. És így~

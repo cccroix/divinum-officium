@@ -13,7 +13,7 @@ Lo the winter is past, * the rain is over and gone. Rise up, my love, and come a
 O Holy Mother of God thou art become beautiful * and gentle in thy gladness. Alleluja;;147
 
 [Capitulum Vespera]
-!Sir 51:1-3
+!Eccl 51:1-3
 v. Hálát adok neked, Uram Királyom! És dicsérlek téged, szabadító Istenemet. Hálát adok a te nevednek, mert segítöm és oltalmazóm lettél. Megszabadítottad testemet a romlástól
 $Deo gratias.
 
@@ -135,7 +135,7 @@ R. A woman that feareth God she shall be praised. Alleluja
 
 [Lectio7]
 Evangélium szent Máté Apostol kőnyvéből
-!Matt 13:44
+!Matth 13:44
 A mennyek országa hasonlít a szántóföldben elrejtett kincshez. És így tovább.
 _
 Homily by Pope St Gregory the Great.
@@ -171,7 +171,7 @@ Come, O My chosen one, * and I will establish My throne in thee. Alleluja.
 She is beautiful * among the daughters of Jerusalem. Alleluja
 
 [Capitulum Laudes]
-!Sir 51:1-3
+!Eccl 51:1-3
 v. Hálát adok neked, Uram Királyom! És dicsérlek téged, szabadító Istenemet. Hálát adok a te nevednek, mert segítöm és oltalmazóm lettél. Megszabadítottad testemet a romlástól
 $Deo gratias.
 
@@ -198,11 +198,11 @@ Da nobis, quaesumus Domine Deus noster, sanctarum Martyrum tuarum N. et N.palmas
 $Per Dominum
 
 [Lectio Prima]
-!Sir 51:8; 51:12
+!Eccl 51:8; 51:12
 v. Mindhalálig dicséri lelkem az Urat; kimented, Uram, a te rád várakozókat, és kiszabadítod öket a pogányok kezeiböl.
 
 [Capitulum Tertia]
-!Sir 51:1-3
+!Eccl 51:1-3
 v. Hálát adok neked, Uram Királyom! És dicsérlek téged, szabadító Istenemet. Hálát adok a te nevednek, mert segítöm és oltalmazóm lettél. Megszabadítottad testemet a romlástól
 $Deo gratias.
 
@@ -218,7 +218,7 @@ V. God shall help her with His countenance.
 R. God is in the midst of her, she shall not be moved.
 
 [Capitulum Sexta]
-!Sir 51:4-5
+!Eccl 51:4-5
 v. Megszabadítottál engem a te neved irgalmának sokasága szerint az elnyelésemre készült ordítóktól, az én lelkemet keresök kezeiböl, és a háborúság kapuiból, mely körülvett engem,
 $Deo gratias.
 
@@ -234,7 +234,7 @@ V. God hath chosen her, and fore-chosen her.
 R. He hath made her to dwell in His tabernacle.
 
 [Capitulum Nona]
-!Sir 51:8; 51:12
+!Eccl 51:8; 51:12
 v. Mindhalálig dicséri lelkem az Urat; kimented, Uram, a te rád várakozókat, és kiszabadítod öket a pogányok kezeiböl.
 $Deo gratias.
 

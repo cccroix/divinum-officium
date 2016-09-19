@@ -8,7 +8,7 @@ R. Et descendat super nos misericordia tua.
 
 [Lectio1]
 A Makkabeusok első könyvéből
-!1 Mac 9:1-6
+!1 Mach 9:1-6
 1 Amikor Demetriusz meghallotta, hogy Nikanor és csapatai elestek a harcban, másodszor is elküldte Júda földjére Bakchideszt és Alkimuszt, serege jobb szárnyával. 
 2 Galilea felé tartottak, és ostrom alá vették az Arbela vidékén fekvő Mezalotot. Elfoglalták, és sok embert megöltek. 
 3 A 152. esztendő első hónapjában Jeruzsálem előtt vertek tábort. 
@@ -20,7 +20,7 @@ A Makkabeusok első könyvéből
 @Tempora/101-0:Responsory1
 
 [Lectio2]
-!1 Mac 9:7-11
+!1 Mach 9:7-11
 7 Amikor Júdás látta, hogy serege felbomlott, a harc pedig elkerülhetetlen, nagyon elcsüggedt, mert már nem volt rá ideje, hogy összegyűjtse őket. 
 8 Teljesen magába roskadt, és így szólt a megmaradottakhoz: "Rajta, rontsunk rájuk, ellenségeinkre! Hátha mégis legyőzzük őket." 
 9 Le akarták róla beszélni: "Nem vagyunk rá képesek - mondták. - Mentsük inkább az életünket. Aztán majd visszatérünk testvéreinkkel, és fölvesszük velük a harcot. Most túl kevesen vagyunk." 
@@ -31,7 +31,7 @@ A Makkabeusok első könyvéből
 @Tempora/101-0:Responsory2
 
 [Lectio3]
-!1 Mac 9:12-20
+!1 Mach 9:12-20
 12 A csatasorok két oldalról közeledtek, s zengtek a kürtök. Júdás is megfúvatta a kürtöket. 
 13 A föld megremegett a harci zajtól. Reggeltől estig folyt a küzdelem. 
 14 Akkor Júdás észrevette, hogy Bakchidesz, seregének a zömével a jobb szárnyon van. A bátrak mind csatlakoztak hozzá, 

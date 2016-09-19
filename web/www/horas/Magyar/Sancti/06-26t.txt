@@ -46,7 +46,7 @@ Terentian, to avoid the uproar, which might have been caused by their public exe
 
 [Lectio7]
 Evangélium szent Lukács Evangélista kőnyvéből
-!Luke 12:1-8
+!Luc 12:1-8
 1 Közben tízezres tömeg verődött össze körülötte, úgyhogy egymást tiporták, és először csak tanítványaihoz kezdett beszélni: "Óvakodjatok a farizeusok kovászától, vagyis a képmutatástól.
 2 Nincs semmi elrejtve, ami nyilvánosságra ne kerülne, s titok, ami ki ne tudódna. És így tovább
 _

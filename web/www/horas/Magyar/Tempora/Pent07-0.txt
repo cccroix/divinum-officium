@@ -158,7 +158,7 @@ ever.
 
 [Lectio7]
 Evangélium szent Máté Apostol kőnyvéből
-!Matt 7:15-21
+!Matth 7:15-21
 Azon időben mondá Jézus tanitványainak Óvakodjatok a hamis prófétáktól, kik~
 juhok ruházatában jőnek hozzátok, belül pedig ragadozó farkasok. És igy tovább
 _

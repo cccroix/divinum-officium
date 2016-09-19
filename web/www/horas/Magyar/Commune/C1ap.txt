@@ -7,7 +7,7 @@ Antiphonas horas
 Una Antiphona
 
 [Capitulum Vespera]
-!Wis 5:1
+!Sap 5:1
 v. Akkor az igaz teljes biztonsággal áll szemben azokkal, akik sanyargatták, és lebecsülték a fáradozását.
 $Deo gratias
 
@@ -75,7 +75,7 @@ Az Urat, az Apostolok királyát * Jöjjetek áldjuk. Alleluja.
 @Commune/C1a:Lectio9
 
 [Capitulum Laudes]
-!Wis 5:1
+!Sap 5:1
 v. Akkor az igaz teljes biztonsággal áll szemben azokkal, akik sanyargatták, és lebecsülték a fáradozását.
 $Deo gratias
 
@@ -118,7 +118,7 @@ Jeruzsálem leányai * jöjjetek és nézzétek a vértanúk koronáját, amelly
 v. Tudjuk azt is, hogy akik Istent szeretik, azoknak minden javukra válik, hiszen ő saját elhatározásából választotta ki őket.
 
 [Capitulum Tertia]
-!Wis 5:1
+!Sap 5:1
 v. Akkor az igaz teljes biztonsággal áll szemben azokkal, akik sanyargatták, és lebecsülték a fáradozását.
 $Deo gratias
 
@@ -134,7 +134,7 @@ V. Örök világosság világositsa meg szentjeidet Uram. Alleluja
 R. Az örökkévalósag világossága. Alleluja
 
 [Capitulum Sexta]
-!Sap. 5.5
+!Sap 5.5
 v. Behold how they are numbered among the children of God, and their lot is among the saints.
 $Deo gratias
 

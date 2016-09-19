@@ -44,7 +44,7 @@ V. Tisztíts meg mindentől, ami rejtve maradt!
 R. Őrizd meg szolgádat a kevélységtől!
 
 [Feria Tertia]
-!Jer 17:14
+!Jerem 17:14
 v. Gyógyíts meg, Uram, és meggyógyulok, szabadíts meg, és megszabadulok, mert te vagy egyetlen reménységem.
 $Deo gratias
 _
@@ -74,7 +74,7 @@ V. Az Úr az én pásztorom, nem szenvedek hiányt
 R. zöldellő réteken legeltet.
 
 [Feria Nona]
-!1 Pet 1:17-19
+!1 Petri 1:17-19
 v. Éljetek istenfélelemben zarándoklástok idején. Hisz tudjátok, hogy nem veszendő ezüstön vagy aranyon szabadultatok ki, hanem Krisztusnak, a hibátlan és egészen tiszta báránynak a drága vére árán.
 $Deo gratias
 _
@@ -89,7 +89,7 @@ V. Tisztíts meg mindentől, ami rejtve maradt!
 R. örizd meg szolgádat a kevélységtől!
 
 [Adv Tertia]
-!Jer 23:5
+!Jerem 23:5
 v. Íme eljőnek a napok, úgymond az Úr, és föltámasztom Dávid igaz csemetéjét; és országlani fog mint király, és bölcs leszen, és ítéletet s igazságot tesz a földön.
 $Deo gratias
 
@@ -105,7 +105,7 @@ V. És a népek félni fogják nevedet, Uram.
 R. És a világ királyai a te dicsőségedet.
 
 [Adv Sexta]
-!Jer 23:6
+!Jerem 23:6
 v. Ama napokban megszabadul Júda, és Izrael bátorságban fog lakni; és ez a név, melyen nevezik őt: Az Úr, a mi igazunk.
 $Deo gratias
 
@@ -121,7 +121,7 @@ V. Emlékezzél meg, Uram, rólunk népedhez való jókedvedből.
 R. Látogass meg minket a te szabadításoddal.
 
 [Adv Nona]
-!Iz 14:1
+!Isai 14:1
 v. Közel van, hogy eljöjjön az ő ideje, és napjai messze nem haladnak; mert az Úr könyörül Jákobon, és kiválasztja még Izraelből.
 $Deo gratias
 
@@ -137,7 +137,7 @@ V. Jöjj el, Urunk, ne késsél.
 R. Felejts el néped bűneit.
 
 [Quad Tertia]
-!Joel 2:12-13
+!Joël 2:12-13
 v. Térjetek vissza hozzám teljes szívetekből, böjtölve, sírva és gyászolva. A szíveteket szaggassátok meg, ne a ruhátokat, mondja a Mindenható Úr.
 $Deo gratias
 
@@ -153,7 +153,7 @@ V. Beárnyékol téged vállaival.
 R. És szárnyai alatt biztonságban vagy.
 
 [Quad Sexta]
-!Isa 55:7
+!Isai 55:7
 v. Hagyja el útját a gonosz, és gondolatait a bűnös; térjen vissza az Úrhoz, mert megkönyörül rajta, Istenünkhöz, mert bőkezű a megbocsátásban
 $Deo gratias
 
@@ -169,7 +169,7 @@ V. Igazsága irányít és megvédelmez téged.
 R. Nem kell félned az éji sötéttől.
 
 [Quad Nona]
-!Isa 58:7
+!Isai 58:7
 v. Törd meg az éhezőnek kenyeredet, és a hajléktalan szegényt fogadd be házadba. Ha mezítelent látsz, öltöztesd föl, és ne fordulj el embertársad elől!
 $Deo gratias
 
@@ -185,7 +185,7 @@ V. Angyalainak parancsolt felőled.
 R. Hogy védelmezzenek minden utadon.
 
 [Quad5 Tertia]
-!Jer 17:13
+!Jerem 17:13
 v. Uram! Azok, akik elhagynak, mind megszégyenülnek; akik pedig elfordulnak tőled, azokat gyökerestül kitépik földjükből, mert elhagyták az élő vizek forrását.
 $Deo gratias
 
@@ -200,7 +200,7 @@ V. Szabadíts meg engem az oroszlán szájából.
 R. Engem, lealázottat, az egyszarvúak szarvaitól.
 
 [Quad5 Sexta]
-!Jer 17:18
+!Jerem 17:18
 v. Valljanak szégyent, akik üldöznek, ne én szégyenüljek meg! Rettegjenek ők, ne én rettegjek! Rájuk hozd el a nyomorúság napját, és kétszeres csapással zúzd őket össze, Uram, én Istenem.
 $Deo gratias
 
@@ -215,7 +215,7 @@ V. Isten! ne veszítsd el az istentelenekkel az én lelkemet.
 R. És a vérszopó férfiakkal életemet.
 
 [Quad5 Nona]
-!Jer 18:20
+!Jerem 18:20
 v. Emlékezzél! A színed elé álltam, hogy közbenjárjak értük, és elhárítsam a haragodat róluk.
 $Deo gratias
 
@@ -262,7 +262,7 @@ V. Öröm töltötte el a tanítványokat. Alleluja.
 R. Az Úr láttára. Alleluja.
 
 [Pasch Nona]
-!1 Pet 3:18
+!1 Petri 3:18
 v. Mert Krisztus is meghalt egyszer a bunökért, az Igaz a bunösökért, hogy az Istenhez vezessen minket. A test szerint ugyan megölték, de a lélek szerint életre kelt. 
 $Deo gratias
 
@@ -303,7 +303,7 @@ R. Őrizd meg szolgádat a kevélységtől!
 
 
 [Feria TertiaM]
-!Jer 17:14
+!Jerem 17:14
 v. Gyógyíts meg, Uram, és meggyógyulok, szabadíts meg, és megszabadulok, mert te vagy egyetlen reménységem.
 $Deo gratias
 _
@@ -319,7 +319,7 @@ V. Az Úr az én pásztorom, nem szenvedek hiányt
 R. zöldellő réteken legeltet.
 
 [Feria NonaM]
-!1 Pet 1:17-19
+!1 Petri 1:17-19
 v. Éljetek istenfélelemben zarándoklástok idején. Hisz tudjátok, hogy nem veszendő ezüstön vagy aranyon szabadultatok ki, hanem Krisztusnak, a hibátlan és egészen tiszta báránynak a drága vére árán.
 $Deo gratias
 _
@@ -327,7 +327,7 @@ V. Tisztíts meg mindentől, ami rejtve maradt!
 R. örizd meg szolgádat a kevélységtől!
 
 [Adv TertiaM]
-!Jer 23:5
+!Jerem 23:5
 v. Íme eljőnek a napok, úgymond az Úr, és föltámasztom Dávid igaz csemetéjét; és országlani fog mint király, és bölcs leszen, és ítéletet s igazságot tesz a földön.
 $Deo gratias
 
@@ -336,7 +336,7 @@ V. Jöjj, ments meg engem, Seregek Ura, Istene.
 R. Mutasd meg arcodat, és ments meg minket.
 
 [Adv SextaM]
-!Jer 23:6
+!Jerem 23:6
 v. Ama napokban megszabadul Júda, és Izrael bátorságban fog lakni; és ez a név, melyen nevezik őt: Az Úr, a mi igazunk.
 $Deo gratias
 
@@ -345,7 +345,7 @@ V. Mutasd meg nekünk, Uram, irgalmasságodat.
 R. És szabadításodat add meg nekünk.
 
 [Adv NonaM]
-!Iz 14:1
+!Isai 14:1
 v. Közel van, hogy eljöjjön az ő ideje, és napjai messze nem haladnak; mert az Úr könyörül Jákobon, és kiválasztja még Izraelből.
 $Deo gratias
 
@@ -354,7 +354,7 @@ V. Feletted, Jeruzsálem, feltámad az Úr.
 R. És dicsősége feletted leszen.
 
 [Quad TertiaM]
-!Joel 2:12-13
+!Joël 2:12-13
 v. Térjetek vissza hozzám teljes szívetekből, böjtölve, sírva és gyászolva. A szíveteket szaggassátok meg, ne a ruhátokat, mondja a Mindenható Úr.
 $Deo gratias
 
@@ -363,7 +363,7 @@ V. Megszabadított engem * a vadászok tőrétől.
 R. És az éles szavaktól
 
 [Quad SextaM]
-!Isa 55:7
+!Isai 55:7
 v. Hagyja el útját a gonosz, és gondolatait a bűnös; térjen vissza az Úrhoz, mert megkönyörül rajta, Istenünkhöz, mert bőkezű a megbocsátásban
 $Deo gratias
 
@@ -372,7 +372,7 @@ V. Beárnyékol téged * vállaival.
 R. Szárnyai alatt biztonságban vagy.
 
 [Quad NonaM]
-!Isa 58:7
+!Isai 58:7
 v. Törd meg az éhezőnek kenyeredet, és a hajléktalan szegényt fogadd be házadba. Ha mezítelent látsz, öltöztesd föl, és ne fordulj el embertársad elől!
 $Deo gratias
 
@@ -381,7 +381,7 @@ V. Igazsága irányít * és megvédelmez téged.
 R. Nem kell félned az éji sötéttől
 
 [Quad5 TertiaM]
-!Jer 17:13
+!Jerem 17:13
 v. Uram! Azok, akik elhagynak, mind megszégyenülnek; akik pedig elfordulnak tőled, azokat gyökerestül kitépik földjükből, mert elhagyták az élő vizek forrását.
 $Deo gratias
 
@@ -390,7 +390,7 @@ V. Istenem, ments meg lelkemet * az éles kardtól.
 R. Egyetlenem a kutyáktól
 
 [Quad5 SextaM]
-!Jer 17:18
+!Jerem 17:18
 v. Valljanak szégyent, akik üldöznek, ne én szégyenüljek meg! Rettegjenek ők, ne én rettegjek! Rájuk hozd el a nyomorúság napját, és kétszeres csapással zúzd őket össze, Uram, én Istenem.
 $Deo gratias
 
@@ -399,7 +399,7 @@ V. Szabadíts meg engem az oroszlán szájából.
 R. Engem, lealázottat, az egyszarvúak szarvaitól.
 
 [Quad5 NonaM]
-!Jer 18:20
+!Jerem 18:20
 v. Emlékezzél! A színed elé álltam, hogy közbenjárjak értük, és elhárítsam a haragodat róluk.
 $Deo gratias
 
@@ -426,7 +426,7 @@ V. Valóban feltámadt az Úr. Alleluja.
 R. És megjelent Simonnak. Alleluja.
 
 [Pasch NonaM]
-!1 Pet 3:18
+!1 Petri 3:18
 v. Because Christ also died once for our sins, the just for the unjust: that he might offer us to God, being put to death indeed in the flesh, but enlivened in the spirit,
 $Deo gratias
 
@@ -435,7 +435,7 @@ V. Öröm töltötte el a tanítványokat. Alleluja.
 R. Az Úr láttára. Alleluja.
 
 [Feria II TertiaM]
-!Jer 23:5
+!Jerem 23:5
 v. Íme eljőnek a napok, úgymond az Úr, és föltámasztom Dávid igaz csemetéjét; és országlani fog mint király, és bölcs leszen, és ítéletet s igazságot tesz a földön.
 $Deo gratias
 _

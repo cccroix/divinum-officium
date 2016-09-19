@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Olvasmány Iziás próféta könyvéből
-!Isa 13:1-4
+!Isai 13:1-4
 1 Fenyegető jövendölés Babilon ellen, amelyet Izajás, Ámosz fia látott: 
 2 Emeljetek zászlót a kopár hegyen, hallassatok csatakiáltást! Intsetek nekik kezetekkel, hadd vonuljanak be a fejedelmi kapun. 
 3 Magam adtam parancsot megszentelt harcosaimnak. Én hívtam bősz haragomban bajnokaimat, s büszke csapataikat. 
@@ -15,7 +15,7 @@ Olvasmány Iziás próféta könyvéből
 @Tempora/Adv1-1:Responsory1
 
 [Lectio2]
-!Isa 13:4-8
+!Isai 13:4-8
 4 A Seregek Ura vezényli a harci seregeket. 
 5 Messze földről jönnek, az ég határától, az Úrnak és haragjának eszközei, hogy elpusztítsák az egész földet. 
 6 Jajgassatok, mert közel az Úr napja! Mint pusztító hatalom közeleg a Mindenhatótól. 
@@ -26,7 +26,7 @@ Olvasmány Iziás próféta könyvéből
 @Tempora/Adv1-1:Responsory2
 
 [Lectio3]
-!Isa 13:9-11
+!Isai 13:9-11
 9 Igen, eljön az Úr rettenetes napja. Bosszúval és izzó haraggal lesz telve, hogy pusztasággá tegye a földet, és kiirtsa színéről a bűnösöket. 
 10 Akkor az ég csillagai és az Orion nem ragyogtatják fényüket. Elsötétül a fölkelő Nap, és a Hold nem világít. 
 11 Meglátogatom a földet vétkeiért, és gonoszságaik miatt a bűnösöket. Véget vetek a kevélyek gőgjének, és a zsarnokok büszkeségét megalázom. 

@@ -47,7 +47,7 @@ gazdagítók, mint akiknek semmijük sincs, mégis mindenük megvan.
 12 Nem mi zárkóztunk el előletek, hanem ti nem nyitottátok ki a szíveteket.
 13 Mint gyermekeimhez szólok: ti is tegyetek úgy, mint én, tárjátok ki ti is a~
 szíveteket!
-14 Ne húzzatok egy igát a hitetlenekkel! Mi köze az igazságnak a sötétséghez?
+14 Ne húzzatok egy igát a hitetlenekkel!Mich köze az igazságnak a sötétséghez?
 15 Hogyan hozható össze Krisztus Beliállal? Vagy mi köze a hívőnek a~
 hitetlenhez?
 16 Hogyan fér össze Isten temploma a bálványokkal? Márpedig mi az élő Isten~
@@ -71,7 +71,7 @@ szomorúság megtérésetekre vezetett.
 
 [Lectio7]
 Evangélium szent Máté Apostol kőnyvéből
-!Matt 4:1-11.
+!Matth 4:1-11.
 Azon időben a Lélek a pusztába vitte Jézust, hogy a sátán megkísértse. Negyven~
 nap és negyven éjjel böjtölt, végül megéhezett. És így tovább.
 _

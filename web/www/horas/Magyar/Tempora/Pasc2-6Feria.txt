@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 From the Acts of Apostles.
-!Acts 28:16-20
+!Act 28:16-20
 16 Amikor megérkeztünk Rómába, Pál engedélyt kapott, hogy saját szállást vegyen egy katona őrizete alatt. 
 17 Három nap múlva magához kérette a tekintélyesebb zsidókat. Amikor összejöttek, beszélt hozzájuk: "Testvérek! Semmit sem vétettem a nép vagy atyáink szokásai ellen, mégis megkötöztek Jeruzsálemben, és a rómaiak kezére adtak. 
 18 Ezek kivizsgálták ügyemet, s szabadon akartak engedni, mert semmi okot nem találtak, amiért halálra ítéljenek. 
@@ -19,7 +19,7 @@ From the Acts of Apostles.
 @Tempora/Pasc0-6:Responsory1
 
 [Lectio2]
-!Acts 28:21-24
+!Act 28:21-24
 21 Azok kijelentették: "Sem levelet nem kaptunk felőled Júdeából, sem ide vetődő testvér nem hozott hírt vagy mondott rosszat rólad. 
 22 Tőled szeretnénk hallani, hogy milyen felfogást vallasz. Csak azt tudjuk erről a felekezetről, hogy mindenütt ellenzésre talál." 
 23 Megállapodtak vele egy napban, s igen sokan elmentek hozzá a szállására. Reggeltől estig meggyőző erővel bizonyította nekik az Isten országát, és igyekezett őket Mózes törvénye és a próféták alapján megnyerni Jézusnak. 
@@ -29,7 +29,7 @@ From the Acts of Apostles.
 @Tempora/Pasc0-1:Responsory2
 
 [Lectio3]
-!Acts 28:25-31
+!Act 28:25-31
 25 Mivel egymás közt nem értettek egyet, szétoszlottak. Pál csak ezt mondta nekik: "Jól beszélt a Szentlélek Izajás próféta által atyáitokhoz, 
 26 amikor ezt mondta: Menj el ahhoz a néphez és mondd: Hallván halljátok, de nem értitek, nézvén nézitek, de nem látjátok, 
 27 mert megkérgesedett ennek a népnek a szíve. Fülükre nagyot hallanak, szemüket behunyják, nehogy lássanak a szemükkel, halljanak a fülükkel, értsenek a szívükkel, és megtérjenek, hogy meggyógyítsam őket. 

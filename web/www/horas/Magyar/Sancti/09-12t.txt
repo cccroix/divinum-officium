@@ -17,7 +17,7 @@ Doxology=Nat
 
 [Lectio7]
 Evangélium Szt Máté könyvéből
-!Matt 1:1-17
+!Matth 1:1-17
 Jézus Krisztus, Dávid fiának, Ábrahám fiának nemzetségtáblája. Ábrahám nemzette~
 Izsákot, Izsák nemzette Jákobot És így tovább.
 _

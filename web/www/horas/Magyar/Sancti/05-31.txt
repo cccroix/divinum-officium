@@ -16,7 +16,7 @@ Antiphonas horas
 Psalmi Dominica
 
 [Capitulum Vespera]
-!Sir 24:5; 24:7
+!Eccl 24:5; 24:7
 v. Én a Fölségesnek szájából származtam, elsöszülött vagyok minden teremtmény elött. Lakásom a magasban, és királyi székem a felhök oszlopain.
 $Deo gratias
 
@@ -80,7 +80,7 @@ R. Because he who is mighty hath done great things for me. (Alleluja.)
 
 [Lectio1]
 Olvasmány Jézus Sírák fia könyvéből
-!Sir 24:5-11
+!Eccl 24:5-11
 5 Én a Fölségesnek szájából származtam, elsöszülött vagyok minden teremtmény elött.
 6 Én cselekedtem, hogy az égen elfogyhatlan világosság támadott, és mint köddel, befödöztem az egész földet.
 7 Lakásom a magasban, és királyi székem a felhök oszlopain.
@@ -96,7 +96,7 @@ V.  Hail, Mary, full of grace, the Lord is with thee.
 R. The things promised thee have been accomplished in thee. (Alleluja.) 
 
 [Lectio2]
-!Sir 24:14-16
+!Eccl 24:14-16
 14 Kezdettöl és az idök elött teremtettem, és mind az örökkévalóságig meg nem szönök; és a szent lakhelyen szolgáltam elötte.
 15 És így Sionban megerösíttettem, és a megszentelt városban hasonlóképen megnyugodtam, és Jerusalemben az én hatalmam.
 16 És meggyökereztem a tiszteletre méltó nép között, és az én Istenem részében, mely az ö öröksége; és a szentek teljes gyülekezetében az én tartózkodásom.
@@ -108,7 +108,7 @@ V. Let us proclaim the glory of our Queen.
 R. For with Christ she reigneth forever. (Alleluja.) 
 
 [Lectio3]
-!Sir 24:24-30
+!Eccl 24:24-30
 24 Én a szép szeretet anyja vagyok, és a félelemé és az ismereté és a szent reménységé.
 25 Nálam az út és igazság minden kegyelme, nálam az élet és erény minden reménysége.
 26 Jöjetek át hozzám mindnyájan, kik engem kívántok, és gyümölcseimböl teljetek el.
@@ -157,7 +157,7 @@ R. A woman clothed with the sun, and the moon was under her feet, and upon her h
 
 [Lectio7]
 Evangélium szent Lukács Evangélista kőnyvéből
-!Luke 1:26-33
+!Luc 1:26-33
 Azon időben a hatodik hónapban az Isten elküldte Gábor angyalt Galilea Názáret nevű városába egy szűzhöz, aki egy Dávid házából való férfinak, Józsefnek volt a jegyese, és Máriának hívták. És így tovább.
 _
 Homily of St. Bonaventure bishop 
@@ -185,7 +185,7 @@ Mary the Queen is also the distributrix of grace. This is indicated in the book 
 &teDeum
 
 [Capitulum Laudes]
-!Sir 24:5; 24:7
+!Eccl 24:5; 24:7
 v. Én a Fölségesnek szájából származtam, elsöszülött vagyok minden teremtmény elött. Lakásom a magasban, és királyi székem a felhök oszlopain.
 $Deo gratias
 
@@ -204,11 +204,11 @@ Hear us O God our savior, that we who are gladdened by the Festival of blessed V
 $Per Dominum
 
 [Lectio Prima]
-!Sir 24:30-31
+!Eccl 24:30-31
 v. A ki engem hallgat, nem szégyenöl meg, és a kik általam munkálkodnak, nem vétkeznek. A kik fényt derítenek rám, örök életet nyernek.
 
 [Capitulum Tertia]
-!Sir 24:5; 24:7
+!Eccl 24:5; 24:7
 v. Én a Fölségesnek szájából származtam, elsöszülött vagyok minden teremtmény elött. Lakásom a magasban, és királyi székem a felhök oszlopain.
 $Deo gratias
 
@@ -224,7 +224,7 @@ V. There stood by the cross of Jesus his Mother.
 R. Sharing in his passion, the Queen of the whole world.
 
 [Capitulum Sexta]
-!Sir 24, 9-11
+!Eccl 24, 9-11
 v. Az egész földön állottam, és minden nép között &#65279;és minden nemzet között els&#337;ségem vala; minden nagy és kicsiny szivét legy&#337;ztem er&#337;mmel.  
 $Deo gratias
 
@@ -240,7 +240,7 @@ V. All generations shall call me blessed.
 R. Because he that is mighty hath done great things to me.
 
 [Capitulum Nona]
-!Sir 24:30-31
+!Eccl 24:30-31
 v. A ki engem hallgat, nem szégyenöl meg, és a kik általam munkálkodnak, nem vétkeznek. A kik fényt derítenek rám, örök életet nyernek.
 $Deo gratias
 

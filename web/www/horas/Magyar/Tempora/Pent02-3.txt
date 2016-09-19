@@ -11,7 +11,7 @@ Doxology=Corp
 
 [Lectio1]
 Olvasmány Sámuel első könyvéből
-!1 Sam 6:19-21; 7:1
+!1 Reg 6:19-21; 7:1
 19 Ám Jechonja fiai nem örültek együtt Bet-Semes lakóival, amikor az Úr ládáját meglátták. Ezért az Úr lesújtott közülük hetven emberre. A nép bánkódott, hogy az Úr olyan keményen megbüntette őket. 
 20 Bet-Semes lakói föltették a kérdést: "Ki méltó rá, hogy az Úrnak, a szent Istennek színe előtt álljon? Kihez menjen tovább tőlünk?" 
 21 Hírvivőket küldtek hát Kirjat-Jearim lakóihoz és megüzenték: "A filiszteusok visszahozták az Úr ládáját. Gyertek és vigyétek el!" 
@@ -21,7 +21,7 @@ Olvasmány Sámuel első könyvéből
 @Tempora/Pent01-3:Responsory1
 
 [Lectio2]
-!1 Sam 7:2-4
+!1 Reg 7:2-4
 2 Attól a naptól, hogy a láda Kirjat-Jearimba került, nagy idő telt el: húsz esztendő, s Izrael egész háza az Úr után sóhajtozott. 
 3 Akkor Sámuel Izrael egész háza előtt kijelentette: "Ha szívetek mélyéből az Úrhoz akartok térni, távolítsátok el az idegen isteneket és az Asztartéket körötökből, szívetek ragaszkodjék az Úrhoz és ne szolgáljatok másnak, csak neki. Akkor kiszabadít benneteket a filiszteusok kezéből." 
 4 Izrael fiai tehát eltávolították a Baalokat és Asztartéket, és csak az Úrnak szolgáltak. 
@@ -30,7 +30,7 @@ Olvasmány Sámuel első könyvéből
 @Tempora/Pent01-3:Responsory2
 
 [Lectio3]
-!1 Sam 7:5-8
+!1 Reg 7:5-8
 5 Akkor Sámuel elrendelte: "Egész Izrael gyűljön egybe Micpában, s majd imádkozom értetek az Úrhoz!" 
 6 Amikor összegyűltek Micpában, vizet merítettek és az Úr elé öntötték. S böjtöltek is azon a napon. Azt mondták: "Vétkeztünk az Úr ellen." Sámuel meg ítélkezett Izrael fiai fölött Micpában. 
 7 Mihelyt a filiszteusok hírét vették, hogy Izrael fiai egybegyűltek Micpában, a filiszteusok vezérei kivonultak Izrael ellen. Amikor Izrael fiai ezt megtudták, félelem fogta el őket a filiszteusoktól. 
@@ -88,7 +88,7 @@ heart hold to.
 
 [Lectio7]
 Evangélium szent János Apostol kőnyvéből
-!John 6: 55-59
+!Joann 6: 55-59
 A testem ugyanis valóságos étel, s a vérem valóságos ital. Aki eszi az én~
 testemet és issza az én véremet, az bennem marad, én meg benne. És így tovább
 _

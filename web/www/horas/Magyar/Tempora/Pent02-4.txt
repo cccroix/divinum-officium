@@ -12,7 +12,7 @@ Comkey=20
 
 [Lectio1]
 Olvasmány Sámuel első könyvéből
-!1 Sam 8:4-6
+!1 Reg 8:4-6
 4 Ezért Izrael vénei összegyűltek, elmentek Sámuelhez Rámába, 
 5 és azt mondták neki: "Nézd, megöregedtél, fiaid meg nem a te útjaidon járnak. Adj nekünk királyt, hogy kormányozzon minket, amint ez minden népnél szokásban van." 
 6 Sámuelnek azonban nem tetszett, amivel előálltak: "Adj nekünk királyt, hogy kormányozzon minket." Ezért az Úrhoz fordult. 
@@ -21,7 +21,7 @@ Olvasmány Sámuel első könyvéből
 @Tempora/Pent01-1:Responsory1
 
 [Lectio2]
-!1 Sam 8:7-9
+!1 Reg 8:7-9
 7 De az Úr azt mondta Sámuelnek: "Tégy meg mindent, amit csak kér tőled a nép, hisz nem téged vetettek el, hanem engem vetettek el, hogy ne uralkodjam többé fölöttük. 
 8 Amint velem bántak attól az időtől fogva, hogy kivezettem őket Egyiptomból mind a mai napig: elhagytak és idegen isteneknek szolgáltak, most veled is úgy bánnak. 
 9 Nos hát, teljesítsd kérésüket. De figyelmeztesd őket, és ünnepélyesen mutass rá a király jogára, aki majd uralkodik fölöttük." 
@@ -30,7 +30,7 @@ Olvasmány Sámuel első könyvéből
 @Tempora/Pent01-1:Responsory2
 
 [Lectio3]
-!1 Sam 8:10-14
+!1 Reg 8:10-14
 10 Erre Sámuel kihirdette a népnek, amely királyt kívánt tőle, mind, amit az Úr mondott: 
 11 "Ez lesz a királynak a joga, aki majd uralkodik fölöttetek: Elveszi fiaitokat, s szekerei és lovai mellé rendeli őket - a szekerei előtt kell majd futniuk; 
 12 megteszi őket az ezres és ötvenes csoportok parancsnokainak; felszántatja velük a földet és betakaríttatja a termést, hadi fölszerelést csináltat velük és szerszámot a szekereire. 
@@ -53,7 +53,7 @@ Christ once said, in conversing with the Jews "Except ye eat the Flesh of the So
 
 [Lectio7]
 Evangélium szent János Apostol kőnyvéből
-!John 6:56-59
+!Joann 6:56-59
 Aki eszi az én testemet és issza az én véremet, az bennem marad, én meg benne. Engem az élő Atya küldött, s általa élek. Így az is élni fog általam, aki engem eszik. És így tovább
 _
 Homily by St Cyril, Pope of Alexandria.

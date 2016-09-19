@@ -12,7 +12,7 @@ Feria Te Deum
 
 [Lectio1]
 Olvasmány szent Péter apostol második leveléből
-!2 Pet 3:1-7
+!2 Petri 3:1-7
 1 Szeretteim, ez már a második levelem, amelyet nektek írok. Arra törekszem, hogy bennük emlékeztesselek benneteket, és így ébren tartsam bennetek a tiszta gondolkodást, 
 2 hogy jussanak eszetekbe, amiket a szent próféták előre megmondtak, továbbá Urunk és Megváltónk parancsa, amelyet apostolaitok közöltek veletek. 
 3 Először is értsétek meg, hogy az utolsó napokban csúfondáros gúnyolódók fognak fellépni, akik saját vágyaik szerint élnek, 
@@ -25,7 +25,7 @@ Olvasmány szent Péter apostol második leveléből
 @Tempora/Pasc5-4:Responsory1
 
 [Lectio2]
-!2 Pet 3:8-13
+!2 Petri 3:8-13
 8 Szeretteim, főképp egy dolog ne kerülje el figyelmeteket, az, hogy egy nap az Úr előtt annyi, mint ezer év, ezer év pedig annyi, mint egy nap. 
 9 Az Úr nem késik ígéretét teljesíteni, ahogy némelyek késedelmeskedésnek tartják, hogy türelemmel viseltetik irántatok, mert nem akarja, hogy valaki is elvesszen, hanem hogy mindenki bűnbánatot tartson. 
 10 Mint a tolvaj, úgy jön el az Úr napja. Ezen a napon az egek nagy robajjal elmúlnak, az elemek a tűz hevétől felbomlanak, a föld és ami rajta van, elenyészik. 
@@ -37,7 +37,7 @@ Olvasmány szent Péter apostol második leveléből
 @Tempora/Pasc5-4:Responsory2
 
 [Lectio3]
-!2Pet 3:14-18
+!2 Petri 3:14-18
 14 Szeretteim, minthogy ezt várjuk, legyetek rajta, hogy békességben, tisztán és feddhetetlenül találjon benneteket. 
 15 Urunk türelmét tartsátok üdvösségnek, ahogy szeretett testvérünk, Pál írta nektek ajándékul kapott bölcsességében 
 16 minden olyan levélben, amelyben ezekről a dolgokról beszél. Vannak bennük nehezen érthető dolgok, ezeket a tanulatlan és állhatatlan emberek kicsavarják a saját vesztükre, akárcsak a többi Írást is. 
@@ -100,7 +100,7 @@ seest not now.'
 
 [Lectio7]
 Evangélium szent Márk Evangélista kőnyvéből
-!Mark 16:14-20
+!Marc 16:14-20
 Azon időben Jézus a tizenegynek jelent meg, amikor egyszer asztalnál ültek. Szemükre vetette hitetlenségüket és keményszívűségüket, hogy nem hittek azoknak, akik feltámadása után látták. És így tovább.
 _
 Homily by Pope St Gregory the Great.

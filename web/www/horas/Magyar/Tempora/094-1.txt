@@ -1,6 +1,6 @@
 [Lectio1]
 Judith könyvéből
-!Jdt 4:1-4
+!Judith 4:1-4
 1 Amikor Izrael fiai, akik Júdeában laktak, megtudták, hogy Nebukadnezárnak, az~
 asszírok királyának fővezére, Holofernesz mit tett a nemzetekkel: kifosztotta és~
 lerombolta szentélyeiket,
@@ -16,7 +16,7 @@ Jerikóba, Kobába, Eszorába és a Szálem völgyébe.
 @Tempora/094-0:Responsory1
 
 [Lectio2]
-!Jdt 4:5-8
+!Judith 4:5-8
 5 A legmagasabb hegyek csúcsait megszállták, az ottani helységeket~
 megerősítették, és háború esetére ellátták élelemmel, mert földjeiket épp akkor~
 aratták le.
@@ -33,7 +33,7 @@ Jeruzsálemben székelő tanácsa elrendelte.
 @Tempora/093-0:Responsory7
 
 [Lectio3]
-!Jdt 4:9-12
+!Judith 4:9-12
 9 Izrael férfiai mindnyájan az Úrhoz kiáltottak nagy áhítattal, és~
 megalázkodtak.
 10 Maguk, asszonyaik, gyermekeik, állataik s akik velük éltek, sőt, a~

@@ -1,6 +1,6 @@
 [Lectio1]
 A Makkabeusok első könyvéből
-!1 Mac 1:17-20
+!1 Mach 1:17-20
 17 Hatalmas sereggel, harci szekerekkel, elefántokkal és nagy hajóhaddal~
 Egyiptomba vonult.
 18 Háborút indított Egyiptom királya, Ptolemeusz ellen. Ptolemeusz megfutamodott~
@@ -20,7 +20,7 @@ sanctuary.
 R. As the Will is in heaven, so let it be.
 
 [Lectio2]
-!1 Mac 1:21-23
+!1 Mach 1:21-23
 21 Gőggel eltelve behatolt a szentélybe, elvitte az illatáldozat bemutatására~
 szolgáló aranyoltárt, valamint a mécstartót az összes fölszereléssel együtt,
 22 továbbá az áldozati kenyér asztalát, az áldozati edényeket, tálakat, az~
@@ -37,7 +37,7 @@ V. They praised the Lord with Psalms and thanksgiving.
 R. And there was very great gladness among the people.
 
 [Lectio3]
-!1 Mac 1:24-29
+!1 Mach 1:24-29
 24 Mindent összeszedett, és visszatért országába. De előbb vérfürdőt rendezett~
 és fennhéjázó beszédeket tartott.
 25 Mély gyász borult Izraelre, minden tartományára.

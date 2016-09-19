@@ -13,7 +13,7 @@ Boldog az a szolga * akit ura amikor megerkezik és kinyitja a kaput munkában t
 Jól van, te hűséges, derék szolga * menj be urad örömébe! Alleluja;;116
 
 [Capitulum Vespera]
-!Sir 31:8-9
+!Eccl 31:8-9
 v. Boldog a gazdag, ki hiba nélkül találtatott, és ki az arany után nem járt, és nem bízott a pénzben és kincsekben. Kicsoda ez, és dicsérni fogjuk őt mert csodadolgokat cselekedett életében.
 $Deo gratias
 
@@ -58,7 +58,7 @@ R. None of his steps shall slide. Alleluja
 
 [Lectio1]
 Olvasmány Jézus Sírák fia könyvéből
-!Sir 31:8-11
+!Eccl 31:8-11
 8 Boldog az a gazdag, aki bűntelen marad, aki nem lohol folyton a pénz után.
 9 Hol lelhető ilyen, hadd dicsérjük meg, mert hisz csodadolgot vitt végbe népe közt?
 10 Aki sértetlen maradt, ha megkísértették, annak ez szolgáljon nagy dicsőségére. Ki nem vétkezett, bár vétkezhetett volna, s ki tehetett másnak rosszat, de nem tett?
@@ -71,7 +71,7 @@ V. Lord, Thou deliveredst unto me five talents behold, I have gained beside them
 R. Enter thou into the joy of thy Lord. Alleluja
 
 [Lectio2]
-!Sir 32:18-20; 32:28; 33:1-3
+!Eccl 32:18-20; 32:28; 33:1-3
 18 Az okos ember nem veti meg a jótanácsot, a dölyfös hitetlen nem tud a törvényről.
 19 Meggondolatlanul ne tégy soha semmit, akkor nem kell soha megbánnod tetteid.
 20 Göröngyös úton ne igen járj, ne botladozz a köves talajon.
@@ -86,7 +86,7 @@ V. Those that be planted in the house of the Lord, shall flourish in the courts 
 R. Yea, he shall flourish in the presence of the Lord for ever. Alleluja
 
 [Lectio3]
-!Sir 34:14-20
+!Eccl 34:14-20
 14 Aki az Urat féli, nem veszti el reményét, nem reszket, mert Isten a reménysége.
 15 Boldog annak lelke, aki istenfélő. Ki a támasza, kire hagyatkozik?
 16 Azokon van az Úrnak szeme, akik őt szeretik, erős pajzsuk nekik, s hatalmas támaszuk. Hajlék a puszta szele, árnyék a dél hősége ellen, megóv a botlástól, s fölsegíti azt, aki elesett.
@@ -135,7 +135,7 @@ R. For thee have I seen righteous before Me among all people. Alleluja
 
 [Lectio7]
 Evangélium szent Lukács Evangélista kőnyvéből
-!Luke 12:35-40
+!Luc 12:35-40
 Csípőtök legyen felövezve és égjen a lámpásotok. És így tovább
 _
 Homily by Pope St Gregory [the Great.]
@@ -172,7 +172,7 @@ Boldog az a szolga * akit ura amikor megerkezik és kinyitja a kaput munkában t
 Jól van, te hűséges, derék szolga * menj be urad örömébe! Alleluja
 
 [Capitulum Laudes]
-!Sir 31:8-9
+!Eccl 31:8-9
 v. Boldog a gazdag, ki hiba nélkül találtatott, és ki az arany után nem járt, és nem bízott a pénzben és kincsekben. Kicsoda ez, és dicsérni fogjuk őt mert csodadolgokat cselekedett életében.
 $Deo gratias
 
@@ -191,11 +191,11 @@ Isten, aki evről évre megörvendeztetsz minket áldott N. hitvallod ünnepe á
 $Per Dominum.
 
 [Lectio Prima]
-!Wis 10:10
+!Sap 10:10
 v. Vezette az igazat egyenes utakon, megmutatta neki Isten országát és szent dolgokkal ismertette meg, nehéz munkájában jóléthez segítette, és fáradozásait bőséggel jutalmazta.
 
 [Capitulum Tertia]
-!Sir 31:8-9
+!Eccl 31:8-9
 v. Boldog a gazdag, ki hiba nélkül találtatott, és ki az arany után nem járt, és nem bízott a pénzben és kincsekben. Kicsoda ez, és dicsérni fogjuk őt mert csodadolgokat cselekedett életében.
 $Deo gratias
 
@@ -211,7 +211,7 @@ V. Az igaznak szája bölcsességet szól
 R. Nyelve azt hirdeti, ami helyes`.
 
 [Capitulum Sexta]
-!Sir 39:6
+!Eccl 39:6
 v. Szivét arra adja, hogy korán ébredjen az Úrhoz, ki öt teremtette, és a Fölségesnek szine elött könyörög.
 $Deo gratias
 
@@ -227,7 +227,7 @@ V. Istennek törvényét a szívében hordozza
 R. Ezért lépései nem ingadozók.
 
 [Capitulum Nona]
-!Wis 10:10
+!Sap 10:10
 v. Az Úr vezette az igazat egyenes utakon, megmutatta neki Isten országát és szent dolgokkal ismertette meg, nehéz munkájában jóléthez segítette, és fáradozásait bőséggel jutalmazta.
 $Deo gratias
 

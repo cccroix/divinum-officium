@@ -7,7 +7,7 @@ Antiphonas horas
 Una Antiphona
 
 [Capitulum Vespera]
-!Wis 5:1
+!Sap 5:1
 v. Akkor az igaz teljes biztonsággal áll szemben azokkal, akik sanyargatták, és lebecsülték a fáradozását.
 $Deo gratias
 
@@ -84,7 +84,7 @@ Olvasmány szent Pál apostol Korintusiakhoz írott első leveléből
 
 [Lectio7]
 Evangélium szent Máté Apostol kőnyvéből
-!Matt 19:27-29
+!Matth 19:27-29
 27 Akkor Péter vette át a szót: "Nézd, mi mindenünket elhagytuk, és követtünk téged. Mi lesz hát a jutalmunk?" És így tovább.
 _
 Homily by St Jerome, Priest (at Bethlehem.)
@@ -92,7 +92,7 @@ Homily by St Jerome, Priest (at Bethlehem.)
 Peter was a fisherman, he was not rich, he earned his bread by his hand and skill, and nevertheless he is thus bold, and saith confidently "We have forsaken all." And because it suflficeth not to forsake only, he addeth that which to do is to be perfect: "and followed thee." "We have done that which Thou hast commanded us, what reward therefore wilt Thou give us?" "And Jesus said unto them Ámen I say unto you, that ye which have followed Me, in the regeneration, when the Son of Man shall sit in the throne of His glory, ye also shall sit upon twelve thrones, judging the twelve tribes of Israel." He said not, "Ye which have forsaken all," for this did even Crates the philosopher, and they which have set nothing by riches are many, but, "Ye which have followed Me." This did the Apostles, and this do believers do.
 
 [Capitulum Laudes]
-!Wis 5:1
+!Sap 5:1
 v. Akkor az igaz teljes biztonsággal áll szemben azokkal, akik sanyargatták, és lebecsülték a fáradozását.
 $Deo gratias
 
@@ -135,7 +135,7 @@ Jeruzsálem leányai * jöjjetek és nézzétek a vértanúk koronáját, amelly
 v. Tudjuk azt is, hogy akik Istent szeretik, azoknak minden javukra válik, hiszen ő saját elhatározásából választotta ki őket.
 
 [Capitulum Tertia]
-!Wis 5:1
+!Sap 5:1
 v. Akkor az igaz teljes biztonsággal áll szemben azokkal, akik sanyargatták, és lebecsülték a fáradozását.
 $Deo gratias
 
@@ -151,7 +151,7 @@ V. Örök világosság világositsa meg szentjeidet Uram. Alleluja
 R. Az örökkévalósag világossága. Alleluja
 
 [Capitulum Sexta]
-!Sap. 5:5
+!Sap 5:5
 v. Behold how they are numbered among the children of God, and their lot is among the saints.
 $Deo gratias
 

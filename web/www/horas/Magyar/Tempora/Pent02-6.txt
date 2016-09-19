@@ -8,7 +8,7 @@ Doxology=Heart
 
 [Lectio1]
 A királyok első könyvéből.
-!1 Sam 9:1-4
+!1 Reg 9:1-4
 1 Akkoriban élt Benjamin fiai közt egy Kis nevű ember; Abiel fia volt, Ceror~
 fiáé, (aki) Bechoratnak volt a fia, egy Benjamin törzséből való, jómódú embernek,~
 Afiachnak a fiáé.
@@ -25,7 +25,7 @@ Benjamin területét járták be, de nem akadtak rájuk.
 @Tempora/Pent01-3:Responsory1
 
 [Lectio2]
-!1 Sam 8:5-8
+!1 Reg 8:5-8
 5 Amikor Cuf vidékére értek, Saul azt mondta szolgájának, aki elkísérte: "Gyere,~
 térjünk vissza, mert atyám már nem a nőstény szamarak miatt, hanem mi miattunk~
 kezd el aggódni."
@@ -42,7 +42,7 @@ ezüstöm. Ezt adom oda Isten emberének, hogy adjon nekünk útbaigazítást."
 @Tempora/Pent01-3:Responsory2
 
 [Lectio3]
-!1 Sam 9:14-17
+!1 Reg 9:14-17
 14 Fölmentek hát a városba. De épp amikor beléptek a kapun, szembejött velük~
 Sámuel -, a magaslati hely felé tartott.
 15 Az Úr egy nappal azelőtt, hogy Saul megérkezett, ezt a kinyilatkoztatást adta~
@@ -126,7 +126,7 @@ R. And they shall worship thee, O Lord.
 
 [Lectio7]
 Evangélium szent János Apostol kőnyvéből
-!John 19:31-37
+!Joann 19:31-37
 At that time : The Jews, because it was the Preparation, that the bodies should~
 not remain upon the cross on the Sabbath Day, for that Sabbath Day was an high~
 day, besought Pilate that their legs might broken, and that they might be taken~

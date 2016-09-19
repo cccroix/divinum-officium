@@ -22,7 +22,7 @@ The Root of Jesse hath blossomed * the star is arisen out of Jacob, the Virgin h
 Behold, Mary hath borne * for us a Saviour; John beheld Him and cried, saying Behold, the Lamb of God, behold Him that taketh away the sins of the world. Alleluja;;147
 
 [Capitulum Vespera]
-!Titus 2:11-12
+!Tit 2:11-12
 v. Megjelent ugyanis megváltó Istenünk kegyelme minden ember számára,  s arra tanít minket, hogy szakítsunk az istentelenséggel és az evilági vágyakkal, éljünk fegyelmezetten, szentül és buzgón ezen a világon. 
 $Deo gratias
 
@@ -180,7 +180,7 @@ R. He Whose glory filled the heavens lay in a manger.
 
 [Lectio7]
 Evangélium szent Lukács Evangélista kőnyvéből
-!Luke 2:21
+!Luc 2:21
 Azon időben amikor eltelt a nyolc nap és körülmetélték, a Jézus nevet adták neki, ahogy az angyal nevezte. És így tovább.
 _
 Homily by St Ambrose, Bishop (of Milan.)
@@ -246,7 +246,7 @@ The Root of Jesse hath blossomed * the star is arisen out of Jacob, the Virgin h
 Behold, Mary hath borne * for us a Saviour; John beheld Him and cried, saying Behold, the Lamb of God, behold Him that taketh away the sins of the world. Alleluja.
 
 [Capitulum Laudes]
-!Titus 2:11-12
+!Tit 2:11-12
 v. Megjelent ugyanis megváltó Istenünk kegyelme minden ember számára,  s arra tanít minket, hogy szakítsunk az istentelenséggel és az evilági vágyakkal, éljünk fegyelmezetten, szentül és buzgón ezen a világon. 
 $Deo gratias
 
@@ -260,21 +260,21 @@ the earth God is made man. That which He was He remaineth, and that which He was
 not He taketh, suffering therein neither confusion nor division.
 
 [Lectio Prima]
-!Heb 1:11-12
+!Hebr 1:11-12
 v. Ezek elmúlnak, de te nem múlsz el soha, mindenek elavulnak, mint valami ruha.  Akár a köntöst, úgy göngyölöd össze őket, s mint a ruha, úgy változnak meg. Ám te ugyanaz vagy, és esztendeid nem érnek véget. 
 
 [Capitulum Tertia]
-!Titus 2:11-12
+!Tit 2:11-12
 v. Megjelent ugyanis megváltó Istenünk kegyelme minden ember számára,  s arra tanít minket, hogy szakítsunk az istentelenséggel és az evilági vágyakkal, éljünk fegyelmezetten, szentül és buzgón ezen a világon. 
 $Deo gratias
 
 [Capitulum Sexta]
-!Heb 1:10
+!Hebr 1:10
 v. Továbbá: Kezdetben, Uram, te teremtetted a földet, az ég is a te kezed munkája. 
 $Deo gratias
 
 [Capitulum Nona]
-!Heb 1:11-12
+!Hebr 1:11-12
 v. Ezek elmúlnak, de te nem múlsz el soha, mindenek elavulnak, mint valami ruha.  Akár a köntöst, úgy göngyölöd össze őket, s mint a ruha, úgy változnak meg. Ám te ugyanaz vagy, és esztendeid nem érnek véget. 
 $Deo gratias
 
@@ -284,6 +284,6 @@ become the temple of God in taking of her flesh He was not defiled all~
 nations shall come and say, Glory be to thee, O Lord!
 
 [Capitulum Vespera 3]
-!Titus 2:11-12
+!Tit 2:11-12
 v. Megjelent ugyanis megváltó Istenünk kegyelme minden ember számára,  s arra tanít minket, hogy szakítsunk az istentelenséggel és az evilági vágyakkal, éljünk fegyelmezetten, szentül és buzgón ezen a világon. 
 $Deo gratias

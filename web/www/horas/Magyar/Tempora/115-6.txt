@@ -1,6 +1,6 @@
 [Lectio1]
 Malakiás Próféta könyvének kezdete
-!Mal 1:1-4
+!Malach 1:1-4
 1 Jövendölés. Az Úr szózata, amelyet Malakiás által intézett Izraelhez.
 2 Szerettelek benneteket! - mondja az Úr. Ti mégis így beszéltek: Mivel mutattad~
 meg, hogy szeretsz bennünket? - Ugye, Ézsau, a testvére voltál Jákobnak? -~
@@ -14,7 +14,7 @@ mert a Seregek Ura ezt mondja: Ha fölépítik, lerombolom! Így nevezik majd ő
 @Tempora/111-0:Responsory7
 
 [Lectio2]
-!Mal 1:5-7
+!Malach 1:5-7
 5 Meglátjátok ezt saját szemetekkel, és így szóltok: Nagy az Úr Izrael határain~
 túl is!
 6 A gyermek tiszteli apját, a szolga pedig urát. Ha tehát én atya vagyok, hol az~
@@ -29,7 +29,7 @@ kell venni.
 @Tempora/111-1:Responsory2
 
 [Lectio3]
-!Mal 1:8-11
+!Malach 1:8-11
 8 Vagy nem rossz-e az, hogy vak állatot hoztok áldozatul? S ha sántát és beteget~
 hoztok, nem rossz-e az? Ha elvinnéd a helytartódnak, vajon tetszene-e neki, és~
 örömmel fogadna-e téged? - mondja a Seregek Ura.

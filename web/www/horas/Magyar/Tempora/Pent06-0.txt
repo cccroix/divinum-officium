@@ -23,7 +23,7 @@ $Per Dominum
 
 [Lectio1]
 Olvasmány Sámuel második könyvéből
-!2 Sam 12:1-4
+!2 Reg 12:1-4
 1 Akkor az Úr elküldte Nátán prófétát Dávidhoz. El is ment hozzá, és így~
 beszélt: "Egy városban élt két ember. Az egyik gazdag volt, a másik szegény.
 2 A gazdagnak rengeteg juha-kecskéje és barma volt.
@@ -43,12 +43,12 @@ among you.
 R. And He will deliver you out of the hand of your enemies.
 
 [Lectio2]
-!2 Sam 12:5-9
+!2 Reg 12:5-9
 5 Dávid nagyon megharagudott az emberre, és azt mondta Nátánnak: "Amint igaz,~
 hogy az Úr él: az az ember, aki ilyet tesz, az a halál fia.
 6 A bárányt négyszeresen vissza kell fizetnie, amiért így tett, és nem volt~
 kímélettel."
-7 Erre Nátán így szólt Dávidhoz: "Magad vagy ez az ember! Ezt mondta hát az Úr,~
+7 Erre Nátán így szólt Dávidhoz: "Magad vagy ez az ember!Ezech mondta hát az Úr,~
 Izrael Istene: Fölkentelek Izrael királyává és kiszabadítottalak Saul kezéből.
 8 Neked adtam urad házát és a kebledre urad asszonyait, rád bíztam Izrael házát~
 és Júda házát. S ha ez kevés lett volna, még megtetéztem volna ezzel meg azzal.
@@ -65,7 +65,7 @@ of the bear
 R. And anointed me with the oil of His mercy.
 
 [Lectio3]
-!2 Sam 12:10-16
+!2 Reg 12:10-16
 10 Nos, a kard sose fordul el házadtól, amiért megvetettél, és elvetted a hetita~
 Urijától a feleségét, hogy a te asszonyod legyen.
 11 Ezt mondta az Úr: Nos, a saját házadból hozok rád romlást. Elveszem a szemed~
@@ -169,7 +169,7 @@ ever.
 
 [Lectio7]
 Evangélium szent Márk Evangélista kőnyvéből
-!Mark 8:1-9
+!Marc 8:1-9
 Azokban a napokban ismét nagy népsokaság vette körül. Nem volt mit enniük, ezért~
 magához szólította tanítványait. Sajnálom a tömeget - mondta -, mivel már~
 harmadnapja kitartanak mellettem, és nincs mit enniük. És így tovább

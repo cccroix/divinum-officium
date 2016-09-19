@@ -8,7 +8,7 @@ R. And let there descend upon us thy mercy.
 
 [Lectio1]
 Judith könyvének kezdete
-!Jdt 1:1-4
+!Judith 1:1-4
 1 Nebukadnezár uralkodásának 12. évében történt, aki az asszírok fölött~
 uralkodott Ninivében, a nagy városban. Abban az időben a médek fölött,~
 Ekbatanában Arfaxád uralkodott,
@@ -28,7 +28,7 @@ humblest such as boast themselves in their own strength.
 R. Graciously hear the prayers of thy servants.
 
 [Lectio2]
-!Jdt 1:5-9
+!Judith 1:5-9
 5 Ezekben a napokban Nebukadnezár király megütközött Arfaxád királlyal a nagy~
 síkságon, amely Ragau területén van.
 6 Az ő oldalán állt csatasorba az összes hegyvidéki nép, azok, akik az Eufrátesz, a~
@@ -46,7 +46,7 @@ Ezdrelon síkság népeihez,
 @Tempora/093-0:Responsory7
 
 [Lectio3]
-!Jdt 1:10-12; 2:1-3
+!Judith 1:10-12; 2:1-3
 10 továbbá Tafneszig, Ramesszeszig és Gósen egész földjéig, Taniszig és~
 Memfiszig, végül Egyiptom minden lakójához, egészen Etiópia határáig.
 11 Ezeknek a területeknek a lakói azonban megvetették az asszírok királyának,~

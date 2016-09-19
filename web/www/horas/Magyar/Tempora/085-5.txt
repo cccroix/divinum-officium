@@ -1,6 +1,6 @@
 [Lectio1]
 Jézus Sírák fia könyvéből
-!Sir 21:1-5
+!Eccl 21:1-5
 1 Fiam! vétkeztélö ne cselekedd többé, hanem az elöbbiekért is könyörögj, hogy megbocsáttassanak neked. 
 2 Mint a kigyó szinétöl, fuss a bűnöktöl, mert ha közel mégy azokhoz, elfognak téged. 
 3 Fogai oroszlánfogak, megölik az emberek lelkét. 
@@ -11,7 +11,7 @@ Jézus Sírák fia könyvéből
 @Tempora/081-0:Responsory4
 
 [Lectio2]
-!Sir 21:6-10
+!Eccl 21:6-10
 6 A szegény könyörgése szájából az ö füleihez érkezik, és az itélet sietve jö meg neki. 
 7 Ki a dorgálást gyölöli, a bűnös nyomán jár, és ki féli az Istent, ön szivébe tér. 
 8 Távol megismertetik merész nyelvéröl a hatalmas, de az értelmes tudja, hogy amaz önmagát ejti meg. 
@@ -22,7 +22,7 @@ Jézus Sírák fia könyvéből
 @Tempora/081-0:Responsory5
 
 [Lectio3]
-!Sir 21:11-16
+!Eccl 21:11-16
 11 A bűnösök útja kövekkel van egyenessé rakva, de azok végén a pokol és sötétség és büntetések. 
 12 A ki megtartja az igazságot, fölfogja annak értelmét. 
 13 Az Isten félelmének tökéletessége, bölcseség és értelem. 

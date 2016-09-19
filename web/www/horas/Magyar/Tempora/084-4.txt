@@ -1,6 +1,6 @@
 [Lectio1]
 Jézus Sírák fia könyvéből
-!Sir 3:22-26
+!Eccl 3:22-26
 22 Magadnál magasb dolgokra ne törekedjél, és erösbeket magadnál ne vizsgálj;~
 hanem a miket Isten parancsolt neked, azokról gondolkodjál mindenkoron, és ne~
 légy kiváncsi sok dolgára nézve.
@@ -15,7 +15,7 @@ elméjöket.
 @Tempora/081-0:Responsory1
 
 [Lectio2]
-!Sir 3:27-30
+!Eccl 3:27-30
 27 A kemény szív gonoszúl jár utoljára; és ki a veszedelmet szereti, elvesz~
 abban.
 28 A két úton járó szivnek nincs elömenetele, és a gonosz szív megbukik abban.
@@ -27,7 +27,7 @@ bennök, és nem veszik észre.
 @Tempora/081-0:Responsory2
 
 [Lectio3]
-!Sir 3:31-34
+!Eccl 3:31-34
 31 A bölcs szive megismerhetö a bölcseség által, és a jó fül teljes kedvvel~
 hallgatja a bölcseséget.
 32 A bölcs és értelmes szív megtartóztatja magát a bűnöktöl, és elömenete lesz~

@@ -135,7 +135,7 @@ R. They shall be brought unto thee with gladness and rejoicing.
 
 [Lectio7]
 Evangélium szent Máté Apostol kőnyvéből
-!Matt 25:1
+!Matth 25:1
 Azon időben így szólt Jézus tanítványaihoz A mennyek országa hasonlít a tíz szűzhöz, akik fogták lámpásukat, és a vőlegény elé mentek. És így tovább
 _
 Homily by Pope St Gregory the Great.
@@ -190,7 +190,7 @@ Grant unto us, we beseech thee, O Lord, our God, that we may ever call to mind, 
 $Per Dominum
 
 [Lectio Prima]
-!Wis 4:1
+!Sap 4:1
 v. Jobb az erénnyel párosult gyermektelenség, mert halhatatlan az emlékezete, mivelhogy Isten is, ember is elismeri.
 
 [Capitulum Tertia]
@@ -226,12 +226,12 @@ V. God hath chosen her, and fore-chosen her.
 R. He hath made her to dwell in His tabernacle.
 
 [Capitulum Nona1]
-!Sir 51:13-14
+!Eccl 51:13-14
 v. Uram, Istenem,felmagasztaltad a földön lakhelyemet és az elmúló halálért könyörögtem. 14 Segítségöl hittam az Urat, az én Uram Atyját, hogy ne hagyjon engem háborúságom napján és a kevélyek idejében segítség nélkül.
 $Deo gratias
 
 [Capitulum Nona]
-!Wis 4:1
+!Sap 4:1
 v. Jobb az erénnyel párosult gyermektelenség, mert halhatatlan az emlékezete, mivelhogy Isten is, ember is elismeri.
 $Deo gratias
 

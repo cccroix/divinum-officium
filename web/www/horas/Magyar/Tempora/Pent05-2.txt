@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Olvasmány Sámuel második könyvéből
-!2 Sam 3:6-10
+!2 Reg 3:6-10
 6 Míg tartott a háború Saul háza és Dávid háza között, Abner szilárdan kitartott~
 Saul háza mellett.
 7 Ám Saulnak volt egy mellékfelesége; Ricpának hívták, és Ajjának volt a lánya.~
@@ -25,7 +25,7 @@ fölött és Júda fölött, Dántól Beersebáig."
 @Tempora/Pent03-2Feria:Responsory1
 
 [Lectio2]
-!2 Sam 3:12-16
+!2 Reg 3:12-16
 12 Ezután Abner követeket küldött Dávidhoz; ezt üzente: "..Köss velem~
 szövetséget, s támogatlak, hogy egész Izrael hozzád csatlakozzék."
 13 Dávid így válaszolt: "Jól van, szövetséget kötök veled, de van egy kikötésem:~
@@ -42,7 +42,7 @@ mondta neki: "Menj vissza!" S ő visszament.
 @Tempora/Pent03-2Feria:Responsory2
 
 [Lectio3]
-!2 Sam 3:17-21
+!2 Reg 3:17-21
 17 Most Abner Izrael véneivel egyezkedett. Azt mondta nekik: "Régi vágyatok,~
 hogy Dávid legyen a királyotok.
 18 Most hát vigyétek keresztül! Az Úr is azt mondta Dávidnak: Szolgám, Dávid~

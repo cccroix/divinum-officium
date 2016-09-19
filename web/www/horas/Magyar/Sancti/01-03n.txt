@@ -112,7 +112,7 @@ R. Give unto the Lord the glory due unto His Name.
 
 [Lectio1]
 Olvasmány az Apostolok Cselekedeiből
-!Acts 3:1-8
+!Act 3:1-8
 1 Péter és János a kilencórai imádság idején fölment a templomba.
 2 Éppen akkor vittek oda egy bénán született embert, akit mindennap letettek a~
 templom úgynevezett Ékes-kapujánál, hogy a templomba menőktől alamizsnát kérjen.
@@ -136,7 +136,7 @@ conceived in the womb.
 R. For He shall save His people from their sins.
 
 [Lectio2]
-!Acts 3:9-16
+!Act 3:9-16
 9 Az egész nép látta, hogy jár és dicsőíti az Istent.
 10 Amikor ráismertek, hogy ő szokott ott ülni a templom Ékes-kapujánál~
 alamizsnát koldulva, nem tudták, hová legyenek azon való csodálkozásukban, ami~
@@ -168,7 +168,7 @@ R. And in the time of tribulation Thou forgivest the sins of them that call upon
 thee.
 
 [Lectio3]
-!Acts 4:5-12
+!Act 4:5-12
 5 Másnap összegyűltek Jeruzsálem elöljárói, a vének, az írástudók,
 6 Annás főpap, Kaifás, János és Sándor s mindnyájan, akik a főpapi nemzetségből~
 valók voltak.
@@ -262,7 +262,7 @@ R. Let them also that love thy Name be joyful in thee.
 
 [Lectio7]
 Evangélium szent Lukács Evangélista kőnyvéből
-!Luke 2:21
+!Luc 2:21
 Azon időben amikor eltelt a nyolc nap és körülmetélték, a Jézus nevet adták~
 neki. És így tovább.
 _

@@ -200,7 +200,7 @@ R. They shall be brought unto thee with gladness and rejoicing.
 
 [Lectio7]
 Evangélium szent Máté Apostol kőnyvéből
-!Matt 25:1
+!Matth 25:1
 Azon időben így szólt Jézus tanítványaihoz A mennyek országa hasonlít a tíz szűzhöz, akik fogták lámpásukat, és a vőlegény elé mentek. És így tovább
 _
 Homily by Pope St Gregory the Great.
@@ -255,7 +255,7 @@ Isten, aki hatalmad csodálatos erejével gyenge asszonyokat is győztessé tett
 $Per Dominum
 
 [Lectio Prima]
-!Sir 51:13-14
+!Eccl 51:13-14
 v. Uram, Istenem,felmagasztaltad a földön lakhelyemet és az elmúló halálért könyörögtem. Segítségöl hittam az Urat, az én Uram Atyját, hogy ne hagyjon engem háborúságom napján és a kevélyek idejében segítség nélkül.
 
 [Capitulum Tertia]
@@ -291,7 +291,7 @@ V. Isten kiválasztotta őt születése előtt
 R. Hogy sátrában lakjék szine előtt
 
 [Capitulum Nona]
-!Sir 51:13-14
+!Eccl 51:13-14
 v. Uram, Istenem,felmagasztaltad a földön lakhelyemet és az elmúló halálért könyörögtem. Segítségöl hittam az Urat, az én Uram Atyját, hogy ne hagyjon engem háborúságom napján és a kevélyek idejében segítség nélkül.
 $Deo gratias
 
@@ -315,7 +315,7 @@ Jőjj Krisztus jegyese * fogadd el koronádat melyet az Úr készített neked ö
 
 [Lectio11]
 Olvasmány Jézus Sírák fia könyvéből
-!Sir 51:1-7
+!Eccl 51:1-7
 1 Jézusnak, Sirák fiának imádsága. Hálát adok neked, Uram Királyom! És dicsérlek téged, szabadító Istenemet.
 2 Hálát adok a te nevednek, mert segítöm és oltalmazóm lettél.
 3 Megszabadítottad testemet a romlástól, a rosz nyelvek törétöl, és a hazudságot koholók ajkaitól, és az ellenem állók szine elött segitöm lettél.
@@ -325,7 +325,7 @@ Olvasmány Jézus Sírák fia könyvéből
 7 a pokol gyomrának mélységéböl, és a megfertözött nyelvtöl, és a hazug igétöl, az igazságtalan királytól és az álnok nyelvtöl.
 
 [Lectio21]
-!Sir 51:8-12
+!Eccl 51:8-12
 8 Mindhalálig dicséri lelkem az Urat;
 9 mert életem közelgetett lefelé a pokolhoz.
 10 Körölvettek engem mindenfelöl, és nem volt, ki segítsen; körölnéztem az emberek segítsége után, és nem volt.
@@ -333,7 +333,7 @@ Olvasmány Jézus Sírák fia könyvéből
 12 hogy kimented, Uram, a te rád várakozókat, és kiszabadítod öket a pogányok kezeiböl.
 
 [Lectio31]
-!Sir 51:13-17
+!Eccl 51:13-17
 13 Felmagasztaltad a földön lakhelyemet és az elmúló halálért könyörögtem.
 14 Segítségöl hittam az Urat, az én Uram Atyját, hogy ne hagyjon engem háborúságom napján és a kevélyek idejében segítség nélkül.
 15 Dicsérni fogom a te nevedet szüntelen, és dicsérem azt hálaadással, mert meghallgattatott az én imádságom.

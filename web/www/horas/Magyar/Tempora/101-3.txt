@@ -1,6 +1,6 @@
 [Lectio1]
 Olvasmány a Makkabeusok első könyvéből
-!1 Mac 2:19-22
+!1 Mach 2:19-22
 19 Mattatiás válaszolt, és kemény hangon ezt mondta: "Ha a király hatalma alá tartozó minden nép hallgat is rá, s mindenki elhagyja is atyái hitét és eleget tesz is utasításainak, 
 20 én, a fiaim és a testvéreim atyáink szövetségéhez hűen fogunk élni. 
 21 Távol legyen tőlünk, hogy a törvénytől és a parancsoktól eltérjünk! 
@@ -10,7 +10,7 @@ Olvasmány a Makkabeusok első könyvéből
 @Tempora/101-0:Responsory7
 
 [Lectio2]
-!1 Mac 2:21-26
+!1 Mach 2:21-26
 23 Alighogy ezt kijelentette, Júda fiai közül előlépett az egyik, hogy mindenki szeme láttára áldozatot mutasson be a király parancsa szerint a modini oltáron. 
 24 Ennek láttán Mattatiás fölindult, a legbenseje is beleremegett. Szent harag töltötte el, nekiesett és leütötte az oltárnál. 
 25 A király tisztviselőjét is megölte, aki áldozatbemutatásra ösztökélte, majd lerombolta az oltárt. 
@@ -20,7 +20,7 @@ Olvasmány a Makkabeusok első könyvéből
 @Tempora/101-1:Responsory2
 
 [Lectio3]
-!1 Mac 2:27-30
+!1 Mach 2:27-30
 27 Azután Mattatiás hangosan felszólította a várost: "Akiben még van buzgalom a törvény iránt, és hűségesen kitart a szövetség mellett, az kövessen!" 
 28 A fiaival együtt a hegyekbe menekült. Mindenét otthagyta a városban. 
 29 Akkoriban sok igazságot és jogot kereső ember vonult a pusztába, 

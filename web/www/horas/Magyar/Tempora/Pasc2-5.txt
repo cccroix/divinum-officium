@@ -7,7 +7,7 @@ vide Tempora/Pasc2-3;
 
 [Lectio1]
 From the Acts of Apostles.
-!Acts 25:1-5
+!Act 25:1-5
 1 Fesztusz három napra rá, hogy megérkezett a tartományba, Cezáreából fölment~
 Jeruzsálembe.
 2 A főpapok és az előkelő zsidók elé járultak, és előadták panaszukat Pál ellen,~
@@ -23,7 +23,7 @@ ennek az embernek, emeljetek ellene vádat."
 @Tempora/Pasc0-3:Responsory2
 
 [Lectio2]
-!Acts 25:6-8
+!Act 25:6-8
 6 Alig töltött köztük nyolc-tíz napot, lement Cezáreába. Másnap bírói székébe~
 ült, és elővezettette Pált.
 7 Amikor megjelent, a Jeruzsálemből jött zsidók körülállták, és súlyos vádat~
@@ -35,7 +35,7 @@ császár ellen nem vétettem."
 @Tempora/Pasc0-5:Responsory1
 
 [Lectio3]
-!Acts 25:9-12
+!Act 25:9-12
 9 De Fesztusz a kedvükbe akart járni a zsidóknak, ezért megkérdezte Pált:~
 "Beleegyezel, hogy fölmenj Jeruzsálembe, s ott ezek ítélkezzenek fölötted ebben~
 az ügyben?"

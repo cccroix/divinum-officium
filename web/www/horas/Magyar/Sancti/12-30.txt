@@ -54,7 +54,7 @@ megtartója igazul meg.
 
 [Lectio7]
 Evangélium szent Lukács Evangélista kőnyvéből
-!Luke 2:15-20
+!Luc 2:15-20
 Azon időben a pásztorok így szóltak egymáshoz: "Menjünk el Betlehembe, hadd~
 lássuk a valóra vált beszédet, amit az Úr tudtunkra adott!" Gyorsan útra keltek.~
 És így tovább.

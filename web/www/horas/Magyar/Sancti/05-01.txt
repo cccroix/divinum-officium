@@ -30,7 +30,7 @@ $Per Dominum
 
 [Lectio1]
 Szent Jakab Apostol levelének kezdete
-!Jas 1:1-6
+!Jacob 1:1-6
 1 Jakab, Istennek és Urunknak, Jézus Krisztusnak szolgája üdvözletet (küld) a~
 szórványokban élő tizenkét törzsnek.
 2 Testvéreim, tartsátok nagy örömnek, ha különféle megpróbáltatások érnek~
@@ -45,7 +45,7 @@ kételkedik, hasonlít a tenger hullámaihoz, amelyeket felkorbácsol és ide-od
 szél.
 
 [Lectio2]
-!Jas 1:6-11
+!Jacob 1:6-11
 6 s meg is kapja, csak hittel kérje, egy csöppet sem kételkedve. Mert aki~
 kételkedik, hasonlít a tenger hullámaihoz, amelyeket felkorbácsol és ide-oda vet a~
 szél.
@@ -57,7 +57,7 @@ szél.
 elenyészik. Így lesz semmivé a gazdag is a vállalkozásaival.
 
 [Lectio3]
-!Jas 1:12-16
+!Jacob 1:12-16
 12 Boldog az az ember, aki a kísértésben helytáll, mert miután kiállja a próbát,~
 megkapja az élet koszorúját, amelyet az Úr azoknak ígért, akik őt szeretik.
 13 Senki se mondja, aki kísértést szenved: "Az Isten kísért", mert az Istent nem~
@@ -118,7 +118,7 @@ fallen. He wrote one of the Seven Epistles which are called Catholic.
 
 [Lectio7]
 Evangélium szent János könyvéből
-!John 14:1-13
+!Joann 14:1-13
 Azon időben így szólt Jézus tanítványaihoz: Ne legyen nyugtalan a szívetek!~
 Higgyetek az Istenben és bennem is higgyetek! Atyám házában sok hely van És így~
 tovább.

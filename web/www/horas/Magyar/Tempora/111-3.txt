@@ -1,6 +1,6 @@
 [Lectio1]
 Ezékiel Próféta könyvéből
-!Ezek 7:1-4
+!Ezech 7:1-4
 1 Az Úr szózatot intézett hozzám: 
 2 Emberfia, így beszélj: Ezt mondja az Úr, az Isten Izrael földjének: Itt a vég! Eljött a vég az ország négy szélére. 
 3 Már rád tört a vég. Rád zúdítom haragomat, hogy útjaid szerint ítélkezzem, és számon kérjem tőled minden szégyenletes tettedet. 
@@ -14,7 +14,7 @@ V. l Trust in the Lord, and do good, and dwell in the land.
 R. Do justice and judgment, and walk humbly with thy God.
 
 [Lectio2]
-!Ezek 7:5-9
+!Ezech 7:5-9
 5 Ezt mondja az Úr, az Isten: Csapás csapást ér. 
 6 Közeledik a vég, közeledik a vég számodra, nézd, már itt is van. 
 7 Te leszel soron, aki az országban lakol. Elérkezik az idő; nézd, elközeleg a nap, s zűrzavar támad, és nem lesz többé öröm a hegyeken. 
@@ -25,7 +25,7 @@ R. Do justice and judgment, and walk humbly with thy God.
 @Tempora/111-1:Responsory2
 
 [Lectio3]
-!Ezek 7:10-13
+!Ezech 7:10-13
 10 Itt a nap, lám, elérkezik! Sorra kerülsz, a csapás készen vár rád, a gőg eluralkodott. 
 11 Az erőszak már fölemelkedett, hogy a gonoszság vesszejévé váljék.. 
 12 Eljön az idő, közel a nap! Aki vesz, az ne örüljön, s aki elad, az ne szomorkodjék, mert a harag mindenkire rátör. 

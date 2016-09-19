@@ -13,7 +13,7 @@ $Per Dominum
 
 [Lectio1]
 Szent Pál Apostolol Zsidókhoz írt levelének kezdete
-!Heb 1:1-4
+!Hebr 1:1-4
 1 Sokszor és sokféle módon szólt Isten hajdan az atyákhoz,
 2 ezekben a végső napokban Fiában szólt hozzánk, akit a mindenség örökösévé tett,~
 aki által az időket is teremtette.
@@ -26,7 +26,7 @@ isteni Fölség jobbján,
 @Tempora/Epi2-0:Responsory1
 
 [Lectio2]
-!Heb 1:5-9
+!Hebr 1:5-9
 5 Vajon melyik angyalnak mondta valaha: "A fiam vagy, ma szültelek?" Vagy: "Én~
 atyja leszek, ő meg a fiam."
 6 Ám amikor Elsőszülöttét bevezeti a világba, ezt mondja: "Imádja őt Isten~
@@ -42,7 +42,7 @@ Istened, a vigasság olajával minden társad felett.
 @Tempora/Epi2-0:Responsory2
 
 [Lectio3]
-!Heb 1:10-14
+!Hebr 1:10-14
 10 Továbbá: Kezdetben, Uram, te teremtetted a földet, az ég is a te kezed~
 munkája.
 11 Ezek elmúlnak, de te nem múlsz el soha, mindenek elavulnak, mint valami ruha.
@@ -106,7 +106,7 @@ from the nature of things created.
 
 [Lectio7]
 Evangélium szent Máté könyvéből
-!Matt 13:31-32
+!Matth 13:31-32
 Azon időben Jézus egy másik példabeszédet is mondott nekik: "A mennyek országa~
 hasonlít a mustármaghoz, amelyet fogott a gazda és elvetett földjében. És így~
 tovább.

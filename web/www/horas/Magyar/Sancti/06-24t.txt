@@ -19,7 +19,7 @@ The child shall be great * in the sight of the Lord, for His hand is with him.
 The child shall be called a Nazarite. * He shall drink neither wine nor strong drink, neither shall he eat any unclean thing, even from his mother's womb.
 
 [Capitulum Vespera]
-!Isa 49:1
+!Isai 49:1
 v. Halljátok, szigetek, és figyeljetek, távoli népek! Az Úr hívott meg, mielőtt még születtem; anyám méhétől fogva a nevemen szólított.
 $Deo gratias
 
@@ -110,7 +110,7 @@ R. Even of John the Baptist, the Fore-runner of the Lord
 
 [Lectio1]
 Olvasmány Jeremiás próféta könyvéből
-!Jer 1:1-5
+!Jerem 1:1-5
 1 Jeremiásnak, Hilkija fiának a szavai, aki abból a papi családból származott, amely a Benjamin földjén levő Anatotban lakott.
 2 Az Úr Jozijának, Ámon fiának, Júda királyának napjaiban, uralkodásának 13. esztendejében intézte hozzá szózatait,
 3 aztán Jojákimnak, Jozija fiának, Júda királyának napjaiban is, egészen addig, míg Cidkijának, Jozija fiának, Júda királyának 11. esztendeje el nem telt, amikor is fogságba vitték Jeruzsálemet, az ötödik hónapban.
@@ -124,7 +124,7 @@ V. John was in the wilderness, preaching the baptism of repentance.
 R. The same came for a witness, to bear witness of the Light, to make ready a people prepared for the Lord.
 
 [Lectio2]
-!Jer 1:6-10
+!Jerem 1:6-10
 6 Erre azt mondtam: "Jaj, Uram Isten! Nézd, nem tudok én beszélni, hiszen még ifjú vagyok."
 7 De az Úr így válaszolt: "Ne mondd azt, hogy ifjú vagyok, hanem menj el azokhoz, akikhez küldelek, és mondd el nekik mind, amit parancsolok.
 8 Ne félj tőlük, mert veled vagyok, és megoltalmazlak - az Úr mondja ezt neked."
@@ -138,7 +138,7 @@ V. There was a man sent from God, whose name was John.
 R. Who made straight in the desert an highway for the Lord.
 
 [Lectio3]
-!Jer 1:17-19
+!Jerem 1:17-19
 17 Azért hát övezd fel derekadat: kelj föl és mondd el nekik mind, amit parancsolok neked. Ne ijedj meg tőlük, különben én ijesztelek meg a szemük előtt.
 18 Én meg a mai napon erős várossá teszlek; vasoszloppá és ércfallá az egész ország ellenében; Júda királyai és főemberei ellen, papjai és egész népe ellen.
 19 Harcolni fognak ugyan ellened, de nem győznek le, mert veled vagyok és megszabadítalak - mondja az Úr.
@@ -185,7 +185,7 @@ R. His name is John.
 
 [Lectio7]
 Evangélium szent Lukács Evangélista kőnyvéből
-!Luke 1:57-69
+!Luc 1:57-69
 Elérkezett Erzsébet szülésének ideje, és fiút szült. Amikor a szomszédok és rokonok meghallották, hogy milyen nagyra méltatta az Úr irgalmában, vele örültek. És így tovább
 _
 Homily by St Ambrose, Bishop of Milan.
@@ -223,7 +223,7 @@ Among them that are born of women * there hath not risen a greater than John the
 Thou, child, shalt be called the Prophet of the Highest; * for thou shalt go before the face of the Lord, to prepare His ways.
 
 [Capitulum Laudes]
-!Isa 49:1
+!Isai 49:1
 v. Halljátok, szigetek, és figyeljetek, távoli népek! Az Úr hívott meg, mielőtt még születtem; anyám méhétől fogva a nevemen szólított.
 $Deo gratias
 
@@ -262,11 +262,11 @@ R. For His hand is with him.
 And the mouth of Zacharias was opened, * and he prophesied, saying: Blessed be the Lord God of Israel.
 
 [Lectio Prima]
-!Isa 49:7
+!Isai 49:7
 v. Ezt mondja az Úr, Izrael Megváltója és Szentje, annak, akinek életét megvetették, akit a nemzetek megutáltak, a kényurak szolgájának: Királyok állnak majd fel, ha meglátnak, és fejedelmek borulnak le, az Úr miatt, aki hűséges, Izrael Szentje miatt, aki kiválasztott.
 
 [Capitulum Tertia]
-!Isa 49:1
+!Isai 49:1
 v. Halljátok, szigetek, és figyeljetek, távoli népek! Az Úr hívott meg, mielőtt még születtem; anyám méhétől fogva a nevemen szólított.
 $Deo gratias
 
@@ -282,7 +282,7 @@ V. Among them that are born of women there hath not risen a greater
 R. Than John the Baptist.
 
 [Capitulum Sexta]
-!Isa 49:5-6
+!Isai 49:5-6
 v. Becses vagyok az Úr szemében, és Istenem az erőm. És most ezt mondja az Úr, aki már anyám méhétől fogva szolgájává tett, hogy visszavezessem hozzá Jákobot, és Izraelt köréje gyűjtsem: Kevés az, hogy szolgám légy, s fölemeld Jákob törzseit, és visszatérítsd Izrael maradékát. Nézd, a nemzetek világosságává tettelek, hogy üdvösségem eljusson a föld határáig.
 $Deo gratias
 
@@ -298,7 +298,7 @@ V. Elizabeth, the wife of Zacharias, was the mother of a mighty man
 R. Even of John the Baptist, the Fore-runner of the Lord.
 
 [Capitulum Nona]
-!Isa 49:7
+!Isai 49:7
 v. Ezt mondja az Úr, Izrael Megváltója és Szentje, annak, akinek életét megvetették, akit a nemzetek megutáltak, a kényurak szolgájának: Királyok állnak majd fel, ha meglátnak, és fejedelmek borulnak le, az Úr miatt, aki hűséges, Izrael Szentje miatt, aki kiválasztott.
 $Deo gratias
 

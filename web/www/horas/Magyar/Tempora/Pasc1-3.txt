@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 From the Acts of Apostles.
-!Acts 3:1-6
+!Act 3:1-6
 1 Péter és János a kilencórai imádság idején fölment a templomba.
 2 Éppen akkor vittek oda egy bénán született embert, akit mindennap letettek a~
 templom úgynevezett Ékes-kapujánál, hogy a templomba menőktől alamizsnát kérjen.
@@ -23,7 +23,7 @@ adom: A názáreti Jézus Krisztus nevében (állj fel és) járj!"
 @Tempora/Pasc0-6:Responsory1
 
 [Lectio2]
-!Acts 3:7-11
+!Act 3:7-11
 7 Jobb kezénél fogva fölsegítette, mire annak nyomban erő szállt a lábába és a~
 bokájába.
 8 Egy ugrással talpon volt, és tudott járni. Velük együtt bement a templomba,~
@@ -39,7 +39,7 @@ egész nép az úgynevezett Salamon-csarnokba.
 @Tempora/Pasc0-1:Responsory2
 
 [Lectio3]
-!Acts 3:12-16
+!Act 3:12-16
 12 Amikor Péter ezt látta, beszédet intézett a néphez: "Izraelita férfiak! Miért~
 csodálkoztok ezen, miért bámultok úgy ránk, mintha a saját erőnkből vagy~
 jámborságunk folytán értük volna el, hogy ez járni tudjon?

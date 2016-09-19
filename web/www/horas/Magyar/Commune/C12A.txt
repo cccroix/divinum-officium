@@ -99,7 +99,7 @@ V. God hath chosen her and fore-chosen her.
 R. He hath made her to dwell in His tabernacle.
 
 [Lectio1]
-!Luke 1:26-28
+!Luc 1:26-28
 26 A hatodik hónapban az Isten elküldte Gábor angyalt Galilea Názáret nevű városába 
 27 egy szűzhöz, aki egy Dávid házából való férfinak, Józsefnek volt a jegyese, és Máriának hívták. 
 28 Az angyal belépett hozzá és megszólította: "Üdvözlégy, kegyelemmel teljes! Veled van az Úr! Áldottabb vagy minden asszonynál." 
@@ -111,7 +111,7 @@ V. The Lord God shall give unto Him the throne of His father David, and He shall
 R. Behold, thou shalt conceive and bring forth a son, and He shall be called the Son of the Highest.
 
 [Lectio2]
-!Luke 1:29-33
+!Luc 1:29-33
 29 E szavak hallatára Mária zavarba jött, és gondolkozni kezdett rajta, miféle köszöntés ez. 
 30 Az angyal ezt mondta neki: "Ne félj, Mária! Kegyelmet találtál Istennél. 
 31 Gyermeket fogansz, fiút szülsz, és Jézusnak fogod elnevezni. 
@@ -125,7 +125,7 @@ V. How shall this be, seeing I know not men? And the Angel answered and said unt
 R. The Holy Ghost shall come uppon thee, and the power of the highest shall overshadow thee, therefore also the Holy Thing which shall be born of thee shall be called the Son of God
 
 [Lectio3]
-!Luke 1:34-38
+!Luc 1:34-38
 34 Mária megkérdezte az angyalt: "Hogyan válik ez valóra, amikor férfit nem ismerek?" 
 35 Az angyal ezt válaszolta és mondta neki: "A Szentlélek száll rád, s a Magasságbeli ereje borít be árnyékával. Ezért a születendő Szentet is az Isten Fiának fogják hívni. 
 36 Íme, rokonod, Erzsébet is fogant öregségében, s már a hatodik hónapban van, noha meddőnek mondták, 
@@ -148,7 +148,7 @@ The Lord shall give unto Him the throne of His father David, and of His kingdom 
 Behold the handmaid of the Lord * be it unto me according to thy word.
 
 [Capitulum Laudes]
-!Isa 11:1-2
+!Isai 11:1-2
 v. Vessző kél majd Izáj törzsökéből, hajtás sarjad gyökeréből.  Az Úr lelke nyugszik rajta: a bölcsesség és az értelem lelke; a tanács és az erősség lelke; a tudás és az Úr félelmének lelke 
 $Deo gratias.
 
@@ -192,7 +192,7 @@ _
 Ant. The Angel Gabriel was sent * to a virgin espoused to a man whose name was Joseph; and the virgin's name was Mary.
 _
 v. Capitulum
-!Isa 7:14-15
+!Isai 7:14-15
 v. Íme, a szűz fogan, fiút szül, és Immánuelnek nevezi el. Aludttej és méz lesz a tápláléka, míg meg nem tanulja elvetni, ami gonosz, és a jót választani.
 $Deo gratias
 _
@@ -237,7 +237,7 @@ _
 Ant. Hail, Mary, * full of grace, the Lord is with thee blessed art thou among women.
 _
 v. Capitulum
-!Isa 11:1-2
+!Isai 11:1-2
 v. Vessző kél majd Izáj törzsökéből, hajtás sarjad gyökeréből.  Az Úr lelke nyugszik rajta: a bölcsesség és az értelem lelke; a tanács és az erősség lelke; a tudás és az Úr félelmének lelke
 $Deo gratias
 _
@@ -282,7 +282,7 @@ _
 Ant. Fear not, Mary, * thou hast found grace with the Lord behold, thou shalt conceive, and bring forth a Son.
 _
 !!Capitulum
-!Luke 1:32-33
+!Luc 1:32-33
 v. Az Úr Isten neki adja atyjának, Dávidnak trónját, és uralkodni fog Jákob házán örökké, s országának nem lesz vége.
 $Deo gratias
 _
@@ -330,7 +330,7 @@ _
 Ant. Behold the handmaid of the Lord * be it unto me according to thy word. 
 _
 !!Capitulum
-!Isa 7:14-15
+!Isai 7:14-15
 v. Íme, a szűz fogan, fiút szül, és Immánuelnek nevezi el. Aludttej és méz lesz a tápláléka, míg meg nem tanulja elvetni, ami gonosz, és a jót választani.
 $Deo gratias.
 _

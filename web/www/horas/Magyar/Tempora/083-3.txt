@@ -1,6 +1,6 @@
 [Lectio1]
 From the Book of Wisdom
-!Wis 7:1-6
+!Sap 7:1-6
 1 Én is halandó ember vagyok, mint a többi; és a föld első ivadékának utóda. Anyám méhében öltöttem testet. 
 2 Tíz hónap alatt álltam össze a vérében a férfi magvából, az egyesülés gyönyörétől kísérve. 
 3 Mikor megszülettem, én is a közös levegőt szívtam, és a földre estem, mint mindenki; első hangom a sírás volt, mint a többieké. 
@@ -12,7 +12,7 @@ From the Book of Wisdom
 @Tempora/081-0:Responsory7
 
 [Lectio2]
-!Wis 7:7-10
+!Sap 7:7-10
 7 Ezért könyörögtem, és megkaptam az okosságot; esdekeltem, és leszállt rám a bölcsesség lelke. 
 8 Többre becsültem a jogarnál és a trónnál, és hozzá mérten semminek tartottam a gazdagságot. 
 9 A fölbecsülhetetlen drágakövet sem állítottam vele egy sorba; mert mellette minden arany csak egy marék homok, és vele összemérve az ezüst csak sárnak számít. 
@@ -22,7 +22,7 @@ From the Book of Wisdom
 @Tempora/081-1:Responsory2
 
 [Lectio3]
-!Wis 7:11-14
+!Sap 7:11-14
 11 De vele együtt a többi javak is mind hozzám jöttek, mérhetetlen gazdagság volt a kezében. 
 12 Örültem mindennek, mert a bölcsesség volt a vezérük; nem tudtam, hogy a szülőanyjuk is az. 
 13 Csalárdság nélkül sajátítottam el, irigység nélkül adom tovább, nem rejtem el gazdagságát. 

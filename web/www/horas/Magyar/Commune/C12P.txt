@@ -68,7 +68,7 @@ Most és örök időkön át.
 Ámen.
 _
 v. Capitulum
-!Sir 24:24
+!Eccl 24:24
 v. Én a szép szeretet anyja vagyok, és a félelemé és az ismereté és a szent reménységé.
 $Deo gratias
 _
@@ -110,7 +110,7 @@ R. Hogy sátraban lakjék színe előtt
 
 [Lectio1]
 Olvasmány Jézus Sírák fia könyvéből
-!Sir 24:11-13
+!Eccl 24:11-13
 11 minden nagy és kicsiny szivét legyöztem erömmel; és mindezekben nyugodalmat kerestem, és az Úr örökségében lett maradásom.
 12 Akkor parancsola és mondá nekem a mindenek Teremtöje, és a ki teremtett engem, megnyugovék hajlékomban,
 13 és mondá nekem: Jákobban lakjál, és Izraelben bírj örökséget, és választottaim között verj gyökeret.
@@ -122,7 +122,7 @@ V. Blessed art thou among women, and blessed is the fruit of thy womb.
 R. For thou hast borne in thy breast Him Whom the heavens cannot contain.
 
 [Lectio2]
-!Sir 24:15-16
+!Eccl 24:15-16
 15 És így Sionban megerösíttettem, és a megszentelt városban hasonlóképen megnyugodtam, és Jerusalemben az én hatalmam.
 16 És meggyökereztem a tiszteletre méltó nép között, és az én Istenem részében, mely az ö öröksége; és a szentek teljes gyülekezetében az én tartózkodásom.
 
@@ -133,7 +133,7 @@ V. Hail, Mary, full of grace. The Lord is with thee.
 R. Thou hast borne Him Who created thee, and thou abidest a virgin for ever.
 
 [Lectio3]
-!Sir 24:17-20
+!Eccl 24:17-20
 17 Magasra nöttem, mint Libanon hegyén a czedrus, és mint a cziprusfa Sion hegyén;
 18 növekedtem mint a pálma Kádeszben, és mint a rózsaültetvény Jerikóban;
 19 mint a mezökön a szép olajfa, felnöttem, és mint a platanus viz mellett az utczákon.
@@ -245,7 +245,7 @@ _
 Ant. The Virgin Mary * hath been taken into the chamber on high, * where the King of kings sitteth on a throne amid the stars.
 _
 v. Capitulum
-!Sir 24:15
+!Eccl 24:15
 v. És így Sionban megerösíttettem, és a megszentelt városban hasonlóképen megnyugodtam, és Jerusalemben az én hatalmam.
 $Deo gratias
 _
@@ -290,7 +290,7 @@ _
 Ant. We run after thee, on the scent of thy perfumes * the virgins love thee heartily.
 _
 !!Capitulum
-!Sir 24:16
+!Eccl 24:16
 Meggyökereztem a tiszteletre méltó nép között, és az én Istenem részében, mely az ö öröksége; és a szentek teljes gyülekezetében az én tartózkodásom.
 $Deo gratias
 _
@@ -335,7 +335,7 @@ _
 Ant. Fair and comely art thou, * O daughter of Jerusalem, terrible as a fenced camp set in battle array.
 _
 !!Capitulum
-!Sir 24:19
+!Eccl 24:19
 v. Mint a platanus viz mellett az utcákon,
 mint a fahéj és illatozó balzsam illatoztam, s mint a válogatott mirrha adtam a jóillat gyönyöröségét
 $Deo gratias.

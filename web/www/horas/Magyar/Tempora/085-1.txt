@@ -1,6 +1,6 @@
 [Lectio1]
 Jézus Sírák fia könyvéből
-!Sir 7:1-5
+!Eccl 7:1-5
 1 Ne tégy roszat, és nem ér semmi rosz. 
 2 Távozzál a gonosztól, és távozik töled a gonosz. 
 3 Fiam! ne vess gonoszt a hamisság barázdáiba, és nem aratod azt hétszeresen. 
@@ -11,7 +11,7 @@ Jézus Sírák fia könyvéből
 @Tempora/081-1:Responsory1
 
 [Lectio2]
-!Sir 7:6-10
+!Eccl 7:6-10
 6 Ne igyekezzél bíróvá lenni, ha nincs eröd az igaztalanságot megronthatni; netalán megijedj a hatalmasnak tekintetétöl, és veszedelemnek tedd ki igazságodat. 
 7 Ne vétkezzél a város sokasága ellen, de a nép közé se keveredjél. 
 8 Kétszeres bűnbe ne bonyolodjál, mert az egyikért sem leszesz büntetlen. 
@@ -22,7 +22,7 @@ Jézus Sírák fia könyvéből
 @Tempora/081-1:Responsory2
 
 [Lectio3]
-!Sir 7:11-15
+!Eccl 7:11-15
 11 Ne mondjad: Ajándékaim sokaságára tekint az Isten, és midön áldozok a fölséges Istennek, ajándékaimat elfogadja. 
 12 Ne nevesd ki az embert lelke keseröségében, mert vagyon, a ki megaláz és fölmagasztal, a mindentlátó Isten. 
 13 Ne szánts hazudságot atyádfia ellen, se barátod ellen hasonlóképen ne cselekedjél. 

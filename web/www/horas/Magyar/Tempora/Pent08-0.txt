@@ -150,7 +150,7 @@ ever.
 
 [Lectio7]
 Evangélium szent Lukács Evangélista kőnyvéből
-!Luke 16:1-9
+!Luc 16:1-9
 Azon időben Jézus ezt a példabeszédet mondá tanitványainak: Egy gazdag embernek~
 volt egy intézője. Bevádolták nála, hogy eltékozolja vagyonát. És így tovább.
 _

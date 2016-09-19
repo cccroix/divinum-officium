@@ -29,7 +29,7 @@ He That once a little Child, Shivering in the manger lay, Set on Stephen's bless
 
 [Lectio1]
 Olvasmány az Apostolok Cselekedeiből
-!Acts 6:1-6
+!Act 6:1-6
 1 Ez idő tájt, hogy a tanítványok száma egyre nőtt, zúgolódás támadt a görögök~
 közt a zsidók ellen, hogy a mindennapi alamizsnaosztáskor az ő özvegyeiket~
 háttérbe szorítják.
@@ -51,7 +51,7 @@ not able to resist the wisdom, and the Spirit which spake.
 R. Did great wonders and miracles among the people.
 
 [Lectio2]
-!Acts 6:7-10;7:54
+!Act 6:7-10;7:54
 7 Az Úr szava terjedt, úgyhogy a tanítványok száma igen megnőtt Jeruzsálemben,~
 még a papok közül is tömegesen hódoltak a hitnek.
 8 István kegyelemmel és erővel eltelve nagy csodákat és jeleket művelt a nép~
@@ -69,7 +69,7 @@ V. Full of grace and power, he did great wonders and miracles among the people.
 R. His face as it had been the face of an angel standing among them.
 
 [Lectio3]
-!Acts 7:55-59
+!Act 7:55-59
 55 Ő azonban a Szentlélekkel eltelve fölnézett az égre és látta az Isten~
 dicsőségét és Jézust az Isten jobbján.
 56 Felkiáltott: "Látom, hogy nyitva az ég, és az Emberfia ott áll az Isten~
@@ -158,7 +158,7 @@ R. But he received the stones with joy, that he might earn a crown of glory.
 
 [Lectio7]
 Evangélium szent Máté Apostol kőnyvéből
-!Matt 23:34-39
+!Matth 23:34-39
 Azon időben mondá Jézus az irástudóknak és farizeusoknak: Nos, prófétákat,~
 bölcseket és írástudókat küldök hozzátok. Közülük némelyeket megöltök és~
 keresztre feszíttek. És így tovább.
@@ -231,7 +231,7 @@ Stephen saw the heavens opened; * he saw and entered in blessed is he unto whom 
 Behold, I see * the heavens opened, and Jesus standing on the right hand of the power of God.
 
 [Capitulum Laudes]
-!Acts 6:8
+!Act 6:8
 v. István kegyelemmel és erővel eltelve nagy csodákat és jeleket művelt a nép~
 körében.
 $Deo gratias
@@ -244,24 +244,24 @@ R. And made great mourning over him.
 And Stephen, full of grace * and fortitude, did great signs among the people.
 
 [Lectio Prima]
-!Acts 7:59
+!Act 7:59
 v. Míg kövezték Istvánt, így imádkozott: "Uram, Jézus, vedd magadhoz lelkemet!" Ezekkel a szavakkal elszenderült.
 
 [Capitulum Tertia]
-!Acts 6:8
+!Act 6:8
 v. István kegyelemmel és erővel eltelve nagy csodákat és jeleket művelt a nép~
 körében.
 $Deo gratias
 
 [Capitulum Sexta]
-!Acts 6:9-10
+!Act 6:9-10
 v. Erre a libertinusok, cireneiek, alexandriaiak, kilikiaiak és ázsiaiak~
 zsinagógájából némelyek ellene támadtak, és vitatkozni kezdtek Istvánnal, de~
 bölcsességével és a Lélekkel szemben, amellyel beszélt, nem tudtak ellenállni.
 $Deo gratias
 
 [Capitulum Nona]
-!Acts 7:59
+!Act 7:59
 v. Míg kövezték Istvánt, így imádkozott: "Uram, Jézus, vedd magadhoz lelkemet!" Ezekkel a szavakkal elszenderült.
 $Deo gratias
 
@@ -273,7 +273,7 @@ With the Lord there is mercy, * and with Him is plenteous redemption;;129
 Of the fruit of thy body * will I set upon thy throne;;131
 
 [Capitulum Vespera]
-!Acts 6:8
+!Act 6:8
 v. István kegyelemmel és erővel eltelve nagy csodákat és jeleket művelt a nép~
 körében.
 $Deo gratias

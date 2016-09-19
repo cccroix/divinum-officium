@@ -18,7 +18,7 @@ $Per Dominum
 
 [Lectio1]
 Szent Júdás apostol levelének kezdete
-!Jude 1:1-4
+!Jud 1:1-4
 1 Júdás, Jézus Krisztusnak a szolgája, Jakabnak meg a testvére, az Atyaistenben~
 szeretett és a Jézus Krisztusnak megtartott meghívottaknak.
 2 Irgalomban, békében és szeretetben bőven legyen részetek!
@@ -30,7 +30,7 @@ megíratott; ezek az istentelenek Istenünk kegyelmét kicsapongásra fordítjá
 egyetlen Urat, Urunkat, Jézus Krisztust pedig megtagadják.
 
 [Lectio2]
-!Jude 1:5-8
+!Jud 1:5-8
 5 Emlékezetetekbe szeretném idézni, bár egyszer s mindenkorra tudtok mindent,~
 hogy az Úr Egyiptomból kiszabadította a népet, de később azokat, akik nem hittek,~
 elpusztította.
@@ -43,7 +43,7 @@ intő példák a számunkra: az örök tűz lett a büntetésük.
 ~(isteni) fölséget, káromolják az (égi) hatalmasságokat,
 
 [Lectio3]
-!Jude 1:9-13
+!Jud 1:9-13
 9 jóllehet még Mihály főangyal sem mert káromló ítéletet kimondani, amikor Mózes~
 holtteste miatt heves vitába szállt a sátánnal, csak ennyit mondott: "Büntessen~
 meg az Úr!"
@@ -74,7 +74,7 @@ the end, by a glorious martyrdom, the most holy name of Jesus Christ.
 
 [Lectio7]
 Evangélium szent János könyvéből
-!John 15:17-25
+!Joann 15:17-25
  Ezt a parancsot adom nektek: szeressétek egymást! Ha gyűlöl majd benneteket a~
 világ, gondoljatok arra, hogy engem előbb gyűlölt, mint titeket. És így tovább.
 _

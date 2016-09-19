@@ -475,7 +475,7 @@ R. In aeternum cantabo
 R. Misericordias tuas Domine, * In aeternum cantabo
 
 [MM LB6]
-!Eccli 12:2-3
+!Eccl 12:2-3
 Benefac justo, et invenies retributionem magnam: et si non ab ipso, certe a Domino. Non est enim ei bene qui assiduus est in malis, et eleemosynas non danti: quoniam et Altissimus odio habet peccatores, et misertus est pœnitentibus
 $Tu autem
 _
@@ -496,7 +496,7 @@ V. Beati habitant in domo tua, Domine
 R. In saecula saeculorum laudabunt te
 
 [MM Capitulum Adv]
-!Titus 2:12-13
+!Tit 2:12-13
 Sobrie, et juste, et pie vivamus in hoc saeculo, exspectantes beatam spem, et adventum gloriae magni Dei, et Salvatoris nostri Jesu Christi: 
 $Deo gratias
 _
@@ -504,7 +504,7 @@ Veni, Domine, et noli tardare
 R. Relaxa facinora plebi tuae
 
 [MM Capitulum Quad]
-!Iz 1:16-18
+!Isai 1:16-18
 v. Mosdjatok meg, legyetek tiszták, vegyétek el gondolataitok gonoszságát színem elől; szűnjetek meg gonoszul cselekedni. Tanuljatok jót cselekedni, keressétek az igazat, segítsétek az elnyomottat, tegyetek ítéletet az árvának, oltalmazzátok az özvegyet. Azután jöjjetek, és panaszkodjatok rám, úgymond az Úr.
 $Deo gratias
 _
@@ -512,7 +512,7 @@ V. Kezeikben hordoznak téged.
 R. Hogy kőbe ne üssed lábadat.
 
 [MM Capitulum Quad5]
-!Jer 11:18-19
+!Jerem 11:18-19
 Tu autem, Domine, demonstrasti mihi, et cognovi: tunc ostendisti mihi studia eorum. Et ego quasi agnus mansuetus, qui portatur ad victimam. 
 $Deo gratias
 _
@@ -528,7 +528,7 @@ V. Resurrexit Dominus, alleluia
 R. Sicut dixit vobis, alleluia
 
 [MM Capitulum C2]
-!Eccli 15:3
+!Eccl 15:3
 Cibabit illum pane vitae et intellectus, et aqua sapientiae salutaris potabit illum Dominus Deus noster.
 $Deo gratias
 _
@@ -560,7 +560,7 @@ V. Pretiosa in Conspectu Domini, alleluia
 R. Mosr sanctorum eius, alleluia
 
 [MM Capitulum C4]
-!Eccli 44:20
+!Eccl 44:20
 Non est inventus similis illi in gloria: qui conservavit legem Excelsi. Ideo jurejurando fecit illum Dominus crescere in plebem suam. 
 $Deo gratias
 _
@@ -568,7 +568,7 @@ V. Justus germinabit sicut lilium
 R. Et florebit in aeternum ante Dominum
 
 [MM Capitulum C5]
-!Eccli 39:6
+!Eccl 39:6
 Justus cor suum tradidit ad vigilandum diluculo ad Dominum, qui fecit illum, et in conspectu Altissimi deprecabitur. 
 $Deo gratias
 V. Justus germinabit sicut lilium
@@ -583,7 +583,7 @@ V. Dilexisti justitiam et odisti iniquitatem
 R. Propterea unxit te Deus, Deus tuus oleo laetitiae
 
 [MM Capitulum C6m]
-!Eccli 51:4-5
+!Eccl 51:4-5
 Et liberasti me, secundum multitudinem misericordiae nominis tui, a rugientibus praeparatis ad escam: 51:5 de manibus quaerentium animam meam, et de portis tribulationum quae circumdederunt me; 
 $Deo gratias
 _

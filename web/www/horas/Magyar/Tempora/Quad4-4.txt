@@ -5,7 +5,7 @@ Feria Quinta infra Hebdomadam IV in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Evangélium szent Lukács könyvéből
-!Luke 7:11-16
+!Luc 7:11-16
 Azon időben Jézus Naim városába ment. Vele tartottak tanítványai és mások is~
 igen sokan. És így tovább.
 _

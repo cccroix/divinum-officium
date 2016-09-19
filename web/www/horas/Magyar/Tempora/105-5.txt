@@ -1,6 +1,6 @@
 [Lectio1]
 Olvasmány a Makkabeusok második könyvéből
-!2 Mac 10:1-5
+!2 Mach 10:1-5
 1 A Makkabeus és emberei Isten segítségével elfoglalták a szentélyt és a várost.
 2 Szétrombolták a pogányok oltárait, amelyeket a piacon emeltek, és a berkeket~
 is.
@@ -19,7 +19,7 @@ meggyalázták, vagyis ugyanúgy Kiszleu hónap huszonötödik napján.
 @Tempora/101-0:Responsory4
 
 [Lectio2]
-!2 Mac 10:24-27
+!2 Mach 10:24-27
 24 Timóteus, akit a zsidók korábban már megvertek, idegenekb&#337;l hatalmas~
 sereget gy&#369;jtött, és Ázsiából tekintélyes számú lovasságot szedett össze.~
 Azt tervezte, hogy fegyverrel elfoglalja Júdeát.
@@ -35,7 +35,7 @@ várostól. Az ellenség közelében megálltak.
 @Tempora/101-0:Responsory5
 
 [Lectio3]
-!2 Mac 10:28-32
+!2 Mach 10:28-32
 28 Amikor felvirradt a hajnal, mindkét oldalon megindították a támadást. Egyikük - a~
 bátorságon kívül - Istenbe vetett bizalmát tekintette a szerencse és a gy&#337;~
 zelem zálogának. Másikuknak a szenvedélyük volt vezérük a harcban.

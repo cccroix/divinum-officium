@@ -55,7 +55,7 @@ R. And thy daughters shall be nursed at thy side.
 
 [Lectio1]
 Olvasmány Jézus Sírák fia könyvéből
-!Sir 25:5-13
+!Eccl 25:5-13
 5 The things that thou hast not gathered in thy youth, how shalt thou find them in thy old age?
 6 O how comely is judgment for a grey head, and for ancients to know counsel!
 7 O how comely is wisdom for the aged, and understanding and counsel to men of honour!
@@ -73,7 +73,7 @@ V. Who is this, who ascends over the wilderness as pillars of smoke, perfumed wi
 R. As the flower of roses in the spring of the year, and as lilies by the rivers
 
 [Lectio2]
-!Sir 24:14-21
+!Eccl 24:14-21
 14 From the beginning, and before the world, was I created, and unto the world to come I shall not cease to be, and in the holy dwelling place I have ministered before him.
 15 And so was I established in Sion, and in the holy city likewise I rested, and my power was in Jerusalem.
 16 And I took root in an honourable people, and in the portion of my God his inheritance, and my abode is in the full assembly of saints.
@@ -90,7 +90,7 @@ V. Daughter of Sion, thou art entirely fair and sweet, beautiful as the moon, cl
 R. Terrible as an army set in array?
 
 [Lectio3]
-!Sir 24:22-31
+!Eccl 24:22-31
 22 I have stretched out my branches as the turpentine tree, and my branches are of honour and grace.
 23 As the vine I have brought forth a pleasant odour: and my flowers are the fruit of honour and riches.
 24 I am the mother of fair love, and of fear, and of knowledge, and of holy hope.
@@ -145,7 +145,7 @@ In the year 1531, according the religious tradition of Mexico, Mary, the Virgin 
 
 [Lectio7]
 Evangélium szent Lukács Evangélista kőnyvéből
-!Luke 1:39-45
+!Luc 1:39-45
 In that time Mary rising up in those days, went into the hill country with haste into a city of Juda. And she entered into the house of Zachary, and saluted Elizabeth. And so on.
 _
 A Homily of St. Bernard the Abbot

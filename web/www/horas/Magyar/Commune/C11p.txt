@@ -14,7 +14,7 @@ Nézd, elmúlt a tél, elállt az eső, elvonult, kelj föl, kedvesem, gyere, al
 Ékes lettél és édes örömödben, Isten szent szülője, alleluja;;147
 
 [Capitulum Vespera]
-!Sir 24:14
+!Eccl 24:14
 v. Kezdettöl és az idök elött teremtettem, és mind az örökkévalóságig meg nem szünök; és a szent lakhelyen szolgáltam elötte.
 $Deo gratias.
 
@@ -137,7 +137,7 @@ R. And when the daughters of Zion saw her, they cried out that she was most bles
 
 [Lectio7]
 Evangélium szent Lukács Evangélista kőnyvéből
-!Luke 11:27-28
+!Luc 11:27-28
 Azon időben egy asszony a tömegből felkiáltott: "Boldog a méh, amely kihordott, és az emlő, amelyet szoptál!". És így tovább.
 _
 Homily by the Venerable Bede,Lib 4 Cap 49 in Luke 11 It is plain that this was a woman of great earnestness and faith. The Scribes and Pharisees were at once tempting and blaspheming the Lord, but this woman so clearly grasped His Incarnation, and so bravely confessed the same, that she confounded both the lies of the great men who were present, and the faithlessness of the heretics who were yet to come. Even as the Jews then, blaspheming the works of the Holy Ghost, denied the very Son of God Who is of one substance with the Father, so afterwards did the heretics, by denying that Mary always a Virgin did, under the operation of the Holy Ghost, supply flesh to the Onlybegotten One of God, when He was about being born in an human Body, even so, I say, did the heretics deny that the Son of Man should be called a true Son, Who is of one substance with His Mother.
@@ -173,7 +173,7 @@ Nézd, elmúlt a tél, elállt az eső, elvonult, kelj föl, kedvesem, gyere, al
 Ékes lettél és édes örömödben, Isten szent szülője, alleluja
 
 [Capitulum Laudes]
-!Sir 24:14
+!Eccl 24:14
 v. Kezdettöl és az idök elött teremtettem, és mind az örökkévalóságig meg nem szünök; és a szent lakhelyen szolgáltam elötte.
 $Deo gratias.
 
@@ -192,11 +192,11 @@ Kérünk téged ÚrIsten, add meg nekünk szolgáidnak testünk és lelkünk eg�
 $Per Dominum.
 
 [Lectio Prima]
-!Sir 24:19-20
+!Eccl 24:19-20
 v. Mint a platanus viz mellett az utcákon, mint a fahéj és illatozó balzsam illatoztam, s mint a válogatott mirrha adtam a jóillat gyönyöröségét
 
 [Capitulum Tertia]
-!Sir 24:14
+!Eccl 24:14
 v. Kezdettöl és az idök elött teremtettem, és mind az örökkévalóságig meg nem szünök; és a szent lakhelyen szolgáltam elötte.
 $Deo gratias.
 
@@ -212,7 +212,7 @@ V. Isten akarja megvédeni őt
 R. Nem inog meg, Isten lakik benne
 
 [Capitulum Sexta]
-!Sir 24:15-16
+!Eccl 24:15-16
 v. És így Sionban megerösíttettem, és a megszentelt városban hasonlóképen megnyugodtam, és Jerusalemben az én hatalmam. És meggyökereztem a tiszteletre méltó nép között, és az én Istenem részében, mely az ö öröksége; és a szentek teljes gyülekezetében az én tartózkodásom.
 $Deo gratias.
 
@@ -228,7 +228,7 @@ V. Isten választotta őt születése előtt
 R. Hogy sátraban lakjék színe előtt
 
 [Capitulum Nona]
-!Sir 24:19-20
+!Eccl 24:19-20
 v. Mint a platanus viz mellett az utcákon, mint a fahéj és illatozó balzsam illatoztam, s mint a válogatott mirrha adtam a jóillat gyönyöröségét;
 $Deo gratias.
 

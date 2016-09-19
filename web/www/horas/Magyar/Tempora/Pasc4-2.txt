@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 Szent Jakab Apostol leveléböl 
-!Jas 2:1-4
+!Jacob 2:1-4
 1 Testvéreim, Urunk, a megdicsőült Jézus Krisztus hitét ne személyválogatással tartsátok. 
 2 Ha közösségetekbe belép egy férfi pompás öltözékben, aranygyűrűvel az ujján, és belép egy szegény is elnyűtt ruhában, 
 3 figyelmetek a pompás öltözékű felé fordul, és így szóltok hozzá: "Foglalj itt kényelmesen helyet." A szegénynek meg azt mondjátok: "Állj oda oldalra!" Vagy: "Ülj ide zsámolyomhoz!" 
@@ -21,7 +21,7 @@ V. Sing forth the honour of His Name, make His praise glorious.
 R. Even the Lord, ye that are of the fountains of Israel Alleluja, Alleluja.
 
 [Lectio2]
-!Jas 2:5-9
+!Jacob 2:5-9
 5 Hallgassatok ide, szeretett testvéreim! Hát az Isten nem azokat választotta-e ki, akik a világ szemében szegények, hogy a hitben gazdagok legyenek, és örököljék az országot, amelyet azoknak ígért, akik őt szeretik? 
 6 Ti mégis lenézitek a szegényt. Hát nem a gazdagok zsarnokoskodnak fölöttetek és hurcolnak benneteket a bíróság elé? 
 7 Hát nem ők gyalázzák meg azt a fönséges nevet, amely le van híva rátok? 
@@ -37,7 +37,7 @@ R. O let me not wander from thy commandments Alleluja, Alleluja.
 R. O let me not wander from thy commandments Alleluja, Alleluja.
 
 [Lectio3]
-!Jas 2:10-13
+!Jacob 2:10-13
 10 Aki minden törvényt megtart, egy ellen azonban vét, mindegyik ellen vét. 
 11 Mert aki azt mondja: "Ne törj házasságot!", azt is mondta: "Ne ölj!" Ha nem is törsz házasságot, de ölsz, törvényszegővé válsz. 
 12 Úgy beszéljetek és úgy cselekedjetek, mint akik fölött majd a szabadság törvénye szerint ítélkeznek. 

@@ -1,6 +1,6 @@
 [Lectio1]
 Olvasmány a Makkabeusok második könyvéből
-!2 Mac 3:23-25
+!2 Mach 3:23-25
 23 De Heliodor volt olyan merész, hogy keresztülvigye terveit.
 24 Már ott állt testőreivel a kincstár előtt. Ám a lelkeknek és minden~
 hatalomnak az Ura megmutatta erejét, úgyhogy akik merészeltek behatolni, az~
@@ -12,7 +12,7 @@ szerszám. Heliodornak rontott, és mellső lábaival lesújtott rá.
 @Tempora/101-0:Responsory7
 
 [Lectio2]
-!2 Mac 3:26-29
+!2 Mach 3:26-29
 26 Maga a lovas aranypáncélt viselt. Aztán két nagyon erős, ragyogóan szép ifjú~
 is megjelent, pompás öltözékben. Két oldalról mellé léptek, szüntelenül~
 korbácsolták, sok ütést mértek rá.
@@ -28,7 +28,7 @@ megmenekülés minden reményétől,
 @Tempora/101-1:Responsory2
 
 [Lectio3]
-!2 Mac 3:32-34
+!2 Mach 3:32-34
 32 A főpap nagy gondban volt, hogy a király arra fog gyanakodni, hogy a zsidók~
 ártottak Heliodornak. Ezért áldozatot mutatott be a férfi életben maradásáért.
 33 Amikor a főpap bemutatta az engesztelő áldozatot, újra megjelentek ugyanazok az~

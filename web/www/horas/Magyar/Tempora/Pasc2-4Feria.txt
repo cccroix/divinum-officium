@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 De Actibus ApostoIorum.
-!Acts 24:10-16
+!Act 24:10-16
 10 Amikor a helytartó bólintott feléje, hogy beszéljen, Pál így védekezett:~
 "Tudom, hogy hosszú évek óta bírája vagy ennek a népnek, ezért nyugodt lélekkel~
 terjesztem eléd védekezésemet.
@@ -29,7 +29,7 @@ emberek előtt.
 @Tempora/Pasc0-2:Responsory1
 
 [Lectio2]
-!Acts 24:17-21
+!Act 24:17-21
 17 Több év eltelte után azért jelentem meg, hogy adományokat hozzak népemnek, és~
 hogy áldozatot mutassak be.
 18 A tisztulási szertartás végzésekor rám találtak a templomban, de nem tömegben~
@@ -51,7 +51,7 @@ R. Their lips are like a honeycomb dropping, alleluja, alleluja
 R. Their lips are like a honeycomb dropping, alleluja, alleluja.
 
 [Lectio3]
-!Acts 24:22-27
+!Act 24:22-27
 22 Félix elodázta az ügyet, mert sok mindent tudott erről a tanításról: "Ha majd~
 Liziász ezredes megérkezik, döntök ügyetekben."
 23 A századosnak meg azt az utasítást adta, hogy tartsa őrizetben, de hagyja~

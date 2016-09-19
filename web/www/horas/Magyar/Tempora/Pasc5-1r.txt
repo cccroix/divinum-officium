@@ -11,7 +11,7 @@ Doxology=Pasc
 
 [Lectio1]
 Olvasmány szent Péter apostol első leveléből
-!1 Pet 2:1-5
+!1 Petri 2:1-5
 1 Szakítsatok hát minden gonoszsággal, minden álnoksággal, képmutatással, irigységgel és minden rágalmazással.
 2 Mint újszülött csecsemők kívánjatok lelki, vizezetlen tejet, hogy rajta felnőjetek az üdvösségre,
 3 hisz tapasztaltátok, hogy milyen jó az Úr.
@@ -25,7 +25,7 @@ V. Let them whom He hath redeemed from the hand of the enemy, and gathered them 
 R. Say Alleluja, Alleluja, Alleluja.
 
 [Lectio2]
-!1 Pet 2:6-10
+!1 Petri 2:6-10
 6 Ezért van benne az Írásban: Lám, kiválasztott, becses szegletkövet rakok le Sionban. Aki hisz benne, az nem vall szégyent.
 7 Nektek tehát, mivel hisztek benne, dicsőségetekre válik, a hitetlenekre ellenben ez vonatkozik: "Az a kő, amelyet az építők elvetettek, szegletkő lett", a botlás köve és a botrány sziklája:
 8 megbotlanak rajta, mert nem fogadták el hittel a tanítást, amelyre meghívást kaptak.
@@ -39,7 +39,7 @@ V. Give unto the Lord glory and honour, give unto the Lord the glory due unto Hi
 R. Sing unto Him. Alleluja.
 
 [Lectio3]
-!1 Pet 2:11-17
+!1 Petri 2:11-17
 11 Szeretteim, kérlek benneteket, hogy mint idegenek és zarándokok, tartózkodjatok a testi kívánságoktól, mert ezek a lélek ellen törnek.
 12 Éljetek szép életet a pogányok között, hogy lássák jótetteiteket, és látogatása napján majd magasztalják az Istent, épp amiért most gonosztevőnek rágalmaznak benneteket.
 13 Engedelmeskedjetek az Úrért minden emberi hatalomnak, mind a királynak, a legfőbbnek, mind a helytartóknak, akiket ő küldött,

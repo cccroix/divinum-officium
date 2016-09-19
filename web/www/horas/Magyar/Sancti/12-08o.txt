@@ -41,7 +41,7 @@ $Per Dominum
 Let us keep the Birthday of the Virgin Mary. * Let us worship Christ, her Son, and her Lord and ours.
 
 [Lectio1]
-!Sir 24:5-13
+!Eccl 24:5-13
 5 Én a Fölségesnek szájából származtam, elsöszülött vagyok minden teremtmény~
 elött.
 6 Én cselekedtem, hogy az égen elfogyhatlan világosság támadott, és mint köddel,~
@@ -62,7 +62,7 @@ választottaim között verj gyökeret.
 @Sancti/12-25:Responsory1
 
 [Lectio2]
-!Sir 24:12-21
+!Eccl 24:12-21
 14 Kezdettöl és az idök elött teremtettem, és mind az örökkévalóságig meg nem~
 szönök; és a szent lakhelyen szolgáltam elötte.
 15 És így Sionban megerösíttettem, és a megszentelt városban hasonlóképen~
@@ -84,7 +84,7 @@ balzsam az én illatom.
 @Sancti/12-25:Responsory2
 
 [Lectio3]
-!Sir 24:22-31
+!Eccl 24:22-31
 22 És mint a terpentinfa, kiterjesztettem ágaimat, és ágaim pompásak és~
 kedvesek.
 23 Én mint a szöllötö az illat gyönyöröségét termettem, és virágaimból díszes és~
@@ -152,7 +152,7 @@ the singing of Mary hath silenced the wailing of Eve.
 
 [Lectio7]
 Evangélium szent Máté Apostol kőnyvéből
-!Matt 1:1-17
+!Matth 1:1-17
 The Book of the generation of Jesus Christ, the Son of David, the son of~
 Abraham. Abraham begat Isaac, and Isaac begat Jacob. And so on.
 _

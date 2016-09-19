@@ -88,7 +88,7 @@ shall be righted.
 
 [Lectio7]
 Evangélium szent Máté Apostol kőnyvéből
-!Matt 23:34-35
+!Matth 23:34-35
 Azon időben mondá Jézus az iras'tudóknak és farizeusoknak: Nos, prófétákat,~
 bölcseket és írástudókat küldök hozzátok. Közülük némelyeket megöltök és~
 keresztre feszíttek. És így tovább.

@@ -33,7 +33,7 @@ $Qui tecum
 
 [Lectio1]
 Olvasmány Iziás próféta könyvéből
-!Isa 11:1-4
+!Isai 11:1-4
 1 Vessző kél majd Izáj törzsökéből, hajtás sarjad gyökeréből.
 2 Az Úr lelke nyugszik rajta: a bölcsesség és az értelem lelke; a tanács és az~
 erősség lelke; a tudás és az Úr félelmének lelke,
@@ -51,7 +51,7 @@ V. For I am the Lord, thy God, the Holy One of Israel, thy Saviour.
 R. Fear not, for I will save thee, and deliver thee.
 
 [Lectio2]
-!Isa 11:4-7
+!Isai 11:4-7
 4 hanem igazságot szolgáltat az alacsony sorúaknak, és méltányos ítéletet hoz a~
 föld szegényeinek. Szája vesszejével megveri az erőszakost, s ajka leheletével~
 megöli a gonoszt.
@@ -72,7 +72,7 @@ power, and dominion.
 R. Over all the earth.
 
 [Lectio3]
-!Isa 11:8-10
+!Isai 11:8-10
 8 A csecsemő nyugodtan játszhadozhat a viperafészeknél, s az áspiskígyó üregébe~
 is bedughatja a kezét az anyatejtől elválasztott kisgyerek.
 9 Sehol nem ártanak, s nem pusztítanak az én szent hegyemen. Mert a föld úgy~
@@ -146,7 +146,7 @@ R. For thy Saviour cometh from the midst of the nations.
 
 [Lectio7]
 Evangélium szent Máté Apostol kőnyvéből
-!Matt 11:2-10
+!Matth 11:2-10
 Azon időben János a börtönben hallott Jézus tetteiről. Elküldte tanítványait,~
 hogy kérdezzék meg: "Te vagy az eljövendő, vagy mást várjunk?" És így tovább.
 _

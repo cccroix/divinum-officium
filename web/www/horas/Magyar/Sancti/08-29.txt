@@ -43,7 +43,7 @@ $Per Dominum.
 
 [Lectio1]
 Olvasmány Jeremiás próféta könyvéből
-!Jer 1:1-5
+!Jerem 1:1-5
 1 Jeremiásnak, Hilkija fiának a szavai, aki abból a papi családból származott,~
 amely a Benjamin földjén levő Anatotban lakott.
 2 Az Úr Jozijának, Ámon fiának, Júda királyának napjaiban, uralkodásának 13.~
@@ -63,7 +63,7 @@ V. For John had rebuked Herod, for Herodias' sake.
 R. His brother Philip's wife, for he had married her.
 
 [Lectio2]
-!Jer 1:6-10
+!Jerem 1:6-10
 6 Erre azt mondtam: "Jaj, Uram Isten! Nézd, nem tudok én beszélni, hiszen még~
 ifjú vagyok."
 7 De az Úr így válaszolt: "Ne mondd azt, hogy ifjú vagyok, hanem menj el azokhoz,~
@@ -82,7 +82,7 @@ R. For Herodias' sake, his brother's wife, whom he had married while his brother
 was yet alive.
 
 [Lectio3]
-!Jer 1:17-19
+!Jerem 1:17-19
 17 Azért hát övezd fel derekadat: kelj föl és mondd el nekik mind, amit~
 parancsolok neked. Ne ijedj meg tőlük, különben én ijesztelek meg a szemük~
 előtt.
@@ -165,7 +165,7 @@ R. And gave him perpetual glory.
 
 [Lectio7]
 Evangélium szent Márk Evangélista kőnyvéből
-!Mark 6:17-29
+!Marc 6:17-29
 Abban az időben Heródes embereivel elfogatta Jánost, és megkötözve börtönbe~
 vetette testvérének, Fülöpnek a felesége, Heródiás miatt, akit feleségül vett.~
 És így tovább.

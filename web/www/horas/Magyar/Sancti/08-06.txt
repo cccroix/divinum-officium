@@ -101,7 +101,7 @@ R. Honour and great majesty shalt Thou lay upon him.
 
 [Lectio1]
 Olvasmány szent Péter apostol második leveléből
-!2 Pet 1:10-14
+!2 Petri 1:10-14
 10 Testvérek, ezért még inkább törekedjetek rá, hogy hivatásotokat és kiválasztottságotokat tetteitekkel megpecsételjétek, mert ha ezt megteszitek, nem botoltok el soha.
 11 Így lesz ugyanis könnyű számotokra a bemenetel Urunknak és Megváltónknak, Jézus Krisztusnak örök országába.
 12 Ezért folyton azon leszek, hogy emlékeztesselek benneteket ezekre, ha ismeritek is, és biztosak vagytok is a most felfogható igazságban.
@@ -115,7 +115,7 @@ V. And the Gentiles shall come to thy light, and kings to the brightness of thy 
 R. And the glory of the Lord is risen upon thee.
 
 [Lectio2]
-!2 Pet 1:15-17
+!2 Petri 1:15-17
 15 De igyekszem, hogy ezekre halálom után is mindig emlékezzetek.
 16 Mert nem kieszelt meséket vettünk alapul, amikor tudtul adtuk nektek Jézus Krisztus hatalmát és eljövetelét, mert hiszen szemlélői voltunk fenségének.
 17 Amikor ugyanis az Atyaisten tiszteletet nyilvánított iránta és megdicsőítette, ez a szózat hallatszott rá vonatkozóan a fölséges dicsőség hazájából: "Ez az én szeretett Fiam, akiben kedvem telik."
@@ -127,7 +127,7 @@ V. There was a cloud that overshadowed them, and the voice of the Father came ou
 R. This is My beloved Son, in Whom I am well pleased hear ye Him.
 
 [Lectio3]
-!2 Pet 1:18-21
+!2 Petri 1:18-21
 18 Ezt az égből jövő szózatot mi is hallottuk, amikor ott voltunk vele a szent hegyen.
 19 Így a prófétai jövendöléseket még jobban hisszük. Jól teszitek, ha figyeltek rájuk, mint sötétben világító lámpásra, amíg a nappal fel nem virrad, és a hajnalcsillag fel nem ragyog a szívetekben.
 20 Először is azt értsétek meg, hogy az Írásnak egyetlenegy jövendölése sem származik önkényes értelmezésből.
@@ -174,7 +174,7 @@ R. How shall not the ministration of the Spirit, which abideth, be rather glorio
 
 [Lectio7]
 Evangélium szent Máté Apostol kőnyvéből
-!Matt 17:1-9
+!Matth 17:1-9
 Abban az időben Jézus maga mellé vette Pétert, Jakabot és testvérét, Jánost, s fölment külön velük egy magas hegyre. Ott elváltozott előttük. És így tovább.
 _
 Homily by St John Chrysostom, (Patriarch of Constantinople.)
@@ -250,7 +250,7 @@ R. Wherein was engraved Holiness, glory, and honour.
 And, behold, a voice out of the cloud, * which said This is My beloved Son, in Whom I am well pleased hear ye Him. Alleluja.
 
 [Lectio Prima]
-!Rev 21:10-11; 21:23
+!Apoc 21:10-11; 21:23
 v. És lélekben elvitt egy nagy magas hegyre, s ott megmutatta nekem a mennyből, az Istentől alászállt szent várost, Jeruzsálemet. Isten dicsőségét sugározta. És világossága pedig a Bárány.
 
 [Capitulum Tertia]
@@ -286,7 +286,7 @@ V. His glory is great in thy salvation Alleluja.
 R. Honour and great majesty shalt Thou lay upon him. Alleluja.
 
 [Capitulum Nona]
-!Rev 21:10-11; 21:23
+!Apoc 21:10-11; 21:23
 v. És lélekben elvitt egy nagy magas hegyre, s ott megmutatta nekem a mennyből, az Istentől alászállt szent várost, Jeruzsálemet. Isten dicsőségét sugározta. És világossága pedig a Bárány.
 $Deo gratias
 

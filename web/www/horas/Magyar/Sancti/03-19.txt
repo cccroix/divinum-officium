@@ -218,7 +218,7 @@ R. Simeon took Him up in his arms, and blessed God.
 
 [Lectio7]
 Evangélium szent Máté Apostol kőnyvéből
-!Matt 1:18-21
+!Matth 1:18-21
 Anyja, Mária, Józsefnek a jegyese, még mielőtt egybekeltek volna, úgy találtatott, hogy gyermeket fogant a Szentlélektől. És így tovább.
 _
 Homily by St Jerome, Priest (at Bethlehem,)
@@ -307,7 +307,7 @@ Jesus Himself * began to be about thirty years of age, being, (as was supposed,)
 the son of Joseph.
 
 [Lectio Prima]
-!Wis 10:10
+!Sap 10:10
 v. Vezette az igazat egyenes utakon, megmutatta neki Isten országát és szent dolgokkal ismertette meg, nehéz munkájában jóléthez segítette, és fáradozásait bőséggel jutalmazta. 
 
 [Capitulum Tertia]
@@ -327,7 +327,7 @@ V. His glory is great in thy salvation.
 R. Honour and great majesty shalt Thou lay upon him.
 
 [Capitulum Sexta]
-!Sir 45:1; 45:4
+!Eccl 45:1; 45:4
 v. Kedves volt Istennél és embereknél Mózes; kinek emlékezete áldásban vagyon.  Az ö hösége és szelídsége miatt megszentelé öt, és kiválasztotta öt minden test közöl. 
 $Deo gratias
 
@@ -343,7 +343,7 @@ V. The righteous shall grow as the lily.
 R. Yea, he shall flourish for ever in the presence of the Lord.
 
 [Capitulum Nona]
-!Wis 10:10
+!Sap 10:10
 v. Vezette az igazat egyenes utakon, megmutatta neki Isten országát és szent dolgokkal ismertette meg, nehéz munkájában jóléthez segítette, és fáradozásait bőséggel jutalmazta. 
 $Deo gratias
 

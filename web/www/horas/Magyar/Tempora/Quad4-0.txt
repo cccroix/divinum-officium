@@ -15,7 +15,7 @@ $Per Dominum
 
 [Lectio1]
 Mózes második könyvéből
-!Exod 3:1-6
+!Ex 3:1-6
 1 Mózes apósának, Jetrónak, Midián papjának a juhait őrizte. Egyszer messzire~
 behajtotta a juhokat a pusztába, és eljutott az Isten hegyéhez, a Hórebhez.
 2 Itt megjelent neki az Isten angyala a tűz lángjában, egy égő csipkebokorban.~
@@ -42,7 +42,7 @@ R. Let My people go. And the heart of Pharaoh shall be hardened, that he will~
 not let My people go but by a mighty hand.
 
 [Lectio2]
-!Exod 3:7-10
+!Ex 3:7-10
 7 Az Úr pedig így szólt: "Láttam Egyiptomban élő népem nyomorúságát és hallottam a~
 munkafelügyelőkre vonatkozó panaszát; igen, ismerem szenvedését.
 8 Azért szálltam le, hogy kiszabadítsam az egyiptomiak hatalmából, és hogy~
@@ -61,7 +61,7 @@ V. The Lord God of the Hebrews hath sent me unto thee, saying
 R. Let My people go, that they may hold a feast unto Me in the wilderness.
 
 [Lectio3]
-!Exod 3:11-15
+!Ex 3:11-15
 11 Mózes így szólt Istenhez: "Ki vagyok én, hogy a fáraóhoz menjek és Izrael~
 fiait kivezessem Egyiptomból?"
 12 Isten ezt válaszolta: "Veled leszek, s ez lesz a jel, amelyről felismered,~
@@ -164,7 +164,7 @@ R. To make him meet to receive the Law of God.
 
 [Lectio7]
 Evangélium szent János könyvéből
-!John 6:1-15
+!Joann 6:1-15
 Azon időben Jézus átkelt a Galileai-tavon, Tibériás taván. Nagy tömeg követte, mert látták a betegeken végbevitt csodajeleket. És így tovább.
 _
 Homily by St Austin, Bishop (of Hippo.)

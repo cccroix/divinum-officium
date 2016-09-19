@@ -13,7 +13,7 @@ Boldog az a szolga * akit ura amikor megerkezik és kinyitja a kaput munkában t
 Jól van, te hűséges, derék szolga * menj be urad örömébe!;;116
 
 [Capitulum Vespera]
-!Sir 31:8-9
+!Eccl 31:8-9
 v. Boldog a gazdag, ki hiba nélkül találtatott, és ki az arany után nem járt, és nem bízott a pénzben és kincsekben. Kicsoda ez, és dicsérni fogjuk őt mert csodadolgokat cselekedett életében.
 $Deo gratias
 
@@ -58,7 +58,7 @@ R. Ezért lépései nem ingadozók.
 
 [Lectio1]
 Olvasmány Jézus Sírák fia könyvéből
-!Sir 39:1-5
+!Eccl 39:1-5
 1 Milyen más, aki egész lelkét arra adja, hogy a Magasságbeli törvényét tanulja; kutatja az elődök bölcsességét, s a jövendölésnek szenteli idejét.
 2 Neves emberek mondásait őrzi, s behatol a példabeszédek világába.
 3 A hasonlatok titkait fürkészi, s a bölcs mondások értelmét keresi.
@@ -72,7 +72,7 @@ V. Lord, thou deliveredst unto me five talents; behold, I have gained beside the
 R. Enter thou into the joy of thy Lord.
 
 [Lectio2]
-!Sir 39:6-10
+!Eccl 39:6-10
 6 Ha tetszik Urának, a Hatalmasnak, akkor eltölti az értelem lelkével. Bölcs szavak törnek elő belőle, és imádságában az Urat dicséri.
 7 Bölcsen gondolkodik, ért a tudományhoz, s titkok megértésén járatja az eszét.
 8 Nyilvánosságra is hozza tanítását, s dicsekszik az Úrnak szent szövetségével.
@@ -86,7 +86,7 @@ V. He hath made him a blessing unto all nations, and hath established His covena
 R. Therefore the Lord assured him by an oath that He would multiply his seed among His
 
 [Lectio3]
-!Sir 39:11-14
+!Eccl 39:11-14
 11 He shall show forth the discipline he hath learned, and shall glory in the law of the covenant of the Lord.
 12 Many shall praise his wisdom, and it shall never be forgotten.
 13 The memory of him shall not depart away, and his name shall be in request from generation to generation.
@@ -134,7 +134,7 @@ R. For thee have I seen righteous before Me among all people.
 
 [Lectio7]
 Evangélium szent Lukács Evangélista kőnyvéből
-!Luke 12:35-40
+!Luc 12:35-40
 Azon időben így szólt Jézus tanítványaihoz: Csípőtök legyen felövezve és égjen a lámpásotok. És így tovább
 _
 Homily by Pope St Gregory (the Great.)
@@ -171,7 +171,7 @@ Boldog az a szolga * akit ura amikor megerkezik és kinyitja a kaput munkában t
 Jól van, te hűséges, derék szolga * menj be urad örömébe!
 
 [Capitulum Laudes]
-!Sir 31:8-9
+!Eccl 31:8-9
 v. Boldog a gazdag, ki hiba nélkül találtatott, és ki az arany után nem járt, és nem bízott a pénzben és kincsekben. Kicsoda ez, és dicsérni fogjuk őt mert csodadolgokat cselekedett életében.
 $Deo gratias
 
@@ -229,11 +229,11 @@ Isten, aki evről évre megörvendeztetsz minket áldott N. hitvallod ünnepe á
 $Per Dominum.
 
 [Lectio Prima]
-!Wis 10:10
+!Sap 10:10
 v. Vezette az igazat egyenes utakon, megmutatta neki Isten országát és szent dolgokkal ismertette meg, nehéz munkájában jóléthez segítette, és fáradozásait bőséggel jutalmazta.
 
 [Capitulum Tertia]
-!Sir 31:8-9
+!Eccl 31:8-9
 v. Boldog a gazdag, ki hiba nélkül találtatott, és ki az arany után nem járt, és nem bízott a pénzben és kincsekben. Kicsoda ez, és dicsérni fogjuk őt mert csodadolgokat cselekedett életében.
 $Deo gratias
 
@@ -249,7 +249,7 @@ V. Az igaznak szája bölcsességet szól
 R. Nyelve azt hirdeti, ami helyes`.
 
 [Capitulum Sexta]
-!Sir 39:6
+!Eccl 39:6
 v. Szivét arra adja, hogy korán ébredjen az Úrhoz, ki öt teremtette, és a Fölségesnek szine elött könyörög.
 $Deo gratias
 
@@ -265,7 +265,7 @@ V. Istennek törvényét a szívében hordozza
 R. Ezért lépései nem ingadozók.
 
 [Capitulum Nona]
-!Wis 10:10
+!Sap 10:10
 v. Az Úr vezette az igazat egyenes utakon, megmutatta neki Isten országát és szent dolgokkal ismertette meg, nehéz munkájában jóléthez segítette, és fáradozásait bőséggel jutalmazta.
 $Deo gratias
 
@@ -289,7 +289,7 @@ Igaz és kiválló tanitó, * Egyházunk fénye, N. az isteni Törvény tisztel�
 
 [Lectio11]
 Olvasmány a Bölcsesség könyvéből
-!Wis 4:7-14
+!Sap 4:7-14
 7 Az igaznak azonban, ha időnap előtt hal is meg, nyugalomban lesz része.
 8 Mert a tisztes aggkort nem a hosszú élet adja, nem függ az évek számától.
 9 Sokkal többet ér az embernek a megfontoltság, mint az ősz haj, és a bűntelen élet, mint a magas kor.
@@ -300,7 +300,7 @@ Olvasmány a Bölcsesség könyvéből
 14 Kedvét találta lelkében az Úr, azért sietett kimenteni a romlottság köréből.
 
 [Lectio21]
-!Wis 4:14-19
+!Sap 4:14-19
 14 Látják ezt az emberek, de nem értik, és nem veszik szívükre,
 15 hogy kegyelem és irgalom vár az Úr választottaira és oltalom a szentjeire.
 16 Az elhunyt igaz elítéli az élő istenteleneket, és a korán beteljesedett ifjúság a bűnösnek években gazdag életét.
@@ -309,7 +309,7 @@ Olvasmány a Bölcsesség könyvéből
 19 Akkor hullává lesznek, megvetetté, és gúnynak tárgyává a holtak közt örökre. Mert letaszítja őket, úgyhogy meg sem mukkannak, velejükig megrendíti őket, végső pusztulásra jutnak,
 
 [Lectio31]
-!Wis 4:19-20; 5:1-5
+!Sap 4:19-20; 5:1-5
 19 gyötrődniük kell, és elenyészik az emlékük.
 20 Reszketve jelennek meg számot adni bűneikről, és gaztetteik vádlóként lépnek föl ellenük.
 1 Akkor az igaz teljes biztonsággal áll szemben azokkal, akik sanyargatták, és lebecsülték a fáradozását.
@@ -320,7 +320,7 @@ Olvasmány a Bölcsesség könyvéből
 
 [Lectio71]
 Evangélium szent Lukács Evangélista kőnyvéből
-!Luke 12:32-35
+!Luc 12:32-35
 Ne félj, te kisded nyáj, hisz Atyátok úgy látta jónak, hogy nektek adja országát. És így tovább
 _
 Homily by the Venerable Bede, Priest at Jarrow and Doctor of the Church.
@@ -338,7 +338,7 @@ helping of the poor. The Lord Himself, to Whom Angels ministered, had a bag, and
 
 [Lectio72]
 Evangélium szent Lukács Evangélista kőnyvéből
-!Luke 19:12-25
+!Luc 19:12-25
 Azon időben Jézus ezt a példabeszédet mondta tanitványainak: Egy főember kezdte messze földre indult, hogy királyságot szerezzen magának, s aztán visszatérjen. És így tovább.
 _
 Homily by St Ambrose, Bishop (of Milan.)
@@ -358,7 +358,7 @@ not in word but in power. (1 Cor. iv. 20.) Meet also is it, that, in speaking of
 
 [Lectio73]
 Evangélium szent Máté Apostol kőnyvéből
-!Matt 16:24-27
+!Matth 16:24-27
 Azon időben így szólt Jézus a tanítványaihoz: Aki követni akar, tagadja meg magát, vegye keresztjét és kövessen. És így tovább.
 _
 Homily by Pope St Gregory (the Great.)

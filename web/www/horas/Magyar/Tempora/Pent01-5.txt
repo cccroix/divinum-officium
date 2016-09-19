@@ -11,7 +11,7 @@ Doxology=Corp
 
 [Lectio1]
 Olvasmány Sámuel első könyvéből
-!1 Sam 2:27-29
+!1 Reg 2:27-29
 27 Isten egy embere fölkereste Élit, és így szólt hozzá: "Ezt mondta az Úr: Hát nem megnyilatkoztam atyád házának, amikor még szolgák voltak a fáraó házában? 
 28 És Izrael minden törzse közül kiválasztottam őket a papi szolgálatra, hogy fölmenjenek oltáromra, tömjént égessenek és viseljék színem előtt az efodot. És atyád házára bíztam Izrael fiainak minden égőáldozatát is. 
 29 Miért tapostátok lábbal az általam rendelt véres és ételáldozatot? Miért tartod többre a fiaidat, mint engem, hogy eltulajdonítjátok minden áldozatból, amelyet népem, Izrael bemutat színem előtt, a legjobb részeket? 
@@ -20,7 +20,7 @@ Olvasmány Sámuel első könyvéből
 @Tempora/Pent01-2:Responsory1
 
 [Lectio2]
-!1 Sam 2:30-33
+!1 Reg 2:30-33
 30 Ezért azt mondja az Úr, Izrael Istene: Bár azt mondtam, hogy házad és atyád háza járjon mindig a színem előtt, és most mégis - az Úr mondja - távol legyen tőlem. Aki tisztel, azt én is megtiszteltetésben részesítem, aki azonban megvet, azt megszégyenülés éri. 
 31 Eljön az idő, amikor levágom karodat és atyád házának karját - ne legyen többé éltes korú házadban. 
 32 Akkor majd mint valami irigy ellenség, úgy nézed mindazt a jót, amit Izraelnek teszek, a te házadban azonban nem lesz soha többé éltes korú. 
@@ -30,7 +30,7 @@ Olvasmány Sámuel első könyvéből
 @Tempora/Pent01-2:Responsory2
 
 [Lectio3]
-!1 Sam 2:34-36
+!1 Reg 2:34-36
 34 Ezek szolgálnak majd jelül arra, ami két fiaddal, Hofnival és Pinchásszal történik. Mind a ketten meghalnak, ugyanazon a napon. 
 35 Hűséges papot rendelek magamnak, aki szívem és szándékom szerint jár el. Házat építek neki, tartósat, s mindig fölkentem színe előtt fog majd járni. 
 36 Akkor az, aki házadból megmarad, elé járul s leborul előtte, hogy aprópénzt vagy egy darab kenyeret kolduljon tőle e szavakkal: Adj valami munkát valamelyik papod mellett, hogy legyen egy darab kenyerem, amit egyem." 
@@ -80,7 +80,7 @@ to come to the keeping of this great Feast in greater eagerness and numbers.
 
 [Lectio7]
 Evangélium szent János Apostol kőnyvéből
-!John 6:56-59
+!Joann 6:56-59
 Aki eszi az én testemet és issza az én véremet, az bennem marad, én meg benne.~
 Engem az élő Atya küldött, s általa élek. Így az is élni fog általam, aki engem~
 eszik. És így tovább

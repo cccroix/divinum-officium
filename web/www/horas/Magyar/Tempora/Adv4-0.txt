@@ -30,7 +30,7 @@ $Qui vivis
 
 [Lectio1]
 Olvasmány Izaiás próféta könyvéből
-!Isa 35:1-7
+!Isai 35:1-7
 1 Örüljön a puszta és a kiaszott vidék, ujjongjon a sivatag és viruljon!
 2 Virulva viruljon, mint a liliom, és örömében ujjongva daloljon! Mert övé a~
 Libanon dicsősége, a Kármel és a Sáron pompája; meglátják az Úr dicsőségét,~
@@ -53,7 +53,7 @@ V. Tell it out and make it to be heard; speak aloud and cry
 R. Behold, God our Saviour cometh.
 
 [Lectio2]
-!Isa 35:7-10
+!Isai 35:7-10
 7 A sakálok egykori lakóhelyén zöldellő fű és nád terem..
 8 És egy tiszta út vezet majd át rajta, úgy fogják hívni: a szentek útja.~
 Tisztátalan nem léphet rá, sem a balgák nem bolyongnak rajta.
@@ -71,7 +71,7 @@ V. His eyes shall be bright with wine, and his teeth white with milk.
 R. And unto him shall the desire of the Gentiles be.
 
 [Lectio3]
-!Isa 41:1-4
+!Isai 41:1-4
 1 Hallgassatok rám, ti szigetek; kapjanak új erőre a nemzetek, lépjenek elé és~
 beszéljenek, szálljunk egymással perbe!
 2 "Ki támasztotta kelet felől azt, akit minden lépésében győzelem kísér? Ki az,~
@@ -156,7 +156,7 @@ R. Men shall walk in paths of salvation.
 
 [Lectio7]
 Evangélium szent Lukács Evangélista kőnyvéből
-!Luke 3:1-6
+!Luc 3:1-6
 Tiberius császár uralkodásának 15. esztendejében, amikor Poncius Pilátus volt~
 Júdea helytartója És így tovább.
 _
