@@ -47,7 +47,7 @@ V. Adducéntur Regi Vírgines post eam: próximæ ejus afferéntur tibi.  Afferéntur 
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthaeum.
-!Matt 25:1-13
+!Matth 25:1-13
 In illo témpore: Dixit Jesus discípulis suis parábolam hanc: Simile erit regnum~
 coelórum decem virgínibus: quæ, accipiéntes lámpades suas, exiérunt óbviam~
 sponso et sponsæ. Quinque autem ex eis erant fátuæ, et quinque prudéntes: sed~
@@ -73,7 +73,7 @@ quorum se méritis de tribulatióne percepísse cognóscit auxílium.
 $Per Dominum
 
 [Communio]
-!Matt 25:4; 25:6
+!Matth 25:4; 25:6
 Quinque prudéntes vírgines accepérunt óleum in vasis suis cum lampádibus: média~
 autem nocte clamor factus est: Ecce, sponsus venit: exite óbviam Christo Dómino.~
 
