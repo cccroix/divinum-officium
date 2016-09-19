@@ -7,7 +7,7 @@ Una Antiphona
 Doxology=Pasc
 
 [Capitulum Vespera]
-!Jak 1,22-24
+!Jacob 1,22-24
 v. Geliebteste, ihr seid Befolger des Gesagten und nicht bloß Hörer, die sich selbst betrügen; denn wenn einer nur Hörer und nicht Befolger des Gesagten ist, der gleicht einem Mann, der sein ihm angeborenes Gesicht im Spiegel anblickt, und der, nachdem er sich angeblickt, weggeht, und sofort vergisst, wie er ausgehen hat.
 $Deo gratias
 
@@ -23,7 +23,7 @@ $Per Dominum
 
 [Lectio1]
 Incipit Epistola prima beati Petri Apostoli.
-!1 Pet 1:1-5
+!1 Petri 1:1-5
 1 Petrus Apostolus Jesu Christi, electis advenis dispersionis Ponti, Galatiae, Cappadociae, Asiae, et Bithyniae,
 2 secundum praescientiam Dei Patris, in sanctificationem Spiritus, in obedientiam, et aspersionem sanguinis Jesu Christi. Gratia vobis, et pax multiplicetur.
 3 Benedictus Deus et Pater Domini nostri Jesu Christi, qui secundum misericordiam suam magnam regeneravit nos in spem vivam, per resurrectionem Jesu Christi ex mortuis,
@@ -34,7 +34,7 @@ Incipit Epistola prima beati Petri Apostoli.
 @Tempora/Pasc4-0:Responsory1
 
 [Lectio2]
-!1 Pet 1:6-12
+!1 Petri 1:6-12
 6 In quo exsultabitis, modicum nunc si oportet contristari in variis tentationibus:
 7 ut probatio vestrae fidei multo pretiosior auro (quod per ignem probatur) inveniatur in laudem, et gloriam, et honorem in revelatione Jesu Christi:
 8 quem cum non videritis, diligitis: in quem nunc quoque non videntes creditis: credentes autem exsultabitis laetitia inenarrabili, et glorificata:
@@ -47,7 +47,7 @@ Incipit Epistola prima beati Petri Apostoli.
 @Tempora/Pasc4-0:Responsory2
 
 [Lectio3]
-!1 Pet 1:13-21
+!1 Petri 1:13-21
 13 Propter quod succincti lumbos mentis vestrae, sobrii, perfecte sperate in eam, quae offertur vobis, gratiam, in revelationem Jesu Christi:
 14 quasi filii obedientiae, non configurati prioribus ignorantiae vestrae desideriis:
 15 sed secundum eum qui vocavit vos, Sanctum: et ipsi in omni conversatione sancti sitis:
@@ -83,7 +83,7 @@ Advertimus, quam grave sit sacrilegium, resurrectionem non credere. Si enim non 
 
 [Lectio7]
 Lectio sancti Evangelii secundum Joannem.
-!Joannes 16:23-30
+!Joann 16:23-30
 In illo tempore: Dixit Jesus discipulis suis: Amen, amen dico vobis: si quid petieritis Patrem in nomine meo, dabit vobis. Et reliqua.
 _
 Homilia sancti Augustini Episcopi.
@@ -113,17 +113,17 @@ Usque modo, inquit, non petistis quidquam in nomine meo. Petite, et accipietis, 
 @:Ant 1
 
 [Capitulum Tertia]
-!Jas 1:22-24
+!Jacob 1:22-24
 v. Carissimi: Estote factores verbi, et non auditores tantum, fallentes vosmetipsos. Quia si quis auditor est verbi, et non factor: hic comparabitur viro consideranti vultum nativitatis suae in speculo: consideravit enim se, et abiit, et statim oblitus est qualis fuerit.
 $Deo gratias
 
 [Capitulum Sexta]
-!Jas 1:25
+!Jacob 1:25
 v. Qui autem perspexerit in legem perfectam libertatis, et permanserit in ea, non auditor obliviosus factus, sed factor operis: hic beatus in facto suo erit.
 $Deo gratias
 
 [Capitulum Nona]
-!Jas 1:27
+!Jacob 1:27
 v. Religio munda et immaculata apud Deum et Patrem haec est: visitare pupillos et viduas in tribulatione eorum, et immaculatum se custodire ab hoc saeculo.
 $Deo gratias
 

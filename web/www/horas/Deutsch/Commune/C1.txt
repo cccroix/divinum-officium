@@ -13,7 +13,7 @@ Selig sind die Segenswirker, * selig, die ein reines Herz haben, denn sie werden
 Wenn ihr geduldig ausharret, * werdet ihr eure Seelen voll und ganz gewinnen.;;116
 
 [Capitulum Vespera]
-!Eph 2,19
+!Ephes 2,19
 v. Brüder, ihr seid nicht mehr Gäste und Fremdlinge, sondern ihr seid Mitbürger von Heiligen und Glieder der Familie Gottes, aufgebaut auf dem Fundament, das die Apostel bilden, wobei Jesus Christus der Grundstein ist.
 $Deo gratias.
 
@@ -137,7 +137,7 @@ R. Und überaus gewaltig scheint mir ihre Würde.
 
 [Lectio1]
 Aus dem ersten Briefe des heiligen Apostels Paulus an die Korinther.
-!1 Kor 4,1-5
+!1 Cor 4,1-5
 1 Brüder, uns muss jedermann anerkennen als Beamte bei Christus und Verwalter der erhabenen Güter Gottes. Daraus folgt also:
 2 Es wird unter den Beamten nur gefordert, dass man sich als treu bewähre.
 3 Auf mich also macht das sehr wenig Eindruck, wenn ich von euch ein Gutachten bekomme oder von einem menschlichen Gerichtshof. Ich spreche mir auch nicht selbst das Urteil;
@@ -151,7 +151,7 @@ V. So lange ihr die Leuchte unter euch habt, gebt euch der Leuchte hin, damit ih
 R. Seid darum schlau wie die Schlangen und sanft wie die Tauben.
 
 [Lectio2]
-!1 Kor 4,6-9
+!1 Cor 4,6-9
 6 Das habe ich, Brüder, auf mich und auf Apollo bezogen, euretwegen, damit ihr an uns lernt, damit sich einer nicht zuviel, wie geschrieben steht, gegen einen anderen aufbläht zum Schaden des anderen.
 7 Denn wer hat dich anderen gegenüber ausgezeichnet? Was hast du denn, was du nicht erhalten hast? Wenn du es aber erhalten hast, was bist du drauf eingebildet, als wenn du es nicht erhalten hättest?
 8 Schon habt ihr euch sattgemacht, schon seid ihr reich genug geworden, schon seid ihr Herren; und doch, wenn ihr doch Herren wäret! Alsdann würde auch ich mit euch Herr sein.
@@ -164,7 +164,7 @@ V. Dann werdet ihr Ruhe finden für eure Seelen.
 R. Denn mein Joch ist angenehm zu tragen und die Last, die ich auflege, ist leicht.
 
 [Lectio3]
-!1 Kor 4,10-15
+!1 Cor 4,10-15
 10 Wir gelten als Toren um Christi willen, damit ihr klug werdet auf Grund der Verbindung mit Christus. Wir gelten als minderwertig, damit ihr tüchtig werdet. Damit ihr zu hohen Ehren kommt, werden wir geächtet.
 11 Ständig und jetzt noch leiden wir Hunger und Durst und Mangel an Kleidung und erhalten Schläge und haben nirgends Ruhe
 12 und quälen uns ab mit unserer Hände Arbeit. Wir werden verflucht, und wir segnen; wir leiden Verfolgung, und bleiben tätig;
@@ -213,7 +213,7 @@ R. Nun erhalten sie den Kranz und bekommen die Palme.
 
 [Lectio7]
 Léctio sancti Evangélii secúndum Matthǽum.
-!Matt 19:27-29
+!Matth 19:27-29
 In illo témpore: Dixit Petrus ad Jesum: Ecce nos relíquimus ómnia, et secúti sumus te: quid ergo erit nobis? Et réliqua.
 _
 Homilía sancti Hierónymi Presbýteri.
@@ -249,7 +249,7 @@ Selig sind die Segenswirker, * selig, die ein reines Herz haben, denn sie werden
 Wenn ihr geduldig ausharret, * werdet ihr eure Seelen voll und ganz gewinnen.
 
 [Capitulum Laudes]
-!Eph 2,19-20
+!Ephes 2,19-20
 v. Brüder, ihr seid nicht mehr Gäste und Fremdlinge, sondern ihr seid Mitbürger von Heiligen und Glieder der Familie Gottes, aufgebaut auf dem Fundament, das die Apostel bilden, wobei Jesus Christus der Grundstein ist.
 $Deo gratias.
 
@@ -268,11 +268,11 @@ Quǽsumus, omnípotens Deus, ut beátus N. Apóstolus, cujus prævenímus festiv
 $Per Dominum
 
 [Lectio Prima]
-!Apg 5,41
+!Act 5,41
 Es gingen die Apostel freudig hinweg von der Gerichtssitzung, da sie würdig befunden worden waren, für den Namen Jesu Schmach zu erleiden.
 
 [Capitulum Tertia]
-!Eph 2,19-20
+!Ephes 2,19-20
 v. Brüder, ihr seid nicht mehr Gäste und Fremdlinge, sondern ihr seid Mitbürger von Heiligen und Glieder der Familie Gottes, aufgebaut auf dem Fundament, das die Apostel bilden, wobei Jesus Christus der Grundstein ist.
 $Deo gratias.
 
@@ -288,7 +288,7 @@ V. Du verteilst sie als Fürsten in sämtliche Länder.
 R. Sie werden, o Herr, das Andenken an dich erhalten.
 
 [Capitulum Sexta]
-!Apg 5,12
+!Act 5,12
 v. Durch die Apostel aber geschahen viele Wunder und erstaunliche Dinge unter dem Volke.
 $Deo gratias
 
@@ -304,7 +304,7 @@ V. Überaus geehrt, o Gott, sind deine Freunde.
 R. Und überaus gewaltig erscheint ihre Würde.
 
 [Capitulum Nona]
-!Apg 5,41
+!Act 5,41
 v. Es gingen die Apostel freudig hinweg von der Gerichtssitzung, da sie würdig befunden worden waren, für den Namen Jesu Schmach zu erleiden.
 $Deo gratias
 

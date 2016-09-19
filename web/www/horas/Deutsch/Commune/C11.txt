@@ -14,7 +14,7 @@ Nun ist vorbei die Winterszeit, * vorüber sind die Regengüsse: auf also, meine
 Ganz schön * bist du geworden und ganz lieblich in deinen Wonnefreuden, o heilige Gottesmutter.;;147
 
 [Capitulum Vespera]
-!Sir 24,14
+!Eccl 24,14
 v. Von altersher und vor Jahrhunderten gehe ich hervor aus seinem Schoß, und in alle Ewigkeit hör ich nicht auf, dort zu sein; und in seiner heiligen Wohnung erweise ich ihm die gewünschten Dienste.
 $Deo gratias.
 
@@ -268,7 +268,7 @@ Verleihe, wir bitten dich, o Herr und Gott, uns, deinen Dienern, die Gnade, dass
 $Per Dominum
 
 [Lectio Prima]
-!Sir 24,19-20
+!Eccl 24,19-20
 v. Weit und breit verbreite ich wie duftiger Zimmet und Balsam Wohlgeruch, wie die feinste Myrrhe ströme ich den lieblichsten Duft aus.
 
 [Capitulum Tertia]
@@ -286,7 +286,7 @@ V. Es schafft ihr Freude Gott mit seinem Antlitz.
 R. Der Herr ist in ihrem Innern; darum hat sie keinen Schaden.
 
 [Capitulum Sexta]
-!Sir 24,15-16
+!Eccl 24,15-16
 v. Und so habe ich mich festgesetzt auf Sion und in der heiligen Stadt mich niedergelassen; und nun entfalte ich in Jerusalem meine Macht. Nun bin ich festgewurzelt im auserwählten Volk, damit dieses aus den Gütern meines Gottes seinen ständigen Segen erhält; denn wo Schützlinge Gottes versammelt sind, da lasse ich mich gerne festhalten.
 $Deo gratias.
 

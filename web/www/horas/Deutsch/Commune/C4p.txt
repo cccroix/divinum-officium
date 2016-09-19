@@ -15,7 +15,7 @@ Ihr Priester des Herrn, * preiset den Herrn auf ewig, alleluja.;;112
 Du guter Diener, * und so getreu, gehe ein in das Freudengemach deines Herrn, alleluja.;;116
 
 [Capitulum Vespera]
-!Sir 44,16-17
+!Eccl 44,16-17
 v. Seht da, ein erhabener Priester, der während seines Lebens Gott gefallen hat, und der zur Zeit der drohenden Strafe ein Werkzeug der Versöhnung geworden ist.
 $Deo gratias
 
@@ -142,7 +142,7 @@ R. Er möge Fürsprecher sein für die Sünden aller Völker. Alleluja.
 
 [Lectio7]
 Lesung aus dem heiligen Evangelium nach Matthäus.
-!Mt 25,14-23
+!Matth 25,14-23
 In jener Zeit sagte Jesus seinen Jüngern dieses Gleichnis: Ein Mann, der eine Reise antreten wollte, rief seine Angestellten zusammen und gab ihnen seine Güter zur Verwahrung usw.
 _
 Auslegung vom heiligen Papste Gregor.
@@ -178,7 +178,7 @@ Ihr Priester des Herrn, * preiset den Herrn auf ewig, alleluja.
 Du guter Diener, * und so getreu, gehe ein in das Freudengemach deines Herrn, alleluja.
 
 [Capitulum Laudes]
-!Sir 44,16-17
+!Eccl 44,16-17
 v. Seht da, ein erhabener Priester, der während seines Lebens Gott gefallen hat, und der zur Zeit der drohenden Strafe ein Werkzeug der Versöhnung geworden ist.
 $Deo gratias
 
@@ -205,11 +205,11 @@ O Gott, der du deinem Volke als Vermittler des ewigen Heiles den heiligen N. geg
 $Per Dominum
 
 [Lectio Prima]
-!Sir 45,19-20
+!Eccl 45,19-20
 v. Er vermochte das Priesteramt zu verwalten und sich Lob zu verdienen bei seiner (Gottes) Majestät und ihr ein ihrer würdiges Opferbrennwerk darzubringen zu einem lieblichen Wohlgeruch.
 
 [Capitulum Tertia]
-!Sir 44,16-17
+!Eccl 44,16-17
 v. Seht da, ein erhabener Priester, der während seines Lebens Gott gefallen hat, und der zur Zeit der drohenden Strafe ein Werkzeug der Versöhnung geworden ist.
 $Deo gratias
 
@@ -225,7 +225,7 @@ V. Es hat der Herrn ihn auserwählt für sich zum Priester, alleluja.
 R. Auf dass er ihm ein Opfer darbringe zu seinem Lobe, alleluja.
 
 [Capitulum Sexta]
-!Sir 44,20; 44,22
+!Eccl 44,20; 44,22
 v. Es gab keinen, der ihm ähnlich gewesen wäre bei der Beobachtung des göttlichen Gebotes. Darum hat ihn Gott in Erfüllung eines Eides immer größer werden lassen in seinem Volke.
 $Deo gratias
 
@@ -241,7 +241,7 @@ V. Du bist ein Priester auf ewig, alleluja.
 R. Wie Melchisedech es vorgebildet, alleluja.
 
 [Capitulum Nona]
-!Sir 45,19-20
+!Eccl 45,19-20
 v. Er vermochte das Priesteramt zu verwalten und sich Lob zu verdienen bei seiner (Gottes) Majestät und ihr ein ihrer würdiges Opferbrennwerk darzubringen zu einem lieblichen Wohlgeruch.
 $Deo gratias
 

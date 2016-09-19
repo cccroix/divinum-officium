@@ -29,7 +29,7 @@ $Qui vivis
 
 [Lectio1]
 Aus dem Propheten Isaias.
-!Jes 26,1-6
+!Isai 26,1-6
 1 An jenem Tag wird dieses Lied im Lande Juda gesungen: Eine von Gott befestigte Burg haben wir, o Sion, der Heiland steht in ihr als Mauer und als Wall.
 2 Ihr könnt die Tore öffnen, und einziehen mag das rechte Gottesvolk, das der Wahrheit gefolgt ist.
 3 Das Umherirren der Vergangenheit ist vorbei; du schaffst Segen; Segen, weil wir auf dich vertraut haben.
@@ -44,7 +44,7 @@ V. Er wird sichtbar werden am Ende und keine Täuschung bewirken; wenn er zöger
 R. Und mit ihm Tausende seiner Heiligen, und er wird auf seinem Gewand und auf seiner Waffe die Aufschrift tragen: Könige der Könige und Herr der Herrscher.
 
 [Lectio2]
-!Jes 26,7-10
+!Isai 26,7-10
 7 Der Pfad des Gerechten ist richtig, richtig ist der Steg des auf ihm wandelnden Gerechten.
 8 Und auf dem Weg, den deine Gebote lehren, o Herr, haben wir auf dich Vertrauen gehabt: Deine Majestät und deine Würde war uns die Sorge der Seele.
 9 Meine Seele hat sich nach dir gesehnt zur Nachtzeit; ja, mit meinem Geist in meinem Inneren war ich am Morgen bekümmert um dich. Ja, du legst vor deine Rechtsregeln, und rechtes und beseligendes Handeln lernen die Bewohner der Erde.
@@ -57,7 +57,7 @@ V. Er wird Frieden sinnen unter den Völkern und seine Macht wird reichen von ei
 R. Und Frieden wird sein in unserem Lande, wenn er gekommen ist.
 
 [Lectio3]
-!Jes 26,11-14
+!Isai 26,11-14
 11 O Herr, groß war deine Mcht und man hat nicht darauf geschaut; man hat sehen können, sodass man sich nun schämen muss, den Eifer für das Volk; und man hat gesehen, wie das Feuer deine Feinde verschlingt.
 12 O Herr, du gewährst uns Frieden: denn all unsere Werke hast du in uns gewirkt.
 13 O Herr unser Gott, es wollten uns Gebieter in Besitz nehmen außer dir; nur durch dich können wir nun deines Namens gedenken.
@@ -104,7 +104,7 @@ R. Sprossen wird in seinen Tagen die Gerechtigkeit, und die Fülle des Friedens.
 
 [Lectio7]
 Lesung aus dem heiligen Evangelium nach Johannes.
-!Joh 1,19-28
+!Joann 1,19-28
 In jener Zeit sandten die Juden Priester und Leviten zu Johannes, dass sie ihn fragen sollten: Wer bist du? Und so weiter.
 _
 Auslegung vom heiligen Papst Gregor.

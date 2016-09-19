@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Aus dem Propheten Isaias.
-!Jes 25,1-4
+!Isai 25,1-4
 1 O Herr, du bist mein Gott; dich lobe ich und preise deinen Namen: denn du hast Wunder gewirkt, ausgeführt deine Pläne von altersher in unübertrefflicher Treue, amen.
 2 Denn du hast die Stadt (der Feinde) zu einem Grabeshügel umgewandelt, ihre Feste in einen Trümmerhaufen, nämlich das feindliche Hauptlager, sodass sie keine Stadt mehr ist und nimmermehr erbaut wird.
 3 Dafür muss dich loben die Kriegerschar, dafür muss die Stätte der bewaffneten Gruppen vor dir Ehrfurcht haben.
@@ -16,7 +16,7 @@ Aus dem Propheten Isaias.
 @Tempora/Adv2-0:Responsory7
 
 [Lectio2]
-!Jes 25,4-7
+!Isai 25,4-7
 4 Fürwahr, wäre der Ansturm der Krieger wie ein Wirbel, der Mauern umreißt,
 5 wie eine Hitzeglut in wasserlosem Land, du schlägst den Angriff der Feinde zurück; und die Wärme bei schattiger Wolke, weisest du ab die Brut der Bewaffneten.
 6 Und dann wird der Herr der Heerscharen allen Völker auf jenem Berg ein üppiges Mahl bereiten, ein Mahl mit Wein, aus nahrhaften und schmackhaften Speisen, mit altgegorenem Wein.
@@ -26,7 +26,7 @@ Aus dem Propheten Isaias.
 @Tempora/Adv2-0:Responsory8
 
 [Lectio3]
-!Jes 25,8-12
+!Isai 25,8-12
 8 Er wird den Tod verbannen auf ewig; und es wird der Herr und Gott die Tränen entfernen von jedem Antlitz, und der Bedrückung seines Volkes wird er ein Ende machen im ganzen Lande; so hat der Herr gesprochen.
 9 Und man wird alsdann sagen: Seht, das ist unser Gott, auf ihn haben wir vertraut, und nun beglückt er uns; das ist der Herr, wir haben auf ihn gehofft: wir wollen hüpfen und jubeln über den von ihm gewährten Segen.
 10 Dann wird sich die Hand des Herrn auf diesem Berge niederlassen, und zerrieben wird daselbst der Moabiter, wie zerrieben werden die Strohhalme unter der Dresche.

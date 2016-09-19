@@ -17,7 +17,7 @@ $Per Dominum
 
 [Lectio1]
 Aus dem zweiten Briefe des heiligen Apostels Paulus an die Korinther.
-!2 Kor 6,1-10
+!2 Cor 6,1-10
 1 Ich ermahne euch, dass ihr doch nicht vergeblich die von Gott dargebotene Gnade empfangt.
 2 Es heißt ja doch: In den Gnadenzeit erhöre ich dich, am Tage des Segens erweise ich dir Gutes. Wohlan, jetzt ist die Gnadenzeit da, wohlan, jetzt ist der Tag des Segens.
 3 Fügt also niemandem irgendetwas zu, was ihm lästig ist, damit unsere Arbeit an euch nicht in Verruf komme;
@@ -36,7 +36,7 @@ V. In allem wollen wir uns betragen als Diener Gottes in großer Geduld, in häu
 R. Mit den Waffen der Gerechtigkeit der Kraft Gottes.
 
 [Lectio2 renamed]
-!2 Kor 6,11-16
+!2 Cor 6,11-16
 11 Mein Sinn ist euch gegenüber geöffnet, o Korinther; mein Herz ist weit geworden für euch.
 12 Ihr nehmt in mir keinen geringen Raum ein: aber ihr bietet in euren Herzen wenig Raum:
 13 Ihr solltet doch solches in gleicher Weise vergelten - ich rede wie zu meinen Kindern - macht den Raum größer.
@@ -51,7 +51,7 @@ V. Denkt daran; nun ist die willkommene Zeit; gewiss, nun sind die Tage zum Wirk
 R. Damit nicht unser amtliches Wirken in Verruf kommt.
 
 [Lectio3]
-!2 Kor 7,4-9
+!2 Cor 7,4-9
 4 Ich bin voll von Trost, ich bin übervoll von Glück in aller unser Bedrängnis.
 5 So haben wir, als wir nach Mazedonien kamen, keine Ruhe gehabt, sondern haben alle Bedrängnis geduldet: von außen Kämpfe, im Innern Beängstigung.
 6 Doch Gott, der die Erniedrigten erhöht, der hat mich getröstet durch die Ankunft des Titus,
@@ -100,7 +100,7 @@ R. Ut in die resurrectiónis cum Dómino gloriémur.
 
 [Lectio7]
 Lesung aus dem heiligen Evnagelium nach Matthäus.
-!Mt 4,1-11.
+!Matth 4,1-11.
 In jener Zeit ward Jesus auf inneren Antrieb in eine Einöde geführt, wo er von dem Teufel versucht wurde. Und als er vierzig Tage und vierzig Nächste gefastet hatte, danach hungerte ihn. Und so weiter.
 _
 Auslegung vom heiligen Papst Gregor.
@@ -141,7 +141,7 @@ Da wir in der Gesinnung * der Demut und mit zerknirschter Seele erscheinen, lass
 Lobet Gott, * ihr höchsten Himmelsräume und Wasserfluten.
 
 [Capitulum Laudes]
-!2 Kor 6,1-2
+!2 Cor 6,1-2
 v. Brüder, ich ermahne euch, dass ihr doch nicht vergeblich die von Gott dargebotene Gnade empfangt. Es heißt ja doch: In der Gnadenzeit erhöre ich dich, am Tage des Segens erweise ich dir Gutes.
 $Deo gratias
 
@@ -161,7 +161,7 @@ Alsdann nahm * ihn der Teufel in die heilige Stadt und stellte ihn auf die Zinne
 Nicht allein vom Brot * lebt der Mensch, sondern von jedem Wort, das aus dem Munde Gottes kommt.
 
 [Capitulum Sexta]
-!2 Kor 6,2-3
+!2 Cor 6,2-3
 v. Denkt daran: Jetzt ist die gnadenvolle Zeit, jetzt sind die Tage zum Wirken des Heiles; wollet also bei niemandem anstoßen, damit unsere Arbeit an euch nicht in Verruf komme.
 $Deo gratias
 
@@ -169,7 +169,7 @@ $Deo gratias
 Deinen Herrn und Gott * sollst du anbeten, und ihm allein dienen.
 
 [Capitulum Nona]
-!2 Kor 6,9-10
+!2 Cor 6,9-10
 v. (Wir wollen uns stets und überall als Untertanen Gottes zeigen,) Als Gequälte und doch nicht zum Tode Gebrachte, als Betrübte und doch stets Freudige, als Darbende und doch alle Bereichernde, als nichts Besitzende und doch über alles Verfügende.
 $Deo gratias
 

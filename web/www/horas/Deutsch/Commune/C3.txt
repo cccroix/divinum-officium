@@ -15,7 +15,7 @@ O ihr Martyrer des Herrn, * preist nun den Herrn auf ewig.;;112
 O du Martyrerreigen, * lobet den Herrn, die ihr vom Himmel seid, alleluja.;;116
 
 [Capitulum Vespera]
-!Weish 3,1-3
+!Sap 3,1-3
 v. Die Seelen der Gottesdiener befinden sich in der Hand Gottes, und nun kommt an sie keine Qual heran, die den Tod brächte. Es schien in den Augen der Toren, dass sie zugrunde gehen, und sie sind doch im Frieden.
 $Deo gratias.
 
@@ -107,7 +107,7 @@ R. Und bei dem Herrn wird ihnen ihr Lohn gegeben.
 
 [Lectio1]
 Aus dem Briefes des heiligen Apostels Paulus an die Römer.
-!Röm 8,12-19
+!Rom 8,12-19
 12 Brüder! Wir haben ein Schuldverhältnis, doch nicht gegen unsere niedere Natur, dass wir dieser niederen Natur zu Gefallen unser Leben einrichten müssten.
 13 Denn, wenn ihr der niederen Natur zu Gefallen lebt, seid ihr auf dem Wege zum (geistigen) Tode; wenn ihr aber durch Geistesadel die der niederen Natur eigenen Werke am Aufkommen hindert, werdet ihr (im Gnadenleben und in der Glückseligkeit) leben.
 14 Alle nämlich, die sich durch die ihnen von Gott eingegebene Gesinnung zum Handeln bestimmen lassen, sind Gotteskinder.
@@ -124,7 +124,7 @@ V. Sie werden keinen Hunger und keinen Durst mehr haben und es wird auf sie kein
 R. Denn was früher war, hat aufgehört.
 
 [Lectio2]
-!Röm 8,28-34
+!Rom 8,28-34
 28 Wir wissen doch, dass denen, die Gott lieben, alles zum Segen mitwirkt, da es ja solche sind, die auf besonderen Ratschluss ihre Berufung haben, die Schützlinge Gottes.
 29 Ja, diejenigen, die er (als Beseligte) vorhergesehen hat, die hat er auch von jeder dazu bestimmt, dass sie angepasst würden dem Vorbild seines Sohnes, damit dieser als der Erstlingssohn gilt unter vielen Brüdern;
 30 die er aber dazu vorherbestimmt hat, die hat er auch gerufen; und die er gerufen hat, die hat er auch begnadigt (mit Gnadenleben ausgestattet); und die er begnadigt hat, die hat er verherrlicht.
@@ -140,7 +140,7 @@ V. Ein Geist und ein Glaube war in ihnen.
 R. Und darum haben sie die Siegeskronen verdient.
 
 [Lectio3]
-!Röm 8,35-39
+!Rom 8,35-39
 35 Wer also könnte uns abbringen von der Liebe zu Christus? Not oder Bedrängnis, oder Hunger, oder Mangel an Kleidung, oder eine Gefahr, oder eine Verfolgung, oder ein Schwert?
 36 (gemäß dem, was geschrieben steht: "Ja, deinetwegen werden wir zu Tode gequält Tag für Tag, und Schafen an der Schlachtbank gleich behandelt", Ps. 43,23.)
 37 Im Gegenteil, gegenüber alledem sind wir überlegen um dessentwillen, der uns geliebt hat.
@@ -224,7 +224,7 @@ O ihr Martyrer des Herrn, * preist nun den Herrn auf ewig.
 O du Martyrerreigen, * lobet den Herrn, die ihr vom Himmel seid, alleluja.
 
 [Capitulum Laudes]
-!Weish 3,1-3
+!Sap 3,1-3
 v. Die Seelen der Gottesdiener befinden sich in der Hand Gottes, und nun kommt an sie keine Qual heran, die den Tod brächte. Es schien in den Augen der Toren, dass sie zugrunde gehen, und sie sind doch im Frieden.
 $Deo gratias
 
@@ -270,11 +270,11 @@ O Gott, der du uns durch das jährlich wiederkehrende Fest deiner heiligen Marty
 $Per Dominum
 
 [Lectio Prima]
-!Weish 3,7-8
+!Sap 3,7-8
 v. Im Strahlenschein aufglänzen werden die Freunde Gottes und ähnlich sein den aus einem Rohrfeuer sprühenden Funken (d.h. vor Licht oder Seligkeit sich gar nicht fassen können); sie werden Führer sein von ganzen Scharen und Leiter von Völkern; und König wird der Herr über sie sein auf ewig.
 
 [Capitulum Tertia]
-!Weish 3,1-3
+!Sap 3,1-3
 v. Die Seelen der Gottesdiener befinden sich in der Hand Gottes, und nun kommt an sie keine Qual heran, die den Tod brächte. Es schien in den Augen der Toren, dass sie zugrunde gehen, und sie sind doch im Frieden.
 $Deo gratias.
 
@@ -290,7 +290,7 @@ V. Es möge das Gottesvolk sich freuen in Gegenwart Gottes.
 R. Und schwelgen in Freude.
 
 [Capitulum Sexta]
-!Weish 10,17
+!Sap 10,17
 v. Es hat Gott ersetzt den Lohn für die Mühen seiner Schützlinge und hat sie geführt auf einem Wege, der voll von Wundern war, und er war bei ihnen als Wolke am Tage und als helle Sternenleuchte in der Nacht.
 $Deo gratias.
 
@@ -306,7 +306,7 @@ V. Die treuen Gottesdiener aber leben auf ewig.
 R. Und bei dem Herrn wird ihnen ihr Lohn gegeben.
 
 [Capitulum Nona]
-!Weish 3,7-8
+!Sap 3,7-8
 v. Im Strahlenschein aufglänzen werden die Freunde Gottes und ähnlich sein den aus einem Rohrfeuer sprühenden Funken (d.h. vor Licht oder Seligkeit sich gar nicht fassen können); sie werden Führer sein von ganzen Scharen und Leiter von Völkern; und König wird der Herr über sie sein auf ewig.
 $Deo gratias.
 

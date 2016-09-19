@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Aus dem Propheten Isaias.
-!Jes 7,1-3
+!Isai 7,1-3
 1 Nun geschah es zur Zeit des Achaz, des Sohnes Joathans, des Sohnes des Königs Ozias von Juda; da zog Rasin, der König von Syren, und Phakee, der Sohn Romelias, der König von Israel, hinauf nach Jerusalem, um es zu belagern; aber sie konnten es nicht
 2 erobern. Und man meldete es dem Hause David: Niedergelassen hat sich der Syrer im Gebiet Ephraim. Und es wurde erregt sein Sinn und der Sinn seines Volkes, wie erregt werden wie Waldblätter beim Winde.
 3 Und es sprach der Herr zu Isaias: Gehe du Achaz entgegen, du und Schearjaschub, dein Sohn, bis zum Ende der Wasserleitung am oberen Fischteich an der Walkerstraße.
@@ -15,7 +15,7 @@ Aus dem Propheten Isaias.
 @Tempora/Adv1-0:Responsory7
 
 [Lectio2]
-!Jes 7,4-6
+!Isai 7,4-6
 4 Und sage zu ihm: Sei doch still, habe keine Angst, und lass dein Herz nicht erschrecken vor den beiden Holzbrandstumpfen, die da auftreten im gierigen Rasin, dem König von Syrien, und in dem Sohn des Romelias,
 5 da der Syrer dir zum Schaden einen Bund geschlossen hat mit Ephraim, nämlich mit dem Sohne Romelias, und da sie vereinbart haben:
 6 Wir wollen hinaufziehen nach Juda und es aufschrecken und es unter unsere Herrschaft reißen und als König darin einsetzen den Sohn Tabeels.
@@ -24,7 +24,7 @@ Aus dem Propheten Isaias.
 @Tempora/Adv1-0:Responsory8
 
 [Lectio3]
-!Jes 7,10-15
+!Isai 7,10-15
 10 Und hierbei redete der Herr zu Achaz:
 11 Erbitte dir ein Wunder von Seiten des Herrn, deines Gottes, entweder unten im Reiche des Todes oder hoch oben in der Höhe.
 12 Da sprach Achaz: Ich mag nicht bitten, um den Herrn nicht zu versuchen.

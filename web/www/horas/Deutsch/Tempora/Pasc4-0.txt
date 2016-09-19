@@ -7,7 +7,7 @@ Una Antiphona
 StJamesRule=Jas
 
 [Capitulum Vespera]
-!Jas 1:17
+!Jacob 1:17
 v. Carissimi: Omne datum optimum, et omne donum perfectum desursum est, descendens a Patre luminum, apud quem non est transmutatio, nec vicissitudinis obumbratio.
 $Deo gratias
 
@@ -23,7 +23,7 @@ $Per Dominum
 
 [Lectio1]
 Incipit Epistola catholica beati Jacobi Apostoli.
-!Jas 1:1-6
+!Jacob 1:1-6
 1 Jacobus, Dei et Domini nostri Jesu Christi servus, duodecim tribubus, quae sunt in dispersione, salutem.
 2 Omne gaudium existimate fratres mei, cum in tentationes varias incideritis:
 3 scientes quod probatio fidei vestrae patientiam operatur.
@@ -38,7 +38,7 @@ V. An dem großen Fluss in Babylon, da haben unser Lager wir und weinen, wenn wi
 R. Mag dann meine Zunge fest an meinem Gaumen kleben, wenn ich an dich nicht denken sollte, alleluja, alleluja.
 
 [Lectio2]
-!Jas 1:6-11
+!Jacob 1:6-11
 6 Qui enim haesitat, similis est fluctui maris, qui a vento movetur et circumfertur:
 7 Non ergo aestimet homo ille quod accipiat aliquid a Domino.
 8 Vir duplex animo inconstans est in omnibus viis suis.
@@ -53,7 +53,7 @@ V. Grelles Licht gewährten deine Blitze für den Erdkreis; es bebte und zittert
 R. Laut brauste dann das Meer, es donnerten die Wolken, alleluja, alleluja, alleluja.
 
 [Lectio3]
-!Jas 1:12-16
+!Jacob 1:12-16
 12 Beatus vir qui suffert tentationem: quoniam cum probatus fuerit, accipiet coronam vitae, quam repromisit Deus diligentibus se.
 13 Nemo cum tentatur, dicat quoniam a Deo tentatur: Deus enim intentator malorum est: ipse autem neminem tentat.
 14 Unusquisque vero tentatur a concupiscentia sua abstractus, et illectus.
@@ -101,7 +101,7 @@ R. Wie könnten wir das Lied des Herrn singen im Feindeslande? Alleluja, alleluj
 
 [Lectio7]
 Lectio sancti Evangelii secundum Joannem.
-!Joannes 16:5-14
+!Joann 16:5-14
 In illo tempore: Dixit Jesus discipulis suis: Vado ad eum qui misit me; et nemo ex vobis interrogat me, Quo vadis? Et reliqua.
 _
 Homilia sancti Augustini Episcopi.
@@ -142,12 +142,12 @@ Quid sibi ergo vult, quod hic ait: Haec autem vobis ab initio non dixi, quia vob
 @:Capitulum Vespera
 
 [Capitulum Sexta]
-!Jas 1:19-20
+!Jacob 1:19-20
 v. Scitis, fratres mei dilectissimi. Sit autem omnis homo velox ad audiendum: tardus autem ad loquendum, et tardus ad iram. Ira enim viri iustitiam Dei non operatur.
 $Deo gratias
 
 [Capitulum Nona]
-!Jas 1:21
+!Jacob 1:21
 v. Propter quod abjicientes omnem immunditiam, et abundantiam malitiae, in mansuetudine suscipite insitum verbum, quod potest salvare animas vestras.
 $Deo gratias
 

@@ -8,7 +8,7 @@ Doxology=Pasc
 
 [Lectio1]
 Lesung aus dem heiligen Evangelium nach Lukas.
-!Lk 11,5-13
+!Luc 11,5-13
 In jener Zeit sagte Jesus zu seinen Jüngern: Wenn jemand von euch einen Freund hätte, der zu ihm käme um Mitternacht und zu ihm spräche: Freund, leihe mir drei Brote. und so weiter.
 _
 Auslegung vom heiligen Bischof Ambrosius

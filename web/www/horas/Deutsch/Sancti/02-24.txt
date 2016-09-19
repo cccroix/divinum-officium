@@ -16,7 +16,7 @@ $Per Dominum
 
 [Lectio1]
 Aus der Apostelgeschichte
-!Apg 1,15-18
+!Act 1,15-18
 15 In jenen Tagen trat Petrus inmitten der Brüder auf und sagte – es war aber eine Schar von Menschen anwesend, ungefähr 120 an der Zahl –:
 16 Brüder, es muss das erfüllt werden, was geschrieben steht, was der Heilige Geist durch Davids Mund über Judas, den Anführer derer, die Jesus festgenommen, vorausgesagt hat;
 17 der uns zugesellt worden und dem dasselbe Amt wie uns zugefallen war.
@@ -24,7 +24,7 @@ Aus der Apostelgeschichte
 
 
 [Lectio2]
-!Apg 1,19-22
+!Act 1,19-22
 19 Und das ist etwas ganz Bekanntes unter allen Einwohnern Jerusalems, sodass jenes Ackerstück nach deren Ausdruck Haceldama genannt wurde, d. h. Blutacker.
 20 Es steht doch im Buch der Psalmen geschrieben: "Verlassen soll ihr Heim sein und niemand soll darin wohnen; und seine Stelle soll ein anderer bekommen."
 21 Es ist also notwendig, dass aus den Männern, die ständig in unserer Gemeinschaft gewesen sind, da unter uns ein- und ausging der Herr Jesus,
@@ -32,7 +32,7 @@ Aus der Apostelgeschichte
 
 
 [Lectio3]
-!Apg 1,23-26
+!Act 1,23-26
 23 Und man stellte zwei auf, Joseph, Barsabas genannt, der den Zunamen der Rechtschaffene führte, und Matthias.
 24 Und nun betete man: O Herr, der du die Herzen aller kennst, zeige doch du, welchen du aus diesen zweien erwählt hast
 25 zur Übernahme dieses Amtes als Apostel, dessen in so schmählicher Weise Judas verlustig geworden ist, um an den ihm entsprechenden Ort zu gehen.
@@ -84,7 +84,7 @@ Geistes. Wenn vier also durch drei vervielfältigt wird, kommt zwölf heraus.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matt 11:25-30
+!Matth 11:25-30
 In illo tempore: Respondens Jesus dixit: Confiteor tibi Pater, Domine coeli et~
 terrae, quia abscondisti haec a sapientibus, et prudentibus, et revelasti ea~
 parvulis. Et reliqua.

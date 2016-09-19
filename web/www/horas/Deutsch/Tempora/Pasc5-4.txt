@@ -21,7 +21,7 @@ O preist den König der Könige, * und singt Gott ein Loblieb, alleluja.
 Vor ihren Blicken * erhob er sich und eine Wolke nahm ihn auf im Himmel, alleluja.
 
 [Capitulum Vespera]
-!Apg 1,1-2
+!Act 1,1-2
 v. Im ersten Bericht habe ich von dem allen erzählt, o Theophilus, was Jesus zuerst getan und gelehrt hat, bis zu dem Tage, da er, nachdem er den von ihm erwählten Aposteln seinen Auftrag kraft des Heiligen Geistes mitgeteilt, von der Erde schied.
 $Deo gratias
 
@@ -127,7 +127,7 @@ R. Zu meinem Gott und zu eurem Gott, alleluja.
 
 [Lectio1]
 Beginn des Buches der Apostelgeschichte.
-!Apg 1,1-5
+!Act 1,1-5
 1 Im ersten Bericht habe ich von dem allen erzählt, o Theophilus, was Jesus zuerst getan und gelehrt hat, 
 2 bis zu dem Tage, da er, nachdem er den von ihm erwählten Aposteln seinen Auftrag kraft des Heiligen Geistes mitgeteilt, von der Erde schied.
 3 Ihnen gab er sich auch nach seinem Tode als lebendig kund auf Grund vieler Beweise, erschien ihnen durch vierzig Tage und redete zu ihnen vom Reiche Gottes.
@@ -141,7 +141,7 @@ V. Und bei einem Mahle gab er ihnen den Auftrag, sie sollten von Jerusalem nicht
 R. Und unter ihnen Augen wurde er erhoben, alleluja, und eine Wolke nahm ihn auf, dass er ihren Augen entschwand, alleluja.
 
 [Lectio2]
-!Apg 1,6-9
+!Act 1,6-9
 6 Die Anwesenden fragten ihn nun: Herr, wirst du in dieser Zeit für das Volk Israel das Königreich wieder aufrichten?
 7 Er sagte ihnen jedoch: Es kommt euch nicht zu, die Zeiten zu kennen, die der Vater seinem eigenen Machtbereich vorbehalten hat:
 8 Aber ihr werdet die Kraft des auf euch herabkommenden Heiligen Geistes empfangen und ihr werdet meine Zeugen sein in Jerusalem und in ganz Judäa und Samaria und bis an das Ende der Erde.
@@ -154,7 +154,7 @@ V. Von einem Himmelsende nimmt er Anlauf, und seine Rennbahn reicht bis zu dem a
 R. Sein Schönheitsbild strahlt in den Wolken des Himmels, und sein Name bleibt auf ewig, alleluja.
 
 [Lectio3]
-!Apg 1,10-14
+!Act 1,10-14
 10 Und wie sie so zum Himmel hinauf ihm auf seinem Aufstieg nachschauend dastanden, siehe, da traten zwei Männer an sie heran in weißen Kleidern, 
 11 und die sprachen: Ihr Männer von Galiläa, was steht ihr da und schaut zum Himmel hinauf? Dieser Jesus, der von euch weggegangen und in den Himmel aufgenommen ist, wird in derselben Weise wiederkommen, wie ihr ihn in den Himmel hinaufsteigen sahet.
 12 Hierauf kehrten sie zurück nach Jerusalem von einem Berge, der den Namen Ölberg hat, der nahe bei Jerusalem ist, einen Sabbatweg entfernt.
@@ -274,7 +274,7 @@ Verleihe uns, wir bitten dich, o allmächtiger Gott, die Gnade, dass wir, die wi
 $Per eumdem
 
 [Lectio Prima]
-!Apg 1,11
+!Act 1,11
 v. Ihr Männer von Galiläa, was steht ihr da und schaut zum Himmel hinauf? Dieser Jesus, der von euch weggegangen und in den Himmel aufgenommen ist, wird in derselben Weise wiederkommen, wie ihr ihn in den Himmel hinaufsteigen sahet.
 
 [Capitulum Tertia]
@@ -292,7 +292,7 @@ V. Ascendens Christus in altum, alleluia.
 R. Captivam duxit captivitatem, alleluia.
 
 [Capitulum Sexta]
-!Apg 1,4-5
+!Act 1,4-5
 v. Und bei einem Mahle gab er ihnen den Auftrag: Geht von Jerusalem nicht weg, sondern wartet auf das, was ihr vom Vater auf Grund der Verheißung bekommen sollt, die ihr - so sagte er - durch mich erfahren habt. Denn Johannes hat die Taufe mit Wasser vorgenommen, ihr aber sollt getauft werden mit dem Heiligen Geiste, und bis dahin sind nur noch wenige Tage.
 $Deo gratias
 

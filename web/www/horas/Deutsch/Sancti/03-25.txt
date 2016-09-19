@@ -12,7 +12,7 @@ Der Herr wird ihm geben * den Thron seines Vaters David, und er wird König sein
 Siehe, ich bin eine Magd des Herrn, * mir geschehe nach deinem Worte. (Alleluja.);;147
 
 [Capitulum Vespera]
-!Jes 7,14-15
+!Isai 7,14-15
 v. Seht, die Jungfrau wird Mutter werden und einen Sohn bekommen, und sein Name wird heißen: Emmanuel. Butter und Honig wird er zur Nahrung haben, bis er lernt, das Böse zu verurteilen und dem Guten den Vorzug zu geben.
 $Deo gratias
 
@@ -44,7 +44,7 @@ V. Gott der Herr wird ihm den Thron seines Vaters David geben und er wird König
 R. Siehe, du wirst Mutter werden und ein Kind bekommen, und das soll der Sohn des Allerhöchsten genannt werden. (Alleluja.)
 
 [Lectio2]
-!Jes 11,1-5
+!Isai 11,1-5
 1 Es wird eine Staude aufsteigen aus der Wurzel Jesses, eine Blume wird aus dessen Stumpf emporsprossen.
 2 Und niederlassen wird sich auf diesem Sproß der Geist des Herrn, der Geist der Weisheit und der Einsicht, der Geist der Klugheit und des Mutes, der Geist der Wissenschaft und Frömmigkeit,
 3 und erfüllen wird ihn der Geist der Ehrfurcht vor dem Herrn. Nicht auf den Blick der Augen hin wird er das Urteil fällen und nicht auf das Gehör der Ohren hin die Entscheidungen treffen,
@@ -58,7 +58,7 @@ V. Wie soll das geschehen, da ich mit einem Mann nicht umgehe? Und der Engel ant
 R. Der Heilige Geist wird über dich kommen und eine Kraft vom Allerhöchsten auf dich einwirken; denn der Heilige, der von dir geboren werden soll, wird Gottes Sohn genannt werden. (Alleluja.)
 
 [Lectio3]
-!Jes 35,1-7
+!Isai 35,1-7
 1 Es ist voll Freude das wüste und weglose Land, und es jubelt auf das dürre Feld und wird blühend wie eine Lilie.
 2 Üppig treibt es Keime und jubelt in Freude und Lob. Was den Libanon ziert, ist ihm gewährt, was den Karmel und den Saron schmückt; man sieht die Herrlichkeit des Herrn, die Majestät unseres Gottes.
 3 Haltet stramm die schlaffen Hände, und lasst Kraft hinein in eure schwachen Knie.
@@ -108,7 +108,7 @@ R. Da du denjenigen, den die Himmelsräume nicht fassen können, in deinem Scho�
 
 [Lectio7]
 Lesung aus dem heiligen Evangelium nach Lukas.
-!Lk 1,26-38
+!Luc 1,26-38
 In jener Zeit ward der Engel Gabriel von Gott gesandt in eine Stadt in Galiläa, mit Namen Nazareth, zu einer Jungfrau, die mit einem Manne vom Hause Davids vermählt war, welcher Joseph hieß, und der Name der Jungfrau war Maria. Und so weiter.
 _
 Auslegung vom heiligen Bischof Ambrosius.
@@ -153,14 +153,14 @@ Siehe, ich bin eine Magd des Herrn, * mir geschehe nach deinem Worte. (Alleluja.
 Wie soll das geschehen, * o Gottesengel, da ich mit einem Mann nicht umgehe? Höre, Jungfrau Maria: Der Heilige Geist wird über dich kommen, und eine Kraft vom Allerhöchsten auf dich einwirken. (Alleluja.)
 
 [Lectio Prima]
-!Jes 11,1-2
+!Isai 11,1-2
 v. Es wird eine Staude aufsteigen aus der Wurzel Jesse, eine Blume wird aus dessen Stumpf emporsprossen. Und niederlassen wird sich auf diesem Spross der Geist des Herrn.
 
 [Capitulum Tertia]
 @:Capitulum Vespera
 
 [Capitulum Sexta]
-!Lk 1,32-33
+!Luc 1,32-33
 v. Gott der Herr wird ihm den Thron seines Vaters David geben und er wird König im Hause Judas sein auf ewig, und sein Reich wird kein Ende haben.
 $Deo gratias
 

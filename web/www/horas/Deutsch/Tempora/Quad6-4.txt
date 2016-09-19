@@ -98,7 +98,7 @@ R. Einer meiner Jünger wird mich heut verraten: Wehe dem, durch den ich ausgeli
 
 [Lectio7]
 Aus dem ersten Briefe des heiligen Apostels Paulus an die Korinther.
-!1 Kor 11,17-22
+!1 Cor 11,17-22
 17 Hoc autem praecipio: non laudans quod non in melius, sed in deterius convenitis.
 18 Primum quidem convenientibus vobis in Ecclesiam, audio scissuras esse inter vos, et ex parte credo.
 19 Nam oportet et haereses esse, ut et qui probati sunt, manifesti fiant in vobis.
@@ -113,7 +113,7 @@ V. Omnes inimici mei adversum me cogitabant mala mihi: verbum iniquum mandaverun
 R. Venite, mittamus lignum in panem ejus, et eradamus eum de terra viventium.
 
 [Lectio8]
-!1 Kor 11,23-26
+!1 Cor 11,23-26
 23 Ego enim accepi a Domino quod et tradidi vobis, quoniam Dominus Jesus in qua nocte tradebatur, accepit panem,
 24 et gratias agens fregit, et dixit: Accipite, et manducate: hoc est corpus meum, quod pro vobis tradetur: hoc facite in meam commemorationem.
 25 Similiter et calicem, postquam cœnavit, dicens: Hic calix novum testamentum est in meo sanguine: hoc facite quotiescumque bibetis, in meam commemorationem.
@@ -126,7 +126,7 @@ V. Quid dormitis? surgite, et orate, ne intretis in tentationem.
 R. Vel Judam non videtis, quomodo non dormit, sed festinat tradere me Judaeis?
 
 [Lectio9]
-!1 Kor 11,27-34
+!1 Cor 11,27-34
 27 Itaque quicumque manducaverit panem hunc, vel biberit calicem Domini indigne, reus erit corporis et sanguinis Domini.
 28 Probet autem seipsum homo: et sic de pane illo edat, et de calice bibat.
 29 Qui enim manducat et bibit indigne, judicium sibi manducat et bibit, non dijudicans corpus Domini.

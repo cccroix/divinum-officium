@@ -19,7 +19,7 @@ Dieser Knabe * wird groß sein vor dem Herrn: denn mit ihm ist ja auch dessen Ha
 Als Nazaräer * wird dieser Knabe gelten: Wein und gebranntes Getränk wird er nicht trinken, und vom Schoße seiner Mutter an nichts Unreines genießen.
 
 [Capitulum Vespera]
-!Jes 49,1
+!Isai 49,1
 v. Hört es, ihr Inselbewohner, und gebet acht, ihr Völker aus der Ferne: Der Herr hat mich vom Mutterschoße berufen, vom Schoße meiner Mutter an hat er sich meiner erinnert.
 $Deo gratias
 
@@ -110,7 +110,7 @@ R. Joannem Baptistam praecursorem Domini.
 
 [Lectio1]
 Incipit liber Jeremiae Prophetae.
-!Jer 1:1-5
+!Jerem 1:1-5
 1 Verba Jeremiae filii Helciae, de sacerdotibus qui fuerunt in Anathoth, in terra Benjamin.
 2 Quod factum est verbum Domini ad eum in diebus Josiae filii Amon, regis Juda, in tertiodecimo anno regni ejus.
 3 Et factum est in diebus Joakim filii Josiae, regis Juda, usque ad consummationem undecimi anni Sedeciae, filii Josiae, regis Juda, usque ad transmigrationem Jerusalem, in mense quinto.
@@ -124,7 +124,7 @@ V. Erat Joannes in deserto praedicans baptismum poenitentiae.
 R. Hic venit in testimonium, ut testimonium perhiberet de lumine, et pararet Domino plebem perfectam.
 
 [Lectio2]
-!Jer 1:6-10
+!Jerem 1:6-10
 6 Et dixi: A, a, a, Domine Deus, ecce nescio loqui, quia puer ego sum.
 7 Et dixit Dominus ad me: Noli dicere: Puer sum: quoniam ad omnia quae mittam te ibis, et universa quaecumque mandavero tibi loqueris.
 8 Ne timeas a facie eorum, quia tecum ego sum ut eruam te, dicit Dominus.
@@ -138,7 +138,7 @@ V. Fuit homo missus a Deo, cui nomen erat Joannes.
 R. Qui viam Domino praeparavit in eremo.
 
 [Lectio3]
-!Jer 1:17-19
+!Jerem 1:17-19
 17 Tu ergo, accinge lumbos tuos, et surge, et loquere ad eos omnia quae ego praecipio tibi. Ne formides a facie eorum, nec enim timere te faciam vultum eorum.
 18 Ego quippe dedi te hodie in civitatem munitam, et in columnam ferream, et in murum aereum, super omnem terram, regibus Juda, principibus ejus, et sacerdotibus, et populo terrae.
 19 Et bellabunt adversum te, et non praevalebunt, quia ego tecum sum, ait Dominus, ut liberem te.
@@ -257,7 +257,7 @@ R. Denn auch seine Hand ist mit ihm.
 Es öffnete sich * der Mund des Zacharias und er redete unter dem Einfluss Gottes und sagte: Gepriesen sei der Gott Israels.
 
 [Lectio Prima]
-!Isa 49:7
+!Isai 49:7
 Reges videbunt, et consurgent principes, et adorabunt Dominum Deum tuum, et Sanctum Israël, qui elegit te.
 
 [Capitulum Tertia]
@@ -275,7 +275,7 @@ V. Inter natos mulierum non surrexit major.
 R. Joanne Baptista.
 
 [Capitulum Sexta]
-!Isa 49:5-6
+!Isai 49:5-6
 v. Et nunc haec dicit Dominus, formans me ex utero servum sibi: Dedi te in lucem Gentium, ut sis salus mea usque ad extremum terrae.
 $Deo gratias
 

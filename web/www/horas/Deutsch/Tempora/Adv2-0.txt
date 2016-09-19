@@ -16,7 +16,7 @@ Die Berge und die Hügel * sollen vor Gott Lob singen, und alle Bäume in den W�
 Hört es, unser Herr * wird mit Macht kommen und außerordentliche Beseligung seinen Dienern bringen, alleluia.
 
 [Capitulum Vespera]
-!Röm 15,4
+!Rom 15,4
 v. Brüder, alles, was in der Schrift steht, ist zu unserer Belehrung hineingeschrieben, damit wir auf Grund des in den Schriften empfohlenen geduldigen Wartens und auf Grund der dort enthaltenen trostvollen Verheißungen Zuversicht haben.
 $Deo gratias
 
@@ -29,7 +29,7 @@ $Qui tecum
 
 [Lectio1]
 Aus dem Propheten Isaias.
-!Jes 11,1-4
+!Isai 11,1-4
 1 Es wird eine Staude aufsteigen aus der Wurzel Jesses, eine Blume wird aus dessen Stumpf emporsprossen.
 2 Und niederlassen wird sich auf diesem Sproß der Geist des Herrn, der Geist der Weisheit und der Einsicht, der Geist der Klugheit und des Mutes, der Geist der Wissenschaft und Frömmigkeit,
 3 und erfüllen wird ihn der Geist der Ehrfurcht vor dem Herrn. Nicht auf den Blick der Augen hin wird er das Urteil fällen und nicht auf das Gehör der Ohren hin die Entscheidungen treffen,
@@ -42,7 +42,7 @@ V. Ich bin doch der Herr, dein Gott, der Heilige Israels, dein Erlöser.
 R. Ich will dir Segen bringen und dich von den Übeln frei machen, habe keine Furcht.
 
 [Lectio2]
-!Jes 11,4-7
+!Isai 11,4-7
 4 Und er wird das Land wie mit einer Rute züchtigen und auf Grund seines Urteils und mit dem bloßen Hauch aus seinen Lippen den Räuber töten.
 5 Und Rechtssinn wird der Gurt um seine Hüften sein und Sinnesfestigkeit die Bekleidung um seine Lenden.
 6 Ruhig wird der Wolf mit dem Lamm weiden und der Panther mit dem Bock in Frieden liegen; das Kalb und der Löwe und das Schaf werden zusammen bleiben, und ein kleiner Knabe wird ihr Hirt sein.
@@ -55,7 +55,7 @@ V. Ja, der Herr wird mit Macht kommen und das Königsamt wird in seiner Hand sei
 R. Über alle Völker.
 
 [Lectio3]
-!Jes 11,8-10
+!Isai 11,8-10
 8 Und dann wird der Säugling über der Natternhöhle spielen; und ins Loch der Otter wird das der Mutterbrust entwöhnte Kind seine Hand hineinstecken.
 9 Man wird keinen Schaden anrichten und keinen Totschlag begehen auf meinem ganzen heiligen Berge; denn voll ist das Land von Erkenntnis des Herrn, nach Art des Meereswassers, das den Boden bedeckt.
 10 Alsdann wird der Spross aus Jesse hervorragen als ein Wunder unter den Völkern, ihn werden die Scharen anflehen, und seine Regierungsdauer wird voll Herrlichkeit sein.
@@ -101,7 +101,7 @@ R. Denn aus der Völkerscharen Mitte wird dein Heilsbringer kommen.
 
 [Lectio7]
 Lesung aus dem heiligen Evangelium nach Matthäus.
-!Mt 11,2-10
+!Matth 11,2-10
 In jener Zeit, als Johannes im Gefängnis von den Werken Christi hörte, sandte er zwei seiner Jünger und ließ ihn fragen: Bist du es, der da kommen soll oder sollen wir auf einen anderen warten? Und so weiter.
 _
 Auslegung vom heiligen Papst Gregor.
@@ -142,7 +142,7 @@ Die Berge und die Hügel * sollen vor Gott Lob singen, und alle Bäume in den W�
 Hört es, unser Herr * wird mit Macht kommen und außerordentliche Beseligung seinen Dienern bringen, alleluia.
 
 [Capitulum Laudes]
-!Röm 15,4
+!Rom 15,4
 v. Brüder, alles, was in der Schrift steht, ist zu unserer Belehrung hineingeschrieben, damit wir auf Grund des in den Schriften empfohlenen geduldigen Wartens und auf Grund der dort enthaltenen trostvollen Verheißungen Zuversicht haben.
 $Deo gratias
 
@@ -150,17 +150,17 @@ $Deo gratias
 Johannes aber sandte, * als er im Gefängnis von den Werken Christi hörte, zwei von seinen Jüngern zu ihm und ließ ihm sagen: Bist du derjenige, der da kommen soll, oder sollen wir auf einen anderen warten?
 
 [Capitulum Tertia]
-!Röm 15,4
+!Rom 15,4
 v. Brüder, alles, was in der Schrift steht, ist zu unserer Belehrung hineingeschrieben, damit wir auf Grund des in den Schriften empfohlenen geduldigen Wartens und auf Grund der dort enthaltenen trostvollen Verheißungen Zuversicht haben.
 $Deo gratias
 
 [Capitulum Sexta]
-!Röm 15,5-6
+!Rom 15,5-6
 v. Gott aber, der das geduldige Warten empfiehlt und den Trost gibt, verleihe euch die Gnade, dass ihr untereinander einmütig seid in Nachahmung Jesu Christi, dass ihr einstimmig mit einem Munde preiset Gott und den Vater unseres Herrn Jesus Christus.
 $Deo gratias
 
 [Capitulum Nona]
-!Röm 15,13
+!Rom 15,13
 v. Der Gott nun, der die Hoffnung gewährt, erfülle euch mit aller Freude und mit allem Segen auf Grund des Glaubens, damit ihr immer vollkommnere Hoffnung hegt und immer mehr Kraft erhaltet vom Heiligen Geiste.
 $Deo gratias
 

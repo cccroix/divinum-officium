@@ -60,7 +60,7 @@ Amen.
 
 [Lectio1]
 Aus dem Hohenliede.
-!Hld 3,1-4
+!Cant 3,1-4
 1 Auf meinem Lager sehnte ich mich in den Nächten nach dem Liebling meiner Seele; ich sehnte mich nach ihm und bekam ihn nicht zu sehen.
 2 Darum stand ich auf und durchwanderte die Stadt, durch die Straßenviertel und die Plätze, und suchte den Liebling meiner Seele; ich suchte ihn und fand ihn nicht.
 3 Als mich die Wächter der Stadt erblickten, fragte ich: Habt ihr den Liebling meiner Seele gesehen?
@@ -70,7 +70,7 @@ Aus dem Hohenliede.
 @Tempora/Pasc0-1::s/[Aa]ll.*//g
 
 [Lectio2]
-!Hld 8,1-4
+!Cant 8,1-4
 1 Wer gewährt mir das Glück, dass ich dich, der du mir gleichsam als mein an der Brust meiner Mutter genährter Bruder giltst, finde und dich mit Küssen bedecke, so dass mich niemand mehr geringschätzt?
 2 Ich fasse dich und führe dich in das Haus meiner Mutter; dort wirst du mir Lehrer sein, und ich reiche dir einen Kelch mit gar würzigem Wein und den Most von meinen Granatäpfeln.
 3 Seine Linke ruht unter meinem Haupte und seine Rechte hält mich umarmt.
@@ -86,7 +86,7 @@ R. Und als ich am Grabe weinte, erblickte ich meinen Herrn, alleluja.
 @:Responsory3
 
 [Lectio3]
-!Hld 8,5-7
+!Cant 8,5-7
 5 Wer ist denn die, die da heraufkommt von der Flur, überreich an lieblichstem Schmuck, Arm in Arm mit ihrem Liebling? Unter dem Apfelbaum weckte ich dich auf, dort ist deine Mutter erlegen der Liebe, dort ist verwundet worden diejenige, die dir das Leben geschenkt hat.
 6 Drück mich nun wie ein Andenken an dein Herz, wie ein Erinnerungsmal auf deinen Arm; denn gewaltig wie der Tod ist die Liebe, unbezwingbar wie die Totenwelt ist ihre eifernde Glut; ihr Lodern ist wie eine Flamme des Feuers und wie Blitzlicht.
 7 Selbst die größte Wasserflut kann die Liebe nicht zum Löschen bringen; und die Flüsse sie nicht bedecken.
@@ -112,7 +112,7 @@ Aber demjenigen, der seinen Liebling nicht findet, bleibt nur übrig, dass er "a
 
 [Lectio7]
 Lesung aus dem heiligen Evangelium nach Lukas.
-!Lk 7,36-50
+!Luc 7,36-50
 In jener Zeit bat einer von den Pharisäern Jesus, dass er bei ihm speise. Und er trat hinein in das Haus des Pharisäers und ließ sich nieder. Und so weiter.
 _
 Auslegung vom heiligen Bischof Augustin.

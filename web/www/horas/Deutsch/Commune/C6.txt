@@ -13,7 +13,7 @@ Komm, du meine Erwählte, * und ich will in dir meinen Thron aufrichten, allelui
 Das ist eine Schönheitsvolle * unter den Töchtern Jerusalems.;;147
 
 [Capitulum Vespera]
-!2 Kor 10,17-18
+!2 Cor 10,17-18
 v. Brüder! Wer sich rühmen will, der rühme sich im Herrn. Denn nicht der, welcher sich selbst ein gutes Zeugnis ausgestellt, gilt als erprobt, sindern den Gott als gut bezeichnet.
 $Deo gratias
 
@@ -200,7 +200,7 @@ R. Afferentur tibi in laetitia et exsultatione.
 
 [Lectio7]
 Lesung aus dem heiligen Evangelium nach Matthäus.
-!Mt 25,1-13
+!Matth 25,1-13
 In jener Zeit sagte Jesus seinen Jüngern folgendes Gleichnis: Es besteht eine Ähnlichkeit zwischen dem himmlischen Reiche und zehn Jungfrauen, die ihre Lampen nahmen und sich aufmachten, den Bräutigam und die Braut abzuholen. Und so weiter.
 _
 Auslegung vom heiligen Papst Gregor.
@@ -236,7 +236,7 @@ Komm, du meine Erwählte, * und ich will in dir meinen Thron aufrichten, allelui
 Das ist eine Schönheitsvolle * unter den Töchtern Jerusalems.;;
 
 [Capitulum Laudes]
-!2 Kor 10,17-18
+!2 Cor 10,17-18
 v. Brüder! Wer sich rühmen will, der rühme sich im Herrn. Denn nicht der, welcher sich selbst ein gutes Zeugnis ausgestellt, gilt als erprobt, sindern den Gott als gut bezeichnet.
 $Deo gratias
 
@@ -255,11 +255,11 @@ O Gott, der du unter anderen Wunderwerken deiner Allmacht auch in das schwache G
 $Per Dominum
 
 [Lectio Prima]
-!Weish 4,1
+!Sap 4,1
 v. O wie schön ist ein keusches Wesen und wie herrlich! Unsterblich ist das Andenken an dasselbe; denn es ist gerühmt bei Gott und bei den Menschen.
 
 [Capitulum Tertia]
-!2 Kor 10,17-18
+!2 Cor 10,17-18
 v. Brüder! Wer sich rühmen will, der rühme sich im Herrn. Denn nicht der, welcher sich selbst ein gutes Zeugnis ausgestellt, gilt als erprobt, sindern den Gott als gut bezeichnet.
 $Deo gratias
 
@@ -275,7 +275,7 @@ V. Adjuvabit eam Deus vultu suo.
 R. Deus in medio ejus, non commovebitur.
 
 [Capitulum Sexta]
-!2 Kor 11,2
+!2 Cor 11,2
 v. Denn ich liebe euch mit der Eifersucht Gottes; ich habe euch einem einzigen Mann verlobt, um euch als reine Jungfrau zu Christus zu führen.
 $Deo gratias
 
@@ -291,7 +291,7 @@ V. Elegit eam Deus, et praeelegit eam.
 R. In tabernaculo suo habitare facit eam.
 
 [Capitulum Nona]
-!Weish 4,1
+!Sap 4,1
 v. O wie schön ist ein keusches Wesen und wie herrlich! Unsterblich ist das Andenken an dasselbe; denn es ist gerühmt bei Gott und bei den Menschen.
 $Deo gratias
 
@@ -315,7 +315,7 @@ Komm, du Braut Christi, * empfange die Krone, den dir der Herr bereit hält auf 
 
 [Lectio11]
 De libro Ecclesiastici
-!Sir 51:1-7
+!Eccl 51:1-7
 1 Confitebor tibi, Domine Rex, et collaudabo te Deum Salvatorem meum.
 2 Confitebor nomini tuo, quoniam adjutor et protector factus es mihi,
 3 et liberasti corpus meum a perditione: a laqueo linguae iniquae, et a labiis operantium mendacium: et in conspectu astantium factus es mihi adjutor.
@@ -325,7 +325,7 @@ De libro Ecclesiastici
 7 de altitudine ventris inferi, et a lingua coinquinata, et a verbo mendacii, a rege iniquo, et a lingua injusta.
 
 [Lectio21]
-!Sir 51:8-12
+!Eccl 51:8-12
 8 Laudabit usque ad mortem anima mea Dominum,
 9 et vita mea appropinquans erat in inferno deorsum.
 10 Circumdederunt me undique, et non erat qui adjuvaret: Respiciens eram ad adjutorium hominum, et non erat.
@@ -333,7 +333,7 @@ De libro Ecclesiastici
 12 quoniam eruis sustinentes te, Domine, et liberas eos de manibus gentium.
 
 [Lectio31]
-!Sir 51:13-17
+!Eccl 51:13-17
 13 Exaltasti super terram habitationem meam, et pro morte defluente deprecata sum.
 14 Invocavi Dominum Patrem Domini mei, ut non derelinquat me in die tribulationis meae, et in tempore superborum, sine adjutorio.
 15 Laudabo nomen tuum assidue, et collaudabo illud in confessione: et exaudita est oratio mea,

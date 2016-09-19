@@ -20,7 +20,7 @@ Maximilla, die der Liebe Christi wert war, * nahm den Leib des Apostels und begr
 Diejenigen, die den Gerechten verfolgten, * hast du, o Herr, in der Totenwelt versenkt, und am Kreuzesbalken bist du deinem Diener Führer gewesen.
 
 [Capitulum Vespera]
-!Röm 10,10-11
+!Rom 10,10-11
 v. Brüder, mit dem Herzen glaubt man, damit man zum Gnadenstand kommt; mit dem Munde geschieht das Bekenntnis, das Heil wirkt. Es sagt ja die Schrift: Jeder, der an ihn glaubt, wird vor Täuschung bewahrt.
 $Deo gratias
 
@@ -50,7 +50,7 @@ R. Und überaus gewaltig scheint mir ihre Würde.
 
 [Lectio1]
 Aus dem Briefe des heiligen Apostels Paulus an die Römer.
-!Röm 10,4-9
+!Rom 10,4-9
 4 Endziel des Gesetzes ist Christus, zur Gerechtigkeit für jeden, der glaubt.
 5 Denn Moses schreibt von der Gerechtigkeit aus dem Gesetz: Der Mensch, der sie tut, wird durch sie leben.
 6 Die Gerechtigkeit aus dem Glauben aber sagt so: Sprich nicht in deinem Herzen: Wer wird in den Himmel hinaufsteigen? nämlich um Christus herabzuholen.
@@ -66,7 +66,7 @@ V. Sie waren nämlich Fischer. Jesus sprach zu ihnen:
 R. Kommt, Mir nach, Ich will euch zu Menschenfischern machen.
 
 [Lectio2]
-!Röm 10,10-15
+!Rom 10,10-15
 10 Brüder, mit dem Herzen glaubt man, damit man zum Gnadenstand kommt; mit dem Munde geschieht das Bekenntnis, das Heil wirkt.
 11 Es sagt ja die Schrift: Jeder, der an ihn glaubt, wird vor Täuschung bewahrt.
 12 Also gibt es keinen Unterschied zwischen Juden und Nichtjuden; denn einer ist der Herr aller, der da reich ist gegenüber allen, die ihn anrufen.
@@ -82,7 +82,7 @@ V. Dieser hat aus Liebe zu Christus am Kreuz gehangen und für Seine Lehre Leide
 R. Er folgte Dem, der ihm den Lohn des ewigen Lebens versprach.
 
 [Lectio3]
-!Röm 10,16-21
+!Rom 10,16-21
 16 Aber nicht alle haben dem Evangelium Folge geleistet. Schon Isaias sagt: Herr, wer glaubt denn das, was er von uns hört?
 17 Also der Glaube kommt vom Hören; was man aber hört, ist die Lehre Jesu Christi.
 18 Nun sage ich aber: Hat man noch nichts gehört? Und doch ist in alle Welt gedrungen ihre Kunde, bis zu der Erde Grenzen ihre Meldung.
@@ -168,7 +168,7 @@ R. Sie wandeln nicht auf guten Wegen, sondern gehen nur der Sünde nach.
 
 [Lectio7]
 Lesung aus dem heiligen Evangelium nach Matthäus.
-!Mt 4,18-22
+!Matth 4,18-22
 In jener Zeit, als Jesus eines Tages den Galiläischen See entlang wandelte, erblickte er zwei Brüder: ~
 Simon, der auch Petrus heißt, und dessen Bruder Andreas, als sie gerade das Netz ins Meer warfen. Und so weiter.
 _
@@ -223,7 +223,7 @@ Maximilla, die der Liebe Christi wert war, * nahm den Leib des Apostels und begr
 Diejenigen, die den Gerechten verfolgten, * hast du, o Herr, in der Totenwelt versenkt, und am Kreuzesbalken bist du deinem Diener Führer gewesen.
 
 [Capitulum Laudes]
-!Röm 10,10-11
+!Rom 10,10-11
 v. Brüder, mit dem Herzen glaubt man, damit man zum Gnadenstand kommt; mit dem Munde geschieht das Bekenntnis, das Heil wirkt. Es sagt ja die Schrift: Jeder, der an ihn glaubt, wird vor Täuschung bewahrt.
 $Deo gratias
 
@@ -231,21 +231,21 @@ $Deo gratias
 Lass uns frei * den rechtschaffenen Mann, gib uns zurück den heiligen Mann; töte nicht den Gott teuren, rechtschaffenen, geduldigen und lieben Mann.
 
 [Lectio Prima]
-!Röm 10,16-18
+!Rom 10,16-18
 v. Schon Isaias sagt: Herr, wer glaubt denn das, was er von uns hört? Also der Glaube kommt vom Hören; was man aber hört, ist die Lehre Jesu Christi. Nun sage ich aber: Hat man noch nichts gehört? Und doch ist in alle Welt gedrungen ihre Kunde, bis zu der Erde Grenzen ihre Meldung.
 
 [Capitulum Tertia]
-!Röm 10,10-11
+!Rom 10,10-11
 v. Brüder, mit dem Herzen glaubt man, damit man zum Gnadenstand kommt; mit dem Munde geschieht das Bekenntnis, das Heil wirkt. Es sagt ja die Schrift: Jeder, der an ihn glaubt, wird vor Täuschung bewahrt.
 $Deo gratias
 
 [Capitulum Sexta]
-!Röm 10,12-13
+!Rom 10,12-13
 v. Also gibt es keinen Unterschied zwischen Juden und Nichtjuden; denn einer ist der Herr aller, der da reich ist gegenüber allen, die ihn anrufen. "Jeder nämlich, der die Majestät Gottes anruft, wird selig."
 $Deo gratias
 
 [Capitulum Nona]
-!Röm 10,16-18
+!Rom 10,16-18
 v. Schon Isaias sagt: Herr, wer glaubt denn das, was er von uns hört? Also der Glaube kommt vom Hören; was man aber hört, ist die Lehre Jesu Christi. Nun sage ich aber: Hat man noch nichts gehört? Und doch ist in alle Welt gedrungen ihre Kunde, bis zu der Erde Grenzen ihre Meldung.
 $Deo gratias
 

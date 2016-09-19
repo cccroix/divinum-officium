@@ -21,7 +21,7 @@ $Per Dominum
 
 [Lectio1]
 Aus dem Briefe des heiligen Apostels Paulus an die Kolosser.
-!Kol 3,1-7
+!Col 3,1-7
 1 Si consurrexistis cum Christo: quae sursum sunt quaerite, ubi Christus est in dextera Dei sedens:
 2 quae sursum sunt sapite, non quae super terram.
 3 Mortui enim estis, et vita vestra est abscondita cum Christo in Deo.
@@ -34,7 +34,7 @@ Aus dem Briefe des heiligen Apostels Paulus an die Kolosser.
 @Tempora/Pasc0-0::s/&Gloria.*//s
 
 [Lectio2]
-!Kol 3,8-13
+!Col 3,8-13
 8 Nunc autem deponite et vos omnia: iram, indignationem, malitiam, blasphemiam, turpem sermonem de ore vestro.
 9 Nolite mentiri invicem, exspoliantes vos veterem hominem cum actibus suis,
 10 et induentes novum eum, qui renovatur in agnitionem secundum imaginem ejus qui creavit illum:
@@ -49,7 +49,7 @@ V. Jesum quǽritis Nazarénum crucifíxum? Surréxit, non est hic.
 R. Veníte, et vidéte, allelúja, allelúja.
 
 [Lectio3]
-!Kol 3,14-17
+!Col 3,14-17
 14 Super omnia autem haec, caritatem habete, quod est vinculum perfectionis:
 15 et pax Christi exsultet in cordibus vestris, in qua et vocati estis in uno corpore: et grati estote.
 16 Verbum Christi habitet in vobis abundanter, in omni sapientia, docentes, et commonentes vosmetipsos, psalmis, hymnis, et canticis spiritualibus, in gratia cantantes in cordibus vestris Deo.
@@ -80,7 +80,7 @@ Habemus, inquit, certiorem propheticum sermonem: cui bene facitis intendentes ta
 
 [Lectio7]
 Lectio sancti Evangelii secundum Joannem.
-!Joannes 20:19-31
+!Joann 20:19-31
 In illo tempore: Cum sero esset die illo, una sabbatorum, et fores essent clausae, ubi erant discipuli congregati propter metum Judaeorum: venit Jesus, et stetit in medio, et dixit eis: Pax vobis. Et reliqua.
 _
 Homilia sancti Gregorii Papae.
