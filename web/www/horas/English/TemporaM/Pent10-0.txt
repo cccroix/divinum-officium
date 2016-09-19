@@ -176,7 +176,7 @@ ever.
 
 [Lectio7]
 From the Holy Gospel according to Luke
-!Luke 18:9-14
+!Luc 18:9-14
 AT that time Jesus spake this parable unto certain which trusted in themselves~
 that they were righteous, and despised others Two men went up into the Temple~
 to pray, the one a Pharisee, and the other a publican. And so on.
@@ -242,7 +242,7 @@ R. As incense before thee.
 
 [LectioE]
 Continuation of the Holy Gospel according to Luke
-!Luke 18:9-14
+!Luc 18:9-14
 18:9 And to some who trusted in themselves as just, and despised others, he spoke also this parable:
 18:10 Two men went up into the temple to pray: the one a Pharisee, and the other a publican.
 18:11 The Pharisee standing, prayed thus with himself: O God, I give thee thanks that I am not as the rest of men, extortioners, unjust, adulterers, as also is this publican.

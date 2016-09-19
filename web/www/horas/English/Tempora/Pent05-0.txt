@@ -16,7 +16,7 @@ $Per Dominum
 
 [Lectio1]
 Lesson from the second book of Samuel
-!2 Sam 1:1-4
+!2 Reg 1:1-4
 1 Now it came to pass, after Saul was dead, that David returned from the slaughter of the Amalecites, and abode two days in Siceleg.
 2 And on the third day, there appeared a man who came out of Saul's camp, with his garments rent, and dust strewed on his head: and when he came to David, he fell upon his face, and adored.
 3 And David said to him: From whence comest thou? And he said to him: I am fled out of the camp of Israel.
@@ -26,7 +26,7 @@ Lesson from the second book of Samuel
 @Tempora/Pent01-1
 
 [Lectio2]
-!2 Sam 1:5-10
+!2 Reg 1:5-10
 5 And David said to the young man that told him: How knowest thou that Saul and Jonathan his son, are dead?
 6 And the young man that told him, said: I came by chance upon mount Gelboe, and Saul leaned upon his spear: and the chariots and horsemen drew nigh unto him,
 7 And looking behind him, and seeing me, he called me. And I answered, Here am I.
@@ -38,7 +38,7 @@ Lesson from the second book of Samuel
 @Tempora/Pent01-1
 
 [Lectio3]
-!2 Sam 1:11-15
+!2 Reg 1:11-15
 11 Then David took hold of his garments and rent them, and likewise all the men that were with him.
 12 And they mourned, and wept, and fasted until evening for Saul, and for Jonathan his son, and for the people of the Lord, and for the house of Israel, because they were fallen by the sword.
 13 And David said to the young man that told him: Whence art thou? He answered: I am the son of a stranger of Amalee.
@@ -70,7 +70,7 @@ And well is it said of them Let there be upon you no fields of offerings. The pr
 
 [Lectio7]
 From the Holy Gospel according to Matthew
-!Matt 5:20-24
+!Matth 5:20-24
 At that time, Jesus said unto His disciples: Unless your righteousness shall exceed the righteousness of the Scribes and Pharisees, ye shall in no case enter into the kingdom of heaven. And so on.
 _
 Homily by St. Augustine, Bishop of Hippo.

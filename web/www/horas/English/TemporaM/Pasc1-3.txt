@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 From the Acts of Apostles.
-!Acts 3:1-6
+!Act 3:1-6
 1 Now Peter and John went up into the temple at the ninth hour of prayer.
 2 And a certain man who was lame from his mother's womb, was carried: whom they~
 laid every day at the gate of the temple, which is called Beautiful, that he~

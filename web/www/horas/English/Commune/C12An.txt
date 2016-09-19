@@ -60,7 +60,7 @@ And Holy Ghost eternally.
 Amen.
 _
 #Chapter
-!Isa 7:14-15
+!Isai 7:14-15
 Behold, the Virgin shall conceive and bear a Son, and His Name shall be called Emmanuel. Butter and honey shall He eat, that He may know to refuse the evil, and choose the good.
 $Deo gratias
 _
@@ -100,7 +100,7 @@ V. God hath chosen her and fore-chosen her.
 R. He hath made her to dwell in His tabernacle.
 
 [Lectio1]
-!Luke 1:26-28
+!Luc 1:26-28
 26 And in the sixth month, the angel Gabriel was sent from God into a city of Galilee, called Nazareth,
 27 To a virgin espoused to a man whose name was Joseph, of the house of David; and the virgin's name was Mary.
 28 And the angel being come in, said unto her: Hail, full of grace, the Lord is with thee: blessed art thou among women.
@@ -112,7 +112,7 @@ V. The Lord God shall give unto Him the throne of His father David, and He shall
 R. Behold, thou shalt conceive and bring forth a son, and He shall be called the Son of the Highest.
 
 [Lectio2]
-!Luke 1:29-33
+!Luc 1:29-33
 29 Who having heard, was troubled at his saying, and thought with herself what manner of salutation this should be.
 30 And the angel said to her: Fear not, Mary, for thou hast found grace with God.
 31 Behold thou shalt conceive in thy womb, and shalt bring forth a son; and thou shalt call his name Jesus.
@@ -126,7 +126,7 @@ V. How shall this be, seeing I know not men? And the Angel answered and said unt
 R. The Holy Ghost shall come upon thee, and the power of the highest shall overshadow thee, therefore also the Holy Thing which shall be born of thee shall be called the Son of God.
 
 [Lectio3]
-!Luke 1:34-38
+!Luc 1:34-38
 34 And Mary said to the angel: How shall this be done, because I know not man?
 35 And the angel answering, said to her: The Holy Ghost shall come upon thee, and the power of the most High shall overshadow thee. And therefore also the Holy which shall be born of thee shall be called the Son of God.
 36 And behold thy cousin Elizabeth, she also hath conceived a son in her old age; and this is the sixth month with her that is called barren:
@@ -149,7 +149,7 @@ The Lord shall give unto Him the throne of His father David, and of His kingdom 
 Behold the handmaid of the Lord * be it unto me according to thy word.
 
 [Capitulum Laudes]
-!Isa 11:1-2
+!Isai 11:1-2
 v. And there shall come forth a rod out of the root of Jesse, and a flower shall rise up out of his root. And the spirit of the Lord shall rest upon him: the spirit of wisdom, and of understanding, the spirit of counsel, and of fortitude, the spirit of knowledge, and of godliness.
 $Deo gratias.
 
@@ -193,7 +193,7 @@ _
 Ant. The Angel Gabriel was sent * to a virgin espoused to a man whose name was Joseph; and the virgin's name was Mary.
 _
 #Chapter
-!Isa 7:14-15
+!Isai 7:14-15
 v. Therefore the Lord himself shall give you a sign. Behold a virgin shall conceive, and bear a son, and his name shall be called Emmanuel. He shall eat butter and honey, that he may know to refuse the evil, and to choose the good.
 $Deo gratias
 _
@@ -238,7 +238,7 @@ _
 Ant. Hail, Mary, * full of grace, the Lord is with thee; blessed art thou among women.
 _
 #Chapter
-!Isa 11:1-2
+!Isai 11:1-2
 v. And there shall come forth a rod out of the root of Jesse, and a flower shall rise up out of his root. And the spirit of the Lord shall rest upon him: the spirit of wisdom, and of understanding, the spirit of counsel, and of fortitude, the spirit of knowledge, and of godliness.
 $Deo gratias
 _
@@ -283,7 +283,7 @@ _
 Ant. Fear not, Mary, * thou hast found grace with the Lord; behold, thou shalt conceive, and bring forth a Son.
 _
 #Chapter
-!Luke 1:32-33
+!Luc 1:32-33
 And the Lord God shall give unto him the throne of David his father; and he shall reign in the house of Jacob for ever. And of his kingdom there shall be no end.
 $Deo gratias
 _
@@ -328,7 +328,7 @@ _
 Ant. Behold the handmaid of the Lord; * be it unto me according to thy word.
 _
 #Chapter
-!Isa 7:14-15
+!Isai 7:14-15
 v. Therefore the Lord himself shall give you a sign. Behold a virgin shall conceive, and bear a son, and his name shall be called Emmanuel. He shall eat butter and honey, that he may know to refuse the evil, and to choose the good.
 $Deo gratias.
 _

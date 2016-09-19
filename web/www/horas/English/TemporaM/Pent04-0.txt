@@ -23,7 +23,7 @@ $Per Dominum.
 
 [Lectio1]
 Lesson from the first book of Samuel
-!1 Sam 17:1-7
+!1 Reg 17:1-7
 1 Now the Philistines gathering together their troops to battle, assembled at~
 Socho of Juda, and camped between Socho and Azeca in the borders of Dommim.
 2 And Saul and the children of Israel being gathered together came to the valley~
@@ -48,7 +48,7 @@ among you.
 R. And He will deliver you out of the hand of your enemies.
 
 [Lectio2]
-!1 Sam 17:8-11
+!1 Reg 17:8-11
 8 And standing he cried out to the bands of Israel, and said to them: Why are~
 you come out prepared to fight? am not I a Philistine, and you the servants of~
 Saul? Choose out a man of you, and let him come down and fight hand to hand.
@@ -69,7 +69,7 @@ of the bear
 R. And anointed me with the oil of His mercy.
 
 [Lectio3]
-!1 Sam 17:12-16
+!1 Reg 17:12-16
 12 Now David was the son of that Ephrathite of Bethlehem Juda before mentioned,~
 whose name was Isai, who had eight sons, and was an old man in the days of Saul,~
 and of great age among men.
@@ -162,7 +162,7 @@ ever.
 
 [Lectio7]
 From the Holy Gospel according to Luke
-!Luke 5:1-11
+!Luc 5:1-11
 At that time As the people pressed upon Jesus, to hear the word of God, He~
 stood by the lake of Gennesareth. And so on.
 _
@@ -226,7 +226,7 @@ R. As incense before thee.
 
 [LectioE]
 Continuation of the Holy Gospel according to Luke
-!Luke 5:1-11
+!Luc 5:1-11
 5:1 AND it came to pass, that when the multitudes pressed upon him to hear the word of God, he stood by the lake of Genesareth,
 5:2 And saw two ships standing by the lake: but the fishermen were gone out of them, and were washing their nets.
 5:3 And going into one of the ships that was Simon's, he desired him to draw back a little from the land. And sitting he taught the multitudes out of the ship.

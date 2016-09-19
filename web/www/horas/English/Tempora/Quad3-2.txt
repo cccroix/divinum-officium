@@ -5,7 +5,7 @@ Feria Tertia infra Hebdomadam III in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Continuation of the Holy Gospel according to Matthew
-!Matt 18:15-22
+!Matth 18:15-22
 At that time, Jesus saith to his disciples: But if thy brother shall offend against thee, go, and rebuke him between thee and him alone. And so on.
 _
 Homily by St. Augustine, Bishop (of Hippo.)

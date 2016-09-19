@@ -5,7 +5,7 @@ Feria Tertia infra Hebdomadam III in Quadragesima;;Feria major;;2
 
 [Lectio1]
 From the holy Gospel according to Matthew
-!Matt 18:15-22
+!Matth 18:15-22
 In that time Jesus said to his disciples: But if thy brother shall offend~
 against thee, go, and rebuke him between thee and him alone. And so on.
 _
@@ -85,7 +85,7 @@ $Per Dominum
 
 [LectioE]
 v. Continuation of the Holy Gospel according to Matthew
-!Matt 18:15-22
+!Matth 18:15-22
 18:15 But if thy brother shall offend against thee, go, and rebuke him between thee and him alone. If he shall hear thee, thou shalt gain thy brother.
 18:16 And if he will not hear thee, take with thee one or two more: that in the mouth of two or three witnesses every word may stand.
 18:17 And if he will not hear them: tell the church. And if he will not hear the church, let him be to thee as the heathen and publican.

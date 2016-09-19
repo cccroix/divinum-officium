@@ -18,7 +18,7 @@ Blessed be God, * Who sent His Angel, and delivered His servants that trusted in
 Praise ye God, * all His Angels Praise ye Him, all His hosts.
 
 [Capitulum Vespera]
-!Exod. 23:20-21
+!Ex 23:20-21
 v. Behold I will send my angel, who shall go before thee, and keep thee in thy journey, and bring thee into the place that I have prepared. Take notice of him, and hear his voice.
 $Deo gratias
 
@@ -84,7 +84,7 @@ R. I will worship toward thy holy Temple, and praise thy Name.
 
 [Lectio1]
 From the Book of Exodus
-!Exod 23:20-23
+!Ex 23:20-23
 20 Behold I will send my angel, who shall go before thee, and keep thee in thy~
 journey, and bring thee into the place that I have prepared.
 21 Take notice of him, and hear his voice, and do not think him one to be~
@@ -106,7 +106,7 @@ stone.
 
 [Lectio2]
 From Zacharias the Prophet.
-!Zech 1:7-11
+!Zach 1:7-11
 7 In the four and twentieth day of the eleventh month which is called Sabath, in~
 the second year of Darius, the word of the Lord came to Zacharias the son of~
 Barachias, the son of Addo, the prophet, saying:
@@ -130,7 +130,7 @@ R. How long wilt Thou not have mercy on Jerusalem, and on the cities of Judah,~
 against which Thou hast had indignation?
 
 [Lectio3]
-!Zech 2:1-5
+!Zach 2:1-5
 1 And I lifted up my eyes, and saw, and behold a man, with a measuring line in~
 his hand.
 2 And I said: Whither goest thou? and he said to me: To measure Jerusalem, and~
@@ -206,7 +206,7 @@ R. And the Angel of His presence saved them.
 
 [Lectio7]
 From the Holy Gospel according to Matthew
-!Matt 18:1-10
+!Matth 18:1-10
 At that time, the disciples came to Jesus, saying: Who thinkest thou is the greater in the kingdom of heaven? And so on.
 _
 Homily by St. Hilary, Bishop (of Poitiers.)
@@ -278,7 +278,7 @@ Blessed be God, * Who sent His Angel, and delivered His servants that trusted in
 Praise ye God, * all His Angels Praise ye Him, all His hosts!
 
 [Capitulum Laudes]
-!Exod. 23:20-21
+!Ex 23:20-21
 v. Behold I will send my angel, who shall go before thee, and keep thee in thy~
 journey, and bring thee into the place that I have prepared. Take notice of him,~
 and hear his voice.
@@ -325,13 +325,13 @@ The Angel that talked * with me came again, and waked me, as a man that is~
 wakened out of his sleep.
 
 [Lectio Prima]
-!Exod 23:22-23
+!Ex 23:22-23
 v. But if thou wilt hear his voice, and do all that I speak, I will be an enemy~
 to thy enemies, and will afflict them that afflict thee. And my angel shall go~
 before thee
 
 [Capitulum Tertia]
-!Exod. 23:20-21
+!Ex 23:20-21
 v. Behold I will send my angel, who shall go before thee, and keep thee in thy~
 journey, and bring thee into the place that I have prepared. Take notice of him,~
 and hear his voice.
@@ -349,7 +349,7 @@ V. And the smoke of the incense ascended up before the Lord.
 R. Out of the Angel's hand.
 
 [Capitulum Sexta]
-!Exod. 23:21
+!Ex 23:21
 v. Take notice of him, and hear his voice, and do not think him one to be~
 contemned: for he will not forgive when thou hast sinned, and my name is in him.
 $Deo gratias
@@ -366,7 +366,7 @@ V. Before the Angels will I sing praise unto thee, O my God.
 R. I will worship toward thy holy Temple, and praise thy Name.
 
 [Capitulum Nona]
-!Exod 23:22-23
+!Ex 23:22-23
 v. But if thou wilt hear his voice, and do all that I speak, I will be an enemy~
 to thy enemies, and will afflict them that afflict thee. And my angel shall go~
 before thee.

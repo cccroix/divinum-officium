@@ -1,6 +1,6 @@
 [Lectio1]
 From the first book of the Macchabees
-!1 Mac 2:1-6
+!1 Mach 2:1-6
 1 In those days arose Mathathias the son of John, the son of Simeon, a priest of~
 the sons of Joarib, from Jerusalem, and he abode in the mountain of Modin.
 2 And he had five sons: John who was surnamed Gaddis:
@@ -18,7 +18,7 @@ R. This is one who prayeth much for the people, and for all the Holy City,~
 Jerusalem.
 
 [Lectio2]
-!1 Mac 2:7-10
+!1 Mach 2:7-10
 7 And Mathathias said: Woe is me, wherefore was I born to see the ruin of my~
 people, and the ruin of the holy city, and to dwell there, when it is given into~
 the hands of the enemies?
@@ -37,7 +37,7 @@ therein, and to be an house of prayer and petition for thy people.
 R. Therefore now, O Lord, keep this house ever undefiled.
 
 [Lectio3]
-!1 Mac 2:14-16
+!1 Mach 2:14-16
 14 And Mathathias and his sons rent their garments, and they covered themselves~
 with haircloth, and made great lamentation.
 15 And they that were sent from king Antiochus came thither, to compel them that~

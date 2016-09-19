@@ -1,6 +1,6 @@
 [Lectio1]
 From the Book Of Ecclesiaticus
-!Sir 13:1-6
+!Eccl 13:1-6
 1 He that toucheth pitch, shall be defiled with it: and he that hath fellowship~
 with the proud, shall put on pride.
 2 He shall take a burden upon him that hath fellowship with one more honourable~
@@ -18,7 +18,7 @@ he will not be sorry for thee.
 @TemporaM/081-0:Responsory7
 
 [Lectio2]
-!Sir 13:9-15
+!Eccl 13:9-15
 9 Humble thyself to God, and wait for his hands.
 10 Beware that thou be not deceived Into folly, and be humbled.
 11 Be not lowly in thy wisdom, lest being humbled thou be deceived into folly.
@@ -36,7 +36,7 @@ and to cast thee into prison.
 @TemporaM/081-1:Responsory2
 
 [Lectio3]
-!Sir 13:16-22
+!Eccl 13:16-22
 16 Take heed to thyself, and attend diligently to what thou hearest: for thou~
 walkest in danger of thy ruin.
 17 When thou hearest those things, see as it were in sleep, and thou shalt~

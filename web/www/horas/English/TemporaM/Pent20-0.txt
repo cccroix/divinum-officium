@@ -14,7 +14,7 @@ $Per Dominum
 
 [Lectio7]
 From the Holy Gospel according to John
-!John 4:46-53
+!Joann 4:46-53
 At that time There was a certain nobleman, whose son was sick at Capernaum.~
 And so on.
 _
@@ -70,7 +70,7 @@ R. As incense before thee.
 
 [LectioE]
 Continuation of the Holy Gospel according to John
-!John 4:46-53
+!Joann 4:46-53
 4:46 He came again therefore into Cana of Galilee, where he made the water wine. And there was a certain ruler, whose son was sick at Capharnaum.
 4:47 He having heard that Jesus was come from Judea into Galilee, went to him, and prayed him to come down, and heal his son; for he was at the point of death.
 4:48 Jesus therefore said to him: Unless you see signs and wonders, you believe not.

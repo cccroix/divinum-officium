@@ -5,7 +5,7 @@ Feria Secunda infra Hebdomadam I in Quadragesima;;Feria major;;2
 
 [Lectio1]
 From the holy Gospel according to Matthew
-!Matt 25:31-46
+!Matth 25:31-46
 In that time Jesus said to his disciples: When the Son of man shall come in his~
 majesty, and all the angels with him, then shall he sit upon the seat of his~
 majesty. And all nations shall be gathered together before him. And so on.
@@ -79,7 +79,7 @@ $Per Dominum.
 
 [LectioE]
 v. Continuation of the Holy Gospel according to Matthew
-!Matt 25:31-46
+!Matth 25:31-46
 25:31 And when the Son of man shall come in his majesty, and all the angels with him, then shall he sit upon the seat of his majesty.
 25:32 And all nations shall be gathered together before him, and he shall separate them one from another, as the shepherd separateth the sheep from the goats:
 25:33 And he shall set the sheep on his right hand, but the goats on his left.

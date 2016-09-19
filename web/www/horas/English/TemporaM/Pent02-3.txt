@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 From the First Book of Kings
-!1 Sam 6:19-21; 7:1
+!1 Reg 6:19-21; 7:1
 19 But he slew of the men of Bethsames, because they had seen the ark of the~
 Lord: and he slew of the people seventy men, and fifty thousand of the common~
 people. And the people lamented, because the Lord had smitten the people with a~
@@ -21,7 +21,7 @@ to you.
 @TemporaM/Pent01-3:Responsory1
 
 [Lectio2]
-!1 Sam 7:2-4
+!1 Reg 7:2-4
 2 And it came to pass, that from the day the ark of the Lord abode in~
 Cariathiarim days were multiplied, (for it was now the twentieth year,) and all~
 the house of Israel rested following the Lord.
@@ -36,7 +36,7 @@ only.
 @TemporaM/Pent01-3:Responsory2
 
 [Lectio3]
-!1 Sam 7:5-8
+!1 Reg 7:5-8
 5 And Samuel said: Gather all Israel to Masphath, that I may pray to the Lord~
 for you.
 6 And they gathered together to Masphath: and they drew water, and poured it out~
@@ -100,7 +100,7 @@ heart hold to.
 
 [Lectio7]
 The Lesson is taken from the Holy Gospel according to John
-!John 6: 55-59)
+!Joann 6: 55-59)
 At that time Jesus said unto the multitudes of the Jews My Flesh is meat~
 indeed, and My Blood is drink indeed. And so on.
 _

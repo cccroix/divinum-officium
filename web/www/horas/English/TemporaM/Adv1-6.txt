@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the book of Isaias
-!Isa 7:1-3
+!Isai 7:1-3
 1 And it came to pass in the days of Achaz the son of Joathan, the son of Ozias,~
 king of Juda, that Basin king of Syria, and Phacee the son of Romelia king of~
 Israel, came up to Jerusalem, to fight against it: but they could not prevail~
@@ -22,7 +22,7 @@ held.
 @TemporaM/Adv1-0:Responsory7
 
 [Lectio2]
-!Isa 7:4-6
+!Isai 7:4-6
 4 And thou shalt say to him: See thou be quiet: fear not, and let not thy heart~
 be afraid of the two tails of these fire brands, smoking with the wrath of the~
 fury of Rasin king of Syria, end of the son of Romelia.
@@ -35,7 +35,7 @@ son of Tabeel king in the midst thereof.
 @TemporaM/Adv1-0:Responsory8
 
 [Lectio3]
-!Isa 7:10-15
+!Isai 7:10-15
 10 And the Lord spoke again to Achaz, saying:
 11 Ask thee a sign of the Lord thy God either unto the depth of hell, or unto~
 the height above.

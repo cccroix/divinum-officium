@@ -9,7 +9,7 @@ Preces Feriales
 
 [Lectio1]
 From the Holy Gospel according to Mark
-!Mark 9:16-28
+!Marc 9:16-28
 At that time One of the multitude answered and said unto Jesus Master, I~
 have brought unto thee my son, which hath a dumb spirit. And so on.
 _
@@ -77,7 +77,7 @@ $Per Dominum
 
 [LectioE]
 v. Continuation of the Holy Gospel according to Mark
-!Mark 9:16-28
+!Marc 9:16-28
 9:16 And one of the multitude, answering, said: Master, I have brought my son to thee, having a dumb spirit.
 9:17 Who, wheresoever he taketh him, dasheth him, and he foameth, and gnasheth with the teeth, and pineth away; and I spoke to thy disciples to cast him out, and they could not.
 9:18 Who answering them, said: O incredulous generation, how long shall I be with you? how long shall I suffer you? bring him unto me.

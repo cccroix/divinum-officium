@@ -27,7 +27,7 @@ $Per Dominum
 
 [Lectio1]
 Lesson from the letter of St. James the Apostle
-!Jas 1:1-6
+!Jacob 1:1-6
 1 James the servant of God, and of our Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting.
 2 My brethren, count it all joy, when you shall fall into divers temptations;
 3 Knowing that the trying of your faith worketh patience.
@@ -36,7 +36,7 @@ Lesson from the letter of St. James the Apostle
 6 But let him ask in faith, nothing wavering.
 
 [Lectio2]
-!Jas 1:6-11
+!Jacob 1:6-11
 6 For he that wavereth is like a wave of the sea, which is moved and carried about by the wind.
 7 Therefore let not that man think that he shall receive any thing of the Lord.
 8 A double minded man is inconstant in all his ways.
@@ -45,7 +45,7 @@ Lesson from the letter of St. James the Apostle
 11 For the sun rose with a burning heat, and parched the grass, and the flower thereof fell off, and the beauty of the shape thereof perished: so also shall the rich man fade away in his ways.
 
 [Lectio3]
-!Jas 1:12-16
+!Jacob 1:12-16
 12 Blessed is the man that endureth temptation; for when he hath been proved, he shall receive a crown of life, which God hath promised to them that love him.
 13 Let no man, when he is tempted, say that he is tempted by God. For God is not a tempter of evils, and he tempteth no man.
 14 But every man is tempted by his own concupiscence, being drawn away and allured.
@@ -63,7 +63,7 @@ So great was James' holiness of life that men strove one with another to touch t
 
 [Lectio7]
 From the Holy Gospel according to John
-!John 14:1-13 
+!Joann 14:1-13 
 At that time, Jesus said unto His disciples: “Let not your heart be troubled. Ye believe in God, believe also in Me. In My Father's house there are many mansions.” And so on.
 _
 Homily by St. Augustine, Bishop of Hippo.

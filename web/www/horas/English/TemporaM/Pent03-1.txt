@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the first book of Samuel
-!1 Sam 10:17-19
+!1 Reg 10:17-19
 17 And Samuel called together the people to the Lord in Maspha:
 18 And he said to the children of Israel: Thus saith the Lord the God of Israel: I~
 brought up Israel out of Egypt, and delivered you from the hand of the Egyptians,~
@@ -27,7 +27,7 @@ R. That the land be not utterly laid waste, and that Thou destroy not every~
 living soul.
 
 [Lectio2]
-!1 Sam 10:20-24
+!1 Reg 10:20-24
 20 And Samuel brought to him all the tribes of Israel, and the lot fell on the~
 tribe of Benjamin.
 21 And he brought the tribe of Benjamin and the kindreds thereof, and the lot~
@@ -50,7 +50,7 @@ their heart.
 R. O God of Israel, bless Thou, and hallow this house for ever
 
 [Lectio3]
-!1 Sam 10:25-27
+!1 Reg 10:25-27
 25 And Samuel told the people the law of the kingdom, and wrote it in a book,~
 and laid it up before the Lord: and Samuel sent away all the people, every one~
 to his own house.

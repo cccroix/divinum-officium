@@ -7,7 +7,7 @@ Feria Te Deum
 
 [Lectio1]
 From the Book of Revelation of St John Apostle
-!Rev 22:1-7
+!Apoc 22:1-7
 1 And he showed me a river of water of life, clear as crystal, proceeding from~
 the throne of God and of the Lamb.
 2 In the midst of the street thereof, and on both sides of the river, was the~
@@ -39,7 +39,7 @@ R. And David [was with the singers, (and) played upon an harp in the house of~
 the Lord, and sung praises unto God. Alleluia, Alleluia.
 
 [Lectio2]
-!Rev 22:8-12
+!Apoc 22:8-12
 8 And I, John, who have heard and seen these things. And after I had heard and~
 seen, I fell down to adore before the feet of the angel, who showed me these~
 things.
@@ -65,7 +65,7 @@ R. Here worship God. Alleluia, Alleluia, Alleluia.
 R. Here worship God. Alleluia, Alleluia, Alleluia.
 
 [Lectio3]
-!Rev 22:13-21
+!Apoc 22:13-21
 13 I am Alpha and Omega, the first and the last, the beginning and the end.
 14 Blessed are they that wash their robes in the blood of the Lamb: that they~
 may have a right to the tree of life, and may enter in by the gates into the~

@@ -11,7 +11,7 @@ Psalmi Dominica;
 
 [Lectio1]
 From the Holy Gospel according to John.
-!John 21:1-14
+!Joann 21:1-14
 At that time: After this, Jesus showed himself again to the disciples at the sea~
 of Tiberias. And he showed himself after this manner. There were together~
 Simon Peter, and Thomas, who is called Didymus, And so on.
@@ -86,7 +86,7 @@ Simon Peter went up, and drew the net to land, full of great fishes. Alleluia.
 
 [LectioE]
 v. Continuation of the Holy Gospel according to John
-!John 21:1-14
+!Joann 21:1-14
 21:1 AFTER this, Jesus shewed himself again to the disciples at the sea of Tiberias. And he shewed himself after this manner.
 21:2 There were together Simon Peter, and Thomas, who is called Didymus, and Nathanael, who was of Cana of Galilee, and the sons of Zebedee, and two others of his disciples.
 21:3 Simon Peter saith to them: I go a fishing. They say to him: We also come with thee. And they went forth, and entered into the ship: and that night they caught nothing.

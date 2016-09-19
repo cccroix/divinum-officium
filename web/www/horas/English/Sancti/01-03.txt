@@ -14,7 +14,7 @@ Comkey=70
 9 lectiones
 
 [Capitulum Vespera] (rubrica Divino aut rubrica Tridentina aut rubrica Monastica)
-!Sir 15:1-2
+!Eccl 15:1-2
 v. He that feareth God, will do good: and he that possesseth justice, shall lay~
 hold on her,And she will meet him as an honourable mother
 $Deo gratias
@@ -110,7 +110,7 @@ or our speech commendeth them.
 
 [Lectio7]
 From the Holy Gospel according to John
-!John 21:20-24
+!Joann 21:20-24
 In that time Jesus said to Peter: Follow me. Peter turning about, saw that~
 disciple whom Jesus loved following. And so on.
 _

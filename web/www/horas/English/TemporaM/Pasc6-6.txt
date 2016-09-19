@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 Continuation of the Holy Gospel according to John
-!John 14:15-21
+!Joann 14:15-21
 At that time Jesus said unto His disciples If ye love Me, keep My~
 commandments. And I will pray the Father, and He shall give you another~
 Comforter. And so on.
@@ -66,7 +66,7 @@ will not leave you orphans."
 
 [LectioE]
 Continuation of the Holy Gospel according to John
-!John 14:15-21
+!Joann 14:15-21
 14:15 If you love me, keep my commandments.
 14:16 And I will ask the Father, and he shall give you another Paraclete, that he may abide with you for ever.
 14:17 The spirit of truth, whom the world cannot receive, because it seeth him not, nor knoweth him: but you shall know him; because he shall abide with you, and shall be in you.

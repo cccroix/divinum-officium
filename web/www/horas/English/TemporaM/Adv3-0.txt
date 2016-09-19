@@ -35,7 +35,7 @@ $Qui vivis
 
 [Lectio1]
 From the Prophet Isaias
-!Isa 26:1-6
+!Isai 26:1-6
 1 In that day shall this canticle be sung the land of Juda. Sion the city of our~
 strength a saviour, a wall and a bulwark shall be set therein.
 2 Open ye the gates, and let the just nation, that keepeth the truth, enter in.
@@ -57,7 +57,7 @@ R. And ten thousand of His saints with Him; and He shall have on His vesture,~
 and on His thigh a name written King of kings, and Lord of lords.
 
 [Lectio2]
-!Isa 26:7-10
+!Isai 26:7-10
 7 The way of the just is right, the path of the just is right to walk in.
 8 And in the way of thy judgments, O Lord, we have patiently waited for thee:~
 thy name, and thy remembrance are the desire of the soul.
@@ -78,7 +78,7 @@ sea.
 R. And this Man shall be the peace in our land, when He shall come.
 
 [Lectio3]
-!Isa 26:11-14
+!Isai 26:11-14
 11 Lord, let thy hand be exalted, and let them not see: let the envious people~
 see, and be confounded: and let fire devour thy enemies.
 12 Lord, thou wilt give us peace: for thou hast wrought all our works for us.
@@ -153,7 +153,7 @@ R. In His days shall righteousness flourish, and abundance of peace.
 
 [Lectio7]
 From the holy Gospel according to John.
-!John 1:19-28
+!Joann 1:19-28
 In that time sent from Jerusalem priests and Levites to John, to ask him: Who~
 art thou? And so on.
 _
@@ -270,7 +270,7 @@ performance of those things which were told thee from the Lord. Alleluia.
 
 [LectioE]
 v. Continuation of the Holy Gospel according to John
-!John 1:19-28
+!Joann 1:19-28
 1:19 And this is the testimony of John, when the Jews sent from Jerusalem priests and Levites to him, to ask him: Who art thou?
 1:20 And he confessed, and did not deny: and he confessed: I am not the Christ.
 1:21 And they asked him: What then? Art thou Elias? And he said: I am not. Art thou the prophet? And he answered: No.

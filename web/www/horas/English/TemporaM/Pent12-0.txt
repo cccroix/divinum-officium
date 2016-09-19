@@ -16,7 +16,7 @@ $Deo gratias
 
 [Lectio7]
 From the Holy Gospel according to Luke
-!Luke 10:23-37
+!Luc 10:23-37
 At that time Jesus said unto His disciples Blessed are the eyes which see~
 the things that ye see. For I tell you that many prophets and kings have desired~
 to see those things which ye see, and have not seen them. And so on.
@@ -79,7 +79,7 @@ R. As incense before thee.
 
 [LectioE]
 Continuation of the Holy Gospel according to Luke
-!Luke 10:23-37
+!Luc 10:23-37
 10:23 And turning to his disciples, he said: Blessed are the eyes that see the things which you see.
 10:24 For I say to you, that many prophets and kings have desired to see the things that you see, and have not seen them; and to hear the things that you hear, and have not heard them.
 10:25 And behold a certain lawyer stood up, tempting him, and saying, Master, what must I do to possess eternal life?

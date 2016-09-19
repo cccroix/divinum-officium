@@ -15,14 +15,14 @@ Antiphonas Horas
 Feria Te Deum
 
 [Capitulum Vespera]
-!Sir 15:1-2
+!Eccl 15:1-2
 v. He that feareth God, will do good: and he that possesseth justice, shall lay~
 hold on her,And she will meet him as an honourable mother
 $Deo gratias
 
 [Lectio1]
 Lesson from the book of Revelations
-!Rev 4:1-4
+!Apoc 4:1-4
 1 After these things I looked, and behold a door was opened in heaven, and the~
 first voice which I heard, as it were, of a trumpet speaking with me, said: Come~
 up hither, and I will shew thee the things which must be done hereafter.
@@ -35,7 +35,7 @@ four and twenty ancients sitting, clothed in white garments, and on their heads~
 were crowns of gold.
 
 [Lectio2]
-!Rev 4:5-8
+!Apoc 4:5-8
 5 And from the throne proceeded lightnings, and voices, and thunders; and there~
 were seven lamps burning before the throne, which are the seven spirits of God.
 6 And in the sight of the throne was, as it were, a sea of glass like to crystal;~
@@ -49,7 +49,7 @@ within they are full of eyes. And they rested not day and night, saying: Holy,~
 holy, holy, Lord God Almighty, who was, and who is, and who is to come.
 
 [Lectio3]
-!Rev 4:8-11
+!Apoc 4:8-11
 8 And the four living creatures had each of them six wings; and round about and~
 within they are full of eyes. And they rested not day and night, saying: Holy,~
 holy, holy, Lord God Almighty, who was, and who is, and who is to come.
@@ -101,7 +101,7 @@ or our speech commendeth them.
 
 [Lectio7]
 From the Holy Gospel according to John
-!John 21:20-24
+!Joann 21:20-24
 In that time Jesus said to Peter: Follow me. Peter turning about, saw that~
 disciple whom Jesus loved following. And so on.
 _

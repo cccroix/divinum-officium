@@ -138,7 +138,7 @@ ever.
 
 [Lectio7]
 From the Holy Gospel according to Luke
-!Luke 16:1-9
+!Luc 16:1-9
 At that time Jesus spake this parable unto His disciples There was a certain~
 rich man, which had a steward and the same was accused unto him that he had~
 wasted his goods. And so on.
@@ -201,7 +201,7 @@ R. As incense before thee.
 
 [LectioE]
 Continuation of the Holy Gospel according to Luke
-!Luke 16:1-9
+!Luc 16:1-9
 16:1 AND he said also to his disciples: There was a certain rich man who had a steward: and the same was accused unto him, that he had wasted his goods.
 16:2 And he called him, and said to him: How is it that I hear this of thee? give an account of thy stewardship: for now thou canst be steward no longer.
 16:3 And the steward said within himself: What shall I do, because my lord taketh away from me the stewardship? To dig I am not able; to beg I am ashamed.

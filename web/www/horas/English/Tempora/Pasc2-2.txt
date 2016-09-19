@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 Lesson from the Acts of the Apostles
-!Acts 17:22-27
+!Act 17:22-27
 22 But Paul standing in the midst of the Areopagus, said: Ye men of Athens, I perceive that in all things you are too superstitious.
 23 For passing by, and seeing your idols, I found an altar also, on which was written: To the unknown God. What therefore you worship, without knowing it, that I preach to you:
 24 God, who made the world, and all things therein; he, being Lord of heaven and earth, dwelleth not in temples made with hands;
@@ -20,7 +20,7 @@ Lesson from the Acts of the Apostles
 @Tempora/Pasc0-3:Responsory2
 
 [Lectio2]
-!Acts 17:28-33
+!Act 17:28-33
 28 For in him we live, and move, and are; as some also of your own poets said: For we are also his offspring.
 29 Being therefore the offspring of God, we must not suppose the divinity to be like unto gold, or silver, or stone, the graving of art, and device of man.
 30 And God indeed having winked at the times of this ignorance, now declareth unto men, that all should every where do penance.
@@ -32,7 +32,7 @@ Lesson from the Acts of the Apostles
 @Tempora/Pasc0-5:Responsory1
 
 [Lectio3]
-!Acts 17:34, 18:1-4
+!Act 17:34, 18:1-4
 34 But certain men adhering to him, did believe; among whom was also Dionysius, the Areopagite, and a woman named Damaris, and others with them.
 1 After these things, departing from Athens, he came to Corinth.
 2 And finding a certain Jew, named Aquila, born in Pontus, lately come from Italy, with Priscilla his wife, (because that Claudius had commanded all Jews to depart from Rome,) he came to them.

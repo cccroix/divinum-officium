@@ -5,7 +5,7 @@ Feria Quinta infra Hebdomadam Passionis;;Feria major;;2
 
 [Lectio1]
 From the holy Gospel according to John
-!Luke 7:36-50
+!Luc 7:36-50
 In that time one of the Pharisees desired him to eat with him. And he went into~
 the house of the Pharisee, And so on.
 _
@@ -67,7 +67,7 @@ $Per Dominum
 
 [LectioE]
 v. Continuation of the Holy Gospel according to Luke
-!Luke 7:36-50
+!Luc 7:36-50
 7:36 And one of the Pharisees desired him to eat with him. And he went into the house of the Pharisee, and sat down to meat.
 7:37 And behold a woman that was in the city, a sinner, when she knew that he sat at meat in the Pharisee's house, brought an alabaster box of ointment;
 7:38 And standing behind at his feet, she began to wash his feet, with tears, and wiped them with the hairs of her head, and kissed his feet, and anointed them with the ointment.

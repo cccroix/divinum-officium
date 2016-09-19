@@ -56,7 +56,7 @@ R. Honour and great majesty shalt Thou lay upon him.
 
 [Lectio1]
 Lesson from the book of Ecclesiasticus
-!Sir 51:1-7
+!Eccl 51:1-7
 1 I will give glory to thee, O Lord, O King, and I will praise thee, O God my Saviour.
 2 I will give glory to thy name: for thou hast been a helper and protector to me.
 3 And hast preserved my body from destruction, from the snare of an unjust tongue, and from the lips of them that forge lies, and in the sight of them that stood by, thou hast been my helper.
@@ -72,7 +72,7 @@ V. He hath dispersed, he hath given to the poor his righteousness endureth forev
 R. And dispersed among the needy the riches of the Church.
 
 [Lectio2]
-!Sir 51:8-13
+!Eccl 51:8-13
 8 My soul shall praise the Lord even to death.
 9 And my life was drawing near to hell beneath.
 10 They compassed me on every side, and there was no one that would help me. I looked for the succour of men, and there was none.
@@ -87,7 +87,7 @@ V. And I will deliver thee out of the hand of the wicked, and I will redeem thee
 R. When thou passest through the fire the flame shall not harm thee, neither shall the smell of fire pass upon thee.
 
 [Lectio3]
-!Sir 51:14-17
+!Eccl 51:14-17
 14 I called upon the Lord, the father of my Lord, that he would not leave me in the day of my trouble, and in the time of the proud without help.
 15 I will praise thy name continually, and will praise it with thanksgiving, and my prayer was heard.
 16 And thou hast saved me from destruction, and hast delivered me from the evil time.
@@ -134,7 +134,7 @@ R. And therefore I am not afraid of thy tortures.
 
 [Lectio7]
 From the Holy Gospel according to John
-!John 12:24-26
+!Joann 12:24-26
 At that time, Jesus said unto His disciples: Amen, Amen, I say unto you, except a corn of wheat fall into the ground and die, it abideth alone. And so on.
 _
 Homily by St Austin, Bishop (of Hippo.)

@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 From the Acts of Apostles.
-!Acts 15:5-12
+!Act 15:5-12
 5 But there arose some of the sect of the Pharisees that believed, saying: They~
 must be circumcised, and be commanded to observe the law of Moses.
 6 And the apostles and ancients assembled to consider of this matter.
@@ -29,7 +29,7 @@ telling what great signs and wonders God had wrought among the Gentiles by them
 @TemporaM/Pasc0-2:Responsory1
 
 [Lectio2]
-!Acts 15:13-21
+!Act 15:13-21
 13 And after they had held their peace, James answered, saying: Men, brethren,~
 hear me.
 14 Simon hath related how God first visited to take of the Gentiles a people to~
@@ -52,7 +52,7 @@ synagogues, where he is read every sabbath.
 @TemporaM/Pasc0-5:Responsory1
 
 [Lectio3]
-!Acts 15:22-29
+!Act 15:22-29
 22 Then it pleased the apostles and ancients, with the whole church, to choose~
 men of their own company, and to send to Antioch, with Paul and Barnabas, namely,~
 Judas, who was surnamed Barsabas, and Silas, chief men among the brethren.

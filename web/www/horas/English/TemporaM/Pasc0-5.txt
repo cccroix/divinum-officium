@@ -11,7 +11,7 @@ Psalmi Dominica;
 
 [Lectio1]
 From the Holy Gospel according to Matthew.
-!Matt 28:16-20.
+!Matth 28:16-20.
 At That time: And the eleven disciples went into Galilee, unto the mountain~
 where Jesus had appointed them. And follows.
 _
@@ -86,7 +86,7 @@ All power is given unto Me * in heaven and in earth. Alleluia.
 
 [LectioE]
 v. Continuation of the Holy Gospel according to Matthew
-!Matt 28:16-20.
+!Matth 28:16-20.
 28:16 And the eleven disciples went into Galilee, unto the mountain where Jesus had appointed them.
 28:17 And seeing them they adored: but some doubted.
 28:18 And Jesus coming, spoke to them, saying: All power is given to me in heaven and in earth.

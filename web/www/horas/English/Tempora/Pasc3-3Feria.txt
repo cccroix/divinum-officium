@@ -7,7 +7,7 @@ Feria Te Deum
 
 [Lectio1]
 Lesson from the book of Revelation
-!Rev 5:1-7
+!Apoc 5:1-7
 1 And I saw in the right hand of him that sat on the throne, a book written within and without, sealed with seven seals.
 2 And I saw a strong angel, proclaiming with a loud voice: Who is worthy to open the book, and to loose the seals thereof?
 3 And no man was able, neither in heaven, nor on earth, nor under the earth, to open the book, nor to look on it.
@@ -23,7 +23,7 @@ V. Thy light shall be exceeding glorious, and all the ends of the earth shall wo
 R. And all that pass through all thy streets shall say Alleluia, Alleluia.
 
 [Lectio2]
-!Rev 5:8-10
+!Apoc 5:8-10
 8 And when he had opened the book, the four living creatures, and the four and twenty ancients fell down before the Lamb, having every one of them harps, and golden vials full of odours, which are the prayers of saints:
 9 And they sung a new canticle, saying: Thou art worthy, O Lord, to take the book, and to open the seals thereof; because thou wast slain, and hast redeemed us to God, in thy blood, out of every tribe, and tongue, and people, and nation.
 10 And hast made us to our God a kingdom and priests, and we shall reign on the earth.
@@ -37,7 +37,7 @@ R. And David was with the singers, (and) played upon an harp in the house of the
 R. And David was with the singers, (and) played upon an harp in the house of the Lord, and sung praises unto God. Alleluia, Alleluia.
 
 [Lectio3]
-!Rev 5:11-14
+!Apoc 5:11-14
 11 And I beheld, and I heard the voice of many angels round about the throne, and the living creatures, and the ancients; and the number of them was thousands of thousands,
 12 Saying with a loud voice: The Lamb that was slain is worthy to receive power, and divinity, and wisdom, and strength, and honour, and glory, and benediction. 
 3 And every creature, which is in heaven, and on the earth, and under the earth, and such as are in the sea, and all that are in them: I heard all saying: To him that sitteth on the throne, and to the Lamb, benediction, and honour, and glory, and power, for ever and ever.

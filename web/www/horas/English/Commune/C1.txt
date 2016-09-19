@@ -13,7 +13,7 @@ Blessed are the peacemakers * the clean of heart, they shall see God.;;112
 In your patience * you shall possess your souls.;;116
 
 [Capitulum Vespera]
-!Eph 2:19-20
+!Ephes 2:19-20
 v. Brothers: Now therefore you are no more strangers and foreigners; but you are fellow citizens with the saints, and the domestics of God, built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone.
 $Deo gratias.
 
@@ -186,7 +186,7 @@ R. And now have they crowns on their heads, and palms in their hands.
 
 [Lectio7]
 From the Holy Gospel according to Matthew
-!Matt 19:27-29
+!Matth 19:27-29
 At that time, Peter said unto Jesus: Behold, we have forsaken all, and followed thee what shall we have therefore? And so on.
 _
 Homily by St. Jerome, Priest (at Bethlehem.)
@@ -222,7 +222,7 @@ Blessed are the peacemakers * the clean of heart, they shall see God.
 In your patience * you shall possess your souls.
 
 [Capitulum Laudes]
-!Eph. 2:19-20
+!Ephes 2:19-20
 v. Brothers: Now therefore you are no more strangers and foreigners; but you are fellow citizens with the saints, and the domestics of God, built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone.
 $Deo gratias.
 
@@ -241,11 +241,11 @@ Grant, we beseech thee, O Almighty God, that the worshipful Feast of thy blessed
 $Per Dominum
 
 [Lectio Prima]
-!Acts 5:41
+!Act 5:41
 V. And the Apostles indeed went from the presence of the council, rejoicing that they were accounted worthy to suffer reproach for the name of Jesus.
 
 [Capitulum Tertia]
-!Eph. 2:19-20
+!Ephes 2:19-20
 v. Brothers: Now therefore you are no more strangers and foreigners; but you are fellow citizens with the saints, and the domestics of God, built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone.
 $Deo gratias.
 
@@ -261,7 +261,7 @@ V. Thou shalt make them princes over all the earth.
 R. They shall remember thy name, O Lord.
 
 [Capitulum Sexta]
-!Acts 5:12
+!Act 5:12
 v. And by the hands of the apostles were many signs and wonders wrought among the people.
 $Deo gratias
 
@@ -277,7 +277,7 @@ V. O God, your friends are made exceedingly honourable.
 R. Their principality is exceedingly strengthened.
 
 [Capitulum Nona]
-!Acts 5:41
+!Act 5:41
 v. And they indeed went from the presence of the council, rejoicing that they were accounted worthy to suffer reproach for the name of Jesus.
 $Deo gratias
 

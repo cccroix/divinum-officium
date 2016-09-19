@@ -14,7 +14,7 @@ In Damascus the governor under Aretas the king was desirous to apprehend me; by 
 Thrice was I beaten with rods, * once was I stoned, thrice I suffered shipwreck, for Christ's name's sake.;;116
 
 [Capitulum Vespera]
-!Acts 9:1-2
+!Act 9:1-2
 v. And Saul, as yet breathing out threatenings and slaughter against the~
 disciples of the Lord, went to the high priest, and asked of him letters to~
 Damascus, to the synagogues: that if he found any men and women of this way, he~
@@ -34,7 +34,7 @@ For the conversion of the Teacher of the Gentiles, * let us praise our God.
 
 [Lectio1]
 From the Acts of Apostles.
-!Acts 9:1-5
+!Act 9:1-5
 1 And Saul, as yet breathing out threatenings and slaughter against the~
 disciples of the Lord, went to the high priest,
 2 And asked of him letters to Damascus, to the synagogues: that if he found any~
@@ -47,7 +47,7 @@ persecutest thou me?
 hard for thee to kick against the goad.
 
 [Lectio2]
-!Acts 9:6-9
+!Act 9:6-9
 6 And he trembling and astonished, said: Lord, what wilt thou have me to do?
 7 And the Lord said to him: Arise, and go into the city, and there it shall be~
 told thee what thou must do. Now the men who went in company with him, stood~
@@ -57,7 +57,7 @@ But they leading him by the hands, brought him to Damascus.
 9 And he was there three days, without sight, and he did neither eat nor drink.
 
 [Lectio4]
-!Acts 9:10-16
+!Act 9:10-16
 10 Now there was a certain disciple at Damascus, named Ananias. And the Lord~
 said to him in a vision: Ananias. And he said: Behold I am here, Lord.
 11 And the Lord said to him: Arise, and go into the street that is called Straight,~
@@ -82,7 +82,7 @@ In Damascus the governor under Aretas the king was desirous to apprehend me; by 
 Thrice was I beaten with rods, * once was I stoned, thrice I suffered shipwreck, for Christ's name's sake.
 
 [Capitulum Laudes]
-!Acts 9:1-2
+!Act 9:1-2
 v. And Saul, as yet breathing out threatenings and slaughter against the~
 disciples of the Lord, went to the high priest, and asked of him letters to~
 Damascus, to the synagogues: that if he found any men and women of this way, he~
@@ -100,7 +100,7 @@ _
 @Sancti/01-25:Commemoratio4
 
 [Capitulum Tertia]
-!Acts 9:1-2
+!Act 9:1-2
 v. And Saul, as yet breathing out threatenings and slaughter against the~
 disciples of the Lord, went to the high priest, and asked of him letters to~
 Damascus, to the synagogues: that if he found any men and women of this way, he~
@@ -108,14 +108,14 @@ might bring them bound to Jerusalem.
 $Deo gratias
 
 [Capitulum Sexta]
-!Acts 9:8-9
+!Act 9:8-9
 v. And Saul arose from the ground; and when his eyes were opened, he saw~
 nothing. But they leading him by the hands, brought him to Damascus. And he was~
 there three days, without sight, and he did neither eat nor drink.
 $Deo gratias
 
 [Capitulum Nona]
-!Acts 9:22
+!Act 9:22
 v. But Saul increased much more in strength, and confounded the Jews who dwelt~
 at Damascus, affirming that this is the Christ.
 $Deo gratias

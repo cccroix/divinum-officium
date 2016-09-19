@@ -13,7 +13,7 @@ Doxology=Pasc
 
 [Lectio1]
 From the First Epistle of the Blessed Apostle Peter
-!1 Pet 4:1-7
+!1 Petri 4:1-7
 1 Christ therefore having suffered in the flesh, be you also armed with the same~
 thought: for he that hath suffered in the flesh, hath ceased from sins:
 2 That now he may live the rest of his time in the flesh, not after the desires~
@@ -37,7 +37,7 @@ V. Sing forth the honour of His Name, make His praise glorious.
 R. Even the Lord, ye that are of the fountains of Israel Alleluia, Alleluia.
 
 [Lectio2]
-!1 Pet 4:7-11
+!1 Petri 4:7-11
 Be prudent therefore, and watch in prayers. But before all things have a~
 constant mutual charity among yourselves: for charity covereth a multitude of~
 sins.
@@ -58,7 +58,7 @@ R. O let me not wander from thy commandments Alleluia, Alleluia.
 R. O let me not wander from thy commandments Alleluia, Alleluia.
 
 [Lectio3]
-!1 Pet 4:12-17
+!1 Petri 4:12-17
 12 Dearly beloved, think not strange the burning heat which is to try you, as if~
 some new thing happened to you;
 13 But if you partake of the sufferings of Christ, rejoice that when his glory~

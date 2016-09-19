@@ -1,6 +1,6 @@
 [Lectio1]
 From the Book of Wisdom
-!Wis 9:13-19
+!Sap 9:13-19
 13 For who among men is he that can know the counsel of God? or who can think~
 what the will of God is?
 14 For the thoughts of mortal men are fearful, and our counsels uncertain.
@@ -20,7 +20,7 @@ beginning.
 @TemporaM/081-0:Responsory1
 
 [Lectio2]
-!Wis 10:1-5
+!Sap 10:1-5
 1 She preserved him, that was first formed by God the father of the world, when~
 he was created alone,
 2 And she brought him out of his sin, and gave him power to govern all things.
@@ -36,7 +36,7 @@ against the compassion for his son.
 @TemporaM/081-0:Responsory2
 
 [Lectio3]
-!Wis 10:6-9
+!Sap 10:6-9
 6 She delivered the just man who fled from the wicked that were perishing, when~
 the fire came down upon Pentapolis:
 7 Whose land for a testimony of their wickedness is desolate, and smoketh to~

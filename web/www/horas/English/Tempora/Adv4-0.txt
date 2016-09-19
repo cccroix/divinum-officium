@@ -26,7 +26,7 @@ $Qui vivis
 
 [Lectio1]
 Lesson from the book of Isaias
-!Isa 35:1-7
+!Isai 35:1-7
 1 The land that was desolate and impassable shall be glad, and the wilderness shall rejoice, and shall flourish like the lily.
 2 It shall bud forth and blossom, and shall rejoice with joy and praise: the glory of Libanus is given to it: the beauty of Carmel, and Saron, they shall see the glory of the Lord, and the beauty of our God.
 3 Strengthen ye the feeble hands, and confirm the weak knees.
@@ -43,7 +43,7 @@ V. Tell it out and make it to be heard; speak aloud and cry.
 R. Behold, God our Saviour cometh.
 
 [Lectio2]
-!Isa 35:7-10
+!Isai 35:7-10
 7 In the dens where dragons dwell before, shall rise up the verdure of the reed and the bulrush.
 8 And a path and a way shall be there, and it shall be called the holy way: the unclean shall not pass over it, and this shall be unto you a straight way, so that fools shall not err therein.
 9 No lion shall be there, nor shall any mischievous beast go up by it, nor be found there: but they shall walk there that shall be delivered.
@@ -56,7 +56,7 @@ V. His eyes shall be bright with wine, and his teeth white with milk.
 R. And unto him shall the desire of the Gentiles be.
 
 [Lectio3]
-!Isa 41:1-4
+!Isai 41:1-4
 1 Let the islands keep silence before me, and the nations take new strength: let them come near, and then speak, let us come near to judgment together.
 2 Who hath raised up the just one from the east, hath called him to follow him? he shall give the nations in his sight, and he shall rule over kings: he shall give them as the dust to his sword, as stubble driven by the wind, to his bow.
 3 He shall pursue them, he shall pass in peace, no path shall appear after his feet.
@@ -103,7 +103,7 @@ R. Men shall walk in paths of salvation.
 
 [Lectio7]
 From the Holy Gospel according to Luke
-!Luke 3:1-6
+!Luc 3:1-6
 In the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judea. And so on.
 _
 Homily by Pope St. Gregory (the Great)

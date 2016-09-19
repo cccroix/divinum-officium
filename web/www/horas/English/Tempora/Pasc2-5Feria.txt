@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 Lesson from the Acts of the Apostles
-!Acts 25:1-5
+!Act 25:1-5
 1 Now when Festus was come into the province, after three days, he went up to Jerusalem from Caesarea.
 2 And the chief priests, and principal men of the Jews, went unto him against Paul: and they besought him,
 3 Requesting favour against him, that he would command him to be brought to Jerusalem, laying wait to kill him in the way.
@@ -19,7 +19,7 @@ Lesson from the Acts of the Apostles
 @Tempora/Pasc0-3:Responsory2
 
 [Lectio2]
-!Acts 25:6-8
+!Act 25:6-8
 6 And having tarried among them no more than eight or ten days, he went down to Caesarea, and the next day he sat in the judgment seat; and commanded Paul to be brought.
 7 Who being brought, the Jews stood about him, who were come down from Jerusalem, objecting many and grievous causes, which they could not prove;
 8 Paul making answer for himself: Neither against the law of the Jews, nor against the temple, nor against Caesar, have I offended in any thing.
@@ -28,7 +28,7 @@ Lesson from the Acts of the Apostles
 @Tempora/Pasc0-5:Responsory1
 
 [Lectio3]
-!Acts 25:9-12
+!Act 25:9-12
 9 But Festus, willing to show the Jews a pleasure, answering Paul, said: Wilt thou go up to Jerusalem, and there be judged of these things before me?
 10 Then Paul said: I stand at Caesar's judgment seat, where I ought to be judged. To the Jews I have done no injury, as thou very well knowest.
 11 For if I have injured them, or have committed any thing worthy of death, I refuse not to die. But if there be none of these things whereof they accuse me, no man may deliver me to them: I appeal to Caesar.

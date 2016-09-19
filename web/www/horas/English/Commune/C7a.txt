@@ -13,7 +13,7 @@ Come, O My chosen one, * and I will establish My throne in thee, alleluia.;;126
 She is beautiful * among the daughters of Jerusalem.;;147
 
 [Capitulum Vespera]
-!Prov. 31:10-11
+!Prov 31:10-11
 v. Who shall find a valiant woman? far and from the uttermost coasts is the price of her. The heart of her husband trusteth in her, and he shall have no need of spoils.
 $Deo gratias.
 
@@ -135,7 +135,7 @@ R. A woman that feareth God she shall be praised.
 
 [Lectio7]
 From the Holy Gospel according to Matthew
-!Matt 13:44
+!Matth 13:44
 At that time, Jesus spake unto His disciples this parable: The kingdom of heaven is like unto treasure hid in a field. And so on.
 _
 Homily by Pope St Gregory the Great.
@@ -171,7 +171,7 @@ Come, O My chosen one, * and I will establish My throne in thee, alleluia.
 She is beautiful * among the daughters of Jerusalem.
 
 [Capitulum Laudes]
-!Prov. 31:10-11
+!Prov 31:10-11
 v. Who shall find a valiant woman? Far and from the uttermost coasts is the price of her. The heart of her husband trusteth in her, and he shall have no need of spoils.
 $Deo gratias.
 
@@ -202,7 +202,7 @@ $Per Dominum
 v. Against him that is niggardly of his bread, the city will murmur, and the testimony of his niggardliness is true. Challenge not them that love wine: for wine hath destroyed very many.
 
 [Capitulum Tertia]
-!Prov. 31:10-11
+!Prov 31:10-11
 v. Who can find a virtuous woman?  For her price is far above rubies.  The heart of her husband doth safely trust in her, so that he shall have no need of spoil.
 $Deo gratias.
 

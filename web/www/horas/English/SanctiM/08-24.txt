@@ -39,7 +39,7 @@ following.
 
 [Lectio7]
 From the Holy Gospel according to Luke
-!Luke 6:12-19
+!Luc 6:12-19
 At that time Jesus went out into a mountain to pray, and continued all night~
 in prayer to God. And when it was day, He called unto Him His disciples. And so~
 on.
@@ -85,7 +85,7 @@ charms of argument, might have the victory.
 
 [LectioE]
 Continuation of the Holy Gospel according to Luke
-!Luke 6:12-19
+!Luc 6:12-19
 6:12 And it came to pass in those days, that he went out into a mountain to pray, and he passed the whole night in the prayer of God.
 6:13 And when day was come, he called unto him his disciples; and he chose twelve of them (whom also he named apostles):
 6:14 Simon, whom he surnamed Peter, and Andrew his brother, James and John, Philip and Bartholomew,

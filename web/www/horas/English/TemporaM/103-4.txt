@@ -1,6 +1,6 @@
 [Lectio1]
 From the first book of the Macchabees
-!1 Mac  13:1-6
+!1 Mach 13:1-6
 1  Now Simon heard that Tryphon was gathering together a very great army, to invade the land of Juda, and to destroy it.
 2  And seeing that the people was in dread, and in fear, he went up to Jerusalem, and assembled the people:
 3  And exhorted them, saying: You know what great battles I and my brethren, and the house of my father, have fought for the laws, and the sanctuary, and the distresses that we have seen:
@@ -12,7 +12,7 @@ From the first book of the Macchabees
 @TemporaM/101-0:Responsory1
 
 [Lectio2]
-!1 Mac 13:7-13
+!1 Mach 13:7-13
 7  And the spirit of the people was enkindled as soon as they heard these words.
 8  And they answered with a loud voice, saying: Thou art our leader in the place of Judas, and Jonathan thy brother.
 9  Fight thou our battles, and we will do whatsoever thou shalt say to us.
@@ -25,7 +25,7 @@ From the first book of the Macchabees
 @TemporaM/101-0:Responsory2
 
 [Lectio3]
-!1 Mac 13:14-19
+!1 Mach 13:14-19
 14  And when Tryphon understood that Simon was risen up in the place of his brother Jonathan, and that he meant to join battle with him, he sent messengers to him,
 15  Saying: We have detained thy brother Jonathan for the money that he owed in the king's account, by reason of the affairs which he had the management of.
 16  But now send a hundred talents of silver, and his two sons for hostages, that when he is set at liberty he may not revolt from us, and we will release him.

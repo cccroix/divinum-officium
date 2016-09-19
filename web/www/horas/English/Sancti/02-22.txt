@@ -79,7 +79,7 @@ Thou art the Shepherd of the sheep, and the Prince of the Apostles * and unto th
 
 [Lectio1]
 Lesson from the first letter of St Peter the Apostle
-!1 Pet 1:1-5
+!1 Petri 1:1-5
 1 Peter, an apostle of Jesus Christ, to the strangers dispersed through Pontus,~
 Galatia, Cappadocia, Asia, and Bithynia, elect,
 2 According to the foreknowledge of God the Father, unto the sanctification of~
@@ -102,7 +102,7 @@ whatsoever thou shalt loose on earth, shall be loosed in heaven.
 R. And I have given unto thee the keys of the kingdom of heaven.
 
 [Lectio2]
-!1 Pet 1:6-9
+!1 Petri 1:6-9
 6 Wherein you shall greatly rejoice, if now you must be for a little time made~
 sorrowful in divers temptations:
 7 That the trial of your faith much more precious than gold which is tried by~
@@ -120,7 +120,7 @@ V. If I should die with thee, I will not deny thee.
 R. I will lay down my life for thy sake.
 
 [Lectio3]
-!1 Pet 1:10-12
+!1 Petri 1:10-12
 10 Of which salvation the prophets have inquired and diligently searched, who~
 prophesied of the grace to come in you.
 11 Searching what or what manner of time the Spirit of Christ in them did~
@@ -198,7 +198,7 @@ R. Feed My sheep.
 
 [Lectio7]
 From the Holy Gospel according to Matthew
-!Matt 16:13-19
+!Matth 16:13-19
 At that time, Jesus came into the coasts of Caesarea Philippi, and He asked His~
 disciples, saying: Who do men say that I, the Son of Man, am? And so on.
 _

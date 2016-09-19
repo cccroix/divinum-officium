@@ -13,7 +13,7 @@ Blessed is that servant * whom his Lord, when He cometh and knocketh at the door
 Thou good and faithful servant, * enter thou into the joy of thy Lord;;116
 
 [Capitulum Vespera]
-!Sir 31:8-9
+!Eccl 31:8-9
 v. Blessed is the rich man that is found without blemish: and that hath not gone~
 after gold, nor put his trust in money nor in treasures. Who is he, and we will~
 praise him? for he hath done wonderful things in his life.
@@ -61,7 +61,7 @@ R. None of his steps shall slide.
 
 [Lectio1]
 Lesson from the book of Ecclesiasticus
-!Sir 39:1-5
+!Eccl 39:1-5
 1 The wise men will seek out the wisdom of all the ancients, and will be~
 occupied in the prophets.
 2 He will keep the sayings of renowned men, and will enter withal into the~
@@ -81,7 +81,7 @@ them five talents more.
 R. Enter thou into the joy of thy Lord.
 
 [Lectio2]
-!Sir 39:6-10
+!Eccl 39:6-10
 6 He will give his heart to resort early to the Lord that made him, and he will~
 pray in the sight of the most High.
 7 He will open his mouth in prayer, and will make supplication for his sins.
@@ -102,7 +102,7 @@ R. Therefore the Lord assured him by an oath that He would multiply his seed~
 among His
 
 [Lectio3]
-!Sir 39:11-14
+!Eccl 39:11-14
 11 He shall show forth the discipline he hath learned, and shall glory in the~
 law of the covenant of the Lord.
 12 Many shall praise his wisdom, and it shall never be forgotten.
@@ -178,7 +178,7 @@ R. For thee have I seen righteous before Me among all people.
 
 [Lectio7]
 From the Holy Gospel according to Luke
-!Luke 12:35-40
+!Luc 12:35-40
 At that time Jesus said unto His disciples Let your loins be girded about, and your lights burning And so on.
 _
 Homily by Pope St. Gregory (the Great.)
@@ -217,7 +217,7 @@ Blessed is that servant * whom his Lord, when He cometh and knocketh at the door
 Thou good and faithful servant, * enter thou into the joy of thy Lord.
 
 [Capitulum Laudes]
-!Sir 31:8-9
+!Eccl 31:8-9
 v. Blessed is the rich man that is found without blemish: and that hath not gone after gold, nor put his trust in money nor in treasures. Who is he, and we will praise him? for he hath done wonderful things in his life.
 $Deo gratias
 
@@ -279,13 +279,13 @@ after the pattern of his godly conversation.
 $Per Dominum.
 
 [Lectio Prima]
-!Wis 10:10
+!Sap 10:10
 She conducted the just, when he fled from his brother's wrath, through the right~
 ways, and showed him the kingdom of God, and gave him the knowledge of the holy~
 things, made him honourable in his labours, and accomplished his labours.
 
 [Capitulum Tertia]
-!Sir 31:8-9
+!Eccl 31:8-9
 v. Blessed is the rich man that is found without blemish: and that hath not gone~
 after gold, nor put his trust in money nor in treasures. Who is he, and we will~
 praise him? for he hath done wonderful things in his life.
@@ -303,7 +303,7 @@ V. The mouth of the righteous speaketh wisdom.
 R. And his tongue talketh judgment.
 
 [Capitulum Sexta]
-!Sir 39:6
+!Eccl 39:6
 v. The righteous will give his heart to resort early to the Lord that made him,~
 and he will pray in the sight of the most High.
 $Deo gratias
@@ -320,7 +320,7 @@ V. The law of his God is in his heart.
 R. None of his steps shall slide.
 
 [Capitulum Nona]
-!Wis 10:10
+!Sap 10:10
 v. She conducted the just, when he fled from his brother's wrath, through the~
 right ways, and showed him the kingdom of God, and gave him the knowledge of the~
 holy things, made him honourable in his labours, and accomplished his labours.
@@ -346,7 +346,7 @@ O right excellent Teacher * Light of the Holy Church, N. blessed lover of the Di
 
 [Lectio11]
 Lesson from the book of Wisdom
-!Wis 4:7-14
+!Sap 4:7-14
 7 But the just man, if he be prevented with death, shall be in rest. 
 8 For venerable old age is not that of long time, nor counted by the number of years: but the understanding of a man is grey hairs. 
 9 And a spotless life is old age. 
@@ -357,7 +357,7 @@ Lesson from the book of Wisdom
 14 For his soul pleased God: therefore he hastened to bring him out of the midst of iniquities: 
 
 [Lectio21]
-!Wis 4:14-19
+!Sap 4:14-19
 14 but the people see this, and understand not, nor lay up such things in their hearts:
 15 That the grace of God, and his mercy is with his saints, and that he hath respect to his chosen.
 16 But the just that is dead, condemneth the wicked that are living, and youth soon ended, the long life of the unjust. 
@@ -366,7 +366,7 @@ Lesson from the book of Wisdom
 19 And they shall fall after this without honour, and be a reproach among the dead for ever: for he shall burst them puffed up and speechless, and shall shake them from the foundations, and they shall be utterly laid waste: 
 
 [Lectio31]
-!Wis 4:19-20; 5:1-5
+!Sap 4:19-20; 5:1-5
 19 they shall be in sorrow, and their memory shall perish. 
 20 They shall come with fear at the thought of their sins, and their iniquities shall stand against them to convict them. 
 1 Then shall the just stand with great constancy against those that have afflicted them, and taken away their labours. 
@@ -377,7 +377,7 @@ Lesson from the book of Wisdom
 
 [Lectio71]
 From the Holy Gospel according to Luke
-!Luke 12:32-35
+!Luc 12:32-35
 At that time, Jesus said unto His disciples: Fear not, little flock, for it is~
 your Father's good pleasure to give you the kingdom. And so on.
 _
@@ -416,7 +416,7 @@ poverty.
 
 [Lectio72]
 From the Holy Gospel according to Luke
-!Luke 19:12-25
+!Luc 19:12-25
 At that time Jesus spake this parable unto His disciples A certain nobleman~
 went into a far country to receive for himself a kingdom and to return. And so~
 on.
@@ -454,7 +454,7 @@ means.
 
 [Lectio73]
 From the Holy Gospel according to Matthew
-!Matt 16:24-27
+!Matth 16:24-27
 At that time, Jesus said unto His disciples: If any man will come after Me, let him deny himself, and take up his cross, and follow Me. And so on.
 _
 Homily by Pope St. Gregory (the Great.)

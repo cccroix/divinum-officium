@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the first book of Samuel
-!1 Sam 17:25-26
+!1 Reg 17:25-26
 25 And some one of Israel said: Have you seen this man that is come up, for he~
 is come up to defy Israel. And the man that shall slay him, the king will enrich~
 with great riches, and will give him his daughter, and will make his father's~
@@ -20,7 +20,7 @@ of the living God?
 @TemporaM/Pent03-1:Responsory1
 
 [Lectio2]
-!1 Sam 17:31-33
+!1 Reg 17:31-33
 31 And the words which David spoke were heard, and were rehearsed before Saul.
 32 And when he was brought to him, he said to him: Let not any man's heart be~
 dismayed in him: I thy servant will go, and will fight against the Philistine.
@@ -32,7 +32,7 @@ youth.
 @TemporaM/Pent03-1:Responsory2
 
 [Lectio3]
-!1 Sam 17:34-36
+!1 Reg 17:34-36
 34 And David said to Saul: thy servant kept his father's sheep, and there came a~
 lion, or a bear, and took a ram out of the midst of the flock:
 35 And I pursued after them, and struck them, and delivered it out of their~

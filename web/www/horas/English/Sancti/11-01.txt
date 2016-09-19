@@ -17,7 +17,7 @@ Bless the Lord, all ye His chosen, * keep holiday, and extol Him.
 The praise of all His Saints, * even of the children of Israel, a people near unto Him; this honour have all His Saints.
 
 [Capitulum Vespera]
-!Rev 7:2-3
+!Apoc 7:2-3
 v. And I, John, saw another angel ascending from the rising of the sun, having the sign~
 of the living God; and he cried with a loud voice to the four angels, to whom it~
 was given to hurt the earth and the sea, saying: Hurt not the earth, nor the sea,~
@@ -107,7 +107,7 @@ R. Their reward also is with the Lord.
 
 [Lectio1]
 Lesson from the Apocalypse of St. John
-!Rev 4:2-8
+!Apoc 4:2-8
 2 And immediately I was in the spirit: and behold there was a throne set in~
 heaven, and upon the throne one sitting.
 3 And he that sat, was to the sight like the jasper and the sardine stone; and~
@@ -135,7 +135,7 @@ V. Above it stood the Seraphim each one had six wings.
 R. And His train filled the temple.
 
 [Lectio2]
-!Rev 5:1-8
+!Apoc 5:1-8
 1 And I saw in the right hand of him that sat on the throne, a book written~
 within and without, sealed with seven seals.
 2 And I saw a strong angel, proclaiming with a loud voice: Who is worthy to open~
@@ -166,7 +166,7 @@ V. Hail, Mary, full of grace, the Lord is with thee.
 R. Pray for us unto the Lord our God.
 
 [Lectio3]
-!Rev 5:9-14
+!Apoc 5:9-14
 9 And they sung a new canticle, saying: Thou art worthy, O Lord, to take the~
 book, and to open the seals thereof; because thou wast slain, and hast redeemed~
 us to God, in thy blood, out of every tribe, and tongue, and people, and nation.
@@ -261,7 +261,7 @@ R. I will render unto you a reward of your labours.
 
 [Lectio7]
 From the Holy Gospel according to Matthew
-!Matt 5:1-12
+!Matth 5:1-12
 At that time: Jesus, seeing the multitudes, he went up into a mountain, and when~
 he was set down, his disciples came unto him. And so on.
 _
@@ -334,7 +334,7 @@ Bless the Lord, all ye His chosen, * keep holiday, and extol Him.
 The praise of all His Saints, * even of the children of Israel, a people near unto Him; this honour have all His Saints.
 
 [Capitulum Laudes]
-!Rev 7:2-3
+!Apoc 7:2-3
 v. And I, John, saw another angel ascending from the rising of the sun, having the sign~
 of the living God; and he cried with a loud voice to the four angels, to whom it~
 was given to hurt the earth and the sea, Saying: Hurt not the earth, nor the sea,~
@@ -383,12 +383,12 @@ Prophets praise thee. The white-robed army of Martyrs praise thee. All thy~
 Saints and Elect with one voice do acknowledge thee, O Blessed Trinity, One God!
 
 [Lectio Prima]
-!Rev 7:12
+!Apoc 7:12
 v. Saying: Amen. Benediction, and glory, and wisdom, and thanksgiving, honour,~
 and power, and strength to our God for ever and ever. Amen.
 
 [Capitulum Tertia]
-!Rev 7:2-3
+!Apoc 7:2-3
 v. And I, John, saw another angel ascending from the rising of the sun, having the sign~
 of the living God; and he cried with a loud voice to the four angels, to whom it~
 was given to hurt the earth and the sea, Saying: Hurt not the earth, nor the sea,~
@@ -407,7 +407,7 @@ V. Let the righteous rejoice before God.
 R. Yea, let them exceedingly rejoice.
 
 [Capitulum Sexta]
-!Rev 7:9
+!Apoc 7:9
 v. After this I saw a great multitude, which no man could number, of all~
 nations, and tribes, and peoples, and tongues, standing before the throne, and~
 in sight of the Lamb, clothed with white robes, and palms in their hands.
@@ -425,7 +425,7 @@ V. The righteous live for evermore.
 R. Their reward also is with the Lord.
 
 [Capitulum Nona]
-!Rev 7:12
+!Apoc 7:12
 v. Saying: Amen. Benediction, and glory, and wisdom, and thanksgiving, honour,~
 and power, and strength to our God for ever and ever. Amen.
 $Deo gratias

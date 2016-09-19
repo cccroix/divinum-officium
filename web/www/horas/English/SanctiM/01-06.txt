@@ -15,7 +15,7 @@ When the wise men * had opened their treasures, they presented unto the Lord gol
 This star shineth * as a flame of fire, and pointeth out God, the King of kings: the Wise Men beheld it, and offered gifts unto the great King.
 
 [Capitulum Vespera]
-!Isa 60:1
+!Isai 60:1
 v. Arise, be enlightened, O Jerusalem: for thy light is come, and the glory of~
 the Lord is risen upon thee.
 $Deo gratias
@@ -101,7 +101,7 @@ R. In His holy temple Alleluia.
 
 [Lectio1]
 Lesson from the book of Isaias
-!Isa 55:1-4
+!Isai 55:1-4
 1 ALL you that thirst, come to the waters: and you that have no money make haste,~
 buy, and eat: come ye, buy wine and milk without money, and without any price.
 2 Why do you spend money for that which is not bread, and your labour for that~
@@ -132,7 +132,7 @@ R. Gold, to show His kingly power; frankincense, for our Great High Priest; and~
 myrrh, against the Lord's burying.
 
 [Lectio2]
-!Isa 60:1-6
+!Isai 60:1-6
 1 Arise, be enlightened, O Jerusalem: for thy light is come, and the glory of~
 the Lord is risen upon thee.
 2 For behold darkness shall cover the earth, and a mist the people: but the Lord~
@@ -158,7 +158,7 @@ like unto thunder, saying
 R. This is My beloved Son, in Whom I am well pleased.
 
 [Lectio3]
-!Isa 61:10-11; 62:1
+!Isai 61:10-11; 62:1
 10 I will greatly rejoice in the Lord, and my soul shall be joyful in my God:~
 for he hath clothed me with the garments of salvation: and with the robe of~
 justice he hath covered me, as a bridegroom decked with a crown, and as a bride~
@@ -252,7 +252,7 @@ O come, let us worship Him for He is the Lord our God.;;94
 
 [Lectio7]
 From the Holy Gospel according to Matthew
-!Matt 2:1-12
+!Matth 2:1-12
 When Jesus therefore was born in Bethlehem of Juda, in the days of king Herod,~
 behold, there came wise men from the east to Jerusalem. Saying, Where is he that~
 is born king of the Jews? And so on.
@@ -331,7 +331,7 @@ O ye seas and floods, * bless ye the Lord. O ye wells, bless ye the Lord. Allelu
 This star shineth * as a flame of fire, and pointeth out God, the King of kings: the Wise Men beheld it, and offered gifts unto the great King.
 
 [Capitulum Laudes]
-!Isa 60:1
+!Isai 60:1
 v. Arise, be enlightened, O Jerusalem: for thy light is come, and the glory of~
 the Lord is risen upon thee.
 $Deo gratias
@@ -384,12 +384,12 @@ supper of the King; and they that sit at meat together make merry with water~
 turned into wine. Alleluia.
 
 [Lectio Prima]
-!Isa 60:6
+!Isai 60:6
 v. All they from Saba shall come, bringing gold and frankincense: and shewing~
 forth praise to the Lord.
 
 [Capitulum Tertia]
-!Isa 60:1
+!Isai 60:1
 v. Arise, be enlightened, O Jerusalem: for thy light is come, and the glory of~
 the Lord is risen upon thee.
 $Deo gratias
@@ -400,7 +400,7 @@ Alleluia.
 R. The kings of Arabia and Saba shall offer gifts.
 
 [Capitulum Sexta]
-!Isa 60:4
+!Isai 60:4
 v. Lift up thy eyes round about, and see: all these are gathered together, they~
 are come to thee: thy sons shall come from afar
 $Deo gratias
@@ -410,7 +410,7 @@ V. All they from Saba shall come. Alleluia.
 R. They shall bring gold and incense. Alleluia.
 
 [Capitulum Nona]
-!Isa 60:6
+!Isai 60:6
 v. All they from Saba shall come, bringing gold and frankincense: and shewing~
 forth praise to the Lord.
 $Deo gratias
@@ -427,7 +427,7 @@ Alleluia.
 
 [LectioE]
 Continuation of the Holy Gospel according to Matthew
-!Matt 2:1-12
+!Matth 2:1-12
 2:1 WHEN Jesus therefore was born in Bethlehem of Juda, in the days of king Herod, behold, there came wise men from the east to Jerusalem.
 2:2 Saying, Where is he that is born king of the Jews? For we have seen his star in the east, and are come to adore him.
 2:3 And king Herod hearing this, was troubled, and all Jerusalem with him.

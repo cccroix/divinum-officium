@@ -22,7 +22,7 @@ $Per Dominum
 
 [Lectio1]
 Here begins the letter of St Paul to the Jews
-!Heb 1:1-4
+!Hebr 1:1-4
 1 God, who, at sundry times and in divers manners, spoke in times past to the~
 fathers by the prophets, last of all,
 2 In these days hath spoken to us by his Son, whom he hath appointed heir of all~
@@ -37,7 +37,7 @@ excellent name than they.
 @TemporaM/Epi2-0:Responsory1
 
 [Lectio2]
-!Heb 1:5-9
+!Hebr 1:5-9
 5 For to which of the angels hath he said at any time, Thou art my Son, to day~
 have I begotten thee? And again, I will be to him a Father, and he shall be to~
 me a Son?
@@ -54,7 +54,7 @@ anointed thee with the oil of gladness above thy fellows.
 @TemporaM/Epi2-0:Responsory2
 
 [Lectio3]
-!Heb 1:10-14
+!Hebr 1:10-14
 10 And: Thou in the beginning, O Lord, didst found the earth: and the works of~
 thy hands are the heavens.
 11 They shall perish, but thou shalt continue: and they shall all grow old as a~
@@ -119,7 +119,7 @@ from the nature of things created.
 
 [Lectio7]
 From the holy Gospel according to Matthew
-!Matt 13:31-32
+!Matth 13:31-32
 In that time Jesus said to to the people a parable: The kingdom of heaven is~
 like to a grain of mustard seed, which a man took and sowed in his field. And so~
 on.
@@ -182,7 +182,7 @@ measures of meal till the whole was leavened.
 
 [LectioE]
 v. Continuation of the Holy Gospel according to Matthew
-!Matt 13:31-32
+!Matth 13:31-32
 13:31 Another parable he proposed unto them, saying: The kingdom of heaven is like to a grain of mustard seed, which a man took and sowed in his field.
 13:32 Which is the least indeed of all seeds; but when it is grown up, it is greater than all herbs, and becometh a tree, so that the birds of the air come, and dwell in the branches thereof.
 $Te decet

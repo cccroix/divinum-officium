@@ -21,7 +21,7 @@ The Lord hath sent * His Angel, and hath delivered me out of the hand of Herod, 
 Thou art Peter * and upon this Rock I will build My Church.
 
 [Capitulum Vespera]
-!Acts 12:1-3
+!Act 12:1-3
 v. Herod the King stretched forth his hands, to vex certain of the Church. And he killed James, the brother of John, with the sword. And because he saw it pleased the Jews, he proceeded farther to take Peter also.
 $Deo gratias
 
@@ -56,7 +56,7 @@ $Per Dominum
 
 [Lectio1]
 Lesson from the Acts of the Apostles
-!Acts 3:1-5
+!Act 3:1-5
 1 Now Peter and John went up into the temple at the ninth hour of prayer.
 2 And a certain man who was lame from his mother's womb, was carried: whom they laid every day at the gate of the temple, which is called Beautiful, that he might ask alms of them that went into the temple.
 3 He, when he had seen Peter and John about to go into the temple, asked to receive an alms.
@@ -67,7 +67,7 @@ Lesson from the Acts of the Apostles
 @Sancti/02-22
 
 [Lectio2]
-!Acts 3:6-10
+!Act 3:6-10
 6 But Peter said: Silver and gold I have none; but what I have, I give thee: In the name of Jesus Christ of Nazareth, arise, and walk.
 7 And taking him by the right hand, he lifted him up, and forthwith his feet and soles received strength.
 8 And he leaping up, stood, and walked, and went in with them into the temple, walking, and leaping, and praising God.
@@ -78,7 +78,7 @@ Lesson from the Acts of the Apostles
 @Sancti/02-22
 
 [Lectio3]
-!Acts 3:11-16
+!Act 3:11-16
 11 And as he held Peter and John, all the people ran to them to the porch which is called Solomon's, greatly wondering.
 12 But Peter seeing, made answer to the people: Ye men of Israel, why wonder you at this? or why look you upon us, as if by our strength or power we had made this man to walk?
 13 The God of Abraham, and the God of Isaac, and the God of Jacob, the God of our fathers, hath glorified his Son Jesus, whom you indeed delivered up and denied before the face of Pilate, when he judged he should be released.
@@ -119,7 +119,7 @@ R. Therefore unto thee hath He given the keys of the kingdom of heaven.
 
 [Lectio7]
 From the Holy Gospel according to Matthew
-!Matt 16:13-19 
+!Matth 16:13-19 
 At that time, Jesus came into the coasts of Caesarea Philippi, and He asked His disciples, saying: Who do men say that I, the Son of man, am? And so on.
 _
 Homily by St. Jerome, Priest (at Bethlehem.)
@@ -171,7 +171,7 @@ Amen.
 @Sancti/02-22
 
 [Lectio Prima]
-!Acts 12:11
+!Act 12:11
 v. And when Peter was come to himself, he said Now I know of a surety that the Lord hath sent His Angel, and hath delivered me out of the hand of Herod, and from all the expectation of the people of the Jews.
 
 [Capitulum Tertia]
@@ -189,7 +189,7 @@ V. Thou shalt make them princes over all the earth.
 R. They shall remember thy name, O Lord.
 
 [Capitulum Sexta]
-!Acts 12:5
+!Act 12:5
 v. Peter therefore was kept in prison. But prayer was made without ceasing of the Church unto God for him.
 $Deo gratias
 

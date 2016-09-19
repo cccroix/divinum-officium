@@ -12,7 +12,7 @@ Feria Te Deum
 
 [Lectio1]
 Lesson from the second letter of St. Peter the Apostle
-!2 Pet 3:1-7
+!2 Petri 3:1-7
 1 Behold this second epistle I write to you, my dearly beloved, in which I stir up by way of admonition your sincere mind:
 2 That you may be mindful of those words which I told you before from the holy prophets, and of your apostles, of the precepts of the Lord and Saviour.
 3 Knowing this first, that in the last days there shall come deceitful scoffers, walking after their own lusts,
@@ -25,7 +25,7 @@ Lesson from the second letter of St. Peter the Apostle
 @Tempora/Pasc5-4:Responsory1
 
 [Lectio2]
-!2 Pet 3:8-13
+!2 Petri 3:8-13
 8 But of this one thing be not ignorant, my beloved, that one day with the Lord is as a thousand years, and a thousand years as one day.
 9 The Lord delayeth not his promise, as some imagine, but dealeth patiently for your sake, not willing that any should perish, but that all should return to penance.
 10 But the day of the Lord shall come as a thief, in which the heavens shall pass away with great violence, and the elements shall be melted with heat, and the earth and the works which are in it, shall be burnt up.
@@ -37,7 +37,7 @@ Lesson from the second letter of St. Peter the Apostle
 @Tempora/Pasc5-4:Responsory2
 
 [Lectio3]
-!2 Pet 3:14-18
+!2 Petri 3:14-18
 14 Wherefore, dearly beloved, waiting for these things, be diligent that you may be found before him unspotted and blameless in peace.
 15 And account the longsuffering of our Lord, salvation; as also our most dear brother Paul, according to the wisdom given him, hath written to you:
 16 As also in all his epistles, speaking in them of these things; in which are certain things hard to be understood, which the unlearned and unstable wrest, as they do also the other scriptures, to their own destruction.
@@ -61,7 +61,7 @@ Then it was that a better instructed faith began intellectually to approach the 
 
 [Lectio7]
 From the Holy Gospel according to Mark
-!Mark 16:14-20
+!Marc 16:14-20
 At that time Jesus appeared unto the eleven disciples as they sat at meat, and upbraided them with their unbelief and hardness of heart because they believed not them which had seen Him after He was risen. And so on.
 _
 Homily by Pope St Gregory the Great.

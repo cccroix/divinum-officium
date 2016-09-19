@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the second book of Samuel
-!2 Sam 15:13-15
+!2 Reg 15:13-15
 13 And there came a messenger to David, saying: All Israel with their whole~
 heart followeth Absalom.
 14 And David said to his servants, that were with him in Jerusalem: Arise and~
@@ -20,7 +20,7 @@ command, we thy servants will willingly execute.
 @TemporaM/Pent01-1:Responsory1
 
 [Lectio2]
-!2 Sam 15:16-18
+!2 Reg 15:16-18
 16 And the king went forth, and all his household on foot: and the king left ten~
 women his concubines to keep the house:
 17 And the king going forth and all Israel on foot, stood afar off from the~
@@ -33,7 +33,7 @@ followed him from Geth on foot, went before the king.
 @TemporaM/Pent01-1:Responsory2
 
 [Lectio3]
-!2 Sam 15:19-20
+!2 Reg 15:19-20
 19 And the king said to Ethai the Gethite: Why comest thou with us? return and~
 dwell with the king, for thou art a stranger, and art come out of thy own place.
 20 Yesterday thou camest, and today shalt thou be forced to go forth with us?~

@@ -146,7 +146,7 @@ R. Formam servi accipiens
 
 [Lectio7]
 From the holy Gospel according to Luke.
-!Luke 2:42-52
+!Luc 2:42-52
 And when Jesus was twelve years old, they going up into Jerusalem, according to~
 the custom of the feast, And having fulfilled the days, when they returned, the~
 child Jesus remained in Jerusalem. And so on.
@@ -285,7 +285,7 @@ my father's business?
 
 [LectioE]
 v. Continuation of the Holy Gospel according to Luke
-!Luke 2:42-52
+!Luc 2:42-52
 2:42 And when he was twelve years old, they going up into Jerusalem, according to the custom of the feast,
 2:43 And having fulfilled the days, when they returned, the child Jesus remained in Jerusalem; and his parents knew it not.
 2:44 And thinking that he was in the company, they came a day's journey, and sought him among their kinsfolks and acquaintance.

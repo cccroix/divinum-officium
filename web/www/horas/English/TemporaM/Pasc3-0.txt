@@ -7,7 +7,7 @@ Duplex
 Una Antiphona
 
 [Capitulum Vespera]
-!1 Pet 2:11
+!1 Petri 2:11
 v. Dearly beloved, I beseech you as strangers and pilgrims, to refrain~
 yourselves from carnal desires which war against the soul
 $Deo gratias
@@ -37,7 +37,7 @@ $Per Dominum
 
 [Lectio1]
 Here begins the book of Revelation to the blessed Apostle John.
-!Rev 1:1-6
+!Apoc 1:1-6
 1 The Revelation of Jesus Christ, which God gave unto him, to make known to his~
 servants the things which must shortly come to pass: and signified, sending by~
 his angel to his servant John, Who hath given testimony to the word of God,~
@@ -61,7 +61,7 @@ V. And hast made us to our God a kingdom and priests
 R. in thy blood, alleluia
 
 [Lectio2]
-!Rev 1:7-11
+!Apoc 1:7-11
 7 Behold, he cometh with the clouds, and every eye shall see him, and they also~
 that pierced him. And all the tribes of the earth shall bewail themselves~
 because of him. Even so. Amen.
@@ -85,7 +85,7 @@ R. Come over to me, all ye that desire me, and be filled with my fruits,~
 alleluia, alleluia.
 
 [Lectio3]
-!Rev 1:12-19
+!Apoc 1:12-19
 12 And I turned to see the voice that spoke with me. And being turned, I saw~
 seven golden candlesticks:
 13 And in the midst of the seven golden candlesticks, one like to the Son of man,~
@@ -163,7 +163,7 @@ alleluia.
 
 [Lectio7]
 From the holy Gospel according to John
-!John 16:16-22
+!Joann 16:16-22
 At that time Jesus said to his disciples:16 A little while, and now you shall~
 not see me; and again a little while, and you shall see me: because I go to the~
 Father. And so on.
@@ -239,7 +239,7 @@ R. Alleluia, Alleluia.
 R. Alleluia, Alleluia.
 
 [Capitulum Laudes]
-!1 Pet 2:11
+!1 Petri 2:11
 v. Dearly beloved, I beseech you as strangers and pilgrims, to refrain~
 yourselves from carnal desires which war against the soul
 $Deo gratias
@@ -260,13 +260,13 @@ A little while * and you shall not see me; and again a little while, and you~
 shall see me, and, because I go to the Father, alleluia, alleluia.
 
 [Capitulum Tertia]
-!1 Pet 2:11
+!1 Petri 2:11
 v. Dearly beloved, I beseech you as strangers and pilgrims, to refrain~
 yourselves from carnal desires which war against the soul,
 $Deo gratias
 
 [Capitulum Sexta]
-!1 Pet 2:13-14
+!1 Petri 2:13-14
 v. Be ye subject therefore to every human creature for God's sake: whether it be~
 to the king as excelling; 14 Or to governors as sent by him for the punishment~
 of evildoers, and for the praise of the good:
@@ -292,7 +292,7 @@ joy.
 
 [LectioE]
 v. Continuation of the Holy Gospel according to John
-!John 16:16-22
+!Joann 16:16-22
 16:16 A little while, and now you shall not see me; and again a little while, and you shall see me: because I go to the Father.
 16:17 Then some of the disciples said one to another: What is this that he saith to us: A little while, and you shall not see me; and again a little while, and you shall see me, and, because I go to the Father?
 16:18 They said therefore: What is this that he saith, A little while? we know not what he speaketh.

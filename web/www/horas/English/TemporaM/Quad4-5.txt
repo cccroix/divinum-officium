@@ -5,7 +5,7 @@ Feria Sexta infra Hebdomadam IV in Quadragesima;;Feria major;;2
 
 [Lectio1]
 From the holy Gospel according to John
-!John 11:1-45
+!Joann 11:1-45
 In that time there was a certain man sick, named Lazarus, of Bethania, of the~
 town of Mary and Martha her sister. And so on.
 _
@@ -81,7 +81,7 @@ $Per Dominum
 
 [LectioE]
 v. Continuation of the Holy Gospel according to John
-!John 11:1-45
+!Joann 11:1-45
 11:1 NOW there was a certain man sick, named Lazarus, of Bethania, of the town of Mary and Martha her sister.
 11:2 (And Mary was she that anointed the Lord with ointment, and wiped his feet with her hair: whose brother Lazarus was sick.)
 11:3 His sisters therefore sent to him, saying: Lord, behold, he whom thou lovest is sick.

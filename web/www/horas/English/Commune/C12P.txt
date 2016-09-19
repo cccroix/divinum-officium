@@ -68,7 +68,7 @@ And Holy Ghost eternally.
 Amen.
 _
 v. Chapter
-!Sir 24:24
+!Eccl 24:24
 v. I am mother of fair love, and fear, and knowledge, and holy hope.
 $Deo gratias
 _
@@ -108,7 +108,7 @@ V. God hath chosen her and fore-chosen her.
 R. He hath made her to dwell in His tabernacle.
 
 [Lectio1]
-!Sir 24:11-13
+!Eccl 24:11-13
 11 And by my power I have trodden under my feet the hearts of all the high and low: and in all these I sought rest, and I shall abide in the inheritance of the Lord.
 12 Then the creator of all things commanded, and said to me: and he that made me, rested in my tabernacle,
 13 And he said to me: Let thy dwelling be in Jacob, and thy inheritance in Israel, and take root in my elect.
@@ -120,7 +120,7 @@ V. Blessed art thou among women, and blessed is the fruit of thy womb.
 R. For thou hast borne in thy breast Him Whom the heavens cannot contain.
 
 [Lectio2]
-!Sir 24:15-16
+!Eccl 24:15-16
 15 And so was I established in Sion, and in the holy city likewise I rested, and my power was in Jerusalem.
 16 And I took root in an honourable people, and in the portion of my God his inheritance, and my abode is in the full assembly of saints.
 
@@ -131,7 +131,7 @@ V. Hail, Mary, full of grace, the Lord is with thee.
 R. Thou hast borne him who created thee, and thou abidest a virgin for ever.
 
 [Lectio3]
-!Sir 24:17-20
+!Eccl 24:17-20
 17 I was exalted like a cedar in Libanus, and as a cypress tree on mount Sion.
 18 I was exalted like a palm tree in Cades, and as a rose plant in Jericho:
 19 As a fair olive tree in the plains, and as a plane tree by the water in the streets, was I exalted.
@@ -154,7 +154,7 @@ Blessed of the Lord art thou, O daughter, * for by thee we have been given to ea
 Fair and comely art thou, O daughter of Jerusalem, * terrible as a fenced camp set in battle array.
 
 [Capitulum Laudes]
-!Cant. 6:8
+!Cant 6:8
 v. The daughters of Zion saw her, and called her blessed; the queens also, and they praised her.
 $Deo gratias.
 
@@ -243,7 +243,7 @@ _
 Ant. The Virgin Mary * hath been taken into the chamber on high, * where the King of kings sitteth on a throne amid the stars.
 _
 #Chapter
-!Sir 24:15
+!Eccl 24:15
 v. And so I was established in Zion, and likewise in the holy city was I given to rest, and in Jerusalem was my power.
 $Deo gratias
 _
@@ -288,7 +288,7 @@ _
 Ant. We run after thee, on the scent of thy perfumes * the virgins love thee heartily.
 _
 #Chapter
-!Sir 24:16
+!Eccl 24:16
 v. And I took root among the honourable people, even in the portion of my God, as His own inheritance, and mine abiding was in the full assembly of the Saints.
 $Deo gratias
 _
@@ -333,7 +333,7 @@ _
 Ant. Fair and comely art thou, * O daughter of Jerusalem, terrible as a fenced camp set in battle array.
 _
 #Chapter
-!Sir 24:19
+!Eccl 24:19
 v. In the broad ways I gave a sweet smell like cinnamon and aromatic balm; I yielded a pleasant odour like the best myrrh.
 $Deo gratias.
 _

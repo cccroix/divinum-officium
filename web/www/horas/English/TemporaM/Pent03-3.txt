@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the first book of Samuel
-!1 Sam 13:1-4
+!1 Reg 13:1-4
 1 Saul was a child of one year when he began to reign, and he reigned two years~
 over Israel.
 2 And Saul chose him three thousand men of Israel: and two thousand were with~
@@ -23,7 +23,7 @@ were called together after Saul to Galgal.
 @TemporaM/Pent01-3:Responsory1
 
 [Lectio2]
-!1 Sam 13:5-8
+!1 Reg 13:5-8
 5 The Philistines also were assembled to fight against Israel, thirty thousand~
 chariots, and six thousand horsemen, and a multitude of people besides, like the~
 sand on the sea shore for number. And going up they camped in Machmas at the~
@@ -41,7 +41,7 @@ came not to Galgal, and the people slipt away from him.
 @TemporaM/Pent01-3:Responsory2
 
 [Lectio3]
-!1 Sam 13:9-14
+!1 Reg 13:9-14
 9 Then Saul said: Bring me the holocaust, and the peace offerings. And he~
 offered the holocaust.
 10 And when he had made an end of offering the holocaust, behold Samuel came:~

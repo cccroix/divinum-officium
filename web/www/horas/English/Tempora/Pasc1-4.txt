@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 Lesson from the Acts of the Apostles
-!Acts 5:1-6
+!Act 5:1-6
 1 But a certain man named Ananias, with Saphira his wife, sold a piece of land,
 2 And by fraud kept back part of the price of the land, his wife being privy thereunto: and bringing a certain part of it, laid it at the feet of the apostles.
 3 But Peter said: Ananias, why hath Satan tempted thy heart, that thou shouldst lie to the Holy Ghost, and by fraud keep part of the price of the land?
@@ -20,7 +20,7 @@ Lesson from the Acts of the Apostles
 @Tempora/Pasc0-2:Responsory1
 
 [Lectio2]
-!Acts 5:7-11
+!Act 5:7-11
 7 And it was about the space of three hours after, when his wife, not knowing what had happened, came in.
 8 And Peter said to her: Tell me, woman, whether you sold the land for so much? And she said: Yea, for so much.
 9 And Peter said unto her: Why have you agreed together to tempt the Spirit of the Lord? Behold the feet of them who have buried thy husband are at the door, and they shall carry thee out.
@@ -31,7 +31,7 @@ Lesson from the Acts of the Apostles
 @Tempora/Pasc0-2:Responsory2
 
 [Lectio3]
-!Acts 5:12-16
+!Act 5:12-16
 12 And by the hands of the apostles were many signs and wonders wrought among the people. And they were all with one accord in Solomon's porch.
 13 But of the rest no man durst join himself unto them; but the people magnified them.
 14 And the multitude of men and women who believed in the Lord, was more increased:

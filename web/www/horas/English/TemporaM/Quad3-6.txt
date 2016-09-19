@@ -5,7 +5,7 @@ Sabbato infra Hebdomadam III in Quadragesima;;Feria major;;2
 
 [Lectio1]
 From the holy Gospel according to John
-!John 8:1-11
+!Joann 8:1-11
 In that time Jesus went unto mount Olivet. And early in the morning he~
 came again into the temple And so on.
 _
@@ -62,7 +62,7 @@ $Per Dominum
 
 [LectioE]
 v. Continuation of the Holy Gospel according to John
-!John 8:1-11
+!Joann 8:1-11
 8:1 AND Jesus went unto mount Olivet.
 8:2 And early in the morning he came again into the temple, and all the people came to him, and sitting down he taught them.
 8:3 And the scribes and the Pharisees bring unto him a woman taken in adultery: and they set her in the midst,

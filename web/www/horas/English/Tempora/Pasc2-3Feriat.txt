@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 Lesson from the Acts of Apostles
-!Acts 20:17-21
+!Act 20:17-21
 17 And sending from Miletus to Ephesus, he called the ancients of the church.
 18 And when they were come to him, and were together, he said to them: You know from the first day that I came into Asia, in what manner I have been with you, for all the time,
 19 Serving the Lord with all humility, and with tears, and temptations which befell me by the conspiracies of the Jews;
@@ -19,7 +19,7 @@ Lesson from the Acts of Apostles
 @Tempora/Pasc0-6:Responsory1
 
 [Lectio2]
-!Acts 20:22-27
+!Act 20:22-27
 22 And now, behold, being bound in the spirit, I go to Jerusalem: not knowing the things which shall befall me there:
 23 Save that the Holy Ghost in every city witnesseth to me, saying: That bands and afflictions wait for me at Jerusalem.
 24 But I fear none of these things, neither do I count my life more precious than myself, so that I may consummate my course and the ministry of the word which I received from the Lord Jesus, to testify the gospel of the grace of God.
@@ -31,7 +31,7 @@ Lesson from the Acts of Apostles
 @Tempora/Pasc0-1:Responsory2
 
 [Lectio3]
-!Acts 20:28-35
+!Act 20:28-35
 28 Take heed to yourselves, and to the whole flock, wherein the Holy Ghost hath placed you bishops, to rule the church of God, which he hath purchased with his own blood.
 29 I know that, after my departure, ravening wolves will enter in among you, not sparing the flock.
 30 And of your own selves shall arise men speaking perverse things, to draw away disciples after them.

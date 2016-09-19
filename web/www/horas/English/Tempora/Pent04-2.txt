@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the first book of Samuel
-!1 Sam 17:38-40
+!1 Reg 17:38-40
 38 And Saul clothed David with his garments, and put a helmet of brass upon his head, and armed him with a coat of mail.
 39 And David having girded his sword upon his armour, began to try if he could walk in armour: for he was not accustomed to it. And David said to Saul: I cannot go thus, for I am not used to it. And he laid them off,
 40 And he took his staff, which he had always in his hands: and chose him five smooth stones out of the brook, and put them into the shepherd's scrip, which he had with him, and he took a sling in his hand, and went forth against the Philistine.
@@ -15,7 +15,7 @@ Lesson from the first book of Samuel
 @Tempora/Pent03-2Feria:Responsory1
 
 [Lectio2]
-!1 Sam 17:41-46
+!1 Reg 17:41-46
 41 And the Philistine came on, and drew nigh against David, and his armourbearer before him.
 42 And when the Philistine looked, and beheld David, he despised him. For he was a young man, ruddy, and of a comely countenance.
 43 And the Philistine said to David: Am I a dog, that thou comest to me with a staff? And the Philistine cursed David by his gods.
@@ -27,7 +27,7 @@ Lesson from the first book of Samuel
 @Tempora/Pent03-2Feria:Responsory2
 
 [Lectio3]
-!1 Sam 17:48-51
+!1 Reg 17:48-51
 48 And when the Philistine arose and was coming, and drew nigh to meet David, David made haste, and ran to the fight to meet the Philistine.
 49 And he put his hand into his scrip, and took a stone, and cast it with the sling, and fetching it about struck the Philistine in the forehead: and the stone was fixed in his forehead, and he fell on his face upon the earth.
 50 And David prevailed over the Philistine, with a sling and a stone, and he struck, and slew the Philistine. And as David had no sword in his hand,

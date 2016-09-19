@@ -6,7 +6,7 @@ Preces Feriales
 
 [Lectio1]
 From the holy Gospel according to Matthew.
-!Matt 5:43-48; 6:1-4
+!Matth 5:43-48; 6:1-4
 In that time Jesus said to his disciples: You have heard that it hath been said,~
 Thou shalt love thy neighbour, and hate thy enemy. And so on.
 _
@@ -86,7 +86,7 @@ $Per Dominum
 
 [LectioE]
 v. Continuation of the Holy Gospel according to Matthew
-!Matt 5:43-48; 6:1-4
+!Matth 5:43-48; 6:1-4
 5:43 You have heard that it hath been said, Thou shalt love thy neighbor, and hate thy enemy.
 5:44 But I say to you, Love your enemies: do good to them that hate you: and pray for them that persecute and calumniate you:
 5:45 That you may be the children of your Father who is in heaven, who maketh his sun to rise upon the good, and bad, and raineth upon the just and the unjust.

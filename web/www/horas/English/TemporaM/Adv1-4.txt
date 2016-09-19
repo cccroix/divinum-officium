@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the book of Isaias
-!Isa 4:1-3
+!Isai 4:1-3
 1 And in that day seven women shall take hold of one man, saying: We will eat~
 our own bread, and wear our own apparel: only let us be called by thy name, take~
 away our reproach.
@@ -21,7 +21,7 @@ life in Jerusalem.
 @TemporaM/Adv1-1:Responsory1
 
 [Lectio2]
-!Isa 5:1-4
+!Isai 5:1-4
 1 I WILL sing to my beloved the canticle of my cousin concerning his vineyard.~
 My beloved had a vineyard on a hill in a fruitful place.
 2 And he fenced it in, and picked the stones out of it, and planted it with the~
@@ -38,7 +38,7 @@ forth wild grapes?
 @TemporaM/Adv1-0:Responsory2
 
 [Lectio3]
-!Isa 5:5-7
+!Isai 5:5-7
 5 And now I will shew you what I will do to my vineyard. I will take away the~
 hedge thereof, and it shall be wasted: I will break down the wall thereof, and~
 it shall be trodden down.

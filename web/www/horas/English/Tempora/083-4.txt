@@ -1,6 +1,6 @@
 [Lectio1]
 Lesson from the book of Wisdom
-!Wis 9:13-19
+!Sap 9:13-19
 13 For who among men is he that can know the counsel of God? or who can think what the will of God is?
 14 For the thoughts of mortal men are fearful, and our counsels uncertain.
 15 For the corruptible body is a load upon the soul, and the earthly habitation presseth down the mind that museth upon many things.
@@ -13,7 +13,7 @@ Lesson from the book of Wisdom
 @Tempora/081-0:Responsory1
 
 [Lectio2]
-!Wis 10:1-5
+!Sap 10:1-5
 1 She preserved him, that was first formed by God the father of the world, when he was created alone,
 2 And she brought him out of his sin, and gave him power to govern all things.
 3 But when the unjust went away from her in his anger, he perished by the fury wherewith he murdered his brother.
@@ -24,7 +24,7 @@ Lesson from the book of Wisdom
 @Tempora/081-0:Responsory2
 
 [Lectio3]
-!Wis 10:6-9
+!Sap 10:6-9
 6 She delivered the just man who fled from the wicked that were perishing, when the fire came down upon Pentapolis:
 7 Whose land for a testimony of their wickedness is desolate, and smoketh to this day, and the trees bear fruits that ripen not, and a standing pillar of salt is a monument of an incredulous soul.
 8 For regarding not wisdom, they did not only slip in this, that they were ignorant of good things, but they left also unto men a memorial of their folly, so that in the things in which they sinned, they could not so much as lie hid.

@@ -1,6 +1,6 @@
 [Lectio1]
 From the Prophet Ezechiel
-!Ezek 3:1-4
+!Ezech 3:1-4
 1 And he said to me: Son of man, eat all that thou shalt find: eat this book,~
 and go speak to the children of Israel.
 2 And I opened my mouth, and he caused me to eat that book
@@ -17,7 +17,7 @@ V. Lord our Ruler, how excellent is thy Name in all the earth!
 R. But Thou, O Lord, have mercy, and make not an end utterly.
 
 [Lectio2]
-!Ezek 3:5-9
+!Ezech 3:5-9
 5 For thou art not sent to a people of a profound speech, and of an unknown~
 tongue, but to the house of Israel:
 6 Nor to many nations of a strange speech, and of an unknown tongue, whose~
@@ -40,7 +40,7 @@ city.
 R. O Lord, hearken unto thy people with mercy.
 
 [Lectio3]
-!Ezek 3:10-13
+!Ezech 3:10-13
 10 And he said to me: Son of man, receive in thy heart, and hear with thy ears,~
 all the words that I speak to thee:
 11 And go get thee in to them of the captivity, to the children of thy people,~

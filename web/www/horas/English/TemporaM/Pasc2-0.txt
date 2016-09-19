@@ -6,7 +6,7 @@ Dominica II Post Pascha;;Semiduplex;;5;;
 Una Antiphona
 
 [Capitulum Vespera]
-!1 Pet 2:21-22
+!1 Petri 2:21-22
 v. My beloved. Christ also suffered for us, leaving you an example that you~
 should follow his steps. Who did no sin, neither was guile found in his mouth.
 $Deo gratias
@@ -35,7 +35,7 @@ $Per eumdem
 
 [Lectio1]
 From the Acts of Apostles.
-!Acts 13:13-20
+!Act 13:13-20
 13 Now when Paul and they that were with him had sailed from Paphos, they came~
 to Perge in Pamphylia. And John departing from them, returned to Jerusalem.
 14 But they passing through Perge, came to Antioch in Pisidia: and entering into~
@@ -58,7 +58,7 @@ gave unto them judges, until Samuel the prophet.
 @TemporaM/Pasc0-2:Responsory1
 
 [Lectio2]
-!Acts 13:21-25
+!Act 13:21-25
 21 And after that they desired a king: and God gave them Saul the son of Cis, a~
 man of the tribe of Benjamin, forty years.
 22 And when he had removed him, he raised them up David to be king: to whom~
@@ -76,7 +76,7 @@ not worthy to loose.
 @TemporaM/Pasc0-2:Responsory2
 
 [Lectio3]
-!Acts 13:26-33
+!Act 13:26-33
 26 Men, brethren, children of the stock of Abraham, and whosoever among you fear~
 God, to you the word of this salvation is sent.
 27 For they that inhabited Jerusalem, and the rulers thereof, not knowing him,~
@@ -144,7 +144,7 @@ grave is the Same Which now sitteth at the right hand of God the Father.
 
 [Lectio7]
 From the holy Gospel according to John
-!John 10:11-16
+!Joann 10:11-16
 At that time : Jesus said unto the Pharisees : I am the Good Shepherd. The Good~
 Shepherd giveth His life for His sheep. And so on.
 _
@@ -200,7 +200,7 @@ R. That they might come and anoint Jesus. Alleluia, Alleluia.
 R. That they might come iand anoint Jesus. Alleluia, Alleluia.
 
 [Capitulum Laudes]
-!1 Pet 2:21-22
+!1 Petri 2:21-22
 v. My beloved: Christ also suffered for us, leaving you an example that you~
 should follow his steps. Who did no sin, neither was guile found in his mouth.
 $Deo gratias
@@ -221,20 +221,20 @@ I am the Shepherd of the Sheep * I am the Way, the Truth, and the Life: * I am~
 the Good Shepherd, and know My Sheep, and am known of Mine. Alleluia, Alleluia.
 
 [Capitulum Tertia]
-!1 Pet 2:21-22
+!1 Petri 2:21-22
 v. Beloved: Christ also suffered for us, leaving you an example that you should~
 follow his steps. 22 Who did no sin, neither was guile found in his mouth.
 $Deo gratias
 
 [Capitulum Sexta]
-!1 Pet 2:23-24
+!1 Petri 2:23-24
 v. He delivered himself to him that judged him unjustly. Who his own self bore~
 our sins in his body upon the tree: that we, being dead to sins, should live to~
 justice: by whose stripes you were healed.
 $Deo gratias
 
 [Capitulum Nona]
-!1 Pet 2:25
+!1 Petri 2:25
 v. For you were as sheep going astray; but you are now converted to the shepherd~
 and bishop of your souls.
 $Deo gratias
@@ -251,7 +251,7 @@ sheep. Alleluia.
 
 [LectioE]
 v. Continuation of the Holy Gospel according to John
-!John 10:11-16
+!Joann 10:11-16
 10:11 I am the good shepherd. The good shepherd giveth his life for his sheep.
 10:12 But the hireling, and he that is not the shepherd, whose own the sheep are not, seeth the wolf coming, and leaveth the sheep, and flieth: and the wolf catcheth, and scattereth the sheep:
 10:13 And the hireling flieth, because he is a hireling: and he hath no care for the sheep.

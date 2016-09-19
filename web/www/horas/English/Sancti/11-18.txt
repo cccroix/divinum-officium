@@ -22,7 +22,7 @@ $Per Dominum
 
 [Lectio1]
 Lesson from the book of Revelation
-!Rev 21:18-20
+!Apoc 21:18-20
 18 And the building of the wall thereof was of jasper stone: but the city itself~
 pure gold, like to clear glass.
 19 And the foundations of the wall of the city were adorned with all manner of~
@@ -33,7 +33,7 @@ beryl: the ninth, a topaz: the tenth, a chrysoprasus: the eleventh, a jacinth:~
 the twelfth, an amethyst.
 
 [Lectio2]
-!Rev 21:21-23
+!Apoc 21:21-23
 21:21 And the twelve gates are twelve pearls, one to each: and every several~
 gate was of one several pearl. And the street of the city was pure gold, as it~
 were transparent glass. 21:22 And I saw no temple therein. For the Lord God~
@@ -42,7 +42,7 @@ the sun, nor of the moon, to shine in it. For the glory of God hath enlightened~
 it, and the Lamb is the lamp thereof.
 
 [Lectio3]
-!Rev 21:24-27
+!Apoc 21:24-27
 24 And the nations shall walk in the light of it: and the kings of the earth~
 shall bring their glory and honour into it.
 25 And the gates thereof shall not be shut by day: for there shall be no night~
@@ -99,7 +99,7 @@ Great is said to have prostrated himself on the ground and, with pick and shovel
 
 [Lectio7]
 From the Holy Gospel according to Luke
-!Luke 19:1-10
+!Luc 19:1-10
 At that time: Jesus entering in, he walked through Jericho. And behold, there was a~
 man named Zacchaeus, which was the chief among the publicans, and he was rich.~
 And so on.

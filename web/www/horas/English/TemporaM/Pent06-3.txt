@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the second book of Samuel
-!2 Sam 15:1-3
+!2 Reg 15:1-3
 1 Now after these things Absalom made himself chariots, and horsemen, and fifty men to run before him.
 2 And Absalom rising up early stood by the entrance of the gate, and when any man had business to come to the king's judgment, Absalom called him to him, and said: Of what city art thou? He answered, and said: thy servant is of such a tribe of Israel.
 3 And Absalom answered him: thy words seem to me good and just. But there is no man appointed by the king to hear thee.
@@ -15,7 +15,7 @@ Lesson from the second book of Samuel
 @TemporaM/Pent01-3:Responsory1
 
 [Lectio2]
-!2 Sam 15:3-6
+!2 Reg 15:3-6
 And Absalom said:
 4 O that they would make me judge over the land, that all that have business~
 might come to me, that I might do them justice.
@@ -28,7 +28,7 @@ and he enticed the hearts of the men of Israel.
 @TemporaM/Pent01-3:Responsory2
 
 [Lectio3]
-!2 Sam 15:7-10
+!2 Reg 15:7-10
 7 And after forty years, Absalom said to king David: Let me go, and pay my vows~
 which I have vowed to the Lord in Hebron.
 8 For thy servant made avow, when he was in Gessur of Syria, saying: If the Lord~

@@ -13,7 +13,7 @@ $Per Dominum
 
 [Lectio1]
 Lesson from the book of Jeremias
-!Jer 1:1-10
+!Jerem 1:1-10
 1 The words of Jeremias the son of Helcias, of the priests that were in Anathoth, in the land of Benjamin.
 2 The word of the Lord which came to him in the days of Josias the son of Amon king of Juda, in the thirteenth year of his reign.
 3 And which came to him in the days of Joakim the son of Josias king of Juda, unto the end of the eleventh year of Sedecias the son of Josias king of Juda, even unto the carrying away of Jerusalem captive, in the fifth month.
@@ -32,7 +32,7 @@ V. The Lord spake unto Moses, saying Speak unto the children of Israel, and say 
 R. In the fourteenth day at even is the Lord's Passover, and on the fifteenth day ye shall keep a Feast unto the Lord, the Most High.
 
 [Lectio2]
-!Jer 1:11-16
+!Jerem 1:11-16
 11 And the word of the Lord came to me, saying: What seest thou, Jeremias? And I said: I see a rod watching.
 12 And the Lord said to me: Thou hast seen well: for I will watch over my word to perform it.
 13 And the word of the Lord came to me a second time, saying: What seest thou? I see a boiling caldron, and the face thereof from the face of the north. 
@@ -47,7 +47,7 @@ V. Lest mine enemy say I have prevailed against him.
 R. Arise, O Lord! Save me, O my God!
 
 [Lectio3]
-!Jer 1:17-19; 2:1-3
+!Jerem 1:17-19; 2:1-3
 17 Thou therefore gird up thy loins, and arise, and speak to them all that I command thee. Be not afraid at their presence for I will make thee not to fear their countenance.
 18 For behold I have made thee this day a fortified city, and a pillar of iron, and a wall of brass, over all the land, to the kings of Juda, to the princes thereof, and to the priests, and to the people of the land.
 19 And they shall fight against thee, and shall not prevail: for I am with thee, saith the Lord, to deliver thee.
@@ -100,7 +100,7 @@ R. O Lord, my trouble is near, and there is none to help me; or ever they pierce
 
 [Lectio7]
 From the Holy Gospel according to John
-!John 8:46-59
+!Joann 8:46-59
 In that time Jesus said to the multitude of Jews: Which of you shall convince me of sin? If I say the truth to you, why do you not believe me?And so on.
 _
 Homily by Pope St Gregory (the Great)
@@ -142,7 +142,7 @@ O My people, what have I done unto thee? * or wherein have I wearied thee? testi
 Shall evil be recompensed for good? * for they have digged a pit for My soul.
 
 [Capitulum Laudes]
-!Heb 9:11-12
+!Hebr 9:11-12
 v. But Christ, being come an high priest of the good things to come, by a greater and more perfect tabernacle not made with hand, that is, not of this creation:Neither by the blood of goats, or of calves, but by his own blood, entered once into the holies, having obtained eternal redemption.
 $Deo gratias
 
@@ -156,7 +156,7 @@ I have not a devil; * but I honour My Father, and ye do dishonour Me, saith the 
 I seek not Mine Own glory; * there is One That seeketh and judgeth.
 
 [Capitulum Tertia]
-!Heb 9:11-12
+!Hebr 9:11-12
 v. But Christ, being come an high priest of the good things to come, by a greater and more perfect tabernacle not made with hand, that is, not of this creation:Neither by the blood of goats, or of calves, but by his own blood, entered once into the holies, having obtained eternal redemption.
 $Deo gratias
 
@@ -164,7 +164,7 @@ $Deo gratias
 Amen, Amen, * I say unto you If a man keep My saying, he shall never see death.
 
 [Capitulum Sexta]
-!Heb 9:13-14
+!Hebr 9:13-14
 v. For if the blood of goats and of oxen, and the ashes of an heifer being sprinkled, sanctify such as are defiled, to the cleansing of the flesh:How much more shall the blood of Christ, who by the Holy Ghost offered himself unspotted unto God, cleanse our conscience from dead works, to serve the living God?
 $Deo gratias
 
@@ -172,12 +172,12 @@ $Deo gratias
 Then took the Jews up stones * to cast at Him but Jesus hid Himself, and went out of the temple.
 
 [Capitulum Nona]
-!Heb 9:15
+!Hebr 9:15
 v. And therefore he is the mediator of the new testament: that by means of his death, for the redemption of those trangressions, which were under the former testament, they that are called may receive the promise of eternal inheritance.
 $Deo gratias
 
 [Capitulum Vespera]
-!Heb 9:11-12
+!Hebr 9:11-12
 v. But Christ, being come an high priest of the good things to come, by a greater and more perfect tabernacle not made with hand, that is, not of this creation:Neither by the blood of goats, or of calves, but by his own blood, entered once into the holies, having obtained eternal redemption.
 $Deo gratias
 

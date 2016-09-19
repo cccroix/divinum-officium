@@ -44,7 +44,7 @@ V. From my secret ones cleanse me, O Lord.
 R. And from those of others spare thy servant. 
 
 [Feria Tertia]
-!Jer 17:14
+!Jerem 17:14
 v. Heal me, O Lord, and I shall be healed: save me, and I shall be saved, for thou art my praise.
 $Deo gratias
 _
@@ -74,7 +74,7 @@ V. The Lord ruleth me: and I shall want nothing.
 R. He hath set me in a place of pasture.
 
 [Feria Nona]
-!1 Pet 1:17-19
+!1 Petri 1:17-19
 v. Converse in fear during the time of your sojourning here. Knowing that you were not redeemed with corruptible things as gold or silver, but with the precious blood of Christ.
 $Deo gratias
 _
@@ -89,7 +89,7 @@ V. From my secret ones cleanse me, O Lord.
 R. And from those of others spare thy servant. 
 
 [Adv Tertia]
-!Jer 23:5
+!Jerem 23:5
 v. Behold the days come, saith the Lord, and I will raise up to David a just branch: and a king shall reign, and shall be wise, and shall execute judgement and justice in the earth.
 $Deo gratias
 
@@ -105,7 +105,7 @@ V. And the Gentiles shall fear thy name, O Lord.
 R. And all the kings of the earth thy glory.
 
 [Adv Sexta]
-!Jer 23:6
+!Jerem 23:6
 v. In those days shall Juda be saved, and Israel shall dwell confidently: and this is the name that they shall call him: the Lord our just one.
 $Deo gratias
 
@@ -121,7 +121,7 @@ V. Remember us, O Lord, in the favor of thy people.
 R. Visit us with thy salvation.
 
 [Adv Nona]
-!Isa 14:1
+!Isai 14:1
 v. Her time is near at hand, and her days shall not be prolonged. For the Lord will have mercy on Jacob, and will yet choose out of Israel.
 $Deo gratias
 
@@ -137,7 +137,7 @@ V. Come, O Lord, do not be late.
 R. Forgive the misdeeds of your people.
 
 [Quad Tertia]
-!Joel 2:12-13
+!Joël 2:12-13
 v. Be converted to me with all your heart, in fasting, and in weeping, and in mourning. And rend your hearts, and not your garments, said the almighty Lord.
 $Deo gratias
 
@@ -153,7 +153,7 @@ V. He will overshadow thee with his shoulders.
 R. And under his wings thou shalt trust.
 
 [Quad Sexta]
-!Isa 55:7
+!Isai 55:7
 v. Let the wicked forsake his way, and the unjust man his thoughts, and let him return to the Lord, and he will have mercy on him, and to our God: for he is bountiful to forgive.
 $Deo gratias
 
@@ -169,7 +169,7 @@ V. His truth shall compass thee with a shield.
 R. Thou shalt not be afraid of the terror of the night.
 
 [Quad Nona]
-!Isa 58:7
+!Isai 58:7
 v. Deal thy bread to the hungry, and bring the needy and the harbourless into thy house: when thou shalt see one naked, cover him, and despise not thy own flesh.
 $Deo gratias
 
@@ -185,7 +185,7 @@ V. For he hath given his angels charge over thee.
 R. To keep thee in all thy ways.
 
 [Quad5 Tertia]
-!Jer 17:13
+!Jerem 17:13
 v. O Lord: all that forsake thee shall be confounded: they that depart from thee, shall be written in the earth: because they have forsaken the Lord, the vein of living waters.
 $Deo gratias
 
@@ -200,7 +200,7 @@ V. From the lion's mouth, * O Lord, save me.
 R. And my lowness from the horns of the unicorns.
 
 [Quad5 Sexta]
-!Jer 17:18
+!Jerem 17:18
 v. Let them be confounded that persecute me, and let not me be confounded: let them be afraid, and let not me be afraid: bring upon them the day of affliction, and with a double destruction, destroy them, O Lord my God.
 $Deo gratias
 
@@ -215,7 +215,7 @@ V. Take not away my soul, O God, with the wicked.
 R. Nor my life with bloody men.
 
 [Quad5 Nona]
-!Jer 18:20
+!Jerem 18:20
 v. Remember that I have stood in thy sight, to speak good for them, and turn away thy indignation from them.
 $Deo gratias
 
@@ -262,7 +262,7 @@ V. The disciples therefore were glad, alleluia.
 R. When they saw the Lord, alleluia.
 
 [Pasch Nona]
-!1 Pet 3:18
+!1 Petri 3:18
 v. Because Christ also died once for our sins, the just for the unjust: that he might offer us to God, being put to death indeed in the flesh, but enlivened in the spirit.
 $Deo gratias
 
@@ -302,7 +302,7 @@ V. From my secret ones cleanse me, O Lord.
 R. And from those of others spare thy servant. 
 
 [Feria TertiaM]
-!Jer 17:14
+!Jerem 17:14
 v. Heal me, O Lord, and I shall be healed: save me, and I shall be saved, for thou art my praise.
 $Deo gratias
 _
@@ -318,7 +318,7 @@ V. The Lord ruleth me: and I shall want nothing.
 R. He hath set me in a place of pasture.
 
 [Feria NonaM]
-!1 Pet 1:17-19
+!1 Petri 1:17-19
 v. Converse in fear during the time of your sojourning here. Knowing that you were not redeemed with corruptible things as gold or silver, but with the precious blood of Christ.
 $Deo gratias
 _.
@@ -326,7 +326,7 @@ V. From my secret ones cleanse me, O Lord
 R. And from those of others spare thy servant. 
 
 [Adv TertiaM]
-!Jer 23:5
+!Jerem 23:5
 Behold the days come, saith the Lord, and I will raise up to David a just branch: and a king shall reign, and shall be wise, and shall execute judgement and justice in the earth.
 $Deo gratias
 
@@ -335,7 +335,7 @@ V. Come to my rescue, O God, Lord of hosts.
 R. Show us thy face, and we shall be saved. 
 
 [Adv SextaM]
-!Jer 23:6
+!Jerem 23:6
 v. In those days shall Juda be saved, and Israel shall dwell confidently: and this is the name that they shall call him: the Lord our just one.
 $Deo gratias
 
@@ -344,7 +344,7 @@ R.br. Show us, O Lord, thy mercy.
 R. And grant us thy salvation.
 
 [Adv NonaM]
-!Isa 14:1
+!Isai 14:1
 v. Her time is near at hand, and her days shall not be prolonged. For the Lord will have mercy on Jacob, and will yet choose out of Israel.
 $Deo gratias
 
@@ -353,7 +353,7 @@ V. The Lord shall arise upon thee, Jerusalem.
 R. And his glory shall be seen upon thee. 
 
 [Quad TertiaM]
-!Joel 2:12-13
+!Joël 2:12-13
 v. Be converted to me with all your heart, in fasting, and in weeping, and in mourning. And rend your hearts, and not your garments, said the almighty Lord.
 $Deo gratias
 
@@ -362,7 +362,7 @@ V. For he hath delivered me from the snare of the hunters.
 R. And from the sharp word.
 
 [Quad SextaM]
-!Isa 55:7
+!Isai 55:7
 v. Let the wicked forsake his way, and the unjust man his thoughts, and let him return to the Lord, and he will have mercy on him, and to our God: for he is bountiful to forgive.
 $Deo gratias
 
@@ -371,7 +371,7 @@ V. He will overshadow thee with his shoulders.
 R. And under his wings thou shalt trust.
 
 [Quad NonaM]
-!Isa 58:7
+!Isai 58:7
 v. Deal thy bread to the hungry, and bring the needy and the harborless into thy house: when thou shalt see one naked, cover him, and despise not thy own flesh.
 $Deo gratias
 
@@ -380,7 +380,7 @@ V. His truth shall compass thee with a shield.
 R. Thou shalt not be afraid of the terror of the night.
 
 [Quad5 TertiaM]
-!Jer 17:13
+!Jerem 17:13
 O Lord: all that forsake thee shall be confounded: they that depart from thee, shall be written in the earth: because they have forsaken the Lord, the vein of living waters.
 $Deo gratias
 
@@ -389,7 +389,7 @@ V. Deliver, O God, my soul from the sword.
 R. My only one from the hand of the dog.
 
 [Quad5 SextaM]
-!Jer 17:18
+!Jerem 17:18
 Let them be confounded that persecute me, and let not me be confounded: let them be afraid, and let not me be afraid: bring upon them the day of affliction, and with a double destruction, destroy them, O Lord my God.
 $Deo gratias
 
@@ -398,7 +398,7 @@ V. From the lion's mouth, O Lord, save me.
 R. And my lowness from the horns of the unicorns.
 
 [Quad5 NonaM]
-!Jer 18:20
+!Jerem 18:20
 v. Remember that I have stood in thy sight, to speak good for them, and turn away thy indignation from them.
 $Deo gratias
 
@@ -425,7 +425,7 @@ V. The Lord is risen indeed, alleluia.
 R. And hath appeared to Simon, alleluia.
 
 [Pasch NonaM]
-!1 Pet 3:18
+!1 Petri 3:18
 v. Because Christ also died once for our sins, the just for the unjust: that he might offer us to God, being put to death indeed in the flesh, but enlivened in the spirit.
 $Deo gratias
 
@@ -434,7 +434,7 @@ V. The disciples therefore were glad, alleluia.
 R. When they saw the Lord, alleluia.
 
 [Feria II TertiaM]
-!Jer 23:5
+!Jerem 23:5
 v. Behold the days come, saith the Lord, and I will raise up to David a just branch: and a king shall reign, and shall be wise, and shall execute judgement and justice in the earth.
 $Deo gratias
 _

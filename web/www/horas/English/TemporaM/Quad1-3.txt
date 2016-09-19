@@ -5,7 +5,7 @@ Feria Quarta Quatuor Temporum;;Feria major;;2
 
 [Lectio1]
 From the holy Gospel according to Matthew
-!Matt 12:38-50
+!Matth 12:38-50
 In that time some of the scribes and Pharisees answered him, saying: Master we~
 would see a sign from thee. Who answering said to them: An evil and adulterous~
 generation seeketh a sign. And so on.
@@ -67,7 +67,7 @@ $Per Dominum.
 
 [LectioE]
 v. Continuation of the Holy Gospel according to Matthew
-!Matt 12:38-50
+!Matth 12:38-50
 12:38 Then some of the scribes and Pharisees answered him, saying: Master we would see a sign from thee.
 12:39 Who answering said to them: An evil and adulterous generation seeketh a sign: and a sign shall not be given it, but the sign of Jonas the prophet.
 12:40 For as Jonas was in the whale's belly three days and three nights: so shall the Son of man be in the heart of the earth three days and three nights.

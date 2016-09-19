@@ -6,7 +6,7 @@ Preces Feriales
 
 [Lectio1]
 From the holy Gospel according to Matthew.
-!Matt 6:16-21
+!Matth 6:16-21
 In that time Jesus said to his disciples: And when you fast, be not as the~
 hypocrites, sad. For they disfigure their faces, that they may appear unto men~
 to fast. And so on.
@@ -79,7 +79,7 @@ $Per Dominum
 
 [LectioE]
 v. Continuation of the Holy Gospel according to Matthew
-!Matt 6:16-21
+!Matth 6:16-21
 6:16 And when you fast, be not as the hypocrites, sad. For they disfigure their faces, that they may appear unto men to fast. Amen I say to you, they have received their reward.
 6:17 But thou, when thou fastest anoint thy head, and wash thy face;
 6:18 That thou appear not to men to fast, but to thy Father who is in secret: and thy Father who seeth in secret, will repay thee.

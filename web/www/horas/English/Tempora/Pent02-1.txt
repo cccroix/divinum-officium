@@ -11,7 +11,7 @@ Doxology=Corp
 
 [Lectio1]
 Lesson from the first book of Samuel
-!1 Sam 5:1-5
+!1 Reg 5:1-5
 1 And the Philistines took the ark of God, and carried it from the Stone of help into Azotus.
 2 And the Philistines took the ark of God, and brought it into the temple of Dagon, and set it by Dagon.
 3 And when the Azotians arose early the next day, behold Dagon lay upon his face on the ground before the ark of the Lord: and they took Dagon, and set him again in his place.
@@ -22,7 +22,7 @@ Lesson from the first book of Samuel
 @Tempora/Pent03-1Feria:Responsory1
 
 [Lectio2]
-!1 Sam 5:6-8
+!1 Reg 5:6-8
 6 And the hand of the Lord was heavy upon the Azotians, and he destroyed them, and afflicted Azotus and the coasts thereof with emerods. And in the villages and fields in the midst of that country, there came forth a multitude of mice, and there was the confusion of a great mortality in the city.
 7 And the men of Azotus seeing this kind of plague, said: The ark of the God of Israel shall not stay with us: for his hand is heavy upon us, and upon Dagon our god.
 8 And sending, they gathered together all the lords of the Philistines to them, and said: What shall we do with the ark of the God of Israel? And the Gethrites answered: Let the ark of the God of Israel be carried about.
@@ -31,7 +31,7 @@ Lesson from the first book of Samuel
 @Tempora/Pent03-1Feria:Responsory2
 
 [Lectio3]
-!1 Sam 5:8-12
+!1 Reg 5:8-12
 8 And they carried the ark of the God of Israel about.
 9 And while they were carrying it about, the hand of the Lord came upon every city with an exceeding great slaughter: and he smote the men of every city, both small and great, and they had emerods in their secret parts. And the Gethrites consulted together, and made themselves seats of skins.
 10 Therefore they sent the ark of God into Accaron. And when the ark of God was come into Accaron, the Accaronites cried out, saying: They have brought the ark of the God of Israel to us, to kill us and our people.
@@ -54,7 +54,7 @@ Let us hear, all of us, both Priests and laymen, let us hear What Food it is whe
 
 [Lectio7]
 From the Holy Gospel according to John 
-!John 6:56-59 
+!Joann 6:56-59 
 At that time, Jesus said unto the multitudes of the Jews: My Flesh is meat indeed, and My Blood is drink indeed. And so on.
 _
 Homily by St. Augustine, Bishop of Hippo.

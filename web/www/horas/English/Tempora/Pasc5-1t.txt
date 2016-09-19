@@ -8,7 +8,7 @@ Doxology=Pasc
 
 [Lectio1]
 Continuation of the Holy Gospel according to Luke
-!Luke 11:5-13
+!Luc 11:5-13
 At that time Jesus said unto His disciples Which of you shall have a friend, and shall go unto him at midnight, and say unto him: Friend, lend me three loaves. And so on.
 _
 Homily by St. Ambrose, Bishop of Milan.

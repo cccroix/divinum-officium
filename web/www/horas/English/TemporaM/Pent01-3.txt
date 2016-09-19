@@ -6,7 +6,7 @@ Oratio Dominica
 			
 [Lectio1]
 From the First Book of Kings
-!1 Sam 2:12-14
+!1 Reg 2:12-14
 12 Now the sons of Heli were children of Belial, not knowing the Lord,
 13 Nor the office of the priests to the people: but whosoever had offered a~
 sacrifice, the servant of the priest came, while the flesh was in boiling, with a~
@@ -25,7 +25,7 @@ thee only have I sinned
 R. And done evil in thy sight.
 
 [Lectio2]
-!1 Sam 2:15-17
+!1 Reg 2:15-17
 15 Also before they burnt the fat, the servant of the priest came, and said to~
 the man that sacrificed: Give me flesh to boil for the priest: for I will not~
 take of thee sodden flesh, but raw.
@@ -45,7 +45,7 @@ their heart.
 R. O God of Israel, bless Thou, and hallow this house for ever
 
 [Lectio3]
-!1 Sam 2:18-21
+!1 Reg 2:18-21
 18 But Samuel ministered before the face of the Lord: being a child girded with a~
 linen ephod.
 19 And his mother made him a little coat, which she brought to him on the~

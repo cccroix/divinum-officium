@@ -15,7 +15,7 @@ They were all filled * with the Holy Ghost, and began to speak. Alleluia, Allelu
 The Apostles spake in divers tongues * the wonderful works of God. Alleluia, Alleluia, Alleluia.
 
 [Capitulum Vespera]
-!Acts 2:1-2
+!Act 2:1-2
 v. When the day of Pentecost was fully come, * the disciples were all with one~
 accord in one place and suddenly there came a sound from heaven, as of a~
 rushing mighty wind and it filled all the house where they were sitting.
@@ -153,7 +153,7 @@ R. And began to speak Alleluia.
 
 [Lectio1]
 Lesson from the Acts of Apostles
-!Acts 2:1-7
+!Act 2:1-7
 1 And when the days of the Pentecost were accomplished, they were all together in one place: 
 2 And suddenly there came a sound from heaven, as of a mighty wind coming, and it filled the whole house where they were sitting. 
 3 And there appeared to them parted tongues as it were of fire, and it sat upon every one of them: 
@@ -171,7 +171,7 @@ upon them a sound from heaven
 R. As of a rushing mighty wind, and it filled all the house Alleluia, Alleluia.
 
 [Lectio2]
-!Acts 2:8-14
+!Act 2:8-14
 8 And how have we heard, every man our own tongue wherein we were born? 
 9 Parthians, and Medes, and Elamites, and inhabitants of Mesopotamia, Judea, and Cappadocia, Pontus and Asia, 
 10 Phrygia, and Pamphylia, Egypt, and the parts of Libya about Cyrene, and strangers of Rome,
@@ -190,7 +190,7 @@ R. And the multitude came together, saying: Alleluia.
 R. And the multitude came together, saying: Alleluia.
 
 [Lectio3]
-!Acts 2:15-21
+!Act 2:15-21
 15 For these are not drunk, as you suppose, seeing it is but the third hour of the day:
 16 But this is that which was spoken of by the prophet Joel: 
 17 And it shall come to pass, in the last days, (saith the Lord,) I will pour out of my Spirit upon all flesh: and your sons and your daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams. 
@@ -242,7 +242,7 @@ R. He that believeth and is baptized shall be saved, alleluia,alleluia, alleluia
 
 [Lectio7]
 From the Holy Gospel according to John
-!John 14:13-31
+!Joann 14:13-31
 At that time Jesus said unto His disciples If a man love Me. He will keep My~
 word, and My Father will love him, and We will come unto him, and make Our~
 abode with him. And so on.
@@ -327,7 +327,7 @@ See ye wells, * and all that move in the waters, ascribe ye praise to God. Allel
 The Apostles spake in divers tongues * the wonderful works of God. Alleluia, alleluia, alleluia.
 
 [Capitulum Laudes]
-!Acts 2:1-2
+!Act 2:1-2
 v. When the day of Pentecost was fully come, * the disciples wen all with one~
 accord in one place anc suddenly there came a sound fron heaven, as of a~
 rushing mighty wind and it filled all the house where the; were sitting.
@@ -391,7 +391,7 @@ Receive ye the Holy Ghost * whoseoever sins ye remit, they are remitted unto~
 them. Alleluia.
 
 [Lectio Prima]
-!Acts 2:11
+!Act 2:11
 v. Jews also, and Proselytes, Cretes and Arabians, we do hear them speak in our~
 tongues the wonderful works of God.
 
@@ -433,7 +433,7 @@ That Holy Spirit's gift of love.
 Amen
 
 [Capitulum Tertia]
-!Acts 2:1-2
+!Act 2:1-2
 v. When the day of Pentecost was fully come, * the disciples wen all with one~
 accord in one place anc suddenly there came a sound fron heaven, as of a~
 rushing mighty wind and it filled all the house where the; were sitting.
@@ -444,7 +444,7 @@ V. The Spirit of the Lord filleth the world. Alleluia, Alleluia.
 R. And That Which containeth all things hath knowledge of the voice.
 
 [Capitulum Sexta]
-!Acts 2:6
+!Act 2:6
 v. When this was noised abroad, the multitude came together, and were confounded,~
 because that every man heard them speak in his own language
 $Deo gratias
@@ -454,7 +454,7 @@ V. The Comforter, Which is the Holy Ghost Alleluia.
 R. He shall teach you all things Alleluia.
 
 [Capitulum Nona]
-!Acts 2:11
+!Act 2:11
 v. JEWS also, and Proselytes, Cretes and Arabians, we do hear them speak in our~
 tongues the wonderful works of God.
 $Deo gratias
@@ -472,7 +472,7 @@ baptized.! shall be saved. Alleluia.
 
 [LectioE]
 Continuation of the Holy Gospel according to John
-!John 14:13-31
+!Joann 14:13-31
 14:13 Because I go to the Father: and whatsoever you shall ask the Father in my name, that will I do: that the Father may be glorified in the Son.
 14:14 If you shall ask me any thing in my name, that I will do.
 14:15 If you love me, keep my commandments.

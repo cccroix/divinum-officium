@@ -15,7 +15,7 @@ $Per Dominum
 
 [Lectio7]
 From the Holy Gospel according to Matthew
-!Matt 22:1-14
+!Matth 22:1-14
 At that time Jesus spake by parables unto the chief priests and Pharisees, and~
 said The kingdom of heaven is like unto a certain king, which made a marriage~
 for his son. And so on.
@@ -79,7 +79,7 @@ R. As incense before thee.
 
 [LectioE]
 Continuation of the Holy Gospel according to Matthew
-!Matt 22:1-14
+!Matth 22:1-14
 22:1 AND Jesus answering, spoke again in parables to them, saying:
 22:2 The kingdom of heaven is likened to a king, who made a marriage for his son.
 22:3 And he sent his servants, to call them that were invited to the marriage; and they would not come.

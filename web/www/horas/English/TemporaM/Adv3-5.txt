@@ -12,7 +12,7 @@ Oratio Dominica
 
 [Lectio1]
 Continuation of the Holy Gospel according to Luke
-!Luke 1:39-47
+!Luc 1:39-47
 In that time Mary rising up went into the hill country with haste into a city of~
 Juda. And she entered into the house of Zachary, and saluted Elizabeth. And so~
 on.
@@ -97,7 +97,7 @@ me.
 
 [LectioE]
 Continuation of the Holy Gospel according to Luke
-!Luke 1:39-47
+!Luc 1:39-47
 1:39 And Mary rising up in those days, went into the hill country with haste into a city of Juda.
 1:40 And she entered into the house of Zachary, and saluted Elizabeth.
 1:41 And it came to pass, that when Elizabeth heard the salutation of Mary, the infant leaped in her womb. And Elizabeth was filled with the Holy Ghost:

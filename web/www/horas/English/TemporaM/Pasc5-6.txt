@@ -7,7 +7,7 @@ Feria Te Deum
 
 [Lectio1]
 From the second letter of blessed Apostle Peter
-!2 Pet 3:1-7
+!2 Petri 3:1-7
 1 Behold this second epistle I write to you, my dearly beloved, in which I stir~
 up by way of admonition your sincere mind:
 2 That you may be mindful of those words which I told you before from the holy~
@@ -28,7 +28,7 @@ ungodly men.
 @TemporaM/Pasc5-4:Responsory1
 
 [Lectio2]
-!2 Pet 3:8-13
+!2 Petri 3:8-13
 8 But of this one thing be not ignorant, my beloved, that one day with the Lord~
 is as a thousand years, and a thousand years as one day.
 9 The Lord delayeth not his promise, as some imagine, but dealeth patiently for~
@@ -49,7 +49,7 @@ which justice dwelleth.
 @TemporaM/Pasc5-4:Responsory2
 
 [Lectio3]
-!2 Pet 3:14-18
+!2 Petri 3:14-18
 14 Wherefore, dearly beloved, waiting for these things, be diligent that you may~
 be found before him unspotted and blameless in peace.
 15 And account the longsuffering of our Lord, salvation; as also our most dear~
@@ -118,7 +118,7 @@ seest not now.'
 
 [Lectio7]
 From the Holy Gospel according to Mark
-!Mark 16:14-20
+!Marc 16:14-20
 At that time Jesus appeared unto the eleven disciples as they sat at meat,~
 and upbraided them with their unbelief and hardness of heart because they~
 believed not them which had seen Him after He was risen. And so on.
@@ -163,7 +163,7 @@ soul.
 
 [LectioE]
 v. Continuation of the Holy Gospel according to Mark
-!Mark 16:14-20
+!Marc 16:14-20
 16:14 At length he appeared to the eleven as they were at table: and he upbraided them with their incredulity and hardness of heart, because they did not believe them who had seen him after he was risen again.
 16:15 And he said to them: Go ye into the whole world, and preach the gospel to every creature.
 16:16 He that believeth and is baptized, shall be saved: but he that believeth not shall be condemned.

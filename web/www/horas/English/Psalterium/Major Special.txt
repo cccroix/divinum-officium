@@ -1,5 +1,5 @@
 [Day0 Laudes]
-!Rev 7:12
+!Apoc 7:12
 v. Benediction, and glory, and wisdom, and thanksgiving, honour, and power, and strength to our God for ever and ever. Amen.
 $Deo gratias
 
@@ -353,7 +353,7 @@ V. O Lord, direct my prayer.
 R. As incense in thy sight.
 
 [Day4 Laudes]
-!Rom. 13:12-13
+!Rom 13:12-13
 v. The night is passed, and the day is at hand. Let us therefore cast off the works of darkness, and put on the armour of light. Let us walk honestly, as in the day.
 $Deo gratias
 
@@ -425,7 +425,7 @@ V. O Lord, direct my prayer.
 R. As incense in thy sight.
 
 [Day5 Laudes]
-!Rom. 13:12-13
+!Rom 13:12-13
 v. The night is passed, and the day is at hand. Let us therefore cast off the works of darkness, and put on the armour of light. Let us walk honestly, as in the day.
 $Deo gratias
 
@@ -502,7 +502,7 @@ V. O Lord, direct my prayer.
 R. As incense in thy sight.
 
 [Day6 Laudes]
-!Rom. 13:12-13
+!Rom 13:12-13
 v. The night is passed, and the day is at hand. Let us therefore cast off the works of darkness, and put on the armour of light. Let us walk honestly, as in the day.
 $Deo gratias
 
@@ -621,7 +621,7 @@ O Lord, give light * to those who sit in darkness and in the shadow of death, an
 God hath received * Israel his servant: as he spoke to our fathers, to Abraham and to his seed for ever. 
 
 [Adv Laudes]
-!Isa 2:3
+!Isai 2:3
 v. Come and let us go up to the mountain of the Lord, and to the house of the God of Jacob, and he will teach us his ways, and we will walk in his paths: for the law shall come forth from Sion, and the word of the Lord from Jerusalem.
 $Deo gratias
 
@@ -731,7 +731,7 @@ Fear not: * yet five days and the Lord shall come unto you.
 Behold, all things are fulfilled * which were spoken by the Angel concerning the Virgin Mary.
 
 [Quad Laudes]
-!Isa 58:1
+!Isai 58:1
 v. Cry, cease not, lift up thy voice like a trumpet, and show my people their wicked doings, and the house of Jacob their sins.
 $Deo gratias
 
@@ -767,7 +767,7 @@ V. For he hath given his angels charge over thee;
 R. To keep thee in all thy ways.
 
 [Quad Vespera]
-!Joel 2:17
+!Joël 2:17
 v. Between the porch and the altar the priests the Lord's ministers shall weep, and shall say: Spare, O Lord, spare thy people: and give not thy inheritance to reproach, that the heathen should rule over them. 
 $Deo gratias
 
@@ -803,7 +803,7 @@ V. For he hath given his angels charge over thee;
 R. To keep thee in all thy ways.
 
 [Quad5 Laudes]
-!Jer 11:19
+!Jerem 11:19
 v. Come, let us put wood on his bread, and cut him off from the land of the living, and let his name be remembered no more.
 $Deo gratias
 
@@ -856,7 +856,7 @@ V. Deliver me from my enemies, O my God.
 R. And defend me from them that rise up against me.
 
 [Quad5 Vespera]
-!Jer 11:20
+!Jerem 11:20
 v. But thou, O Lord of Sabaoth, who judgest justly, and triest the reins and hearts, let me see thy revenge on them: for to thee I have revealed my cause, O Lord my God.
 $Deo gratias
 
@@ -1300,7 +1300,7 @@ R. Amen.
 $Fidelium animae
 
 [Day0M Laudes]
-!Rev 7:12
+!Apoc 7:12
 v. Benediction, and glory, and wisdom, and thanksgiving, honour, and power, and strength to our God for ever and ever. Amen.
 $Deo gratias
 _
@@ -1372,7 +1372,7 @@ R. And great is his power.
 R. Great is our Lord, and great is his power.
 
 [AdvM Laudes]
-!Isa 2:3
+!Isai 2:3
 v. Come and let us go up to the mountain of the Lord, and to the house of the God of Jacob, and he will teach us his ways, and we will walk in his paths: for the law shall come forth from Sion, and the word of the Lord from Jerusalem.
 $Deo gratias
 _
@@ -1396,7 +1396,7 @@ R. thy mercy
 R. Show us, O Lord, * thy mercy; 
 
 [QuadM Laudes]
-!Isa 58:1
+!Isai 58:1
 v. Cry, cease not, lift up thy voice like a trumpet, and shew my people their wicked doings, and the house of Jacob their sins.
 $Deo gratias
 _
@@ -1408,7 +1408,7 @@ R. from the snare of the hunters.
 R. For he hath delivered me * from the snare of the hunters.
 
 [QuadM Vespera]
-!Joel 2:17
+!Joël 2:17
 v. Between the porch and the altar the priests the Lord's ministers shall weep, and shall say: Spare, O Lord, spare thy people: and give not thy inheritance to reproach, that the heathen should rule over them. 
 $Deo gratias
 _
@@ -1420,7 +1420,7 @@ R. Thee with his shoulders.
 R. He will overshadow * thee with his shoulders.
 
 [Quad5M Laudes]
-!Jer 11:19
+!Jerem 11:19
 v. Come, let us put wood on his bread, and cut him off from the land of the living, and let his name be remembered no more.
 $Deo gratias
 _
@@ -1431,7 +1431,7 @@ R. O God, my soul from the sword.
 R. Deliver, * O God, my soul from the sword.
 
 [Quad5M Vespera]
-!Jer 11:20
+!Jerem 11:20
 v. But thou, O Lord of Sabaoth, who judgest justly, and triest the reins and hearts, let me see thy revenge on them: for to thee I have revealed my cause.
 $Deo gratias
 _

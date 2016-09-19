@@ -5,7 +5,7 @@ Feria Tertia infra Hebdomadam II in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Continuation of the Holy Gospel according to Matthew
-!Matt 23:1-12
+!Matth 23:1-12
 In that time Jesus spoke to the multitudes and to his disciples, Saying: The~
 scribes and the Pharisees have sitten on the chair of Moses. All things~
 therefore whatsoever they shall say to you, observe and do: but according to~
@@ -80,7 +80,7 @@ $Per Dominum
 
 [LectioE]
 Continuation of the Holy Gospel according to Matthew
-!Matt 23:1-12
+!Matth 23:1-12
 23:1 THEN Jesus spoke to the multitudes and to his disciples,
 23:2 Saying: The scribes and the Pharisees have sitten on the chair of Moses.
 23:3 All things therefore whatsoever they shall say to you, observe and do: but according to their works do ye not; for they say, and do not.

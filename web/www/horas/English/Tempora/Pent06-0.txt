@@ -16,7 +16,7 @@ $Per Dominum
 
 [Lectio1]
 Lesson from the second book of Samuel
-!2 Sam 12:1-4
+!2 Reg 12:1-4
 1 And the Lord sent Nathan to David: and when he was come to him, he said to him: There were two men in one city, the one rich, and the other poor.
 2 The rich man had exceeding many sheep and oxen.
 3 But the poor man had nothing at all but one little ewe lamb, which he had bought and nourished up, and which had grown up in his house together with his children, eating of his bread, and drinking of his cup, and sleeping in his bosom: and it was unto him as a daughter.
@@ -26,7 +26,7 @@ Lesson from the second book of Samuel
 @Tempora/Pent01-1
 
 [Lectio2]
-!2 Sam 12:5-9
+!2 Reg 12:5-9
 5 And David's anger being exceedingly kindled against that man, he said to Nathan: As the Lord liveth, the man that hath done this is a child of death.
 6 He shall restore the ewe fourfold, because he did this thing, and had no pity.
 7 And Nathan said to David: Thou art the man. Thus saith the Lord the God of Israel: I anointed thee king over Israel, and I delivered thee from the hand of Saul,
@@ -37,7 +37,7 @@ Lesson from the second book of Samuel
 @Tempora/Pent01-1
 
 [Lectio3]
-!2 Sam 12:10-16
+!2 Reg 12:10-16
 10 Therefore the sword shall never depart from thy house, because thou hast despised me, and hast taken the wife of Urias the Hethite to be thy wife.
 11 Thus saith the Lord: Behold, I will raise up evil against thee out of thy own house, and I will take thy wives before thy eyes I and give them to thy neighhour, and he shall lie with thy wives in the sight of this sun.
 12 For thou didst it secretly: but I will do this thing in the sight of all Israel, and in the sight of the sun.
@@ -71,7 +71,7 @@ David sinned; and so oftentimes do other kings. David repented with groaning and
 
 [Lectio7]
 From the Holy Gospel according to Mark
-!Mark 8:1-9
+!Marc 8:1-9
 In those days, the multitude being very great, and having nothing to eat, Jesus called His disciples unto Him, and saith unto them: I have compassion on the multitude, because they have now been with Me for three days, and have nothing to eat. And so on.
 _
 Homily by St. Ambrose, Bishop of Milan.

@@ -3,7 +3,7 @@ The sun shone * upon the shields of gold, and the mountains glistened therewith,
 
 [Lectio1]
 Lesson from the first book of Machabees
-!1 Mac 4:36-40
+!1 Mach 4:36-40
 36 Then Judas, and his brethren said: Behold our enemies are discomfited: let us go up now to cleanse the holy places and to repair them.
 37 And all the army assembled together, and they went up into mount Sion.
 38 And they saw the sanctuary desolate, and the altar profaned, and the gates burnt, and shrubs growing up in the courts as in a forest, or on the mountains, and the chambers joining to the temple thrown down.
@@ -14,7 +14,7 @@ Lesson from the first book of Machabees
 @Tempora/101-0:Responsory1
 
 [Lectio2]
-!1 Mac 4:41-46
+!1 Mach 4:41-46
 41 Then Judas appointed men to fight against them that were in the castle, till they had cleansed the holy places.
 42 And he chose priests without blemish, whose will was set upon the law of God:
 43 And they cleansed the holy places, and took away the stones that had been defiled into an unclean place.
@@ -26,7 +26,7 @@ Lesson from the first book of Machabees
 @Tempora/101-0:Responsory2
 
 [Lectio3]
-!1 Mac 4:47-51
+!1 Mach 4:47-51
 47 Then they took whole stones according to the law, and built a new altar according to the former:
 48 And they built up the holy places, and the things that were within the temple: and they sanctified the temple, and the courts.
 49 And they made new holy vessels, and brought in the candlestick, and the altar of incense, and the table into the temple.

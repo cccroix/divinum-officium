@@ -8,7 +8,7 @@ R. And let there descend upon us thy mercy.
 
 [Lectio1]
 Here beginneth the second book of the Macchabees
-!2 Mac 1:1-6
+!2 Mach 1:1-6
 1 To the brethren the Jews that are I throughout Egypt, the brethren, the Jews~
 that are in Jerusalem, and in the land of Judea, send health, and good peace.
 2 May God be gracious to you, and remember his covenant that he made with~
@@ -25,7 +25,7 @@ the evil time.
 @TemporaM/101-0:Responsory1
 
 [Lectio2]
-!2 Mac 1:18-19
+!2 Mach 1:18-19
 18 Therefore whereas we purpose to keep the purification of the temple on the~
 five and twentieth day of the month of Casleu, we thought it necessary to~
 signify it to you: that you also may keep the day of Scenopegia, and the day of~
@@ -39,7 +39,7 @@ valley where there was a deep pit without water, and there they kept it safe,
 @TemporaM/101-0:Responsory2
 
 [Lectio3]
-!2 Mac 1:20-22
+!2 Mach 1:20-22
 20 But when many years had passed, and it pleased God that Nehemias should be~
 sent by the king of Persia, he sent some of the posterity of those priests that~
 had hid it, to seek for the fire: and as they told us, they found no fire, but~

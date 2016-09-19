@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the second book of Samuel
-!2 Sam 11:1-4
+!2 Reg 11:1-4
 1 And it came to pass at the return of the year, at the time when kings go forth~
 to war, that David sent Joab and his servants with him, and all Israel, and they~
 spoiled the children of Ammon, and besieged Rabba: but David remained in~
@@ -23,7 +23,7 @@ with her: and presently she was purified from her uncleanness:
 @TemporaM/Pent01-3:Responsory1
 
 [Lectio2]
-!2 Sam 11:5-11
+!2 Reg 11:5-11
 5 And she returned to her house having conceived. And she sent and told David,~
 and said: I have conceived.
 6 And David sent to Joab, saying: Send me Urias the Hethite. And Joab sent Urias~
@@ -47,7 +47,7 @@ thy welfare and by the welfare of thy soul I will not do this thing
 @TemporaM/Pent01-3:Responsory2
 
 [Lectio3]
-!2 Sam 11:12-17
+!2 Reg 11:12-17
 12 Then David said to Urias: Tarry here today, and tomorrow I will send thee~
 away. Urias tarried in Jerusalem that day and the next.
 13 And David called him to eat and to drink before him, and he made him drunk:~

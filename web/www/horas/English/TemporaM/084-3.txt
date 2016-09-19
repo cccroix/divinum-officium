@@ -1,6 +1,6 @@
 [Lectio1]
 From the Book of Ecclesiasticus
-!Sir 3:1-4
+!Eccl 3:1-4
 1 The sons of wisdom are the church of the just: and their generation, obedience~
 and love.
 2 Children, hear the judgment of your father, and so do that you may be saved.
@@ -13,7 +13,7 @@ refrain himself from them, and shall be heard in the prayer of days.
 @TemporaM/081-0:Responsory7
 
 [Lectio2]
-!Sir 3:5-8
+!Eccl 3:5-8
 5 And he that honoureth his mother is as one that layeth up a treasure.
 6 He that honoureth his father shall have joy in his own children, and in the~
 day of his prayer he shall be heard.
@@ -26,7 +26,7 @@ masters that brought him into the world.
 @TemporaM/081-1:Responsory2
 
 [Lectio3]
-!Sir 3:9-13
+!Eccl 3:9-13
 9 Honour thy father, in work and word, and all patience,
 10 That a blessing may come upon thee from him, and his blessing may remain in~
 the latter end.

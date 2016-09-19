@@ -13,7 +13,7 @@ Blessed is that servant * whom his Lord, when He cometh and knocketh at the door
 Thou good and faithful servant, * enter thou into the joy of thy Lord. Alleluia.;;116
 
 [Capitulum Vespera]
-!Sir 31;8-9
+!Eccl 31;8-9
 v. Blessed is the rich man that is found without blemish: and that hath not gone after gold, nor put his trust in money nor in treasures. Who is he, and we will praise him? for he hath done wonderful things in his life.
 $Deo gratias
 
@@ -58,7 +58,7 @@ R. None of his steps shall slide. Alleluia.
 
 [Lectio1]
 Lesson from the book of Ecclesiasticus
-!Sir 39:1-5
+!Eccl 39:1-5
 1 The wise men will seek out the wisdom of all the ancients, and will be occupied in the prophets.
 2 He will keep the sayings of renowned men, and will enter withal into the subtleties of parables.
 3 He will search out the hidden meanings of proverbs, and will be conversant in the secrets of parables.
@@ -72,7 +72,7 @@ V. Lord, Thou deliveredst unto me five talents behold, I have gained beside them
 R. Enter thou into the joy of thy Lord. Alleluia.
 
 [Lectio2]
-!Sir 39:6-10
+!Eccl 39:6-10
 6 He will give his heart to resort early to the Lord that made him, and he will pray in the sight of the most High.
 7 He will open his mouth in prayer, and will make supplication for his sins.
 8 For if it shall please the great Lord, he will fill him with the spirit of understanding:
@@ -86,7 +86,7 @@ V. Those that be planted in the house of the Lord, shall flourish in the courts 
 R. Yea, he shall flourish in the presence of the Lord for ever. Alleluia.
 
 [Lectio3]
-!Sir 39:11-14
+!Eccl 39:11-14
 11 He shall show forth the discipline he hath learned, and shall glory in the law of the covenant of the Lord.
 12 Many shall praise his wisdom, and it shall never be forgotten.
 13 The memory of him shall not depart away, and his name shall be in request from generation to generation.
@@ -133,7 +133,7 @@ R. For thee have I seen righteous before Me among all people. Alleluia.
 
 [Lectio7]
 From the Holy Gospel according to Luke
-!Luke 12:35-40 
+!Luc 12:35-40 
 At that time, Jesus said unto His disciples: Let your loins be girded about, and your lights burning. And so on.
 _
 Homily by Pope St Gregory [the Great.]
@@ -169,7 +169,7 @@ Blessed is that servant * whom his Lord, when he cometh and knocketh at the door
 thou good and faithful servant, * enter thou into the joy of thy Lord. Alleluia.
 
 [Capitulum Laudes]
-!Sir 31:8-9
+!Eccl 31:8-9
 v. Blessed is the rich man that is found without blemish: and that hath not gone after gold, nor put his trust in money nor in treasures. Who is he, and we will praise him? for he hath done wonderful things in his life.
 $Deo gratias
 
@@ -188,11 +188,11 @@ O God, Who, year by year, dost gladden us by the solemn feast-day of thy blessed
 $Per Dominum.
 
 [Lectio Prima]
-!Wis 10:10
+!Sap 10:10
 v. She conducted the just, when he fled from his brother's wrath, through the right ways, and showed him the kingdom of God, and gave him the knowledge of the holy things, made him honourable in his labours, and accomplished his labours.
 
 [Capitulum Tertia]
-!Sir 31:8-9
+!Eccl 31:8-9
 v. Blessed is the rich man that is found without blemish: and that hath not gone after gold, nor put his trust in money nor in treasures. Who is he, and we will praise him? for he hath done wonderful things in his life.
 $Deo gratias
 
@@ -208,7 +208,7 @@ V. The mouth of the righteous speaketh wisdom, alleluia.
 R. And his tongue talketh judgment, alleluia.
 
 [Capitulum Sexta]
-!Sir 39:6
+!Eccl 39:6
 v. The righteous will give his heart to resort early to the Lord that made him, and he will pray in the sight of the most High.
 $Deo gratias
 
@@ -224,7 +224,7 @@ V. The law of his God is in his heart, alleluia.
 R. None of his steps shall slide, alleluia.
 
 [Capitulum Nona]
-!Wis 10:10
+!Sap 10:10
 v. She conducted the just, when he fled from his brother's wrath, through the right ways, and showed him the kingdom of God, and gave him the knowledge of the holy things, made him honourable in his labours, and accomplished his labours.
 $Deo gratias
 

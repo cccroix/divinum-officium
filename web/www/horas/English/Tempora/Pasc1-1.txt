@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 Lesson from the Acts of the Apostles
-!Acts 1:1-8
+!Act 1:1-8
 1 The former treatise I made, O Theophilus, of all things which Jesus began to do and to teach,
 2 Until the day on which, giving commandments by the Holy Ghost to the apostles whom he had chosen, he was taken up.
 3 To whom also he showed himself alive after his passion, by many proofs, for forty days appearing to them, and speaking of the kingdom of God.
@@ -22,7 +22,7 @@ Lesson from the Acts of the Apostles
 @Tempora/Pasc0-2:Responsory1
 
 [Lectio2]
-!Acts 1:9-14
+!Act 1:9-14
 9 And when he had said these things, while they looked on, he was raised up: and a cloud received him out of their sight.
 10 And while they were beholding him going up to heaven, behold two men stood by them in white garments.
 11 Who also said: Ye men of Galilee, why stand you looking up to heaven? This Jesus who is taken up from you into heaven, shall so come, as you have seen him going into heaven.
@@ -34,7 +34,7 @@ Lesson from the Acts of the Apostles
 @Tempora/Pasc0-2:Responsory1
 
 [Lectio3]
-!Acts 1:15-26
+!Act 1:15-26
 15 In those days Peter rising up in the midst of the brethren, said: (now the number of persons together was about an hundred and twenty:)
 16 Men, brethren, the scripture must needs be fulfilled, which the Holy Ghost spoke before by the mouth of David concerning Judas, who was the leader of them that apprehended Jesus:
 17 Who was numbered with us, and had obtained part of this ministry.

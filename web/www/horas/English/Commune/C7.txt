@@ -13,7 +13,7 @@ Come, O My chosen one, * and I will establish My throne in thee. Alleluia;;126
 She is beautiful * among the daughters of Jerusalem;;147
 
 [Capitulum Vespera]
-!Sir 51:1-3
+!Eccl 51:1-3
 v. I will give glory to thee, O Lord, O King, and I will praise thee, O God my~
 Saviour. I will give glory to thy name: for thou hast been a helper and protector to me, and hast preserved my body from destruction
 $Deo gratias.
@@ -169,7 +169,7 @@ R. A woman that feareth God she shall be praised.
 
 [Lectio7]
 From the Holy Gospel according to Matthew
-!Matt 13:44
+!Matth 13:44
 At that time Jesus spake unto His disciples this parable The kingdom of heaven is like unto treasure hid in a field. And so on.
 _
 Homily by Pope St Gregory the Great.
@@ -205,7 +205,7 @@ Come, O My chosen one, * and I will establish My throne in thee. Alleluia.
 She is beautiful * among the daughters of Jerusalem.
 
 [Capitulum Laudes]
-!Sir 51:1-3
+!Eccl 51:1-3
 v. I will give glory to thee, O Lord, O King, and I will praise thee, O God my Saviour. I will give glory to thy name: for thou hast been a helper and protector to me, and hast preserved my body from destruction.
 $Deo gratias.
 
@@ -232,11 +232,11 @@ Grant unto us, we beseech thee, O Lord, our God, that we may ever call to mind, 
 $Per Dominum
 
 [Lectio Prima]
-!Sir 51:8; 51:12
+!Eccl 51:8; 51:12
 v. My soul shall praise the Lord even to death. How thou deliverest them that wait for thee, O Lord, and savest them out of the hands of the nations!
 
 [Capitulum Tertia]
-!Sir 51:1-3
+!Eccl 51:1-3
 v. I will give glory to thee, O Lord, O King, and I will praise thee, O God my Saviour. I will give glory to thy name: for thou hast been a helper and protector to me, and hast preserved my body from destruction.
 $Deo gratias.
 
@@ -252,7 +252,7 @@ V. God shall help her with His countenance.
 R. God is in the midst of her, she shall not be moved.
 
 [Capitulum Sexta]
-!Sir 51:4-5
+!Eccl 51:4-5
 v. And thou hast delivered me, according to the multitude of the mercy of thy name, from them that did roar, prepared to devour. Out of the hands of them that sought my life, and from the gates of afflictions, which compassed me about.
 $Deo gratias.
 
@@ -268,7 +268,7 @@ V. God hath chosen her, and fore-chosen her.
 R. He hath made her to dwell in His tabernacle.
 
 [Capitulum Nona]
-!Sir 51:8; 51:12
+!Eccl 51:8; 51:12
 v. My soul shall praise the Lord even to death. How thou deliverest them that wait for thee, O Lord, and savest them out of the hands of the nations!
 $Deo gratias.
 

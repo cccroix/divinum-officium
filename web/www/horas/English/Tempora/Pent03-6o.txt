@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the first book of Samuel
-!1 Sam 16:1-5
+!1 Reg 16:1-5
 1 And the Lord said to Samuel. How It long wilt thou mourn for Saul, whom I have rejected from reigning over Israel? fill thy horn with oil, and come, that I may send thee to Isai the Bethlehemite: for I have provided me a king among his sons. 
 2 And Samuel said: How shall I go? for Saul will hear of it, and he will kill me. And the Lord said: Thou shalt take with thee a calf of the herd, and thou shalt say: I am come to sacrifice to the Lord. 
 3 And thou shalt call Isai to the sacrifice, and I will show thee what thou art to do, and thou shalt anoint him whom I shall show to thee.
@@ -17,7 +17,7 @@ Lesson from the first book of Samuel
 @Tempora/Pent01-3:Responsory1
 
 [Lectio2]
-!1 Sam 15:6-11
+!1 Reg 15:6-11
 6 And when they were come in, he saw Eliab, and said: Is the Lord's anointed before him? 
 7 And the Lord said to Samuel: Look not on his countenance, nor on the height of his stature: because I have rejected him, nor do I judge according to the look of man: for man seeth those things that appear, but the Lord beholdeth the heart. 
 8 And Isai called Abinadab, and brought him before Samuel. And he said: Neither hath the Lord chosen this. 
@@ -29,7 +29,7 @@ Lesson from the first book of Samuel
 @Tempora/Pent01-3:Responsory2
 
 [Lectio3]
-!1 Sam 16:12-19
+!1 Reg 16:12-19
 12 He sent therefore and brought him Now he was ruddy and beautiful to behold, and of a comely face. And the Lord said: Arise, and anoint him, for this is he. 
 13 Then Samuel took the horn of oil, and anointed him in the midst of his brethren: and the spirit of the Lord came upon David from that day forward: and Samuel rose up, and went to Ramatha. 
 14 But the spirit of the Lord departed from Saul, and an evil spirit from the Lord troubled him. 

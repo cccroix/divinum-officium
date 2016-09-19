@@ -8,14 +8,14 @@ Doxology=Heart
 
 [Lectio1]
 Lesson from the first book of Samuel
-!1 Sam 13:1-4
+!1 Reg 13:1-4
 1 Saul was a child of one year when he began to reign, and he reigned two years over Israel.
 2 And Saul chose him three thousand men of Israel: and two thousand were with Saul in Machmas, and in mount Bethel: and a thousand with Jonathan in Gabaa of Benjamin, and the rest of the people he sent back every man to their dwellings.
 3 And Jonathan smote the garrison of the Philistines which was in Gabaa. And when the Philistines had heard of it, Saul sounded the trumpet over all the land, saying: Let the Hebrews hear.
 4 And all Israel heard this report: Saul hath smitten the garrison of the Philistines: and Israel took courage against the Philistines. And the people were called together after Saul to Galgal.
 
 [Lectio2]
-!1 Sam 13:5-8
+!1 Reg 13:5-8
 5 The Philistines also were assembled to fight against Israel, thirty thousand chariots, and six thousand horsemen, and a multitude of people besides, like the~
 sand on the sea shore for number. And going up they camped in Machmas at the east of Bethaven.
 6 And when the men of Israel saw that they were straitened, (for the people were distressed,) they hid themselves in caves, and in thickets, and in rocks, and in dens, and in pits.
@@ -23,7 +23,7 @@ sand on the sea shore for number. And going up they camped in Machmas at the eas
 8 And he waited seven days according to the appointment of Samuel, and Samuel came not to Galgal, and the people slipt away from him.
 
 [Lectio3]
-!1 Sam 13:9-14
+!1 Reg 13:9-14
 9 Then Saul said: Bring me the holocaust, and the peace offerings. And he offered the holocaust.
 10 And when he had made an end of offering the holocaust, behold Samuel came: and Saul went forth to meet him and salute him.
 11 And Samuel said to him: What hast thou done? Saul answered: Because I saw that the people slipt from me, and thou wast not come according to the days appointed, and the Philistines were gathered together in Machmas,
@@ -43,7 +43,7 @@ To the foregoing we should add that the expiatory passion of Christ is renewed, 
 
 [Lectio7]
 From the Holy Gospel according to John
-!John 19:31-37
+!Joann 19:31-37
 
 At that time : The Jews, because it was the Preparation, that the bodies should not remain upon the cross on the Sabbath Day, for that Sabbath Day was an high day, besought Pilate that their legs might broken, and that they might be taken away. And so on.
 _

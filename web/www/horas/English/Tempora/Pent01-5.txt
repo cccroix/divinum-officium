@@ -11,7 +11,7 @@ Doxology=Corp
 
 [Lectio1]
 Lesson from the first book of Samuel
-!1 Sam 2:27-29
+!1 Reg 2:27-29
 27 And there came a man of God to Heli, and said to him: Thus saith the Lord: Did I not plainly appear to thy father's house, when they were in Egypt in the house of Pharao?
 28 And I chose him out of all the tribes of Israel to be my priest, to go up to my altar, and burn incense to me, and to wear the ephod before me: and I gave to thy father's house of all the sacrifices of the children of Israel.
 29 Why have you kicked away my victims, and my gifts which I commanded to be offered in the temple: and thou hast rather honoured thy sons than me, to eat the firstfruits of every sacrifice of my people Israel?
@@ -20,7 +20,7 @@ Lesson from the first book of Samuel
 @Tempora/Pent01-2:Responsory1
 
 [Lectio2]
-!1 Sam 2:30-33
+!1 Reg 2:30-33
 30 Wherefore thus saith the Lord the God of Israel: I said indeed that thy house,~
 and the house of thy father should minister in my sight, for ever. But now saith the Lord: Far be this from me: but whosoever shall glorify me, him will I glorify: but they that despise me, shall be despised.
 31 Behold the days come: and I will cut off thy arm, and the arm of thy father's house, that there shall not be an old man in thy house.
@@ -31,7 +31,7 @@ and the house of thy father should minister in my sight, for ever. But now saith
 @Tempora/Pent01-2:Responsory2
 
 [Lectio3]
-!1 Sam 2:34-36
+!1 Reg 2:34-36
 34 And this shall be a sign to thee, that shall come upon thy two sons, Ophni and Phinees: In one day they shall both of them die.
 35 And I will raise me up a faithful priest, who shall do according to my heart, and my soul, and I will build him a faithful house, and he shall walk all days before my anointed.
 36 And it shall come to pass, that whosoever shall remain in thy house, shall come that he may be prayed for, and shall offer a piece of silver, and a roll of bread, and shall say: Put me, I beseech thee, to somewhat of the priestly office, that I may eat a morsel of bread.
@@ -52,7 +52,7 @@ And, moreover, to the end that on the aforesaid Thursday, and the seven days nex
 
 [Lectio7]
 From the Holy Gospel according to John
-!John 6:56-59
+!Joann 6:56-59
 At that time, Jesus said unto the multitudes of the Jews: My Flesh is meat indeed and My Blood is drink indeed. And so on.
 _
 Homily by St. Augustine, Bishop of Hippo

@@ -19,7 +19,7 @@ The child shall be great * in the sight of the Lord, for His hand is with him.
 The child shall be called a Nazarite. * He shall drink neither wine nor strong drink, neither shall he eat any unclean thing, even from his mother's womb.
 
 [Capitulum Vespera]
-!Isa 49:1
+!Isai 49:1
 v. Give ear, ye islands, and hearken, ye people from afar. The Lord hath called me from the womb, from the bowels of my mother he hath been mindful of my name.
 $Deo gratias
 
@@ -110,7 +110,7 @@ R. Even of John the Baptist, the Fore-runner of the Lord.
 
 [Lectio1]
 Lesson from the book of Jeremias
-!Jer 1:1-5
+!Jerem 1:1-5
 1 The words of Jeremias the son of Helcias, of the priests that were in Anathoth, in the land of Benjamin.
 2 The word of the Lord which came to him in the days of Josias the son of Amon king of Juda, in the thirteenth year of his reign.
 3 And which came to him in the days of Joakim the son of Josias king of Juda, unto the end of the eleventh year of Sedecias the son of Josias king of Juda, even unto the carrying away of Jerusalem captive, in the fifth month.
@@ -124,7 +124,7 @@ V. John was in the wilderness, preaching the baptism of repentance.
 R. The same came for a witness, to bear witness of the Light, to make ready a people prepared for the Lord.
 
 [Lectio2]
-!Jer 1:6-10
+!Jerem 1:6-10
 6 And I said: Ah, ah, ah, Lord God: behold, I cannot speak, for I am a child.
 7 And the Lord said to me: Say not: I am a child: for thou shalt go to all that I shall send thee: and whatsoever I shall command thee, thou shalt speak.
 8 Be not afraid at their presence: for I am with thee to deliver thee, saith the Lord.
@@ -138,7 +138,7 @@ V. There was a man sent from God, whose name was John.
 R. Who made straight in the desert an highway for the Lord.
 
 [Lectio3]
-!Jer 1:17-19
+!Jerem 1:17-19
 17 Thou therefore gird up thy loins, and arise, and speak to them all that I command thee. Be not afraid at their presence: for I will make thee not to fear their countenance.
 18 For behold I have made thee this day a fortified city, and a pillar of iron, and a wall of brass, over all the land, to the kings of Juda, to the princes thereof, and to the priests, and to the people of the land.
 19 And they shall fight against thee, and shall not prevail: for I am with thee, saith the Lord, to deliver thee.
@@ -184,7 +184,7 @@ R. His name is John.
 
 [Lectio7]
 From the Holy Gospel according to Luke
-!Luke 1:57-69
+!Luc 1:57-69
 Elisabeth's fullness of time came that she should deliver, and she brought forth a son. And her neighbours and her cousins heard how the Lord had showed great mercy upon her, and they rejoiced with her. And so on.
 _
 Homily by St. Ambrose, Bishop of Milan.
@@ -258,7 +258,7 @@ R. For His hand is with him.
 And the mouth of Zacharias was opened, * and he prophesied, saying: Blessed be the Lord God of Israel.
 
 [Lectio Prima]
-!Isa 49:7
+!Isai 49:7
 v. Kings shall see, and princes shall arise, and shall worship the Lord thy God, and the Holy One of Israel that hath chosen thee.
 
 [Capitulum Tertia]
@@ -276,7 +276,7 @@ V. Among them that are born of women there hath not risen a greater.
 R. Than John the Baptist.
 
 [Capitulum Sexta]
-!Isa 49:5-6
+!Isai 49:5-6
 v. And now, saith the Lord that formed me from the womb to be His servant, I have given thee for a light to the Gentiles, that thou mayest be My salvation unto the end of the earth.
 $Deo gratias
 
@@ -292,7 +292,7 @@ V. Elizabeth, the wife of Zacharias, was the mother of a mighty man.
 R. Even of John the Baptist, the Fore-runner of the Lord.
 
 [Capitulum Nona]
-!Isa 49:7
+!Isai 49:7
 v. Kings shall see, and princes shall arise, and shall worship the Lord thy God, and the Holy One of Israel that hath chosen thee.
 $Deo gratias
 

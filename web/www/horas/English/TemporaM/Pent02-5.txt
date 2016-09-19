@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the first book of Samuel
-!1 Sam 8:4-6
+!1 Reg 8:4-6
 4 Then all the ancients of Israel being assembled, came to Samuel to Ramatha.
 5 And they said to him: Behold thou art old, and thy sons walk not in thy ways:~
 make us a king, to judge us, as all nations have.
@@ -17,7 +17,7 @@ us a king, to judge us. And Samuel prayed to the Lord.
 @TemporaM/Pent01-2:Responsory1
 
 [Lectio2]
-!1 Sam 7-9
+!1 Reg 7-9
 7 And the Lord said to Samuel: Hearken to the voice of the people in all that~
 they say to thee. For they have not rejected thee, but me, that I should not~
 reign over them.
@@ -31,7 +31,7 @@ them the right of the king, that shall reign over them.
 @TemporaM/Pent01-2:Responsory2
 
 [Lectio3]
-!1 Sam 10-14
+!1 Reg 10-14
 10 Then Samuel told all the words of the Lord to the people that had desired a~
 king of him,
 11 And said: This will be the right of the king, that shall reign over you: He~

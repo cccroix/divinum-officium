@@ -12,7 +12,7 @@ Doxology=Pasc
 
 [Lectio1]
 Lesson from the first letter of St. Peter the Apostle
-!1 Pet 2:1-5
+!1 Petri 2:1-5
 1 Wherefore laying away all malice, and all guile, and dissimulations, and envies, and all detractions,
 2 As newborn babes, desire the rational milk without guile, that thereby you may grow unto salvation:
 3 If so be you have tasted that the Lord is sweet.
@@ -26,7 +26,7 @@ V. Let them whom He hath redeemed from the hand of the enemy, and gathered them 
 R. Say, Alleluia, Alleluia, Alleluia.
 
 [Lectio2]
-!1 Pet 2:6-10
+!1 Petri 2:6-10
 6 Wherefore it is said in the scripture: Behold, I lay in Sion a chief corner stone, elect, precious. And he that shall believe in him, shall not be confounded.
 7 To you therefore that believe, he is honour: but to them that believe not, the stone which the builders rejected, the same is made the head of the corner:
 8 And a stone of stumbling, and a rock of scandal, to them who stumble at the word, neither do believe, whereunto also they are set.
@@ -40,7 +40,7 @@ V. Give unto the Lord glory and honour, give unto the Lord the glory due unto Hi
 R. Sing unto Him, alleluia.
 
 [Lectio3]
-!1 Pet 2:11-17
+!1 Petri 2:11-17
 11 Dearly beloved, I beseech you as strangers and pilgrims, to refrain yourselves from carnal desires which war against the soul,
 12 Having your conversation good among the Gentiles: that whereas they speak against you as evildoers, they may, by the good works, which they shall behold in you, glorify God in the day of visitation.
 13 Be ye subject therefore to every human creature for God's sake: whether it be to the king as excelling;

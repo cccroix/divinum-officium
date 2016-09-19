@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the book of Isaias
-!Isa 42:1-4
+!Isai 42:1-4
 1 BEHOLD my servant, I will uphold him: my elect, my soul delighteth in him: I~
 have given my spirit upon him, he shall bring forth judgment to the Gentiles.
 2 He shall not cry, nor have respect to person, neither shall his voice be heard~
@@ -20,7 +20,7 @@ the islands shall wait for his law.
 @TemporaM/Adv4-0:Responsory4
 
 [Lectio2]
-!Isa 42:5-7
+!Isai 42:5-7
 5 Thus saith the Lord God that created the heavens, and stretched them out: that~
 established the earth, and the things that spring out of it: that giveth breath~
 to the people upon it, and spirit to them that tread thereon.
@@ -34,7 +34,7 @@ out of prison, and them that sit in darkness out of the prison house.
 @TemporaM/Adv4-0:Responsory5
 
 [Lectio3]
-!Isa 42:10-13
+!Isai 42:10-13
 10 Sing ye to the Lord a new song, his praise is from the ends of the earth: you~
 that go down to the sea, and all that are therein: ye islands, and ye~
 inhabitants of them.

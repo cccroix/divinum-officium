@@ -5,7 +5,7 @@ Feria Secunda infra Hebdomadam Passionis;;Feria major;;2
 
 [Lectio1]
 From the holy Gospel according to John
-!John 7:32-39
+!Joann 7:32-39
 In that time the rulers and Pharisees sent ministers to apprehend him. And so~
 on.
 _
@@ -93,7 +93,7 @@ $Per Dominum.
 
 [LectioE]
 v. Continuation of the Holy Gospel according to John
-!John 7:32-39
+!Joann 7:32-39
 7:32 The Pharisees heard the people murmuring these things concerning him: and the rulers and Pharisees sent ministers to apprehend him.
 7:33 Jesus therefore said to them: Yet a little while I am with you: and then I go to him that sent me.
 7:34 You shall seek me, and shall not find me: and where I am, thither you cannot come.

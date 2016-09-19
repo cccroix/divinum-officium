@@ -1,20 +1,20 @@
 [LectioJudae1]
 Lesson from the letter of St. Jude the Apostle
-!Jude 1:1-4
+!Jud 1:1-4
 1 Jude, the servant of Jesus Christ, and brother of James: to them that are beloved in God the Father, and preserved in Jesus Christ, and called.
 2 Mercy unto you, and peace, and charity be fulfilled.
 3 Dearly beloved, taking all care to write unto you concerning your common salvation, I was under a necessity to write unto you: to beseech you to contend earnestly for the faith once delivered to the saints.
 4 For certain men are secretly entered in, (who were written of long ago unto this judgment,) ungodly men, turning the grace of our Lord God into riotousness, and denying the only sovereign Ruler, and our Lord Jesus Christ.
 
 [LectioJudae2]
-!Jude 1:5-8
+!Jud 1:5-8
 5 I will therefore admonish you, though ye once knew all things, that Jesus, having saved the people out of the land of Egypt, did afterwards destroy them that believed not:
 6 And the angels who kept not their principality, but forsook their own habitation, he hath reserved under darkness in everlasting chains, unto the judgment of the great day.
 7 As Sodom and Gomorrha, and the neighbouring cities, in like manner, having given themselves to fornication, and going after other flesh, were made an example, suffering the punishment of eternal fire.
 8 In like manner these men also defile the flesh, and despise dominion, and blaspheme majesty.
 
 [LectioJudae3]
-!Jude 1:9-13
+!Jud 1:9-13
 9 When Michael the archangel, disputing with the devil, contended about the body of Moses, he durst not bring against him the judgment of railing speech, but said: The Lord command thee.
 10 But these men blaspheme whatever things they know not: and what things soever they naturally know, like dumb beasts, in these they are corrupted.
 11 Woe unto them, for they have gone in the way of Cain: and after the error of Balaam they have for reward poured out themselves, and have perished in the contradiction of Core.
@@ -48,7 +48,7 @@ We have made profession of renouncing the enemy. At the moment of that professio
 
 [Lectio7]
 From the Holy Gospel according to John
-!John 14:15-21
+!Joann 14:15-21
 At that time, Jesus said unto His disciples: If ye love Me, keep My commandments. And I will pray the Father, and He shall give you another Comforter. And so on.
 _
 Homily by St. Augustine, Bishop of Hippo.

@@ -15,7 +15,7 @@ In the multitude of the sorrows * within my heart, thy comforts delight my soul;
 Set me as a seal upon thine heart, * as a seal upon thine arm;;129
 
 [Capitulum Vespera]
-!Isa 12:2
+!Isai 12:2
 v. Behold, God is my savior, I will deal confidently, and will not fear: O because the Lord is my strength, and my praise, and he is become my salvation. You shall draw waters with joy out of the savior's fountains:
 $Deo gratias
 
@@ -116,7 +116,7 @@ R. Our God shall come manifestly.
 
 [Lectio1]
 Lesson from the book of Isaias
-!Isa 12:1-6
+!Isai 12:1-6
 1 And thou shalt say in that day: I will give thanks to thee, O Lord, for thou wast angry with me: thy wrath is turned away, and thou hast comforted me.
 2 Behold, God is my saviour, I will deal confidently, and will not fear: O because the Lord is my strength, and my praise, and he is become my salvation.
 3 You shall draw waters with joy out of the saviour's fountains:
@@ -131,7 +131,7 @@ V. I am the living Bread Which came down from heaven if any man eat of this Brea
 R. This is the Bread Which cometh down from heaven, that a man may eat thereof, and not die.
 
 [Lectio2]
-!Isa 26:1-6
+!Isai 26:1-6
 1 In that day shall this canticle be sung the land of Juda. Sion the city of our strength a saviour, a wall and a bulwark shall be set therein.
 2 Open ye the gates, and let the just nation, that keepeth the truth, enter in.
 3 The old error is passed away: thou wilt keep peace: peace, because we have hoped in thee.
@@ -146,7 +146,7 @@ V. Surely He hath borne our griefs and carried our sorrows.
 R. And with His stripes we are healed.
 
 [Lectio3]
-!Isa 26:7-9
+!Isai 26:7-9
 7 The way of the just is right, the path of the just is right to walk in.
 8 And in the way of thy judgments, O Lord, we have patiently waited for thee: thy name, and thy remembrance are the desire of the soul.
 9 My soul hath desired thee in the night: yea, and with my spirit within me in the morning early I will watch to thee. When thou shalt do thy judgments on the earth, the inhabitants of the world shall learn justice.
@@ -194,7 +194,7 @@ R. And His Wisdom is unsearchable.
 
 [Lectio7]
 From the Holy Gospel according to John
-!John 19:31-17
+!Joann 19:31-17
 At that time The Jews, because it was the Preparation, that the bodies should not remain upon the cross on the Sabbath-day (for that Sabbath was an high day) besought Pilate that their legs might be broken, and that they might be taken away. And so on.
 _
 Homily by St Austin, Bishop of Hippo
@@ -235,7 +235,7 @@ In the multitude of the sorrows * within my heart, thy comforts delight my soul.
 Set me as a seal upon thine heart, * as a seal upon thine arm.
 
 [Capitulum Laudes]
-!Isa 12:2
+!Isai 12:2
 v. Behold, God is my saviour, I will deal confidently, and will not fear: O because the Lord is my strength, and my praise, and he is become my salvation. You shall draw waters with joy out of the saviour's fountains:
 $Deo gratias
 
@@ -283,11 +283,11 @@ Almighty God, grant, we beseech thee, that all we who do make our boast in the m
 $Per eumdem
 
 [Lectio Prima]
-!Isa 12:5-6
+!Isai 12:5-6
 v. Sing ye to the Lord, for he hath done great things: show this forth in all the earth. Rejoice, and praise, O thou habitation of Sion: for great is he that is in the midst of thee, the Holy One of Israel.
 
 [Capitulum Tertia]
-!Isa 12:2
+!Isai 12:2
 v. Behold, God is my saviour, I will deal confidently, and will not fear: O because the Lord is my strength, and my praise, and he is become my salvation. You shall draw waters with joy out of the saviour's fountains:
 $Deo gratias
 
@@ -303,7 +303,7 @@ V. He maketh peace in thy borders.
 R. And filleth thee with the finest of the wheat.
 
 [Capitulum Sexta]
-!Isa 12:4
+!Isai 12:4
 v. And you shall say in that day: Praise ye the Lord, and call upon his name: make his works known among the people: remember that his name is high.
 $Deo gratias
 
@@ -319,7 +319,7 @@ V. O Lord, Thou hast loosed my bonds.
 R. I will offer to thee the sacrifice of thanksgiving.
 
 [Capitulum Nona]
-!Isa 12:5-6
+!Isai 12:5-6
 v. Sing ye to the Lord, for he hath done great things: show this forth in all the earth. Rejoice, and praise, O thou habitation of Sion: for great is he that is in the midst of thee, the Holy One of Israel.
 $Deo gratias
 

@@ -36,7 +36,7 @@ $Qui vivis
 
 [Lectio1]
 Lesson from the book of Isaias
-!Isa 1:1-3
+!Isai 1:1-3
 1 The vision of Isaias the son of Amos I which he saw concerning Juda and~
 Jerusalem in the days of Ozias, Joathan, Achaz, and Ezechias, kings of Juda
 2 Hear, O ye heavens, and give ear, O earth, for the Lord hath spoken. I have~
@@ -63,7 +63,7 @@ covering all the land.
 God's people Israel.
 
 [Lectio2]
-!Isa 1:4-6
+!Isai 1:4-6
 4 Woe to the sinful nation, a people laden with iniquity, a wicked seed,~
 ungracious children: they have forsaken the Lord, they have blasphemed the Holy~
 One of Israel, they are gone away backwards.
@@ -82,7 +82,7 @@ Kingdom that which shall not be destroyed.
 R. And all people, nations, and languages shall serve Him.
 
 [Lectio3]
-!Isa 1:7-9
+!Isai 1:7-9
 7 Your land is desolate, your cities are burnt with fire: your country strangers~
 devour before your face, and it shall be desolate as when wasted by enemies.
 8 And the daughter of Sion shall be left as a covert in a vineyard, and as a~
@@ -166,7 +166,7 @@ R. And deliver us.
 
 [Lectio7]
 From the Holy Gospel according to Luke
-!Luke 21:25-33
+!Luc 21:25-33
 In that time Jesus said to his disciples: And there shall be signs in the sun,~
 and in the moon, and in the stars; and upon the earth distress of nations. And~
 so on.
@@ -273,7 +273,7 @@ conceive in thy womb, and bring forth a son. Alleluia.
 
 [LectioE]
 Continuation of the Holy Gospel according to Luke
-!Luke 21:25-33
+!Luc 21:25-33
 21:25 And there shall be signs in the sun, and in the moon, and in the stars; and upon the earth distress of nations, by reason of the confusion of the roaring of the sea and of the waves;
 21:26 Men withering away for fear, and expectation of what shall come upon the whole world. For the powers of heaven shall be moved;
 21:27 And then they shall see the Son of man coming in a cloud, with great power and majesty.

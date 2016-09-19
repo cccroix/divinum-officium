@@ -15,7 +15,7 @@ $Per Dominum
 
 [Lectio7]
 From the Holy Gospel according to Matthew
-!Matt 9:18-26
+!Matth 9:18-26
 At that time While Jesus spake these things unto the multitudes, behold, there~
 came a certain ruler, and worshipped Him, saying Lord, my daughter is even now~
 dead. And so on.
@@ -69,7 +69,7 @@ R. As incense before thee.
 
 [LectioE]
 Continuation of the Holy Gospel according to Matthew
-!Matt 9:18-26
+!Matth 9:18-26
 9:18 And he was speaking these things unto them, behold a certain ruler came up, and adored him, saying: Lord, my daughter is even now dead; but come, lay thy hand upon her, and she shall live.
 9:19 And Jesus rising up followed him, with his disciples.
 9:20 And behold a woman who was troubled with an issue of blood twelve years, came behind him, and touched the hem of his garment.

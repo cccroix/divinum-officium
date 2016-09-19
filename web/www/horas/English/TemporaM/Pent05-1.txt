@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the second book of Samuel
-!2 Sam 2:1-4
+!2 Reg 2:1-4
 1 And after these things David consulted the Lord, saying: Shall I go up into~
 one of the cities of Juda? And the Lord said to him: Go up. And David said:~
 Whither shall I go up? And he answered him: Into Hebron.
@@ -21,7 +21,7 @@ of Juda.
 @TemporaM/Pent03-1:Responsory1
 
 [Lectio2]
-!2 Sam 2:4-7
+!2 Reg 2:4-7
 4 And it was told David, that the men of Jabes Galaad had buried Saul.
 5 David therefore sent messengers to the men of Jabes Galaad, and said to them:~
 Blessed be you to the Lord, who have shown this mercy to your master Saul, and~
@@ -35,7 +35,7 @@ master Saul be dead, yet the house of Juda hath anointed me to be their king
 @TemporaM/Pent03-1:Responsory2
 
 [Lectio3]
-!2 Sam 2:8-11
+!2 Reg 2:8-11
 8 But Abner the son of Ner, general of Saul's army, took Isboseth the son of~
 Saul, and led him about through the camp?
 9 And made him king over Galaad, and, over Gessuri, and over Jezrahel, and over~

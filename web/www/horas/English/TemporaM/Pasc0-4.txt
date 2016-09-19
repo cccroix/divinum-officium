@@ -11,7 +11,7 @@ Psalmi Dominica;
 
 [Lectio1]
 From the Holy Gospel according to John.
-!John 20:11-18
+!Joann 20:11-18
 At that time: But Mary stood at the sepulchre without, weeping. Now as she was~
 weeping, she stooped down, and looked into the sepulchre, And follows.
 _
@@ -89,7 +89,7 @@ thou have borne Him hence, tell me, Alleluia, and I will take Him away. Alleluia
 
 [LectioE]
 v. Continuation of the Holy Gospel according to John
-!John 20:11-18
+!Joann 20:11-18
 20:11 But Mary stood at the sepulchre without, weeping. Now as she was weeping, she stooped down, and looked into the sepulchre,
 20:12 And she saw two angels in white, sitting, one at the head, and one at the feet, where the body of Jesus had been laid.
 20:13 They say to her: Woman, why weepest thou? She saith to them: Because they have taken away my Lord; and I know not where they have laid him.

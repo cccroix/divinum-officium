@@ -1,6 +1,6 @@
 [Lectio1]
 Lesson from the book of Ecclesiasticus
-!Sir 1:22-26
+!Eccl 1:22-26
 22 The fear of the Lord is a crown of wisdom, filling up peace and the fruit of salvation:
 23 And it hath seen, and numbered her: but both are the gifts of God.
 24 Wisdom shall distribute knowledge, and understanding of prudence: and exalteth the glory of them that hold her.
@@ -11,7 +11,7 @@ Lesson from the book of Ecclesiasticus
 @Tempora/081-1:Responsory1
 
 [Lectio2]
-!Sir 1:27-33
+!Eccl 1:27-33
 27 The fear of the Lord driveth out sin:
 28 For he that is without fear, cannot be justified: for the wrath of his high spirits is his ruin.
 29 A patient man shall bear for a time, and afterwards joy shall be restored to him.
@@ -24,7 +24,7 @@ Lesson from the book of Ecclesiasticus
 @Tempora/081-1:Responsory2
 
 [Lectio3]
-!Sir 1:34-40
+!Eccl 1:34-40
 34 For the fear of the Lord is wisdom and discipline: and that which is agreeable to him,
 35 Is faith, and meekness: and he will fill up his treasures.
 36 Be not incredulous to the fear of the Lord: and come not to him with a double heart.

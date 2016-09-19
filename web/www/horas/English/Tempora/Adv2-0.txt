@@ -29,7 +29,7 @@ $Qui tecum
 
 [Lectio1]
 Lesson from the book of Isaias
-!Isa 11:1-4
+!Isai 11:1-4
 1 And there shall come forth a rod out of the root of Jesse, and a flower shall rise up out of his root.
 2 And the spirit of the Lord shall rest upon him: the spirit of wisdom, and of understanding, the spirit of counsel, and of fortitude, the spirit of knowledge, and of godliness.
 3 And he shall be filled with the spirit of the fear of the Lord. He shall not judge according to the sight of the eyes, nor reprove according to the hearing of the ears.
@@ -42,7 +42,7 @@ V. For I am the Lord, thy God, the Holy One of Israel, thy Saviour.
 R. Fear not, for I will save thee, and deliver thee.
 
 [Lectio2]
-!Isa 11:4-7
+!Isai 11:4-7
 4 And he shall strike the earth with the rod of his mouth, and with the breath of his lips he shall slay the wicked.
 5 And justice shall be the girdle of his loins: and faith the girdle of his reins.
 6 The wolf shall dwell with the lamb: and the leopard shall lie down with the kid: the calf and the lion, and the sheep shall abide together, and a little child shall lead them.
@@ -55,7 +55,7 @@ V. Behold, the Lord cometh with an host, and in His hand are the kingdom, and po
 R. Over all the earth.
 
 [Lectio3]
-!Isa 11:8-10
+!Isai 11:8-10
 8 And the sucking child shall play on the hole of the asp: and the weaned child shall thrust his hand into the den of the basilisk.
 9 They shall not hurt, nor shall they kill in all my holy mountain, for the earth is filled with the knowledge of the Lord, as the covering waters of the sea.
 10 In that day the root of Jesse, who standeth for an ensign of the people, him the Gentiles shall beseech, and his sepulchre shall be glorious.
@@ -101,7 +101,7 @@ R. For thy Saviour cometh from the midst of the nations.
 
 [Lectio7]
 From the Holy Gospel according to Matthew
-!Matt 11:2-10
+!Matth 11:2-10
 In that time, when John had heard in prison the works of Christ: sending two of his disciples he said to him: Art thou he that art to come, or look we for another? And so on.
 _
 Homily by Pope St. Gregory (the Great.)

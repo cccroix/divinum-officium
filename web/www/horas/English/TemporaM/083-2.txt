@@ -1,6 +1,6 @@
 [Lectio1]
 From the Book of Wisdom
-! Wis 6:1-5
+!Sap 6:1-5
 1 Wisdom is better than strength, and a wise man is better than a strong man.
 2 Hear therefore, ye kings, and understand: learn, ye that are judges of the~
 ends of the earth.
@@ -15,7 +15,7 @@ the law of justice, nor walked according to the will of God.
 @TemporaM/081-2:Responsory1
 
 [Lectio2]
-!Wis 6:6-9
+!Sap 6:6-9
 6 Horribly and speedily will he appear to you: for a most severe judgment shall~
 be for them that bear rule.
 7 For to him that is little, mercy is granted: but the mighty shall be mightily~
@@ -29,7 +29,7 @@ of all.
 @TemporaM/081-0:Responsory5
 
 [Lectio3]
-!Wis 6:10-13
+!Sap 6:10-13
 10 To you, therefore, O kings, are these my words, that you may learn wisdom,~
 and not fall from it.
 11 For they that have kept just things justly, shall be justified: and they that~

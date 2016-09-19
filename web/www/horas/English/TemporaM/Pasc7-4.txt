@@ -28,7 +28,7 @@ There appeared unto the Apostles cloven tongues, like as of fire And the Holy Gh
 
 [Lectio1]
 From the Holy Gospel according to Luke 
-!Luke 9:1-6 
+!Luc 9:1-6 
 At that time: Jesus called His;~
 twelve disciples together, and gave them power and authority ovei all devils,~
 and to cure diseases. And so on.
@@ -102,7 +102,7 @@ to whom shall we go Thou hast the words of eternal life, and we believe."~
 @TemporaM/Pasc7-3:Responsory3
 
 [MM Capitulum]
-!Acts 2:2
+!Act 2:2
 And suddenly there came a sound from heaven, as of a mighty wind coming, and it filled the whole house where they were sitting. 
 _
 V. The Apostle spake in divers tongues Alleluia.
@@ -127,7 +127,7 @@ Alleluia.
 
 [LectioE]
 v. Continuation of the Holy Gospel according to Luke
-!Luke 9:1-6 
+!Luc 9:1-6 
 9:1 THEN calling together the twelve apostles, he gave them power and authority over all devils, and to cure diseases.
 9:2 And he sent them to preach the kingdom of God, and to heal the sick.
 9:3 And he said to them: Take nothing for your journey; neither staff, nor scrip, nor bread, nor money; neither have two coats.

@@ -20,7 +20,7 @@ The Lord shall give unto Him the throne of His father David, and of His kingdom 
 Behold the handmaid of the Lord, * be it unto me according to thy word. (Alleluia.);;147
 
 [Capitulum Vespera]
-!Isa 7:14-15
+!Isai 7:14-15
 v. Behold a virgin shall conceive, and bear a son, and his name shall be called~
 Emmanuel. He shall eat butter and honey, that he may know to refuse the evil, and~
 to choose the good.
@@ -49,7 +49,7 @@ The Angel of the Lord * announced unto Mary, and she conceived of the Holy Spiri
 
 [Lectio1]
 Lesson from the book of Isaias
-!Isa 7:10-15
+!Isai 7:10-15
 10 And the Lord spoke again to Achaz, saying:
 11 Ask thee a sign of the Lord thy God either unto the depth of hell, or unto~
 the height above.
@@ -73,7 +73,7 @@ R. Behold, thou shalt conceive and bring forth a son, and He shall be called the
 Son of the Highest. (Alleluia.)
 
 [Lectio2]
-!Isa 11:1-5
+!Isai 11:1-5
 1 And there shall come forth a rod out of the root of Jesse, and a flower shall~
 rise up out of his root.
 2 And the spirit of the Lord shall rest upon him: the spirit of wisdom, and of~
@@ -100,7 +100,7 @@ overshadow thee; therefore also that Holy Thing Which shall be born of thee~
 shall be called the Son of God. (Alleluia.)
 
 [Lectio3]
-!Isa 35:1-7
+!Isai 35:1-7
 1 The land that was desolate and impassable shall be glad, and the wilderness~
 shall rejoice, and shall flourish like the lily.
 2 It shall bud forth and blossom, and shall rejoice with joy and praise: the~
@@ -188,7 +188,7 @@ R. For thou hast borne in thy breast Him Whom the heavens cannot contain. (Allel
 
 [Lectio7]
 From the Holy Gospel according to Luke
-!Luke 1:26-38
+!Luc 1:26-38
 At that time the angel Gabriel was sent from God into a city of Galilee, called~
 Nazareth, To a virgin espoused to a man whose name was Joseph, of the house of~
 David; and the virgin's name was Mary. And so on.
@@ -258,7 +258,7 @@ The Lord shall give unto Him the throne of His father David, and of His kingdom 
 Behold the handmaid of the Lord, * be it unto me according to thy word. (Alleluia.)
 
 [Capitulum Laudes]
-!Isa 7:14-15
+!Isai 7:14-15
 v. Behold a virgin shall conceive, and bear a son, and his name shall be called~
 Emmanuel. He shall eat butter and honey, that he may know to refuse the evil, and~
 to choose the good.
@@ -274,25 +274,25 @@ Mary the Holy Ghost shall come upon thee, and the power of the Highest shall~
 overshadow thee. (Alleluia.)
 
 [Lectio Prima]
-!Isa 11:1-2
+!Isai 11:1-2
 v. And there shall come forth a rod out of the root of Jesse, and a flower shall~
 rise up out of his root. And the spirit of the Lord shall rest upon him.
 
 [Capitulum Tertia]
-!Isa 7:14-15
+!Isai 7:14-15
 v. Behold a virgin shall conceive, and bear a son, and his name shall be called~
 Emmanuel. He shall eat butter and honey, that he may know to refuse the evil, and~
 to choose the good.
 $Deo gratias
 
 [Capitulum Sexta]
-!Luke 1:32-33
+!Luc 1:32-33
 v. The Lord God shall give unto him the throne of David his father; and he shall~
 reign in the house of Jacob for ever. And of his kingdom there shall be no end.
 $Deo gratias
 
 [Capitulum Nona]
-!Isa 11:1-2
+!Isai 11:1-2
 v. And there shall come forth a rod out of the root of Jesse, and a flower shall~
 rise up out of his root. And the spirit of the Lord shall rest upon him.
 $Deo gratias

@@ -1,6 +1,6 @@
 [Lectio1]
 Lesson from the book of Esther
-!Esth  6:1-5
+!Esth 6:1-5
 1  That night the king passed without sleep, and he commanded the histories and chronicles of former times to be brought him. And when they were reading them before him,
 2  They came to that place where it was written, how Mardochai had discovered the treason of Bagathan and Thares the eunuchs, who sought to kill king Assuerus.
 3  And when the king heard this, he said: What honour and reward hath Mardochai received for this fidelity? His servants and ministers said to him: He hath received no reward at all.

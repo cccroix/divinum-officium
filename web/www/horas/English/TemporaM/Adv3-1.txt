@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the book of Isaias
-!Isa 28:1-3
+!Isai 28:1-3
 1 WOE to the crown of pride, to the drunkards of Ephraim, and to the fading~
 flower the glory of his joy, who were on the head of the fat valley, staggering~
 with wine.
@@ -19,7 +19,7 @@ spacious land.
 @TemporaM/Adv3-0:Responsory1
 
 [Lectio2]
-!Isa 28:4-7
+!Isai 28:4-7
 4 And the fading flower the glory of his joy, who is on the head of the fat~
 valley, shall be as a hasty fruit before the ripeness of autumn: which when he~
 that seeth it shall behold, as soon as he taketh it in his hand, he will eat it~
@@ -37,7 +37,7 @@ known him that seeth, they have been ignorant of judgment.
 @TemporaM/Adv3-0:Responsory2
 
 [Lectio3]
-!Isa 28:16-18
+!Isai 28:16-18
 16 Therefore thus saith the Lord God: Behold I will lay a stone in the~
 foundations of Sion, a tried stone, a corner stone, a precious stone, founded in~
 the foundation. He that believeth, let him not hasten.
