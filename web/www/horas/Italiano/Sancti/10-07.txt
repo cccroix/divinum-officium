@@ -23,7 +23,7 @@ Ti ha benedetta il Signore * colla sua potenza, perché per te ha annientato i n
 La videro * le figlie di Sion germogliare tra i fiori di rose, e l'acclamarono beatissima.;;147
 
 [Capitulum Vespera]
-!Sir 24:25;39:17
+!Eccl 24:25;39:17
 v. In me è tutta la grazia della via e della verità, in me tutta la speranza della vita e della virtù. Io germogliai come rosa piantata in riva alle acque.
 $Deo gratias
 
@@ -138,7 +138,7 @@ R. Nelle tue delizie, o santa Madre di Dio.
 
 [Lectio1]
 Dal libro dell'Ecclesiastico.
-!Sir 24:11-16
+!Eccl 24:11-16
 11 Cercai per tutto un luogo di riposo, e ho scelto di abitare nei domini del Signore. 
 12 Allora il Creatore di tutte le cose diede ordini e mi parlò, e, colui che m'ha creata, riposò nel mio tabernacolo, 
 13 e mi disse: Abita in Giacobbe, sia in Israele la tua eredità, e fra i miei eletti metti le (tue) radici. 
@@ -153,7 +153,7 @@ V. Cantatele un cantico nuovo: annunziate fra le genti la sua gloria.
 R. Esultate nella Vergine nostro aiuto.
 
 [Lectio2]
-!Sir 24:17-22
+!Eccl 24:17-22
 17 Mi elevai come il cedro sul Libano, e come il cipresso sul monte di Sion: 
 18 mi elevai come la palma in Cades, e come 1a pianta di rose in Gerico: 
 19 m'innalzai come un bell'olivo nei campi, e come un platano nelle piazze presso l'acque. 
@@ -168,7 +168,7 @@ V. Sta la Regina alla tua destra in veste d'oro, ravvolta in variopinto abbiglia
 R. E come nel tempo di primavera la circondavano i fiori delle rose e í gigli delle valli.
 
 [Lectio3]
-!Sir 24:24-31
+!Eccl 24:24-31
 24 Io sono la madre del bell'amore, e dei timore, e della scienza, e della santa speranza. 
 25 In me c'è tutta la grazia della via e della verità, in me tutta la speranza della vita e della virtù. 
 26 Venite a me tutti voi che mi desiderate, e saziatevi dei miei frutti; 
@@ -253,7 +253,7 @@ Lo Spirito del Signore * ha riempito l'orbe terrestre.
 È stata esaltata * la Vergine Maria sui cori degli Angeli, e sulla sua testa splende una corona di dodici stelle.
 
 [Capitulum Laudes]
-!Sir 24:25; 39:17
+!Eccl 24:25; 39:17
 v. In me è tutta la grazia della via e della verità, in me tutta la speranza della vita e della virtù. Io germogliai come rosa piantata in riva alle acque.
 $Deo gratias
 
@@ -297,11 +297,11 @@ R. E l'ha fatta abitare nella sua dimora.
 Celebriamo quest'oggi * con devozione la solennità dei sacratissimo Rosario della Madre di Dio Maria, affinch'ella interceda per noi presso il Signore Gesù Cristo.
 
 [Lectio Prima]
-!Sir 24:17-18
+!Eccl 24:17-18
 v. Mi elevai come il cedro in sul Libano, e come il cipresso sul monte di Sion: mi elevai come la palma in Cades, e come la pianta di rosa in Gerico.
 
 [Capitulum Tertia]
-!Sir 24:25; 39:17
+!Eccl 24:25; 39:17
 v. In me è tutta la grazia della via e della verità, in me tutta la speranza della vita e della virtù. Io germogliai come rosa piantata in riva alle acque.
 $Deo gratias
 
@@ -317,7 +317,7 @@ V. Dopo il parto, o Vergine, sei rimasta intatta.
 R. Madre di Dio, intercedi per noi.
 
 [Capitulum Sexta]
-!Sir 39:19
+!Eccl 39:19
 v. Fate fiori come giglio e spandete odore e frondeggiate per attirarvi grazia; intonate un cantico e benedite il Signore per le opere sue.
 $Deo gratias
 
@@ -333,7 +333,7 @@ V. Bella sei tu e soave.
 R. Nelle tue delizie, o santa Madre di Dio.
 
 [Capitulum Nona]
-!Sir 24:17-18
+!Eccl 24:17-18
 v. Mi elevai come il cedro in sul Libano, e come il cipresso sul monte di Sion: mi elevai come la palma in Cades, e come la pianta di rosa in Gerico.
 $Deo gratias
 

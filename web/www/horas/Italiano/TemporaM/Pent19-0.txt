@@ -13,7 +13,7 @@ $Per Dominum
 
 [Lectio7]
 Lettura del santo Vangelo secondo Matteo
-!Matt 22:1-14
+!Matth 22:1-14
 In quell'occasione: Gesù parlava ai capi sacerdoti e ai farisei in parabole dicendo : Il regno dei deli è simile ad un re, che celebrava le nozze del suo figlio. Eccetera.
 _
 Omelia di san Gregorio Papa
@@ -41,7 +41,7 @@ Or il Re entrò * per vedere quelli che erano a tavola, e ci trovò un uomo che 
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Matteo
-!Matt 22:1-14
+!Matth 22:1-14
 22:1 In quel tempo: Gesú parlava ai príncipi dei sacerdoti e ai Farisei con parabole, dicendo: 
 22:2 Il regno dei cieli è simile a un re, il quale celebrò le nozze del suo figlio: 
 22:3 egli mandò i suoi vervitori a chiamare gli invitati alle nozze; ma questi non volevano andare. 
@@ -55,7 +55,7 @@ v. Lettura del santo Vangelo secondo Matteo
 22:12 E gli disse: Amico, come sei entrato qua, non avendo la veste nuziale? Ma quegli ammutolí.  
 22:13 Allora il re disse ai suoi ministri: Legatelo mani e piedi, e gettatelo nelle tenebre esteriori: ivi sarà pianto e stridore di denti. 
 22:14 Poiché molti sono i chiamati, e pochi gli eletti.
-!Matt 22:1-14
+!Matth 22:1-14
 22:1 Et respondens Jesus, dixit iterum in parabolis eis, dicens:
 22:2 Simile factum est regnum caelorum homini regi, qui fecit nuptias filio suo.
 22:3 Et misit servos suos vocare invitatos ad nuptias, et nolebant venire.

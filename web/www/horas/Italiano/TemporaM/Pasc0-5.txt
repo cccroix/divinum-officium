@@ -11,7 +11,7 @@ Psalmi Dominica;
 
 [Lectio1]
 Lettura del santo Vangelo secondo Matteo
-!Matt 28:16-20.
+!Matth 28:16-20.
 In quell'occasione: Gli undici discepoli andarono in Galilea sul monte che Gesù aveva loro designato. Eccetera.
 _
 Omelia di san Girolamo Prete
@@ -51,7 +51,7 @@ Mi è stato dato * ogni potere in cielo e in terra, alleluia.
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Matteo
-!Matt 28:16-20.
+!Matth 28:16-20.
 28:16 Ma gli undici discepoli andaron nella Galilea al monte assegnato loro da Gesù.
 28:17 E vedutolo lo adorarono : alcuni però dubitarono. 
 28:18 Ma Gesù accostatosi parlò loro dicendo : È stata data a me tutta la potestà in cielo e in terra.

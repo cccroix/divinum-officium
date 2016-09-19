@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 Dagli Atti degli Apostoli.
-!Atti 8:9-13
+!Act 8:9-13
 9 Ma stava già da tempo in quella città un tale, chiamato Simone, che esercitava la magia e seduceva la gente di Samaria spacciandosi per qualche cosa di grosso: 
 10 e tutti lo ascoltavano, dal più piccolo al più grande, e dicevano: Costui è la gran potenza di Dio. 
 11 E gli davano retta da molto tempo, perché li aveva ammaliati colle sue magie. 
@@ -19,7 +19,7 @@ Dagli Atti degli Apostoli.
 @TemporaM/Pasc0-3:Responsory2
 
 [Lectio2]
-!Atti 8:14-19
+!Act 8:14-19
 14 Ora gli Apostoli, che erano in Gerusalemme, avendo udito che la Samaria aveva accolto la parola di Dio, vi mandarono Pietro e Giovanni. 
 15 I quali, arrivati, pregarono per loro, affinché ricevessero lo Spirito Santo: 
 16 poiché non era ancora disceso su alcuno di essi, ma erano stati soltanto battezzati nel nome del Signore Gesù. 
@@ -31,7 +31,7 @@ Dagli Atti degli Apostoli.
 @TemporaM/Pasc0-5:Responsory1
 
 [Lectio3]
-!Atti 8:19-24
+!Act 8:19-24
 19 Ma Pietro gli disse: 
 20 Alla malora tu e il tuo denaro: perché hai creduto di comprare con denaro il dono di Dio. 
 21 Tu non hai parte né sorte in questo. Perché il tuo cuore non è retto dinanzi a Dio. 

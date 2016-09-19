@@ -20,7 +20,7 @@ Angeli, Arcangeli, * Troni e Dominazioni, Principati e Potestà, Virtù celesti,
 
 
 [Capitulum Vespera]
-!Apoc. 1:1-2
+!Apoc 1:1-2
 v. Iddio fece conoscere le cose che devono accadere tra breve, mandando il suo Angelo al suo servo Giovanni, che ha attestato la parola di Dio, e reso testimonianza di Gesù Cristo in tutto ciò che ha visto.
 $Deo gratias
 
@@ -164,7 +164,7 @@ R. Poiché verrà tempo, quale non fu mai, dacché cominciarono ad esistere le n
 
 [Lectio7]
 Lettura del santo Vangelo secondo Matteo
-!Matt 18:1-10
+!Matth 18:1-10
 In quell'occasione: S'accostarono a Gesù i discepoli, e gli dissero: Chi, secondo te, è il più grande nel regno dei cieli? Eccetera.
 _
 Omelia di sant'Ilario Vescovo
@@ -200,7 +200,7 @@ Angeli del Signore, * benedite il Signore in eterno. (Alleluia.)
 Angeli, Arcangeli, * Troni e Dominazioni, Principati e Potestà, Virtù celesti, lodate il Signore dai cieli. (Alleluia.)
 
 [Capitulum Laudes]
-!Apoc. 1:1-2
+!Apoc 1:1-2
 v. Iddio fece conoscere le cose che devono accadere tra breve, mandando il suo Angelo al suo servo Giovanni, che ha attestato la parola di Dio, e reso testimonianza di Gesù Cristo in tutto ciò che ha visto.
 $Deo gratias
 
@@ -244,11 +244,11 @@ R. Tenendo un turibolo d'oro nella sua mano. (Alleluia.)
 Si fe' * silenzio in cielo mentre il dragone combatteva; anche Michele combatté contro di lui, e riportò vittoria. Alleluia.
 
 [Lectio Prima]
-!Apoc. 12:7-8
+!Apoc 12:7-8
 v. E ci fu in cielo una gran battaglia: Michele coi suoi Angeli combattevano contro il dragone, e anche il dragone e i suoi angeli combattevano: ma non la vinsero, né ci fu più luogo per essi nel cielo.
 
 [Capitulum Tertia]
-!Apoc. 1:1-2
+!Apoc 1:1-2
 v. Iddio fece conoscere le cose che devono accadere tra breve, mandando il suo Angelo al suo servo Giovanni, che ha attestato la parola di Dio, e reso testimonianza di Gesù Cristo in tutto ciò che ha visto.
 $Deo gratias
 
@@ -264,7 +264,7 @@ V. Salì il fumo degli aromi nel cospetto del Signore, alleluia.
 R. Dalla mano dell'Angelo, alleluia.
 
 [Capitulum Sexta]
-!Apoc. 5:11-12
+!Apoc 5:11-12
 v. Udii la voce di molti Angeli intorno al trono, e agli animali e ai seniori; e il numero di essi era migliaia di migliaia, che dicevano ad alta voce: Salve al nostro Dio.
 $Deo gratias
 
@@ -280,7 +280,7 @@ V. Al cospetto degli Angeli salmeggerò a te, Dio mio, alleluia.
 R. Adorerò nel tuo santo tempio, e celebrerò il tuo nome, alleluia.
 
 [Capitulum Nona]
-!Apoc. 12:7-8
+!Apoc 12:7-8
 v. E ci fu in cielo una gran battaglia: Michele coi suoi Angeli combattevano contro il dragone, e anche il dragone e i suoi angeli combattevano: ma non la vinsero, né ci fu più luogo per essi nel cielo.
 $Deo gratias
 

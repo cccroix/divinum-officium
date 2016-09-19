@@ -11,7 +11,7 @@ Psalmi Dominica;
 
 [Lectio1]
 Lettura del santo Vangelo secondo Giovanni
-!Gio 20:11-18
+!Joann 20:11-18
 In quell'occasione: Maria se ne stava di fuori presso il sepolcro piangendo. Or mentre piangeva, si chinò per guardare dentro al sepolcro: e vide due Angeli vestiti di bianco, seduti. Eccetera.
 _
 Omelia di san Gregorio Papa
@@ -51,7 +51,7 @@ Han portato via il mio Signore, * e non so dove lo hanno posto: se sei tu che l'
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Giovanni
-!Gio 20:11-18
+!Joann 20:11-18
 20:11 Maria però stava fuori del monumento piangendo. Mentre però piangeva, s'affacciò al monumento :
 20:12 e vide due Angeli vestiti di bianco seduti l'uno al capo, l'altro al piedi, dove era posto il corpo di Gesù.
 20:13 Ed essi le dissero : Donna, perchè piangi?  Rispose loro : Perchè hanno portato via il mio Signore : e non so dove l'hanno messo.

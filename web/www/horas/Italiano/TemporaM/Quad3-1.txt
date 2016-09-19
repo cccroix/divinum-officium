@@ -5,7 +5,7 @@ Feria Secunda infra Hebdomadam III in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Lettura del santo Vangelo secondo Luca
-!Luca 4:23-30
+!Luc 4:23-30
  In quell'occasione: Gesù disse ai farisei: Certo, voi mi opponete quel proverbio: «Medico, cura te stesso; fa anche qui nella tua patria, quanto abbiamo udito essere avvenuto in Cafarnao». Eccetera.
 _
 Omelia di sant'Ambrogio Vescovo
@@ -54,7 +54,7 @@ $Per Dominum
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Luca
-!Luca 4:23-30
+!Luc 4:23-30
 4:23 E ai disse loro : Certo che voi direte a me quel proverbio : Medico, cura te stesso : tutte quelle cose che abbiamo udito essere state fatte in Cafarnao falle anche qui nella tua patria.
 4:24 Disse egli però : In verità vi dico che nessun profeta è gradito nella sua patria.
 4:25 In verità vi dico che molte vedove erano in Israele al tempo di Elia, quando il cielo stette chiuso per tre anni e sei mesi, e fu carestia grande per tutta la terra :      

@@ -1,6 +1,6 @@
 [Lectio1]
 Dal libro di Giuditta
-!Jdt 12:10-13
+!Judith 12:10-13
 10 Or il quarto giorno Oloferne diede una cena ai suoi ministri, e disse a Vagao suo eunuco: Va a persuadere quell'Ebrea che consenta spontaneamente di coabitare con me. 
 11 Poiché è vergognoso tra gli Assiri che una donna si burli d'un uomo facendo in guisa che se ne parta da lui senza averlo accontentato. 
 12 Allora Vagao andò da Giuditta e le disse: Non abbia ritrosia la buona fanciulla di venire dal signor mio per essere onorata da lui e per mangiare con lui e bere del vino allegramente. 
@@ -10,7 +10,7 @@ Dal libro di Giuditta
 @Tempora/094-0:Responsory1
 
 [Lectio2]
-!Jdt 13:1-7
+!Judith 13:1-7
 1 Come poi si fece sera, i suoi ministri si affrettarono ai loro alloggi; e .Vagao chiuse le porte della camera e se n'andò. 
 2 Erano tutti oppressi dal vino; 
 3 e Giuditta era sola nella camera. 
@@ -23,7 +23,7 @@ Dal libro di Giuditta
 @Tempora/093-0:Responsory7
 
 [Lectio3]
-!Jdt 13:8-11
+!Judith 13:8-11
 8 Ciò detto, s'accostò alla colonna ch'era a capo del letto di lui, e ne staccò il pugnale che vi stava appeso. 
 9 E, sguainatolo, prese la chioma della sua testa, e disse: Dammi coraggio, o Signore Dio, in questo momento. 
 10 E gli diede due colpi sul collo, ne troncò la testa, staccò la cortina che era fra le colonne e gettò per terra il tronco busto. 

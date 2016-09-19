@@ -22,7 +22,7 @@ A Damasco, il governatore * del paese del re Areta volle arrestarmi: ma dai frat
 Tre volte fui battuto con verghe, * una volta fui lapidato, tre volte feci naufragio per il nome di Cristo.;;116
 
 [Capitulum Vespera]
-!2. Tim 4:7-8
+!2 Tim 4:7-8
 v. Ho combattuto la buona battaglia, ho terminato il corso, ho conservato la fede. Perciò m'è riserbata la corona di giustizia che il Signore mi darà in quel giorno da giusto giudice.
 $Deo gratias
 
@@ -64,7 +64,7 @@ R. Assai grande è divenuto il loro potere.
 
 [Lectio1]
 Dagli Atti degli Apostoli
-!Atti 13:1-4
+!Act 13:1-4
 1 C'erano nella Chiesa d'Antiochia dei profeti e dottori; tra i quali Barnaba, Simone, chiamato il Nero, Lucio di Cirene, Manaen, fratello di latte del tetrarca Erode, e Saulo. 
 2 Or mentre essi attendevano al servizio del Signore e digiunavano, disse loro lo Spirito Santo: Segregatemi Saulo e Barnaba per l'opera alla quale li ho destinati. 
 3 Allora, dopo d'aver digiunato e pregato, imposero loro le mani, e li accomiatarono. 
@@ -77,7 +77,7 @@ V. La grazia di Dio in me non è stata vana, anzi la sua grazia dura sempre in m
 R. Ed essi hanno riconosciuto la grazia che mi è stata accordata da Dio.
 
 [Lectio2]
-!Atti 13:5-8
+!Act 13:5-8
 5 E giunti a Salamina, annunziarono la parola di Dio nelle sinagoghe dei Giudei; e avevano anche Giovanni per aiuto.
 6 Or avendo scorsa tutta l'isola sino a Pafo, trovarono un certo uomo mago e falso profeta Giudeo, per nome Bar-Jesu,
 7 il quale era col proconsole Sergio Paolo, uomo prudente. Costui, chiamati a sé Barnaba e Saulo, desiderava ascoltare la parola di Dio.
@@ -90,7 +90,7 @@ V. So in chi ho riposto la mia fiducia; e son certo ch'egli è potente da conser
 R. Perciò m'è riserbata la corona di giustizia.
 
 [Lectio3]
-!Atti 13:9-13
+!Act 13:9-13
 9 Ma Saulo, che si chiama anche Paolo, ripieno di Spirito Santo, mirando fisso colui,
 10 disse: O tu che sei pieno d'ogni frode e d'ogni malizia, figlio del diavolo, nemico d'ogni giustizia, tu non finisci mai di sovvertire le vie diritte del Signore? 
 11 Or ecco la mano del Signore è su di te, e sarai cieco senza vedere il sole, per un certo tempo. E subito cadde su di lui una tenebrosa caligine, e, brancolando, cercava chi lo menasse per mano.
@@ -144,7 +144,7 @@ Vediamo che cosa dica l'Apostolo Paolo, che abbiamo visto ricevere certamente se
 
 [Lectio7]
 Lettura del santo Vangelo secondo Matteo
-!Matt 10:16-22
+!Matth 10:16-22
 In quell'occasione: Gesù disse ai suoi discepoli: Ecco, io vi mando come pecore in mezzo ai lupi. Eccetera.
 _
 Omelia di san Giovanni Crisostomo
@@ -180,7 +180,7 @@ A Damasco, il governatore * del paese del re Areta volle arrestarmi: ma dai frat
 Tre volte fui battuto con verghe, * una volta fui lapidato, tre volte feci naufragio per il nome di Cristo.
 
 [Capitulum Laudes]
-!2. Tim 4:7-8
+!2 Tim 4:7-8
 v. Ho combattuto la buona battaglia, ho terminato il corso, ho conservato la fede. Perciò m'è riserbata la corona di giustizia che il Signore mi darà in quel giorno da giusto giudice.
 $Deo gratias
 
@@ -211,7 +211,7 @@ _
 v. Io poi sono l'ultimo degli Apostoli, che non sono degno di esser chiamato Apostolo, poiché perseguitai la Chiesa di Dio. È per la grazia di Dio che sono quello che sono, e la sua grazia in me non è stata vana.
 
 [Capitulum Tertia]
-!2. Tim 4:7-8
+!2 Tim 4:7-8
 v. Ho combattuto la buona battaglia, ho terminato il corso, ho conservato la fede. Perciò m'è riserbata la corona di giustizia che il Signore mi darà in quel giorno da giusto giudice.
 $Deo gratias
 
@@ -227,7 +227,7 @@ V. Tu li costituirai principi su tutta la terra.
 R. Essi ricorderanno il tuo nome, o Signore.
 
 [Capitulum Sexta]
-!2. Cor. 12:7-9
+!2 Cor 12:7-9
 v. Affinché la grandezza delle rivelazioni non mi facesse inorgoglire, mi è stato messo uno stimolo nella mia carne, un messo di satana che mi schiaffeggiasse: a riguardo di costui pregai tre volte il Signore perché lo allontanasse da me, ed egli mi disse: Ti basti la mia grazia.
 $Deo gratias
 

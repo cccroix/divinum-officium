@@ -17,7 +17,7 @@ A Damasco * il governatore del paese del re Areta voleva arrestarmi: ma dai frat
 Tre volte fui battuto colle verghe, * una volta fui lapidato, tre volte feci naufragio per il nome di Cristo.;;116
 
 [Capitulum Vespera]
-!Acta 9:1-2
+!Act 9:1-2
 v. Saulo tuttora spirante minacce e strage contro i discepoli del Signore, si presentò al sommo sacerdote, e gli domandò lettere per le sinagoghe di Damasco; per poter menar legati a Gerusalemme tutti gli uomini e le donne che trovasse appartenenti a quella fede.
 $Deo gratias
 
@@ -32,7 +32,7 @@ Lodiamo il nostro Dio, * Nella conversione del Dottore dei Gentili.
 
 [Lectio1]
 De Actibus Apostolorum.
-!Acta 9:1-5
+!Act 9:1-5
 1 Saulo tuttora spirante minacce e strage contro i discepoli del Signore, si presentò al sommo sacerdote, 
 2 e gli domandò lettere per le sinagoghe di Damasco; per poter menar legati a Gerusalemme tutti gli uomini e le donne che trovasse appartenenti a quella fede. 
 3 E durante il viaggio avvenne che, quando già era vicino a Damasco, d'improvviso una luce del cielo gli folgorò d'intorno. 
@@ -40,14 +40,14 @@ De Actibus Apostolorum.
 5 Ed egli chiese: Chi sei tu, Signore? Ed egli: Io sono Gesù che tu perseguiti. Non ti conviene tirar calci contro il pungolo.
 
 [Lectio2]
-!Acta 9:6-9
+!Act 9:6-9
 6 Ed egli tremando dallo spavento, disse: Signore, che vuoi tu ch'io faccia? 
 7 E il Signore a lui: Lévati su, ed entra in città, e là ti sarà detto quel che devi fare. E quei che l'accompagnavano, si fermarono attoniti, perché udivano bene la voce, ma non vedevano alcuno. 
 8 E Saulo s'alzò da terra e, aperti gli occhi, non vedeva nulla, Allora quelli, menandolo per mano, lo condussero a Damasco.
 9 E ci stette tre giorni senza vedere, e senza mangiare né bere.
 
 [Lectio3]
-!Acta 9:10-16
+!Act 9:10-16
 10 Or c'era in Damasco un certo discepolo, per nome Anania, a cui il Signore disse in visione: Anania. Ed egli rispose: Eccomi, Signore. 
 11 E il Signore a lui: Alzati, e va nella strada, chiamata La dritta: e cerca in casa di Giuda, uno di Tarso, che ha nome Saulo ecco, egli sta pregando. 
 12 (Perché egli ha visto in visione un uomo, di nome Anania, entrare e imporgli le mani, affinché ricuperi la vista). 
@@ -91,7 +91,7 @@ A Damasco * il governatore del paese del re Areta voleva arrestarmi: ma dai frat
 Tre volte fui battuto colle verghe, * una volta fui lapidato, tre volte feci naufragio per il nome di Cristo.
 
 [Capitulum Laudes]
-!Acta 9:1-2
+!Act 9:1-2
 v. Saulo tuttora spirante minacce e strage contro i discepoli del Signore, si presentò al sommo sacerdote, e gli domandò lettere per le sinagoghe di Damasco; per poter menar legati a Gerusalemme tutti gli uomini e le donne che trovasse appartenenti a quella fede.
 $Deo gratias
 
@@ -115,21 +115,21 @@ O Dio, che consegnando al  tuo beato Apostolo Pietro le chiavi del regno celest
 $Qui vivis
 
 [Lectio Prima]
-!Acta 9:22
+!Act 9:22
 v. Ma Saulo si faceva vieppiù coraggio, e confondeva i Giudei che abitavano in Damasco, dimostrando che quello è il Cristo.
 
 [Capitulum Tertia]
-!Acta 9:1-2
+!Act 9:1-2
 v. Saulo tuttora spirante minacce e strage contro i discepoli del Signore, si presentò al sommo sacerdote, e gli domandò lettere per le sinagoghe di Damasco; per poter menar legati a Gerusalemme tutti gli uomini e le donne che trovasse appartenenti a quella fede.
 $Deo gratias
 
 [Capitulum Sexta]
-!Acta 9:8-9
+!Act 9:8-9
 v. E Saulo s'alzò da terra, e, aperti gli occhi, non vedeva nulla. Allora quelli, menandolo per mano, lo condussero a Damasco. E ci stette tre giorni senza vedere, e senza mangiare né bere.
 $Deo gratias
 
 [Capitulum Nona]
-!Acta 9:22
+!Act 9:22
 v. Ma Saulo si faceva vieppiù coraggio, e confondeva i Giudei che abitavano in Damasco, dimostrando che quello è il Cristo.
 $Deo gratias
 

@@ -7,7 +7,7 @@ Feria Te Deum
 
 [Lectio1]
 Incomincia la Lettera cattolica dell'Apostolo san Giuda
-!Giuda 1:1-4
+!Jud 1:1-4
 1 Giuda servo di Gesù Cristo, e fratello di Giacomo, a quelli che sono amati da Dio Padre e conservati e chiamati in Cristo Gesù.
 2 Sia a voi moltiplicata la misericordia, e la pace, e la carità.  
 3 Carissimi, mentre io poneva ogni sollecitudine per scrivervi intorno alla comune vostra salute, mi sono trovato in necessità di scrivervi : per esortarvi a combattere per la fede, che è stata data una volta per tutte ai santi.
@@ -17,7 +17,7 @@ Incomincia la Lettera cattolica dell'Apostolo san Giuda
 @TemporaM/Pasc5-4:Responsory1
 
 [Lectio2]
-!Giuda 1:5-8
+!Jud 1:5-8
 5 Ora io voglio avvertirvi, benché istruiti una volta di tutto, che Gesù liberando il popolo dall'Egitto, sterminò di poi coloro che non credettero : 6 e gli Angeli che non conservarono la loro preminenza, ma abbandonarono il loro domicilio, li riserbò sepolti nella caligine in eterne catene al giudìzio del gran giorno. 
 7 Siccome Sodoma e Gomorra, e le città confinanti, che si abbandonarono nella stessa maniera all'impurità, e andarono dietro ad infame libidine, furono fatte esempio, soffrendo la pena di un fuoco eterno.
 8 Nella stessa guisa anche questi contaminano la carne, disprezzano la dominazione, bestemmiano la maestà. 
@@ -26,7 +26,7 @@ Incomincia la Lettera cattolica dell'Apostolo san Giuda
 @TemporaM/Pasc5-4:Responsory2
 
 [Lectio3]
-!Giuda 1:9-13
+!Jud 1:9-13
 9 Quando Michele Arcangelo disputando altercava col diavolo a causa del corpo di Mosè, non ardì di gettargli addosso sentenza di maledizione : ma disse : Ti reprima il Signore.
 10 Ma questi bestemmiano tutto quello che non capiscono : e in tutte quelle cose, che come i muti animali naturalmente conoscono, essi si corrompono.
 11 Guai a loro, perché hanno tenuto la strada di Caino, e per mercede si sono precipitati nell'errore di Balaam, e sono periti nella ribellione di Core : 
@@ -49,7 +49,7 @@ Dei nostri vizi ci facciamo una scala, se li teniamo sotto i piedi. Perché la m
 
 [Lectio7]
 Lettura del santo Vangelo secondo Giovanni
-!Giov 15:26-27; 16:1-4
+!Joann 15:26-27; 16:1-4
 In quell'occasione: Gesù disse ai suoi discepoli: Quando sarà venuto il Consolatore, che io vi manderò da parte del Padre, lo Spirito di verità, che procede dal Padre, egli renderà testimonianza di me. Eccetera.
 _
 Dall'Omelia di sant'Agostino Vescovo
@@ -68,7 +68,7 @@ Il sangue di Cristo invero fu sparso per la remissione di tutti i peccati, tanto
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Giovanni
-!Giov 15:26-27;16:1-4
+!Joann 15:26-27;16:1-4
 15:26 Ma venuto che sia il Paraclito, che io vi manderò dal Padre, lo Spirito di verità, che procede dal Padre, egli renderà testimonianza per me :
 15:27 e voi ancora renderete testimonianza, perché siete stati con me fin da principio. 
 16:1 Ho detto a voi queste cose, affinché non siate scandalizzati.

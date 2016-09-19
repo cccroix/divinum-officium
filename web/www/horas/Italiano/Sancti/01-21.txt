@@ -6,7 +6,7 @@ vide C6b;
 9 lectiones
 
 [Capitulum Vespera]
-!Sir 51:1-3
+!Eccl 51:1-3
 v. Ti celebrerò, o Signore Re, e ti glorificherò, o Dio mio Salvatore. Celebrerò il tuo nome, perché tu fosti per me un aiuto e un protettore, e liberasti il mio corpo dalla perdizione.
 $Deo gratias
 
@@ -36,7 +36,7 @@ R. La fa abitare nella sua dimora.
 
 [Lectio1]
 Del libro dell'Ecclesiastico
-!Sir 51:1-7
+!Eccl 51:1-7
 1 Ti celebrerò, o Signore e Re, e ti glorificherò, o Dio mio Salvatore. 
 2 Celebrerò il tuo nome : perché tu fosti per me un aiuto e un protettore, 
 3 e liberasti il mio corpo dalla perdizione, dal laccio della lingua perfida, e dalle labbra di quelli che ordivano menzogne, e di fronte miei avversari ti sei fatto mio aiuto. 
@@ -52,7 +52,7 @@ V. Ella era ancora bambina per il numero degli anni, ma era grandemente matura d
 R. Perché amò solo l'autore della vita.
 
 [Lectio2]
-!Sir 51:8-12
+!Eccl 51:8-12
 8 L'anima mia loderà il Signore fino alla morte, 
 9 poiché la mia vita era presso a cadere laggiù nell'inferno. 
 10 Mi avevano circondata da ogni parte, e non c'era chi m'aiutasse. Miravo se uomo mi desse aiuto, ma invano. 
@@ -66,7 +66,7 @@ V. Egli ha posto un segno sulla mia faccia, affinché io non ammetta altro amant
 R. E m'ha ricoperta tutta di gemme brillanti e scintillanti.
 
 [Lectio3]
-!Sir 51:13-17
+!Eccl 51:13-17
 13 Tu innalzasti sulla terra mia abitazione, e io ti supplicai per la morte che discendeva. 
 14 Invocai il Signore, Padre del mio Signore, che non mi abbandonasse nel giorno della mia tribolazione e nell'ora dei prepotenti, senza soccorso.  
 15 Loderò il tuo nome continuamente e lo celebrerò con riconoscenza, perché fu esaudita la mia preghiera.  
@@ -120,7 +120,7 @@ Ti benedico, * Padre del Signor mio Gesù Cristo, perché grazie al tuo Figlio f
 Gioite con me * e rallegratevi, perché ho ricevuto uno splendido trono con tutte queste (vergini).
 
 [Capitulum Laudes]
-!Sir 51:1-3
+!Eccl 51:1-3
 v. Ti celebrerò, o Signore Re, e ti glorificherò, o Dio mio Salvatore. Celebrerò il tuo nome, perché tu fosti per me un aiuto e un protettore, e liberasti il mio corpo dalla perdizione.
 $Deo gratias
 
@@ -128,17 +128,17 @@ $Deo gratias
 Ecco, quel che ho bramato, * già lo vedo: quel che ho sperato, già lo posseggo: sono unita in cielo con colui che sulla terra ho amato con ogni trasporto.
 
 [Capitulum Tertia]
-!Sir 51:1-3
+!Eccl 51:1-3
 v. Ti celebrerò, o Signore Re, e ti glorificherò, o Dio mio Salvatore. Celebrerò il tuo nome, perché tu fosti per me un aiuto e un protettore, e liberasti il mio corpo dalla perdizione.
 $Deo gratias
 
 [Capitulum Sexta]
-!Sir 51:4-5
+!Eccl 51:4-5
 v. Tu mi liberasti quelli che ruggivano pronti a divorare, dalle mani quelli che cercavano l'anima mia, e dal cadere nelle tribolazioni che mi circondarono. 
 $Deo gratias
 
 [Capitulum Nona]
-!Sir 51:8; 51:12
+!Eccl 51:8; 51:12
 v. L'anima mia loderà il Signore fino alla morte, poiché tu salvi quelli che confidano in e li liberi dalle mani degl'infedeli, Signore, nostro Dio.
 $Deo gratias
 

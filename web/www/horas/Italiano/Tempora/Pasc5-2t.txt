@@ -13,7 +13,7 @@ Doxology=Pasc
 
 [Lectio1]
 Dalla prima Lettera dell'Apostolo san Pietro
-!1 Pet 4:1-7
+!1 Petri 4:1-7
 1 Cristo dunque avendo patito (per noi) nella sua carne, armatevi ancor voi dello stesso pensiero: perché chi ha crocifisso la propria carne, ha finito di peccare:
 2 così che non vive già più secondo le passioni degli uomini, ma secondo il volere di Dio, per tutto il tempo che resta da vivere nella carne.
 3 Basta infatti per voi l'avere nel tempo passato soddisfatta la volontà come i Gentili, vivendo nelle dissolutezze, nelle cupidigie, negli eccessi di mangiare e bere e nell'illecito culto degli idoli.
@@ -26,7 +26,7 @@ Dalla prima Lettera dell'Apostolo san Pietro
 @Tempora/Pasc4-0:Responsory4
 
 [Lectio2]
-!1 Pet 4:7-11
+!1 Petri 4:7-11
 7 Siate perciò prudenti e vegliate nella preghiera.
 8 Ma soprattutto abbiate l'un per l'altro una carità perseverante, perché la carità copre una moltitudine di peccati.
 9 Esercitate tra voi l'ospitalità senza mormorare: 
@@ -37,7 +37,7 @@ Dalla prima Lettera dell'Apostolo san Pietro
 @Tempora/Pasc4-0:Responsory5
 
 [Lectio3]
-!1 Pet 4:12-17
+!1 Petri 4:12-17
 12 Carissimi, non vi stupite del gran fuoco accesovi contro per provarvi, come se vi avvenisse una cosa nuova: 
 13 ma godete di partecipare ai patimenti di Cristo, affinché quando si manifesterà la gloria di lui anche voi godiate ed esultiate. 
 14 E se siete maltrattati per il nome di Cristo, siete beati: poiché l'onore, la gloria e la virtù di Dio e lo Spirito di lui riposa in voi. 

@@ -14,7 +14,7 @@ Psalmi Dominica;
 
 [Lectio1]
 Lettura del santo Vangelo secondo Giovanni
-!Gio 20:1-9
+!Joann 20:1-9
 In quell'occasione: Il primo giorno della settimana, la mattina, per tempo, mentr'era ancor buio, Maria Maddalena se ne andò al sepolcro. Eccetera.
 _
 Omelia di san Gregorio Papa

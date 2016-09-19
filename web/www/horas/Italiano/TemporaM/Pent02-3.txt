@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Dal primo libro dei Re
-!1 Sam 6:19-21; 7:1
+!1 Reg 6:19-21; 7:1
 19 Il Signore poi percosse gli uomini di Betsames, perché avevano guardato l'arca del Signore; e fece morire settanta uomini del popolo e cinquantamila della plebe. E il popolo pianse perché il Signore aveva percossa la plebe con sì gran flagello. 
 20 Pertanto gli uomini di Betsames dissero: Chi potrà stare al cospetto del Signore, di questo Dio santo? e verso chi salirà egli (partendo) da noi? 
 21 Allora spedirono dei messi agli abitanti di Cariatiarim perché dicessero: I Filistei han ricondotta l'arca del Signore: scendete, e riportatela tra voi. 
@@ -16,7 +16,7 @@ Dal primo libro dei Re
 @TemporaM/Pent01-3:Responsory1
 
 [Lectio2]
-!1 Sam 7:2-4
+!1 Reg 7:2-4
 2 E dal dì in cui l'arca del Signore fu posta in Cariatiarim era passato molto tempo (cioè venti anni), e tutta la casa d'Israele ebbe pace, seguendo il Signore. 
 3 Allora Samuele disse a tutta la casa d'Israele: Se con tutto il vostro cuore vi convertite al Signore, togliete di mezzo a voi gli dèi stranieri, Baalim e Astarot, e preparate i vostri cuori al Signore e servite a lui solo, egli vi libererà dalle mani dei Filistei. 
 4 Allora i figli d'Israele tolsero via Baalim e Astarot, e servirono soltanto al Signore.
@@ -25,7 +25,7 @@ Dal primo libro dei Re
 @TemporaM/Pent01-3:Responsory2
 
 [Lectio3]
-!1 Sam 7:5-8
+!1 Reg 7:5-8
 5 Quindi Samuele disse: Radunate tutto Israele in Masfat perché io preghi il Signore per voi. 
 6 E convennero in Masfat, e, attinta dell'acqua, la sparsero dinanzi al Signore, e digiunarono quel giorno, dicendo: Abbiamo peccato contro il Signore. Samuele dunque giudicò Israele in Masfat. 
 7 Ora i Filistei come seppero che i figli d'Israele s'erano radunati a Masfat, i satrapi dei Filistei si mossero contro Israele. A questa notizia i figli d'Israele ebbero paura dei Filistei, 
@@ -47,7 +47,7 @@ Ora ritorna con me alla mia proposizione. Certo, fu miracolo grande e venerabile
 
 [Lectio7]
 Lettura del santo Vangelo secondo Giovanni
-!Joannes 6:5-59
+!Joann 6:5-59
 In quell'occasione: Gesù disse alle turbe dei Giudei: La mia carne è veramente cibo, ed il mio sangue è veramente bevanda. Eccetera.
 _
 Omelia di sant'Ilario Vescovo

@@ -6,7 +6,7 @@ Preces Feriales
 
 [Lectio1]
 Lettura del santo Vangelo secondo Marco
-!Marco 6:47-56
+!Marc 6:47-56
 In quell'occasione: Venuta la sera, la barca era in mezzo al mare, e Gesù solo a terra. Eccetera.
 _
 Omelia di san Beda, il Venerabile, Prete
@@ -66,7 +66,7 @@ $Per Dominum
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Marco
-!Marco 6:47-56
+!Marc 6:47-56
 6:47 E fattosi sera, la barca era in mezzo al mare, ed egli solo a terra.
 6:48 E vedendo i discepoli affannati a remare (poiché avevano il vento contrario) verso la quarta vigilia della notte andò verso di essi, cammi- nando sopra le acque : e voleva passar loro avanti.
 6:49 Ma essi, vedutolo camminare sopra il mare, credettero che fosse un fantasma, e alzarono strida.

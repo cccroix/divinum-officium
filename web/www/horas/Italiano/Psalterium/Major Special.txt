@@ -1,5 +1,5 @@
 [Day0 Laudes]
-!Apo 7:12
+!Apoc 7:12
 v. Benedizione, e gloria, e sapienza, e ringraziamento, onore, potenza e fortezza al nostro Dio nei secoli dei secoli. Così sia.
 $Deo gratias
 
@@ -353,7 +353,7 @@ V. Salga, Signore, la mia preghiera.
 R. Come incenso al tuo cospetto.
 
 [Day4 Laudes]
-!Rom. 13:12-13
+!Rom 13:12-13
 v. La notte è inoltrata e il giorno si avvicina. Gettiamo via dunque le opere delle tenebre e indossiamo le armi della luce. Camminiamo onestamente, come in pieno giorno.
 $Deo gratias
 
@@ -425,7 +425,7 @@ V. Salga, Signore, la mia preghiera.
 R. Come incenso al tuo cospetto.
 
 [Day5 Laudes]
-!Rom. 13:12-13
+!Rom 13:12-13
 v. La notte è inoltrata e il giorno si avvicina. Gettiamo via dunque le opere delle tenebre e indossiamo le armi della luce. Camminiamo onestamente, come in pieno giorno.
 $Deo gratias
 
@@ -502,7 +502,7 @@ V. Salga, Signore, la mia preghiera.
 R. Come incenso al tuo cospetto.
 
 [Day6 Laudes]
-!Rom. 13:12-13
+!Rom 13:12-13
 v. La notte è inoltrata e il giorno si avvicina. Gettiamo via dunque le opere delle tenebre e indossiamo le armi della luce. Camminiamo onestamente, come in pieno giorno.
 $Deo gratias
 
@@ -621,7 +621,7 @@ Illumina, o Signore, * coloro che siedono nelle tenebre e nell'ombra della morte
 Iddio ha accolto * Israele, suo servo: come annunziò ad Abramo e ai suoi discendenti per tutti i secoli.
 
 [Adv Laudes]
-!Isa 2:3
+!Isai 2:3
 v. Venite, ascendiamo al monte del Signore e alla casa del Dio di Giacobbe.  Egli c'insegnerà le sue vie, e noi cammineremo per i suoi sentieri: perché da Sion uscirà la legge, e la parola del Signore da Gerusalemme.
 $Deo gratias
 
@@ -731,7 +731,7 @@ Non temete: * al quinto giorno verrà a voi il Signore nostro.
 Ecco, si è compiuto tutto * quanto è stato detto della Vergine Maria, per mezzo dell'Angelo.
 
 [Quad Laudes]
-!Isa 58:1
+!Isai 58:1
 v. Grida senza posa, alza la tua voce come tromba, e annunzia al mio popolo le sue scelleratezze, e alla casa di Giacobbe i suoi peccati.
 $Deo gratias
 
@@ -767,7 +767,7 @@ V.  Iddio ha comandato agli Angeli suoi per te.
 R. Che ti custodiscano in tutte le tue vie.
 
 [Quad Vespera]
-!Gioele 2:17
+!Joël 2:17
 v. Tra il vestibolo e l'altare gemeranno i sacerdoti, ministri del Signore, e diranno: Perdona, o Signore, perdona al tuo popolo, e non abbandonare la tua eredità al ludibrio d'essere dominata dalle nazioni.
 $Deo gratias
 
@@ -803,7 +803,7 @@ V. Iddio ha comandato agli Angeli suoi per te.
 R. Che ti custodiscano in tutte le tue vie.
 
 [Quad5 Laudes]
-!Ger 11:19
+!Jerem 11:19
 v. Venite, mettiamogli del legno in luogo di pane e sterminiamolo dalla terra dei viventi, e nemmeno il suo nome sia più ricordato.
 $Deo gratias
 
@@ -855,7 +855,7 @@ V. Salvami dai miei nemici, o mio Dio.
 R. E liberami da coloro che insorgono contro di me.
 
 [Quad5 Vespera]
-!Ger 11:20
+!Jerem 11:20
 v.  Tu, o Signore degli eserciti, che giudichi con giustizia e scruti l'intimo dei cuori, fammi vedere la tua vendetta sopra di loro, poiché a Te, o Signore Dio mio, io ho affidato la mia causa.
 $Deo gratias
 
@@ -1299,7 +1299,7 @@ R. Amen.
 $Fidelium animae
 
 [Day0M Laudes]
-!Apo 7:12
+!Apoc 7:12
 v. Benedizione, e gloria, e sapienza, e ringraziamento, onore, potenza e fortezza al nostro Dio nei secoli dei secoli. Così sia.
 $Deo gratias
 _
@@ -1371,7 +1371,7 @@ R. E grande è la sua potenza.
 R. Grande è il Signore nostro, * e grande è la sua potenza.
 
 [AdvM Laudes]
-!Isa 2:3
+!Isai 2:3
 v. Venite, ascendiamo al monte del Signore e alla casa del Dio di Giacobbe.  Egli c'insegnerà le sue vie, e noi cammineremo per i suoi sentieri: perché da Sion uscirà la legge, e la parola del Signore da
 $Deo gratias
 _
@@ -1395,7 +1395,7 @@ R. La tua misericordia.
 R. Mostraci, o Signore, * la tua misericordia.
 
 [QuadM Laudes]
-!Isa 58:1
+!Isai 58:1
 v. Grida senza posa, alza la tua voce come tromba, e annunzia al mio popolo le sue scelleratezze, e alla casa di Giacobbe i suoi peccati.
 $Deo gratias
 _
@@ -1407,7 +1407,7 @@ R. Dal laccio dei cacciatori.
 R. Egli mi ha liberato * dal laccio dei cacciatori.
 
 [QuadM Vespera]
-!Gioele 2:17
+!Joël 2:17
 v. Tra il vestibolo e l'altare gemeranno i sacerdoti, ministri del Signore, e diranno: Perdona, o Signore, perdona al tuo popolo, e non abbandonare la tua eredità al ludibrio d'essere dominata dalle nazioni.
 $Deo gratias
 _
@@ -1419,7 +1419,7 @@ R. Ti metterà all'ombra.
 R. Ti metterà all'ombra * sotto le sue spalle.
 
 [Quad5M Laudes]
-!Ger 11:19
+!Jerem 11:19
 v. Venite, mettiamogli del legno in luogo di pane e sterminiamolo dalla terra dei viventi, e nemmeno il suo nome sia più ricordato.
 $Deo gratias
 _
@@ -1430,7 +1430,7 @@ R. O Dio, la mia anima.
 R. Libera dalla spada, * o Dio, la mia anima.
 
 [Quad5M Vespera]
-!Ger 11:20
+!Jerem 11:20
 v.  Tu, o Signore degli eserciti, che giudichi con giustizia e scruti l'intimo dei cuori, fammi vedere la tua vendetta sopra di loro, poiché a Te, o Signore Dio mio, io ho affidato la mia causa.
 $Deo gratias
 _

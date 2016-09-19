@@ -7,7 +7,7 @@ R. E discenda su di noi la tua misericordia.
 
 [Lectio1]
 Dal primo libro dei Maccabei
-!1 Mac 9:1-6
+!1 Mach 9:1-6
 1 Frattanto Demetrio, quando udì che Nicanore e il suo esercito eran caduti in battaglia, risolve di mandar di nuovo nella Giudea Bacchide e Alcimo, e con essi l'ala destra del suo esercito. 
 2 E presa la strada che mena a Galgala, posero il campo a Masalot, che è in Arbello, e l'occuparono e uccisero molta gente. 
 3 Nel primo mese dell'anno centocinquantadue si diressero coll'esercito a Gerusalemme, 
@@ -19,7 +19,7 @@ Dal primo libro dei Maccabei
 @TemporaM/101-0:Responsory1
 
 [Lectio2]
-!1 Mac 9:7-11
+!1 Mach 9:7-11
 7 Quando Giuda vide il suo esercito così ridotto e che la battaglia si faceva imminente, si sentì spezzare il cuore, perché non c'era più tempo di rimetterli insieme, e si perse d'animo. 
 8 Allora disse a quelli che restavano: Su, andiamo incontro ai nostri nemici, e tentiamo la battaglia. 
 9 Ma quelli ne lo distoglievano dicendo: Non possiamo, ma per adesso salviamo la nostra vita e torniamo ai nostri fratelli, e allora combatteremo contro costoro; perché ora noi siamo pochi. 
@@ -30,7 +30,7 @@ Dal primo libro dei Maccabei
 @TemporaM/101-0:Responsory2
 
 [Lectio3]
-!1 Mac 9:12-20
+!1 Mach 9:12-20
 12 Bacchide poi era nell'ala destra, e le schiere si avvicinavano da due parti suonando le trombe. 
 13 Allora quelli che erano al seguito di Giuda gridarono anch'essi, e la terra tremò al rumore degli eserciti, e la battaglia durò dal mattino fino alla sera. 
 14 Ma Giuda avendo osservato che l'ala più forte dell'esercito di Bacchide era la destra, egli prese con sé i più valorosi; 

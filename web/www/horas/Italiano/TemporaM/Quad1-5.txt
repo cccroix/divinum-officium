@@ -5,7 +5,7 @@ Feria Sexta Quattuor temporum;;Feria major;;2
 
 [Lectio1]
 Lettura del santo Vangelo secondo Giovanni
-!Gio. 5:1-15
+!Joann 5:1-15
 In quell'occasione: Era una festa dei Giudei, e Gesù sali a Gerusalemme. Eccetera.
 _
 Omelia di sant'Agostino Vescovo
@@ -43,7 +43,7 @@ $Per Dominum
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Giovanni
-!Gio. 5:1-15
+!Joann 5:1-15
 5:1 Dopo questo essendo una festa dei Giudei, Gesù se n'andò a Gerusalemme.
 5:2 E vi ha in Gerusalemme la piscina Probatica che in lingua ebrea si chiama Betsaida, 1a quale ha cinque porticati.
 5:3 In questi giaceva gran turba di malati, di ciechi, di zoppi, di paralitici, i quali aspettavano il moto dell'acqua. 

@@ -20,7 +20,7 @@ Egli scrisse molte opere, di cui parlano Eusebio di Cesarea e san Girolamo, ma l
 
 [Lectio7]
 Lettura del santo Vangelo secondo Matteo.
-!Matt 10:28-33
+!Matth 10:28-33
 In quell'occasione: Gesù disse ai suoi discepoli: Non temete quelli che uccidono il corpo, ma non possono uccidere l'anima; temete piuttosto colui che può mandare in perdizione
 all'inferno e l'anima e il corpo. Eccetera.
 _
@@ -33,7 +33,7 @@ Lo stesso sarà di quelli che dicono aver egli sofferto solo apparentemente. Per
 
 [Lectio9]
 Lettura del santo Vangelo secondo Giovanni.
-!Gio 21:15-19
+!Joann 21:15-19
 In quell'occasione: Gesù disse a Simon Pietro: Simone di Giovanni, mi ami tu più di questi? Eccetera.
 _
 Omelia di sant'Agostino Vescovo
@@ -62,7 +62,7 @@ $Per Dominum
 [Lectio Vigilia]
 !Per la Vigilia dei Ss. Pietro e Paolo Apostoli
 Lettura del santo Vangelo secondo Giovanni.
-!Gio 21:15-17
+!Joann 21:15-17
 In quell'occasione: Gesù disse a Simon Pietro: Simone di Giovanni, mi ami tu più di questi? Eccetera.
 _
 Omelia di sant'Agostino Vescovo

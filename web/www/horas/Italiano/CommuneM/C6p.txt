@@ -121,7 +121,7 @@ V. Hai amato la giustizia ed hai odiato l'iniquità:
 R. Perciò Dio, il tuo Dio, ti unse, con olio di letizia.
 
 [MM Capitulum mart]
-!Eccli 51:4-5
+!Eccl 51:4-5
 Nella tua grande misericordia tu mi liberasti da quelli che ruggivano pronti a divorare, dalle mani di quelli che cercavano l'anima mia, e dalle molte
 tribolazioni che mi circondavano.
 $Deo gratias
@@ -162,7 +162,7 @@ R. Ti saranno condotte con festosa esultanza, alleluia.
 
 [Lectio7]
 Dal Vangelo secondo Matteo
-!Matt 25:1
+!Matth 25:1
 In quel tempo, Gesù disse ai suoi discepoli questa parabola: "Il regno dei cieli è simile a dieci vergini le quali presero le loro lampade e andarono incontro allo sposo e alla sposa". (continua nella Messa del giorno)
 _
 Omelia di s. Gregorio papa
@@ -247,7 +247,7 @@ V. L'ha eletta Iddio e l'ha prescelta, alleluia.
 R. La fa abitare nella sua dimora, alleluia.
 
 [Capitulum Nona1]
-!Sir 51:13-14
+!Eccl 51:13-14
 v. Signore, Dio mio, tu innalzasti sulla terra la mia abitazione, e io supplicai per la morte che discendeva. Invocai il Signore, Padre del mio Signore, perché non mi abbandonasse nel giorno della mia tribolazione, e nell'ora dei prepotenti senza soccorso.
 $Deo gratias
 
@@ -262,7 +262,7 @@ R. Perciò Iddio ti ha benedetta in eterno, alleluia.
 
 [LectioE]
 v. Dal vangelo secondo Matteo
-!Matt 25:1-13
+!Matth 25:1-13
 25:1 Allora sarà simile il regno de' cieli a dieci vergini, le quali avendo prese le loro lampade, andarono incontro allo sposo e alla sposa.
 25:2 Ma cinque di esse erano stolte, e cinque prudenti. 
 25:3 Or le cinque stolte, prese le lampade, non portarono seco dell'olio:

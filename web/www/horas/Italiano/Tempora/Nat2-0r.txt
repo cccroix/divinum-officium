@@ -122,7 +122,7 @@ V. E gli fu posto il nome di Gesù, com'era stato nominato dall'Angelo prima d'e
 R. Ed egli libererà il suo popolo dai loro peccati.
 
 [Lectio2]
-!Act. 3:9-16
+!Act 3:9-16
 9 E tutto il popolo lo vide camminare e lodare Dio. 
 10 E siccome lo conoscevano per quello stesso che sedeva alla porta Bella del tempio a chieder l'elemosina, erano stupiti e fuor di sé per quello che gli era accaduto. 
 11 E mentre egli teneva stretti Pietro e Giovanni, tutto il popolo era corso stupito verso di loro nel portico, detto di Salomone. 
@@ -139,7 +139,7 @@ V. E benedetto il nome della tua maestà in eterno, che solo operò meraviglie.
 R. E nel tempo della tribolazione rimetti i peccati.
 
 [Lectio3]
-!Act. 4:5-12
+!Act 4:5-12
 5 Or avvenne che il giorno seguente si radunarono in Gerusalemme i loro capi, gli anziani e gli scribi: 
 6 e Anna, sommo sacerdote, e Caifa e Giovanni e Alessandro e quanti erano della casta sacerdotale. 
 7 E fattili venire in mezzo a loro li interrogavano: Con quale potere, o in nome di chi voi avete fatto questo? 

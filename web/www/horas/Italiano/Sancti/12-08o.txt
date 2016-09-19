@@ -35,7 +35,7 @@ $Per Dominum
 Celebriamo la Concezione della Vergine Maria: * Adoriamo Cristo Signore suo Figlio.
 
 [Lectio1]
-!Sir 24:5-13
+!Eccl 24:5-13
 5 Io sono uscita dalla bocca dell'Altissimo, primogenita di tutta la creazione. 
 6 Io ho fatto sorgere nel cielo una luce indefettibile e come vapore ho coperto tutta la terra. 
 7 Ho posto la mia tenda in alto: il mio trono è sopra una colonna di nube. 
@@ -50,7 +50,7 @@ Celebriamo la Concezione della Vergine Maria: * Adoriamo Cristo Signore suo Figl
 @Sancti/12-25:Responsory1
 
 [Lectio2]
-!Sir 24:14-21
+!Eccl 24:14-21
 14 Da principio e prima dei secoli io sono stata creata, e fino all'età all'età futura non cesserò di esistere, e ho servito nel santuario alla presenza di lui. 
 15 E così ebbi stabile dimora in Sion, e nella città santa trovai anche il mio riposo, e in Gerusalemme la mia potenza.  
 16  E misi radici in mezzo al popolo glorificato, che ha la sua eredità nei domini del mio Dio, e la mia dimora è nella riunione del santi.
@@ -64,7 +64,7 @@ Celebriamo la Concezione della Vergine Maria: * Adoriamo Cristo Signore suo Figl
 @Sancti/12-25:Responsory2
 
 [Lectio3]
-!Sir 24:22-31
+!Eccl 24:22-31
 22 Io ho disteso i miei rami come il terebinto, e i miei son rami d'onore e di grazia.
 23 Io, come la vite, ho prodotto frutti di soave profumo.
 24 Io sono la madre del bell'amore, e dei timore, e della scienza, e della santa speranza. 
@@ -101,7 +101,7 @@ Quando allora offese col volto i genitori? Quando dissentì dai parenti? Quando 
 
 [Lectio7]
 Lettura del santo Vangelo secondo Matteo
-!Matt 1:1-16
+!Matth 1:1-16
 Libro della generazione di Gesù Cristo, figlio di David, figlio d'Abramo. Abramo fu padre d'Isacco, Isacco fu padre di Giacobbe. Eccetera.
 _
 Omelia di san Girolamo Prete

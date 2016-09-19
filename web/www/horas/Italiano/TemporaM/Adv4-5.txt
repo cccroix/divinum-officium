@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Dal Profeta Isaia
-!Isa 66:5-8
+!Isai 66:5-8
 5 Udite la parola del Signore, voi che tremate alla sua parola: i vostri fratelli che vi odiano e vi rigettano a causa del mio nome han detto: faccia vedere la sua gloria, il Signore, e noi lo riconosceremo alla vostra gioia: essi però saran confusi. 
 6 «Voce di popolo dalla città, voce dal tempio, voce del Signore che rende la mercede ai suoi nemici». 
 7 Prima di aver le doglie, essa ha dato alla luce: prima ancora del tempo, essa ha dato alla luce un maschio. 
@@ -16,7 +16,7 @@ Dal Profeta Isaia
 @TemporaM/Adv4-0:Responsory4
 
 [Lectio2]
-!Isa 66:9-12
+!Isai 66:9-12
 9 Forse io, che rendo fecondi  gli altri, io non sarò fecondo, dice il Signore? io che dò agli altri discendenza, sarò sterile, dice il Signore Dio tuo? 
 10 Rallegratevi con Gerusalemme, ed esultate con lei, voi tutti che l'amate: gioite con lei allegramente, voi tutti che piangete per lei, 
 11 perché così succhierete e vi sazierete alla fonte della sua consolazione: perché spremerete e n'avrete gran copia di delizie dalla splendida gloria di lei. 
@@ -26,7 +26,7 @@ Dal Profeta Isaia
 @TemporaM/Adv4-0:Responsory5
 
 [Lectio3]
-!Isa 66:13-16
+!Isai 66:13-16
 13 Come uno cui la sua madre accarezza, così io consolerò voi, e in Gerusalemme sarete consolati. 
 14 Voi vedrete, e ne gioirà il vostro cuore, e le vostre ossa come erba germoglieranno, e si conoscerà la mano del Signore per i suoi servi, e il suo sdegno sarà per i suoi nemici. 
 15 Poiché ecco che il Signore verrà nel fuoco, e i suoi cocchi saran come un turbine per dar sfogo nello sdegno al suo furore, e alla sua vendetta nella vampa del fuoco: 

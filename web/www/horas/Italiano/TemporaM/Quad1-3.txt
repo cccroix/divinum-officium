@@ -5,7 +5,7 @@ Feria Quarta Quatuor Temporum;;Feria major;;2
 
 [Lectio1]
 Lettura del santo Vangelo secondo Matteo
-!Matt 12:38-50
+!Matth 12:38-50
 In quell'occasione: Alcuni degli scribi e dei farisei presero a dire a Gesù: Maestro, vorremmo vedere da te un miracolo. Eccetera.
 _
 Omelia di sant'Ambrogio Vescovo
@@ -45,7 +45,7 @@ $Per Dominum.
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Matteo
-!Matt 12:38-50
+!Matth 12:38-50
 12:38 Allora gli replicarono alcuni Scribi e Farisei dicendo : Maestro, desideriamo di vedere qualche tuo miracolo.
 12:39 Ma egli rispose loro : Questa generazione cattiva e adultera va cercando un prodigio : e nessun prodigio le sarà conceduto, fuori quello di Giona profeta.
 12:40 Perocché siccome Giona stette per tre giorni e per tre notti nel ventre del cetaceo : così starà il Figlio dell'uomo per tre giorni e tre notti nel seno della terra.

@@ -93,7 +93,7 @@ V. Non abbandonare, o Signore, alle barbare genti le anime tue fedeli.
 R. Non dimenticarti per sempre delle anime dei poveri servi tuoi.
 
 [Lectio1]
-!Giobbe 7:16-21
+!Job 7:16-21
 16 Abbi pietà di me, o Signore, perché i miei giorni sono un nulla. 
 17 Che cosa è l'uomo, perché tu ne faccia tanto conto? E perché il tuo cuore si occupi di lui? 
 18 Lo visiti la mattina presto e lo metti subito alla prova. 
@@ -108,7 +108,7 @@ V. Proprio io, lo vedrò: lo vedranno i miei occhi e non altri.
 R. E, riunita l'anima mia a questo corpo, io vedrò Iddio, mio salvatore.
 
 [Lectio2]
-!Giobbe 10:1-7
+!Job 10:1-7
 1 L'anima mia è stanca della vita, voglio dare libero corso al mio lamento, voglio parlare nell'amarezza del mio cuore, 
 2 e dire a Dio: Non mi condannare, fammi sapere perché mi giudichi in questa maniera. 
 3 Ti par giusto calunniare ed opprimere me, opera delle tue mani, e favorire i disegni degli empi? 
@@ -124,7 +124,7 @@ V. Tu che verrai a giudicare i vivi e i morti, e il mondo col fuoco.
 R. Concedi ai defunti il riposo e il luogo del perdono.
 
 [Lectio3]
-!Giobbe 10:8-12
+!Job 10:8-12
 8 Le tue mani mi hanno fatto e plasmato tutto quanto, e così ad un tratto mi distruggi? 
 9 Ricordati, te ne prego, che m'hai formato come creta, e mi ridurrai in polvere. 
 10 Non mi hai fatto colare come il latte e fatto rapprendere come il cacio? 
@@ -140,7 +140,7 @@ $Requiem
 R. Perché troppo ho peccato durante la mia vita.
 
 [Lectio4]
-!Giobbe 13:22-28
+!Job 13:22-28
 22 Rispondimi: 
 23 Quante iniquità, quanti peccati ho commesso? Mostrami le mie scelleratezze e i miei delitti. 
 24 Perché nascondi la tua faccia e mi consideri come tuo nemico? 
@@ -156,7 +156,7 @@ V. Dal profondo grido a te, o Signore: Signore, ascolta la mia voce.
 R. E non mi vedrà più sguardo umano.
 
 [Lectio5]
-!Giobbe 14:1-6
+!Job 14:1-6
 1 L'uomo nato di donna vive poco tempo ed è pieno di molte miserie. 
 2 Come un fiore sboccia e si secca, fugge quale ombra, senza mai fermarsi. 
 3 E tu stimi cosa degna aprire i tuoi occhi sopra tale essere, e chiamarlo al tuo tribunale?
@@ -171,7 +171,7 @@ V. Troppo è turbata la mia anima: ma tu, o Signore, soccorrila.
 R. Abbi pietà quando verrai nell'ultimo giorno.
 
 [Lectio6]
-!Giobbe 14:13-16
+!Job 14:13-16
 13 Oh, se potessi ottenere che tu mi seppellissi nell'abisso e mi facessi star laggiù nascosto finché non passi il tuo furore, finché tu non abbia fissato il giorno in cui ti ricorderai di me! 
 14 Pensi forse che l'uomo morto torni a vivere? In tutti i giorni del mio presente battagliare aspetto che venga il mio cambiamento. 
 15 Allora mi chiamerai ed io risponderò, e tu porgerai la destra all'opera delle tue mani. 
@@ -186,7 +186,7 @@ $Requiem
 R. Quando verrai a giudicare il mondo con il fuoco.
 
 [Lectio7]
-!Giobbe 17:1-3; 17:11-15
+!Job 17:1-3; 17:11-15
 1 Il mio spirito si consuma, i miei giorni finiscono, e non mi resta altro che il sepolcro. 
 2 Sebbene non abbia peccato, vivo nelle amarezze. 
 3 Liberami, Signore, mettimi accanto a te, e allora vengano pure a combattere contro di me. 
@@ -203,7 +203,7 @@ V. Signore, nel tuo nome salvami e con la tua potenza liberami.
 R. Perché non vi è redenzione per chi è condannato all'inferno. Signore, abbi misericordia di me, e salvami.
 
 [Lectio8]
-!Giobbe 19:20-27
+!Job 19:20-27
 20 Le mie ossa, consunte le carni, aderiscono alla pelle, e sono restate soltanto le labbra intorno ai miei denti. 
 21 Abbiate pietà di me, abbiate pietà di me almeno voi, o miei amici, giacché la mano del Signore m'ha percosso! 
 22 Perché mi perseguitate come Dio, e vi saziate colle mie carni? 
@@ -220,7 +220,7 @@ V. Purificami completamente, o Signore, dal male commesso e da ogni mio peccato.
 R. Perché tu, o Dio, perdoni le mie colpe.
 
 [Lectio9]
-!Giobbe 10:18-22
+!Job 10:18-22
 18 Perché mi hai fatto uscire dal seno materno?  Fossi morto, ed occhio non m'avesse mai visto! 
 19 Sarei come se non fossi mai esistito, portato dal seno della madre al sepolcro. 
 20 Non deve finir presto il piccolo numero dei miei giorni? Lasciami dunque piangere un poco le mie sventure, 

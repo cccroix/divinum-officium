@@ -48,7 +48,7 @@ Amen.
 
 [Lectio1]
 Dal Profeta Geremia
-!Jer 31:15-17
+!Jerem 31:15-17
 15 Così dice il Signore: S'è intesa sulle alture una voce di lamento, di lutto e di pianto di Rachele che piange i suoi figli, e non vuol consolarsi di loro, perché essi non sono più. 
 16 Così dice il Signore: La tua bocca cessi dal pianto e i tuoi occhi dal lacrimare: perché la tua pena avrà ricompensa, dice Il Signore: essi torneranno dalla terra nemica. 
 17 E c'è una speranza in fine per te, dice il Signore: i tuoi figli ritorneranno alla lor terra.
@@ -61,7 +61,7 @@ V. Questi son quelli che son venuti da una grande tribolazione, e hanno lavato l
 R. Perché san rimasti vergini, onde regnano con Dio, e l'Agnello di Dio con essi.
 
 [Lectio2]
-!Jer 31:18-20
+!Jerem 31:18-20
 18 Ho ascoltato attentamente Efraim nella sua cattività: Tu mi hai castigato, e sono stato corretto come un indomito torello: convertimi, e mi convertirò: perché tu sei il Signore mio Dio. 
 19 Poiché dopo che mi hai convertito, io ho fatto penitenza: e dopo che mi hai illuminato, ho percosso il mio fianco. Sono confuso e pien di rossore: perché porto l'obbrobrio della mia adolescenza. 
 20 Oh! sì, Efraim è il figlio mio onorato, il fanciullo delizioso: poiché da che ho parlato di lui, me ne ricorderò bene ancora.
@@ -73,7 +73,7 @@ V. Vidi sotto l'altare di Dio le anime degli uccisi per la parola di Dio e per l
 R. Perché non difendi il nostro sangue? Ed ebbero la divina risposta: Attendete ancora un po' di tempo, finché sia completo il numero dei vostri fratelli.
 
 [Lectio3]
-!Jer 31:21-23
+!Jerem 31:21-23
 21 Fatti una specola, abbandonati al rammarico rivolgi il tuo cuore alla via retta su cui hai camminato: ritorna, o vergine d'Israele, ritorna a queste tue città. 
 22 Fino a quanto ti snerverai nelle dissolutezze, figlia vagabonda? perché il Signore ha creato una cosa nuova sulla terra: Una donna chiuderà in sé un uomo. 
 23 Questo dice il Signore degli eserciti, il Dio d'Israele: Essi diranno ancora questa parola nella terra di Giuda e nelle sue città, quando li avrò fatti ritornare dalla loro cattività: Ti benedica il Signore, splendor di giustizia, monte santo.
@@ -122,7 +122,7 @@ Questi sono quelli che sono venuti * da una grande tribolazione, ed hanno lavate
 
 [Lectio7]
 Lettura del santo Vangelo secondo Matteo
-!Matt 2:13-18
+!Matth 2:13-18
 In quell'occasione: Un Angelo del Signore apparve in sogno a Giuseppe e gli disse: Levati, prendi il Bambino e sua Madre, e fuggi in Egitto, e fermati là finché io t'avviserò. Eccetera.
 _
 Omelia di san Girolamo Prete
@@ -163,7 +163,7 @@ Una voce s'è intesa in Rama, * pianti e grida, Rachele che piangeva i suoi figl
 Sotto il trono di Dio * tutti i Santi gridano: Vendica il nostro sangue, Dio nostro.
 
 [Capitulum Laudes]
-!Apo 14:1
+!Apoc 14:1
 v. Vidi l'Agnello che stava sul monte di Sion, e con esso cento quarantaquattro mila (persone), che avevano scritto sulle loro fronti il nome di lui e il nome dei Padre suo.
 
 [Hymnus Laudes]
@@ -192,21 +192,21 @@ R. In Betlemme di Giuda città di Davide.
 Questi sono * quelli che non si sono macchiati con donne; ché essi sono vergini, e seguono l'Agnello dovunque vada.
 
 [Lectio Prima]
-!Apo 14:4-5
+!Apoc 14:4-5
 v. Questi furono comprati di mezzo agli uomini (quali) primizie a Dio e all'Agnello, e nella loro bocca non fu trovata menzogna: ché essi sono senza macchia dinanzi al trono di Dio.
 
 [Capitulum Tertia]
-!Apo 14:1
+!Apoc 14:1
 v. Vidi l'Agnello che stava sul monte di Sion, e con esso cento quarantaquattro mila (persone), che avevano scritto sulle loro fronti il nome di lui e il nome dei Padre suo.
 $Deo gratias
 
 [Capitulum Sexta]
-!Apo 14:4
+!Apoc 14:4
 v. Questi sono quelli che non si sono macchiati con donne; ché essi sono vergini. Questi seguono l'Agnello dovunque vada.
 $Deo gratias
 
 [Capitulum Nona]
-!Apo 14:4-5
+!Apoc 14:4-5
 v. Questi furono comprati di mezzo agli uomini (quali) primizie a Dio e all'Agnello, e nella loro bocca non fu trovata menzogna: ché essi sono senza macchia dinanzi al trono di Dio.
 $Deo gratias
 
@@ -218,7 +218,7 @@ Una voce s'è intesa in Rama, * pianti e grida, Rachele che piangeva i suoi figl
 Sotto il trono di Dio * tutti i Santi gridano: Vendica il nostro sangue, Dio nostro.;;131
 
 [Capitulum Vespera]
-!Apo 14:1
+!Apoc 14:1
 v. Vidi l'Agnello che stava sul monte di Sion, e con esso cento quarantaquattro mila (persone), che avevano scritto sulle loro fronti il nome di lui e il nome dei Padre suo.
 $Deo gratias
 

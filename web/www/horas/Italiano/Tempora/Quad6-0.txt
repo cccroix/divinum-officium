@@ -14,7 +14,7 @@ $Per eumdem
 
 [Lectio1]
 Dal Profeta Geremia
-!Ger 2:12-17
+!Jerem 2:12-17
 12 Stupite, o cieli, inorridite fuormisura porte di esso su tal fatto, dice il Signore. 
 13 Perché il mio popolo ha fatto due mali: Hanno abbandonato me fonte di acqua viva, e si sono scavate delle cisterne, delle cisterne forate che non valgono a contenere le acque. 
 14 Israele è forse uno schiavo, o figlio di schiava? Perché dunque è messo a ruba? 
@@ -29,7 +29,7 @@ V. Nel giorno della mia tribolazione ho gridato a te, perché m'hai esaudito.
 R. Tu hai giudicato la mia causa, e m'hai liberato, o Signore, Dio mio.
 
 [Lectio2]
-!Ger 2:18-22
+!Jerem 2:18-22
 18 E adesso che vuoi tu fare andando verso l'Egitto a bere acqua torbida? e che vuoi andando verso gli Assiri a bere l'acqua d'un fiume? 
 19 La tua malvagità ti condannerà, e la tua ribellione griderà contro di te. Riconosci, e guarda com'è male e doloroso l'aver tu abbandonato il Signore Dio tuo, e non avere tu il mio timore, dice il Signore Dio degli eserciti. 
 20 Già da gran tempo spezzasti il mio giogo, rompesti i miei legami, e dicesti: Non servirò. Infatti su ogni alto colle e sotto ogni ombrosa pianta tu peccasti, sfacciata donna. 
@@ -43,7 +43,7 @@ V. M'hanno abbandonato i miei congiunti, e quelli che mi conoscono.
 R. Come stranieri si sono ritirati da me.
 
 [Lectio3]
-!Ger 2:29-32
+!Jerem 2:29-32
 29 Perché volete disputare con me in giudizio? Mi avete tutti abbandonato, dice il Signore. 
 30 Invano castigai i vostri figli, essi non accolsero la correzione: la vostra spada divorò i vostri profeti, come leone che devasta 
 31 è la vostra generazione. Osservate ciò che dice il Signore: Son io stato forse per Israele un deserto, o una terra tardiva? Perché dunque il mio popolo ha detto: Noi ci siamo ritirati, non verrem più da te? 
@@ -90,7 +90,7 @@ R. Non essermi estraneo, o Signore: perdonami nel giorno cattivo: siano confusi 
 
 [Lectio7]
 Lettura del santo Vangelo secondo Matteo
-!Matt 21:1-9
+!Matth 21:1-9
 In quell'occasione: Come Gesù fu vicino a Gerusalemme, e arrivato a Betfage, presso il monte Oliveto, allora mandò due discepoli, dicendo loro. Eccetera.
 _
 Omelia di sant'Ambrogio Vescovo
@@ -131,7 +131,7 @@ Mostriamoci fedeli * insieme cogli Angeli e coi bambini, gridando al trionfatore
 Sian confusi * quelli che mi perseguitano, ma non resti confuso io, o Signore Dio mio.
 
 [Capitulum Laudes]
-!Filipp. 2:5-7
+!Phil 2:5-7
 v. Fratelli: Abbiate dentro di voi gli stessi sentimenti di Gesù Cristo: il quale sebbene fosse della natura di Dio, non credé che fosse una usurpazione quel suo farsi uguale a Dio: ma annientò se stesso, prendendo la natura di servo, facendosi simile agli uomini, dandosi esternamente a riconoscere per uomo.
 $Deo gratias
 
@@ -145,7 +145,7 @@ I fanciulli degli Ebrei, * portando dei rami d'olivo, andarono incontro al Signo
 I fanciulli degli Ebrei * stendevano le proprie vesti sulla via, gridando e dicendo: Evviva il Figlio di David: benedetto colui che viene nel nome del Signore.
 
 [Capitulum Tertia]
-!Filipp. 2:5-7
+!Phil 2:5-7
 v. Fratelli: Abbiate dentro di voi gli stessi sentimenti di Gesù Cristo: il quale sebbene fosse della natura di Dio, non credé che fosse una usurpazione quel suo farsi uguale a Dio: ma annientò se stesso, prendendo la natura di servo, facendosi simile agli uomini, dandosi esternamente a riconoscere per uomo.
 $Deo gratias
 
@@ -153,7 +153,7 @@ $Deo gratias
 A te ho rimesso * la mia causa, o difensore della mia vita, Signore, Dio mio.
 
 [Capitulum Sexta]
-!Filipp. 2:8-9
+!Phil 2:8-9
 v.  Egli abbassò se stesso fattosi ubbidiente sino a morire, e a morire in croce. Per questo anche Dio lo ha esaltato, e gli ha dato un nome ch'è al di sopra di ogni nome.
 $Deo gratias
 
@@ -161,12 +161,12 @@ $Deo gratias
 Invocherò * il tuo nome, o Signore: non voltar la tua faccia dal mio grido.
 
 [Capitulum Nona]
-!Filipp. 2:10-11
+!Phil 2:10-11
 v. Al nome di Gesù si pieghi ogni ginocchio degli esseri celesti, terrestri e infernali: e ogni lingua confessi che il Signore Gesù Cristo è nella gloria di Dio Padre.
 $Deo gratias
 
 [Capitulum Vespera]
-!Filipp. 2:5-7
+!Phil 2:5-7
 v. Fratelli: Abbiate dentro di voi gli stessi sentimenti di Gesù Cristo: il quale sebbene fosse della natura di Dio, non credé che fosse una usurpazione quel suo farsi uguale a Dio: ma annientò se stesso, prendendo la natura di servo, facendosi simile agli uomini, dandosi esternamente a riconoscere per uomo.
 $Deo gratias
 

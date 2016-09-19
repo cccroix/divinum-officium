@@ -16,7 +16,7 @@ $Per Dominum
 
 [Lectio1]
 Dagli Atti degli Apostoli
-!Atti 13:43-47
+!Act 13:43-47
 43 Scioltasi la adunanza, molti dei Giudei e dei proseliti pii seguirono Paolo e Barnaba; e questi colle loro parole li persuadevano a perseverare nella grazia di Dio. 
 44 E il sabato seguente quasi tutta la città accorse per sentire la parola di Dio. 
 45 Ma i Giudei, vista la folla, ne furon pieni d'invidia e, bestemmiando, contradicevano alle cose dette da Paolo. 
@@ -24,7 +24,7 @@ Dagli Atti degli Apostoli
 47 perché così ci ha ordinato il Signore: «Io ti ho costituito per essere luce delle Genti, per essere la salvezza sino agli estremi confini della terra» (Is. 49,6).
 
 [Lectio2]
-!Atti 13:48-52
+!Act 13:48-52
 48 Udendo questo i Gentili si rallegrarono e glorificavano la parola del Signore, e quanti erano preordinati alla vita eterna credettero. 
 49 Così la parola di Dio si diffondeva per tutto quel paese. 
 50 Ma i Giudei istigarono matrone timorate e ragguardevoli e i principali della città, e suscitarono una persecuzione contro Paolo e Barnaba, e li scacciarono dal loro territorio. 
@@ -32,7 +32,7 @@ Dagli Atti degli Apostoli
 52 I discepoli poi erano pieni d'allegrezza e di Spirito Santo.
 
 [Lectio3]
-!Atti 14:1-3
+!Act 14:1-3
 1 Avvenne pure in Iconio che essi entrarono insieme nella sinagoga dei Giudei e ragionarono in maniera che una gran moltitudine di Giudei e di Greci credette. 
 2 Ma i Giudei rimasti increduli, misero su e inasprirono gli animi dei Gentili contro i fratelli. 
 3 Essi però si fermaron molto tempo, predicando liberamente nel Signore, il quale confermava la parola della sua grazia, concedendo che si operassero per mezzo delle loro mani miracoli e prodigi.
@@ -48,7 +48,7 @@ Mentre Paolo e Barnaba attendevano al servizio del Signore nella Chiesa di Antio
 
 [Lectio7]
 Lettura del santo Vangelo secondo Matteo
-!Matt 10:16-22
+!Matth 10:16-22
 In quell'occasione: Gesù disse ai suoi discepoli: Ecco, io vi mando come pecore in mezzo ai lupi. Eccetera.
 _
 !Omelia di san Giovanni Crisostomo

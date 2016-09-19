@@ -5,7 +5,7 @@ Sabbato infra Hebdomadam Passionis;;Feria major;;2
 
 [Lectio1]
 Lettura del santo Vangelo secondo Giovanni
-!Gio 12:10-36
+!Joann 12:10-36
 In quell'occasione: I capi sacerdoti deliberarono di ammazzare anche Lazzaro; perché, per cagione sua, molti Giudei li abbandonavano per seguire Gesù. Eccetera.
 _
 Omelia di sant'Agostino Vescovo
@@ -35,7 +35,7 @@ Fa, Signore, che il popolo a te consacrato progredisca nel sentimento d'una sant
 $Per Dominum
 
 [Capitulum Vespera]
-!Fil. 2:5-7
+!Phil 2:5-7
 v. Fratelli : Abbiate dentro di voi gli stessi sentimenti di Gesù Cristo : il quale sebbene fosse della natura di Dio, non credè che fosse una usurpazione quel suo farsi uguale a Dio : ma annientò se stesso, prendendo la natura di servo, facendosi simile agli uomini, dandosi esternamente a riconoscere per uomo.
 $Deo gratias
 

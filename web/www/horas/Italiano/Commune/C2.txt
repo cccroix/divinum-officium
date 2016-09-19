@@ -15,7 +15,7 @@ Se uno mi servirà, * sarà onorato dal Padre mio che è nei cieli, dice il Sign
 Io voglio, * o Padre, che dove sono io, ci sia anche il mio servo.;;116
 
 [Capitulum Vespera]
-!Gia 1:12
+!Jacob 1:12
 v. Beato l'uomo che sopporta la tentazione, poiché quando sarà stato provato, riceverà la corona della vita, che Dio ha promesso a coloro che lo amano.  
 $Deo gratias
 
@@ -78,7 +78,7 @@ R. Lo hai ricoperto di grande gloria e di splendore.
 
 [Lectio1]
 Lettura dagli Atti degli Apostoli
-!Atti 20:17-24
+!Act 20:17-24
 17 Da Mileto, Paolo mandò a chiamare i presbiteri della Chiesa di Efeso.
 18 Arrivati e riuniti intorno a lui, disse loro: "Voi sapete in qual modo, dal primo giorno in cui venni in Asia, mi sono comportato con voi per tutto questo tempo,
 19 servendo al Signore con tutta umiltà, tra le lacrime e le tribolazioni che mi sopravvennero dalle insidie dei Giudei,
@@ -95,7 +95,7 @@ V. Questi è colui che disprezzò la vita del mondo e giunse al regno dei cieli.
 R. poiché era fondato su solida pietra.
 
 [Lectio2]
-!Atti 20:25-31
+!Act 20:25-31
 25 "Ed ora, ecco, io so che voi tutti, tra i quali sono passato predicando il regno di Dio, non vedrete più la mia faccia.
 26 Ecco perché vi chiamo oggi quali testimoni che io sono innocente del sangue di tutti.
 27 Infatti, non mi sono mai rifiutato di annunziarvi interamente il disegno di Dio.
@@ -111,7 +111,7 @@ V. Stabilito nella casa del Signore, negli atri della casa del nostro Dio.
 R. E fiorirà in eterno davanti al Signore.
 
 [Lectio3]
-!Atti 20:32-38
+!Act 20:32-38
 32 "Ed ora vi affido a Dio e alla sua dottrina di grazia; egli può benissimo edificare e darvi l'eredità tra i suoi santi.
 33 Non ho desiderato l'oro, l'argento le vesti di nessuno.
 34 Voi stessi siete testimoni, che per le necessità mie e dei miei compagni faticarono queste mie mani.
@@ -161,7 +161,7 @@ R. E sul suo capo ha posto una corona meravigliosa.
 
 [Lectio7]
 Dal Vangelo secondo Luca
-!Luca 14:26-33
+!Luc 14:26-33
 In quel Gesù disse alle turbe: "Se uno viene a me e non odia suo padre e sua madre e la moglie e i figli e i fratelli e le sorelle, e perfino la sua vita, non può essere mio discepolo".  (continua nella Messa del giorno) 
 _
 Omelia di s. Gregorio papa
@@ -205,7 +205,7 @@ Se uno mi servirà, * sarà onorato dal Padre mio che è nei cieli, dice il Sign
 Io voglio, * o Padre, che dove sono io, ci sia anche il mio servo.
 
 [Capitulum Laudes]
-!Gia 1:12
+!Jacob 1:12
 v. Beato l'uomo che sopporta la tentazione, poiché quando sarà stato provato, riceverà la corona della vita, che Dio ha promesso a coloro che lo amano.  
 $Deo gratias
 
@@ -255,11 +255,11 @@ Concedi, o Dio onnipotente, che, per intercessione del tuo santo martire N., sia
 $Per Dominum
 
 [Lectio Prima]
-!Sir 39:6
+!Eccl 39:6
 v. Il giusto appena svegliato, fin dal mattino rivolge il suo cuore al Signore, che lo ha creato, e prega alla presenza dell'Altissimo.  
 
 [Capitulum Tertia]
-!Gia 1:12
+!Jacob 1:12
 v. Beato l'uomo che sopporta la tentazione, poiché quando sarà stato provato, riceverà la corona della vita, che Dio ha promesso a coloro che lo amano.  
 $Deo gratias
 
@@ -275,7 +275,7 @@ V. Hai posto, o Signore, sul suo capo.
 R. Una corona di pietre preziose.
 
 [Capitulum Sexta]
-!Sir 15:3
+!Eccl 15:3
 v. Lo nutrì col pane della vita e dell'intelligenza e gli offrì da bere l'acqua della sapienza e della salvezza, il Signore Dio nostro.  
 $Deo gratias
 
@@ -291,7 +291,7 @@ V. Grande è la sua gloria per la tua salvezza.
 R. Lo hai ricoperto di grande gloria e di splendore.
 
 [Capitulum Nona]
-!Sir 39:6
+!Eccl 39:6
 v. Il giusto appena svegliato, fin dal mattino rivolge il suo cuore al Signore, che lo ha creato, e prega alla presenza dell'Altissimo.  
 $Deo gratias
 
@@ -345,7 +345,7 @@ R. Nel giorno della solennità e della gioia, alleluia.
 
 [Lectio71]
 Dal Vangelo secondo Giovanni
-!Gio 15:5-11
+!Joann 15:5-11
 In quel tempo Gesù disse ai suoi discepoli: "Io sono la vite, voi i tralci: se uno rimane in me, ed io in lui, questi porta molto frutto; poiché senza di me non potete far nulla". (continua nella Messa del giorno) 
 _
 Omelia di s Agostino vescovo
@@ -375,7 +375,7 @@ R. E come il latte si sono rassodati, alleluia, alleluia.
 
 [Lectio72]
 Dal Vangelo secondo Matteo
-!Matt 10:26-32
+!Matth 10:26-32
 In quel tempo, Gesù disse ai suoi discepoli: Poiché nulla v'è di nascosto che non debba essere rivelato, e niente d'occulto che non s'abbia a sapere. (continua nella Messa del giorno) 
 _
 Omelia di san Ilario vescovo
@@ -406,7 +406,7 @@ Non temete coloro che uccidono il corpo. Niente che accade ai nostri corpi è da
 
 [Lectio73]
 Dal Vangelo secondo Matteo
-!Matt 16:24-27
+!Matth 16:24-27
 In quel tempo Gesù disse ai suoi discepoli: Chi vuol venire dietro a me, rinneghi se stesso, e tolga la sua croce, e mi segua.  (continua nella Messa del giorno) 
 _
 Omelia di s. Gregorio papa

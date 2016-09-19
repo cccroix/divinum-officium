@@ -18,7 +18,7 @@ Perché dunque il tuo mantello è rosso, e le tue vesti sono come di coloro che 
 Il torchio * lo pigiai da me solo, e delle Genti nessuno era con me.
 
 [Capitulum Vespera]
-!Ebr 9:11-12
+!Hebr 9:11-12
 v. Fratelli: Cristo venuto qual Pontefice dei beni futuri, col passar per un tabernacolo più grande e più perfetto, non costruito da mano d'uomo, cioè non appartenente a questa creazione: e non col sangue di capri o di tori, ma col proprio sangue entrò una sola volta per sempre nel Santo dei santi, dopo aver acquistato una redenzione eterna.
 $Deo gratias
 
@@ -135,7 +135,7 @@ R. E ci ha lavati dai nostri peccati nel sangue suo.
 
 [Lectio1]
 Dalla Lettera dell'Apostolo san Paolo agli Ebrei
-!Ebr 9:11-15
+!Hebr 9:11-15
 11 Cristo venuto qual Pontefice dei beni futuri, col passar per un tabernacolo più grande e più perfetto non costruito da mano d'uomo, cioè non appartenente a questa creazione;
 12 e non col sangue di capri o di tori, ma col proprio sangue entrò una sola volta per sempre nel Santo dei santi, dopo aver acquistato una redenzione eterna.
 13 Infatti se il sangue di capri e di tori e la cenere d'una giovenca, che si asperge su quelli che sono immondi, li santificano in modo da procurar loro la purezza del corpo;
@@ -149,7 +149,7 @@ V. Poiché voi non avete ancora resistito fino al sangue pugnando contro il pecc
 R. Andiamo dunque a lui fuori degli alloggiamenti, portando le sue ignominie.
 
 [Lectio2]
-!Ebr 9:16-22
+!Hebr 9:16-22
 16 Infatti dove c'è un testamento, è necessario che intervenga la morte del testatore.
 17 Perché il testamento è ratificato mediante la morte: diversamente non ha valore finché vive il testatore.
 18 Ond'è che neppure il primo fu consacrato senza sangue.
@@ -165,7 +165,7 @@ V. Per la fede celebrò la Pasqua e fece l'aspersione del sangue, affinché l'uc
 R. E disse: Questo è il sangue dell'alleanza che il Signore ha stretto con voi.
 
 [Lectio3]
-!Ebr 10:19-24
+!Hebr 10:19-24
 19 Avendo dunque, o fratelli, la fiducia d'entrare nel santo dei santi per mezzo del sangue di Cristo,
 20 via nuova e vivente, ch'egli ci ha aperto attraverso il velo, cioè la sua carne, 
 21 e avendo un gran sacerdote che presiede alla casa di Dio,
@@ -214,7 +214,7 @@ R. In questo, che mentre noi eravamo peccatori, Cristo morì per noi nel tempo o
 
 [Lectio7]
 Lettura del santo Vangelo secondo Giovanni
-!Giov 19:30-35
+!Joann 19:30-35
 In quell'occasione: Gesù quand'ebbe preso l'aceto, disse: E finita. E chinato il capo, rese lo spirito. Eccetera.
 _
 Omelia di sant'Agostino Vescovo
@@ -250,7 +250,7 @@ Perché dunque il tuo mantello è rosso, e le tue vesti sono come di coloro che 
 Il torchio * lo pigiai da me solo, e delle Genti nessuno era con me.
 
 [Capitulum Laudes]
-!Ebr 9:11-12
+!Hebr 9:11-12
 v. Fratelli: Cristo venuto qual Pontefice dei beni futuri, col passar per un tabernacolo più grande e più perfetto, non costruito da mano d'uomo, cioè non appartenente a questa creazione; e non col sangue di capri o di tori, ma col proprio sangue entrò una sola volta per sempre nel Santo dei santi, dopo aver acquistato una redenzione eterna.
 $Deo gratias
 
@@ -312,14 +312,14 @@ Il sangue dell'Agnello * sarà per voi il segnale, dice il Signore, e io vedrò 
 @Sancti/06-24:Octava
 
 [Lectio Prima]
-!Ebr 9:19-20
+!Hebr 9:19-20
 v. Mosè preso il sangue di tori e di capri, non acqua e con lana scarlatta e l'issopo asperse insieme e il libro stesso e tutto il popolo, dicendo: Questo è il sangue dell'alleanza che Dio ha stretto con voi.
 
 [Versum Prima]
 Tu che ci hai redenti col tuo sangue.
 
 [Capitulum Tertia]
-!Ebr 9:11-12
+!Hebr 9:11-12
 v. Fratelli: Cristo venuto qual Pontefice dei beni futuri, col passar per un tabernacolo più grande e più perfetto, non costruito da mano d'uomo, cioè non appartenente a questa creazione; e non col sangue di capri o di tori, ma col proprio sangue entrò una sola volta per sempre nel Santo dei santi, dopo aver acquistato una redenzione eterna.
 $Deo gratias
 
@@ -335,7 +335,7 @@ V. Il sangue di Gesù Cristo Figlio di Dio.
 R. Ci purifica da ogni peccato.
 
 [Capitulum Sexta]
-!Ebr 9:13-14
+!Hebr 9:13-14
 v. Se il sangue di capri e di tori e la cenere d'una giovenca, che si asperge su quelli che sono immondi, li santificano in modo da procurar loro la purezza del corpo; quanto più il sangue di Cristo, che mediante lo Spirito Santo, ha offerto se stesso, ch'era senza macchia, a Dio, purificherà la nostra coscienza dalle opere di morte perché serviamo a Dio vivente?
 $Deo gratias
 
@@ -351,7 +351,7 @@ V. Cristo ci ha amati.
 R. E ci ha lavati nel sangue suo.
 
 [Capitulum Nona]
-!Ebr 9:19-20
+!Hebr 9:19-20
 v. Mosè preso il sangue di tori e di capri, non acqua e con lana scarlatta e l'issopo asperse insieme e il libro stesso e tutto il popolo, dicendo: Questo è il sangue dell'alleanza che Dio ha stretto con voi.
 $Deo gratias
 

@@ -20,7 +20,7 @@ $Per Dominum
 
 [Lectio1]
 Incomincia la Lettera dell'Apostolo san Paolo agli Ebrei
-!Heb 1:1-4
+!Hebr 1:1-4
 1 Iddio, che molte volte e in molte guise parlò un tempo ai padri per mezzo dei profeti: 
 2 in questi ultimi tempi ha parlato a noi per mezzo del Figlio, che costituì erede di ogni cosa, per cui creò anche i secoli: 
 3 il quale essendo il riflesso della gloria e l'impronta dell'essenza di lui, e sostentando tutte le cose colla parola della sua potenza, compiuta l'espiazione dei peccati, s'è assiso alla destra della maestà nei più alto dei cieli, 
@@ -30,7 +30,7 @@ Incomincia la Lettera dell'Apostolo san Paolo agli Ebrei
 @TemporaM/Epi2-0:Responsory1
 
 [Lectio2]
-!Heb 1:5-9
+!Hebr 1:5-9
 5 Infatti a qual mai degli Angeli ha mai detto: «Tu sei mio figlio, oggi io ti ho generato?» (Ps. 2, 7). E ancora: «Io gli sarò padre, ed egli mi sarà figlio?» (2 Reg. 7, 14). 
 6 E quando introduce di nuovo il primogenito nel mondo, dice: «Lo adorino tutti gli Angeli di Dio» (Ps. 96, 7). 
 7 E riguardo agli Angeli, dice: «Colui che fa gli Angeli suoi come venti, e i suoi ministri fiamme di fuoco» (Ps. 103, 4). 
@@ -41,7 +41,7 @@ Incomincia la Lettera dell'Apostolo san Paolo agli Ebrei
 @TemporaM/Epi2-0:Responsory2
 
 [Lectio3]
-!Heb 1:10-14
+!Hebr 1:10-14
 10 E: «Tu, o Signore, in principio hai fondato la terra: e opera delle tue mani sono i cieli. 
 11 Essi periranno, ma tu rimarrai, e invecchieranno tutti come un vestito: 
 12 e tu come una veste li rivolterai, e saranno mutati: ma tu sei sempre lo stesso e i tuoi anni non finiranno mai» (Ps. 101, 26-28). 
@@ -73,7 +73,7 @@ Pertanto l'Apostolo distinguendo fra il ministero dell'antica e quello della nuo
 
 [Lectio7]
 Lettura del santo Vangelo secondo Matteo
-!Matt 13:31-32
+!Matth 13:31-32
 In quell'occasione: Gesù propose alle turbe questa parabola: Il regno dei cieli è simile a un chicco di senapa, che un uomo ha preso e seminato nel suo campo. Eccetera.
 _
 Omelia di san Girolamo Prete
@@ -109,7 +109,7 @@ Il regno dei cieli * è simile al lievito, che una donna prende e rimescola con 
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Matteo
-!Matt 13:31-35
+!Matth 13:31-35
 13:31 In quel tempo: Gesù disse alle turbe questa parabola: Il regno dei cieli è simile a un grano di senape, che un uomo prese e seminò nel suo campo: 
 13:32 e questo grano è la più piccola di tutte le sementi, ma, cresciuta che sia, è più grande di tutti gli erbaggi e diventa un albero: così che gli uccelli dell’aria vanno e si riposano sui suoi rami. 
 13:33 E disse loro un’altra parabola: Il regno dei cieli è simile a un po’ di lievito, che una donna mescola a tre staia di farina, così che tutto sia fermentato. 

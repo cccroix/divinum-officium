@@ -15,7 +15,7 @@ Furono tutti ripieni * di Spirito Santo, e cominciarono a parlare, alleluia, all
 Parlavano * gli Apostoli in varie lingue delle grandezze di Dio, alleluia, alleluia, alleluia.
 
 [Capitulum Vespera]
-!Atti 2:1-2
+!Act 2:1-2
 v. Giunto il giorno della Pentecoste, i discepoli stavano tutti insieme nel medesimo luogo: e all'improvviso venne dal cielo un rumore, come di vento che si avanza impetuoso, e riempì tutta la casa dove si trovavano raccolti.
 $Deo gratias
 _
@@ -147,7 +147,7 @@ R. E cominciarono a parlare, alleluia.
 
 [Lectio1]
 Dagli Atti degli Apostoli
-!Atti 2:1-7
+!Act 2:1-7
 1 Giunto il giorno della Pentecoste, stavano tutti insieme nel medesimo luogo: 
 2 e all'improvviso venne dal cielo un rumore, come di vento che si avanza impetuoso, e riempì tutta la casa dove si trovavano raccolti. 
 3 E videro comparire delle lingue come di fuoco che si separarono e si posarono sopra ciascun di loro: 
@@ -163,7 +163,7 @@ V. Mentre adunque i discepoli stavano insieme riuniti per timore dei Giudei, all
 R. Come di vento che si avanza impetuoso, e riempì tutta la casa, alleluia, alleluia.
 
 [Lectio2]
-!Atti 2:8-14
+!Act 2:8-14
 8 Come mai li abbiamo ciascuno uditi parlare la nostra lingua natia?
 9 Parti, e Medi ed Elamiti, e abitanti della Mesopotamia, e della Giudea, e della Cappadocia, del Ponto, e dell'Asia,
 10 della Frigia, e della Panfilia, dell'Egitto e dei paesi della Libia, che è intorno a Cirene, e pellegrini Romani,
@@ -181,7 +181,7 @@ R. E accorsero (i Giudei) in folla dicendo, alleluia.
 R. E accorsero (i Giudei) in folla dicendo, alleluia.
 
 [Lectio3]
-!Atti 2:15-21
+!Act 2:15-21
 15 Costoro certo non sono ubriachi, come voi vi pensate, poiché sono appena le nove di giorno: 
 16 è invece quel che fu predetto dal profeta Gioele: 
 17 «Negli ultimi giorni, dice il Signore, avverrà, che io spanderò del mio Spirito in tutti i mortali: e i vostri figli e le vostre figlie profeteranno, e i vostri giovani avranno delle visioni, e i vostri vecchi avranno dei sogni.
@@ -234,7 +234,7 @@ R. Chi crederà e sarà battezzato, sarà salvo, alleluia, alleluia, alleluia.
 
 [Lectio7]
 Lettura del santo Vangelo secondo Giovanni
-!Giov. 14:23-31
+!Joann 14:23-31
 In quell'occasione: Gesù disse ai suoi discepoli: Se uno mi ama, osserverà la mia parola, e il Padre mio lo amerà, e verremo a lui, e faremo dimora presso di lui. Eccetera.
 _
 Omelia di san Gregorio Papa
@@ -277,7 +277,7 @@ Fonti * e abitatori tutti delle acque, inneggiate a Dio, alleluia.
 Parlavano * gli Apostoli in varie lingue delle grandezze di Dio, alleluia, alleluia, alleluia.
 
 [Capitulum Laudes]
-!Atti 2:1-2
+!Act 2:1-2
 v. Giunto il giorno della Pentecoste, i discepoli stavano tutti insieme nel medesimo luogo: e all'improvviso venne dal cielo un rumore, come di vento che si avanza impetuoso, e riempì tutta la casa dove si trovavano raccolti.
 $Deo gratias
 _
@@ -333,7 +333,7 @@ R. E cominciarono a parlare, alleluia
 Ricevete * lo Spirito Santo: a chi rimetterete i peccati, saranno loro rimessi, alleluia.
 
 [Lectio Prima]
-!Atti 2:11
+!Act 2:11
 Tanto Giudei, come Proseliti, Cretesi ed Arabi, noi li abbiamo uditi annunziare nelle nostre lingue le grandezze di Dio.
 
 [Hymnus Tertia]
@@ -374,7 +374,7 @@ per i secoli dei secoli.
 Amen.
 
 [Capitulum Tertia]
-!Atti 2:1-2
+!Act 2:1-2
 v. Giunto il giorno della Pentecoste, i discepoli stavano tutti insieme nel medesimo luogo: e all'improvviso venne dal cielo un rumore, come di vento che si avanza impetuoso, e riempì tutta la casa dove si trovavano raccolti.
 $Deo gratias
 
@@ -385,7 +385,7 @@ V. Lo Spirito Paraclito, alleluia.
 R. V'insegnerà ogni cosa, alleluia.
 
 [Capitulum Sexta]
-!Atti 2:6
+!Act 2:6
 v. E udito quel rumore, accorsero in folla, e rimasero attoniti perché ciascuno li udiva parlare nella propria lingua.
 $Deo gratias
 
@@ -396,7 +396,7 @@ V. Furono tutti ripieni di Spirito Santo, alleluia.
 R. E cominciarono a parlare, alleluia.
 
 [Capitulum Nona]
-!Atti 2:11
+!Act 2:11
 v. Tanto Giudei, come Proseliti, Cretesi ed Arabi, noi li abbiamo uditi annunziare nelle nostre lingue le grandezze di Dio.
 $Deo gratias
 
@@ -409,7 +409,7 @@ Quest'oggi * si sono compiuti i giorni della Pentecoste, alleluia: quest'oggi lo
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Giovanni
-!Giov. 14:23-31
+!Joann 14:23-31
 14:23 Chiunque mi ama, osserverà la mia parola, e il Padre mio lo amerà, e verremo da lui, e faremo dimora presso di lui :
 14:24 Chi non mi ama, non osserva le mie parole. E la parola che udiste, non è mia : ma del Padre che mi ha mandato. 
 14:25 Queste cose ho detto a voi, conversando tra voi.

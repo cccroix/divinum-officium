@@ -7,7 +7,7 @@ Feria Te Deum
 
 [Lectio1]
 Dal libro dell'Apocalisse dell'Apostolo san Giovanni.
-!Apo 15:1-4
+!Apoc 15:1-4
 1 E vidi nel cielo un altro grande e meraviglioso prodigio, sette Angeli che portavano le sette ultime piaghe: perché con queste si compie l'ira di Dio. 
 2 E vidi come un mare di vetro misto di fuoco, e quelli che avevano vinto la bestia e la sua immagine e il numero del suo nome, stavano ritti sul mare di vetro, tenendo cetre Divine: 
 3 e cantavano il cantico del servo di Dio Mosè, e il cantico dell'Agnello, dicendo: Grandi e mirabili sono le tue opere, o Signore Dio onnipotente: giuste e vere sono le tue vie, o Re dei secoli. 
@@ -17,7 +17,7 @@ Dal libro dell'Apocalisse dell'Apostolo san Giovanni.
 @TemporaM/Pasc3-0:Responsory1
 
 [Lectio2]
-!Apo 15:5-8
+!Apoc 15:5-8
 5 Dopo ciò mirai, ed ecco aprirsi nel cielo il tempio del tabernacolo della testimonianza: 
 6 e uscirono dal tempio i sette Angeli che portavano le sette piaghe, vestiti di lino puro e candido e cinti intorno al petto con fasce d'oro. 
 7 E uno dei quattro animali diede ai sette Angeli sette coppe d'oro, piene dell'ira di Dio vivente per i secoli dei secoli. 
@@ -32,7 +32,7 @@ R. Venite a me, voi tutti che mi bramate, e saziatevi dei miei frutti, alleluia,
 R. Venite a me, voi tutti che mi bramate, e saziatevi dei miei frutti, alleluia, alleluia.
 
 [Lectio3]
-!Apo 16:1-6
+!Apoc 16:1-6
 1 E udii una gran voce dal tempio, che diceva ai sette Angeli; Andate, e versate sulla terra le sette coppe dell'ira di Dio. 
 2 E andò il primo, e versò la sua coppa sulla terra, e ne venne una ulcera maligna e pessima agli uomini che avevano il carattere della bestia, e a quelli che adorarono la sua immagine. 
 3 E il secondo Angelo versò la sua coppa nel mare, e diventò come sangue di cadavere: e ogni animale che vive nel mare perì. 

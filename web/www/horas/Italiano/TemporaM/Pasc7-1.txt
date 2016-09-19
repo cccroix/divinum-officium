@@ -14,21 +14,21 @@ Hymnus Tertia
 
 [Lectio1]
 Dagli Atti degli Apostoli
-!Atti 19:1-4
+!Act 19:1-4
 1 0r avvenne che, mentre Apollo era in Corinto, Paolo attraversate le Provincie superiori, giunse ad Efeso, e vi trovò alcuni discepoli :
 2 e disse loro : Avete voi ricevuto lo Spirito santo, dopo che avete creduto?  Ma quelli gli dissero : Non abbiamo nemmeno sentito a dire se vi sia lo Spirito santo.
 3 Ed egli disse : Come adunque siete stati battezzati ? E quelli dissero : Col battesimo di Giovanni.
 4 Ma disse Paolo : Giovanni battezzò con battesimo di penitenza il popolo, dicendo che credessero in quello, il quale doveva venir dopo di lui, cioè in Gesù.
 
 [Lectio2]
-!Atti 19:5-8
+!Act 19:5-8
 5 Udite tali cose, furono battezzati nel nome del Signore Gesù.
 6 E avendo Paolo imposte loro le mani, venne sopra di essi lo Spirito santo, e parlavano le lingue e profetavano.
 7 Questi erano in tutto circa dodici uomini. 
 8 Ed entrato nella Sinagoga parlava liberamente, disputando per tre mesi, e rendendo ragione delle cose del regno di Dio.
 
 [Lectio3]
-!Atti 19:9-12
+!Act 19:9-12
 9 Ma indurandosi alcuni, e non credendo, e dicendo male della via del Signore dinanzi alla moltitudine, ritiratosi da coloro, segregò i discepoli, e disputava ogni dì nella scuola di un certo Tiranno.
 10 E ciò fu per due anni, talmente che tutti quelli che abitavano nell'Asia, e Giudei e Gentili, udirono la parola del Signore,
 11 E Dio faceva miracoli non ordinari per mano di Paolo :
@@ -48,7 +48,7 @@ Avete già udito che fu risposto all'aspettativa con un grande miracolo. Tutti i
 
 [Lectio7]
 Lettura del santo Vangelo secondo Giovanni
-!Giov. 3:16-21
+!Joann 3:16-21
 In quell'occasione: Gesù disse a Nicodemo: Iddio ha amato tanto il mondo, che ha dato il suo Figlio unigenito: affinché chiunque crede in lui non perisca, ma abbia la vita eterna. Eccetera.
 _
 Omelia di sant'Agostino Vescovo
@@ -73,7 +73,7 @@ Se uno mi ama, * osserverà la mia parola: e il Padre mio lo amerà, e verremo a
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Giovanni
-!Giov. 3:16-21
+!Joann 3:16-21
 3:16 Poiché Dio ha talmente amato il mondo, che ha dato il Figlio suo unigenito, affinché chiunque crede in lui, non perisca ma abbia 
 la vita eterna.
 3:17 Che Dio non ha mandato il suo Figlio al mondo per condannare il mondo, ma affinché per mezzo di esso il mondo si salvi. 

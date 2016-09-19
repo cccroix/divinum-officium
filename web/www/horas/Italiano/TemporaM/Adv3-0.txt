@@ -32,7 +32,7 @@ $Qui vivis
 
 [Lectio1]
 Dal Profeta Isaia
-!Isa 26:1-6
+!Isai 26:1-6
 1 In quel giorno si canterà questo cantico nella terra di Giuda: Nostra città forte è Sion, il Salvatore si porrà in essa per muro e parapetto. 
 2 Aprite le porte, ed entri la gente giusta che custodisce la verità. 
 3 L'antico errore è dissipato: tu manterrai la pace: la pace, perché in te abbiam sperato. 
@@ -47,7 +47,7 @@ V. Apparirà alla fine, e non si smentirà: se indugierà, aspettalo, perché ce
 R. E con lui migliaia di Santi: ed avrà scritto sulla sua veste e sul suo fianco: Re dei re, e Signore dei dominanti.
 
 [Lectio2]
-!Isa 26:7-10
+!Isai 26:7-10
 7 La via del giusto è retta, retto il sentiero del giusto su cui cammina. 
 8 Anche nella via dei tuoi giudizi, o Signore, noi t'abbiamo aspettato: il tuo nome, e il tuo ricordo sono il desiderio dell'anima. 
 9 L'anima mia ti ha desiderato nella notte, ma anche col mio spirito e col mio cuore mi rivolgerò a te fin dal mattino. Quando avrai eseguito i tuoi giudizi sulla terra, gli abitanti del mondo apprenderanno la giustizia. 
@@ -60,7 +60,7 @@ V. Annunzierà la pace alle Genti, e il suo potere (si stenderà) da un mare fin
 R. E sarà pace nella nostra terra, quando verrà.
 
 [Lectio3]
-!Isa 26:11-14
+!Isai 26:11-14
 11 Signore, si alzi la tua mano, ed essi non lo vedano: vedano gl'invidiosi del popolo, e rimangan confusi: e il fuoco divori i tuoi nemici. 
 12 Signore, tu ci darai la pace perché tutte le opere nostre tu le hai fatte per noi. 
 13 Signore Dio nostro, altri padroni fuori di te ci han signoreggiato, solo per tua grazia ci ricorderemo del tuo nome. 
@@ -107,7 +107,7 @@ R. Spunterà nei giorni di lui la giustizia e abbondanza di pace.
 
 [Lectio7]
 Lettura del santo Evangelo secondo Giovanni
-!Joannes 1:19-28
+!Joann 1:19-28
 In quell'occasione: i Giudei da Gerusalemme mandarono a Giovanni dei sacerdoti e dei leviti per domandargli Tu chi sei? Eccetera.
 _
 Omelia di san Gregorio Papa
@@ -182,7 +182,7 @@ Beata sei, o Maria, * che hai creduto al Signore: s'adempiranno in te le cose ch
 
 [LectioE]
 v. Lettura del santo Evangelo secondo Giovanni
-!Joannes 1:19-28
+!Joann 1:19-28
 1:19 In quel tempo: Da Gerusalemme mandarono a Giovanni sacerdoti e leviti per domandargli: Chi sei? 
 1:20 Ed egli riconobbe, e non negò, e confessò: Non sono il Cristo. 
 1:21 Allora gli chiesero: Chi sei dunque? Elia? E disse: Non lo sono. Sei il profeta? E rispose: 

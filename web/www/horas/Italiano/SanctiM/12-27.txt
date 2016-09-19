@@ -20,7 +20,7 @@ $Per Dominum
 
 [Lectio1]
 Incomincia la prima Lettera dell'Apostolo san Giovanni
-!1 Joann. 1:1-5
+!1 Joann 1:1-5
 1 Quel che fu da principio, quel che abbiamo udito, quel che abbiam visto coi nostri occhi, quel che abbiam contemplato, e le nostre mani han palpato del Verbo della vita: 
 2 e la vita s'è manifestata, e noi l'abbiam vista, l'attestiamo, e l'annunziamo anche a voi questa vita eterna, che era presso il Padre ed è apparsa a noi -: 
 3 quel che abbiam visto e udito, l'annunziamo a voi, e affinché voi pure partecipiate alla nostra società, e la nostra società sia col Padre e col suo Figlio Gesù Cristo. 
@@ -35,7 +35,7 @@ V. Vergine fu eletto dal Signore e prediletto su gli altri.
 R. E a lui vergine, Cristo in croce affidò la Madre vergine.
 
 [Lectio2]
-!1 Joann. 1:6-10
+!1 Joann 1:6-10
 6 Se diremo d'aver società con lui, e camminiamo nelle tenebre, mentiamo, e non pratichiamo la verità. 
 7 Ma se camminiamo nella luce, come anch'egli è nella luce, siamo insieme nella stessa società, e il sangue di Gesù Cristo, suo Figlio, ci monda da ogni peccato. 
 8 Se diremo che non abbiamo peccato, inganniamo noi stessi, e la verità non è in noi. 
@@ -49,7 +49,7 @@ V. Egli bevve le acque vive del Vangelo dallo stesso sacro fonte del cuore Divin
 R. E noi sappiamo che la sua testimonianza è veridica.
 
 [Lectio3]
-!1 Joann. 2:1-5
+!1 Joann 2:1-5
 1 Figlini miei, vi scrivo queste cose, affinché non pecchiate. E se alcuno avrà peccato, abbiamo un avvocato presso il Padre, Gesù Cristo il giusto: 
 2 ed egli è l'espiazione per i nostri peccati: né solo per i nostri, ma anche per quelli di tutto il mondo. 
 3 Ora da questo sappiamo che lo abbiamo conosciuto, se osserviamo i suoi comandamenti. 
@@ -99,7 +99,7 @@ R. Ed il Signore lo riempié dello spirito di sapienza e d'intelligenza.
 
 [Lectio7]
 Lettura del santo Vangelo secondo Giovanni
-!Joannes 21:19-24
+!Joann 21:19-24
 In quell'occasione: Gesù disse a Pietro: Seguimi. Pietro voltatosi, vide venirgli appresso quel discepolo ch'era caro a Gesù. Eccetera.
 _
 Omelia di sant'Agostino Vescovo
@@ -142,7 +142,7 @@ C'è di quelli tra i qui presenti, * che non gusteranno la morte, finché non ve
 Ecco il mio servo * eletto, ch'io ho scelto, e ho posto su di lui il mio Spirito.
 
 [Capitulum Laudes]
-!Sir 15:1-2
+!Eccl 15:1-2
 v. Chi teme Dio, farà il bene: e chi osserva la giustizia con esattezza, possederà la sapienza, ed essa gli andrà incontro qual madre veneranda.
 $Deo gratias
 _
@@ -161,22 +161,22 @@ R. E noi sappiamo che la sua testimonianza è veridica.
 Questo è Giovanni, * che nella cena posò il capo sul petto del Signore: beato Apostolo, cui sono stati rivelati secreti celesti.
 
 [Capitulum Tertia]
-!Sir 15:1-2
+!Eccl 15:1-2
 v. Chi teme Dio, farà il bene: e chi osserva la giustizia con esattezza, possederà la sapienza, ed essa gli andrà incontro qual madre veneranda.
 $Deo gratias
 
 [Capitulum Sexta]
-!Sir 15:3
+!Eccl 15:3
 v. Lo nutrì col pane della vita e dell'intelligenza, e gli diede da bere l'acqua della sapienza e della salute il Signore Dio nostro.
 $Deo gratias
 
 [Capitulum Nona]
-!Sir 15:5
+!Eccl 15:5
 v. In mezzo alla Chiesa egli aprì la sua bocca, e il Signore lo riempì dello spirito di sapienza e d'intelligenza, e lo rivestì del manto di gloria.
 $Deo gratias
 
 [Capitulum Vespera]
-!Sir 15:1-2
+!Eccl 15:1-2
 v. Chi teme Dio, farà il bene: e chi osserva la giustizia con esattezza, possederà la sapienza, ed essa gli andrà incontro qual madre veneranda.
 $Deo gratias
 _
@@ -196,7 +196,7 @@ Si sparse la voce * tra i fratelli, che quel discepolo non muore: Gesù però no
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Giovanni
-!Joannes 21:19-24
+!Joann 21:19-24
 21:19 Or questo lo disse, indicando con qual morte fosse per glorificare Iddio. E dopo di ciò gli disse : Seguimi.
 21:20 Pietro, voltatosi indietro, vide che gli andava appresso quel discepolo amato da Gesù, (il quale anche nella cena posò sul petto di lui, e disse : Signore, chi è colui che ti tradirà?).
 21:21 Pietro adunque vedutolo, disse a Gesù : Signore, e di questo che sarà ?

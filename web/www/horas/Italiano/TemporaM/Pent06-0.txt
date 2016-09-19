@@ -20,7 +20,7 @@ $Per Dominum
 
 [Lectio1]
 Dal secondo libro dei Re
-!2 Sam 12:1-4
+!2 Reg 12:1-4
 1 Il Signore pertanto mandò Natan a David: e quegli andò, e gli disse: In una stessa città c'erano due uomini, uno ricco e l'altro povero. 
 2 Il ricco aveva pecore e buoi in gran numero; 
 3 il povero invece non aveva assolutamente niente all'infuori di una piccola pecorella, che aveva comperata e nutrita, e cresciuta accanto a lui insieme coi suoi figli, mangiando dello stesso pane e bevendo nella sua tazza e dormendo nel suo seno; ed egli la teneva come una figlia. 
@@ -30,7 +30,7 @@ Dal secondo libro dei Re
 @TemporaM/Pent04-0:Responsory1
 
 [Lectio2]
-!2 Sam 12:5-9
+!2 Reg 12:5-9
 5 Sdegnato altamente David contro un tal uomo, disse a Natan: Viva il Signore, colui che ha fatto questo è reo di morte: 
 6 pagherà quattro volte il valore della pecora per aver fatto tal cosa e per non aver avuto pietà. 
 7 Allora Natan disse a David: Tu sei quell'uomo. Ecco quello che dice il Signore Dio d'Israele: Io t'ho unto re d'Israele, io t'ho salvato dalle mani di Saul, 
@@ -41,7 +41,7 @@ Dal secondo libro dei Re
 @TemporaM/Pent04-0:Responsory2
 
 [Lectio3]
-!2 Sam 12:10-16
+!2 Reg 12:10-16
 10 Perciò la spada non s'allontanerà mai dalla tua casa, perché mi hai disprezzato e ti sei presa la moglie di Uria l'Eteo. 
 11 Quindi ecco ciò che dice il Signore: Ecco, io ti susciterò del male dalla tua stessa casa, e sotto gli occhi tuoi prenderò le tue mogli e le darò a un tuo prossimo, il quale dormirà colle stesse tue mogli alla luce di questo sole. 
 12 Tu l'hai fatto in segreto, ma io farò questo davanti a tutto Israele e alla luce del sole. 

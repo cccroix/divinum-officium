@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 Dagli Atti degli Apostoli 
-!Atti 17:22-27
+!Act 17:22-27
 22 Paolo stando in piedi in mezzo all'Areopago, disse: Ateniesi, io vi vedo in ogni cosa quasi più che religiosi. 
 23 Infatti nel passare, vedendo io i vostri simulacri, ho trovato persino un altare con questa scritta: Al Dio ignoto. Quello dunque che voi adorate senza conoscerlo, io ve lo annunzio. 
 24 Il Dio che ha fatto il mondo e tutto ciò che vi si trova, essendo il Signore del cielo e della terra, non abita in templi fatti dalla mano dell'uomo, 
@@ -20,7 +20,7 @@ Dagli Atti degli Apostoli
 @Tempora/Pasc0-3:Responsory2
 
 [Lectio2]
-!Atti 17:28-33
+!Act 17:28-33
 28 Infatti in lui abbiamo la vita, il movimento e l'essere: come del resto hanno detto alcuni dei vostri poeti: «Noi siamo veramente progenie di lui». 
 29 Essendo dunque noi progenie di Dio, non dobbiamo credere che il Divino rassomigli all'oro, all'argento o alla pietra scolpita dall'arte e dal genio dell'uomo. 
 30 E Dio, non tollerando più i tempi d'una tale ignoranza, intima adesso agli uomini che tutti, e dappertutto facciano penitenza, 
@@ -32,7 +32,7 @@ Dagli Atti degli Apostoli
 @Tempora/Pasc0-5:Responsory1
 
 [Lectio3]
-!Atti 17:34; 18:1-4
+!Act 17:34; 18:1-4
 34 Alcuni però unitisi con lui, credettero: fra i quali pure Dionigi l'areopagita, e una donna, di nome Damarine, e altri con loro. 
 1 Dopo queste cose, partito da Atene, andò a Corinto: 
 2 e avendo trovato un certo Giudeo, per nome Aquila, oriundo del Ponto, il quale era venuto di fresco dall'Italia, e Priscilla sua moglie (Claudio infatti aveva ordinato che partissero da Roma tutti i Giudei), andò da loro. 

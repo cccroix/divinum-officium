@@ -15,7 +15,7 @@ Secondo la moltitudine * dei miei dolori nel mio cuore, le tue consolazioni hann
 Mettimi * come un segno sopra il tuo core, come un segno sopra il tuo braccio.;;129
 
 [Capitulum Vespera]
-!Isa 12:2
+!Isai 12:2
 v. Ecco Dio mio Salvatore, agirò con fidanza, e non temerò perocché mia fortezza, e mia gloria è il Signore ed egli è mia salute. Attingerete acque con gaudio dalle fonti del Salvatore.
 $Deo gratias
 
@@ -116,7 +116,7 @@ R. Dio verrà manifestamente.
 
 [Lectio1]
 Dal Profeta Isaia.
-!Isa 12:1-6
+!Isai 12:1-6
 1 E dirà in quel giorno: Ti ringrazio, Signore, perché dopo, esserti irritato contro di me, hai calmato la tua collera e m'hai consolato.
 2 Ecco Iddio, il mio Salvatore; ho fiducia in lui e non temo più niente. Il Signore è mia forza e mia lode; s'è fatto mia salvezza.
 3 Attingerete esultanti alle fonti del Salvatore, 
@@ -138,7 +138,7 @@ R. Questo è il pane disceso dal cielo, affinché chi ne mangia, non muoia.
 
 [Lectio3]
 @Tempora/Adv3-0:Lectio2
-!Isa 26:7-9
+!Isai 26:7-9
 
 [Responsory3]
 R. Benedetto il Signore Dio di Israele, che solo opera meraviglie: 
@@ -170,7 +170,7 @@ Per questo fu perforato il tuo costato, perché sia palese per noi l'entrata. Pe
 
 [Lectio7]
 Lettura del santo Vangelo secondo Giovanni
-!Joannes 19:31-37
+!Joann 19:31-37
 In quell'occasione: I Giudei, siccome era il venerdì, affinché i corpi non restassero in croce durante il sabato, perché quel giorno di sabato era molto solenne, chiesero a Pilato che fossero rotte loro le gambe e fossero tolti via. Eccetera.
 _
 Omelia di sant'Agostino Vescovo   
@@ -207,7 +207,7 @@ Secondo la moltitudine * dei miei dolori nel mio cuore, le tue consolazioni hann
 Mettimi * come un segno sopra il tuo core, come un segno sopra il tuo braccio.
 
 [Capitulum Laudes]
-!Isa 12:2
+!Isai 12:2
 v. Ecco Dio mio Salvatore, agirò con fidanza, e non temerò perocché mia fortezza, e mia gloria è il Signore ed egli è mia salute. Attingerete acque con gaudio dalle fonti del Salvatore.
 $Deo gratias
 
@@ -255,11 +255,11 @@ Concedici ti preghiamo, Dio onnipotente, che, noi che gloriandoci nel santissimo
 $Per eumdem
 
 [Lectio Prima]
-!Isa 12:5
+!Isai 12:5
 v. Celebrate il Signore, perché ha fatto prodigi; annunciateli a tutta la terra. Canta ed esulta, dimora di Sion; perché grande è in mezzo a te il Santo d'Israele!
 
 [Capitulum Tertia]
-!Isa 12:2
+!Isai 12:2
 v. Ecco Dio mio Salvatore, agirò con fidanza, e non temerò perocché mia fortezza, e mia gloria è il Signore ed egli è mia salute. Attingerete acque con gaudio dalle fonti del Salvatore.
 $Deo gratias
 
@@ -275,7 +275,7 @@ V. Egli ha messo pace nei tuoi confini.
 R. E ti sazia col fior di frumento.
 
 [Capitulum Sexta]
-!Isa 12:4
+!Isai 12:4
 v. In quel giorno direte: Lodate il Signore, e invocate il suo nome, ricordate la grandezza del suo nome.
 $Deo gratias
 
@@ -291,7 +291,7 @@ V. Hai spezzate le mie catene.
 R. Io ti sacrificherò un'ostia di lode.
 
 [Capitulum Nona]
-!Isa 12:5
+!Isai 12:5
 v. Celebrate il Signore, perché ha fatto prodigi; annunciateli a tutta la terra. Canta ed esulta, dimora di Sion; perché grande è in mezzo a te il Santo d'Israele!
 $Deo gratias
 

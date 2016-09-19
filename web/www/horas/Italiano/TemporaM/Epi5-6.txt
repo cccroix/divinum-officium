@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Incomincia la Lettera dell'Apostolo san Paolo a Filemone
-!Phlm 1:1-6
+!Philem 1:1-6
 1 Paolo prigioniero di Gesù Cristo, e il fratello Timoteo: al diletto Filemone e nostro cooperatore, 
 2 e alla carissima sorella Appia, e ad Archippo nostro compagno di armi, e alla Chiesa ch'è nella tua casa. 
 3 Grazia e pace a voi da Dio nostro Padre e dal Signore Gesù Cristo. 
@@ -18,7 +18,7 @@ Incomincia la Lettera dell'Apostolo san Paolo a Filemone
 @TemporaM/Epi2-3:Responsory1
 
 [Lectio2]
-!Phlm 1:7-11
+!Philem 1:7-11
 7 Ho avuto infatti una gran gioia e consolazione per la tua carità: perché le viscere dei santi hanno gran sollievo da te, o fratello. 
 8 Perciò sebbene io abbia intera libertà in Gesù Cristo di comandarti ciò che conviene, 
 9 pure amo meglio supplicarti per carità, essendo tu quale io Paolo, vecchio, e ora poi anche prigioniero di Cristo: 
@@ -29,7 +29,7 @@ Incomincia la Lettera dell'Apostolo san Paolo a Filemone
 @TemporaM/Epi2-3:Responsory2
 
 [Lectio3]
-!Phlm 1:12-19
+!Philem 1:12-19
 12 Ora tu accoglilo come mie viscere: 
 13 io volevo ritenerlo con me, acciò m'assistesse in tua vece tra le catene del Vangelo: 
 14 ma non ho voluto far nulla senza il tuo parere, affinché il tuo beneficio non fosse quasi forzato, ma volontario. 

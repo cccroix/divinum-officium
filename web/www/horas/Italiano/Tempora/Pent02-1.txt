@@ -11,7 +11,7 @@ Doxology=Corp
 
 [Lectio1]
 Dal primo libro dei Re
-!1 Sam 5:1-5
+!1 Reg 5:1-5
 1 I Filistei dunque presero l'arca di Dio e dalla Pietra del soccorso la trasportarono in Azoto. 
 2 Così i Filistei presa l'arca di Dio la introdussero nel tempio di Dagon, e la collocarono accanto a Dagon. 
 3 Ma il dì seguente alzatisi presto quelli di Azoto, ecco che Dagon giaceva boccone per terra dinanzi all'arca del Signore; allora presero Dagon e lo rimisero al suo posto. 
@@ -22,7 +22,7 @@ Dal primo libro dei Re
 @Tempora/Pent03-1Feria:Responsory1
 
 [Lectio2]
-!1 Sam 5:6-8
+!1 Reg 5:6-8
 6 Quindi la mano del Signore si fece sentire fieramente su quelli di Azoto, e li desolò. E i villaggi e i campi di quella regione ribollirono, e nacquero dei topi, e la città fu tutta sossopra per la grande mortalità. 
 7 Ora quelli di Azoto vedendo questo flagello, dissero: Non resti più presso di noi l'arca del Dio d'Israele, perché pesante è la sua mano su di noi e sul nostro dio Dagon. 
 8 Onde fecero radunare presso di loro tutti i satrapi dei Filistei e dissero: Che faremo dell'arca del Dio d'Israele? E quei di Get risposero: Si porti attorno l'arca del Dio di Israele.
@@ -31,7 +31,7 @@ Dal primo libro dei Re
 @Tempora/Pent03-1Feria:Responsory2
 
 [Lectio3]
-!1 Sam 5:8-12
+!1 Reg 5:8-12
 8 E portarono attorno l'arca del Dio d'Israele. 
 9 Ma mentre la menavano attorno, la mano del Signore faceva in ciascuna città grandissima strage; e percuoteva dal piccolo al grande gli uomini di ciascuna città. 
 10 Perciò mandarono l'arca di Dio in Accaron. E l'arca di Dio arrivata in Accaron, gli Accaroniti cominciarono a gridare dicendo: Ci hanno condotta l'arca del Dio d'Israele, per far morire noi e il nostro popolo. 
@@ -54,7 +54,7 @@ Ascoltiamo ancor una volta, o sacerdoti e fedeli, di quale alimento siamo stati 
 
 [Lectio7]
 Lettura del santo Vangelo secondo Giovanni
-!Joannes 6:56-59
+!Joann 6:56-59
 In quell'occasione: Gesù disse alle turbe dei Giudei: La mia carne è veramente cibo ed il mio sangue è veramente bevanda. Eccetera.
 _
 Dall'Omelia di sant'Agostino Vescovo

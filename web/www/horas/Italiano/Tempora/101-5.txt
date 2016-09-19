@@ -1,6 +1,6 @@
 [Lectio1]
 Dai primo libro dei Maccabei
-!1 Mac 2:70; 3:1-3; 3:5-6
+!1 Mach 2:70; 3:1-3; 3:5-6
 70 Matatia morì l'anno centoquarantasei e da' suoi figli fu sepolto nel sepolcro de' suoi padri in Modin, e tutto Israele lo pianse grandemente. 
 1 E gli successe Giuda, suo figlio, soprannominato Maccabeo, 
 2 e lo coadiuvavano tutti i suoi fratelli e tutti quelli che s'erano uniti con suo padre combattevano allegramente in difesa d'Israele. 
@@ -12,7 +12,7 @@ Dai primo libro dei Maccabei
 @Tempora/101-0:Responsory4
 
 [Lectio2]
-!1 Mac 3:7-12
+!1 Mach 3:7-12
 7 Egli dava assai da pensare, e colle sue azioni consolava Giacobbe, e la sua memoria sarà in benedizione per sempre, 
 8 percorse le città di Giuda e ne disperse gli empi e stornò il flagello da Israele, 
 9 il suo nome divenne celebre fino alle estremità della terra, e riunì quanti stavano per perire. 
@@ -24,7 +24,7 @@ Dai primo libro dei Maccabei
 @Tempora/101-0:Responsory5
 
 [Lectio3]
-!1 Mac 3:25-28
+!1 Mach 3:25-28
 25 Così Giuda e í suoi fratelli divennero il terrore di tutte le genti circonvicine; 
 26 e il suo nome giunse fino al re, poiché tutte le genti parlavano delle vittorie di Giuda. 
 27 Or quando il re Antioco udì tali cose, si sdegnò forte, e fece radunare l'esercito di tutto il suo regno, un esercito assai potente, 

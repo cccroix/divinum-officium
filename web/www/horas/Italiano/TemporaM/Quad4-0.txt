@@ -13,7 +13,7 @@ $Per Dominum
 
 [Lectio1]
 Dal libro dell'Esodo
-!Esod 3:1-6
+!Ex 3:1-6
 1 Ora Mosè pasceva le pecore di Jetro, suo suocero, sacerdote di Madian: e avendo condotto il gregge nell'interno del deserto, giunse al monte di Dio Oreb. 
 2 E il Signore gli apparve in una fiamma di fuoco, di mezzo ad un roveto: ed egli vedeva che il roveto ardeva e non si consumava. 
 3 Disse dunque Mosè: Andrò e vedrò questa grande visione, come mai il roveto non si consumi. 
@@ -28,7 +28,7 @@ V. Il grido dei figli di Israele è giunto a me, ho visto la loro afflizione: ma
 R. Che lasci partire il mio popolo: il cuore di Faraone s'è indurito: non vuol lasciare partire il mio popolo, se non colla forza.
 
 [Lectio2]
-!Esod 3:7-10
+!Ex 3:7-10
 7 E il Signore gli disse: Ho veduto l'afflizione del mio popolo in Egitto e ho udito il suo grido causato dalla durezza di quelli che presiedono ai lavori: 
 8 e conoscendo il suo dolore sono disceso per liberarlo dalle mani degli Egiziani, e per condurlo da quella terra in una terra buona e spaziosa, in una terra ove scorre latte e miele, nelle regioni del Cananeo, dell'Eteo, dell'Amorreo, del Ferezeo, dell'Eveo e del Jebuseo. 
 9 Il grido dunque dei figli d'Israele è giunto a me: e ho veduto la loro afflizione, onde sono oppressi dagli Egiziani. 
@@ -41,7 +41,7 @@ V. Il Signore Dio degli Ebrei mi ha mandato a te per dirti.
 R. Lascia partire il mio popolo, affinché mi sacrifichi nel deserto.
 
 [Lectio3]
-!Esod 3:11-15
+!Ex 3:11-15
 11 E Mosè disse a Dio: Chi sono io per andare da Faraone, e per trarre i figli d'Israele dall'Egitto? 
 12 Ed egli gli disse: Io sarò con te: ed avrai questo per segno che t'ho mandato io: Quando avrai tratto il mio popolo fuor dall'Egitto, offrirai un sacrificio a Dio su questo monte. 
 13 Mosè disse a Dio: Ecco, io andrò ai figli d'Israele e dirò loro: Il Dio dei padri vostri mi ha mandato a voi. Se essi mi diranno: Quale è il suo nome ? che dirò loro ? 
@@ -89,7 +89,7 @@ R. Per meritare di ricevere la legge di Dio.
 
 [Lectio7]
 Lettura del santo Vangelo secondo Giovanni
-!Gio. 6:1-15
+!Joann 6:1-15
 In quell'occasione: Gesù andò al di là del mare di Galilea, cioè di Tiberiade: e lo seguiva gran folla, perché vedeva i miracoli ch'egli faceva sugli infermi. Eccetera.
 _
 Omelia di sant'Agostino Vescovo
@@ -188,7 +188,7 @@ Pertanto Gesù * salì sul monte, e quivi si pose a sedere coi suoi discepoli.
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Giovanni
-!Gio 6:1-15
+!Joann 6:1-15
 6:1 Dopo questo Gesti se n'andò di là dal mare di Galilea, cioè di Tiberiade :
 6:2 e lo seguitava una gran turba, perché vedeva i miracoli fatti da lui a prò dei malati.
 6:3 Salì pertanto Gesù sopra un monte : e ivi si pose a sedere co' suoi discepoli.

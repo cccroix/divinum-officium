@@ -15,7 +15,7 @@ Sacerdoti di Dio, * benedite il Signore; servi del Signore sciogliete un inno a 
 Servo buono * e fedele, entra nel gaudio del tuo Signore.;;116
 
 [Capitulum Vespera]
-!Sir 44:16-17
+!Eccl 44:16-17
 v. Ecco il gran sacerdote, che nei suoi giorni piacque a Dio e fu trovato giusto, e nel tempo dell'ira fu strumento di riconciliazione.  
 $Deo gratias
 
@@ -60,7 +60,7 @@ R. Secondo l'ordine di Melchisedech.
 
 [Lectio1]
 Dal libro dell'Ecclesiastico
-!Sir 39:1-5
+!Eccl 39:1-5
 1 Il saggio indaga la sapienza di tutti gli antichi e si dà allo studio dei profeti. 
 2 Raccoglie le spiegazioni degli uomini illustri e insieme si addentra nelle sottigliezze delle parabole. 
 3 Penetra i segreti dei proverbi e si occupa degli enigmi e delle allegorie. 
@@ -74,7 +74,7 @@ V. Signore, mi hai affidato cinque talenti: ecco, ne ho guadagnato altri cinque.
 R. Entra nel gaudio del tuo Signore.
 
 [Lectio2]
-!Sir 39:6-10
+!Eccl 39:6-10
 6 Egli, di buon mattino rivolge il suo cuore al Signore che l'ha creato, e prega alla presenza dell'Altissimo. 
 7 Apre la sua bocca alla preghiera e prega per i suoi peccati. 
 8 Se il Signore, il grande Iddio, vorrà lo riempirà dello spirito di intelligenza:
@@ -88,7 +88,7 @@ V. Gli diede la benedizione di tutte le genti e confermò il suo patto sul capo 
 R. Per questo il Signore giurò di elevarlo sopra il suo popolo.
 
 [Lectio3]
-!Sir 39:11-14
+!Eccl 39:11-14
 11 Egli divulgherà l'insegnamento della sua dottrina, e si glorierà nella legge dell'alleanza del Signore. 
 12 Molti celebreranno la sua sapienza, ed egli non sarà dimenticato. 
 13 Non perirà la sua memoria, e il suo nome sarà ripetuto di generazione in generazione. 
@@ -135,7 +135,7 @@ R. Egli interceda per i peccati di tutti gli uomini.
 
 [Lectio7]
 Dal Vangelo secondo Matteo
-!Matt 5:13-19
+!Matth 5:13-19
 In quel tempo, Gesù disse ai suoi discepoli: "Voi siete il sale della terra. Se il sale diventa insipido, con che cosa si salerà?".  (continua nella Messa del giorno) 
 _
 Omelia di s. Ilario vescovo
@@ -171,7 +171,7 @@ Sacerdoti di Dio, * benedite il Signore; servi del Signore sciogliete un inno a 
 Servo buono * e fedele, entra nel gaudio del tuo Signore.
 
 [Capitulum Laudes]
-!Sir 44:16-17
+!Eccl 44:16-17
 v. Ecco il gran sacerdote, che nei suoi giorni piacque a Dio e fu trovato giusto, e nel tempo dell'ira fu strumento di riconciliazione.  
 $Deo gratias.
 
@@ -202,11 +202,11 @@ O Dio onnipotente, fa' che la veneranda solennità di S. N. Vescovo, Confessore,
 $Per Dominum
 
 [Lectio Prima]
-!Sir 45:19-20
+!Eccl 45:19-20
 v. Gli fece esercitare le funzioni sacerdotali e cantare le lodi nel suo nome, e offrirgli l'incenso degno per il soave profumo.
 
 [Capitulum Tertia]
-!Sir 44:16-17
+!Eccl 44:16-17
 v. Ecco il gran sacerdote, che nei suoi giorni piacque a Dio e fu trovato giusto, e nel tempo dell'ira fu strumento di riconciliazione.  
 $Deo gratias
 
@@ -222,7 +222,7 @@ V. Lo elesse il Signore per suo Sacerdote.
 R. Affinché gli offrisse il sacrificio di lode.
 
 [Capitulum Sexta]
-!Sir 44:20; 44:22
+!Eccl 44:20; 44:22
 v. Non si è trovato uno simile a lui nell'osservare la legge dell'Altissimo: per questo il Signore giurò di elevarlo sopra il sua popolo.  
 $Deo gratias
 
@@ -238,7 +238,7 @@ V. Tu sei sacerdote in eterno.
 R. Secondo l'ordine di Melchisedech. 
 
 [Capitulum Nona]
-!Sir 45:19-20
+!Eccl 45:19-20
 v. Gli fece esercitare le funzioni sacerdotali e cantare le lodi nel suo nome, e offrirgli l'incenso degno per il soave profumo.
 $Deo gratias
 
@@ -262,7 +262,7 @@ O Dottore ottimo, * luminare della santa Chiesa, beato N., amante della legge di
 
 [Lectio72]
 Dal Vangelo secondo Matteo
-!Matt 5:13-19
+!Matth 5:13-19
 In quel tempo, Gesù disse ai suoi discepoli: "Voi siete il sale della terra. Se il sale diventa insipido, con che cosa si salerà?".  (continua nella Messa del giorno) 
 _
 Sermone di s. Giovanni Crisostomo

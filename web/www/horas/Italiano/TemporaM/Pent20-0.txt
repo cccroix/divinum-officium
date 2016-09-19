@@ -13,7 +13,7 @@ $Per Dominum
 
 [Lectio7]
 Lettura del santo Vangelo secondo Giovanni
-!Joannes 4:46-53
+!Joann 4:46-53
 In quell'occasione: C'era un regio ufficiale, il cui figlio era malato in Cafarnao. Eccetera.
 _
 Omelia di san Gregorio Papa
@@ -41,7 +41,7 @@ Allora il padre riconobbe * che quella era appunto l'ora in cui Gesù gli aveva 
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Giovanni
-!Joannes 4:46-53
+!Joann 4:46-53
 4:46 In quel tempo: Vi era a Cafàrnao un certo regolo, il cui figlio era malato.
 4:47 Avendo udito che Gesú dalla Giudea veniva in Galilea, andò da lui e lo pregò perché andasse a sanare suo figlio, che stava per morire. 
 4:48 Gesú gli disse: Se non vedete miracoli e prodigi non credete. 

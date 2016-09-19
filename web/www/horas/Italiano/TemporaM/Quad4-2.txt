@@ -5,7 +5,7 @@ Feria Tertia infra Hebdomadam IV in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Lettura del santo Vangelo secondo Giovanni
-!Gio 7:14-31
+!Joann 7:14-31
 In quell'occasione: S'era già a metà della festa, quando Gesù salì nel tempio e si mise ad insegnare. E i Giudei si meravigliavano. Eccetera.
 _
 Omelia di sant'Agostino Vescovo
@@ -49,7 +49,7 @@ $Per Dominum.
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Giovanni
-!Gio 7:14-31
+!Joann 7:14-31
 7:14 Ma scorsa la metà dei dì festivi, andò Gesù nel tempio, e insegnava.
 7:15 E ne stupivano i Giudei, e dicevano : Come mai costui sa di lettere senza avere imparato? 
 7:16 Rispose loro Gesù, e disse : La mia dottrina non è mia, ma di chi mi ha mandato. 

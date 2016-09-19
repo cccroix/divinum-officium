@@ -5,7 +5,7 @@ Sabbato infra Hebdomadam IV in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Lettura del santo Vangelo secondo Giovanni 
-!Gio 8:12-20
+!Joann 8:12-20
 In quell'occasione: Gesù parlò alle turbe dei Giudei e disse: Io sono la luce del mondo: chi mi segue, non camminerà allo scuro, ma avrà la luce della vita. Eccetera.
 _
 Omelia di sant'Agostino Vescovo
@@ -43,7 +43,7 @@ $Per Dominum
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Giovanni 
-!Gio 8:12-20
+!Joann 8:12-20
 8:12 Altra volta poi Gesù pariò ad essi, dicendo : Io sono la luce del mondo : chi mi segue non camminerà al buio, ma avrà luce di vita.
 8:13 Gli dissero perciò i Farisei : Tu rendi testimonianza di te stesso : la tua testimonianza non è idonea.
 8:14 Rispose Gesù, e disse loro : Quantunque io renda testimonianza di me medesimo, è idonea la mia testimonianza : perchè so donde io sono venuto, e dove vado : ma voi non sapete donde io venga, e dove io vada.

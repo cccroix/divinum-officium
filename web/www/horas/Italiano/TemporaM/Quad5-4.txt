@@ -5,7 +5,7 @@ Feria Quinta infra Hebdomadam Passionis;;Feria major;;2
 
 [Lectio1]
 Lettura del santo Vangelo secondo Luca
-!Luca 7:36-50
+!Luc 7:36-50
 In quell'occasione: Uno dei farisei pregò Gesù d'andare a desinare da lui. Ed entrato in casa del fariseo si pose a mensa. Eccetera.
 _
 Omelia di san Gregorio Papa
@@ -43,7 +43,7 @@ $Per Dominum
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Luca
-!Luca 7:36-50
+!Luc 7:36-50
 7:36 E uno dei Farisei lo pregò che andasse a mangiare da lui. Ed entrato in casa del Fariseo si pose a tavola.
 7:37 Quand'ecco una donna che era peccatrice nella città, appena ebbe inteso com'egli era a tavola in casa del Fariseo, prese un alabastro di unguento :
 7:38 E stando di dietro ai suoi piedi, cominciò a bagnare i piedi di lui colle lacrime, e li rasciugava con i capelli della sua testa, e li baciava, e li ungeva con l'unguento.

@@ -1,6 +1,6 @@
 [Lectio1]
 Dal libro dell'Ecclesiastico
-!Sir 10:1-5
+!Eccl 10:1-5
 1 Il saggio magistrato renderà giustizia al suo popolo, e il governo d'un uomo sensato sarà stabile. 
 2 Quale il reggitore d'un popolo, tali i suoi ministri, e quale il governatore d'una città, tali i suoi abitanti. 
 3 Un re scapestrato rovinerà il suo popolo, e le città ingrandiscono per il senno de' suoi capi. 
@@ -11,7 +11,7 @@ Dal libro dell'Ecclesiastico
 @Tempora/081-2:Responsory1
 
 [Lectio2]
-!Sir 10:6-10
+!Eccl 10:6-10
 6 Non ricordare nessuna delle ingiurie del prossimo e non far nulla per nuocere altrui. 
 7 Odiosa a Dio e agli uomini . è la superbia ed esecrabile è tutta l'iniquità delle genti. 
 8 L'impero passa da una nazione all'altra per cagione delle ingiustizie, delle violenze, degli oltraggi e delle frodi diverse. 
@@ -22,7 +22,7 @@ Dal libro dell'Ecclesiastico
 @Tempora/081-0:Responsory5
 
 [Lectio3]
-!Sir 10:11-16
+!Eccl 10:11-16
 11 Ogni potere violento è di corta vita: la lunga malattia stanca il medico, 
 12 una breve malattia il medico la tronca; così anche il re, oggi è e domani morrà: 
 13 morto poi ch'è l'uomo, avrà in eredità serpenti e bestie e vermi. 

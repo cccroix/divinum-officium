@@ -18,7 +18,7 @@ Ha germogliato il tronco di Jesse, * è sorta la stella da Giacobbe, la Vergine 
 Ecco che Maria ci ha dato * il Salvatore, e Giovanni al vederlo esclamò, dicendo : Ecco l'Agnello di Dio, ecco colui che toglie i peccati del mondo, alleluia.;;147
 
 [Capitulum Vespera]
-!Mal 3.1
+!Malach 3.1
 v. Ecco che io mando il mio Angelo a preparare la strada dinanzi a me. E subito verrà al suo tempio il Dominatore che voi cercate e l'Angelo dell'Alleanza che voi bramate.
 $Deo gratias
 
@@ -38,7 +38,7 @@ Ecco che il Signore Dominatore viene al suo santo tempio: * Gioisci e rallegrati
 
 [Lectio1]
 Dal libro dell'Esodo
-!Exod 13:1-3; 13:11-13
+!Ex 13:1-3; 13:11-13
 1 Il Signore parlò a Mosè dicendo: 
 2 Consacrami ogni primogenito che nasce tra i figli d'Israele tanto degli uomini come degli animali; perché tutte le cose sono mie. 
 3 E Mosè disse al popolo: 
@@ -54,7 +54,7 @@ R. Che una vergine ha concepito, una vergine ha dato alla luce e, vergine dopo i
 
 [Lectio2]
 Dal libro del Levitico. 
-!Lev 12:1-5
+!Levit 12:1-5
 1 Il Signore parlò a Mosè, dicendo: 
 2 Parla ai figli d'Israele e di' loro: Se una donna, dopo esser divenuta madre, dà alla luce un maschio, sarà immonda per sette giorni, come nei giorni della separazione mensile. 
 3 E l'ottavo giorno si circonciderà il bambino: 
@@ -68,7 +68,7 @@ V. Offrirono per lui al Signore un paio di tortore o due piccole colombe.
 R. Come è prescritto nella legge del Signore : Che ogni maschio primogenito, sarà consacrato al Signore.
 
 [Lectio3]
-!Lev 12:6-8
+!Levit 12:6-8
 6 Quando si saranno compiti i giorni della sua purificazione sia per un figlio sia per una figlia, porterà all'ingresso del tabernacolo della testimonianza un agnello di un anno per l'olocausto e un colombino, o una tortora per il peccato e li darà al sacerdote, 
 7 che li offrirà dinanzi al Signore, e pregherà per lei, e così ella sarà purificata dalla perdita del suo sangue. Questa è la legge di colei che dà alla luce un maschio o una femmina. 
 8 Che se ella non ha possibilità di procacciarsi e di poter offrire un agnello, prenderà due tortore vive o due piccole colombe, una per l'olocausto e l'altra per il peccato; e il sacerdote pregherà per lei, e così sarà purificata.
@@ -150,7 +150,7 @@ Egli sarà luce per illuminare * le Genti e la gloria del tuo popolo Israele.
 Offrirono * per lui al Signore un paio di tortore o due piccole colombe.
 
 [Capitulum Laudes]
-!Mal 3:1
+!Malach 3:1
 v. Ecco che io mando il mio Angelo a preparare la strada dinanzi a me. E subito verrà al suo tempio il Dominatore che voi cercate e l'Angelo dell'Alleanza che voi bramate.
 $Deo gratias
 
@@ -158,21 +158,21 @@ $Deo gratias
 Quando i suoi genitori * portarono dentro il bambino Gesù, Simeone lo prese tra le braccia e benedisse Dio, esclamando : Adesso lascia che il tuo servo se ne vada in pace.
 
 [Lectio Prima]
-!Mal 3:4
+!Malach 3:4
 v. E piacerà a Dio il sacrificio di Giuda e di Gerusalemme, come nei secoli passati, come negli anni antichi, dice il Signore onnipotente.
 
 [Capitulum Tertia]
-!Mal 3:1
+!Malach 3:1
 v. Ecco che io mando il mio Angelo a preparare la strada dinanzi a me. E subito verrà al suo tempio il Dominatore che voi cercate e l'Angelo dell'Alleanza che voi bramate.
 $Deo gratias
 
 [Capitulum Sexta]
-!Mal 3:1-2
+!Malach 3:1-2
 v. Eccolo che egli arriva, dice il Signore degli eserciti: e chi potrà sostenere il giorno della sua venuta, e chi potrà reggere a vederlo? Poiché egli sarà come fuoco che fonde i metalli, e come l'erba dei lavandai.
 $Deo gratias
 
 [Capitulum Nona]
-!Mal 3:4
+!Malach 3:4
 v. E piacerà a Dio il sacrificio di Giuda e di Gerusalemme, come nei secoli passati, come negli anni antichi, dice il Signore onnipotente.
 $Deo gratias
 

@@ -7,7 +7,7 @@ R. E discenda su di noi la tua misericordia.
 
 [Lectio1]
 Incomincia il Profeta Michea
-!Mic 1:1-3
+!Mich 1:1-3
 1 Parola del Signore che fu indirizzata a Michea Morastite ai giorni di Joatan, Acaz ed Ezechia, re di Giuda riguardo a ciò che vide su Samaria e Gerusalemme. 
 2 Ascoltate, popoli tutti, e stia attenta la terra e quanto è in essa, e il Signore Dio sia testimone contro di voi, il Signore dal suo tempio santo. 
 3 Poiché ecco che il Signore uscirà dal suo luogo e scenderà e calpesterà le altezze della terra.
@@ -16,7 +16,7 @@ Incomincia il Profeta Michea
 @TemporaM/Pent01-0:Responsory1
 
 [Lectio2]
-!Mic 1:4-6
+!Mich 1:4-6
 4 E i monti si squaglieranno sotto di lui, e le valli si consumeranno come cera dinanzi al fuoco e come le acque che scorrono giù per un precipizio. 
 5 Tutto questo per la scelleraggine di Giacobbe e per i peccati della casa d'Israele. E quale la scelleraggine di Giacobbe? non è forse Samaria? E quali i luoghi elevati di Giuda? non son forse Gerusalemme? 
 6 Ma io ridurrò Samaria come un mucchio di pietre in un campo dove si pianta una vigna, e getterò le sue pietre nella valle e scoprirò i suoi fondamenti.
@@ -25,7 +25,7 @@ Incomincia il Profeta Michea
 @TemporaM/111-0:Responsory2
 
 [Lectio3]
-!Mic 1:7-9
+!Mich 1:7-9
 7 E tutte le sue statue saranno spezzate, e tutte le sue mercedi saranno gettate alle fiamme, e porterò la distruzione su tutti i suoi idoli, perché queste cose sono state raccolte con mercede di meretrice, e torneranno ad essere mercede di meretrice. 
 8 Perciò io piangerò ed urlerò, andrò spogliato ed ignudo, farò urli come i dragoni e voci lugubri come gli struzzi, 
 9 perché la sua piaga è disperata, e si è estesa fino a Giuda, ha penetrato fino alla porta del mio popolo. fino a Gerusalemme.

@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 Dagli Atti degli Apostoli
-!Atti 5:1-6
+!Act 5:1-6
 1 Ma un cert'uomo per nome Anania, con Safira sua moglie, vendette campo 
 2 e, consapevole sua moglie, si ritenne parte del prezzo, portandone il resto e deponendolo ai piedi degli Apostoli. 
 3 Or Pietro disse: Anania, come mai satana ha tentato così il tuo cuore da mentire allo Spirito Santo e frodare parte del prezzo del campo? 
@@ -20,7 +20,7 @@ Dagli Atti degli Apostoli
 @Tempora/Pasc0-2:Responsory1
 
 [Lectio2]
-!Atti 5:7-11
+!Act 5:7-11
 7 Era trascorso lo spazio di circa tre ore, quando entrò, ignara dell'accaduto, la moglie di lui. 
 8 E Pietro rivolgendosele: Dimmi, o donna, è vero che avete venduto il campo per il tal prezzo? E quella rispose: Proprio così. 
 9 E Pietro a lei: Perché vi siete accordati a tentare lo Spirito del Signore? Ecco stanno alla porta i piedi di coloro che hanno portato a seppellire tuo marito, e porteranno anche te. 
@@ -31,7 +31,7 @@ Dagli Atti degli Apostoli
 @Tempora/Pasc0-2:Responsory2
 
 [Lectio3]
-!Atti 5:12-16
+!Act 5:12-16
 12 E si facevano per le mani degli Apostoli molti miracoli e prodigi tra il popolo. E si ritrovavano tutti d'accordo sotto il portico di Salomone. 
 13 Degli altri poi nessuno ardiva unirsi a loro: ma il popolo li magnificava. 
 14 Quindi andava sempre più crescendo la moltitudine di uomini e donne che credevano nel Signore, 

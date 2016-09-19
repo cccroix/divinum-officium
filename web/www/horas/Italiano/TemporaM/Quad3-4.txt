@@ -5,7 +5,7 @@ Feria Quinta infra Hebdomadam III in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Lettura del santo Vangelo secondo Luca
-!Luca 4:38-44
+!Luc 4:38-44
 In quell'occasione: Gesù uscito dalla sinagoga, entrò nella casa di Simone. Or la suocera di Simone era stata presa da gran febbre. Eccetera.
 _
 Omelia di sant'Ambrogio Vescovo
@@ -44,7 +44,7 @@ $Per Dominum
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Luca
-!Luca 4:38-44
+!Luc 4:38-44
 4:38 E uscito Gesù dalla sinagoga, entrò nella casa di Simone. E la suocera di Simone era stata presa da grossa febbre : e a lui la raccomandarono.
 4:39 Ed egli chinatosi verso di lei fé' comando alla febbre : e la febbre la lasciò. E subito levatasi li andava servendo. 
 4:40 Tramontato poi il sole, tutti quelli che aveano malati di questo e di quel malore, li conducevano a lui. Ed egli, imposte a ciascuno di essi le mani, li risanava. 

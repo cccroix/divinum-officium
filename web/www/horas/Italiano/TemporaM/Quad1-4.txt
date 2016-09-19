@@ -5,7 +5,7 @@ Feria Quinta infra Hebdomadam I in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Lettura del santo Vangelo secondo Matteo
-!Matt 15:21-28
+!Matth 15:21-28
 In quell'occasione: Gesù, partito, si ritirò nei dintorni di Tiro e di Sidone. Eccetera.
 _
 Omelia di san Girolamo Prete
@@ -47,7 +47,7 @@ $Per Dominum
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Matteo
-!Matt 15:21-28
+!Matth 15:21-28
 15:21 E partitosi di là Gesù si ritirò dalle parti di Tiro e di Sidone.
 15:22 Quand'ecco una donna Cananea uscita da quei contorni alzò la voce dicendogli : Abbi pietà di me. Signore, figlio di David : la mia figlia è malamente tormentata dal demonio.
 15:23 Ma egli non le rispose parola. E accostatisi i discepoli lo pregavano dicendogli : sbrigala : che ci grida dietro.

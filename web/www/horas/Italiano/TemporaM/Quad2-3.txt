@@ -5,7 +5,7 @@ Feria Quarta infra Hebdomadam II in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Lettura del santo Vangelo secondo Matteo
-!Matt 20:17-28
+!Matth 20:17-28
 In quell'occasione: Gesù nell'andare a Gerusalemme, prese in disparte i dodici discepoli, e disse loro: Ecco, noi andiamo a Gerusalemme, e il Figlio dell'uomo sarà dato nelle mani dei capi sacerdoti e degli scribi, e lo condanneranno a morte. Eccetera.
 _
 Omelia di sant'Ambrogio Vescovo
@@ -43,7 +43,7 @@ $Per Dominum
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Matteo
-!Matt 20:17-28
+!Matth 20:17-28
 20:17 E andandosene Gesù a Gerusalemme, presi in disparte i dodici discepoli, disse loro :
 20:18 Ecco che andiamo a Gerusalemme, e il Figlio dell'uomo sarà dato nelle mani de' principi de' sacerdoti, e degli Scribi, e lo condanneranno a morte : 
 20:19 e lo daranno in balìa de' Gentili per essere schernito, e flagellato, e crocifisso, e risorgerà il terzo giorno. 

@@ -1,6 +1,6 @@
 [Lectio1]
 Dal primo libro dei Maccabei
-!1 Mac 2:1-6
+!1 Mach 2:1-6
 1 In quel tempo sorse Matatia figlio di Giovanni, figlio di Simeone sacerdote della famiglia di Joarib, e da Gerusalemme si ritirò sul monte Modin. 
 2 Egli aveva cinque figli, Giovanni soprannominato Gaddis, 
 3 Simone soprannominato Tasi, 
@@ -15,7 +15,7 @@ V. Quest'uomo si mostrò; mitissimo fra il suo popolo.
 R. Questi è quello che prega molto per il popolo e per tutta la santa città di Gerusalemme.
 
 [Lectio2]
-!1 Mac 2:7-10
+!1 Mach 2:7-10
 7 E Matatia disse: Misero me perché sono nato, per vedere lo scempio del mio popolo e la distruzione della città santa, per starvi a sedere mentr’essa è data in mano dei nemici? 
 8 Le cose sante sono cadute in mano degli stranieri, il suo tempio è come un uomo disonorato, 
 9 i suoi vasi preziosi, saccheggiati, sono stati portati via, i suoi vecchi sono stati trucidati per le piazze, e i suoi giovani son caduti sotto la spada dei nemici. 
@@ -28,7 +28,7 @@ V. Tu, o Signore, hai scelto questa casa affinché vi fosse invocato il tuo nome
 R. Conserva questa casa incontaminata in eterno, o Signore.
 
 [Lectio3]
-!1 Mac 2:14-16
+!1 Mach 2:14-16
 14 E Matatia coi suoi figli si stracciavano le vesti e si coprirono di cilizi e piansero grandemente. 
 15 E quando giunsero colà quelli ch'erano stati mandati dai re Antioco per costringere coloro che s'erano rifugiati nella città di Modin a sacrificare e bruciare incensi, e abbandonare la legge di Dio, 
 16 e molti del popolo d'Israele acconsentirono e si unirono con loro, Matatia però e i suoi figli si mantennero fedeli.

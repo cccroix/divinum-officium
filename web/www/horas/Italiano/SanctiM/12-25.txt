@@ -16,7 +16,7 @@ Sappiate * che il regno di Dio è vicino: in verità vi dico che non tarderà.
 Alzate le vostre teste; * ecco che s'avvicina la vostra redenzione.
 
 [Capitulum Vespera]
-!Titus 3:4-5
+!Tit 3:4-5
 v. È apparsa la bontà e l'amore per l'uomo di Dio nostro Salvatore; non per le opere di giustizia fatte da noi, ma per sua misericordia egli ci ha salvati.
 $Deo gratias
 _
@@ -140,7 +140,7 @@ V. Egli mi invocherà, alleluia.
 R. Padre mio tu sei, alleluia.
 
 [Lectio1]
-!Isa 9:1-6
+!Isai 9:1-6
 1 Dapprima fu meno colpita la terra di Zabulon e la terra di Neftali; e poi fu gravemente percossa la regione lungo il mare al di là del Giordano, la Galilea delle Genti. 
 2 Il popolo che camminava nelle tenebre vide una gran luce: la luce si levò per quelli che abitavano nell'oscura regione di morte. 
 3 Hai moltiplicato la gente, ma non hai accresciuto la letizia. Essi si rallegreranno dinanzi a te come quei che si rallegrano sulla messe, come esultano i vincitori sulla preda catturata, allorché si dividon le spoglie. 
@@ -158,7 +158,7 @@ ad coelestia regna revocaret:
 R. Gioisce l'esercito degli Angeli: perché la salute eterna è apparsa al genere umano.
 
 [Lectio2]
-!Isa 40:1-8
+!Isai 40:1-8
 1 Consolatevi, consolatevi, popolo mio, dice il Signore Dio vostro. 
 2 Parlate al cuore di Gerusalemme, e richiamatela: perché è finito il suo male, è stata perdonata la sua iniquità ella ha ricevuto dalla mano del Signore il doppio per tutti i suoi peccati. 
 3 Voce d'uno che grida nel deserto: Preparate la via del-Signore, raddrizzate nella solitudine i sentieri del nostro Dio. 
@@ -175,7 +175,7 @@ V. Oggi rifulse per noi il giorno della nuova redenzione, dell'antica riparazion
 R. Oggi i cieli per tutto il mondo son diventati melliflui.
 
 [Lectio3]
-!Isa 52:1-6
+!Isai 52:1-6
 1 Sorgi, sorgi, rivestiti della tua forza, o Sion, indossa le vesti della tua gloria, o Gerusalemme, città del santo; perché non seguiterà più a passare in mezzo a te l'incirconciso e l'immondo. 
 2 Scuotiti dalla polvere, sorgi, mettiti a sedere, o Gerusalemme: sciogli le catene del tuo collo, o schiava figlia di Sion. 
 3 Perché così dice il Signore: Per nulla siete stati venduti, e senza denaro sarete ricomprati. 
@@ -263,7 +263,7 @@ R. Egli era in principio presso Dio.
 
 [Lectio9]
 Lettura del santo Vangelo secondo Giovanni
-!Joannes 1:1-14
+!Joann 1:1-14
 Nel principio c'era il Verbo, e il Verbo era presso Dio, e il Verbo era Dio. Eccetera.
 _
 Omelia di sant'Agostino Vescovo
@@ -286,7 +286,7 @@ Si unì coll'Angelo * una moltitudine dell'esercito celeste, lodando Dio e dicen
 Un Pargoletto ci è nato quest'oggi: e si chiamerà Dio, Forte, alleluia, alleluia.
 
 [Capitulum Laudes]
-!Heb 1:1-2
+!Hebr 1:1-2
 v. Iddio, che molte volte e in molte guise parlò un tempo ai padri per mezzo dei profeti: in questi ultimi tempi ha parlato a noi per mezzo del Figlio, che costituì erede di ogni cosa, per cui creò anche i secoli.
 $Deo gratias
 _
@@ -347,11 +347,11 @@ R. La sua salvezza, alleluia.
 Gloria a Dio nel più alto dei cieli, * e pace in terra agli uomini di buona volontà, alleluia, alleluia.
 
 [Lectio Prima]
-!Heb 1:11-12
+!Hebr 1:11-12
 v. Essi (gli esseri) periranno, ma tu rimarrai; e tutti invecchieranno come un vestito e come una veste li rivolterai, e saranno mutati: ma tu sei sempre lo stesso, e i tuoi anni non finiranno mai.
 
 [Capitulum Tertia]
-!Heb 1:1-2
+!Hebr 1:1-2
 v. Iddio, che molte volte e in molte guise parlò un tempo ai padri per mezzo dei profeti: in questi ultimi tempi ha parlato a noi per mezzo del Figlio, che costituì erede di ogni cosa, per cui creò anche i secoli.
 $Deo gratias
 
@@ -360,7 +360,7 @@ V. Il Verbo s'è fatto uomo, alleluia.
 R. E abitò tra noi, alleluia.
 
 [Capitulum Sexta]
-!Heb 1:10
+!Hebr 1:10
 v. E (sta scritto): Tu, Signore, in principio hai fondato la terra: ed opera delle tue mani sono i cieli.
 $Deo gratias
 
@@ -369,7 +369,7 @@ V. Egli m'invocherà, alleluia.
 R. Padre mio tu sei, alleluia.
 
 [Capitulum Nona]
-!Heb 1:11-12
+!Hebr 1:11-12
 v. Essi (gli esseri) periranno, ma tu rimarrai; e tutti invecchieranno come un vestito e come una veste li rivolterai, e saranno mutati: ma tu sei sempre lo stesso, e i tuoi anni non finiranno mai.
 $Deo gratias
 
@@ -384,7 +384,7 @@ A redimere * ha mandato, il Signore, il suo popolo: ha proclamato eterna la sua 
 Presso il Signore * è la misericordia, e redenzione copiosa presso di lui.;;129
 
 [Capitulum Vespera 3]
-!Heb 1:1-2
+!Hebr 1:1-2
 v. Iddio, che molte volte e in molte guise parlò un tempo ai padri per mezzo dei profeti: in questi ultimi tempi ha parlato a noi per mezzo del Figlio, che costituì erede di ogni cosa, per cui creò anche i secoli.
 $Deo gratias
 _
@@ -404,7 +404,7 @@ Oggi * è nato il Cristo: oggi è apparso il Salvatore: oggi in terra cantano gl
 
 [LectioE]
 v. Iniizio del Santo Vangelo secondo Matteo.
-!Matt 1:1-16
+!Matth 1:1-16
 1:1 Libro della generazione di Gesù Cristo, figlio di David, figlio di Abramo. 
 1:2 Abramo generò Isacco : Isacco generò Giacobbe : Giacobbe generò Giuda e i suoi fratelli.
 1:3 Giuda generò da Tamar Fares e Zara : Fares generò Esron : Esron generò Aram.

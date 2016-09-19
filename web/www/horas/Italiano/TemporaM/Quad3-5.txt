@@ -5,7 +5,7 @@ Feria Sexta infra Hebdomadam III in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Lettura del santo Vangelo secondo Giovanni
-!Gio. 4:5-42
+!Joann 4:5-42
 In quell'occasione: Gesù arrivò a una città della Samaria, chiamata Sicar, vicino alla tenuta che Giacobbe diede a suo figlio Giuseppe. Eccetera.
 _
 Omelia di sant'Agostino Vescovo
@@ -43,7 +43,7 @@ $Per Dominum
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Giovanni
-!Gio. 4:5-42
+!Joann 4:5-42
 4:5 Giunse pertanto a una città della Samaria chiamata Sichar, vicino alla tenuta che fu data da Giacobbe al suo figlio Giuseppe.
 4:6 E quivi era il pozzo di Giacobbe. Onde Gesù stanco dal viaggio si pose cosi a sedere sul pozzo. Ed era circa l'ora sesta. 
 4:7 Viene una donna Samaritana ad attingere acqua. Gesù le dice : Dammi da bere 

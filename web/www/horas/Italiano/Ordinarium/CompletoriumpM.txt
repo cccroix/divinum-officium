@@ -3,7 +3,7 @@ V. Comanda o Signore, la benedizione.
 Benedictio. Il Signore onnipotente ci conceda una notte tranquilla e una fine perfetta. Amen.
 
 #Lectio brevis
-!1 Pet 5:8-9
+!1 Petri 5:8-9
 Fratelli: siate temperanti e vegliate: perché il diavolo, vostro avversario, come un leone ruggente, va attorno cercando chi divorare: resistetegli forti nelle fede.
 $Tu autem
 
@@ -44,7 +44,7 @@ Regnate in sempiterno.
 Amen.
 
 #Capitulum Responsorio Versus
-!Ger 14:9
+!Jerem 14:9
 v. Ma tu, o Signore, sei in noi e il tuo santo nome è stato invocato sopra di noi: non ci abbandonare, Signore, Dio nostro.
 R. Grazie a Dio.
 _

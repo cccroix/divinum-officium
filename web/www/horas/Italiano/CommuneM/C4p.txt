@@ -13,7 +13,7 @@ Per questo il Signore giurò * di elevarlo sopra il suo popolo, alleluia.;;111
 Servo buono * e fedele, entra nel gaudio del tuo Signore, alleluia.;;112
 
 [Capitulum Vespera]
-!Sir 44:16-17
+!Eccl 44:16-17
 v. Ecco il gran sacerdote, che nei suoi giorni piacque a Dio e fu trovato giusto, e nel tempo dell'ira fu strumento di riconciliazione.
 $Deo gratias
 _
@@ -86,7 +86,7 @@ R. Entra nel gaudio del tuo Signore. Alleluia.
 
 [Lectio2]
 Dalla lettera a Tito
-!Tito 1:7-11
+!Tit 1:7-11
 7 Infatti è necessario che il vescovo sia incensurabile, poiché egli governa la casa di Dio, e non sia altezzoso, né irascibile, né dedito al vino, né violento, né avido di loschi guadagni, 
 8 ma cordiale verso gli estranei, amante del bene, equilibrato, giusto, pio, padrone di sé, 
 9 saldamente abbracciato alla verace dottrina, quale fu insegnata, in modo che sia in grado con quell'insegnamento salutare di rivolgere esortazioni e di confutare gli avversari. 
@@ -100,7 +100,7 @@ V. Gli diede la benedizione di tutte le genti e confermò il suo patto sul capo 
 R. Per questo il Signore giurò di elevarlo sopra il suo popolo. Alleluia.
 
 [Lectio3]
-!Tito 2:1-8
+!Tit 2:1-8
 1 Tu invece devi predicare quello che è in accordo con il salutare insegnamento: 
 2 che i vecchi siano sobri, dignitosi, assennati, robusti nella fede, nella carità, nella pazienza. 
 3 Altrettanto, che le donne anziane abbiano un contegno santamente decoroso, non siano maldicenti né, schiave del vino; siano maestre di bontà, 
@@ -119,7 +119,7 @@ R. Tu sei sacerdote  in eterno,  secondo  l'ordine di Melchisedech. Alleluia.
 R. Tu sei sacerdote  in eterno,  secondo  l'ordine di Melchisedech. Alleluia.
 
 [MM Capitulum]
-!Eccli 44:20
+!Eccl 44:20
 Non si è trovato uno simile a lui nell'osservare la legge dell'Altissimo: per questo il Signore giurò di elevarlo sopra il sua popolo.
 $Deo gratias
 _
@@ -159,7 +159,7 @@ R. Egli interceda per i peccati di tutti gli uomini. Alleluia.
 
 [Lectio7]
 Dal Vangelo secondo Matteo
-!Matt 25:14-23
+!Matth 25:14-23
 In quel tempo Gesù disse ai suoi discepoli questa parabola: "Un uomo prima di mettersi in viaggio, chiamò i suoi servi, e consegnò loro i suoi beni". (continua nella Messa del giorno) 
 _
 Omelia di s. Gregorio papa
@@ -195,7 +195,7 @@ Sacerdoti di Dio, * benedite il Signore; servi del Signore sciogliete un inno a 
 Servo buono * e fedele, entra nel gaudio del tuo Signore. Alleluia.
 
 [Capitulum Laudes]
-!Sir 44:16-17
+!Eccl 44:16-17
 v. Ecco il gran sacerdote, che nei suoi giorni piacque a Dio e fu trovato giusto, e nel tempo dell'ira fu strumento di riconciliazione.
 $Deo gratias
 _
@@ -225,11 +225,11 @@ Esaudisci, o Signore, le preghiere che ti innalziamo nella solennità di San N.,
 $Per Dominum.
 
 [Lectio Prima]
-!Sir 45:19-20
+!Eccl 45:19-20
 v. Gli fece esercitare le funzioni sacerdotali e cantare le lodi nel suo nome, e offrirgli l'incenso degno per il soave profumo.
 
 [Capitulum Tertia]
-!Sir 44:16-17
+!Eccl 44:16-17
 v. Ecco il gran sacerdote, che nei suoi giorni piacque a Dio e fu trovato giusto, e nel tempo dell'ira fu strumento di riconciliazione.
 $Deo gratias
 
@@ -238,7 +238,7 @@ V. Lo elesse il Signore per suo Sacerdote. Alleluia.
 R. Affinché gli offrisse il sacrificio di lode. Alleluia.
 
 [Capitulum Sexta]
-!Sir 44:20; 44:22
+!Eccl 44:20; 44:22
 v. Non si è trovato uno simile a lui nell'osservare la legge dell'Altissimo: per questo il Signore giurò di elevarlo sopra il sua popolo. 
 $Deo gratias
 
@@ -247,7 +247,7 @@ V. Tu sei sacerdote in eterno. Alleluia.
 R. Secondo l'ordine di Melchisedech. Alleluia.
 
 [Capitulum Nona]
-!Sir 45:19-20
+!Eccl 45:19-20
 v. Gli fece esercitare le funzioni sacerdotali e cantare le lodi nel suo nome, e offrirgli l'incenso degno per il soave profumo.
 $Deo gratias
 
@@ -264,7 +264,7 @@ R. E gli mostrò il regno di Dio. Alleluia
 
 [LectioE]
 v. Da vangelo secondo Matteo
-!Matt 25:14-23
+!Matth 25:14-23
 25:14 Poichè [la cosa è] come quando un uomo partendo per lontano paese, chiamò i suoi servi, e mise le sue sostanze nelle loro mani.
 25:15 E diede all'uno cinque talenti, e all'altro due, e uno ad un altro, a ognuno in proporzione della sua capacità, e immediatamente si partì.
 25:16 Andò adunque quegli che aveva ricevuto cinque talenti, e li trafficò, e ne guadagnò altri cinque.

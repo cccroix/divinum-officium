@@ -13,7 +13,7 @@ Stefano vide * i cieli aperti, li vide e ci entrò: beato lui, cui si aprivano i
 Ecco io vedo * i cieli aperti, e Gesù star ritto alla destra di Dio.;;116
 
 [Capitulum Vespera]
-!Atti 6:8
+!Act 6:8
 v. Stefano poi, pieno di grazia e di fortezza, faceva prodigi e grandi miracoli fra il popolo.
 $Deo gratias
 
@@ -30,7 +30,7 @@ $Qui tecum
 
 [Lectio1]
 Dagli Atti degli Apostoli
-!Atti 7:51-54
+!Act 7:51-54
 51 Di testa dura e incirconcisi di cuore e di orecchio, voi resistete sempre allo Spirito Santo: anche voi siete come i vostri padri. 
 52 Qual dei profeti non perseguitarono i vostri padri? Uccisero perfino quelli che predicevano la venuta del Giusto, di cui voi siete stati adesso i traditori e gli assassini, 
 53 voi che avete ricevuto la legge per ministero d'Angeli, e non l'avete osservata. 
@@ -43,7 +43,7 @@ V. Sorsero alcuni della sinagoga a disputare con Stefano: ma non potevano resist
 R. Faceva prodigi e grandi miracoli fra il popolo.
 
 [Lectio2]
-!Atti 7:55-58
+!Act 7:55-58
 55 Ma egli, ch'era pieno dello Spirito Santo, mirando fisso in cielo, vide la gloria di Dio, e Gesù che stava ritto alla destra di Dio. E disse: Ecco, io vedo i cieli aperti, e il Figlio dell'uomo ritto alla destra di Dio. 
 56 Ma quelli, gettando grandi grida, si turarono le orecchie, e tutti insieme gli si gettarono addosso. 
 57 E trascinatolo fuori della città, si diedero a lapidarlo: e i testimoni deposero i loro mantelli ai piedi d'un giovane, chiamato Saulo. 
@@ -56,7 +56,7 @@ V. Sorsero alcuni della sinagoga a disputare con Stefano: ma non potevano resist
 R. E scorsero il suo volto come il volto d'un Angelo stante in mezzo ad essi.
 
 [Lectio3]
-!Atti 7:59; 8:1-2
+!Act 7:59; 8:1-2
 59 Poi, caduto ginocchioni, gridò a gran voce, dicendo: Signore, non imputar loro questo a peccato. E detto ciò, s'addormentò nel Signore. E Saulo approvava l'assassinio di lui. 
 1 Si scatenò allora una gran persecuzione contro la Chiesa che era in Gerusalemme; e tutti, fuorché gli Apostoli, si dispersero per le contrade della Giudea e della Samaria. 
 2 Ma degli uomini timorati seppellirono Stefano, e fecero gran pianto su di lui.
@@ -102,7 +102,7 @@ R. Ma egli accolse con gioia le pietre, per meritare di ricevere la corona della
 
 [Lectio7]
 Lettura del santo Vangelo secondo Matteo
-!Matt 23:34-39
+!Matth 23:34-39
 In quell'occasione: Gesù diceva agli scribi e ai farisei: Ecco io vi mando dei profeti e dei savi e degli scribi: e di questi voi ne ucciderete e ne crocifiggerete. Eccetera
 _
 Omelia di san Girolamo Prete
@@ -139,7 +139,7 @@ Stefano vide * i cieli aperti, li vide e ci entrò: beato lui, cui si aprivano i
 Ecco io vedo * i cieli aperti, e Gesù star ritto alla destra di Dio.
 
 [Capitulum Laudes]
-!Atti 6:8
+!Act 6:8
 v. Stefano poi, pieno di grazia e di fortezza, faceva prodigi e grandi miracoli fra il popolo.
 $Deo gratias
 
@@ -151,11 +151,11 @@ R. E fecero gran pianto sopra di lui.
 Stefano poi, * pieno di grazia e di fortezza, faceva grandi miracoli fra il popolo.
 
 [Lectio Prima]
-!Atti 7:59
+!Act 7:59
 v. Poi, caduto ginocchioni, gridò a gran voce, dicendo: Signore, non imputar loro questo a peccato. E detto ciò, si addormentò nel Signore.
 
 [Capitulum Tertia]
-!Atti 6:8
+!Act 6:8
 v. Stefano poi, pieno di grazia e di fortezza, faceva prodigi e grandi miracoli fra il popolo.
 $Deo gratias
 
@@ -171,7 +171,7 @@ V. Hai posto, o Signore, sul suo capo.
 R. Una corona di pietre preziose.
 
 [Capitulum Sexta]
-!Atti 6:9-10
+!Act 6:9-10
 v. Ma alcuni della sinagoga, detta dei Liberti, e di quella dei Cirenei e degli Alessandrini e di quelli della Cilicia e dell'Asia sorsero a disputare con Stefano: ma non potevano resistere alla sapienza e allo Spirito con cui egli parlava.
 $Deo gratias
 
@@ -187,7 +187,7 @@ V. Grande è la sua gloria per la tua salvezza.
 R. Lo hai ricoperto di grande gloria e di splendore.
 
 [Capitulum Nona]
-!Atti 7:59
+!Act 7:59
 v. Poi, caduto ginocchioni, gridò a gran voce, dicendo: Signore, non imputar loro questo a peccato. Edetto ciò, si addormentò nel Signore.
 $Deo gratias
 

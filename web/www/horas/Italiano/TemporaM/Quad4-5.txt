@@ -5,7 +5,7 @@ Feria Sexta infra Hebdomadam IV in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Lettura del santo Vangelo secondo Giovanni
-!Gio 11:1-45
+!Joann 11:1-45
 In quell'occasione: Si era ammalato un certo Lazzaro di Betania, il villaggio di Maria e di Marta sua sorella. Eccetera.
 _
 Omelia di sant'Agostino Vescovo
@@ -43,7 +43,7 @@ $Per Dominum
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Giovanni
-!Gio 11:1-45
+!Joann 11:1-45
 11:1 Era malato un tal Lazzaro del borgo di Betania, patria di Maria e di Marta sua sorella.
 11:2 (Maria era quella che unse con unguento il Signore, e gli asciugò i piedi co' suoi capelli, il fratello della quale Lazzaro era malato).
 11:3 Mandarono dunque a dirgli le sorelle : Signore, ecco che colui che tu ami è malato.

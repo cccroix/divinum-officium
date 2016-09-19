@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Dal secondo libro dei Re
-!2 Sam 7:4-6
+!2 Reg 7:4-6
 4 Ed ecco che il Signore parlò a Natan dicendo: 
 5 Va a dire al mio servo David: Ecco ciò che dice il Signore: Sarai forse tu che mi edificherai una casa per abitarvi? 
 6 Poiché io non ho abitato in una casa dal giorno in cui trassi i figli d'Israele dalla terra d'Egitto fino ad oggi, ma ho camminato sotto un padiglione e una tenda.
@@ -15,7 +15,7 @@ Dal secondo libro dei Re
 @TemporaM/Pent01-2:Responsory1
 
 [Lectio2]
-!2 Sam 7:7-11
+!2 Reg 7:7-11
 7 In tutti i luoghi che ho attraversato con tutti i figli d'Israele, ho forse mai parlato e detto ad alcuna delle tribù d'Israele, cui avevo comandato di pascere il mio popolo d'Israele: Perché non mi avete fabbricato una casa di cedro? 
 8 Ora dunque dirai così a David mio servo: Questo dice il Signore degli eserciti: Io ti tolsi dalla pastura mentre andavi dietro al gregge, perché divenissi duce del mio popolo d'Israele, 
 9 e fui con te in ogni cosa ovunque andasti, e sterminai dinanzi a te tutti i tuoi nemici, e ho reso grande il tuo nome come il nome dei grandi che sono sulla terra. 
@@ -26,7 +26,7 @@ Dal secondo libro dei Re
 @TemporaM/Pent01-2:Responsory2
 
 [Lectio3]
-!2 Sam 7:12-17
+!2 Reg 7:12-17
 12 Quando poi saranno compiuti i tuoi giorni, e tu dormirai coi tuoi padri, io susciterò dopo di te uno del tuo seme, che nascerà da te, e consoliderò il suo regno. 
 13 Egli edificherà una casa al mio nome, e io stabilirò il trono del suo regno in perpetuo. 
 14 Io gli sarò padre, ed egli mi sarà figlio. Che se commetterà qualche iniquità, io lo correggerò colla verga degli uomini e coi castighi dei figli degli uomini. 

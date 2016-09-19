@@ -6,7 +6,7 @@ Antiphonas horas
 
 [Lectio1]
 Lettura del santo Vangelo secondo Giovanni
-!Gio 12:1-9.
+!Joann 12:1-9.
 Sei giorni prima di Pasqua Gesù andò a Betania, dov'era Lazzaro, il morto che Gesù aveva risuscitato. Eccetera.
 _
 Omelia di sant'Agostino Vescovo
@@ -63,7 +63,7 @@ $Per Dominum
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Giovanni
-!Gio 12:1-9.
+!Joann 12:1-9.
 12:1 Gesù adunque sei dì avanti alla Pasqua andò a Betania, dove era Lazzaro già morto, e risuscitato da Gesù.
 12:2 E ivi gli diedero una cena : e Marta serviva a tavola : Lazzaro poi era uno di quelli che stavano a mensa con lui.
 12:3 Maria però prese una libbra di unguento di nardo puro di gran pregio, unse i piedi di Gesù, e asciugò i piedi di lui colle sue trecce : e la casa fu ripiena dell'odor dell'unguento.

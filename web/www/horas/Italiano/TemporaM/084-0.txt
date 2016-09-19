@@ -7,7 +7,7 @@ R. E discenda su di noi la tua misericordia.
 
 [Lectio1]
 Incomincia il libro dell'Ecclesiastico
-!Sir 1:1-5
+!Eccl 1:1-5
 1 Ogni sapienza è dal Signore Dio, e fu sempre con lui, ed essa è prima dei secoli. 
 2 L'arena del mare e le gocce della pioggia e i giorni dei secoli chi li ha contati? L'altezza del cielo e l'ampiezza della terra e la profondità dell'abisso chi l'ha misurata? 
 3 La sapienza di Dio la quale ogni cosa precede, chi l'ha investigata? 
@@ -18,7 +18,7 @@ Incomincia il libro dell'Ecclesiastico
 @TemporaM/081-0:Responsory1
 
 [Lectio2]
-!Sir 1:6-10
+!Eccl 1:6-10
 6 La radice della sapienza a chi fu svelata? e le sue finezze chi le conosce? 
 7 La condotta della sapienza a chi fu mai svelata e manifestata? e le molteplici sue vie chi le comprese? 
 8 Vi è un solo altissimo, Creatore onnipotente, Re potente, assai tremendo, seduto sul suo trono e dominatore, Iddio. 
@@ -29,7 +29,7 @@ Incomincia il libro dell'Ecclesiastico
 @TemporaM/081-0:Responsory2
 
 [Lectio3]
-!Sir 1:11-16
+!Eccl 1:11-16
 11 Il timore del Signore è una gloria e un vanto, è gioia e corona di trionfo. 
 12 Il timore del Signore allieta il cuore e porta allegrezza e gaudio e lunga vita. 
 13 Chi teme il Signore si ritroverà bene all'ultimo, e nel giorno di sua morte sarà benedetto. 

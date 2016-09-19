@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Dal libro primo dei Re
-!1 Sam 10:17-19
+!1 Reg 10:17-19
 17 Samuele convocò poi il popolo dinanzi al Signore in Masfa, 
 18 e disse ai figli d'Israele: Ecco ciò che dice il Signore Dio d'Israele: Io trassi Israele dall'Egitto e vi liberai dalle mani degli Egiziani e dalle mani di tutti i re che vi opprimevano. 
 19 Ma oggi voi avete rigettato il vostro Dio che solo vi salvò da tutti i mali e dalle vostre tribolazioni, e gli avete detto: Non più così, ma dacci un re. Ora dunque mettetevi dinanzi al Signore secondo la vostra tribù e famiglia.
@@ -18,7 +18,7 @@ V. Sono io che ho peccato, sono io che ho agito male: questi che sono pecore, ch
 R. Perché non sia desolata la terra, e non distrugga ogni anima vivente.
 
 [Lectio2]
-!1 Sam 10:20-24
+!1 Reg 10:20-24
 20 Samuele allora fece avvicinare tutte le tribù di Israele, e la sorte cadde sulla tribù di Beniamino; 
 21 fece parimente avvicinare le famiglie della tribù di Beniamino, e la sorte cadde sulla famiglia di Metri, e così si giunse fino a Saul figlio di Cis. Pertanto lo cercarono, ma non lo trovarono. 
 22 Allora consultarono il Signore, se sarebbe venuto colà. E il Signore rispose: Ecco, egli s'è nascosto in casa. 
@@ -29,7 +29,7 @@ R. Perché non sia desolata la terra, e non distrugga ogni anima vivente.
 @Tempora/Pent01-3:Responsory2
 
 [Lectio3]
-!1 Sam 10:25-27
+!1 Reg 10:25-27
 25 Quindi Samuele espose al popolo la legge del regno, e la scrisse in un libro, che ripose davanti al Signore; poi Samuele rimandò tutto il popolo, ciascuno a casa sua. 
 26 Anche Saul se n'andò a casa sua in Gabaa; e con lui andò pure una parte dell'esercito, quelli cui Dio aveva toccato il cuore. 
 27 Ma i figli di Belial dissero: Potrà forse salvarci costui? E lo disprezzarono, e non gli portaron doni: egli però faceva vista di non udire.

@@ -5,7 +5,7 @@ Feria Quarta infra Hebdomadam IV in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Lettura del santo Vangelo secondo Giovanni
-!Gio 9:1-38
+!Joann 9:1-38
 In quell'occasione: Gesù passando, vide un uomo cieco dalla nascita: ed i suoi discepoli gli domandarono: Maestro, è per i peccati suoi o de' suoi genitori ch'egli è nato cieco? Eccetera.
 _
 Omelia di sant'Agostino Vescovo
@@ -44,7 +44,7 @@ $Per Dominum
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Giovanni
-!Gio 9:1-38
+!Joann 9:1-38
 9:1 E passando Gesù vide un uomo cieco dalla nascita :
 9:2 E i suoi discepoli gli domandarono : Maestro, di chi è stata la colpa, di costui, o dei suoi genitori ch'egli sia nato cieco?
 9:3 Rispose Gesù: Né egli, né i suoi genitori hanno peccato : ma perché in lui si manifestino le opere di Dio.

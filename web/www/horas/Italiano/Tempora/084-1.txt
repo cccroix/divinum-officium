@@ -1,6 +1,6 @@
 [Lectio1]
 Dal libro dell'Ecclesiastico
-!Sir 1:22-26
+!Eccl 1:22-26
 22 La corona della sapienza è il timore del Signore, che fa fiorire la pace e la sanità; 
 23 egli la conosce e comprende: l'uno e l'altra sono doni di Dio. 
 24 La sapienza compartisce la scienza e il lume della prudenza, ed esalta la gloria di quanti la posseggono. 
@@ -11,7 +11,7 @@ Dal libro dell'Ecclesiastico
 @Tempora/081-1:Responsory1
 
 [Lectio2]
-!Sir 1:27-33
+!Eccl 1:27-33
 27 Il timore del Signore scaccia il peccato; 
 28 perché chi è senza timore non potrà esser giusto; ché la furiosa sua iracondia è la sua rovina. 
 29 Per un tempo il paziente soffrirà, ma poi sarà consolato. 
@@ -24,7 +24,7 @@ Dal libro dell'Ecclesiastico
 @Tempora/081-1:Responsory2
 
 [Lectio3]
-!Sir 1:34-40
+!Eccl 1:34-40
 34 Poiché il timor del Signore è scienza e disciplina, e oggetto di sue compiacenze 
 35 sono fede e mansuetudine, ed egli colmerà i tesori di chi la possiede. 
 36 Non essere ritrose al timore del Signore, né accostarti a lui con cuore doppio. 

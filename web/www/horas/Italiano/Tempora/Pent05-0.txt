@@ -20,7 +20,7 @@ $Per Dominum
 
 [Lectio1]
 Incomincia il secondo libro dei Re
-!2 Sam 1:1-4
+!2 Reg 1:1-4
 1 Or avvenne che, dopo la morte di Saul, David, ritornato dalla sconfitta degli Amaleciti, dimorava a Siceleg da due giorni. 
 2 Quando il terzo giorno comparve un uomo che veniva dal campo di Saul colla veste stracciata, col capo sparso di polvere, e, avvicinatosi a David, gli fece una profonda riverenza prostrandosi colla faccia per terra. 
 3 E David gli domandò: Donde vieni? E quegli rispose: Sono fuggito dal campo d'Israele. 
@@ -30,7 +30,7 @@ Incomincia il secondo libro dei Re
 @Tempora/Pent04-0:Responsory1
 
 [Lectio2]
-!2 Sam 1:5-10
+!2 Reg 1:5-10
 5 E David disse al giovane che gli dava queste notizie: Come sai tu, che Saul e Gionata suo figlio
 sono morti? 
 6 E il giovane che gli raccontava disse: io ero giunto per caso sul monte di Gelboe, allorché Saul s'era gettato sulla punta della sua lancia. E già s'appressavano i carri e i cavalieri, 
@@ -43,7 +43,7 @@ sono morti?
 @Tempora/Pent04-0:Responsory2
 
 [Lectio3]
-!2 Sam 1:11-15
+!2 Reg 1:11-15
 11 Ma David prese le sue vesti e le stracciò, e così pure tutti gli uomini che erano con lui 
 12 e fecero duolo e piansero e digiunarono fino alla sera a motivo di Saul e di Gionata suo figlio e del popolo del Signore e della casa di Israele, perché erano periti di spada. 
 13 Poi David disse al giovane che gli aveva recata la notizia: Donde sei tu? E quegli gli rispose: Io sono figlio d'uno straniero, di un Amalecita. 
@@ -75,7 +75,7 @@ Di essi è detto con ragione che non potranno più essere campi di primizie. In 
 
 [Lectio7]
 Lettura del santo Vangelo secondo Matteo
-!Matt 5:20-24
+!Matth 5:20-24
 In quell'occasione: Gesù disse ai suoi discepoli: Se la vostra santità non sarà maggiore di quella degli scribi e dei farisei, voi non entrerete nel regno dei cieli. Eccetera.
 _
 Omelia di sant'Agostino Vescovo

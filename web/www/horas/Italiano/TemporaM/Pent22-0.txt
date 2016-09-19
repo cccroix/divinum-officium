@@ -13,7 +13,7 @@ $Per Dominum
 
 [Lectio7]
 Lettura del santo Vangelo secondo Matteo
-!Matt 22:15-21
+!Matth 22:15-21
 In quell'occasione: I farisei ritiratisi. s'accordarono per cogliere in fallo Gesù nelle sue parole. Eccetera.
 _
 Omelia di sant'Ilario Vescovo
@@ -41,7 +41,7 @@ Rendete dunque * a Cesare quel ch'è di Cesare, e a Dio quel che è di Dio, alle
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Matteo
-!Matt 22:15-21
+!Matth 22:15-21
 22:15 In quel tempo: Adunatisi, i Farisei tennero consiglio per sorprendere Gesú nel suo parlare. 
 22:16 Gli mandarono i loro discepoli con gli Erodiani a dirgli: Maestro, sappiamo che sei veritiero e insegni la via di Dio secondo la verità, e non hai riguardo per alcuno, poiché non guardi alla persona degli uomini: 
 22:17 dicci il tuo parere: è lecito o no pagare il tributo a Cesare?

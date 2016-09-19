@@ -124,7 +124,7 @@ R. Chi rimane in me, e io in lui, questi porta molto frutto, alleluia, alleluia.
 
 [Lectio7]
 Lettura del santo Vangelo secondo Marco
-!Marco 16:1-7
+!Marc 16:1-7
 In quell'occasione : Maria Maddalena e Maria madre di Giacomo, e Salome, comprarono degli aromi per andare a imbalsamare Gesù. Eccetera.
 _
 Omelia di san Gregorio Papa
@@ -228,7 +228,7 @@ R. Esultiamo e rallegriamoci in esso.
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Marco
-!Marco 16:1-7
+!Marc 16:1-7
 16:1 E passato il sabato, Maria Maddalena, e Maria madre di Giacomo, e Salome comprarono gli aromi per andar a imbalsamare Gesù.
 16:2 E di gran mattino il primo dì della settimana arrivano al sepolcro, essendo già nato il sole.
 16:3 E dicevano tra loro : Chi ci leverà la pietra dalla bocca del monumento? 

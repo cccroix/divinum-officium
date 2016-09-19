@@ -5,7 +5,7 @@ Feria Tertia infra Hebdomadam III in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Lettura del santo Vangelo secondo Matteo
-!Matt 18:15-22
+!Matth 18:15-22
 In quell'occasione: Gesù disse ai suoi discepoli: Se il tuo fratello avrà peccato contro di te, va e riprendilo fra te e lui solo. Eccetera.
 _
 Omelia di sant'Agostino Vescovo

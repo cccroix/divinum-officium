@@ -4,7 +4,7 @@ Feria V post Cineres;;Feria major;;2
 Preces Feriales
 [Lectio1]
 Lettura del santo Vangelo secondo Matteo.
-!Matt 8:5-13
+!Matth 8:5-13
 In quell'occasione: Entrato che fu Gesù in Cafarnao, gli si presentò un centurione, e lo pregava dicendo: Signore, il mio servo giace in casa paralizzato, e soffre molto. Eccetera.
 _
 Omelia di sant'Agostino Vescovo.
@@ -53,7 +53,7 @@ $Per Dominum
 
 [LectioE]
 v.  Lettura del santo Vangelo secondo Matteo.
-!Matt 8:5-13
+!Matth 8:5-13
 8:5 Ed entrato che fu in Cafarnao andò a trovarlo un Centurione, raccomandandoglisi, e
 8:6 dicendo : Signore, il mio servo giace in casa malato di paralisia, ed è malamente tormentato.
 8:7 E Gesù gli disse : Io verrò, e lo guarirò.

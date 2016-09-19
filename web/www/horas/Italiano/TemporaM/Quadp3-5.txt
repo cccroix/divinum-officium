@@ -6,7 +6,7 @@ Preces Feriales
 
 [Lectio1]
 Lettura del santo Vangelo secondo Matteo.
-!Matt 5:43-48; 6:1-4
+!Matth 5:43-48; 6:1-4
 In quell'occasione: Gesù disse ai suoi discepoli: Avete udito che fu detto: Ama il tuo prossimo, e odia il tuo nemico. Eccetera.
 _
 Omelia di san Girolamo Prete
@@ -52,7 +52,7 @@ $Per Dominum
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Matteo.
-!Matt 5:43-48; 6:1-4
+!Matth 5:43-48; 6:1-4
 5:43 Udiste che fu detto : Amerai il prossimo tuo, e odierai il tuo nemico.
 5:44 Ma io vi dico : Amate 1 vostri nemici : fate del bene a coloro che vi odiano : e pregate per coloro che vi perseguitano e vi calunniano,
 5:45 affinché siate figli del Padre vostro che è nei cieli, il quale fa levare il suo sole sopra i buoni e sopra i cattivi : e manda la pioggia pei giusti e per gl'iniqui.

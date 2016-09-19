@@ -12,7 +12,7 @@ Feria Te Deum
 
 [Lectio1]
 Incomincia la seconda Lettera dell'Apostolo san Pietro.
-!2 Pet 1:1-4
+!2 Petri 1:1-4
 1 Simon Pietro, servo e Apostolo di Gesù Cristo, a quelli che hanno ricevuto gratuitamente la stessa fede che noi, colla giustizia del nostro Dio e Salvatore Gesù Cristo. 
 2 La grazia e la pace si moltiplichi in voi mediante la cognizione di Dio e di Gesù Cristo Signor nostro, 
 3 la cui divina potenza ci ha donato tutto quanto riguarda la vita e la pietà, facendoci conoscere colui che ci ha chiamati per la sua gloria e virtù, 
@@ -22,7 +22,7 @@ Incomincia la seconda Lettera dell'Apostolo san Pietro.
 @Tempora/Pasc5-4:Responsory1
 
 [Lectio2]
-!2 Pet 1:5-9
+!2 Petri 1:5-9
 5 Ora voi adoprandovi con ogni sollecitudine, unite alla vostra fede la virtù, alla virtù la scienza, 
 6 alla scienza la temperanza, alla temperanza la pazienza, alla pazienza la pietà, 
 7 alla pietà l'amore fraterno, all'amore fraterno la carità. 
@@ -33,7 +33,7 @@ Incomincia la seconda Lettera dell'Apostolo san Pietro.
 @Tempora/Pasc5-4:Responsory2
 
 [Lectio3]
-!2 Pet 1:10-15
+!2 Petri 1:10-15
 10 Perciò, o fratelli, studiatevi sempre più di rendere certa colle buone opere la vostra vocazione ed elezione: perché così facendo, non peccherete giammai. 
 11 E così vi sarà largamente assicurato l'ingresso nel regno eterno di nostro Signore e Salvatore Gesù Cristo. 
 12 Quindi avrò sempre cura di ammonirvi di queste cose; benché le conosciate e siate confermati nella verità di cui vi parlo adesso. 

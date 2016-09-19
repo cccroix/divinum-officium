@@ -5,7 +5,7 @@ Sabbato infra Hebdomadam III in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Lettura del santo Vangelo secondo Giovanni
-!Gio. 8:1-11
+!Joann 8:1-11
 In quell'occasione: Gesù andò al monte Oliveto, e all'alba tornò di nuovo al tempio. Eccetera.
 _
 Omelia di sant'Agostino Vescovo
@@ -37,7 +37,7 @@ $Per Dominum
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Giovanni
-!Gio. 8:1-11
+!Joann 8:1-11
 8:1 E Gesù se n'andò aJ monte Oliveto : 
 8:2 E di gran mattino tornò nuovamente al tempio, e tutto il popolo andò da lui, e stando a sedere li ammaestrava. 
 8:3 E gli Scribi e i Farisei gli conducono una donna colta in adulterio, e postala in mezzo,

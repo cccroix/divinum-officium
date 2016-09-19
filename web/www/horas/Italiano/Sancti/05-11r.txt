@@ -27,7 +27,7 @@ $Per Dominum
 
 [Lectio1]
 Inizio delle Epistola cattolica del beato Giacomo Apostolo
-!Gia 1:1-6
+!Jacob 1:1-6
 1 Giacomo servo di Dio e del Signor nostro Gesù Cristo, alle dodici tribù disperse, salute.
 2 Abbiate, fratelli miei, come argomento di vero gaudio le varie tentazioni, nelle quali urterete :
 3 sapendo come la prova della vostra fede produce la pazienza.
@@ -37,7 +37,7 @@ Inizio delle Epistola cattolica del beato Giacomo Apostolo
 
 
 [Lectio2]
-!Gia 1:6-11
+!Jacob 1:6-11
 6 Poiché chi esita è simile al flutto del mare mosso e agitato dal vento.
 7 Non si pensi adunque un tal uomo di ottener cosa alcuna dal Signore.
 8 L'uomo di animo doppio è incostante in tutte le sue vie.
@@ -47,7 +47,7 @@ Inizio delle Epistola cattolica del beato Giacomo Apostolo
 
 
 [Lectio3]
-!Gia 1:12-16
+!Jacob 1:12-16
 12 Beato l'uomo che soffre tentazione : perché quando sarà stato provato, riceverà la corona di vita promessa da Dio a coloro che lo amano.
 13 Nessuno, quand'è tentato, dica che è tentato da Dio : poiché Dio non è tentatore di cose male : ed egli non tenta nessuno,
 14 Ma ciascuno è tentato dalla propria concupiscenza, che lo attrae e lo alletta.
@@ -66,7 +66,7 @@ Era tanta poi la santità della vita di Giacomo, che gli uomini gareggiavano nel
 
 [Lectio7]
 Lettura del santo Vangelo secondo Giovanni
-!Gio 14:1-13
+!Joann 14:1-13
 In quell'occasione; Gesù disse ai suoi discepoli: Non si turbi il cuor vostro. Abbiate fede in Dio e abbiate fede anche in me. Nella casa del Padre mio ci sono molti posti. Eccetera.
 _
 Omelia di sant'Agostino Vescovo

@@ -5,7 +5,7 @@ Sabbato Quattuor Temporum Quadragesimae;;Feria major;;2
 
 [Lectio1]
 Lettura del santo Vangelo secondo Matteo     
-!Matt 17:1-9
+!Matth 17:1-9
 In quell'occasione: Gesù prese con sé Pietro e Giacomo e Giovanni suo fratello, e li condusse in disparte sopra un alto monte: e fu trasfigurato davanti ad essi. Eccetera.
 _
 Omelia di san Leone Papa   
@@ -36,7 +36,7 @@ $Per Dominum
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Matteo
-!Matt 17:1-9
+!Matth 17:1-9
 17:1 Sei giorni dopo Gesù prese con sé Pietro e Giacomo e Giovanni suo fratello, e li menò in disparte sopra un alto monte :
 17:2 E fu dinanzi ad essi trasfigurato. E il suo volto era luminoso come il sole : e le sue vesti bianche come la neve. 
 17:3 E a un tratto apparvero ad essi Mosè ed Elia, i quali discorrevano con lui.

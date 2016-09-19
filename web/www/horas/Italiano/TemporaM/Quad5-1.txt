@@ -5,7 +5,7 @@ Feria Secunda infra Hebdomadam Passionis;;Feria major;;2
 
 [Lectio1]
 Lettura del santo Vangelo secondo Giovanni
-!Gio 7:32-39
+!Joann 7:32-39
 In quell'occasione: I caporioni e i farisei mandarono degli sgherri a pigliare Gesù. Eccetera.
 _
 Omelia di sant'Agostino Vescovo
@@ -57,7 +57,7 @@ $Per Dominum.
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Giovanni
-!Gio 7:32-39
+!Joann 7:32-39
 7:32 Sentirono i Farisei che tali erano nel popolo i susurri riguardo a lui : e i Farisei e i principi mandarono ministri, perchè lo pigliassero.
 7:33 Disse adunque loro Gesù : Per poco sono ancora con voi : e me ne vo a colui che mi ha mandato.
 7:34 Cercherete di me, e non mi troverete : e dove io sono, voi non potete venire. 

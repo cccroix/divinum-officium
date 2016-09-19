@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Dal Profeta Isaia
-!Isa 64:1-4
+!Isai 64:1-4
 1 O se tu squarciassi i cieli e scendessi al tuo cospetto si liquefarebbero i monti. 
 2 Si consumerebbero come in una fornace di fuoco, le acque prenderebbero l'ardore dei fuoco, affinché fosse noto ai tuoi nemici il tuo nome, e dinanzi a te si turbassero le Genti. 
 3 Allorché farai queste meraviglie, noi non le sosterremo: tu sei disceso, e dinanzi a te i monti si son disciolti. 
@@ -16,7 +16,7 @@ Dal Profeta Isaia
 @TemporaM/Adv4-0:Responsory1
 
 [Lectio2]
-!Isa 64:5-7
+!Isai 64:5-7
 5 Tu vai incontro a quelli che san lieti della tua venuta, e praticano la giustizia: nelle tue vie si ricorderanno di te: ecco che tu sei sdegnato, e noi abbiam peccato siamo sempre negli stessi peccati, ma saremo salvati. 
 6 Tutti siam diventati come un immondo, e come sucido panno son tutte le nostre giustificazioni: siam caduti tutti come la foglia, e le nostre iniquità ci han travolto come vento. 
 7 Non c'è nessuno che invochi il tuo nome: che sorga e ti trattenga: tu hai nascosta la tua faccia a noi, e ci hai schiacciati sotto il peso della nostra iniquità.
@@ -25,7 +25,7 @@ Dal Profeta Isaia
 @TemporaM/Adv4-0:Responsory2
 
 [Lectio3]
-!Isa 64:8-11
+!Isai 64:8-11
 8 Ed ora, o Signore, tu sei  nostro padre, e noi fango: tu sei nostro fattore, e tutti noi opere delle tue mani. 
 9 Non adirarti troppo, o Signore, e non voler più ricordarti della nostra iniquità: ecco, rimiraci, siam tutti tuo popolo. 
 10 La città del tuo santuario è diventata deserta, deserta è diventata Sion, Gerusalemme è desolata. 

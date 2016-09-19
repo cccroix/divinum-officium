@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 De Isaia Propheta
-!Isa 2:1-3
+!Isai 2:1-3
 1 Parola, che vide Isaia, figlio di Amos, riguardo a Giuda e Gerusalemme. 
 2 E negli ultimi giorni sarà fondato li monte della casa del Signore sulla cima dei monti, ed elevato sopra tutti i colli, e vi affluiranno tutte le genti. 
 3 E popoli numerosi accorreranno, e diranno: Venite, saliamo al monte del Signore e alla casa del Dio di Giacobbe, ed egli c'insegnerà le sue vie, e noi cammineremo sui suoi sentieri: perché da Sion uscirà la legge, e la parola del Signore da Gerusalemme.
@@ -18,7 +18,7 @@ V. Mandate, o cieli, dall'alto la rugiada, e le nubi piovano il giusto: s'apra l
 R. E’ prossimo a venire il giorno del Signore.
 
 [Lectio2]
-!Isa 2:4-6
+!Isai 2:4-6
 4 Egli sarà il giudice delle Genti, e l'arbitro di molti popoli: e trasformeranno le loro spade in vomeri, e le loro lance in falci: gente non brandirà più la spada contro gente, e non si eserciteranno più a combattere. 
 5 Casa di Giacobbe, venite, e camminiamo nella luce del Signore. 
 6 Perché tu hai rigettato il tuo popolo, la casa di Giacobbe: perché sono pieni (d'iniquità) come in antico, e hanno avuto degli indovini come i Filistei, e si sono affezionati ai servi stranieri.
@@ -30,7 +30,7 @@ V. Da Sion uscirà la legge, e la parola del Signore da Gerusalemme.
 R. Perché la luce del mondo, il Signore, viene con potenza.
 
 [Lectio3]
-!Isa 2:7-9
+!Isai 2:7-9
 7 Il paese s'è riempito d'argento e d'oro: i loro tesori sono senza fine: 
 8 il loro paese s'è riempito di cavalli: e i suoi cocchi sono innumerevoli. Il paese s'è riempito di idoli hanno adorato l'opera delle loro mani, ciò che hanno fatto le loro dita. 
 9 L'uomo s'è incurvato, l'uomo s'è degradato: tu dunque non perdonar loro.

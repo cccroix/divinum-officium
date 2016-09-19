@@ -1,6 +1,6 @@
 [Lectio1]
 Dal primo libro dei Maccabe
-!1 Mac 13:1-6
+!1 Mach 13:1-6
 1 Or Simone intese che Trifone aveva radunato un grosso esercito per entrare nella terra di Giuda e devastarla. 
 2 E vedendo che il popolo era in timore e spavento, salì a Gerusalemme, radunò il popolo 
 3 e animandoli disse: Voi sapete quante battaglie io e i miei fratelli e la casa di mio padre abbiamo combattuto per la legge e per il santuario e in quali angustie ci siamo visti; 
@@ -12,7 +12,7 @@ Dal primo libro dei Maccabe
 @Tempora/101-0:Responsory1
 
 [Lectio2]
-!1 Mac 13:7-13
+!1 Mach 13:7-13
 7 A queste parole lo spirito del popolo s'infiammò 
 8 e tutti risposero a gran voce dicendo: Tu sei il nostro duce in luogo di Giuda e di Gionata tuo fratello; 
 9 combatti la nostra battaglia e tutto quello che ci comanderai lo faremo. 
@@ -25,7 +25,7 @@ Dal primo libro dei Maccabe
 @Tempora/101-0:Responsory2
 
 [Lectio3]
-!1 Mac 13:14-19
+!1 Mach 13:14-19
 14 Ma Trifone inteso come in luogo di Gionata era subentrato Simone suo fratello e che questi stava per venire con lui a battaglia, gli mandò degli ambasciatori 
 15 per dirgli: Abbiamo ritenuto Gionata tuo fratello per il denaro che doveva al regio erario per gli affari che amministrava. 
 16 Ora tu mandaci cento talenti d'argento e due suoi figli in ostaggio, affinché, rimesso in libertà, non ci abbandoni, e noi lo rimanderemo. 

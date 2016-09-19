@@ -1,6 +1,6 @@
 [Lectio1Tridentina]
 Dal secondo libro dei Maccabei
-!2 Mac 8:10-14
+!2 Mach 8:10-14
 10 E Nicanore fece il conto di supplire al tributo di due mila talenti, che il re dovea dare ai Romani, colla vendita degli schiavi Giudei: 
 11 E tosto mandò pelle città marittime a invitare alla compra di schiavi Ebrei promettendo di dare novanta schiavi per un talento, senza riflettere al gastigo dell'Onnipotente, che dovea piombare sopra di lui.
 12 Ma Giuda subito che ne fu informato fece sapere a' Giudei, che eran seco, la venuta di Nicanore.
@@ -16,7 +16,7 @@ Dal secondo libro dei Maccabei
 @Tempora/101-0:Responsory7
 
 [Lectio2Tridentina]
-!2 Mac 8:16:19
+!2 Mach 8:16:19
 16 Or Maccabeo, raunati i settemila uomini, che eran con lui, gli scongiurò di non venire a patti co' nemici, e a non temere la moltitudine di quelli, che venivano contro di loro, ma combattessero virilmente,
 17 Mettendosi davanti agli occhi le indegnità commesse da quelli contro del luogo santo, e le ingiurie, e gli insulti fatti alla città, e le instituzioni stesse de' maggiori abolite.
 18 Poiché quelli nelle armi confidano (diss'egli), e nell'audacia; ma noi nel Signore onnipotente confidiamo, il quale può ad un cenno, e questi che vengono contro di noi, e il mondo tutto distruggere:
@@ -31,7 +31,7 @@ Dal secondo libro dei Maccabei
 @Tempora/101-1:Responsory2
 
 [Lectio3Tridentina]
-!2 Mac 8:21-28
+!2 Mach 8:21-28
 21 Tali ragionamenti li renderon costanti, e pronti a morire per le leggi, e per la patria.
 22 Egli pertanto diede il comando di una parte de' soldati a ciascuno de' suoi fratelli, Simone, Giuseppe, e Gionata, assegnando loro mille cinquecento uomini per ciascheduno.
 23 E oltre a ciò lesse ad essi Esdra il libro santo, e dato per segno l'aiuto di Dio, stando egli stesso alla testa dell'esercito, attaccò la zuffa con Nicanore.

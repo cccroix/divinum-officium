@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Dal primo libro dei Re
-!1 Sam 8:4-6
+!1 Reg 8:4-6
 4 Radunatisi pertanto tutti i seniori d' Israele, andarono da Samuele a Ramata, 
 5 e gli dissero:  Tu sei ormai vecchio, e i tuoi figli non battono la tua strada: perciò dacci un re, che ci giudichi, come l'hanno tutte le nazioni. 
 6 Spiacque a Samuele questo parlare e dire: Dacci un re che ci giudichi. E Samuele pregò il Signore.
@@ -15,7 +15,7 @@ Dal primo libro dei Re
 @TemporaM/Pent01-1:Responsory1
 
 [Lectio2]
-!1 Sam 8:7-9
+!1 Reg 8:7-9
 7 E il Signore disse a Samuele: Ascolta la voce del popolo in tutto quello che ti dicono: perché essi non hanno rigettato te, ma me, affinché io non regni su di loro. 
 8 Così hanno fatto in tutte le cose loro dal giorno che li trassi dall'Egitto fino ad oggi, abbandonandomi per servire agli dèi stranieri, così fanno anche con te. 
 9 Adesso dunque ascolta la loro voce; ma fa con essi le tue proteste, e preannunzia loro i diritti del re che regnerà su di essi.
@@ -24,7 +24,7 @@ Dal primo libro dei Re
 @TemporaM/Pent01-1:Responsory2
 
 [Lectio3]
-!1 Sam 8:10-14
+!1 Reg 8:10-14
 10 Samuele dunque riferì tutte le parole del Signore al popolo che gli aveva chiesto un re, 
 11 e soggiunse: Questo sarà il diritto del re che vi comanderà. Egli prenderà i vostri figli, e se ne farà dei cocchieri, dei cavalieri e dei battistrada alle sue quadriglie; 
 12 e li costituirà suoi tribuni e centurioni e aratori de' suoi campi e mietitori delle sue biade e fabbricatori delle armi e dei suoi cocchi; 
@@ -48,7 +48,7 @@ Altra volta, conversando coi Giudei, Cristo diceva: «Se non mangerete la mia ca
 
 [Lectio7]
 Lettura del santo Vangelo secondo Giovanni
-!Joannes 6:56-59
+!Joann 6:56-59
 In quell'occasione: Gesù disse alle turbe dei Giudei: La mia carne è veramente cibo, ed il mio sangue è veramente bevanda. Eccetera._
 !Omelia di san Cirillo Vescovo d'Alessandria
 !Libro 4 su Giovanni, c. 17
@@ -63,7 +63,7 @@ Prendi dunque, te ne prego, dei santi pensieri, studiati di menare una vita pura
 
 [LectioE]
 Lettura del santo Vangelo secondo Giovanni
-!Joannes 6:56-59
+!Joann 6:56-59
 6:56 Perocché la mia carne è veramente cibo, e il mio sangue è veramente bevanda.
 6:57 Chi mangia la mia carne, e beve il mio sangue, sta in me, ed io in lui.
 6:58 Come mandò me quel Padre che vive, ed io vivo per il Padre : così chi mangerà me, vivrà anch'egli per me,
