@@ -7,7 +7,7 @@ Feria Te Deum
 
 [Lectio1]
 Here begins the second letter of blessed Apostle John
-!2 John 1:1-5
+!2 Joann 1:1-5
 1 The ancient to the lady Elect, and her children, whom I love in the truth, and~
 not I only, but also all they that have known the truth,
 2 For the sake of the truth which dwelleth in us, and shall be with us for ever.
@@ -22,7 +22,7 @@ that which we have had from the beginning, that we love one another.
 @TemporaM/Pasc5-4:Responsory1
 
 [Lectio2]
-!2 John 1:6-9
+!2 Joann 1:6-9
 6 And this is charity, that we walk according to his commandments. For this is~
 the commandment, that, as you have heard from the beginning, you should walk in~
 the same:
@@ -38,7 +38,7 @@ Son.
 @TemporaM/Pasc5-4:Responsory2
 
 [Lectio3]
-!2 John 1:10-13
+!2 Joann 1:10-13
 10 If any man come to you, and bring not this doctrine, receive him not into the~
 house nor say to him, God speed you.
 11 For he that saith unto him, God speed you, communicateth with his wicked~

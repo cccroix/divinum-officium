@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the second book of Kings
-!2 Kgs 17:6-9
+!2 Reg 17:6-9
 6 And in the ninth year of Osee, the king of the Assyrians took Samaria, and~
 carried Israel away to Assyria: and he placed them in Hala and Habor by the~
 river of Gozan, in the cities of the Medes.
@@ -24,7 +24,7 @@ watchmen to the fenced city.
 @TemporaM/Pent01-1:Responsory1
 
 [Lectio2]
-!2 Kgs 17:13-15
+!2 Reg 17:13-15
 13 And the Lord testified to them in Israel and in Juda by the hand of all the~
 prophets and seers, saying: Return from your wicked ways, and keep my precepts,~
 and ceremonies, according to all the law which I commanded your fathers: and as I~
@@ -41,7 +41,7 @@ they did.
 @TemporaM/Pent01-1:Responsory2
 
 [Lectio3]
-!2 Kgs 17:18-21
+!2 Reg 17:18-21
 18 And the Lord was very angry with Israel, and removed them from his sight, and~
 there remained only the tribe of Juda.
 19 But neither did Juda itself keep the commandments of the Lord their God: but~

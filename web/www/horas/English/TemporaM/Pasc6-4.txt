@@ -7,7 +7,7 @@ Doxology=Asc
 
 [Lectio1]
 Lesson from the third letter of St John the Apostle
-!3 John 1:1-4
+!3 Joann 1:1-4
 1 The ancient to the dearly beloved Gaius, whom I love in truth.
 2 Dearly beloved, concerning all things I make it my prayer that thou mayest~
 proceed prosperously, and fare well as thy soul doth prosperously.
@@ -19,7 +19,7 @@ in thee, even as thou walkest in the truth.
 @TemporaM/Pasc5-4:Responsory1
 
 [Lectio2]
-!3 John 1:5-10
+!3 Joann 1:5-10
 5 Dearly beloved, thou dost faithfully whatever thou dost for the brethren, and~
 that for strangers,
 6 Who have given testimony to thy charity in the sight of the church: whom thou~

@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the second book of Kings
-!2 Kgs 6:24-27
+!2 Reg 6:24-27
 24 And it came to pass after these things, that Benadad king of Syria gathered~
 together all his army, and went up, and besieged Samaria.
 25 And there was a great famine in Samaria: and so long did the siege continue,~
@@ -21,7 +21,7 @@ barnfloor, or out of the winepress?
 @TemporaM/Pent01-1:Responsory1
 
 [Lectio2]
-!2 Kgs 6:27-32
+!2 Reg 6:27-32
 27 And the king said to her: What aileth thee? And she answered:
 28 This woman said to me: Give thy son, that we may eat him today, and we will~
 eat my son tomorrow.
@@ -37,7 +37,7 @@ head of Eliseus the son of Saphat shall stand on him this day.
 @TemporaM/Pent01-1:Responsory2
 
 [Lectio3]
-!2 Kgs 6:32-33; 7:1
+!2 Reg 6:32-33; 7:1
 32 So he sent a man before: and before that messenger came, he said to the~
 ancients: Do you know that this son of a murderer hath sent to cut off my head?~
 Look then, when the messenger shall come, shut the door, and suffer him not to~

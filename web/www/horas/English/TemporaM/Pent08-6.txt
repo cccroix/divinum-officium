@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the first book of Kings
-!1 Kgs 18:21-22
+!1 Reg 18:21-22
 21 And Elias coming to all the people, said: How long do you halt between two~
 sides? if the Lord be God, follow him: but if Baal, then follow him. And the~
 people did not answer him a word.
@@ -17,7 +17,7 @@ the prophets of Baal are four hundred and fifty men.
 @TemporaM/Pent01-3:Responsory1
 
 [Lectio2]
-!1 Kgs 18:23-24
+!1 Reg 18:23-24
 23 Let two bullocks be given us, and let them choose one bullock for themselves,~
 and cut it in pieces and lay it upon wood, but put no fire under: and I will~
 dress the other bullock, and lay it on wood, and put no fire under it.
@@ -29,7 +29,7 @@ answering said: A very good proposal.
 @TemporaM/Pent01-3:Responsory2
 
 [Lectio3]
-!1 Kgs 18:25-27
+!1 Reg 18:25-27
 25 Then Elias said to the prophets of Baal: Choose you one bullock and dress it~
 first, because you are many: and call on the names of your gods, but put no fire~
 under.

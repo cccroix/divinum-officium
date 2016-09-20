@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the first book of Kings
-!1 Kgs 7:51; 8:1-2
+!1 Reg 7:51; 8:1-2
 51 And Solomon finished all the work that he made in the house of the Lord, and~
 brought in the things that David his father had dedicated, the silver and the~
 gold, and the vessels, and laid them up in the treasures of the house of the~
@@ -22,7 +22,7 @@ month of Ethanim, the same is the seventh month.
 @TemporaM/Pent01-3:Responsory1
 
 [Lectio2]
-!1 Kgs 8:3-7
+!1 Reg 8:3-7
 3 And all the ancients of Israel came, and the priests took up the ark,
 4 And carried the ark of the Lord, and the tabernacle of the covenant, and all~
 the vessels of the sanctuary, that were in the tabernacle: and the priests and~
@@ -40,7 +40,7 @@ covered the art, and the staves thereof above
 @TemporaM/Pent01-3:Responsory3
 
 [Lectio3]
-!1 Kgs 8:9-12
+!1 Reg 8:9-12
 9 Now in the ark there was nothing else but the two tables of stone, which Moses~
 put there at Horeb, when the Lord made a covenant with the children of Israel,~
 when they came out of the land of Egypt.

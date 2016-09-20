@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the second book of Kings
-!2 Kgs 11:1-3
+!2 Reg 11:1-3
 1 And Athalia the mother of Ochozias seeing that her son was dead, arose, and~
 slew all the royal seed.
 2 But Josaba the daughter of king Joram, sister of Ochozias, took Joas the son~
@@ -20,7 +20,7 @@ reigned over the land.
 @TemporaM/Pent03-1:Responsory1
 
 [Lectio2]
-!2 Kgs 11:4-7
+!2 Reg 11:4-7
 4 And in the seventh year Joiada seat, and taking the centurions and the~
 soldiers, brought them in to him into the temple of the Lord, and made a~
 covenant with them: and taking an oath of them in the house of the Lord, showed~
@@ -37,7 +37,7 @@ the house of the Lord about the king.
 @TemporaM/Pent03-1:Responsory2
 
 [Lectio3]
-!2 Kgs 11:9-12
+!2 Reg 11:9-12
 9 And the centurions did according to all things that Joiada the priest had~
 commanded them: and taking every one their men, that went in on the sabbath,~
 with them that went out on the sabbath, came to Joiada the priest.

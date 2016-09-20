@@ -24,7 +24,7 @@ $Per Dominum
 
 [Lectio1]
 Lesson from the second book of Kings
-!2 Kgs 20:1-3
+!2 Reg 20:1-3
 1 In those days Ezechias was sick unto death: and Isaias the son of Amos the~
 prophet came and said to him: Thus saith the Lord God: Give charge concerning~
 thy house, for thou shalt die, and not live.
@@ -37,7 +37,7 @@ Ezechias wept with much weeping.
 @TemporaM/Pent01-1:Responsory1
 
 [Lectio2]
-!2 Kgs 20:4-7
+!2 Reg 20:4-7
 4 And before Isaias was gone out of the middle of the court, the word of the~
 Lord came to him, saying:
 5 Go back, and tell Ezechias the captain of my people: Thus saith the Lord the~
@@ -54,7 +54,7 @@ laid it upon his boil. he was healed.
 @TemporaM/Pent01-1:Responsory2
 
 [Lectio3]
-!2 Kgs 20:8-11
+!2 Reg 20:8-11
 8 And Ezechias had said to Isaias: What shall be the sign that the Lord will~
 heal me, and that I shall go up to the temple of the Lord the third day?
 9 And Isaias said to him: This shall be the sign from the Lord, that the Lord~

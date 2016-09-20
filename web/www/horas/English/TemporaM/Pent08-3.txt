@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the first book of Kings
-!1 Kgs 11:26-28
+!1 Reg 11:26-28
 26 Jeroboam also the son of Nabat an Ephrathite of Sareda, a servant of Solomon,~
 whose mother was named Sarua, a widow woman, lifted up his hand against the~
 king.
@@ -20,7 +20,7 @@ Joseph.
 @TemporaM/Pent01-3:Responsory1
 
 [Lectio2]
-!1 Kgs 11:29-31
+!1 Reg 11:29-31
 29 So it came to paste at that time, that Jeroboam went out of Jerusalem, and~
 the prophet Ahias the Silonite, clad with a new garment, found him in the way:~
 and they two were alone in the held.
@@ -34,7 +34,7 @@ will give thee ten tribes.
 @TemporaM/Pent01-3:Responsory2
 
 [Lectio3]
-!1 Kgs 11:40-43
+!1 Reg 11:40-43
 40 Solomon therefore sought to kill Jeroboam: but he arose, and fled into Egypt~
 to Sesac the king of Egypt, and was in Egypt till the death of Solomon.
 41 And the rest of the words of Solomon, and all that he did, and his wisdom:~

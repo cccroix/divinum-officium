@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the second book of Kings
-!2 Kgs 22:1-5
+!2 Reg 22:1-5
 1 Josias was eight years old when he began to reign: he reigned one and thirty~
 years in Jerusalem: the name of his mother was Idida, the daughter of Hadaia, of~
 Besecath.
@@ -26,7 +26,7 @@ repair the temple:
 @TemporaM/Pent03-1:Responsory1
 
 [Lectio2]
-!2 Kgs 22:8-10
+!2 Reg 22:8-10
 8 And Helcias the high priest said to Saphan the scribe: I have found the book~
 of the law in the house of the Lord: and Helcias gave the book to Saphan, and he~
 read it.
@@ -42,7 +42,7 @@ delivered to me a book.
 @TemporaM/Pent03-1:Responsory2
 
 [Lectio3]
-!2 Kgs 22:10-13
+!2 Reg 22:10-13
 10 And when Saphan had read it before the king,
 11 And the king had heard the words of the law of the Lord, he rent his~
 garments.

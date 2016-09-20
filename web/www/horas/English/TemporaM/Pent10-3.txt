@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the second book of Kings
-!2 Kgs 13:14-17
+!2 Reg 13:14-17
 14 Now Eliseus was sick of the illness whereof he died: and Joas king of Israel~
 went down to him, and wept before him, and said: O my father, my father, the~
 chariot of Israel and the guider thereof.
@@ -23,7 +23,7 @@ the Syrians in Aphec, till thou consume them.
 @TemporaM/Pent01-3:Responsory1
 
 [Lectio2]
-!2 Kgs 13:18-20
+!2 Reg 13:18-20
 18 And he said: Take the arrows. And when he had taken them, he said to him:~
 Strike with an arrow upon the ground. And he struck three times and stood still.
 19 And the man of God was angry with him, and said: If thou hadst smitten five~
@@ -36,7 +36,7 @@ land the same year.
 @TemporaM/Pent01-3:Responsory2
 
 [Lectio3]
-!2 Kgs 13:21; 13:24-25
+!2 Reg 13:21; 13:24-25
 21 And some that were burying a man, saw the rovers, and cast the body into the~
 sepulchre of Eliseus. And when it had touched the bones of Eliseus, the man came~
 to life, and stood upon his feet.

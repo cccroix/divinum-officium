@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the second book of Kings
-!2 Kgs 9:1-5
+!2 Reg 9:1-5
 1 And Eliseus the prophet called one of the sons of the prophets, slid said to~
 him: Gird up thy loins, and take this little bottle of oil in thy hand, and go~
 to Ramoth Galaad.
@@ -25,7 +25,7 @@ he said: To thee, O prince.
 @TemporaM/Pent01-3:Responsory1
 
 [Lectio2]
-!2 Kgs 9:6-10
+!2 Reg 9:6-10
 6 And he arose, and went into the chamber: and he poured the oil upon his head,~
 and said: Thus saith the Lord God of Israel: I have anointed thee king over~
 Israel, the people of the Lord.
@@ -44,7 +44,7 @@ no one to bury her. And he opened the door and fled.
 @TemporaM/Pent01-3:Responsory2
 
 [Lectio3]
-!2 Kgs 9:11-13
+!2 Reg 9:11-13
 11 Then Jehu went forth to the servants of his lord: and they said to him: Are~
 all things well? why came this mad man to thee? And he said to them: You know~
 the man, and what he said.

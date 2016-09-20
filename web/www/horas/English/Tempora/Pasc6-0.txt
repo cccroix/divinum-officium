@@ -40,7 +40,7 @@ $Per eumdem
 	
 [Lectio1]
 Lesson from the first letter of St. John the Apostle
-!1 John 1:1-5
+!1 Joann 1:1-5
 1 That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the word of life:
 2 For the life was manifested; and we have seen and do bear witness, and declare unto you the life eternal, which was with the Father, and hath appeared to us:
 3 That which we have seen and have heard, we declare unto you, that you also may have fellowship with us, and our fellowship may be with the Father, and with his Son Jesus Christ.
@@ -56,7 +56,7 @@ Lesson from the first letter of St. John the Apostle
 10 If we say that we have not sinned, we make him a liar, and his word is not in us.
 
 [Lectio3]
-!1 John 2:1-6
+!1 Joann 2:1-6
 1 My little children, these things I write to you, that you may not sin. But if any man sin, we have an advocate with the Father, Jesus Christ the just:
 2 And he is the propitiation for our sins: and not for ours only, but also for those of the whole world.
 3 And by this we know that we have known him, if we keep his commandments.

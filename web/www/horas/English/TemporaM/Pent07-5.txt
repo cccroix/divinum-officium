@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the first book of Kings
-!1 Kgs 5:1-4
+!1 Reg 5:1-4
 1 And Hiram king of Tyre sent his servants to Solomon: for he heard that they~
 had anointed him king in the room of his father: for Hiram had always been~
 David's friend.
@@ -21,7 +21,7 @@ adversary nor evil occurrence.
 @TemporaM/Pent01-2:Responsory1
 
 [Lectio2]
-!1 Kgs 5:5-6
+!1 Reg 5:5-6
 5 Wherefore I purpose to build a temple to the name of the Lord my God, as the~
 Lord spoke to David my father, saying: my son, whom I will set upon the throne~
 in thy piece, he shall build a house to my name.
@@ -34,7 +34,7 @@ people a man that has skill to hew wood like to the Sidonians.
 @TemporaM/Pent01-2:Responsory2
 
 [Lectio3]
-!1 Kgs 5:7-9
+!1 Reg 5:7-9
 7 Now when Hiram had heard the words of Solomon, he rejoiced exceedingly, and~
 said: Blessed be the Lord God this day, who hath given to David a very wise son~
 over this numerous people.

@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the first book of Kings
-!1 Kgs 1:28-31
+!1 Reg 1:28-31
 28 And king David answered and said: Call to me Bethsabee. And when she was come~
 in to the king, and stood before him,
 29 The king swore and said: As the Lord liveth, who hath delivered my soul out~
@@ -21,7 +21,7 @@ May my lord David live for ever
 @TemporaM/Pent01-3:Responsory1
 
 [Lectio2]
-!1 Kgs 1:32-35
+!1 Reg 1:32-35
 32 Kgs David also said: Call me Sadoc the priest, and Nathan the prophet, and~
 Banaias the son of Joiada. And when they were come in before the king,
 33 He said to them: Take with you the servants of your lord, and set my son~
@@ -36,7 +36,7 @@ Israel, and over Juda.
 @TemporaM/Pent01-3:Responsory2
 
 [Lectio3]
-!1 Kgs 1:38-40
+!1 Reg 1:38-40
 38 So Sadoc the priest, and Nathan the prophet went down, and Banaias the son of~
 Joiada, and the Cerethi, and Phelethi: and they set Solomon upon the mule of~
 king David, and brought him to Gihon.

@@ -7,7 +7,7 @@ Feria Te Deum
 
 [Lectio1]
 From the first letter of blessed Apostle John
-!1 John 3:1-6
+!1 Joann 3:1-6
 1 Behold what manner of charity the Father hath bestowed upon us, that we should~
 be called, and should be the sons of God. Therefore the world knoweth not us,~
 because it knew not him.
@@ -45,7 +45,7 @@ did he kill him? Because his own works were wicked: and his brother's just
 @TemporaM/Pasc5-4:Responsory2
 
 [Lectio3]
-!1 John 3:13-16
+!1 Joann 3:13-16
 13 Wonder not, brethren, if the world hate you.
 14 We know that we have passed from death to life, because we love the brethren.~
 He that loveth not, abideth in death.

@@ -16,7 +16,7 @@ $Per Dominum
 
 [Lectio1]
 Lesson from the first book of Kings
-!1 Kgs 9:1-5
+!1 Reg 9:1-5
 1 And it came to pass when Solomon had finished the building of the house of the Lord, and the king's house, and all that he desired, and was pleased to do,
 2 That the Lord appeared to him the second time, as he had appeared to him in Gabaon.
 3 And the Lord said to him: I have heard thy prayer and thy supplication, which thou hast made before me: I have sanctified this house, which thou hast built, to put my name there for ever, and my eyes and my heart shall be there always.
@@ -27,7 +27,7 @@ Lesson from the first book of Kings
 @Tempora/Pent01-1
 
 [Lectio2]
-!1 Kgs 9:6-9
+!1 Reg 9:6-9
 6 But if you and your children revolting shall turn away from following me, and will not keep my commandments, and my ceremonies, which I have set before you, but will go and worship strange gods, and adore them: 
 7 I will take away Israel from the face of the land which I have given them; and the temple which I have sanctified to my name, I will cast out of my sight; and Israel shall be a proverb, and a byword among all people. 
 8 And this house shall be made an example of: every one that shall pass by it, shall be astonished, and shall hiss, and say: Why hath the Lord done thus to this land, and to this house: 
@@ -37,7 +37,7 @@ Lesson from the first book of Kings
 @Tempora/Pent01-1
 
 [Lectio3]
-!1 Kgs 9:10-14
+!1 Reg 9:10-14
 10 And when twenty years were ended after Solomon had built the two houses, that is, the house of the Lord, and the house of the king,
 11 (Hiram the king of Tyre furnishing Solomon with cedar trees and fir trees, and gold according to all he had need of.) then Solomon gave Hiram twenty cities in the land of Galilee. 
 12 And Hiram came out of Tyre, to see the towns which Solomon had given him, and they pleased him not, 
