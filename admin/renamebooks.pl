@@ -88,10 +88,10 @@ my %unnumbered = (
     Esth     => [ "Est" ],
     Job      => [ "Giobbe" ],
     Ps       => [ "Psalmum", "Psalmus", "PSALM" ],
-    Prov     => [ "Prov", "Prov.", "Prz", "Spr" ],
+    Prov     => [ "Prov", "Prz", "Spr" ],
     Eccl     => [ "Eccl", "Koh" ],
     Cant     => [ "Cant", "Pnp", "Hld" ],
-    Sap      => [ "Wis", "Sap.", "Sap", "Weish" ],
+    Sap      => [ "Wis", "Sap", "Weish" ],
     Eccli    => [ "Sir", "Eccli", "Syr", "Ecclus" ],
     Isai     => [ "Isa", "Is", "Iz", "Jes" ],
     Jerem    => [ "Jer", "Jr", "Ger" ],
@@ -144,12 +144,12 @@ my %numbered = (
     "2 Mach"  => [ [2], [ "Mac" ] ],
     "1 Cor"   => [ [1], [ "Cor", "Kor", "Kor", "Cro" ] ],
     "2 Cor"   => [ [2], [ "Cor", "Kor", "Kor", "Cro" ] ],
-    "1 Thess" => [ [1], [ "Thess", " Tes", "Tessz", "Tess" ] ],
-    "2 Thess" => [ [2], [ "Thess", " Tes", "Tessz", "Tess" ] ],
-    "1 Tim"   => [ [1], [ "Tim", " Tm" ] ],
-    "2 Tim"   => [ [2], [ "Tim", " Tm" ] ],
-    "1 Petri" => [ [1], [ "Pet", " Petri", "Pét", "P", "Pietro" ] ],
-    "2 Petri" => [ [2], [ "Pet", " Petri", "P", "Pietro" ] ],
+    "1 Thess" => [ [1], [ "Thess", "Tes", "Tessz", "Tess" ] ],
+    "2 Thess" => [ [2], [ "Thess", "Tes", "Tessz", "Tess" ] ],
+    "1 Tim"   => [ [1], [ "Tim", "Tm" ] ],
+    "2 Tim"   => [ [2], [ "Tim", "Tm" ] ],
+    "1 Petri" => [ [1], [ "Pet", "Petri", "Pét", "P", "Pietro" ] ],
+    "2 Petri" => [ [2], [ "Pet", "Petri", "P", "Pietro" ] ],
     "1 Joann" => [ [1], [$unnumbered{Joann}[1]] ],
     "2 Joann" => [ [2], [$unnumbered{Joann}[1]] ],
     "3 Joann" => [ [3], [$unnumbered{Joann}[1]] ],
@@ -162,7 +162,7 @@ sub list_unnumbered {
     my ($key_book) = @_;
     my @arr = @{$unnumbered{$key_book}};
     push @arr, $key_book;
-    my $str = "\!( ?)(" . join("|", @arr) . ")(\.?)( ?)";
+    my $str = "\!( *)(" . join("|", @arr) . ")(\\.?) ";
     return ($str,);
 }
 
@@ -189,27 +189,13 @@ sub list_numbered {
     if ($key_book ne "3 Reg" and $key_book ne "4 Reg"){
         foreach my $nb ( @nbers ) {
             foreach my $i ( 0 .. $#{ $numbered{$key_book}[1] } ) {
-            push @abbrs, "\!$nb $numbered{$key_book}[1][$i] ";
-            push @abbrs, "\! $nb $numbered{$key_book}[1][$i] ";
-            push @abbrs, "\!$nb $numbered{$key_book}[1][$i]. ";
-            push @abbrs, "\! $nb $numbered{$key_book}[1][$i]. ";
-            push @abbrs, "\!$nb. $numbered{$key_book}[1][$i] ";
-            push @abbrs, "\! $nb. $numbered{$key_book}[1][$i] ";
-            push @abbrs, "\!$nb. $numbered{$key_book}[1][$i]. ";
-            push @abbrs, "\! $nb. $numbered{$key_book}[1][$i]. ";
-            push @abbrs, "\!$nb$numbered{$key_book}[1][$i] ";
-            push @abbrs, "\! $nb$numbered{$key_book}[1][$i] ";
-            push @abbrs, "\!$nb$numbered{$key_book}[1][$i]. ";
-            push @abbrs, "\! $nb$numbered{$key_book}[1][$i]. ";
+            push @abbrs, "\!( *)$nb(\\.?)( *)$numbered{$key_book}[1][$i](\\.?) ";
             }
         }
     }
     
     # add good_abbr & derivates
-    push @abbrs, "\!$key_book ";
-    push @abbrs, "\! $key_book ";
-    push @abbrs, "\!$key_book. ";
-    push @abbrs, "\! $key_book. ";
+    push @abbrs, "\!( *)$key_book(\\.?) ";
     
     return @abbrs;
 }
