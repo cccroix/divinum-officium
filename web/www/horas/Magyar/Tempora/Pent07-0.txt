@@ -23,7 +23,7 @@ $Per Dominum
 
 [Lectio1]
 Olvasmány a Királyok első könyvéből
-!1 Kgs 1:1-4
+!1 Reg 1:1-4
 1 Dávid király éltes öreg lett; hiába burkolták takaróba, nem tudott~
 fölmelegedni.
 2 Szolgái ezért így szóltak hozzá: Kell keresni urunknak és királyunknak egy~
@@ -42,7 +42,7 @@ among you.
 R. And He will deliver you out of the hand of your enemies.
 
 [Lectio2]
-!1 Kgs 1:5-8
+!1 Reg 1:5-8
 5 Adonija, Haggit fia közben ilyen gondolatokra ragadtatta magát: Én leszek a~
 király! Szerzett hát magának szekereket, lovakat és ötven embert, fullajtárnak.
 6 Az apja sose tette neki szóvá: Miért viselkedsz így? Ráadásul nagyon szép~
@@ -61,7 +61,7 @@ of the bear
 R. And anointed me with the oil of His mercy.
 
 [Lectio3]
-!1 Kgs 1:11-15
+!1 Reg 1:11-15
 11 Erre Nátán így szólt Batsebához, Salamon anyjához: "Bizonyára hallottad, hogy~
 Adonija, Haggit fia király lett anélkül, hogy urunk, Dávid tudna róla.
 12 Nos, hadd adjak neked tanácsot, hogyan mentheted meg az életedet és fiad,~

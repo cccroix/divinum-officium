@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Olvasmány a Királyok második könyvéből
-!2 Kgs 4:1-4
+!2 Reg 4:1-4
 1 A prófétatanítványok asszonyai közül az egyik hangosan megszólította Elizeust, ezekkel a szavakkal: "Férjem, a te szolgád, meghalt. Tudod jól, hogy szolgád az Úr tisztelője volt, s most jön a hitelező, hogy elvigye a két fiamat rabszolgának." 
 2 Elizeus azt válaszolta: "Mit tegyek veled? Add ide, amid van házadban!" Az így felelt: "Nincs semmi egyebe szolgálódnak házában, csak egy korsója, s benne olaj." 
 3 Erre azt mondta neki: "Menj, kérj kölcsön minden szomszédodtól edényeket, mégpedig üres edényeket, de ne keveset! 
@@ -16,7 +16,7 @@ Olvasmány a Királyok második könyvéből
 @Tempora/Pent01-3:Responsory1
 
 [Lectio2]
-!2 Kgs 4:5-10
+!2 Reg 4:5-10
 5 Elment hát, magára és fiaira zárta az ajtót, aztán ezek adogatták neki (az edényeket), ő pedig töltögette őket. 
 6 Amikor az edények megteltek, azt mondta az egyik fiának: "Nyújts ide még egy korsót!" De az azt felelte: "Nincs több edény." Ezzel az olaj megszűnt folyni. 
 7 Elment hát és jelentette Isten emberének. Az meghagyta: "Menj, add el az olajat és fizesd ki adósságodat! Abból, ami megmarad, fiaiddal együtt megélhetsz." 
@@ -28,7 +28,7 @@ Olvasmány a Királyok második könyvéből
 @Tempora/Pent01-3:Responsory2
 
 [Lectio3]
-!2 Kgs 4:11-17
+!2 Reg 4:11-17
 11 Történt, hogy egy nap megérkezett, betért a fönti szobába és lefeküdt. 
 12 Aztán így szólt szolgájához, Gechaszihoz: "Hívd ide sunemi asszonyunkat!" Odahívta, s az oda is állt (Gechaszi) elé. 
 13 Erre meghagyta: "Mondd meg neki: Te annyi gondot vállaltál miattunk. Mit tehetnénk érted? Lehetne talán egy szót szólni érdekedben a királynál vagy a sereg vezérénél?" Azt felelte: "Nemzetségem körében élek." 

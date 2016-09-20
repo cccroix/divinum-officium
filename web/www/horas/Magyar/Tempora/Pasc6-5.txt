@@ -16,7 +16,7 @@ No suffragium
 
 [Lectio1]
 Olvasmány szent János apostol harmadik leveléből
-!3 John 1:1-4
+!3 Joann 1:1-4
 1 Én, "az Öreg", kedves Gájuszomnak, akit az Igazságban szeretek.
 2 Kedvesem, kívánom, hogy minden sikerüljön neked és egészséges légy testben is,~
 lélekben is.
@@ -29,7 +29,7 @@ járnak.
 @Tempora/Pasc6-6:LectioJudae1
 
 [Lectio2]
-!3 John 1:5-10
+!3 Joann 1:5-10
 5 Kedvesem, te helyes magatartást tanúsítasz a testvérek iránt, kivált az~
 idegenek iránt.
 6 Ez bizonyítja szeretetedet az egyház színe előtt; jól teszed, ha ezentúl is~
@@ -48,7 +48,7 @@ benne, és kitiltja az egyházból.
 @Tempora/Pasc6-6:LectioJudae2
 
 [Lectio3]
-!3 John 1:11-14
+!3 Joann 1:11-14
 11 Kedvesem, ne a rosszat utánozd, hanem a jót. Aki a jót teszi, az Istentől van,~
 aki a rosszat teszi, az nem látta az Istent.
 12 Demetriusz mellett mindenki, még maga az Igazság is bizonyságot tesz; mi is~

@@ -12,7 +12,7 @@ Feria Te Deum
 
 [Lectio1]
 Olvasmány szent János apostol második leveléből
-!2 John 1:1-5
+!2 Joann 1:1-5
 1 Én, "az Öreg", a kiválasztott Úrnőnek és gyermekeinek, akiket az Igazságban szeretek, 
 2 de nemcsak én, hanem mindenki, aki megismerte az Igazságot, amely bennünk van, és velünk lesz örökre. 
 3 Legyen velünk az Atyaistennek és Jézus Krisztusnak, az Atya Fiának kegyelme, irgalma és békéje, igazságban és szeretetben! 
@@ -23,7 +23,7 @@ Olvasmány szent János apostol második leveléből
 @Tempora/Pasc5-4:Responsory1
 
 [Lectio2]
-!2 John 1:6-9
+!2 Joann 1:6-9
 6 Ez a szeretet azt jelenti, hogy parancsai szerint éljünk. Ez hát a parancs, mint ahogy kezdettől fogva hallottátok, hogy éljetek szeretetben. 
 7 Mert sok csaló fellépett a világban, aki nem vallja, hogy Jézus Krisztus testben jött el. Az ilyen csaló és antikrisztus. 
 8 Vigyázzatok magatokra, nehogy elveszítsétek, amit már megszereztetek, hanem teljes bért kapjatok. 
@@ -33,7 +33,7 @@ Olvasmány szent János apostol második leveléből
 @Tempora/Pasc5-4:Responsory2
 
 [Lectio3]
-!2 John 1:10-13
+!2 Joann 1:10-13
 10 Ha valaki nem ezzel a tanítással megy hozzátok, még csak ne is köszönjetek neki. 
 11 Mert aki köszön neki, részes gonosz tetteiben. 
 12 Még sok mindenről tudnék írni, de nem akarom papírra és tintára bízni. Remélem, hogy egyszer eljutok hozzátok, és élőszóval mondom el, hogy örömünk teljes legyen. 

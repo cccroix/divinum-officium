@@ -12,7 +12,7 @@ Antiphonas horas
 Doxology=Corp
 
 [Capitulum Vespera]
-!1 John 3:13-14
+!1 Joann 3:13-14
 v. Ne csodálkozzatok azon, testvérek, hogy a világ gyűlöl benneteket. Mi tudjuk, hogy a halálból átmentünk az életbe, mert szeretjük testvéreinket. Aki nem szeret, a halálban marad.
 $Deo gratias
 
@@ -105,7 +105,7 @@ And we that, from the first man, are born under the afflictions of this pilgrima
 &teDeum
 
 [Capitulum Laudes]
-!1 John 3:13-14
+!1 Joann 3:13-14
 v. Ne csodálkozzatok azon, testvérek, hogy a világ gyűlöl benneteket. Mi tudjuk, hogy a halálból átmentünk az életbe, mert szeretjük testvéreinket. Aki nem szeret, a halálban marad.
 $Deo gratias
 
@@ -131,11 +131,11 @@ O God, Who under a wonderful Sacrament hast left unto us whereby to show forth t
 $Qui vivis
 
 [Lectio Prima]
-!1 John 3:18
+!1 Joann 3:18
 v. Gyermekeim, ne szeressünk se szóval, se nyelvvel, hanem tettel és igazsággal.
 
 [Capitulum Tertia]
-!1 John 3:13-14
+!1 Joann 3:13-14
 v. Ne csodálkozzatok azon, testvérek, hogy a világ gyűlöl benneteket. Mi tudjuk, hogy a halálból átmentünk az életbe, mert szeretjük testvéreinket. Aki nem szeret, a halálban marad.
 $Deo gratias
 
@@ -151,7 +151,7 @@ V. He fed them with the finest of the wheat. Alleluja.
 R. And with honey out of the rock did He satisfy them. Alleluja.
 
 [Capitulum Sexta]
-!1 John 3:16
+!1 Joann 3:16
 v. A szeretetet arról ismerjük fel, hogy ő életét adta értünk. Nekünk is kötelességünk életünket adni testvéreinkért.
 $Deo gratias
 
@@ -167,7 +167,7 @@ V. Thou bringest forth food out of the earth. Alleluja.
 R. And wine that maketh glad the heart of man. Alleluja
 
 [Capitulum Nona]
-!1 John 3:18
+!1 Joann 3:18
 v. Gyermekeim, ne szeressünk se szóval, se nyelvvel, hanem tettel és igazsággal.
 $Deo gratias
 

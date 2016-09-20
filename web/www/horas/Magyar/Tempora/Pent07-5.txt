@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Olvasmány a Királyok első könyvéből
-!1 Kgs 5:15-18
+!1 Reg 5:15-18
 15 Hirám, a tíruszi király is elküldte szolgáit Salamonhoz; hallotta ugyanis,~
 hogy atyja helyébe fölkenték királlyá, s Hirám egész életében jó barátja volt~
 Dávidnak.
@@ -21,7 +21,7 @@ aki ellenszegülne, s nincs balszerencse.
 @Tempora/Pent01-2:Responsory1
 
 [Lectio2]
-!1 Kgs 5:19-20
+!1 Reg 5:19-20
 19 Így arra gondolok, hogy házat építek az Úr, az én Istenem nevének, az Úrnak~
 atyámhoz, Dávidhoz intézett szava szerint: A fiad, akit majd helyedbe a trónra~
 emelek, építsen hajlékot a nevemnek.
@@ -34,7 +34,7 @@ szidoniak."
 @Tempora/Pent01-2:Responsory2
 
 [Lectio3]
-!1 Kgs 5:21-23
+!1 Reg 5:21-23
 21 Amikor Hirám megkapta Salamon üzenetét, nagyon örült és felkiáltott: "Áldott~
 legyen ma az Úr, aki bölcs fiút adott Dávidnak (hogy uralkodjék) ezen a nagy~
 népen!"

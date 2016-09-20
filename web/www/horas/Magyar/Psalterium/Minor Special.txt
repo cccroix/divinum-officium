@@ -1,5 +1,5 @@
 [Dominica Tertia]
-!1 John. 4:16
+!1 Joann 4:16
 v. Az Isten szeretet, és aki kitart a szeretetben, az az Istenben marad, s az Isten is benne marad.
 $Deo gratias
 _
@@ -278,7 +278,7 @@ V. Maradj velünk, Uram, Alleluja
 R. mert esteledik. Alleluja
 
 [Dominica TertiaM]
-!1 John. 4:16
+!1 Joann 4:16
 v. Az Isten szeretet, és aki kitart a szeretetben, az az Istenben marad, s az Isten is benne marad.
 $Deo gratias
 _
