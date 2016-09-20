@@ -5,7 +5,7 @@
 #   ./renamebook.sh | sed -rf- [sed options, eg -i] /path/to/my/files
 #
 
-varnumpattern='!( *)(([[:digit:]]|[IV]{1,3})( ?)(\.?)( *))(VARNAMES)( ?)(\.?) '
+varnumpattern='^!( *)(([[:digit:]]|[IV]{1,3})( ?)(\.?)( *))(VARNAMES)( ?)(\.?) '
 goodnumpattern='!\3 GOODNAME '
 function corrects_num_names {
   while read -a names
@@ -15,7 +15,7 @@ function corrects_num_names {
     goodname="${names[0]}"
     var="${varnumpattern/'VARNAMES'/$varnames}"
     good="${goodnumpattern/'GOODNAME'/$goodname}"
-    echo "s#$var#$good#g"
+    echo "s#$var#$good#"
   done <<EOF
     Cor Kor Cro
     Esdr Neh
@@ -29,7 +29,24 @@ function corrects_num_names {
 EOF
 }
 
-varpattern='!( *)(VARNAMES)( ?)(\.?) '
+function corrects_numbers {
+    oldpattern="${goodnumpattern/'GOODNAME'/'(Cor|Esdr|Joann|Mach|Paral|Petri|Reg|Thess|Tim)'}"
+    newpattern="${goodnumpattern/'GOODNAME'/'\1'}"
+    while read roman arab
+    do
+      old="${oldpattern/'\3'/$roman}"
+      new="${newpattern/'\3'/$arab}"
+      echo "s#$old#$new#"
+    done <<EOF
+      I 1
+      II 2
+      III 3
+      IV 4
+EOF
+}
+
+
+varpattern='^!( *)(VARNAMES)( ?)(\.?) '
 goodpattern='!GOODNAME '
 function corrects_names {
   while read -a names
@@ -92,22 +109,6 @@ function corrects_names {
     Tit Titus Tit Tt Tyt Tito
     Tob
     Zach Zech Zach Za Sach Zak Zch
-EOF
-}
-
-function corrects_numbers {
-    oldpattern="${goodnumpattern/'GOODNAME'/'([[:alpha:]]+)'}"
-    newpattern="${goodnumpattern/'GOODNAME'/'\1'}"
-    while read roman arab
-    do
-      old="${oldpattern/'\3'/$roman}"
-      new="${newpattern/'\3'/$arab}"
-      echo "s#$old#$new#g"
-    done <<EOF
-      I 1
-      II 2
-      III 3
-      IV 4
 EOF
 }
 
