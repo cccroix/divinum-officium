@@ -16,7 +16,7 @@ $Per Dominum
 
 [Lectio1]
 De libro quarto Regum.
-!2 Kgs 9:29-34
+!2 Reg 9:29-34
 29 Anno undecimo Joram filii Achab, regnavit Ochozias super Judam,
 30 venitque Jehu in Jezrahel. Porro Jezabel, introitu ejus audito, depinxit oculos suos stibio, et ornavit caput suum, et respexit per fenestram
 31 ingredientem Jehu per portam, et ait: Numquid pax potest esse Zambri, qui interfecit dominum suum?
@@ -28,7 +28,7 @@ De libro quarto Regum.
 @Tempora/Pent01-1
 
 [Lectio2]
-!2 Kgs 9:35-37; 10:1-3
+!2 Reg 9:35-37; 10:1-3
 35 Cumque issent ut sepelirent eam, non invenerunt nisi calvariam, et pedes, et summas manus.
 36 Reversique nuntiaverunt ei. Et ait Jehu: Sermo Domini est, quem locutus est per servum suum Eliam Thesbiten, dicens: In agro Jezrahel comedent canes carnes Jezabel,
 37 et erunt carnes Jezabel sicut stercus super faciem terrae in agro Jezrahel, ita ut praetereuntes dicant: Haeccine est illa Jezabel?
@@ -40,7 +40,7 @@ De libro quarto Regum.
 @Tempora/Pent01-1
 
 [Lectio3]
-!2 Kgs 10:4-7
+!2 Reg 10:4-7
 4 Timuerunt illi vehementer, et dixerunt: Ecce duo reges non potuerunt stare coram eo, et quomodo nos valebimus resistere?
 5 Miserunt ergo praepositi domus, et praefecti civitatis, et majores natu, et nutricii, ad Jehu, dicentes: Servi tui sumus: quaecumque jusseris faciemus, nec constituemus nobis regem: quaecumque tibi placent, fac.
 6 Rescripsit autem eis litteras secundo, dicens: Si mei estis, et obeditis mihi, tollite capita filiorum domini vestri, et venite ad me hac eadem hora cras in Jezrahel. Porro filii regis, septuaginta viri, apud optimates civitatis nutriebantur.

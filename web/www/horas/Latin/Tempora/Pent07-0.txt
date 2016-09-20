@@ -16,7 +16,7 @@ $Per Dominum
 
 [Lectio1]
 Incipit liber tertius Regum.
-!1 Kgs 1:1-4
+!1 Reg 1:1-4
 1 Et rex David senuerat, habebatque aetatis plurimos dies: cumque operiretur vestibus, non calefiebat.
 2 Dixerunt ergo ei servi sui: Quaeramus domino nostro regi adolescentulam virginem, et stet coram rege, et foveat eum, dormiatque in sinu suo, et calefaciat dominum nostrum regem.
 3 Quaesierunt igitur adolescentulam speciosam in omnibus finibus Israël, et invenerunt Abisag Sunamitidem, et adduxerunt eam ad regem.
@@ -26,7 +26,7 @@ Incipit liber tertius Regum.
 @Tempora/Pent01-1
 
 [Lectio2]
-!1 Kgs 1:5-8
+!1 Reg 1:5-8
 5 Adonias autem filius Haggith elevabatur, dicens: Ego regnabo. Fecitque sibi currus et equites, et quinquaginta viros qui currerent ante eum.
 6 Nec corripuit eum pater suus aliquando, dicens: Quare hoc fecisti? Erat autem et ipse pulcher valde, secundus natu post Absalom.
 7 Et sermo ei cum Joab filio Sarviae, et cum Abiathar sacerdote, qui adjuvabant partes Adoniae.
@@ -36,7 +36,7 @@ Incipit liber tertius Regum.
 @Tempora/Pent01-1
 
 [Lectio3]
-!1 Kgs 1:11-15
+!1 Reg 1:11-15
 11 Dixit itaque Nathan ad Bethsabee matrem Salomonis: Num audisti quod regnaverit Adonias filius Haggith, et dominus noster David hoc ignorat?
 12 Nunc ergo veni, accipe consilium a me, et salva animam tuam, filiique tui Salomonis.
 13 Vade, et ingredere ad regem David, et dic ei: Nonne tu, domine mi rex, jurasti mihi ancillae tuae, dicens: Salomon filius tuus regnabit post me, et ipse sedebit in solio meo? Quare ergo regnat Adonias?

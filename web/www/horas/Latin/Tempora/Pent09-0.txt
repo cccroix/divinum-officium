@@ -16,7 +16,7 @@ $Per Dominum
 
 [Lectio1]
 Incipit liber quartus Regum.
-!2 Kgs 1:1-4
+!2 Reg 1:1-4
 1 Praevaricatus est autem Moab in Israël, postquam mortuus est Achab.
 2 Ceciditque Ochozias per cancellos cœnaculi sui, quod habebat in Samaria, et aegrotavit: misitque nuntios, dicens ad eos: Ite, consulite Beelzebub deum Accaron, utrum vivere queam de infirmitate mea hac.
 3 Angelus autem Domini locutus est ad Eliam Thesbiten, dicens: Surge, et ascende in occursum nuntiorum regis Samariae, et dices ad eos: Numquid non est Deus in Israël, ut eatis ad consulendum Beelzebub deum Accaron?
@@ -26,7 +26,7 @@ Incipit liber quartus Regum.
 @Tempora/Pent01-1
 
 [Lectio2]
-!2 Kgs 1:4-6
+!2 Reg 1:4-6
 4 Et abiit Elias.
 5 Reversique sunt nuntii ad Ochoziam. Qui dixit eis: Quare reversi estis?
 6 At illi responderunt ei: Vir occurrit nobis, et dixit ad nos: Ite, et revertimini ad regem qui misit vos, et dicetis ei: Haec dicit Dominus: Numquid quia non erat Deus in Israël, mittis ut consulatur Beelzebub deus Accaron? Idcirco de lectulo, super quem ascendisti, non descendes, sed morte morieris.
@@ -35,7 +35,7 @@ Incipit liber quartus Regum.
 @Tempora/Pent01-1
 
 [Lectio3]
-!2 Kgs 1:7-10
+!2 Reg 1:7-10
 7 Qui dixit eis: Cujus figurae et habitus est vir ille, qui occurrit vobis, et locutus est verba haec?
 8 At illi dixerunt: Vir pilosus, et zona pellicea accinctus renibus. Qui ait: Elias Thesbites est.
 9 Misitque ad eum quinquagenarium principem, et quinquaginta qui erant sub eo. Qui ascendit ad eum: sedentique in vertice montis, ait: Homo Dei, rex praecepit ut descendas.

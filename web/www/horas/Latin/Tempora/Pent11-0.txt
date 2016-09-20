@@ -16,7 +16,7 @@ $Per Dominum
 
 [Lectio1]
 De libro quarto Regum.
-!2 Kgs 20:1-3
+!2 Reg 20:1-3
 1 In diebus illis aegrotavit Ezechias usque ad mortem: et venit ad eum Isaias filius Amos propheta, dixitque ei: Haec dicit Dominus Deus: Praecipe domui tuae: morieris enim tu, et non vives.
 2 Qui convertit faciem suam ad parietem, et oravit Dominum, dicens:
 3 Obsecro, Domine: memento, quaeso, quomodo ambulaverim coram te in veritate, et in corde perfecto, et quod placitum est coram te fecerim. Flevit itaque Ezechias fletu magno.
@@ -25,7 +25,7 @@ De libro quarto Regum.
 @Tempora/Pent01-1:Responsory1
 
 [Lectio2]
-!2 Kgs 20:4-7
+!2 Reg 20:4-7
 4 Et antequam egrederetur Isaias mediam partem atrii, factus est sermo Domini ad eum, dicens:
 5 Revertere, et dic Ezechiae duci populi mei: Haec dicit Dominus Deus David patris tui: Audivi orationem tuam, et vidi lacrimas tuas, et ecce sanavi te: die tertio ascendes templum Domini,
 6 et addam diebus tuis quindecim annos: sed et de manu regis Assyriorum liberabo te, et civitatem hanc: et protegam urbem istam propter me, et propter David servum meum.
@@ -35,7 +35,7 @@ De libro quarto Regum.
 @Tempora/Pent01-1:Responsory2
 
 [Lectio3]
-!2 Kgs 20:8-11
+!2 Reg 20:8-11
 8 Dixerat autem Ezechias ad Isaiam: Quod erit signum, quia Dominus me sanabit, et quia ascensurus sum die tertia templum Domini?
 9 Cui ait Isaias: Hoc erit signum a Domino quod facturus sit Dominus sermonem quem locutus est: vis ut ascendat umbra decem lineis, an ut revertatur totidem gradibus?
 10 Et ait Ezechias: Facile est umbram crescere decem lineis: nec hoc volo ut fiat, sed ut revertatur retrorsum decem gradibus.
