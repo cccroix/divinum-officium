@@ -37,7 +37,7 @@ Generates the sed script to replace bad abbreviations of the books of the Bible 
 
 =head1 USAGE OF GENERATED renamebooks.sed
 
-It is then simple to use the sed script generated with the following command line :
+It is then simple to use the sed script generated with the following command line:
     sed -f renamebooks.sed -i.tmp <file>
 
 or on a directory :
@@ -160,23 +160,10 @@ my %numbered = (
 # list_unnumbered(key_book);
 sub list_unnumbered {
     my ($key_book) = @_;
-    my @abbrs = ();
-    
-    # add old abbr & derivates
-    foreach my $i ( 0 .. $#{ $unnumbered{$key_book} } ) {
-        push @abbrs, "\!$unnumbered{$key_book}[$i] ";
-        push @abbrs, "\! $unnumbered{$key_book}[$i] ";
-        push @abbrs, "\!$unnumbered{$key_book}[$i]. ";
-        push @abbrs, "\! $unnumbered{$key_book}[$i]. ";
-    }
-    
-    # add good_abbr & derivates
-    push @abbrs, "\!$key_book ";
-    push @abbrs, "\! $key_book ";
-    push @abbrs, "\!$key_book. ";
-    push @abbrs, "\! $key_book. ";
-    
-    return @abbrs;
+    my @arr = @{$unnumbered{$key_book}};
+    push @arr, $key_book;
+    my $str = "\!( ?)(" . join("|", @arr) . ")(\.?)( ?)";
+    return ($str,);
 }
 
 # list_numbered(key_book);
