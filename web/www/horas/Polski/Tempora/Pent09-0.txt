@@ -13,7 +13,7 @@ $Per Dominum
 
 [Lectio1]
 Początek Czwartej Księgi Królewskiej
-!2 Krl 1:1-4
+!2 Reg 1:1-4
 1 A Moab wykroczył potem przeciw Izraelowi, jako umarł Achab.
 2 I spadł Ochozyasz przez kratę z sale swéj, którą miał w Samaryi, i rozniemógł się: i wyprawił posły, mówiąc do nich: Idźcie, poradźcie się Beelzebuba, boga Akkaron, jeźli żyć mogę z téj niemocy mojéj.
 3 A Aniół Pański rzekł do Eliasza Thesbitczyka, mówiąc: Wstań, a idź przeciwko posłom króla Samaryjskiego i będziesz mówił do nich: Azaż niemasz Boga w Izraelu, że się idziecie radzić Beelzebuba, boga Akkaron?
@@ -23,7 +23,7 @@ Początek Czwartej Księgi Królewskiej
 @Tempora/Pent01-1
 
 [Lectio2]
-!2 Krl 1:4-6
+!2 Reg 1:4-6
 4 I poszedł Eliasz.
 5 I wrócili się posłowie do Ochozyasza, który im rzekł: Czemuście się wrócili?
 6 A oni mu odpowiedzieli: Zabieżał nam mąż i rzekł do nas: Idźcie a wróćcie się do króla, który was posłał, a powiecie mu: To mówi Pan: Izali, że nie było Boga w Izraelu, posyłasz radzić się Beelzebuba, boga Akkaron? Przeto z łóżka, na któreś wystąpił, nie zstąpisz, ale śmiercią umrzesz.
@@ -32,7 +32,7 @@ Początek Czwartej Księgi Królewskiej
 @Tempora/Pent01-1
 
 [Lectio3]
-!2 Krl 1:7-10
+!2 Reg 1:7-10
 7 Który im rzekł: Co za osoba i odzienie jest tego męża, który wam zabieżał i mówił te słowa?
 8 A oni odpowiedzieli: Mąż kosmaty i pasem skórzanym na biodrach opasany. Który rzekł: Eliasz Thesbitczyk jest.
 9 I posłał do niego rotmistrza pięćdziesiątnika i pięćdziesiąt, którzy byli pod nim: który poszedł do niego, i siedzącemu na wierzchu góry, rzekł: Człowiecze Boży, król rozkazał, abyś zszedł.

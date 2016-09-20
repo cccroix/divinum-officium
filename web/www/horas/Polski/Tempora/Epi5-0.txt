@@ -11,7 +11,7 @@ $Per Dominum
 
 [Lectio1]
 Incipit epistola prima ad Timotheum
-!1Tm 1:1-4
+!1 Tim 1:1-4
 1 Paweł, Apostoł Jezusa Chrystusa podług rozkazania Boga, Zbawiciela naszego, i Chrystusa Jezusa, nadzieje naszej;
 2 Tymotheuszowi, miłemu synowi w wierze. Łaska, miłosierdzie i pokój od Boga Ojca i Chrystusa Jezusa, Pana naszego.
 3 Jakom cię prosił, abyś został w Ephezie, gdym szedł do Macedonii, abyś opowiedział niektórym, żeby inaczéj nie uczyli,
@@ -21,7 +21,7 @@ Incipit epistola prima ad Timotheum
 @Tempora/Epi2-0:Responsory1
 
 [Lectio2]
-!1Tm 1:5-11
+!1 Tim 1:5-11
 5 A koniec przykazania jest miłość z czystego serca i sumnienia dobrego i wiary nieobłudnéj.
 6 Od których niektórzy obłądziwszy się, obrócili się ku próżnomówności,
 7 Chcąc być nauczycielmi zakonu, nie rozumiejąc ani, co mówią, ani, o czem twierdzą.
@@ -34,7 +34,7 @@ Incipit epistola prima ad Timotheum
 @Tempora/Epi2-0:Responsory2
 
 [Lectio3]
-!1Tm 1:12-16
+!1 Tim 1:12-16
 12 Dziękuję temu, który mię umocnił, Chrystusowi Jezusowi, Panu naszemu, iż mię za wiernego poczytał, na usługowanie postanowiwszy.
 13 Którym był pierwéj bluźnierzem i prześladowcą, i łżywym; alem dostąpił miłosierdzia Bożego, żem niewiedząc czynił w niewierności.
 14 Lecz bardzo obfitowała łaska Pana naszego z wiarą i z miłością, która jest w Chrystusie Jezusie.

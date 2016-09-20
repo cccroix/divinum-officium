@@ -13,7 +13,7 @@ $Per Dominum
 
 [Lectio1]
 Z Trzeciej Księgi Królewskiej
-!1 Krl 9:1-5
+!1 Reg 9:1-5
 1 I stało się, gdy dokończył Salomon budowania domu Pańskiego i wszystkiego, co żądał i chciał uczynić:
 2 Ukazał mu się Pan powtóre, jako mu się był ukazał w Gabaon. 
 3 I rzekł Pan do niego: Wysłuchałem modlitwę twoję i prośbę twoję, którąś się modlił przedemną: poświęciłem dom ten, któryś zbudował, abym tam położył imię moje na wieki, i będą tam oczy moje i serce moje po wszystkie dni.
@@ -24,7 +24,7 @@ Z Trzeciej Księgi Królewskiej
 @Tempora/Pent01-1
 
 [Lectio2]
-!1 Krl 9:6-9
+!1 Reg 9:6-9
 6 Ale jeźli odwróceniem odwrócicie się wy i synowie wasi, nie naśladując mię, ani strzegąc przykazań moich i Ceremonii moich, którem wam podał, ale pójdziecie i służyć będziecie bogom cudzym i kłaniać się im:
 7 Zniosę Izraela z ziemie, którąm im dał, i kościół, którym poświęcił imieniowi memu, odrzucę od oblicza mego, i będzie Izrael na przypowieść i baśń wszystkim narodom.
 8 A ten dom będzie na przykład: każdy, który pójdzie przezeń, zdumieje się i zaświszcze i rzecze: Przecz tak uczynił Pan ziemi téj i domowi temu? 
@@ -34,7 +34,7 @@ Z Trzeciej Księgi Królewskiej
 @Tempora/Pent01-1
 
 [Lectio3]
-!1 Krl 9:10-14
+!1 Reg 9:10-14
 10 A gdy się skończyło dwadzieścia lat po tem, jako był Salomon zbudował dwa domy, to jest, dom Pański i dom królewski, 
 11 (A Hiram, król Tyrski, dodawał Salomonowi drzewa cedrowego i jodłowego i złota wedle wszystkiego, co potrzebował), tedy dał Salomon Hiram dwadzieścia miast w ziemi Galilejskiéj.
 12 I wyjechał Hiram z Tyru, aby oglądał miasta, które mu dał Salomon, i nie podobały mu się.

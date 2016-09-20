@@ -1,5 +1,5 @@
 [Dominica Tertia]
-!1 J 4:16
+!1 Joann 4:16
 v. Bóg jest miłość: a kto mieszka w miłości, w Bogu mieszka, a Bóg w nim.
 $Deo gratias
 _
@@ -278,7 +278,7 @@ V. Zostań z nami, Panie, Alleluja.
 R. Boć się ma ku wieczoru, Alleluja.
 
 [Dominica TertiaM]
-!1 J 4:16
+!1 Joann 4:16
 v. Bóg jest miłość: a kto mieszka w miłości, w Bogu mieszka, a Bóg w nim.
 $Deo gratias
 _
