@@ -21,7 +21,7 @@ $Per Dominum
 
 [Lectio1]
 Dal quarto libro dei Re
-!2 Kgs 20:1-3
+!2 Reg 20:1-3
 1 In quel tempo Ezechia si ammalò a morte, e andò a vederlo Isaia profeta figlio di Amos e gli disse: Ecco quel che dice il Signore Dio: Disponi della tua casa, perché tu morrai e non vivrai. 
 2 Allora egli rivolse la sua faccia verso la parete e pregò il Signore dicendo: 
 3 Ti supplico, o Signore: ricordati come io ho camminato dinanzi a te nella verità e con cuore perfetto, ed ho fatto ciò ch'è accetto dinanzi a te. Ed Ezechia pianse dirottamente.
@@ -30,7 +30,7 @@ Dal quarto libro dei Re
 @Tempora/Pent01-1:Responsory1
 
 [Lectio2]
-!2 Kgs 20:4-7
+!2 Reg 20:4-7
 4 E prima che Isaia fosse uscito nella metà dell'atrio, la parola del Signore lo raggiunse dicendo: 
 5 Torna indietro e di' ad Ezechia, capo del mio popolo: Ecco ciò che dice il Signore Dio di David tuo padre: Ho udita la tua preghiera e ho veduto le tue lacrime ed ecco che t'ho risanato: fra tre giorni salirai al tempio del Signore, 
 6 e prolungherò la tua vita di quindici anni; e di più libererò te e questa città dalle mani del re degli Assiri, e proteggerò questa città per amor mio e per amor di David mio servo. 
@@ -40,7 +40,7 @@ Dal quarto libro dei Re
 @Tempora/Pent01-1:Responsory2
 
 [Lectio3]
-!2 Kgs 20:8-11
+!2 Reg 20:8-11
 8 Or Ezechia aveva chiesto a Isaia: Qual è il segno che il Signore mi guarirà e che fra tre giorni salirò al tempio del Signore? 
 9 E Isaia avea risposto: Ecco, da parte del Signore, il segno che il Signore adempirà la parola che ha pronunziato: vuoi tu che l'ombra salga di dieci gradi, ovvero che torni indietro di dieci gradi? 
 10 Ed Ezechia disse: È cosa facile che l'ombra salga di dieci gradi, né io voglio che ciò avvenga; ma sì che torni indietro di dieci gradi. 

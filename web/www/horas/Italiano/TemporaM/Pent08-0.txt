@@ -20,7 +20,7 @@ $Per Dominum
 
 [Lectio1]
 Dal terzo libro dei Re
-!1 Kgs 9:1-5
+!1 Reg 9:1-5
 1 Avendo dunque Salomone compiuta la fabbrica della casa del Signore e del palazzo reale e tutto quello che aveva desiderato e voluto fare, 
 2 gli apparve il Signore una seconda volta, come gli era apparso a Gabaon. 
 3 E il Signore gli disse: Ho esaudita la tua preghiera e le suppliche che hai fatte dinanzi a me; ho santificato questa casa che tu mi hai edificato perché vi mettessi il mio nome in sempiterno; e gli occhi miei e il mio cuore ci saranno in ogni tempo. 
@@ -31,7 +31,7 @@ Dal terzo libro dei Re
 @TemporaM/Pent04-0:Responsory1
 
 [Lectio2]
-!1 Kgs 9:6-9
+!1 Reg 9:6-9
 6 Ma se mai voi e i vostri figli vi ritirerete dal seguirmi e dall'osservare i miei precetti e le cerimonie che vi ho ordinato, e invece andrete dietro agli dèi stranieri e li servirete e adorerete, 
 7 io svellerò Israele dalla superficie della terra che gli ho dato, e rigetterò dal mio cospetto il tempio che ho consacrato al mio nome, e Israele sarà lo scherno e la favola di tutti i popoli, 
 8 e questa casa sarà di esempio: chiunque le passerà davanti rimarrà stupito ed esclamerà e dirà: Perché il Signore ha trattato così questo paese e questa casa? 
@@ -41,7 +41,7 @@ Dal terzo libro dei Re
 @TemporaM/Pent04-0:Responsory2
 
 [Lectio3]
-!1 Kgs 9:10-14
+!1 Reg 9:10-14
 10 Passati di poi venti anni da che Salomone ebbe edificato due case, cioè la casa del Signore e la reggia 
 11 (per cui Iram re di Tiro aveva somministrato a Salomone i legnami di cedro e di abete e l'oro di cui aveva avuto bisogno), allora Salomone diede a Iram venti città nel paese di Galilea. 
 12 Iram allora uscì da Tiro per vedere le città dategli da Salomone, ma non gli piacquero, 

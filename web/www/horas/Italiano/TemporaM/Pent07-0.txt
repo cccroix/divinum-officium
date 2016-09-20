@@ -20,7 +20,7 @@ $Per Dominum
 
 [Lectio1]
 Incomincia il terzo libro dei Re
-!1 Kgs 1:1-4
+!1 Reg 1:1-4
 1 Or il re David era venuto vecchio e di età molto avanzata: e per quanto si coprisse con vesti, non riusciva a scaldarsi. 
 2 I suoi servi pertanto gli dissero: Cerchiamo pel re signor nostro una giovane vergine, la quale stia col re e lo riscaldi e dorma con lui e riscaldi il re signor nostro. 
 3 Cercarono dunque in tutto il paese d'Israele una fanciulla avvenente, e trovarono Abisag di Sunam, e la condussero al re. 
@@ -31,7 +31,7 @@ Incomincia il terzo libro dei Re
 @TemporaM/Pent04-0:Responsory1
 
 [Lectio2]
-!1 Kgs 1:5-8
+!1 Reg 1:5-8
 5 Ma Adonia figlio di Aggit s'era insuperbito e diceva: Io regnerò. E si fece cocchi e cavalieri e cinquanta uomini per sua scorta. 
 6 E suo padre non lo riprese mai, né disse: Perché fai questo? Or Adonia era anch'egli assai bello e secondogenito dopo Assalonne. 
 7 Ed egli se la intendeva con Gioab figlio di Sarvia e col sacerdote Abbiatar, i quali favorivano il partito di Adonia. 
@@ -41,7 +41,7 @@ Incomincia il terzo libro dei Re
 @TemporaM/Pent04-0:Responsory2
 
 [Lectio3]
-!1 Kgs 1:11-15
+!1 Reg 1:11-15
 11 Onde il profeta Natan disse a Betsabea madre di Salomone: Non hai sentito che già regna Adonia figlio di Aggit, e il signor nostro David lo ignora? 
 12 Ora dunque vieni, ascolta il mio consiglio e salva la vita tua e quella del figlio tuo Salomone. 
 13 Va e presentati al re David e digli: Non hai tu, signor mio re, giurato a me tua serva e detto: Salomone tuo figlio regnerà dopo di me, ed egli sederà sul mio trono? Perché dunque regna Adonia? 

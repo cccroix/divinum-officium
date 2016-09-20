@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Dal terzo libro dei Re
-!1 Kgs 12:1-5
+!1 Reg 12:1-5
 1 Roboamo pertanto si portò in Sichem; poiché ivi si era radunato tutto Israele per dichiararlo re. 
 2 Ma Geroboamo, figlio di Nabat, ch'era ancora in Egitto fuggitovi per paura del re Salomone, inteso come questi era morto, se ne tornò dall'Egitto. 
 3 Poiché avevano mandato a richiamarlo. Geroboamo dunque e tutta la moltitudine d'Israele andarono a parlare a Roboamo, e gli dissero: 
@@ -17,7 +17,7 @@ Dal terzo libro dei Re
 @TemporaM/Pent01-1:Responsory1
 
 [Lectio2]
-!1 Kgs 12:5-8
+!1 Reg 12:5-8
 5 E ritiratosi il popolo, 
 6 il re Roboamo tenne consiglio cogli anziani, ch'erano stati ministri di Salomone suo padre mentre era vivo, e disse: Che mi consigliate di rispondere a questo popolo? 
 7 E quelli gli dissero: Se tu oggi accondiscenderai a questo popolo e ti adatterai e ti piegherai alle loro dimande, e darai loro delle buone parole, essi saranno per sempre tuoi servi. 
@@ -27,7 +27,7 @@ Dal terzo libro dei Re
 @TemporaM/Pent01-1:Responsory2
 
 [Lectio3]
-!1 Kgs 12:13-16
+!1 Reg 12:13-16
 13 E il re diede aspra risposta al popolo, abbandonando il consiglio datogli dagli anziani, 
 14 e parlò loro secondo il consiglio dei giovani, dicendo: Mio padre vi ha imposto un giogo pesante, ma io ve lo renderò ancor più pesante: mio padre vi castigava colle verghe, ma io vi strazierò coi flagelli pungenti. 
 15 Così il re non ascoltò il popolo, perché il Signore lo aveva abbandonato per adempiere la sua parola pronunziata per mezzo di Aia di Silo a Geroboamo figlio di Nabat. 

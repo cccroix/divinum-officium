@@ -16,7 +16,7 @@ No suffragium
 
 [Lectio1]
 Incomincia la terza Lettera dell'Apostolo san Giovanni
-!3 Giov 1:1-4
+!3 Joann 1:1-4
 1 Io seniore, a Gaio carissimo, che amo sinceramente. 
 2 Carissimo, io prego che tu prosperi in ogni cosa, e stia bene come sta bene l'anima tua. 
 3 Mi sono rallegrato molto allorché sono giunti dei fratelli e hanno reso testimonianza alla tua sincerità, e del come tu cammini nella verità.
@@ -29,7 +29,7 @@ Incomincia la terza Lettera dell'Apostolo san Giovanni
 @Tempora/Pasc5-4:Responsory1
 
 [Lectio2]
-!3 Giov 1:5-10
+!3 Joann 1:5-10
 5 Carissimo, tu agisci da vero fedele in tutto quello che fai verso i fratelli, e specie verso i pellegrini, 
 6 i quali hanno reso testimonianza alla tua carità davanti alla chiesa: farai bene se provvedevi al loro viaggio in modo degno di Dio. 
 7 Infatti per il suo nome sono partiti senza ricever nulla dai Gentili. 
@@ -44,7 +44,7 @@ Incomincia la terza Lettera dell'Apostolo san Giovanni
 @Tempora/Pasc5-4:Responsory2
 
 [Lectio3]
-!3 Giov 1:11-14
+!3 Joann 1:11-14
 11 Carissimo, non imitare il male, ma il bene. Chi fa il bene, è da Dio: chi fa il male, non ha veduto Dio. 
 12 A Demetrio è resa testimonianza da tutti, e dalla stessa verità, e noi pure gli rendiamo testimonianza: e tu sai che la nostra testimonianza è verace. 
 13 Avrei molte cose da scriverti; ma non ho voluto scrivertele con penna e inchiostro. 

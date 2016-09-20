@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Dal terzo libro dei Re
-!1 Kgs 2:1-4
+!1 Reg 2:1-4
 1 Ora, avvicinandosi il giorno della morte di David, egli ordinò a Salomone suo figlio dicendo: 
 2 Io sto per entrare nella via comune a tutti gli uomini: sii forte e mostrati uomo 
 3 e osserva i precetti del Signore Dio tuo, camminando nelle sue vie, praticandone le cerimonie, i comandamenti, le leggi e gli insegnamenti come sta scritto nella legge di Mosè; affinché tu sappia tutto quello che fai e tutto quello cui ti volgerai; 
@@ -16,7 +16,7 @@ Dal terzo libro dei Re
 @TemporaM/Pent01-2:Responsory1
 
 [Lectio2]
-!1 Kgs 2:5-6
+!1 Reg 2:5-6
 5 Tu pure sai ciò che fece a me Gioab figlio di Sarvia e quello che fece ai due capi dell'esercito di Israele, Abner figlio di Ner e Amasa figlio di Ieter, che egli uccise spargendo in pace il sangue come si fa in guerra e macchiandosene la cintura che aveva ai suoi fianchi, e i calzari che aveva ai piedi. 
 6 Farai dunque secondo la tua saviezza, e non lascerai la sua canizie scendere in pace nel sepolcro.
 
@@ -24,7 +24,7 @@ Dal terzo libro dei Re
 @TemporaM/Pent01-2:Responsory2
 
 [Lectio3]
-!1 Kgs 2:7-9
+!1 Reg 2:7-9
 7 Invece ai figli di Berzellai Galaatide mostrerai riconoscenza, ed essi mangeranno alla tua mensa; poiché mi vennero incontro quando io fuggiva dalla faccia di Assalonne tuo fratello. 
 8 Tu hai ancora presso di te Semei figlio di Gera figlio di lemmi di Baurim, il quale mi maledisse di atroce maledizione, quando me ne andavo all'accampamento; ma perché egli venne ad incontrarmi quando ripassai il Giordano, io gli giurai per il Signore dicendo: Non ti farò morire di spada. 
 9 Tu non devi permettere che resti impunito.
