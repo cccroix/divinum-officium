@@ -2,7 +2,7 @@
 Weißer Sonntag in der Osteroktav;;Duplex majus I. classis;;7;;
 
 [Capitulum Vespera]
-!1 Joh 5,4
+!1 Joann 5,4
 v. Geliebteste: Alles, was seinen Ursprung in Gott hat, das überwindet die Welt: und das ist die siegreiche Kraft, die die Welt überwindet, unser Glaube.
 $Deo gratias
 
@@ -113,12 +113,12 @@ Dixit eis: Pax vobis. Sicut misit me Pater, et ego mitto vos: id est, sicut misi
 @:Capitulum Vespera
 
 [Capitulum Sexta]
-!1 Joh 5,5-6
+!1 Joann 5,5-6
 v. Wer ist es nun, der stärker ist als die Welt, wenn nicht derjenige, der glaubt, dass Jesus der Sohn Gottes ist? Das ist ja derjenige, der aufgetreten ist, um mit Wasser zu wirken und mit Blutvergießen, nicht mit Wasser allein, sondern mit Wasser und Blutvergießen.
 $Deo gratias
 
 [Capitulum Nona]
-!1 Joh 5,9-10
+!1 Joann 5,9-10
 v. Wenn wir annehmen, was die Menschen bezeugen, so ist das, was Gott bezeugt, wertvoller: denn das ist das, was wertvoller ist in dem, was Gott bezeugt, dass er einen Beweis geliefert hat für seinen Sohn. Wer an den Sohn Gottes glaubt, hat in sich, was Gott selbst bezeugt hat.
 $Deo gratias
 
