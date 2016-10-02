@@ -10,7 +10,7 @@ Credo
 Suffr=Maria1;Ecclesiae,Papa;;
 
 [Introitus]
-!Isai 30:30
+!Isa 30:30
 v. People of Sion, behold the Lord shall come to save the nations; and the Lord~
 shall make the glory of His voice to be heard, in the joy of your heart.
 !Ps 79:2 O
@@ -46,7 +46,7 @@ by sacrifice.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
-!Matth 11:2-10
+!Matt. 11:2-10
 At that time, when John had heard in prison of the works of Christ, he sent two~
 of his disciples to say to Him, Are You He Who is to come, or shall we look for~
 another? And Jesus answering said to them, Go and report to John what you have~
@@ -72,7 +72,7 @@ assistance with Your protection.
 $Per Dominum
 
 [Communio]
-!Baruch 5:5; 4:36
+!Bar 5:5; 4:36
 Up, Jerusalem! stand upon the heights; and behold the joy that comes to you from~
 your God.
 

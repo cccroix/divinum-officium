@@ -24,7 +24,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the book of Wisdom
-!Sap 3:1-8
+!Wis 3:1-8
 v. But the souls of the just are in the hand of God, and the torment of death shall not touch them. In the sight of the unwise they seemed to die: and their departure was taken for misery: And their going away from us, for utter destruction: but they are in peace. And though in the sight of men they suffered torments, their hope is full of immortality. Afflicted in few things, in many they shall be well rewarded: because God hath tried them, and found them worthy of himself. As gold in the furnace he hath proved them, and as a victim of a holocaust he hath received them, and in time there shall be respect had to them. The just shall shine, and shall run to and fro like sparks among the reeds. They shall judge nations, and rule over people, and their Lord shall reign for ever.
 
 [Graduale]
@@ -38,7 +38,7 @@ shall tell of thy power: Allelúja.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
-!Luc 10:16-20
+!Luke 10:16-20
 v. He that heareth you, heareth me; and he that despiseth you, despiseth me;~
 and he that despiseth me, despiseth him that sent me. And the seventy-two~
 returned with joy, saying: Lord, the devils also are subject to us in thy name.~
@@ -59,7 +59,7 @@ of thy divine power; so may they win for us the benefits of thy salvation.
 $Per Dominum
 
 [Communio]
-!Sap 3:1-2; 3:3
+!Wis 3:1-2; 3:3
 v. But the souls of the just are in the hand of God, and the torment of death~
 shall not touch them. In the sight of the unwise they seemed to die: but they~
 are in peace.

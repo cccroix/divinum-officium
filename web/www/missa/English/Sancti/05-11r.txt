@@ -12,7 +12,7 @@ Credo
 !2 Esd. 9:27
 v. In the time of their tribulation they cried to You, O Lord, and You heard~
 them from heaven, alleluia, alleluia.
-!Ps 32:1
+!Ps. 32:1
 Exult, you just, in the Lord; praise from the upright is fitting.
 &Gloria
 v. In the time of their tribulation they cried to You, O Lord, and You heard~
@@ -26,7 +26,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the book of Wisdom
-!Sap 5:1-5
+!Wis. 5:1-5
 The just shall stand with great assurance before their oppressors who set at nought their labors. Seeing this, these shall be shaken with dreadful fear, and amazed at the suddenness of the unlooked-for salvation. They shall say among themselves, rueful and groaning through anguish of spirit: These are they whom once we held as a laughingstock and as a type for mockery, fools that we were! Their life we deemed madness, and their death dishonored. See how they are accounted among the sons of God; how their lot is with the Saints!
 
 [Graduale]
@@ -34,13 +34,13 @@ Alleluia, alleluia.
 !Ps 88:6
 V. The heavens proclaim Your wonders, O Lord, and Your faithfulness, in the~
 assembly of the holy ones. Alleluia.
-!Joann 14:9
+!John 14:9
 V, Have I been so long a time with you, and you have not known Me? Philip, he~
 who sees Me, sees also My Father. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to John
-!Joann 14:1-13
+!John 14:1-13
 At that time, Jesus said to His disciples, Let not your heart be troubled. You~
 believe in God, believe also in Me. In My Father’s house there are many~
 mansions. Were it not so, I should have told you, because I go to prepare a~
@@ -72,7 +72,7 @@ Philip and James, and ward off all the evils which we deserve.
 $Per Dominum
 
 [Communio]
-!Joann 14:9-10.
+!John 14:9-10.
 Have I been so long a time with you, and you have not known Me? Philip, he who~
 sees Me sees also My Father. Do you not believe that I am in the Father and the~
 Father in Me? Alleluia, alleluia.

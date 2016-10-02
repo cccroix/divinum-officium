@@ -28,7 +28,7 @@ $Qui tecum
 
 [Lectio]
 Lesson from the Acts of Apostles
-!Act 6:8-10; 7:54-59
+!Acts 6:8-10; 7:54-59
 v. And Stephen, full of grace and fortitude, did great wonders and signs among the people. Now there arose some of that which is called the synagogue of the Libertines, and of the Cyrenians, and of the Alexandrians, and of them that were of Cilicia and Asia, disputing with Stephen. And they were not able to resist the wisdom and the spirit that spoke. Now hearing these things, they were cut to the heart, and they gnashed with their teeth at him. But he, being full of the Holy Ghost, looking up steadfastly to heaven, saw the glory of God, and Jesus standing on the right hand of God. And he said: Behold, I see the heavens opened, and the Son of man standing on the right hand of God. And they crying out with a loud voice, stopped their ears, and with one accord ran violently upon him. And casting him forth without the city, they stoned him; and the witnesses laid down their garments at the feet of a young man, whose name was Saul. And they stoned Stephen, invoking, and saying: Lord Jesus, receive my spirit. And falling on his knees, he cried with a loud voice, saying: Lord, lay not this sin to their charge. And when he had said this, he fell asleep in the Lord. And Saul was consenting to his death.
 
 [Graduale]
@@ -37,13 +37,13 @@ v. For princes sat, and spoke against me: they have persecuted me unjustly,
 !Ps 6:5
 v. Turn to me, O Lord, and deliver my soul: O save me for thy mercy's sake.~
 Allelúja, allelúja,
-!Act 7:55
+!Acts 7:55
 v. I see the heavens opened, and the Son of man standing on the right hand of~
 God. Allelúja.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
-!Matth 23:34-39
+!Matt 23:34-39
 v. Therefore behold I send to you prophets, and wise men, and scribes: and some~
 of them you will put to death and crucify, and some you will scourge in your~
 synagogues, and persecute from city to city: That upon you may come all the just~
@@ -58,7 +58,7 @@ shall not see me henceforth till you say: Blessed is he that cometh in the name~
 of the Lord.
 
 [Offertorium]
-!Act 6:5; 7:58
+!Acts 6:5; 7:58
 v. The Apostles chose Stephen, a man full of faith, and of the Holy Ghost, And~
 the Jews stoned Stephen, invoking, and saying: Lord Jesus, receive my spirit.
 
@@ -69,7 +69,7 @@ Through our Lord.
 $Per Dominum
 
 [Communio]
-!Act 7:55; 7:58; 7:59
+!Acts 7:55; 7:58; 7:59
 v. I see the heavens opened, and the Son of man standing on the right hand of~
 God. Lord Jesus, receive my spirit, and lay not this sin to their charge.
 

@@ -6,7 +6,7 @@ vide C3;
 Gloria
 
 [Introitus]
-!Eccl 44:15; 44:14
+!Sir 44:15; 44:14
 v. Let the people shew forth their wisdom, and the church declare their praise.~
 Their name liveth unto generation and generation.
 !Ps 32:1
@@ -23,11 +23,11 @@ $Per Dominum
 
 [Lectio]
 Lesson from the book of Wisdom
-!Sap 10:17-20
+!Wis 10:17-20
 v. And she rendered to the just the wages of their labours, and conducted them in a wonderful way: and she was to them for a covert by day, and for the light of stars by night: And she brought them through the Red Sea, and carried them over through a great water. But their enemies she drowned in the sea, and from the depth of hell she brought them out. Therefore the just took the spoils of the wicked. And they sung to thy holy name, O Lord, and they praised with one accord thy victorious hand.
 
 [Graduale]
-!Sap 3:1-2; 3:3
+!Wis 3:1-2; 3:3
 v. But the souls of the just are in the hand of God, and the torment of death~
 shall not touch them.
 V. In the sight of the unwise they seemed to die: and their departure was taken~
@@ -38,7 +38,7 @@ forever. Allelúja.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
-!Luc 10:16-20
+!Luke 10:16-20
 v. He that heareth you, heareth me; and he that despiseth you, despiseth me;~
 and he that despiseth me, despiseth him that sent me. And the seventy-two~
 returned with joy, saying: Lord, the devils also are subject to us in thy name.~
@@ -59,7 +59,7 @@ Your Saints.
 $Per Dominum
 
 [Communio]
-!Matth 10:27
+!Matt 10:27
 v. That which I tell you in the dark, speak ye in the light: and that which you~
 hear in the ear, preach ye upon the housetops.
 

@@ -23,7 +23,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the book of Exodus
-!Ex 23:20-23
+!Exod 23:20-23
 Thus says the Lord God: See, I am sending My Angel before you, to guard you on the way and bring you to the place I have prepared. Be attentive to him and heed his voice. Do not rebel against him, for he will not forgive your sin. My authority resides in him. If you heed his voice and carry out all I tell you, I will be an enemy to your enemies and a foe to your foe, and My Angel will go before you.
 
 [Graduale]
@@ -47,13 +47,13 @@ Alleluia, alleluia.
 !Ps 137:1-2
 In the presence of the Angels I will sing your praise to You: I will worship at~
 Your holy temple and give thanks to Your name. Alleluia.
-!Matth 28:2
+!Matt 28:2
 !An angel of the Lord came down from heaven, and drawing near, rolled back the
 stone, and sat upon it. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
-!Matth 18:1-10
+!Matt 18:1-10
 At that time, the disciples came to Jesus, saying, Who then is greatest in the~
 kingdom of heaven? And Jesus called a little child to Him, set him in their~
 midst, and said, Amen I say to you, unless you turn and become like little~

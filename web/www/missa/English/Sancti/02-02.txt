@@ -102,7 +102,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the book of Malachias
-!Malach 3:1-4
+!Mal 3:1-4
 Thus says the Lord God: Lo, I am sending My messenger to prepare the way before Me; and suddenly there will come to the temple the Lord Whom you seek, and the Messenger of the covenant Whom you desire. Yes. He is coming, says the Lord of Hosts. But who will endure the day of His coming? And who can stand when He appears? For He is like the refiner’s fire, or like the fuller’s lye. He will sit refining and purifying silver, and He will purify the sons of Levi, refining them like gold or like silver that they may offer due sacrifice to the Lord. Then the sacrifice of Juda and Jerusalem will please the Lord, as in the days of old, as in years gone by,” says the Lord almighty.
 
 [Graduale]
@@ -115,7 +115,7 @@ V. The old man bore the Child, but the Child was the old man's King; Allelúja.
 !Ps 47:10-11, 9.
 O God, we ponder Your kindness within Your temple. As Your name, O God, so also Your praise reaches to the ends of the earth.
 V. As we have heard so have we seen, in the city of our God, in His holy mountain.
-!Luc 2:29-32
+!Luke 2:29-32
 Now You dismiss Your servant, O Lord, according to Your word, in peace.
 V. Because my eyes have seen Your salvation.
 V. Which You have prepared before the face of all peoples.
@@ -123,7 +123,7 @@ V. A light of revelation to the Gentiles, and a glory for Your people Israel.
 
 [Evangelium]
 Continuation of the Holy Gospel according to Luke
-!Luc 2:22-32
+!Luke 2:22-32
 At that time, when the days of Mary’s purification were fulfilled according to the Law of Moses, they took Jesus up to Jerusalem to present Him to the Lord - as it is written in the Law of the Lord, Every male that opens the womb shall be called holy to the Lord - and to offer a sacrifice according to what is said in the Law of the Lord, a pair of turtle doves or two young pigeons. And behold, there was in Jerusalem a man named Simeon, and this man was just and devout, looking for the consolation of Israel, and the Holy Spirit was upon him. And it had been revealed to him by the Holy Spirit that he should not see death before he had seen the Christ of the Lord. And he came by inspiration of the Spirit into the temple. And when His parents brought in the Child Jesus, to do for Him according to the custom of the Law, he also received Him into his arms and blessed God, saying, Now You dismiss Your servant, O Lord, according to Your word, in peace; because my eyes have seen Your salvation, which You have prepared before the face of all peoples: a light of revelation to the Gentiles, and a glory for Your people Israel.
 
 [Offertorium]
@@ -135,7 +135,7 @@ O Lord, heed our prayer, and give us the help of Your loving kindness so that th
 $Per Dominum
 
 [Communio]
-!Luc 2:26
+!Luke 2:26
 It was revealed to Simeon by the Holy Spirit that he should not see death before he had seen the Christ of the Lord.
 
 [Postcommunio]

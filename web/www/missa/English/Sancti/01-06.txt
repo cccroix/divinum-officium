@@ -7,7 +7,7 @@ Credo
 Prefatio=Epi
 
 [Introitus]
-!Malach 3:1; 1 Par. 29:12
+!Mal 3:1; 1 Par. 29:12
 v. Behold, the Lord and Ruler is come; and the kingdom is in His hand, and power,~
 and dominion.
 !Ps 71:1
@@ -25,22 +25,22 @@ $Per eumdem
 
 [Lectio]
 Lesson from the book of Isaias
-!Isai 60:1-6
+!Isa 60:1-6
 Rise up in splendor, O Jerusalem! Your light has come, the glory of the Lord shines upon you. See, darkness covers the earth, and thick clouds cover the peoples; but upon you the Lord shines, and over you appears His glory. Nations shall walk by your light, and kings by your shining radiance. Raise your eyes and look about; they all gather and come to you: your sons come from afar, and your daughters in the arms of their nurses. Then you shall be radiant at what you see, your heart shall throb and overflow, for the riches of the sea shall be emptied out before you, the wealth of nations shall be brought to you. Caravans of camels shall fill you, dromedaries from Madian and Epha; all from Saba shall come bearing gold and frankincense, and proclaiming the praises of the Lord.
 
 [Graduale]
-!Isai 60:6, 1.
+!Isa 60:6, 1.
 All they from Saba shall come, bringing gold and frankincense, and proclaiming~
 the praises of the Lord.
 V. Rise up in splendor, O Jerusalem, for the glory of the Lord shines upon you.~
 Alleluia, alleluia.
-!Matth 2:2
+!Matt 2:2
 V. We have seen His star in the East: and have come with gifts to worship the~
 Lord. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
-!Matth 2:1-12
+!Matt 2:1-12
 When Jesus was born in Bethlehem of Judea, in the days of King Herod, behold,~
 Magi came from the East to Jerusalem, saying, Where is He that is born King of~
 the Jews? For we have seen His star in the east and have come to worship Him.~
@@ -75,7 +75,7 @@ Jesus Christ Your Son, our Lord, Who is now sacrifice and food.
 $Qui tecum
 
 [Communio]
-!Matth 2:2
+!Matt 2:2
 We have seen His star in the East and have come with gifts to worship the Lord.
 
 [Postcommunio]

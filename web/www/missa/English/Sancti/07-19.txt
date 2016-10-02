@@ -26,7 +26,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the first letter of St Paul the Apostle to the Corinthians
-!1 Cor 4:9-14
+!1 Cor. 4:9-14
 Brethren: We have been made a spectacle to the world, and to angels, and to men. We are fools for Christ, but you are wise in Christ! We are weak, but you are strong! You are honored, but we are without honor! To this very hour we hunger and thirst, and we are naked and buffeted, and have no fixed abode. And we toil, working with our own hands. We are reviled and we bless, we are persecuted and we bear with it, we are maligned and we entreat, we have become as the refuse of this world, the offscouring of all, even until now! I write these things not to put you to shame, but to admonish you as my dearest children, in Christ Jesus our Lord.
 
 [Graduale]
@@ -40,7 +40,7 @@ Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
-!Luc 10:1-9
+!Luke 10:1-9
 At that time, the Lord appointed seventy-two others, and sent them forth two by~
 two before Him into every town and place where He Himself was about to come. And~
 He said to them, The harvest indeed is, great, but the laborers are few. Pray~
@@ -66,7 +66,7 @@ mind.
 $Per Dominum
 
 [Communio]
-!Matth 19:28-29
+!Matt 19:28-29
 Amen I say to you that you, who have left all things and followed Me, shall~
 receive a hundredfold, and shall possess life everlasting.
 

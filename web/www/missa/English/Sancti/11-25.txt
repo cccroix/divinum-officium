@@ -27,7 +27,7 @@ $Qui tecum
 
 [Lectio]
 Lesson from the book of Ecclesiasticus
-!Eccl 51:1-8, 12
+!Sir 51:1-8, 12
 I will give You thanks, O Lord, O King; I will praise You, O God my Savior! I will make known Your name; for You have preserved my body from destruction, from the scourge of a slanderous tongue, and from lips that went over to falsehood; and in the sight of those who stood by, You have been my helper. And You have delivered me, according to the multitude of the mercy of Your name, from those who did roar, prepared to devour; from the power of those who sought my life, and from the gates of afflictions which compassed me about; from the oppression of the flames which hemmed me in on every side, and in the midst of the fire I was not burnt; from the deep belly of the nether world, and from an unclean tongue, and from lying words, from an unjust king, and from dishonest tongues. My soul shall praise the Lord even to death; because You, O Lord, our God, save those who take refuge in You, and rescue them out of the hands of the nations.
 
 [Graduale]
@@ -41,7 +41,7 @@ They are borne in to You with gladness. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
-!Matth 25:1-13
+!Matt. 25:1-13
 At that time Jesus spoke this parable to His disciples: "Then will the kingdom~
 of heaven be like ten virgins who took their lamps and went forth to meet the~
 bridegroom and the bride. Five of them were foolish and five wise. But the five~
@@ -69,7 +69,7 @@ Virgin and Martyr, through whose patronage we hope to be delivered.
 $Per Dominum
 
 [Communio]
-!Matth 118:78, 80.
+!Matt 118:78, 80.
 Let the proud be put to shame for oppressing me unjustly; I will meditate on~
 Your precepts, on Your statutes, that I be not put to shame.
 

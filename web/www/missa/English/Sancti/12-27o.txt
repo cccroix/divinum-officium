@@ -10,7 +10,7 @@ Credo
 Prefatio=Nat
 
 [Introitus]
-!Eccl 15:5
+!Ecclus 15:5
 v. In the midst of the assembly the Lord opened his mouth; and filled him with~
 the spirit of wisdom and understanding; He clothed him with a robe of glory.
 !Ps 91:2
@@ -34,16 +34,16 @@ $Per eumdem
 
 [Lectio]
 Lesson from the book of Ecclesiasticus
-!Eccl 15:1 - 6.
+!Ecclus 15:1 - 6.
 He who fears God will do good; he who is practiced in the Law will come to wisdom. Like an honorable mother she will meet him, nourish him with the bread of life and understanding, and give him the water of learning to drink. She will be made strong in him, and he shall not be moved; she will hold him fast, and he shall not be put to shame. She will exalt him above his fellows; in the midst of the assembly she will open his mouth, and will fill him with the spirit of wisdom and understanding, and will clothe him with a robe of glory. The Lord our God will heap upon him a treasure of joy and gladness, and will cause him to inherit an everlasting name.
 
 [Graduale]
-!Joann 21:23, 19.
+!John 21:23, 19.
 This saying therefore went abroad among the brethren, that that disciple was not~
 to die. But Jesus had not said, He is not to die.
 V. But rather, So I wish him to remain until I come. Follow Me. Alleluia,~
 alleluia.
-!Joann 21:24
+!John 21:24
 This is that disciple who bears witness concerning these things: and we know~
 that his witness is true. Alleluia.
 
@@ -55,7 +55,7 @@ V. Wealth and riches shall be in his house; his generosity shall endure forever.
 
 [GradualeP]
 Alleluia, alleluia.
-!Joann 21:24
+!John 21:24
 This is that disciple who bears witness concerning these things: and we know~
 that his witness is true. Alleluia.
 !Ps 91:13 
@@ -64,7 +64,7 @@ Lebanon shall he grow. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to John
-!Joann 21:19-24
+!John 21:19-24
 At that time, Jesus said to Peter, Follow Me. Turning around, Peter saw~
 following them the disciple whom Jesus loved, the one who, at the supper, had~
 leaned back upon His breast and said, Lord, who is it that will betray You?~
@@ -101,7 +101,7 @@ and dominations, and with all the heavenly host, we sing a hymn to Your glory,~
 evermore acclaiming: Holy, holy, holy. . .
 
 [Communio]
-!Joann 21:23
+!John 21:23
 A saying went abroad among the brethren, that that disciple was not to die. But~
 Jesus had not said, He is not to die; but rather, So I wish him to remain until I~
 come.

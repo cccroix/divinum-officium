@@ -8,7 +8,7 @@ CPapaM=Eleutherius;
 Gloria
 
 [Introitus]
-!Rom 5:5
+!Rom. 5:5
 v. The charity of God is poured forth in our hearts, by His Spirit dwelling~
 within us. (Alleluia, alleluia.)
 !Ps 102:1
@@ -25,7 +25,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the book of Wisdom
-!Sap 7:7-14
+!Wis 7:7-14
 I prayed, and prudence was given me; I pleaded, and the spirit of Wisdom came to me. I preferred her to scepter and throne, and deemed riches nothing in comparison with her. Nor did I liken any priceless gem to her; because all gold, in view of her, is a little sand, and before her, silver is to accounted mire. Beyond health and comeliness I loved her, and I chose to have her rather than the light, because the splendor of her never yields to sleep. Yet all good things together came to me in her company, and countless riches at her hands; and I rejoiced in them all, because Wisdom is their leader, though I had not known that she is the mother of these. Simply I learned about her, and ungrudgingly do I share - her riches I do not hide away; for to men she is an unfailing treasure; those who gain this treasure win the friendship of God; to Whom the gifts they have from discipline commend them.
 
 [GradualeP]
@@ -45,7 +45,7 @@ V. From above He has sent a fire into my bones, and has instructed me. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
-!Luc 12:35-40
+!Luke 12:35-40
 At that time, Jesus said to His disciples, Let your loins be girt about and your~
 lamps burning, and you yourselves like men waiting for their master’s return~
 from the wedding; so that when he comes and knocks, they may straight-way open~

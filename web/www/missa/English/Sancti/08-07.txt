@@ -30,7 +30,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the book of Ecclesiasticus
-!Eccl 31:8-11
+!Ecclus 31:8-11
 Happy the man found without fault, who turns not aside after gain, nor puts his trust in money nor in treasures! Who is he, that we may praise him? For he has done wonders in his life. He has been tested by gold and come off safe, and this remains his glory forever; he could have sinned but did not, could have done evil but would not, so that his possessions are secure in the Lord, and the assembly of the Saints shall recount his alms.
 
 [Graduale]
@@ -47,7 +47,7 @@ will receive the crown of life. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
-!Matth 6:24-33
+!Matt 6:24-33
 At that time, Jesus said to His disciples: No man can serve two masters; for~
 either he will hate the one and love the other, or else he will stand by the one~
 and despise the other. You cannot serve God and mammon. Therefore I say to you,~
@@ -77,7 +77,7 @@ to You as an honor paid to Your saints, and may cleanse us in body and soul.
 $Per Dominum
 
 [Communio]
-!Matth 24:46-47
+!Matt 24:46-47
 Blessed is that servant whom his master, when he comes, shall find watching.~
 Amen I say to you, he will set him over all his goods. (Alleluia.)
 

@@ -23,7 +23,7 @@ $Qui vivis
 
 [Lectio]
 Lesson from the book of Ecclesiasticus
-!Eccl 45:1-6
+!Ecclus 45:1-6
 Beloved of God and men, whose memory is held in benediction. He made him like the Saints in glory, and magnified him in the fear of his enemies, and with his words He made prodigies to cease. He glorified him in the sight of kings, and gave him Commandments in the sight of his people, and revealed to him His glory. He sanctified him in his faith and meekness, and chose him out of all flesh. For He heard him and his voice, and brought him into a cloud. And, face to face, He gave him the Commandments, the law of life and understanding.
 
 [Graduale]
@@ -37,14 +37,14 @@ V. Wealth and riches shall be in his house; his generosity shall endure forever.
 
 [GradualeP]
 Alleluia, alleluia.
-!Eccl 45:9
+!Sir 45:9
 V. The Lord loved him, and adorned him; He clothed him with a robe of glory. Alleluia.
 !Osee 14:6
 V. The just man shall blossom as the lily; and shall flourish forever before the Lord. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
-!Matth 1:18-21
+!Matt 1:18-21
 When Mary the Mother of Jesus had been betrothed to Joseph, before they came together, she was found to be with child by the Holy Spirit. But Joseph her husband, being a just man, and not wishing to expose her to reproach, was minded to put her away privately. But while he thought on these things, behold, an angel of the Lord appeared to him in a dream, saying, Do not be afraid, Joseph, son of David, to take to you Mary your wife, for that which is begotten in her is of the Holy Spirit. And she shall bring forth a Son, and you shall call His name Jesus; for He shall save His people from their sins.
 
 [Offertorium]
@@ -56,7 +56,7 @@ O Lord, we dutifully worship You, humbly entreating You by the prayers of blesse
 $Per eumdem
 
 [Communio]
-!Matth 1:20
+!Matt 1:20
 Do not be afraid, Joseph, son of David, to take to you Mary your wife, for that which is begotten in her is of the Holy Spirit. (P.T. Alleluia.)
 
 [Postcommunio]

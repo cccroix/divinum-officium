@@ -27,7 +27,7 @@ Lesson from the letter of St Paul the Apostle to the Romans
 Paul, the servant of Jesus Christ, called to be an Apostle, set apart for the Gospel of God, which He had promised before-hand through His prophets in the Holy Scriptures, concerning His Son Who was born to Him according to the flesh of the offspring of David; Who was foreordained Son of God by an act of power in keeping with the holiness of His spirit, by resurrection from the dead, Jesus Christ our Lord, through Whom we have received the grace of apostleship to bring about obedience to faith among all the nations for His name’s sake; among whom are you also called to be Jesus Christ’s, our Lord.
 
 [Graduale]
-!Ex 16:6-7
+!Exod 16:6-7
 This day you shall know that the Lord will come and save us: and in the morning~
 you shall see His glory.
 !Ps 79:2-3
@@ -36,7 +36,7 @@ throne upon the Cherubim, shine forth before Ephraim, Benjamin and Manasse.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
-!Matth 1:18-21
+!Matt. 1:18-21
 When Mary, the Mother of Jesus, has been betrothed to Joseph, before they came~
 together, she was found to be with child by the Holy Spirit. But Joseph her~
 husband, being a just man, and not wishing to expose her to reproach, was minded~
@@ -57,7 +57,7 @@ of Your Son’s birthday, so we may joyfully receive His everlasting gifts.
 $Qui tecum
 
 [Communio]
-!Isai 40:5
+!Isa 40:5
 The glory of the Lord shall be revealed, and all mankind shall see the salvation~
 of our God.
 

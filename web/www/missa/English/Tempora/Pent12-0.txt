@@ -25,7 +25,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the second letter of St Paul the Apostle to the Corinthians
-!2 Cor 3:4-9
+!2 Cor. 3:4-9
 Brethren: Such is the assurance I have through Christ toward God. Not that we are sufficient of ourselves to think anything, as from ourselves, but our sufficiency is from God. He also it is Who has made us fit ministers of the new covenant, not of the letter but of the spirit; for the letter kills, but the spirit gives life. Now if the ministration of death, which was engraved in letters upon stones, was inaugurated in such glory that the children of Israel could not look steadfastly upon the face of Moses on account of the transient glory that shone upon it, shall not the ministration of the spirit be still more glorious? For if there is glory in the ministration that condemned, much more does the ministration that justifies abound in glory.
 
 [Graduale]
@@ -39,7 +39,7 @@ presence. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
-!Luc 10:23-37
+!Luke 10:23-37
 At that time, Jesus said to His disciples: Blessed are the eyes that see what~
 you see! For I say to you, many prophets and kings have desired to see what you~
 see, and they have not seen it; and to hear what you hear, and they have not~

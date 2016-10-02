@@ -10,7 +10,7 @@ CredoDA
 Gregori
 
 [Introitus]
-!Eccl 15:5
+!Eccli 15:5
 v. In the midst of the assembly he opened his mouth; and the Lord filled him~
 with the spirit of wisdom and understanding; He clothed him with a robe of~
 glory.
@@ -29,12 +29,12 @@ $Per Dominum
 
 [Lectio]
 Lesson from the book of Ecclesiasticus
-!Eccl 39:6-14
+!Eccli 39:6-14
 The just man will give his heart to resort early to the Lord his Maker, and he will pray in the sight of the Most High. He will open his mouth in prayer, and will ask pardon for his sins. Then, if it pleases the Lord Almighty, He will fill him with the spirit of understanding; and he will pour fourth his words of wisdom as showers, and in prayer give thanks to the Lord, Who will direct his knowledge and his counsel, as he meditates upon His mysteries. He will show the wisdom of what he has learned and glory in the Law of the Lord’s covenant. Many will praise his understanding; his fame can never be effaced; unfading will be his memory, through all generations his name will live; peoples will speak of his wisdom, the assembly will sing his praises.
 
 [Graduale]
 Alleluia, alleluia.
-!Eccl 45:9
+!Eccli 45:9
 V. The Lord loved him and adorned him; He clothed him with a robe of glory.~
 Alleluia.
 !Osee 14:6
@@ -43,7 +43,7 @@ the Lord. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
-!Matth 5:13-19
+!Matt 5:13-19
 At that time Jesus said to His disciples: "You are the salt of the earth; but if~
 the salt loses its strength, what shall it be salted with? It is no longer of~
 any use but to be thrown out and trodden underfoot by men. You are the light of~
@@ -70,7 +70,7 @@ Lord; may it commend our offerings and ever secure for us Your forgiveness.
 $Per Dominum
 
 [Communio]
-!Luc 12:42
+!Luke 12:42
 The faithful and prudent servant whom the master will set over his household to~
 give them their ration of grain in due time.
 

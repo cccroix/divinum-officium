@@ -11,7 +11,7 @@ Credo
 Prefatio=Maria=Festivitate;
 
 [Introitus]
-!Isai 7:14
+!Isa 7:14
 v. Behold, the Virgin shall be with child and bear a Son, and shall name Him~
 Emmanuel.
 !Ps 97:1
@@ -28,11 +28,11 @@ $Per eumdem
 
 [Lectio]
 Lesson from the book of Ecclesiasticus
-!Eccl 24:23-31
+!Ecclus 24:23-31
 I bud forth delights like the vine, my blossoms become fruit fair and rich. I am the mother of fair love, and of fear, and of knowledge, and of holy hope. In me is all grace of the way and of the truth, in me is all hope of life and of virtue. Come to me, all you that yearn for me, and be filled with my fruits; for my spirit is sweeter than honey, and my inheritance better to have than honey and the honeycomb. My memory is to everlasting generations. They who eat of me will hunger still, and they who drink of me will thirst for more. He who obeys me will not be put to shame, they who serve me will never fail. They who explain me shall have life everlasting.
 
 [Graduale]
-!Isai 11:1-2
+!Isa 11:1-2
 A shoot shall sprout from the stump of Jesse, and from his roots a bud shall~
 blossom.
 V. And the Spirit of the Lord shall rest upon Him. Alleluia, alleluia.
@@ -41,7 +41,7 @@ Himself in your Womb, becoming Man. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
-!Luc 2:43-51
+!Luke 2:43-51
 At that time, when they were returning, the Boy Jesus remained in Jerusalem, and~
 His parents did not know it. But thinking that He was in the caravan, they had~
 come a day’s journey before it occurred to them to look for Him among their~
@@ -57,7 +57,7 @@ understand the word that He spoke to them. And He went down with them and came~
 to Nazareth, and was subject to them.
 
 [Offertorium]
-!Matth 1:18
+!Matt 1:18
 When Mary His Mother had been betrothed to Joseph, she was found to be with~
 child by the Holy Spirit.
 

@@ -9,7 +9,7 @@ Confessoris
 Duplex
 
 [Introitus]
-!Ps 36:30-31.
+!Ps. 36:30-31.
 v. The mouth of the just man tells of wisdom, and his tongue utters what is~
 right. The law of his God is in his heart. (Alleluia, alleluia.)
 !Ps 13:1
@@ -28,21 +28,21 @@ $Per Dominum
 
 [Lectio]
 Lesson from the book of Ecclesiasticus
-!Eccl 31:8-11
+!Eccli 31:8-11
 Happy the man found without fault, who turns not aside after gain, nor puts his trust in money nor in treasures! Who is he, that we may praise him? For he has done wonders in his life. He has been tested by gold and come off safe, and this remains his glory forever; he could have sinned but did not, could have done evil but would not, so that his possessions are secure in the Lord, and the assembly of the Saints shall recount his alms.
 
 [Graduale]
 Alleluia, alleluia.
-!Jacob 1:12
+!Jas 1:12
 V. Blessed is the man who endures temptation; for when he has been~
 tried, he will receive the crown of life. Alleluia. 
-!Eccl 45:9
+!Eccli 45:9
 V. The Lord loved him and adorned him; He clothed him with a robe of glory.~
 Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
-!Matth 18:1-5
+!Matt 18:1-5
 At that time the disciples came to Jesus, saying, Who then is the greatest in~
 the kingdom of heaven? And Jesus called a little child to him, set him their~
 midst, and said, Amen I say to you, unless you turn and become like little~
@@ -51,7 +51,7 @@ humbles himself as this little child, he is the greatest in the kingdom of~
 heaven. And whoever receives one such little child for My sake, receives Me.
 
 [Offertorium]
-!Ps 88:25
+!Ps. 88:25
 My faithfulness and My kindness shall be with him, and through My name shall his~
 horn be exalted. (Alleluia.)
 
@@ -61,7 +61,7 @@ that by them we may be delivered from both present and future evils.
 $Per Dominum
 
 [Communio]
-!Matth 24:46-47
+!Matt 24:46-47
 Blessed is that servant whom his master, when he comes, shall find watching.~
 Amen I say to you, he will set him over all his goods. (Alleluia.)
 

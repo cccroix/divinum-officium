@@ -6,7 +6,7 @@ vide C5;
 Gloria
 
 [Introitus]
-!Eccl 42:15-16
+!Ecclus 42:15-16
 v. At the Lord’s word were His works brought into being. As the rising sun is~
 clear to all, so the glory of the Lord shines upon all His works.
 !Ps 95:1
@@ -31,7 +31,7 @@ Brethren: Discharging this ministry in accordance with the mercy shown us, we do
 !Ps 72:21; 68:10
 My heart was embittered and my soul was pierced; zeal for Your house consumed~
 me. 
-!Isai 49:2
+!Isa 49:2
 V. He made of me a sharp-edged sword and concealed me in the shadow of His arm.~
 He made me a polished arrow. Alleluia, alleluia.
 !Ps 70:7
@@ -39,7 +39,7 @@ V. A portent am I to many, but You are my strong refuge! Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
-!Luc 10:1-9
+!Luke 10:1-9
  At that time, the Lord appointed seventy-two others, and sent them forth two by~
 two before Him into every town and place where He Himself was about to come. And~
 He said to them, The harvest indeed is great, but the laborers are few. Pray~

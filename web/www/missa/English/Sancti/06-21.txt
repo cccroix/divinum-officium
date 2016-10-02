@@ -24,7 +24,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the book of Ecclesiasticus
-!Eccl 31:8-11
+!Eccli 31:8-11
 Happy the man found without fault, who turns not aside after gain, nor puts his trust in money nor in treasures! Who is he, that we may praise him? For he had done wonders in his life. He has been tested by gold and come off safe, and this remains his glory forever; he could have sinned but did not, could have done evil but would not, so that his possessions are secure in the Lord, and the assembly of the Saints shall recount his alms.
 
 [Graduale]
@@ -39,7 +39,7 @@ V. Happy the man You choose, and bring to dwell in Your courts. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
-!Matth 22:29-40
+!Matt 22:29-40
 At that time, Jesus answered and said to the Sadducees, You err because you know~
 neither the Scriptures nor the power of God. for at the Resurrection they will~
 neither marry nor be given in marriage, but will be as angels of God in heaven.~

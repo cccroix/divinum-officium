@@ -59,7 +59,7 @@ from the tribe of Juda, of the noble line of David. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
-!Luc 1:26-38
+!Luke 1:26-38
  At that time, the angel Gabriel was sent from God to a town of Galilee called~
 Nazareth, to a virgin betrothed to a man named Joseph, of the house of David,~
 and the virgin’s name was Mary. And when the angel had come to her, he said,~
@@ -80,7 +80,7 @@ be impossible with God. But Mary said, Behold the handmaid of the Lord; be it~
 done to me according to your word.
 
 [Offertorium]
-!Eccl 24:25; 39:17
+!Ecclus 24:25; 39:17
 In me is all grace of the way and of the truth, in me is all hope of life and of~
 virtue. Like a rose planted near running waters I have borne fruit.
 
@@ -92,7 +92,7 @@ promises.
 $Qui tecum
 
 [Communio]
-!Eccl 39:19
+!Ecclus 39:19
 Break forth in blossoms like the lily, and yield a smell, and bring forth leaves~
 in grace, and praise with canticles, and bless the Lord in His works.
 

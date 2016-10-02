@@ -52,13 +52,13 @@ V. Wealth and riches shall be in his house; his generosity shall endure forever.
 [GradualeP]
 !Ps 109:4
 V. You are a priest forever, according to the order of Melchisedec. Alleluia.
-!Eccl 45:9
+!Eccli 45:9
 V. The Lord loved him and adorned him; He clothed him with a robe of glory.~
 Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
-!Luc 10:1-9.
+!Luke 10:1-9.
 At that time, the Lord appointed seventy-two others, and sent them forth two by~
 two before Him into every town and place where He Himself was about to come. And~
 He said to them, The harvest indeed is great, but the laborers are few. Pray~
@@ -84,7 +84,7 @@ return to the one fold and be fed with this food of salvation.
 $Per Dominum
 
 [Communio]
-!Matth 24:46-47
+!Matt 24:46-47
 Blessed is that servant whom his master, when he comes, shall find watching.~
 Amen I say to you, he will set him over all his goods.
 

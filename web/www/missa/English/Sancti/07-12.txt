@@ -19,7 +19,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the book of Ecclesiasticus
-!Eccl 45:1-6
+!Ecclus 45:1-6
 Beloved of God and men, whose memory is held in benediction.  He made him like the Saints in glory, and magnified him in the fear of his enemies, and with his words He made prodigies to cease.  He glorified him in the sight of kings, and gave him Commandments in the sight of his people, and revealed to him His glory. He sanctified him in his faith and meekness and chose him out of all flesh. For He heard him and his voice, and brought him into a cloud. And, face to face, He gave him the Commandments, the law of life and understanding.
 
 [Graduale]
@@ -31,7 +31,7 @@ V. The just man shall flourish like the palm tree, like a cedar of Lebanon shall
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
-!Matth 5:43-48
+!Matt 5:43-48
 At that time, Jesus said to His disciples, You have heard that it was said, ‘You shall love your neighbor, and shall hate your enemy.’ But I say to you, love your enemies, do good to those who hate you, and pray for those who persecute and calumniate you, so that you may be children of your Father in heaven, Who makes His sun to rise on the good and the evil, and sends rain on the just and the unjust. For if you love those that love you, what reward shall you have? Do not even the publicans do that? And if you salute your brethren only, what are you doing more than others? Do not even the Gentiles do that? You therefore are to be perfect, even as your heavenly Father is perfect.
 
 [Offertorium]
@@ -43,7 +43,7 @@ We beseech You, O Lord, may the holy Abbot John prevail by his prayers, so that 
 $Per Dominum
 
 [Communio]
-!Luc 12:42
+!Luke 12:42
 Blessed is that servant whom his master, when he comes, shall find watching. Amen I say to you, he will set him over all his goods.
 
 [Postcommunio]

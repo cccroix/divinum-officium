@@ -37,7 +37,7 @@ Alleluia.
 
 [Evangelium]
 Continuation of the Holy Gospel according to Matthew
-!Matth 8:1-13
+!Matt 8:1-13
 At that time, when Jesus had come down from the mountain, great crowds followed~
 Him. And behold, a leper came up and worshipped Him, saying, Lord, if You will,~
 You can make me clean. And stretching forth His hand Jesus touched him, saying, I~
@@ -70,7 +70,7 @@ make holy the minds and bodies of Your servants for celebrating this sacrifice.
 $Per Dominum
 
 [Communio]
-!Luc 4:22
+!Luke 4:22
 All marvelled at the words that came from the mouth of God.
 
 [Postcommunio]

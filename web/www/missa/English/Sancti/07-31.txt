@@ -6,7 +6,7 @@ vide C5;
 Gloria
 
 [Introitus]
-!Phil 2:10-11
+!Phil. 2:10-11
 v. At the name of Jesus every knee should bend of those in heaven, on earth and~
 under the earth, and every tongue should confess that the Lord Jesus Christ is~
 in the glory of God the Father.
@@ -26,7 +26,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the secons letter of St Paul the Apostle to Timotheus
-!2 Tim 2:8-10; 3:10-12
+!2 Tim. 2:8-10; 3:10-12
 Beloved: Remember that Jesus Christ rose from the dead and was descended from David; this is my gospel, in which I suffer even to bonds, as a criminal. But the word of God in not bound. This is why I bear all things for the sake of the elect, that they also may obtain the salvation that is in Christ Jesus, with heavenly glory. But you have closely followed my doctrine, my conduct, my purpose, my faith, my long-suffering, my love, my patience, my persecutions, my afflictions; such as befell me at Antioch, Iconium and Lystra - such persecutions as I suffered, and out of them all the Lord delivered me. And all who want to live piously in Christ Jesus will suffer persecution.
 
 [Graduale]
@@ -36,13 +36,13 @@ grow in the house of the Lord.
 !Ps 91:3 
 V. To proclaim Your kindness at dawn and Your faithfulness throughout~
 the night. Alleluia, alleluia.
-!Jacob 1:12
+!James 1:12
 V. Blessed is the man who endures temptation; for when he has been tried, he~
 will receive the crown of life. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
-!Luc 10:1-9
+!Luke 10:1-9
 At that time, the Lord appointed seventy-two others, and sent them forth two by~
 two before Him into every town and place where He Himself was about to come. And~
 He said to them, The harvest indeed is great, but the laborers are few. Pray~
@@ -68,7 +68,7 @@ make us holy in Your truth.
 $Per Dominum
 
 [Communio]
-!Luc 12:49
+!Luke 12:49
 I have come to cast fire upon the earth, and what will I but that it be kindled?
 
 [Postcommunio]

@@ -25,7 +25,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the letter of St Paul the Apostle to the Ephesians
-!Ephes 4:23-28
+!Eph 4:23-28
 Brethren: Be renewed in the spirit of your mind, and put on the new man, which has been created according to God in justice and holiness of truth. Wherefore, put away lying and speak truth each one with his neighbor, because we are members of one another. Be angry and do not sin; do not let the sun go down upon your anger; do not give place to the devil. He who was wont to steal, let him steal no longer; but rather let him labor, working with his hands at what is good, that he may have something to share with him who suffers need.
 
 [Graduale]
@@ -38,7 +38,7 @@ deeds. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
-!Matth 22:1-14
+!Matt 22:1-14
  At that time, Jesus spoke to the chief priests and the Pharisees in parables,~
 saying, The kingdom of heaven is like a king who made a marriage feast for his~
 son. And he sent his servants to call in those invited to the marriage feast for~

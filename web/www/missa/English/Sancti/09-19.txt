@@ -26,7 +26,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the letter of St Paul the Apostle to the Jews
-!Hebr 10:32-38
+!Heb 10:32-38
 Brethren: Call to mind the days gone by, in which, after you had been enlightened, you endured a great conflict of sufferings; partly by being made a public spectacle through reproaches and tribulations, and partly by making common cause with those who fared thus. For you both have had compassion on those in prison and have joyfully accepted the plundering of your own goods, knowing that you have a better possession and a lasting one. Do not, therefore, lose your confidence, which has a great reward. For you have need of patience that, doing the will of God, you may receive the promise: For yet a very little while, and He Who is to come, will come, and will not delay. Now My just one lives by faith.
 
 [Graduale]
@@ -39,7 +39,7 @@ V. The white-robed army of Martyrs praises You, O Lord. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
-!Matth 24:3-13
+!Matt. 24:3-13
 At that time, as Jesus was sitting on the Mount of Olives, the disciples came to~
 Him privately, saying, Tell us, when are these things to happen, and what will~
 be the sign of Your coming and of the end of the world? And in answer Jesus said~
@@ -57,7 +57,7 @@ the charity of the many will grow cold. But whoever perseveres to the end, he~
 shall be saved.
 
 [Offertorium]
-!Sap 3:1-3
+!Wis 3:1-3
 The souls of the just are in the hand of God, and no torment shall touch them.~
 They seemed, in the view of the foolish, to be dead: but they are in peace.~
 Alleluia.
@@ -68,7 +68,7 @@ Your holy Martyrs Januarius and Companions, safeguard us from all dangers.
 $Per Dominum
 
 [Communio]
-!Matth 10:27
+!Matt 10:27
 What I tell you in darkness, speak it in the light, says the Lord; and what you~
 hear whispered, preach it on the housetops.
 

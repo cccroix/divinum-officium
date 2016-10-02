@@ -25,7 +25,7 @@ $Per Dominum.
 
 [Lectio]
 Lesson from the book of Wisdom
-!Sap 5:1-5
+!Wis 5:1-5
 v. Then shall the just stand with great constancy against those that have afflicted them, and taken away their labours. These seeing it, shall be troubled with terrible fear, and shall be amazed at the suddenness of their unexpected salvation. Saying within themselves, repenting, and groaning for anguish of spirit: These are they, whom we had some time in derision, and for a parable of reproach. We fools esteemed their life madness, and their end without honour. Behold how they are numbered among the children of God, and their lot is among the saints.
 
 [Graduale]
@@ -33,13 +33,13 @@ Allelúja, allelúja
 !Ps 91:13
 v. The just shall flourish like the palm tree: he shall grow up like the cedar~
 of Libanus. Allelúja
-!Osee 14:6
+!Hos 14:6
 v. The just shall spring as the lily, and flourish forever before the Lord.~
 Allelúja.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
-!Matth 20:20-23
+!Matt 20:20-23
 In that time: came to him the mother of the sons of Zebedee with her sons,~
 adoring and asking something of him. Who said to her: What wilt thou? She saith~
 to him: Say that these my two sons may sit, the one on thy right hand, and the~

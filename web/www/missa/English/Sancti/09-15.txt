@@ -15,10 +15,10 @@ Credo
 Prefatio=Maria=Transfixion;
 
 [Introitus]
-!Joann 19:25
+!Jn. 19:25
 v. There were standing by the Cross of Jesus His Mother, and His Mother’s sister,~
 Mary of Cleophas, and Salome, and Mary Magdalene.
-!Joann 19:26-27
+!Jn. 19:26-27
 Woman, behold your son, said Jesus; and to the disciple, Behold your mother.
 &Gloria
 v. There were standing by the Cross of Jesus His Mother, and His Mother’s sister,~
@@ -142,7 +142,7 @@ Amen. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to John
-!Joann 19:25-27
+!John 19:25-27
 At that time, there were standing by the Cross of Jesus His Mother and His~
 Mother’s sister, Mary of Cleophas, and Mary Magdalene. When Jesus, therefore,~
 saw His Mother and the disciple standing by, whom He loved, He said to His~
@@ -150,7 +150,7 @@ Mother, Woman, behold your son. Then He said to the disciples, Behold your~
 Mother. And from that hour the disciple took her into his home.
 
 [Offertorium]
-!Jerem 18:20
+!Jer 18:20
 Be mindful, O Virgin Mother of god, when you stand in the sight of the Lord, to~
 speak good things for us, and to turn away His anger from us.
 

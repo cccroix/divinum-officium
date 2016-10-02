@@ -19,7 +19,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the book of Wisdom
-!Sap 10:10 - 14.
+!Wis 10:10 - 14.
 The Lord guided the just in direct ways, showed him the kingdom of God, and gave him knowledge of holy things; He prospered him in his labors and made abundant the fruit of his works, stood by him against the greed of his defrauders, and enriched him; He preserved him from foes, and secured him against ambush, and He gave him the prize for his stern struggle that he mighty recognize that devotion to God is mightier than all else. He did not abandon the just man when he was sold, but delivered him from sin. He went down with him into the dungeon, and did not desert him in his bonds.
 
 [Tractus]
@@ -39,11 +39,11 @@ V. Ps 58:17 But I will sing of Your strength and revel at dawn in Your kindness.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
-!Luc 9:1 - 6.
+!Luke 9:1 - 6.
 At that time, Jesus having summoned the twelve apostles, gave them power and authority over all the devils, and to cure diseases. And He sent them forth to preach the kingdom of God, and to heal the sick. And He said to them, Take nothing for your journey, neither staff, nor wallet, nor bread, nor money; neither have two tunics. And whatever house you enter, stay there, and do not leave the place. And whoever does not receive you - go forth from that town, and shake off even the dust from your feet for a witness against them. And going forth, they went about from village to village, preaching the gospel and working cures everywhere.
 
 [Offertorium]
-!Eccl 46:6
+!Ecclus 46:6
 He called upon the Most High Sovereign when his enemies beset him on all sides, and the great and holy God gave answer to him.
 
 [Secreta]
@@ -51,7 +51,7 @@ Look with favor, O Lord, upon the sacrifice we offer; that by the intercession o
 $Per Dominum
 
 [Communio]
-!Sap 10:20
+!Wis 10:20
 They sang, O Lord, Your holy name and praised in unison Your conquering hand.
 
 [Postcommunio]

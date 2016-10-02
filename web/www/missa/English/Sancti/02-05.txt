@@ -22,7 +22,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the first letter of St Paul the Apostle to the Corinthians
-!1 Cor 1:26-31
+!1 Cor. 1:26-31
 Brethren: Consider your own call, that there were not many wise according to the flesh, not many mighty, not many noble. But the foolish things of the world has God chosen to put to shame the wise, and the weak things of the world has God chosen to put to shame the strong, and the base things of the world and the despised has God chosen, and the things that are not, to bring to naught the things that are; lest any flesh should pride itself before Him. From Him you are in Christ Jesus, Who has become for us God-given wisdom, and justice, and sanctification, and redemption; so that, just as it is written, Let him who takes pride, take pride in the Lord.
 
 [Graduale]
@@ -43,7 +43,7 @@ V. They shall come back rejoicing, carrying their sheaves.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
-!Matth 19:3-12
+!Matt 19:3-12
  At that time, there came to Jesus some Pharisees, testing Him, and saying, Is it lawful for a man to put away his wife for any cause? But He answered and said to them, Have you not read that the Creator, from the beginning, made them male and female, and said, ‘For this cause a man shall leave his father and mother, and cleave to his wife, and the two shall become one flesh’? Therefore now they are no longer two, but one flesh. What therefore God has joined together, let no man put asunder. They said to Him, Why then did Moses command to give a written notice of dismissal, and to put her away? He said to them, Because Moses, by reason of the hardness of your heart, permitted you to put away your wives; but it was not so from the beginning. And I say to you, that whoever puts away his wife, except for immorality, and marries another, commits adultery; and he who marries a woman who has been put away commits adultery. His disciples said to Him, If the case of a man with his wife is so, it is not expedient to marry. And He said, ‘Not all can accept this teaching; but those to whom it has been given. For there are eunuchs who were born so from their mother’s womb; and there are eunuchs who were made so by men; and there are eunuchs who have made themselves so for the sake of the kingdom of heaven. Let him accept it who can.
 
 [Offertorium]

@@ -23,7 +23,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the book of Wisdom
-!Sap 10:10:14
+!Wis 10:10:14
 The Lord guided the just in direct ways, showed him the kingdom of God, and gave him knowledge of holy things; He prospered him in his labors and made abundant the fruit of his works, stood by him against the greed of his defrauders, and enriched him; He preserved him from foes, and secured him against ambush, and He gave him the prize for his stern struggle that he might recognize that devotion to God is mightier than all else. He did not abandon the just man when he was sold, but delivered him from sin. He went down with him into the dungeon, and did not desert him in his bonds, until He brought him the scepter of royalty and authority over his oppressors, and showed those who had defamed him false; and the Lord our God gave him eternal glory.
 
 [Graduale]
@@ -31,13 +31,13 @@ The Lord guided the just in direct ways, showed him the kingdom of God, and gave
 The mouth of the just tells of wisdom, and his tongue utters what is right.
 V. The law of his God is in his heart, and his steps do not falter. Alleluia,~
 alleluia.
-!Jacob 1:12
+!James 1:12
 V. Blessed is the man who endures temptation; for when he has been tried, he~
 will receive the crown of life. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
-!Matth 18:1-5
+!Matt 18:1-5
 At that time, the disciples came to Jesus, saying, Who then is greatest in the~
 kingdom of heaven? And Jesus called a little child to Him, set him in their~
 midst, and said, Amen I say to you, unless you turn and become like little~
@@ -56,7 +56,7 @@ through the prayer of him whom You have given to help us.
 $Per Dominum
 
 [Communio]
-!Marc 10:14
+!Mark 10:14
 Let the little children come to Me, and do not hinder them, for of such is the~
 kingdom of God.
 

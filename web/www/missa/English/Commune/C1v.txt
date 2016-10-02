@@ -34,7 +34,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the book of Ecclesiasticus
-!Eccl 44:25-27; 45:2-4; 45:6-9
+!Sir 44:25-27; 45:2-4; 45:6-9
 v. The Lord gave him the blessing of all nations, and confirmed his covenant upon the head of Jacob. He acknowledged him in his blessings, and gave him an inheritance, and divided him his portion in twelve tribes. And he preserved for him men of mercy, that found grace in the eyes of all flesh. He made him like the saints in glory, and magnified him in the fear of his enemies, and with his words he made prodigies to cease. He glorified him in the sight of kings, and gave him commandments in the sight of his people, and shewed him his glory. He sanctified him in his faith, and meekness, and chose him out of all flesh. And he gave him commandments before his face, and a law of life and instruction, that he might teach Jacob his covenant, and Israel his judgments. He exalted Aaron his brother, and like to himself of the tribe of Levi: He made an everlasting covenant with him, and gave him the priesthood of the nation, and made him blessed in glory, And he girded him about with a glorious girdle, and clothed him with a robe of glory, and crowned him with majestic attire.
 
 [Graduale]
@@ -47,7 +47,7 @@ v. To shew forth thy mercy in the morning, and thy truth in the night:
 
 [Evangelium]
 Continuation ++ of the Holy Gospel according to John
-!Joann 15:12-16
+!John 15:12-16
 v. This is my commandment, that you love one another, as I have loved you.~
 Greater love than this no man hath, that a man lay down his life for his~
 friends. You are my friends, if you do the things that I command you. I will not~

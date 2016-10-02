@@ -25,7 +25,7 @@ $Per eundem
 
 [Lectio]
 Lesson from the book of Isaias
-!Isai 58:6-10
+!Isa 58:6-10
 Thus says the Lord: Release those bound unjustly, untie the thongs of the yoke; set free the oppressed, break every yoke; share your bread with the hungry, shelter the oppressed and the homeless; clothe the naked when you see them, and do not turn your back on your own. Then your light shall break forth like the dawn, and your wound shall quickly be healed; your vindication shall go before you, and the glory of the Lord shall be your rear guard. Then you shall call, and the Lord will answer, you shall cry for help, and He will say: ‘Here I am!’ If you bestow your bread on the hungry and satisfy the afflicted; then light shall rise for you in darkness, and the gloom shall become for you like midday.
 
 [Graduale]
@@ -40,9 +40,9 @@ V. Rise, O Lord! O God, lift up Your hand! Forget not the afflicted! On You the~
 unfortunate man depends; of the fatherless You are the helper. Alleluia.
 
 [Tractus]
-!Isai 61:1
+!Isa 61:1
 The Lord has sent me to heal the brokenhearted, and to proclaim a release to the captives.
-!1 Cor 9:22
+!1 Cor. 9:22
 V. To the weak I became weak, that I might gain the weak.
 V. I became all things to all men, that I might save all.
 
@@ -57,7 +57,7 @@ dwell in our land. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
-!Luc 10:29-37
+!Luke 10:29-37
  At that time, a certain lawyer, wishing to justify himself, said to Jesus, And~
 who is my neighbor? Jesus answered, A certain man was going down from Jerusalem~
 to Jericho, and he fell in with robbers, who after both stripping him and~
@@ -87,7 +87,7 @@ be helpful and beneficial in gaining for us an increase of patience and love.
 $Per eundem
 
 [Communio]
-!Ezech 34:15-16
+!Ezek 34:15-16
 I Myself will pasture My sheep; I Myself will give them rest, says the Lord God.~
 The lost I will seek out, the strayed I will bring back, the injured I will bind~
 up, and the sick I will heal.

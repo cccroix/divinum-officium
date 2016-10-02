@@ -24,7 +24,7 @@ $Per eundem
 
 [Lectio]
 Lesson from the book of Jeremias the Prophet.
-!Jerem 11:18-20
+!Jer 11:18-20
 v.  But thou, O Lord, hast shewn me, and I have known: then thou shewedst me their doings. And I was as a meek lamb, that is carried to be a victim: and I knew not that they had devised counsels against me, saying: Let us put wood on his bread, and cut him off from the land of the living, and let his name be remembered no more. But thou, O Lord of Sabaoth, who judgest justly, and triest the reins and hearts, let me see thy revenge on them: for to thee I have revealed my cause.
 
 [Graduale]
@@ -39,7 +39,7 @@ _
 v.~
 (deinde dicuntur semper)
 Passion of our Lord Jesus Christ, according to Mark
-!Marc 14:1-72; 15:1-46
+!Mark 14:1-72; 15:1-46
 v.  Now the feast of the pasch, and of the Azymes was after two days;~
 and the chief priests and the scribes sought how they might by some wile~
 lay hold on him, and kill him. But they said: Not on the festival day,~

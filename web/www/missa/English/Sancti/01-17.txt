@@ -23,7 +23,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the book of Ecclesiasticus
-!Eccl 45:1-6
+!Ecclus 45:1-6
 Beloved of God and men, whose memory is held in benediction. He made him like the Saints in glory, and magnified him in the fear of his enemies, and with his words He made prodigies to cease. He glorified him in the sight of kings, and gave him Commandments in the sight of his people, and revealed to him His glory. He sanctified him in his faith and meekness, and chose him out of all flesh. For He heard him and his voice, and brought him into a cloud. And, face to face, He gave him the Commandments, the law of life and understanding.
 
 [Graduale]
@@ -38,7 +38,7 @@ grow. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
-!Matth 19:27-29
+!Matt. 19:27-29
 At that time, Jesus said to His disciples, Let your loins be girt about and your~
 lamps burning, and you yourselves like men waiting for their master’s return~
 from the wedding; so that when he comes and knocks, they may straight-way open~
@@ -63,7 +63,7 @@ salvation.
 $Per Dominum
 
 [Communio]
-!Luc 12:42
+!Luke 12:42
 Blessed is that servant whom his master, when he comes, shall find watching.~
 Amen I say to you, he will set him over all his goods.
 

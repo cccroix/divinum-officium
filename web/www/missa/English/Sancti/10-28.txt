@@ -29,7 +29,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the letter of St Paul the Apostle to the Ephesians
-!Ephes 4:7-13
+!Eph 4:7-13
 Brethren: To each one of us grace was given according to the measure of Christ’s bestowal. Thus it says, Ascending on high, He led away captives: He gave gifts to men. Now this, He ascended, what does it mean but that He also first ascended into the lower parts of the earth? He Who descended, He it is Who ascended also above all the heavens, that He might fill all things. And He Himself gave some men as apostles, and some as prophets, others again as evangelists, and others as pastors and teachers, in order to perfect the saints for a work of ministry, for building up the body of Christ, until we all attain to the unity of the faith and of the deep knowledge of the Son of God, to perfect manhood, to the mature measure of the fullness of Christ.
 
 [Graduale]
@@ -44,7 +44,7 @@ exceedingly strengthened. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to John
-!Joann 15:17-25
+!John 15:17-25
 At that time, Jesus said to His disciples, These things I command you, that you~
 may love one another. If the world hates you, know that it has hated Me before~
 you. If you were of the world, the world would love what is its own. But because~
@@ -71,7 +71,7 @@ celebrate their glory.
 $Per Dominum
 
 [Communio]
-!Matth 19:28
+!Matt 19:28
 You who have followed Me shall sit on thrones, judging the twelve tribes of~
 Israel.
 

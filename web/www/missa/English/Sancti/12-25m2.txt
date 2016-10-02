@@ -8,7 +8,7 @@ Prefatio=Nat
 multiple3
 
 [Introitus]
-!Isai 9:2; 9:6
+!Isa 9:2; 9:6
 v. A light shall shine upon this day: for the Lord is born to us: and He shall~
 be called Wonder-Counselor, God-Hero, Father-Forever, Prince of Peace: of Whose~
 reign there shall be no end.
@@ -33,7 +33,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the letter of St Paul the Apostle to Titus
-!Tit 3:4-7
+!Titus 3:4-7
 Dearly beloved: When the goodness and kindness of God our Savior appeared, then not by reason of good works that we did ourselves, but according to His mercy, He saved us through the bath of regeneration and renewal by the Holy Spirit; Whom He has abundantly poured out upon us through Jesus Christ our Savior, in order that, justified by His grace, we may be heirs in the hope of life everlasting, in Christ Jesus our Lord.
 
 [Graduale]
@@ -48,7 +48,7 @@ strength. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
-!Luc 2:15-20
+!Luke 2:15-20
 At that time, the shepherds were saying to one another, Let us go over to~
 Bethlehem and see this thing that has come to pass, which the Lord has made~
 known to us. So they went with haste, and they found Mary and Joseph, and the~

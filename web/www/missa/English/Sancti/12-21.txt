@@ -28,7 +28,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the letter of St Paul the Apostle to the Ephesians
-!Ephes 2:19-22
+!Eph 2:19-22
 Brethren: You are now no longer strangers and foreigners, but you are citizens with the saints and members of God’s household: you are built upon the foundation of the apostles and prophets with Christ Jesus Himself as the chief cornerstone. In Him the whole structure is closely fitted together and grows into a temple holy in the Lord, in Him you too are being built together into a dwelling place for God in the Spirit.
 
 [Graduale]
@@ -42,7 +42,7 @@ Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to John
-!Joann 20:24-29
+!John 20:24-29
 At that time, Thomas, one of the Twelve, called the Twin, was not with them when~
 Jesus came. The other disciples therefore said to him, We have seen the Lord.~
 But he said to them, Unless I see in His hands the print of the nails, and put~
@@ -67,7 +67,7 @@ sacrifices of praise. You safeguard Your gifts within us.
 $Per Dominum
 
 [Communio]
-!Joann 20:27
+!John 20:27
 Put in your hand and know the place of the nails, and be not unbelieving, but~
 believing.
 

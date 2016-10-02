@@ -27,7 +27,7 @@ $Qui vivis
 
 [Lectio]
 Lesson from the book of Ecclesiasticus
-!Eccl 24:23-31
+!Ecclus 24:23-31
 I bud forth delights like the vine, my blossoms become fruit fair and rich. I am the mother of fair love, and of fear, and of knowledge, and of holy hope. In me is all grace of the way and of the truth, in me is all hope of life and of virtue. Come to me, all you that yearn for me, and be filled with my fruits; for my spirit is sweeter than honey, and my inheritance better to have than honey and the honeycomb. My memory is to everlasting generations. They who eat of me will hunger still, and they who drink of me will thirst for more. He who obeys me will not be put to shame, they who serve me will never fail. They who explain me shall have life everlasting.
 
 [Graduale]
@@ -39,7 +39,7 @@ in your womb, becoming Man.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
-!Luc 11:27-28
+!Luke 11:27-28
 At that time, as Jesus was speaking to the multitudes, a certain woman from the~
 crowd lifted up her voice and said to Him, Blessed is the womb that bore You,~
 and the breasts that nursed You. But He said, Rather, blessed are they who hear~

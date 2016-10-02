@@ -8,7 +8,7 @@ Prefatio=Trinitate
 Suffr=Sanctorum;Maria3,Ecclesiae,Papa;;
 
 [Introitus]
-!Jerem 29:11-12; 29:14
+!Jer 29:11-12; 29:14
 v. The Lord says: "I think thoughts of peace, and not of affliction. You shall~
 call upon Me, and I will hear you; and I will bring back your captivity from all~
 places."
@@ -41,7 +41,7 @@ Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
-!Matth 9:18-26
+!Matt 9:18-26
 At that time, as Jesus was speaking to the crowds, behold, a ruler came up and~
 worshipped Him, saying, "Lord, my daughter has just now died; but come and lay~
 Your hand upon her, and she will return to life." And Jesus arose and followed~
@@ -67,7 +67,7 @@ servants.
 $Per Dominum
 
 [Communio]
-!Marc 11:24
+!Mark 11:24
 Amen I say to you, all things whatever you ask for in prayer, believe that you~
 shall receive, and it shall be done to you.
 

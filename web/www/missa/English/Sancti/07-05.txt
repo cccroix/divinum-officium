@@ -8,7 +8,7 @@ S. Antonii Mariae Zaccaria Confessoris;;Duplex optional;;2;;vide C5
 Gloria
 
 [Introitus]
-!1 Cor 2:4
+!1 Cor. 2:4
 v. My speech and my preaching were not in the persuasive words of human wisdom,~
 but in the demonstration of the Spirit and of the power.
 !Ps 110:1
@@ -26,7 +26,7 @@ $Per eundem
 
 [Lectio]
 Lesson from the first letter of St Paul the Apostle to Timotheus
-!1 Tim 4:8-16
+!1 Tim. 4:8-16
 Dearly beloved: Godliness is profitable in all respects, since it has the promise of the present life as well as of that which is to come. This saying is true and worthy of entire acceptance; for we work and are reviled for this reason, that we hope in the living God, Who is the Savior of all men, especially of believers. Command and teach these things. Let no man despise your youth, but be an example to the faithful in speech, in conduct, in charity, in faith, in chastity. Until I come, be diligent in reading, in exhortation and in teaching. Do not neglect the grace that is in you, granted to you by reason of prophecy with the laying on of hands of the presbyterate. Meditate on these things, give yourself entirely to them, that your progress may be manifest to all. Take heed to yourself and to your teaching, be earnest in them. For in so doing you will save both yourself and those who hear you.
 
 [Graduale]
@@ -42,7 +42,7 @@ of God. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Mark
-!Marc 10:15-21
+!Mark 10:15-21
 At that time, Jesus said to His disciples, Whoever does not accept the kingdom~
 of God as a little child will not enter into it. And He put His arms about the~
 children, and laying His hands upon them, He began to bless them. And as He was~
