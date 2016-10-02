@@ -12,7 +12,7 @@ Feria Te Deum
 
 [Lectio1]
 Z Pierwszego Listu św. Jana Apostoła
-!1 Joann 4:1-6
+!1 J 4:1-6
 1 Najmilejsi! nie każdemu duchowi wierzcie; ale doświadczajcie duchów, jeźli z Boga są; bo wiele fałszywych proroków wyszło na świat.
 2 Po tem znać Ducha Bożego. Każdy duch, który wyznawa, iż Jezus Chrystus przyszedł w ciele, z Boga jest.
 3 A każdy duch, który rozwięzuje Jezusa, z Boga nie jest: a ten jest Antychryst, o którymeście słyszeli, iż idzie, i teraz już jest na świecie.
@@ -24,7 +24,7 @@ Z Pierwszego Listu św. Jana Apostoła
 @Tempora/Pasc5-4:Responsory1
 
 [Lectio2]
-!1 Joann 4:7-14
+!1 J 4:7-14
 7 Najmilejsi! miłujmy się zobopólnie; bo miłość jest z Boga: i każdy, co miłuje, z Boga jest urodzony i zna Boga.
 8 Kto nie miłuje, nie zna Boga; albowiem Bóg jest miłość.
 9 W tem się okazała miłość Boża w nas, iż Syna swego jednorodzonego posłał Bóg na świat, abyśmy żyli przezeń.
@@ -38,7 +38,7 @@ Z Pierwszego Listu św. Jana Apostoła
 @Tempora/Pasc5-4:Responsory2
 
 [Lectio3]
-!1 Joann 4:15-21
+!1 J 4:15-21
 15 Ktobykolwiek wyznał, iż Jezus jest Syn Boży, Bóg w nim mieszka, a on w Bogu.
 16 I myśmy poznali, i uwierzyli miłości, którą Bóg ma ku nam. Bóg jest miłość: a kto mieszka w miłości, w Bogu mieszka, a Bóg w nim.
 17 W tem wykonana jest miłość z nami, abyśmy ufność mieli w dzień sądny, iż jako on jest, i my jesteśmy na tym świecie.

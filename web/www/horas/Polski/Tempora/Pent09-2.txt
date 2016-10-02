@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Z Czwartej Księgi Królewskiej
-!2 Reg 3:6-9
+!2 Krl 3:6-9
 6 Wyszedł tedy król Joram dnia onego z Samaryi i popisał wszystkiego Izraela.
 7 I posłał do Jozaphata, króla Judzkiego, mówiąc: Król Moab odstąpił odemnie, pojedź ze mną przeciw jemu na wojnę. Który odpowiedział: Pojadę. Kto mój jest, twój jest: lud mój, lud twój, i konie moje, konie twoje.
 8 I rzekł: Którą drogą pociągniemy? A on odpowiedział: Przez puszczą Idumejską.
@@ -16,7 +16,7 @@ Z Czwartej Księgi Królewskiej
 @Tempora/Pent03-2Feria:Responsory1
 
 [Lectio2]
-!2 Reg 3:10-13
+!2 Krl 3:10-13
 10 I rzekł król Izraelski: Ach, ach, ach! zgromadził nas Pan trzech królów, aby wydał w ręce Moab.
 11 I rzekł Jozaphat: Jestli tu prorok Pański, żebyśmy prosili Pana przezeń? I odpowiedział jeden z sług króla Izraelskiego: Jest tu Elizeusz, syn Saphat, który nalewał wody na ręce Eliaszowe.
 12 I rzekł Jozaphat: Jest u niego słowo Pańskie. I stąpił do niego król Izraelski i Jozaphat, król Judzki, i król Edom.
@@ -26,7 +26,7 @@ Z Czwartej Księgi Królewskiej
 @Tempora/Pent03-2Feria:Responsory2
 
 [Lectio3]
-!2 Reg 3:13-18
+!2 Krl 3:13-18
 13 I rzekł mu król Izraelski: Czemu Pan zgromadził tych trzech królów, aby je dał w ręce Moabskie?
 14 I rzekł do niego Elizeusz: Żywie Pan zastępów, przed którego oczyma stoję, iż, gdybym się oblicza Jozaphata, króla Judzkiego, nie wstydał, nie dbałbych o cię, anibych się obejrzał.
 15 Lecz teraz przywiedźcie mi gracza. I gdy grał gracz, stała się nad nim ręka Pańska, i rzekł:

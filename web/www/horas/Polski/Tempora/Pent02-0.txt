@@ -11,7 +11,7 @@ Antiphonas horas
 Doxology=Corp
 
 [Capitulum Vespera]
-!1 Joann 3:13-14
+!1 J 3:13-14
 v. Najmilsi: Nie dziwujcie się, bracia! jeźli was świat nienawidzi. My wiemy, iżeśmy przeniesieni z śmierci do żywota, iż miłujemy bracią.
 $Deo gratias
 
@@ -103,7 +103,7 @@ Boże, któryś nam w tym cudownym Sakramencie zostawił pamiątkę Męki swojej
 $Qui vivis
 
 [Lectio Prima]
-!1 Joann 3:18
+!1 J 3:18
 v. Synaczkowie moi! nie miłujmy słowem ani językiem, ale uczynkiem i prawdą.
 
 [Capitulum Tertia]
@@ -113,7 +113,7 @@ v. Synaczkowie moi! nie miłujmy słowem ani językiem, ale uczynkiem i prawdą.
 @Tempora/Pent01-4
 
 [Capitulum Sexta]
-!1 Joann 3:16
+!1 J 3:16
 v. W temeśmy poznali miłość Bożą, iż on duszę swą za nas położył: i myśmy powinni kłaść duszę za bracią.
 $Deo gratias
 
