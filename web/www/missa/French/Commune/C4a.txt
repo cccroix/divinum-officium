@@ -5,7 +5,7 @@ Commune Doctoris; In medio
 Gloria
 
 [Introitus]
-!Eccl 15:5
+!Eccli 15:5
 v. Au milieu de l’assemblée, le Seigneur lui a ouvert la bouche et l’a rempli de l’esprit de sagesse et d’intelligence, et il l’a re­vêtu de la robe de gloire. (TP. Alléluia, alléluia.)
 !Ps 91:2 
 Il est bon de louer le Sei­gneur, et de chanter votre nom, ô Très-Haut..
@@ -26,7 +26,7 @@ Quant à toi, sois vigilant, travaille constamment, fais œuvre de prédi­cateu
 !Ps 36:30-31
 La bouche du juste méditera la sagesse, et sa langue annoncera l’é­quité.
 V. La loi de Dieu est dans son cœur, et ses pas ne chancelleront pas. Alléluia, alléluia.
-!Eccl 45:9
+!Eccli 45:9
 Le Seigneur l’a aimé et l’a orné : il l’a revêtu d’une robe de gloire. Alléluia.
 
 [Tractus]
@@ -40,14 +40,14 @@ V. La gloire et la richesse remplissent sa maison ; et sa justice demeure dans 
 
 [GradualeP]
 Alléluia, alléluia.
-!Eccl 45:9
+!Eccli 45:9
 Le Seigneur l’a aimé et l’a orné : il l’a revêtu d’une robe de gloire. Alléluia.
 !Osee 14:6. 
 Le juste germera com­me le lis et il ﬂeurira éter­nellement devant le Seigneur. Alléluia.
 
 [Evangelium]
 Évangile ++ selon saint Matthieu.
-!Matth 5:13-19
+!Matt 5:13-19
 En ce temps-là, Jésus dit à ses disciples : « Vous êtes le sel de la terre. Si le sel s’affadit, avec quoi le salera-t-on ? Il n’est plus bon qu’à être jeté de­hors et foulé aux pieds par les hommes. 
 « Vous êtes la lu­mière du monde. Une ville située au sommet d’une montagne ne peut être cachée ; et on n’allume pas une lampe pour la mettre sous le boisseau, mais on la met sur le chandelier et elle éclaire tous ceux qui sont dans la maison. Que votre lumière brille ainsi devant les hommes, aﬁn qu’ils voient vos bonnes œuvres et qu’ils gloriﬁent votre Père qui est dans les cieux. 
 « Ne pensez pas que je sois venu pour abolir la loi ou les prophètes ; je suis venu non pour les abolir, mais pour les accomplir. Car, en vérité je vous le dis, jus­qu’à ce que passent le ciel et la terre, un seul iota ou un seul trait de la loi ne passera pas que tout ne soit accom­pli. Celui donc qui aura violé un de ces moindres commandements et appris aux hommes à faire de même, sera appelé le moindre dans le royaume des cieux ; mais celui qui les observera et les en­seignera sera appelé grand dans le royaume des cieux. »
@@ -78,5 +78,5 @@ $Per Dominum
 
 [Lectio1]
 Lecture du livre de l’Ecclésiastique.
-!Eccl 39:6-14
+!Eccli 39:6-14
 Le juste mettra tout son cœur  à aller dès le matin au­près du Seigneur qui l’a fait, et il priera en présence du Très-Haut. Il ouvrira sa bou­che pour la prière et de­mandera pardon pour ses pé­chés. Si le souverain Sei­gneur le veut, il sera rempli de l’esprit d’intelligence ; et alors il répandra à ﬂots ses paroles de sagesse, et dans sa prière il louera le Sei­gneur. Le Seigneur réglera ses conseils et sa doctrine, et lui-même étudiera les mystères divins. Il publiera les instructions de sa doctrine et se glori­ﬁera de la loi de l’alliance du Seigneur. Beaucoup loue­ront sa sagesse et il ne sera jamais oublié. Sa mémoire ne passera pas, et son nom sera honoré de génération en géné­ration. Les peuples raconte­ront sa sagesse et l’Église célébrera ses louanges.

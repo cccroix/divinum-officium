@@ -6,7 +6,7 @@ Commune unius Martyris Tempore Paschali; Protextsisti
 [Introitus]
 !Ps 63:3
 v. Vous m’avez protégé, ô Dieu, contre les complots des méchants et contre la multitude de ceux qui font le mal, alléluia, alléluia. 
-!Ps 63:2
+!Ps. 63:2
 Exaucez, ô Dieu, la prière que je vous adresse ; délivrez mon âme de la crainte de l’ennemi.
 &Gloria
 v. Vous m’avez protégé, ô Dieu, contre les complots des méchants et contre la multitude de ceux qui font le mal, alléluia, alléluia. 
@@ -48,7 +48,7 @@ Seigneur, vous avez posé sur sa tête une couronne de pierres précieuses. All�
 
 [Evangelium]
 Évangile ++ selon saint Jean.
-!Joann 15:1-7
+!Joannes 15:1-7
 En ce temps-là, Jésus dit à ses disciples : « Je suis la vraie vigne et mon Père est le vigneron. Tout sarment en moi qui ne porte pas de fruit, il l’enlèvera ; et tout sarment qui porte du fruit, il l’émondera aﬁn qu’il porte plus de fruit. Déjà vous êtes purs à cause de la parole que je vous ai annon­cée. Demeurez en moi, et moi en vous. Comme le sar­ment ne peut porter du fruit de lui-même s’il ne de­meure sur la vigne, de même vous non plus si vous ne demeurez en moi.
 « Je suis la vigne, vous êtes les sarments. Celui qui demeure en moi et moi en lui, celui-là porte beaucoup de fruit : car sans moi vous ne pouvez rien faire. Si quel­qu’un ne demeure pas en moi, il sera jeté dehors com­me le sarment et il séchera ; puis on le ramassera, on le jettera au feu et il brûlera. Si vous demeurez en moi et que mes paroles demeu­rent en vous, tout ce que vous voulez, demandez-le, et cela vous sera accordé. »
 

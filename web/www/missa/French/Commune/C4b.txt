@@ -5,7 +5,7 @@ Commune Summorum Pontificum; Si diligis
 Prefatio=Apostolis
 
 [Introitus]
-!Joann 21:15-17
+!Joannes 21:15-17
 v. Si tu m’aimes, Simon-Pierre,  pais mes agneaux, pais mes brebis. (TP. Alléluia, alléluia.)
 !Ps 29:2
 Je vous exalterai, Seigneur, parce que vous m’avez relevé et que vous n’avez pas réjoui mes ennemis à mon sujet.
@@ -34,7 +34,7 @@ Mes bien-aimés : j’exhorte les anciens qui sont par­mi vous, moi ancien c
 Qu’ils l’exal­tent dans l’assemblée du peuple et qu’ils le célèbrent dans la chaire des anciens.
 V. Qu’ils louent le Seigneur pour sa bonté et pour ses merveilles en faveur des enfants des hommes.~
 Alléluia, alléluia.
-!Matth 16:18
+!Matt 16:18
 Tu es Pierre, et sur cette pierre je bâtirai mon Église. Alléluia.
 
 [Tractus]
@@ -48,11 +48,11 @@ V. Je n’ai pas caché votre bonté ni votre vérité à la grande assemblée.
 
 [Evangelium]
 Évangile ++ selon saint Matthieu.
-!Matth 16:13-19
+!Matt 16:13-19
 En ce temps-là, Jésus vint aux environs de Césarée de Philippe, et il interrogeait ses disciples, disant : « Quel est celui que les hommes disent être le Fils de l’hom­me ? » Ceux-ci répondirent : « Les uns disent que c’est Jean-Baptiste, d’autres Élie ; d’autres Jérémie, ou quel­qu’un des prophètes. » Jésus leur demanda : « Et vous, qui dites-vous que je suis ? » Pre­nant la parole, Simon-Pierre dit : « Tu es le Christ, le Fils du Dieu vivant. » Et Jésus, répondant, lui dit : « Tu es heureux, Simon ﬁls de Jean, car ce n’est pas la chair ni le sang qui te l’ont révélé, mais mon Père qui est dans les cieux. Aussi moi, je te dis que tu es Pierre, et sur cette pierre je bâtirai mon Église, et les portes de l’enfer ne prévau­dront pas contre elle. Et je te donnerai les clefs du royaume des cieux : et tout ce que tu lieras sur la terre sera lié aussi dans les cieux, et tout ce que tu délieras sur la terre sera aussi délié dans les cieux. »
 
 [Offertorium]
-!Jerem 1:9-10
+!Jer 1:9-10
 Voici : j’ai mis mes paroles dans ta bouche ; je t’ai établi sur les nations et sur les roy­aumes, pour que tu arraches et que tu détruises, que tu bâtisses et que tu plantes. (TP. Alléluia.)
 
 [Secreta]
@@ -64,7 +64,7 @@ Seigneur, accueillez avec bienveillance ces présents que nous vous offrons, j
 $Per Dominum
 
 [Communio]
-!Matth 16:18
+!Matt 16:18
 Tu es Pierre, et sur cette pierre je bâtirai mon Église. (TP. Alléluia.)
 
 [Postcommunio]

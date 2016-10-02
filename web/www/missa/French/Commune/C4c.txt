@@ -18,7 +18,7 @@ $Per Dominum
 
 [Lectio]
 Lecture du livre de l’Ecclésiastique.
-!Eccl 45:1-6
+!Eccli 45:1-6
 Il a été aimé de Dieu et des hommes : sa mémoire est en bénédiction. Dieu lui a donné une gloire semblable à celle des saints, il l’a rendu grand par la terreur qu’il inspira aux ennemis. Par sa parole, il a fait cesser des prodiges. Il l’a gloriﬁé de­vant les rois, il lui a donné un commandement devant son peuple et il lui a montré sa gloire. À cause de sa foi et de sa douceur, il l’a sanctiﬁé et l’a choisi entre tous les hommes. Il lui a fait en­tendre sa voix et l’a introduit dans la nuée. Il lui a donné face à face ses commande­ments, la loi de la vie et de la science.
 
 [Graduale]
@@ -47,7 +47,7 @@ Le juste germera com­me le lis et il ﬂeurira éternelle­ment devant le Sei­
 
 [Evangelium]
 Évangile ++ selon saint Matthieu.
-!Matth 19:27-29
+!Matt 19:27-29
 En ce temps-là, Pierre dit à Jésus : « Voici que nous avons tout quitté et t’avons suivi : qu’y aura-t-il donc pour nous ? » Jésus leur ré­pondit : « En vérité, je vous le dis, vous qui m’avez suivi, lorsqu’au jour du renouvellement le Fils de l’homme sera assis sur le trône de sa majesté, vous siégerez vous aussi sur douze trônes et vous jugerez les douze tribus d’Israël. Et quiconque aura quitté, à cause de mon nom, maison, frères, sœurs, père, mère, femme, enfants ou terres, re­cevra le centuple et possédera la vie éternelle. »
 
 [Offertorium]

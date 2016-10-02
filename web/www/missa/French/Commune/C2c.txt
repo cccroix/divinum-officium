@@ -4,7 +4,7 @@ Commune Unius Martyris Pontificis, Statuit
 [Rule]
 
 [Introitus]
-!Eccl 45:30.
+!Eccli 45:30.
 v. Le Seigneur a fait avec lui une alliance de paix et l’a établi prince, aﬁn qu’il possède à jamais la dignité du sacerdoce.
 !Ps 131:1.
 Souvenez-vous, ô Seigneur, de David et de toute sa douceur.
@@ -17,7 +17,7 @@ $Per Dominum
 
 [Lectio]
 Épître de saint Jacques.
-!Jacob 1:12-18.
+!Jac 1:12-18.
 Mes bien-aimés, heureux l’homme qui supporte l’épreuve ; car, après avoir été éprouvé, il recevra la couronne de vie que Dieu a promise à ceux qui l’aiment. 
 Que personne, lorsqu’il est tenté, ne dise : c’est Dieu qui me tente. Car Dieu ne tente point pour le mal, et lui-même ne tente personne. Mais chacun est tenté par sa propre convoitise, qui le sol­licite et l’entraîne. Ensuite la convoitise, lorsqu’elle a conçu, enfante le péché ; et le péché, lorsqu’il est con­sommé, produit la mort. 
 Ne vous y trompez pas, mes frères bien-aimés. Toute grâce excellente et tout don parfait descend d’en haut, du Père des lumières, en qui n’existe aucune vicissitude ni ombre de changement. Volontairement, il nous a engendrés par la parole de vérité, aﬁn que nous soyons comme les prémices de ses créatures.

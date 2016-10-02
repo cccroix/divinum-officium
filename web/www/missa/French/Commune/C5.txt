@@ -17,7 +17,7 @@ $Per Dominum
 
 [Lectio]
 Lecture du livre de l’Ecclésiastique.
-!Eccl 31:8-11.
+!Eccli 31:8-11.
 Heureux l’homme qui a été trouvé sans tache, qui n’a pas couru après l’or, ni espéré dans l’argent et les trésors. Qui est-il, que nous le louions ? Car il a fait des choses admirables dans sa vie. Il a été soumis à cette épreuve et il a eu la perfection : il y aura pour lui une gloire éternelle. Il pouvait violer la loi et ne l’a pas violée, faire le mal et ne l’a pas fait. C’est pourquoi ses biens sont affermis dans le Seigneur, et toute l’assemblée des saints publiera ses bienfaits.
 
 [Graduale]
@@ -25,7 +25,7 @@ Heureux l’homme qui a été trouvé sans tache, qui n’a pas couru après l
 Le juste ﬂeu­rira comme le palmier ; il s’élèvera comme le cèdre du Liban dans la maison du Seigneur.
 !Ps 91:3
 V. Pour annoncer le matin votre miséricorde et votre vérité pendant la nuit. Alléluia, alléluia. 
-!Jacob 1:12
+!Jas 1:12
 Heureux l’homme qui supporte l’épreuve ; car lors­qu’il aura été éprouvé, il re­cevra la couronne de vie. Alléluia.
 
 [Tractus]
@@ -52,7 +52,7 @@ Nous vous immolons, Seigneur, ces hos­ties de louange en mémoire de vos saints
 $Per Dominum.
 
 [Communio]
-!Matth 24:46-47.
+!Matt 24:46-47.
 Heu­reux le serviteur que son maître, à son arrivée, trou­vera veillant : en vérité je vous le dis, il l’établira sur tous ses biens. (TP. Alléluia.)
 
 [Postcommunio]

@@ -4,7 +4,7 @@ Commune Plurimorum Martyrum Sapientiam Sanctorum
 [Rule]
 
 [Introitus]
-!Eccl 44:15; 44:14
+!Eccli 44:15; 44:14
 v. Que les peuples racontent la sagesse des saints, et que l’assemblée publie leurs louanges : leurs noms vi­vront à jamais.
 !Ps 32:1
 Justes, tressaillez de joie dans le Seigneur ; c’est aux hommes droits que convient la louange.

@@ -49,12 +49,12 @@ _
 !Ensuite, le célébrant, après avoir imposé l’encens dans l’encensoir, asperge trois fois d’eau bénite les cendres, en disant l’antienne Asperges, sans chant ni psaume, et les encense trois fois. Puis, le plus digne des prêtres du clergé monte à l’autel, impose les cendres au célébrant debout. S’il n’y a pas d’autre prêtre, le célébrant lui-même, à genoux devant l’autel, s’impose lui-même les cendres sur la tête, sans rien dire, et aussitôt, le chœur chante :
 
 !Antiphona.
-!Joël 2:13
+!Joel 2:13
 Devenons d’autres hommes, couvrons-nous de cendre et du cilice : jeûnons et pleurons devant le Seigneur ; car notre Dieu tout miséricordieux est prêt à nous remettre nos péchés.
 _
 _
 !Alia Antiph.
-!Joël 2:17
+!Joel 2:17
 Que les prêtres, ministres du Seigneur, pleurent entre le vestibule et l’autel, et qu’ils disent : Épargnez, Seigneur ! épargnez votre peuple, et ne fermez pas la bouche de ceux qui chantent vos louanges, ô Seigneur.
 _
 _
@@ -89,7 +89,7 @@ $Per Dominum
 
 [Lectio]
 Lecture du prophète Joël.
-!Joël 2:12-19
+!Joel 2:12-19
 Voici ce que dit le Seigneur : convertissez-vous à moi de tout votre cœur, dans les jeûnes, dans les larmes et dans les gémissements. Déchirez vos cœurs, et non vos vêtements, et convertissez-vous au Seigneur, votre Dieu ; parce qu’il est bon et compatissant, patient et riche en miséricorde, disposé à se repentir du mal dont il avait menacé. Qui sait s’il ne se retournera pas vers vous, s’il ne vous pardonnera point, et s’il ne laissera pas encore après lui quelque bénédiction, en sorte que vous puissiez offrir au Seigneur, votre Dieu, vos oblations de blé et de vin ? Faites retentir la trompette en Sion, publiez un jeûne saint, convoquez l’assemblée. Assemblez le peuple, avertissez-le qu’il se purifie, faites venir les vieillards, amenez les enfants, et ceux même qui sont encore à la mamelle : que l’époux sorte de sa couche, et l’épouse de son lit nuptial. Que les prêtres, et ministres du Seigneur, pleurent entre le vestibule et l’autel, et qu’ils disent : Épargnez, Seigneur ! épargnez votre peuple, et ne laissez pas tomber votre héritage dans l’opprobre, en l’abandonnant à la puissance des nations : pourquoi dira-t-on parmi les peuples : Où est leur Dieu ? Le Seigneur a été touché de zèle pour sa terre : il a pardonné à son peuple. Le Seigneur a répondu a dit à son peuple : Je vous enverrai du blé, du vin et de l’huile, et vous en serez rassasiés, et je ne vous abandonnerai plus aux insultes des nations. C’est ce que dit le Seigneur tout-puissant.
 
 [Graduale]
@@ -106,7 +106,7 @@ V. Aidez-nous, ô Dieu notre Sauveur, et pour la gloire de votre nom, Seigneur, 
 
 [Evangelium]
 Lecture du Saint Évangile selon saint Mathieu.
-!Matth 6:16-21
+!Matt 6:16-21
 En ce temps-là, Jésus dit à ses disciples : lorsque vous jeûnez, ne prenez pas un air sombre, comme les hypocrites : car ils affectent de paraître avec un visage défiguré, pour faire paraître aux hommes qu’ils jeûnent. En vérité, je vous le dis, ils ont reçu leur récompense. Mais vous, lorsque vous jeûnez, parfumez votre tête, et lavez votre visage : afin de ne pas faire paraître aux hommes que vous jeûnez mais à votre Père qui est présent à ce qu’il y a de plus secret : et votre Père, qui voit ce qui se passe dans le secret, vous le rendra. Ne vous amassez pas des trésors dans la terre, où la rouille et les vers les mangent, et où les voleurs les déterrent et les dérobent. Mais amassez-vous des trésors dans le ciel, où ni la rouille ni les vers ne les mangent, et où il n’y a pas de voleurs qui les déterrent et qui les dérobent. Car où est votre trésor, là est aussi votre cœur.
 
 [Offertorium]
