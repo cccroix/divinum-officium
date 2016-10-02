@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Dal terzo libro dei Re
-!1 Reg 4:21-24
+!1 Kgs 4:21-24
 21 Or Salomone aveva sotto il suo dominio tutti i regni dal fiume dei Filistei fino alla frontiera d'Egitto, i quali gli portavano doni e gli furono soggetti per tutto il tempo della sua vita. 
 22 La provvigione poi per la tavola di Salomone era ogni giorno trenta cori di fior di farina, 
 23 sessanta cori di farina ordinaria, dieci buoi ingrassati e venti buoi di pastura, cento arieti, oltre la cacciagione di cervi, di caprioli e di daini e di pollame da stia. 
@@ -16,7 +16,7 @@ Dal terzo libro dei Re
 @Tempora/Pent01-1:Responsory1
 
 [Lectio2]
-!1 Reg 4:25-29
+!1 Kgs 4:25-29
 25 Onde Israele e Giuda vivevano senza alcun timore, ognuno all'ombra della sua vite e del suo fico, da Dan sino a Bersabea per tutto il tempo di Salomone. 
 26 Inoltre Salomone aveva quarantamila scuderie di cavalli da carri e dodicimila cavalli da cavalcare. 
 27 E gli ufficiali nominati di sopra pensavano a mantenerli; e somministravano pure con gran puntualità a suo tempo tutto quanto abbisognava per la mensa di Salomone. 
@@ -27,7 +27,7 @@ Dal terzo libro dei Re
 @Tempora/Pent01-1:Responsory2
 
 [Lectio3]
-!1 Reg 4:30-34
+!1 Kgs 4:30-34
 30 E la sapienza di Salomone superava la sapienza di tutti gli Orientali ed Egiziani; 
 31 ed era più sapiente di qualsiasi uomo, più sapiente di Etan Ezraita, di Eman, di Calcol e di Dorda figlio di Maol, ed era rinomato in tutte le nazioni circonvicine. 
 32 Salomone pronunziò altresì tremila parabole, e i suoi cantici furono mille e cinque. 

@@ -7,7 +7,7 @@ Doxology=Asc
 
 [Lectio1]
 Incipit Epistola tertia beati Joannis Apostoli.
-!3 Joann 1:1-4
+!3 Giov 1:1-4
 1 I1 seniore a Gaio carissimo, il quale io amo nella verità.
 2 Carissimo, io fo orazione, perché tu prosperi in tutte le cose, e sii sano, come prospera l'anima tua. 
 3 Mi sono rallegrato molto allorché sono arrivati dei fratelli e hanno reso testimonianza alla tua verità, siccome tu cammini nella verità.
@@ -17,7 +17,7 @@ Incipit Epistola tertia beati Joannis Apostoli.
 @Tempora/Pasc5-4:Responsory1
 
 [Lectio2]
-!3 Joann 1:5-10
+!3 Giov 1:5-10
 5 Carissimo, tu agisci da fedele in tutto quello che operi verso i fratelli, e più verso i pellegrini, 
 6 i quali hanno renduta testimonianza alla tua carità davanti alla Chiesa : tu farai bene se provvederai al loro viaggio in modo degno di Dio.
 7 Infatti sono partiti per il nome dì lui senza ricevere nulla dai Gentili.
@@ -29,7 +29,7 @@ Incipit Epistola tertia beati Joannis Apostoli.
 @Tempora/Pasc5-4:Responsory2
 
 [Lectio3]
-!3 Joann 1:11-14
+!3 Giov 1:11-14
 11 Carissimo, non imitare il male, ma il bene. Chi fa il bene è da Dio : chi fa il male, non ha veduto Dio.
 12  Demetrio è renduta testimonianza da tutti, e dalla stessa verità, e noi pure gli rendiamo testimonianza : e tu sai che la nostra testimonianza è verace.
 13 Io aveva molte cose da scriverti : ma non ho voluto scrivertele con penna e inchiostro.

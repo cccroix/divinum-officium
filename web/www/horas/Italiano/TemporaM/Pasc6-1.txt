@@ -7,7 +7,7 @@ Feria Te Deum
 
 [Lectio1]
 Dalla prima Lettera dell'Apostolo san Giovanni
-!1 Joann 3:1-6
+!1 Giov 3:1-6
 1 Osservate quale carità il Padre ha avuto per noi, di volere che siamo chiamati e siamo realmente figli di Dio. Perciò dunque il mondo non ci conosce, perché non conosce lui. 
 2 Carissimi, noi siamo adesso figli di Dio: ma non ancora si è manifestato quel che noi saremo. Sappiamo che quando si manifesterà, saremo simili a lui: perché lo vedremo quale egli è. 
 3 E chiunque ha questa speranza in lui, santifica se stesso, com'egli pure è santo. 
@@ -19,7 +19,7 @@ Dalla prima Lettera dell'Apostolo san Giovanni
 @TemporaM/Pasc5-4:Responsory1
 
 [Lectio2]
-!1 Joann 3:7-12.
+!1 Giov 3:7-12.
 7 Figlioli, nessuno vi seduca. Chi pratica la giustizia, è giusto: come anch'egli è giusto. 
 8 Chi fa il peccato, è dal diavolo: perché il diavolo pecca dal principio. A questo fine è apparso il Figlio di Dio, per distruggere le opere del diavolo. 
 9 Chiunque è nato da Dio, non fa peccato: perché tiene in sé il germe di lui, e non può peccare perché è nato da Dio. 
@@ -31,7 +31,7 @@ Dalla prima Lettera dell'Apostolo san Giovanni
 @TemporaM/Pasc5-4:Responsory2
 
 [Lectio3]
-!1 Joann 3:13-18
+!1 Giov 3:13-18
 13 Non vi stupite, fratelli, se il mondo vi odia. 
 14 Noi sappiamo che siamo passati dalla morte alla vita, perché amiamo i fratelli. Chi non ama, rimane nella morte. 
 15 Chiunque odia il proprio fratello, è un assassino. E voi sapete che nessun assassino ha la vita eterna dimorante in sé. 

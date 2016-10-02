@@ -20,7 +20,7 @@ $Per Dominum
 
 [Lectio1]
 Incomincia il quarto libro dei Re
-!2 Reg 1:1-4
+!2 Kgs 1:1-4
 1 Ma dopo La morte di Acab, Moab si ribellò contro Israele. 
 2 E Ocozia cadde dalla finestra d'un suo appartamento che aveva in Samaria, e ne ammalò; e spedì dei messi dicendo loro: Andate a consultare Beelzebub dio di Accaron, se io potrò riavermi da questa mia malattia. 
 3 Ma un Angelo del Signore parlò ad Elia Tesbite dicendo: Levati, e va incontro ai messi del re di Samaria e di' loro: Non c'è forse un Dio in Israele che andate a consultare Beelzebub dio di Accaron? 
@@ -30,7 +30,7 @@ Incomincia il quarto libro dei Re
 @Tempora/Pent04-0:Responsory1
 
 [Lectio2]
-!2 Reg 1:4-6
+!2 Kgs 1:4-6
 4 Ed Elia se n'andò. 
 5 Ed i messi ritornarono ad Ocozia. Il quale disse loro: Perché siete tornati indietro? 
 6 Ed essi risposero: Ci è venuto incontro un uomo e ci ha detto: Andate, ritornate dal re che vi ha mandati, e ditegli: Così dice il Signore: Non c'è forse un Dio in Israele che tu mandi a consultare Beelzebub dio di Accaron? Perciò non scenderai dal letto su cui sei salito, ma morrai certamente.
@@ -39,7 +39,7 @@ Incomincia il quarto libro dei Re
 @Tempora/Pent04-0:Responsory2
 
 [Lectio3]
-!2 Reg 1:7-10
+!2 Kgs 1:7-10
 7 Ed egli chiese loro: Com'è la figura e l'abito di quell'uomo che vi è venuto incontro e vi ha detto queste parole? 
 8 Ed essi risposero: È un uomo peloso, ed ha una cintola di cuoio stretta ai fianchi. Ed egli rispose: Elia Tesbite. 
 9 E mandò a lui un capitano di cinquanta uomini, coi cinquanta che aveva sotto di sé. E questi salì verso di lui, che stava seduto sulla cima d'un monte, e gli disse: Uomo di Dio, il re comanda che tu discenda. 
