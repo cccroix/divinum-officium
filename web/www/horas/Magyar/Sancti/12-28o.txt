@@ -51,7 +51,7 @@ Most és örök időkön át.
 
 [Lectio1]
 Olvasmány Jeremiás próféta könyvéből
-!Jerem 31:15-17
+!Jer 31:15-17
 15 Ezt mondja az Úr: Jajszó hallatszik Rámában, sírás és keserves jajgatás:~
 Ráchel siratja fiait és nem akar vigasztalódni fiai miatt, hiszen már nincsenek~
 többé.
@@ -70,7 +70,7 @@ R. For they remained virgins; therefore are they kings before God, and the Lamb~
 of God is with them.
 
 [Lectio2]
-!Jerem 31:18-20
+!Jer 31:18-20
 18 Jól hallom Efraim panaszszavát: "Megfenyítettél, s hagytam hogy fenyíts, mint a~
 járomba még be nem tört tinó. Hozz vissza, engedj visszatérnem, mert te vagy az~
 Úr, az én Istenem!
@@ -92,7 +92,7 @@ R. How long dost Thou not avenge our blood? And it was said unto them from God~
 Rest yet for a little season, until the number of your brethren be fulfilled.
 
 [Lectio3]
-!Jerem 31:21-23
+!Jer 31:21-23
 21 Állíts magadnak útjelzőket, helyezz el útmutató oszlopokat! Jegyezd meg jól~
 az ösvényt, az utat, amelyen elmentél egykor! És térj haza, Izraelnek szűzi~
 leánya, gyere haza saját városaidba.
@@ -167,7 +167,7 @@ These are they * which came out of great tribulation, and have washed their robe
 
 [Lectio7]
 Evangélium szent Máté Apostol kőnyvéből
-!Matth 2:13-18
+!Matt 2:13-18
 Azon időben megjelent Józsefnek álmában az Úr angyala, s ezt mondta neki: "Kelj~
 föl, fogd a gyermeket és anyját, menekülj Egyiptomba, s maradj ott, amíg nem~
 szólok. És így tovább.
@@ -237,7 +237,7 @@ In Rama was there a voice * heard, weeping and mourning, Rachel weeping for her 
 Under the throne of God * all the saints cry aloud Avenge our blood, O our God!
 
 [Capitulum Laudes]
-!Apoc 14:1
+!Rev 14:1
 v. S láttam a Bárányt, ott állt Sion hegyén, és vele száznegyvennégyezer, aki~
 viselte az ő és Atyjának homlokára írt nevét.
 $Deo gratias
@@ -268,24 +268,24 @@ These are they * who were not defiled with women; for they are virgins, and~
 follow the Lamb whithersoever he goeth.
 
 [Lectio Prima]
-!Apoc 14:4-5
+!Rev 14:4-5
 v. Ők a megváltottak az emberek közül,~
 az Isten és a Bárány első termése. Ajkukon nincs hazugság: szeplőtelenek.
 
 [Capitulum Tertia]
-!Apoc 14:1
+!Rev 14:1
 v. S láttam a Bárányt, ott állt Sion hegyén, és vele száznegyvennégyezer, aki~
 viselte az ő és Atyjának homlokára írt nevét.
 $Deo gratias
 
 [Capitulum Sexta]
-!Apoc 14:4
+!Rev 14:4
 v. Ezek azok, akik asszonnyal nem szennyezték be magukat, szüzek maradtak és~
 mindenüvé követték a Bárányt, bárhová ment.
 $Deo gratias
 
 [Capitulum Nona]
-!Apoc 14:4-5
+!Rev 14:4-5
 v. Ők a megváltottak az emberek közül,~
 az Isten és a Bárány első termése. Ajkukon nincs hazugság: szeplőtelenek.
 $Deo gratias
@@ -298,7 +298,7 @@ With the Lord there is mercy, * and with Him is plenteous redemption;;129
 Of the fruit of thy body * will I set upon thy throne;;131
 
 [Capitulum Vespera]
-!Apoc 14:1
+!Rev 14:1
 v. S láttam a Bárányt, ott állt Sion hegyén, és vele száznegyvennégyezer, aki~
 viselte az ő és Atyjának homlokára írt nevét.
 $Deo gratias

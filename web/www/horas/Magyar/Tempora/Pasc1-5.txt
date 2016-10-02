@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 From the Acts of Apostles.
-!Act 8:9-13
+!Acts 8:9-13
 9 Élt a városban egy Simon nevű férfi, aki varázsló volt, és azzal ámította~
 Szamaria népét, hogy fontos személynek adta ki magát.
 10 A népnek apraja-nagyja hallgatott rá. "Ő az Isten ereje, melyet nagynak~
@@ -23,7 +23,7 @@ jelek és a nagy csodák láttán elámult.
 @Tempora/Pasc0-3:Responsory2
 
 [Lectio2]
-!Act 8:14-19
+!Acts 8:14-19
 14 Amikor a Jeruzsálemben maradt apostolok meghallották, hogy Szamaria elfogadta~
 az Isten szavát, elküldték hozzájuk Pétert és Jánost.
 15 Amikor megérkeztek, imádkoztak értük, hogy megkapják a Szentlelket.
@@ -39,7 +39,7 @@ megkapja a Szentlelket."
 @Tempora/Pasc0-5:Responsory1
 
 [Lectio3]
-!Act 8:19-24
+!Acts 8:19-24
 19 "Adjatok nekem is olyan hatalmat - mondta -, hogy akire csak ráteszem a kezem,~
 megkapja a Szentlelket."
 20 Péter elutasította: "Vesszen el a pénzed veled együtt, mert azt hitted, hogy~

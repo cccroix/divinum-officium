@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Szent Pál Apostolnak a Efezusiakhoz írt leveléből
-!Ephes 5:1-4
+!Eph  5:1-4
 1 Mint Isten kedves gyermekei, legyetek az ő követői és 
 2 éljetek szeretetben, ahogy Krisztus is szeretett minket, és odaadta magát értünk jó illatú áldozati adományként az Istennek. 
 3 Kicsapongásról és egyéb tisztátalanságról vagy kapzsiságról szó se essék köztetek, ahogy a szentekhez illik. 
@@ -16,7 +16,7 @@ Szent Pál Apostolnak a Efezusiakhoz írt leveléből
 @Tempora/Epi2-5:Responsory1
 
 [Lectio2]
-!Ephes 5:5-8
+!Eph 5:5-8
 5 Legyetek meggyőződve, hogy semmiféle erkölcstelennek, tisztátalannak, kapzsinak, más szóval bálványimádónak nincs öröksége Krisztus és az Isten országában. 
 6 Senki ne vezessen félre benneteket üres beszéddel, mert ezek miatt éri Isten haragja a hitetlenség fiait. 
 7 Tehát ne vállaljatok velük közösséget. 
@@ -26,7 +26,7 @@ Szent Pál Apostolnak a Efezusiakhoz írt leveléből
 @Tempora/Epi2-5:Responsory2
 
 [Lectio3]
-!Ephes 5:9-14
+!Eph 5:9-14
 9 A világosság gyümölcse csupa jóság, igazságosság és egyenesség. 
 10 Azt keressétek, ami kedves az Úr szemében. 
 11 Ne legyen részetek a sötétség meddő tetteiben, inkább ítéljétek el őket. 

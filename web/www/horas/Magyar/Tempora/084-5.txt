@@ -1,6 +1,6 @@
 [Lectio1]
 Jézus Sírák fia könyvéből
-!Eccl 4:1-4
+!Sir 4:1-4
 1 Fiam! a szegényektöl ne vond meg az alamizsnát, és szemeidet ne fordítsd el a szűkölködőtöl. 
 2 Az éhezö lelket ne vesd meg, és ne keserítsd a szegényt szükségében. 
 3 A szűkölködő szivét ne szomorítsd, és ne halogasd az adományt a szorúltnak. 
@@ -10,7 +10,7 @@ Jézus Sírák fia könyvéből
 @Tempora/081-0:Responsory4
 
 [Lectio2]
-!Eccl 4:5-7
+!Sir 4:5-7
 5 A szűkölködőtöl ne forditsd el szemeidet a harag miatt, és ne adj okot rá, hogy a könyörgök utóbb átkozzanak; 
 6 mert a ki szive keseröségében téged megátkoz, annak könyörgése meghallgattatik; meghallgatja pedig öt az Úr, ki öt teremtette. 
 7 Légy nyájas a nép szegényeihez, és az öreg elött alázd meg lelkedet, és a föember elött hajtsd meg fejedet. 
@@ -19,7 +19,7 @@ Jézus Sírák fia könyvéből
 @Tempora/081-0:Responsory5
 
 [Lectio3]
-!Eccl 4:8-11
+!Sir 4:8-11
 8 Hajtsd füledet a szegényhez kedvetlenség nélkül; add meg a mivel tartozol, és felelj neki békésen, szelidséggel. 
 9 Szabadítsd meg azt, ki eröszakot szenved, a kevély kezéböl, és szivednek ne esék ez nehezére. 
 10 Az itéletben légy irgalmas az árvákhoz, mint atya, és anyjokhoz, mint férj; 

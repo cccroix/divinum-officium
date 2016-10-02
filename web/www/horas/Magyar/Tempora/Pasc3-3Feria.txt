@@ -7,7 +7,7 @@ Feria Te Deum
 
 [Lectio1]
 From the Book of Revelation of St John Apostle
-!Apoc 5:1-7
+!Rev 5:1-7
 1 A trónon ülő jobbjában egy kívül-belül teleírt könyvtekercset láttam, amely~
 hét pecséttel volt lepecsételve.
 2 Aztán láttam egy hatalmas angyalt, aki nagy hangon kérdezte: "Ki méltó rá,~
@@ -25,7 +25,7 @@ hét szelleme, akiknek küldetésük az egész földre szól.
 7 A (Bárány) odament, és átvette a trónon ülő jobbjából a könyvet.
 
 [Lectio2]
-!Apoc 5:8-10
+!Rev 5:8-10
 8 Amikor átvette a könyvet, a négy élőlény és a huszonnégy vén leborult a Bárány~
 előtt. Hárfája volt mindegyiknek és tömjénnel tele aranycsészéje - ezek a~
 szentek imádságai.
@@ -35,7 +35,7 @@ népből és nemzetből,
 10 Istenünk országává és papjaivá tetted őket, és uralkodni fognak a földön."
 
 [Lectio3]
-!Apoc 5:11-14
+!Rev 5:11-14
 11 És láttam meg hallottam sok angyalt, az élőlények és a vének hangját, akik a~
 trón körül voltak, számuk tízezerszer tízezer, és ezerszer ezer volt,
 12 és nagy szóval mondták: "Méltó a Bárány, akit megöltek, hogy övé legyen a~

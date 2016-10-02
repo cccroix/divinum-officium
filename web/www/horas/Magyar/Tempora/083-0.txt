@@ -8,8 +8,8 @@ R. And let there descend upon us thy mercy.
 
 [Lectio1]
 A Bölcsesség könyvének kezdete
-!Sap 1:1-4
-1 Szeressétek az igazságot, ti, akik ítélkeztek a föld fölött!Joann lélekkel~
+!Wis 1:1-4
+1 Szeressétek az igazságot, ti, akik ítélkeztek a föld fölött! Jó lélekkel~
 gondolkodjatok az Úrról, és keressétek szívetek egyszerűségében!
 2 Mert azok, akik nem kísértik, megtalálják, és azoknak, akik nem bizalmatlanok~
 iránta, kinyilvánítja magát.
@@ -22,7 +22,7 @@ testben, amely a bűnnek szolgál.
 @Tempora/081-0:Responsory1
 
 [Lectio2]
-!Sap 1:5-8
+!Wis 1:5-8
 5 Hisz a fegyelem szent lelke menekül a hamisságtól, távol tartja magát az~
 esztelen gondolatoktól, és elriad, mihelyt igazságtalanság közelít.
 6 Emberbarát lélek a bölcsesség, de nem hagyhatja büntetlenül a káromlót ajkai~
@@ -35,7 +35,7 @@ el a büntető igazságosság.
 @Tempora/081-0:Responsory2
 
 [Lectio3]
-!Sap 1:9-11
+!Wis 1:9-11
 9 Mert az istentelen terveit vizsgálat alá vetik; beszédének híre az Úr elé~
 kerül, hogy gonoszságai elvegyék büntetésüket,
 10 hiszen mindent meghall a féltékeny fül, és a leghalkabb zúgolódás moraja sem~

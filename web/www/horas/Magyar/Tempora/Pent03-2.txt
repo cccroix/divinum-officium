@@ -8,7 +8,7 @@ Doxology=Heart
 
 [Lectio1]
 A királyok első könyvéből
-!1 Reg 12:1-5
+!1 Sam 12:1-5
 1 Aztán Sámuel szózatot intézett egész Izraelhez: "Nézzétek, mindent megtettem,~
 amire kértetek, s királyt rendeltem fölétek.
 2 Ezentúl ez a király jár majd előttetek. Ami engem illet, én már megöregedtem~
@@ -26,7 +26,7 @@ ezen a napon, hogy nem találtatok semmit a kezemben." "Igen, ő a tanú" -~
 válaszolták.
 
 [Lectio2]
-!1 Reg 12:6-9
+!1 Sam 12:6-9
 6 Ezután Sámuel így beszélt a néphez: "Igen, az Úr a tanú, aki Mózest és Áront~
 rendelte, s aki kivezette atyáitokat Egyiptomból.
 7 Álljatok hát elő, hadd pereljek veletek az Úr színe előtt, s hadd tárjam~
@@ -39,7 +39,7 @@ atyáitokat Egyiptomból, s ezen a vidéken telepítették le őket.
 Sziszerának kezére adta őket, meg a filiszteusok kezére és Moáb királya kezére.
 
 [Lectio3]
-!1 Reg 12:10-14
+!1 Sam 12:10-14
 10 Akkor az Úrhoz folyamodtak: Vétkeztünk - mondták -, mert elhagytuk az Urat és~
 Baaloknak meg Asztartéknek szolgáltunk. De most szabadíts ki bennünket~
 ellenségeink kezéből, s neked szolgálunk.
@@ -106,7 +106,7 @@ bonds of a very special love.
 
 [Lectio7]
 From the Holy Gospel according to John
-!Joann 19:31-37
+!John 19:31-37
 At that time : The Jews, because it was the Preparation, that the bodies should~
 not remain upon the cross on the Sabbath Day, for that Sabbath Day was an high~
 day, besought Pilate that their legs might broken, and that they might be taken~

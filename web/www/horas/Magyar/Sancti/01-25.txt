@@ -17,7 +17,7 @@ In Damascus the governor under Aretas the king was desirous to apprehend me by t
 Thrice was I beaten with rods, * once was I stoned, thrice I suffered shipwreck, for Christ's name's sake.;;116
 
 [Capitulum Vespera]
-!Act 9:1-2
+!Acts 9:1-2
 v. Saul még mindig lihegett a dühtől, és halállal fenyegette az Úr tanítványait.~
 Elment a főpaphoz, s arra kérte, adjon neki ajánlólevelet a damaszkuszi~
 zsinagógához, hogy ha talál ott embereket, férfiakat vagy nőket, akik ezt az~
@@ -37,7 +37,7 @@ For the conversion of the Teacher of the Gentiles, * let us praise our God.
 
 [Lectio1]
 Olvasmány az Apostolok Cselekedeiből
-!Act 9:1-5
+!Acts 9:1-5
 1 Saul még mindig lihegett a dühtől, és halállal fenyegette az Úr tanítványait.~
 Elment a főpaphoz,
 2 s arra kérte, adjon neki ajánlólevelet a damaszkuszi zsinagógához, hogy ha~
@@ -51,7 +51,7 @@ ragyogta körül.
 üldözöl.
 
 [Lectio2]
-!Act 9:6-9
+!Acts 9:6-9
 6 De állj fel és menj a városba, ott majd megmondják neked, mit kell tenned."
 7 Útitársainak elakadt a szavuk, mert hallották a hangot, de látni nem láttak~
 semmit.
@@ -60,7 +60,7 @@ vezették be Damaszkuszba, kézen fogva.
 9 Három napig nem látott, nem evett, és nem ivott.
 
 [Lectio3]
-!Act 9:10-16
+!Acts 9:10-16
 10 Damaszkuszban volt egy Ananiás nevű tanítvány. Az Úr egy látomásban~
 megszólította: "Ananiás!" "Itt vagyok, Uram!" - felelte.
 11 S az Úr folytatta: "Kelj fel és siess az Egyenes utcába. Keresd meg Júdás~
@@ -113,7 +113,7 @@ be raised up, smitten to be healed.
 
 [Lectio7]
 Evangélium szent Máté Apostol kőnyvéből
-!Matth 19:27-29
+!Matt 19:27-29
 Azon időben mondá Péter Jézusnak: "Nézd, mi mindenünket elhagytuk, és követtünk~
 téged. Mi lesz hát a jutalmunk?" És így tovább.
 _
@@ -160,7 +160,7 @@ In Damascus the governor under Aretas the king was desirous to apprehend me by t
 Thrice was I beaten with rods, * once was I stoned, thrice I suffered shipwreck, for Christ's name's sake.
 
 [Capitulum Laudes]
-!Act 9:1-2
+!Acts 9:1-2
 v. Saul még mindig lihegett a dühtől, és halállal fenyegette az Úr tanítványait.~
 Elment a főpaphoz, s arra kérte, adjon neki ajánlólevelet a damaszkuszi~
 zsinagógához, hogy ha talál ott embereket, férfiakat vagy nőket, akik ezt az~
@@ -193,12 +193,12 @@ mighty intercession, from all the bands of our sins.
 $Qui vivis
 
 [Lectio Prima]
-!Act 9:22
+!Acts 9:22
 v. Saul azonban mind határozottabban lépett fel, s mert azt bizonyította, hogy~
 Jézus a Messiás, zavarba hozta a damaszkuszi zsidókat.
 
 [Capitulum Tertia]
-!Act 9:1-2
+!Acts 9:1-2
 v. Saul még mindig lihegett a dühtől, és halállal fenyegette az Úr tanítványait.~
 Elment a főpaphoz, s arra kérte, adjon neki ajánlólevelet a damaszkuszi~
 zsinagógához, hogy ha talál ott embereket, férfiakat vagy nőket, akik ezt az~
@@ -206,14 +206,14 @@ utat követik, megkötözve Jeruzsálembe hurcolhassa őket.
 $Deo gratias
 
 [Capitulum Sexta]
-!Act 9:8-9
+!Acts 9:8-9
 v. Saul feltápászkodott a földről, kinyitotta a szemét, de nem látott. Úgy~
 vezették be Damaszkuszba, kézen fogva. Három napig nem látott, nem evett, és~
 nem ivott.
 $Deo gratias
 
 [Capitulum Nona]
-!Act 9:22
+!Acts 9:22
 v. Saul azonban mind határozottabban lépett fel, s mert azt bizonyította, hogy~
 Jézus a Messiás, zavarba hozta a damaszkuszi zsidókat.
 $Deo gratias

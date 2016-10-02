@@ -1,6 +1,6 @@
 [Lectio1]
 Olvasmány Jézus Sírák fia könyvéből
-!Eccl 14:1-5
+!Sir 14:1-5
 1 Boldog a férfiú, ki szája igéjével meg nem esett, és ki nem furdaltatik a vétek szomorúságától.
 2 Boldog, a kinek lelke nincs szomorúságban, és ki nem csalódott reménységében.
 3 A telhetetlen és fösvény férfiúnál hiába van a gazdagság, és az irígy embernek mire való az arany
@@ -11,7 +11,7 @@ Olvasmány Jézus Sírák fia könyvéből
 @Tempora/081-0:Responsory1
 
 [Lectio2]
-!Eccl 14:6-10
+!Sir 14:6-10
 6 A ki magához is irígy, semmi sincs annál gonoszabb, és ez az ö gonoszságának fizetése.
 7 És ha jót cselekszik is, nem tudva és nem akarva cselekszi; s végre is elárúlja gonoszságát.
 8 Gonosz az irígy szeme, ki elfordítja orczáját, és megutálja önmaga lelkét.
@@ -22,7 +22,7 @@ Olvasmány Jézus Sírák fia könyvéből
 @Tempora/081-0:Responsory2
 
 [Lectio3]
-!Eccl 14:11-17
+!Sir 14:11-17
 11 Fiam! ha értéked vagyon, tégy jót magaddal, és méltó áldozatokat mutass be az Istennek.
 12 Emlékezzél meg, hogy a halál nem késik, és hogy a sirbaszállás végzése tudtúl adatott neked; mert e világ végzete halállal meghalni.
 13 Halálod előtt tégy jót barátoddal, és kinyujtván kezedet, értéked szerint adj a szegénynek.

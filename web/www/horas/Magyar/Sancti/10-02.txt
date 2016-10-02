@@ -18,7 +18,7 @@ Blessed be God, * Who sent His Angel, and delivered His servants that trusted in
 Praise ye God, * all His Angels Praise ye Him, all His hosts!
 
 [Capitulum Vespera]
-!Ex 23:20-21
+!Exod. 23:20-21
 v. Nézd, előtted küldöm angyalomat, hogy őrizzen utaidon, és elvezessen arra a~
 helyre, amelyet kijelöltem. Tiszteld őt, hallgass szavára
 $Deo gratias
@@ -86,7 +86,7 @@ R. I will worship toward thy holy Temple, and praise thy Name.
 
 [Lectio1]
 Mózes második könyvéből.
-!Ex 23:20-23
+!Exod 23:20-23
 20 Nézd, előtted küldöm angyalomat, hogy őrizzen utaidon, és elvezessen arra a~
 helyre, amelyet kijelöltem.
 21 Tiszteld őt, hallgass szavára és ne lázadozz ellene. Engedetlenségedet nem~
@@ -108,7 +108,7 @@ stone.
 
 [Lectio2]
 Zakariás Próféta könyvébol
-!Zach 1:7-11
+!Zech 1:7-11
 7 A tizenegyedik hónap [a Sebat hónap] huszonnegyedik napján, Dárius 2. évében~
 az Úr szózatot intézett Zakariás prófétához, [Berekjának], Iddó [fiának a]~
 fiához:
@@ -130,7 +130,7 @@ R. How long wilt Thou not have mercy on Jerusalem, and on the cities of Judah,~
 against which Thou hast had indignation?
 
 [Lectio3]
-!Zach 2:1-5
+!Zech 2:1-5
 1 Azután fölemeltem tekintetem és látomást láttam. Volt ott négy szarv.
 2 Megkérdeztem az angyalt, aki beszélt hozzám: "Mik ezek a szarvak, Uram?" Azt~
 felelte: "Ezek azok a szarvak, amelyek szétszórták Júdát (Izraelt) és~
@@ -221,7 +221,7 @@ R. And the Angel of His presence saved, them.
 
 [Lectio7]
 Evangélium szent Maté könyvéből
-!Matth 18:1-10
+!Matt 18:1-10
  Abban az időben történt, hogy odamentek Jézushoz a tanítványok és megkérdezték~
 tőle: "Ki a legnagyobb a mennyek országában?" És így tovább.
 _
@@ -294,7 +294,7 @@ Blessed be God, * Who sent His Angel, and delivered His servants that trusted in
 Praise ye God, * all His Angels Praise ye Him, all His hosts!
 
 [Capitulum Laudes]
-!Ex 23:20-21
+!Exod. 23:20-21
 v. Nézd, előtted küldöm angyalomat, hogy őrizzen utaidon, és elvezessen arra a~
 helyre, amelyet kijelöltem. Tiszteld őt, hallgass szavára
 $Deo gratias
@@ -340,13 +340,13 @@ The Angel that talked * with me came again, and waked me, as a man that is~
 wakened out of his sleep.
 
 [Lectio Prima]
-!Ex 23:22-23
+!Exod 23:22-23
 v. De ha hallgatsz a szavára és megteszel mindent, amit parancsol, akkor~
 ellensége leszek ellenségeidnek és szorongatni fogom azokat, akik téged~
 szorongatnak. Akkor angyalom előtted fog járni
 
 [Capitulum Tertia]
-!Ex 23:20-21
+!Exod. 23:20-21
 v. Nézd, előtted küldöm angyalomat, hogy őrizzen utaidon, és elvezessen arra a~
 helyre, amelyet kijelöltem. Tiszteld őt, hallgass szavára
 $Deo gratias
@@ -363,7 +363,7 @@ V. And the smoke of the incense ascended up before the Lord.
 R. Out of the Angel's hand.
 
 [Capitulum Sexta]
-!Ex 23:21
+!Exod. 23:21
 v. Ne lázadozz ellene. Engedetlenségedet nem bocsátaná meg, mivel az én nevem~
 van benne.
 $Deo gratias
@@ -380,7 +380,7 @@ V. Before the Angels will I sing praise unto thee, O my God.
 R. I will worship toward thy holy Temple, and praise thy Name.
 
 [Capitulum Nona]
-!Ex 23:22-23
+!Exod 23:22-23
 v. De ha hallgatsz a szavára és megteszel mindent, amit parancsol, akkor~
 ellensége leszek ellenségeidnek és szorongatni fogom azokat, akik téged~
 szorongatnak. Akkor angyalom előtted fog járni

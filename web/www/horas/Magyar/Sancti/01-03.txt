@@ -14,7 +14,7 @@ Comkey=70
 9 lectiones
 
 [Capitulum Vespera] (rubrica Divino aut rubrica Tridentina aut rubrica Monastica)
-!Eccl 15:1-2
+!Sir 15:1-2
 v. A ki Istent féli, jót cselekszik; és ki az igazságnak megtartója, eljut~
 hozzá. És eléje megyen, mint egy tisztes anya, és mint szöz menyasszony fogadja~
 öt.
@@ -111,7 +111,7 @@ or our speech commendeth them.
 
 [Lectio7]
 Evangélium szent János Apostol kőnyvéből
-!Joann 21:20-24
+!John 21:20-24
 Azon időben mondá Jézus Péternek: kövess engem. Péter hátrafordult, s látta,~
 hogy az a tanítvány, akit Jézus kedvelt, s aki a vacsorán a keblére hajolt és~
 megkérdezte tőle: "Uram, ki árul el?" - az követi. Amikor meglátta, Péter~

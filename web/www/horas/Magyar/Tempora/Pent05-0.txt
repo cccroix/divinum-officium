@@ -28,7 +28,7 @@ $Per Dominum
 
 [Lectio1]
 Olvasmány Sámuel második könyvéből
-!2 Reg 1:1-4
+!2 Sam 1:1-4
 1 Saul halála után, az amalekiták elleni csatából hazatérve Dávid két napig~
 Ciklagban maradt.
 2 A harmadik nap egy ember érkezett Saul táborából. A ruhája meg volt szaggatva~
@@ -47,7 +47,7 @@ among you.
 R. And He will deliver you out of the hand of your enemies.
 
 [Lectio2]
-!2 Reg 1:5-10
+!2 Sam 1:5-10
 5 Ekkor Dávid megkérdezte a legényt, aki a hírt hozta neki: "Hogy tudtad meg,~
 hogy Saul és fia, Jonatán is halott?"
 6 A legény, aki a hírt hozta, ezt felelte: "Épp Gilboa hegyére tévedtem, s~
@@ -69,7 +69,7 @@ of the bear
 R. And anointed me with the oil of His mercy.
 
 [Lectio3]
-!2 Reg 1:11-15
+!2 Sam 1:11-15
 11 Erre Dávid fogta a ruháját, és megszaggatta. Ugyanígy az emberei is, akik~
 vele voltak, mind.
 12 Jajgattak és sírtak, és egészen estig böjtöltek Saulért és fiáért, Jonatánért,~
@@ -155,7 +155,7 @@ ever.
 
 [Lectio7]
 Evangélium szent Máté Apostol kőnyvéből
-!Matth 5:20-24
+!Matt 5:20-24
 Ezért mondom nektek: ha igazságotok nem múlja felül az írástudókét és a~
 farizeusokét, nem juttok be a mennyek országába. Hallottátok, hogy a régiek ezt a~
 parancsot kapták: Ne ölj! Aki öl, állítsák a törvényszék elé. És így tovább

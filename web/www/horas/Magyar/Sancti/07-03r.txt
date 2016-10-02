@@ -61,7 +61,7 @@ maximus ad universam Ecclesiam extendit.
 
 [Lectio7]
 Evangélium szent Máté Apostol kőnyvéből
-!Matth 10:28-33
+!Matt 10:28-33
 In illo tempore: Dixit Jesus discipulis suis: Nolite timere eos qui occidunt~
 corpus, animam autem non possunt occidere; sed potius timete eum qui potest et~
 animam et corpus perdere in gehennam. Et reliqua.
@@ -100,7 +100,7 @@ neque vere hominem factum, adhuc sub veteri sunt damnatione
 
 [Lectio9]
 Lectio sancti Evangelii secundum Joannem
-!Joann 21, 15-19
+!John 21, 15-19
 In illo tempore: Dixit Jesus Simoni Petro: Simon Joannis, diligis me plus his?~
 Et reliqua.
 _

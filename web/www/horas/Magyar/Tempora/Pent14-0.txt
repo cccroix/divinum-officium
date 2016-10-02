@@ -15,7 +15,7 @@ $Per Dominum
 
 [Lectio7]
 Evangélium szent Máté Apostol kőnyvéből
-!Matth 6:24-33
+!Matt 6:24-33
 Azon időben így szőlt Jézus a tanítványaihoz: Senki sem szolgálhat két úrnak:~
 vagy gyűlöli az egyiket, a másikat pedig szereti, vagy ragaszkodik az egyikhez, a~
 másikat pedig megveti. És így tovább

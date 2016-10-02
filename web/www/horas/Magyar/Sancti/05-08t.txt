@@ -19,7 +19,7 @@ O ye Angels of the Lord, bless ye the Lord always. (Alleluja.)
 O ye Angels and Archangels, * O ye Thrones and Dominions, O ye Principalities and Powers, O ye mighty Ones of heaven, praise ye the Lord from the heavens. (Alleluja.)
 
 [Capitulum Vespera]
-!Apoc 1:1-2
+!Rev 1:1-2
 v. Isten megmutatott mindent, aminek csakhamar be kell következnie. Elküldte angyalát, így adta tudtul szolgájának, Jánosnak, aki tanúskodik Isten Igéjéről és Jézus Krisztus tanúságtételéről: mindenről, amit látott.
 $Deo gratias
 
@@ -165,7 +165,7 @@ That the blessed Archangel Michael hath oftentimes been seen of men is attested 
 
 [Lectio7]
 From the Holy Gospel according to Matthew
-!Matth 18:1-10
+!Matt 18:1-10
 At that time Came the disciples unto Jesus, saying Who is the greatest in the kingdom of heaven? And so on. 
 _
 Homily by St Jerome, Priest (at Bethlehem.)
@@ -206,7 +206,7 @@ O ye Angels of the Lord, bless ye the Lord always. (Alleluja.)
 O ye Angels and Archangels, * O ye Thrones and Dominions, O ye Principalities and Powers, O ye mighty Ones of heaven, praise ye the Lord from the heavens Alleluja.
 
 [Capitulum Laudes]
-!Apoc 1:1-2
+!Rev 1:1-2
 v. Isten megmutatott mindent, aminek csakhamar be kell következnie. Elküldte angyalát, így adta tudtul szolgájának, Jánosnak, aki tanúskodik Isten Igéjéről és Jézus Krisztus tanúságtételéről: mindenről, amit látott.
 $Deo gratias
 
@@ -250,11 +250,11 @@ R. Having a golden censer in his hand. (Alleluja.)
 There was silence * in heaven while as the dragon made war, and Michael fought against him, and prevailed over him. (Alleluja.)
 
 [Lectio Prima]
-!Apoc 12:7-8
+!Rev 12:7-8
 v. Ezután nagy harc támadt a mennyben. Mihály és angyalai megtámadták a sárkányt. A sárkány és angyalai védekeztek, de nem tudtak ellenállni, s nem maradt számukra hely a mennyben.
 
 [Capitulum Tertia]
-!Apoc 1:1-2
+!Rev 1:1-2
 v. Isten megmutatott mindent, aminek csakhamar be kell következnie. Elküldte angyalát, így adta tudtul szolgájának, Jánosnak, aki tanúskodik Isten Igéjéről és Jézus Krisztus tanúságtételéről: mindenről, amit látott.
 $Deo gratias
 
@@ -270,7 +270,7 @@ V. And the smoke of the incense ascended up before the Lord. Alleluja.
 R. Out of the Angel's hand. Alleluja.
 
 [Capitulum Sexta]
-!Apoc 5:11-12
+!Rev 5:11-12
 v. És láttam meg hallottam sok angyalt, az élőlények és a vének hangját, akik a trón körül voltak, számuk tízezerszer tízezer, és ezerszer ezer volt, és nagy szóval mondták: Tisztelet Urunknak
 $Deo gratias
 
@@ -286,7 +286,7 @@ V. Before the Angels will I sing praise unto thee, O my God. Alleluja.
 R. I will worship toward thy holy Temple, and praise thy Name. Alleluja.
 
 [Capitulum Nona]
-!Apoc 12:7-8
+!Rev 12:7-8
 v. Ezután nagy harc támadt a mennyben. Mihály és angyalai megtámadták a sárkányt. A sárkány és angyalai védekeztek, de nem tudtak ellenállni, s nem maradt számukra hely a mennyben.
 $Deo gratias
 

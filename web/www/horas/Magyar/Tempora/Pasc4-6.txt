@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 Szent Jakab Apostol levelebol
-!Jacob 5:1-6
+!Jas 5:1-6
 1 Rajta, gazdagok, jajveszékelve sírjatok a rátok törő nyomorúság miatt! 
 2 Vagyonotok oda, ruhátokat megette a moly. 
 3 Aranyotokat és ezüstötöket belepte a rozsda, és ez a rozsda tanúul szolgál ellenetek, és megemészti testeteket, mint a tűz. Vagyonotokat gyarapítottátok még az utolsó napokban is. 
@@ -23,7 +23,7 @@ V. Thou art my God, and I will praise thee Thou art my God, and I will exalt the
 R. Upon a psaltery of ten strings will I sing praises unto thee. Alleluja, Alleluja.
 
 [Lectio2]
-!Jacob 5:7-11
+!Jas 5:7-11
 7 Legyetek hát türelemmel, testvérek, az Úr eljöveteléig! Lám, a földműves türelemmel vár a föld drága termésére, míg a korai és a késői eső meg nem érkezik. 
 8 Legyetek türelemmel ti is, erősítsétek meg szíveteket, mert az Úr eljövetelének ideje közel van! 
 9 Testvérek, ne panaszkodjatok egymásra, nehogy ítéletet vonjatok magatokra. Nézzétek, a bíró már az ajtóban van. 
@@ -39,7 +39,7 @@ R. And to sing praises Alleluja.
 R. And to sing praises Alleluja.
 
 [Lectio3]
-!Jacob 5:12-16
+!Jas 5:12-16
 12 Testvéreim, először is ne esküdjetek se az égre, se a földre, se egyébre ne tegyetek esküt. Legyen körötökben az igen: igen, a nem: nem, nehogy ítélet alá essetek. 
 13 Szenved valaki közületek? Imádkozzék! Jókedve van? Énekeljen zsoltárt! 
 14 Beteg valamelyitek? Hívassa el az Egyház elöljáróit, és azok imádkozzanak fölötte, s kenjék meg olajjal az Úr nevében. 

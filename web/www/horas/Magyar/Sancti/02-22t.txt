@@ -62,7 +62,7 @@ Thou art the Shepherd of the sheep, and the Prince of the Apostles * and unto th
 
 [Lectio1]
 Olvasmány szent Péter apostol első leveléből
-!1 Petri 1:1-5
+!1 Pet 1:1-5
 1 Péter, Jézus Krisztus apostola a zarándokoknak, akik Pontusz, Galácia,~
 Kappadócia, Ázsia és Bitinia területén szórványokban élnek, s akiket az
 2 Atyaisten előretudása birtokában kiválasztott, a Lélek megszentelő erejéből az~
@@ -85,7 +85,7 @@ whatsoever thou shalt loose on earth, shall be loosed in heaven.
 R. And I have given unto thee the keys of the kingdom of heaven.
 
 [Lectio2]
-!1 Petri 1:6-9
+!1 Pet 1:6-9
 6 Abban örülni fogtok, noha most egy kicsit szomorkodnotok kell, mert különféle~
 kísértések érnek benneteket,
 7 hogy a próbát kiállva hitetek, amely értékesebb a tűz próbálta veszendő~
@@ -103,7 +103,7 @@ V. If I should die with thee, I will not deny thee.
 R. I will lay down my life for thy sake.
 
 [Lectio3]
-!1 Petri 1:10-12
+!1 Pet 1:10-12
 10 Ezt az üdvösséget keresték és kutatták a próféták, akik a nektek szánt~
 kegyelemről jövendöltek.
 11 Töprengtek rajta, vajon milyen időpontra vagy milyen korra mutat Krisztusnak~
@@ -197,7 +197,7 @@ R. Feed My sheep.
 
 [Lectio7]
 Evangélium szent Máté Apostol kőnyvéből
-!Matth 16:13-19
+!Matt 16:13-19
 Abban az időben Jézus Fülöp Cezáreájának vidékére ért, megkérdezte~
 tanítványaitól: "Kinek tartják az emberek az Emberfiát?" És így tovább.
 _

@@ -5,7 +5,7 @@ Sabbato infra Hebdomadam II in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Evangélium szent Lukács könyvéből
-!Luc 15:11-32
+!Luke 15:11-32
 Azon időben mondá Jézus a farizeusoknak és írástudóknak: Egy embernek volt két~
 fia. A fiatalabbik egyszer így szólt apjához: Apám, add ki nekem az örökség rám~
 eső részét És így tovább.

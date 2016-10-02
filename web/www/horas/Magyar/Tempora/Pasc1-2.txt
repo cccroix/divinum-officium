@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 From the Acts of Apostles.
-!Act 2:1-8
+!Acts 2:1-8
 1 Amikor elérkezett pünkösd napja, ugyanazon a helyen mindnyájan együtt voltak.
 2 Egyszerre olyan zúgás támadt az égből, mintha csak heves szélvész közeledett~
 volna, és egészen betöltötte a házat, ahol ültek.
@@ -28,7 +28,7 @@ ott beszélnek?
 @Tempora/Pasc0-3:Responsory2
 
 [Lectio2]
-!Act 2:14-21
+!Acts 2:14-21
 14 Péter a többi tizeneggyel előlépett, és zengő hangon beszédet intézett~
 hozzájuk: "Zsidó férfiak és Jeruzsálem lakói mindnyájan! Vegyétek tudomásul és~
 hallgassátok meg szavamat!
@@ -50,7 +50,7 @@ nyilvánvaló napja.
 @Tempora/Pasc0-5:Responsory1
 
 [Lectio3]
-!Act 2:22-27
+!Acts 2:22-27
 22 Izraelita férfiak! Halljátok meg szavamat! A názáreti Jézust az Isten~
 igazolta előttetek a hatalmas csodákkal és jelekkel, amelyeket - amint tudjátok -~
 általa vitt végbe köztetek.

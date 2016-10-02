@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Olvasmány Sámuel második könyvéből
-!2 Reg 4:5-8
+!2 Sam 4:5-8
 5 A Beerotba való Rimmon fiai, Rechab és Baana elindultak és a déli hőség idején Isbaal házába mentek, amikor az éppen déli pihenőt tartott. 
 6 A kaput őrző lány búzát szemelgetett és elbóbiskolt, így épp aludt. Rechab és testvére, Baana beosontak. 
 7 Amikor beléptek a házba, Isbaal hálóköntösben az ágyán feküdt és aludt. Agyonütötték és fejét vették. Aztán fogták a fejét, és egész éjszaka mentek vele az Arabán át vivő úton. 
@@ -16,7 +16,7 @@ Olvasmány Sámuel második könyvéből
 @Tempora/Pent01-3:Responsory1
 
 [Lectio2]
-!2 Reg 4:9-12
+!2 Sam 4:9-12
 9 Dávid így válaszolt Rechabnak és testvérének, Baanának, a Beerotba való Rimmon fiainak: "Amint igaz, hogy az Úr él, aki életemet minden veszedelemből kimentette: 
 10 aki nekem azt a hírt hozta, hogy Saul halott, abban a hiszemben, hogy örömhírt hoz nekem, azt én elfogattam és megölettem Ciklagban, ezzel jutalmaztam az örömhírért. 
 11 Most hát, amikor elvetemült emberek egy derék embert a saját házában és ágyán meggyilkoltak, ne kérjem tőletek számon a vérét és ne irtsalak ki benneteket a földről?" 
@@ -26,7 +26,7 @@ Olvasmány Sámuel második könyvéből
 @Tempora/Pent01-3:Responsory2
 
 [Lectio3]
-!2 Reg 5:1-7
+!2 Sam 5:1-7
 1 Izraelnek összes törzse elment Dávidhoz Hebronba, és azt mondták: "Nézd, csontod és húsod vagyunk. 
 2 Már tegnap és tegnapelőtt is, amikor még Saul volt a királyunk, te voltál, aki vezetted Izrael hadjáratait. S az Úr is azt mondta neked: Legeltesd népemet, Izraelt, és légy Izrael fejedelme." 
 3 Izrael vénei tehát mind elmentek a királyhoz Hebronba, és Dávid király szövetséget kötött velük Hebronban, az Úr előtt. Aztán fölkenték Dávidot Izrael királyává. 

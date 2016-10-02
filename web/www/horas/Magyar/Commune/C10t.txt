@@ -11,7 +11,7 @@ Special Lectio 3
 Doxology=Nat
 
 [Capitulum Vespera]
-!Eccl 24:14
+!Sir 24:14
 v. Kezdettöl és az idök elött teremtettem, és mind az örökkévalóságig meg nem szünök; és a szent lakhelyen szolgáltam elötte.
 $Deo gratias.
 
@@ -83,7 +83,7 @@ She the Virgin of virgins, intercedet for us at the Lord. Amen.
 Through the Virgin Mother, the Lord grant us salvarion and peace. Amen.
 
 [Capitulum Laudes]
-!Eccl 24:14
+!Sir 24:14
 v. Kezdettöl és az idök elött teremtettem, és mind az örökkévalóságig meg nem szünök; és a szent lakhelyen szolgáltam elötte.
 $Deo gratias.
 
@@ -209,11 +209,11 @@ The good comrade and guardian of chastity is modesty. And this is the first thin
 &teDeum
 
 [Lectio Prima]
-!Eccl 24:19-20
+!Sir 24:19-20
 v. Mint a platanus viz mellett az utcákon, mint a fahéj és illatozó balzsam illatoztam, s mint a válogatott mirrha adtam a jóillat gyönyöröségét;
 
 [Capitulum Tertia]
-!Eccl 24:14
+!Sir 24:14
 v. Kezdettöl és az idök elött teremtettem, és mind az örökkévalóságig meg nem szünök; és a szent lakhelyen szolgáltam elötte.
 $Deo gratias.
 
@@ -229,7 +229,7 @@ V. Isten akarja megvédeni őt
 R. Nem inog meg, Isten lakik benne
 
 [Capitulum Sexta]
-!Eccl 24:15-16
+!Sir 24:15-16
 v. És így Sionban megerösíttettem, és a megszentelt városban hasonlóképen megnyugodtam, és Jerusalemben az én hatalmam. És meggyökereztem a tiszteletre méltó nép között, és az én Istenem részében, mely az ö öröksége; és a szentek teljes gyülekezetében az én tartózkodásom.
 $Deo gratias.
 
@@ -245,7 +245,7 @@ V. Isten választotta őt születése előtt
 R. Hogy sátraban lakjék színe előtt
 
 [Capitulum Nona]
-!Eccl 24:19-20
+!Sir 24:19-20
 v. Mint a platanus viz mellett az utcákon, mint a fahéj és illatozó balzsam illatoztam, s mint a válogatott mirrha adtam a jóillat gyönyörüségét;
 $Deo gratias.
 

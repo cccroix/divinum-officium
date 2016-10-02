@@ -3,7 +3,7 @@ V. Áldj meg minket, uram.
 Benedictio. Békés éjszakát és tökéletes befejezést adjon nekünk a mindenható Úr. Ámen.
 
 #Lectio brevis
-!1 Petri 5:8-9
+!1Pét 5:8-9
 Testvérek: Józanok legyetek és vigyázzatok, mert a ti ellenségetek, az ördög, mint az ordító oroszlán, körüljár, keresvén, akit elnyeljen; kinek erős hittel álljatok ellen.
 $Tu autem
 
@@ -44,7 +44,7 @@ Mindörökkön uralkodó.
 Ámen.
 
 #Capitulum Responsory Versus
-!Jerem 14:9
+!Jer 14:9
 v. Holott te, Uram, közöttünk vagy, és a te neved segítségül hívatott miránk; ne hagyj el minket Urunk, Istenünk.
 R. Istennek legyen hála.
 _

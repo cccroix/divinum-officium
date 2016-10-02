@@ -8,7 +8,7 @@ R. And let there descend upon us thy mercy.
 
 [Lectio1]
 A Makkabeusok második könyvének kezdete
-!2 Mach 1:1-6
+!2 Mac 1:1-6
 1 Üdvözlet testvéreinknek, az Egyiptomban élő zsidóknak! Testvéreitek, a~
 Jeruzsálemben és Júdeában élő zsidók minden jót kívánnak.
 2 Halmozzon el benneteket az Isten jótéteményeivel, és emlékezzék meg hűséges~
@@ -25,7 +25,7 @@ szorongattatás idején.
 @Tempora/101-0:Responsory1
 
 [Lectio2]
-!2 Mach 1:18-19
+!2 Mac 1:18-19
 18 Amikor Kiszleu hónap huszonötödik napján meg akartuk ünnepelni a templom~
 megtisztítását, illőnek tartottuk, hogy ti is üljétek meg a sátoros ünnepet és a~
 tűz ünnepét annak emlékére, hogy Nehemiás fölépítette a templomot és az~
@@ -38,7 +38,7 @@ tüzet az égőáldozatok oltáráról, és elrejtették egy kiszáradt kúthoz 
 @Tempora/101-0:Responsory2
 
 [Lectio3]
-!2 Mach 1:20-22
+!2 Mac 1:20-22
 20 Évek múltán úgy tetszett az Úrnak, hogy a perzsa király hazaengedje~
 Nehemiást. Ekkor elküldte azoknak a papoknak az utódait a tűzért, akik~
 elrejtették. Amikor ezek jelentették, hogy nem találtak tüzet, csak iszapos~

@@ -135,7 +135,7 @@ throughout the universal Church with an office and Mass.
 @Commune/C1:Lectio9
 
 [Capitulum Laudes]
-!1 Petri 4:12-13
+!1 Pet 4:12-13
 v. Szeretteim, ne lepődjetek meg azokon az égő fájdalmakon, amelyek~
 megpróbáltatásul értek benneteket, mintha valami hallatlan dolog esett volna~
 veletek. Ehelyett inkább örüljetek, hogy részetek lehet Krisztus szenvedéseiben,~
@@ -183,13 +183,13 @@ Behold how good * and how pleasant it is for brethren to dwell together in~
 unity.
 
 [Capitulum Tertia]
-!1 Petri 4:13
+!1 Pet 4:13
 v. Szeretteim, örüljetek, hogy részetek lehet Krisztus szenvedéseiben,~
 hogy dicsősége megnyilvánulása napján majd ujjongva örülhessetek.
 $Deo gratias
 
 [Capitulum Vespera]
-!1 Petri 4:13
+!1 Pet 4:13
 v. Szeretteim, örüljetek, hogy részetek lehet Krisztus szenvedéseiben,~
 hogy dicsősége megnyilvánulása napján majd ujjongva örülhessetek.
 $Deo gratias

@@ -238,7 +238,7 @@ R. And upon her head a crown of twelve stars.
 
 [Lectio7]
 Evangélium szent Lukács Evangélista kőnyvéből
-!Luc 1:26-28
+!Luke 1:26-28
 Azon időben Isten elküldte Gábor angyalt Galilea Názáret nevű városába egy~
 szűzhöz, aki egy Dávid házából való férfinak, Józsefnek volt a jegyese, és~
 Máriának hívták. És így tovább.
@@ -345,7 +345,7 @@ The Lord God said * to the serpent: I will put enmities between thee and the~
 woman, and thy seed and her seed: she shall crush thy head, alleluja.
 
 [Lectio Prima]
-!Apoc 12:1
+!Rev 12:1
 v. Az égen nagy jel tűnt fel: egy asszony, öltözete a Nap, lába alatt a Hold,~
 fején tizenkét csillagból korona.
 
@@ -368,7 +368,7 @@ V. By this I know that Thou favourest me.
 R. Because mine enemy shall not triumph over me.
 
 [Capitulum Sexta]
-!Ezech 44:2-3
+!Ezek 44:2-3
 v. Ez a kapu legyen zárva! Nem szabad kinyitni, senki sem léphet be rajta, mert~
 az Úr, Izrael Istene vonult át rajta, ezért kell zárva maradnia. Csak a~
 fejedelem ülhet benne
@@ -386,7 +386,7 @@ V. I will extol thee, O Lord, for Thou hast lifted me up.
 R. And hast not made my foes to rejoice over me.
 
 [Capitulum Nona]
-!Apoc 12:1
+!Rev 12:1
 v. Az égen nagy jel tűnt fel: egy asszony, öltözete a Nap, lába alatt a Hold,~
 fején tizenkét csillagból korona.
 $Deo gratias

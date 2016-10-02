@@ -13,7 +13,7 @@ $Per Dominum
 
 [Lectio1]
 Olvasmány Jeremiás próféta könyvéből
-!Jerem 1:1-10
+!Jer 1:1-10
 1 Jeremiásnak, Hilkija fiának a szavai, aki abból a papi családból származott, amely a Benjamin földjén levő Anatotban lakott.
 2 Az Úr Jozijának, Ámon fiának, Júda királyának napjaiban, uralkodásának 13. esztendejében intézte hozzá szózatait,
 3 aztán Jojákimnak, Jozija fiának, Júda királyának napjaiban is, egészen addig, míg Cidkijának, Jozija fiának, Júda királyának 11. esztendeje el nem telt, amikor is fogságba vitték Jeruzsálemet, az ötödik hónapban.
@@ -32,7 +32,7 @@ V. The Lord spake unto Moses, saying Speak unto the children of Israel, and say 
 R. In the fourteenth day at even is the Lord's Passover, and on the fifteenth day ye shall keep a Feast unto the Lord, the Most High.
 
 [Lectio2]
-!Jerem 1:11-16
+!Jer 1:11-16
 11 Aztán az Úr szólt és megkérdezte tőlem: "Mit látsz, Jeremiás?" Erre így feleltem: "Korán virágzó fának ágát látom."
 12 Az Úr erre azt mondta: "Jól látod. Mert jó korán virrasztok szavam fölött, hogy beteljesítsem."
 13 Másodszor is szólt hozzám az Úr: "Mit látsz még?" Ezt feleltem: "Forró fazekat látok, amelynek tartalma észak felől buzog."
@@ -47,7 +47,7 @@ V. Lest mine enemy say I have prevailed against him.
 R. Arise, O Lord! Save me, O my God!
 
 [Lectio3]
-!Jerem 1:17-19; 2:1-3
+!Jer 1:17-19; 2:1-3
 17 Azért hát övezd fel derekadat: kelj föl és mondd el nekik mind, amit parancsolok neked. Ne ijedj meg tőlük, különben én ijesztelek meg a szemük előtt.
 18 Én meg a mai napon erős várossá teszlek; vasoszloppá és ércfallá az egész ország ellenében; Júda királyai és főemberei ellen, papjai és egész népe ellen.
 19 Harcolni fognak ugyan ellened, de nem győznek le, mert veled vagyok és megszabadítalak - mondja az Úr.
@@ -96,7 +96,7 @@ R. O Lord, my trouble is near, and there is none to help me; or ever they pierce
 
 [Lectio7]
 Evangélium szent János Apostol kőnyvéből
-!Joann 8:46-59
+!John 8:46-59
 Azon időben mondá Jézus a zsidók seregeinek: Ki vádolhat bűnnel közületek? Ha meg az igazságot hirdetem, miért nem hisztek nekem? És így tovább.
 _
 Homily by Pope St Gregory (the Great)
@@ -137,7 +137,7 @@ O My people, what have I done unto thee? * or wherein have I wearied thee? testi
 Shall evil be recompensed for good? * for they have digged a pit for My soul.
 
 [Capitulum Laudes]
-!Hebr 9:11-12
+!Heb 9:11-12
 v. Testvérek: Krisztus azonban a ránk váró javak főpapjaként jött el, s belépett abba a nagyobb és tökéletesebb sátorba, amelyet nem ember keze alkotott, vagyis nem ebből a világból való. Nem a bakok vagy borjak vérével, hanem saját vérével lépett be egyszer s mindenkorra a szentélybe, és örök megváltást szerzett.
 $Deo gratias
 
@@ -151,7 +151,7 @@ I have not a devil; * but I honour My Father, and ye do dishonour Me, saith the 
 I seek not Mine Own glory; * there is One That seeketh and judgeth.
 
 [Capitulum Tertia]
-!Hebr 9:11-12
+!Heb 9:11-12
 v. Testvérek: Krisztus azonban a ránk váró javak főpapjaként jött el, s belépett abba a nagyobb és tökéletesebb sátorba, amelyet nem ember keze alkotott, vagyis nem ebből a világból való. Nem a bakok vagy borjak vérével, hanem saját vérével lépett be egyszer s mindenkorra a szentélybe, és örök megváltást szerzett.
 $Deo gratias
 
@@ -159,7 +159,7 @@ $Deo gratias
 Amen, Amen, * I say unto you If a man keep My saying, he shall never see death.
 
 [Capitulum Sexta]
-!Hebr 9:13-14
+!Heb 9:13-14
 v. Ha ugyanis a bakok és bikák vére meg az üsző hamva a tisztátalanokra hintve külsőleg tisztává teszi őket, mennyivel inkább megtisztítja lelkiismeretünket a holt cselekedetektől Krisztus vére, aki az örök Lélek által saját magát adta tiszta áldozatul az Istennek, hogy az élő Istennek szolgáljunk.
 $Deo gratias
 
@@ -167,12 +167,12 @@ $Deo gratias
 Then took the Jews up stones * to cast at Him but Jesus hid Himself, and went out of the temple.
 
 [Capitulum Nona]
-!Hebr 9:15
+!Heb 9:15
 v. Ezért ő új szövetség közvetítője. Előbb azonban a régi szövetség korában elkövetett bűnök megváltásáért el kellett szenvednie a halált, hogy a meghívottak elnyerjék az örökké tartó örökséget.
 $Deo gratias
 
 [Capitulum Vespera]
-!Hebr 9:11-12
+!Heb 9:11-12
 v. Krisztus azonban a ránk váró javak főpapjaként jött el, s belépett abba a nagyobb és tökéletesebb sátorba, amelyet nem ember keze alkotott, vagyis nem ebből a világból való. Nem a bakok vagy borjak vérével, hanem saját vérével lépett be egyszer s mindenkorra a szentélybe, és örök megváltást szerzett.
 $Deo gratias
 

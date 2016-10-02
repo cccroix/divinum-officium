@@ -1,6 +1,6 @@
 [Lectio1]
 Ezékiel Próféta könyvéből
-!Ezech 13:1-6
+!Ezek  13:1-6
 1 Az Úr szózatot intézett hozzám: 
 2 Emberfia, jövendölj Izrael prófétái ellen, jövendölj és mondd meg azoknak, akik maguktól jövendölnek: Halljátok az Úr szavát! 
 3 Ezt mondja az Úr, az Isten: Jaj az esztelen prófétáknak, akik saját lelküket követik és semmit sem látnak! 
@@ -12,7 +12,7 @@ Ezékiel Próféta könyvéből
 @Tempora/Pent01-0:Responsory1
 
 [Lectio2]
-!Ezech 13:7-10
+!Ezek 13:7-10
 7 Nemde igaz, hogy hamisak látomásaitok és hazugságokat jövendöltök, amikor azt mondjátok: "Az Úr mondja", noha nem szóltam? 
 8 Ezért így beszélj: Ezt mondja az Úr, az Isten: Hazug beszédeitek és hamis látomásaitok miatt ellenetek fordulok - mondja az Úr, az Isten. 
 9 Azokon a prófétákon, akik hamis látomást láttak és hazugságokat jövendöltek, rajtuk lesz a kezem: nem jutnak be népem tanácsába, nem lesznek benne Izrael házának jegyzékében, nem mennek be Izrael földjére, hadd tudjátok meg, hogy én vagyok az Úr, az Isten. 
@@ -22,7 +22,7 @@ Ezékiel Próféta könyvéből
 @Tempora/111-0:Responsory2
 
 [Lectio3]
-!Ezech 13:11-14
+!Ezek 13:11-14
 11 Mondd meg azoknak, akik bemeszelték: Hirtelen zápor támad, jégeső esik, viharos szél fog dühöngeni. 
 12 S a fal leomlik. Ugye, akkor majd megkérdezik: Hol van a vakolat, amivel befödtétek? 
 13 Ezért ezt mondja az Úr, az Isten: Heves szélvihart támasztok haragomban, pusztító záport küldök bosszúmban és jégesőt indulatomban, hogy teljesen megsemmisítse. 

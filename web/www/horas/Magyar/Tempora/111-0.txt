@@ -8,7 +8,7 @@ R. And let there descend upon us thy mercy.
 
 [Lectio1]
 Ezékiel Próféta könyvének kezdete
-!Ezech 1:1-4
+!Ezek 1:1-4
 1 A 30. esztendőben, a negyedik hónapban, a hónap ötödik napján, amikor a~
 száműzöttek között voltam a Kebár folyó mellett, megnyílt az ég, és isteni~
 látomás tanúja voltam.
@@ -23,7 +23,7 @@ mint az érc.
 @Tempora/Pent01-0:Responsory1
 
 [Lectio2]
-!Ezech 1:5-9
+!Ezek 1:5-9
 5 Középütt kivettem valamit, amely négy élőlényhez hasonlított. Emberi formájuk~
 volt.
 6 Mindegyiknek négy arca és mindegyiknek négy szárnya volt.
@@ -42,7 +42,7 @@ V. Give ear, O Shepherd of Israel, Thou That leadest Joseph like a flock.
 R. Open thine eyes, and behold our desolation.
 
 [Lectio3]
-!Ezech 1:10-12
+!Ezek 1:10-12
 10 Arcuk emberi archoz hasonlított, és jobb felől mind a négynek oroszlánarca~
 volt, bal felől meg mind a négynek bikaarca volt, s mind a négynek sasarca volt.
 11 Szárnyaik felül ki voltak terjesztve. Két szárnya mindegyiknek összeért,~

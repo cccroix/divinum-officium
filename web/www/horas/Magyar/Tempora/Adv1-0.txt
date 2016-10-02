@@ -13,7 +13,7 @@ Ti szomjazók, * gyertek a vizekre mind, keressétek az Urat, amíg megtaláljá
 Íme a nagy próféta jő * és megújítja Jeruzsálemet, alleluja.
 
 [Capitulum Vespera]
-!Rom 13:11
+!Róm 13:11
 v. Testvérek: Itt az óra az álomból fölkelnünk; mert most közelebb vagyon a mi üdvösségünk, mint mikor hívőkké lettünk.
 $Deo gratias.
 
@@ -28,7 +28,7 @@ $Qui vivis
 
 [Lectio1]
 Olvasmány Izajás próféta könyvéből
-!Isai 1:1-3
+!Iz 1:1-3
 1 Izajásnak, Ámosz fiának látomása, melyet Júda és Jeruzsálem felől látott, Júda királyai, Oziás, Joátán, Ákáz és Ezekiás napjaiban.
 2 Halljátok, egek, és vedd füleidbe, föld, mert az Úr szól. Fiakat neveltem és fölmagasztaltam, ők pedig megvetettek engem.
 3 Megismeri az ökör gazdáját, és a szamár ura jászolát; Izrael pedig nem ismer engem, és az én népem nem ért.
@@ -42,7 +42,7 @@ V.  Lift up your heads, O ye gates, and be ye lift up, ye everlasting doors, and
 R.  I look from afar, and behold I see the Power of God, coming like as a cloud to cover the land with the hosts of his People: * Go ye out to meet him and say: * Tell us if thou art he, * That shalt reign over God's people Israel.
 
 [Lectio2]
-!Isai 1:4-6
+!Iz 1:4-6
 4 Jaj a vétkes nemzetnek, a gonoszsággal terhelt népnek, az elvetemült ivadéknak, a bűnbe rögzött fiaknak; elhagyták az Urat, káromlották Izrael szentjét, hátat fordítva, elidegenedtek.
 5 Hova verjelek még titeket, kik a vétket halmozzátok? Az egész fő beteg, az egész szív keseredett.
 6 Tetőtől talpig nincs benne épség, seb és kékség, földagadt kelés, be nem kötözve, sem orvossággal nem gyógyítva, sem olajjal nem enyhítve.
@@ -54,7 +54,7 @@ V. Az ő hatalma örökkévaló hatalom, mely el nem vétetik, és királysága,
 R. És minden nép, nemzetség és nyelv neki szolgál.
 
 [Lectio3]
-!Isai 1:7-9
+!Iz 1:7-9
 7 Földetek puszta, városaitok tűzzel égettek, tartományotokat szemetek láttára idegenek emésztik föl, és elpusztul az, mint ellenséges pusztítás által.
 8 És Sion leánya elhagyatik, mint a levélszín a szőlőben, mint a kaliba az uborkás kertben, és mint a város, mely elpusztíttatik.
 9 Ha a seregek Ura ivadékot nem hagy nekünk, lettünk volna, mint Szodoma, és hasonlók volnánk Gomorrához.
@@ -130,7 +130,7 @@ R. And deliver us.
 
 [Lectio7]
 Evangélium Szent Lukács könyvéből.
-!Luc 21:25-33
+!Lk 21:25-33
 Azon időben mondá Jézus tanítványainak: Jelek lesznek a napban és holdban és csillagokban, és a földön a népek szorongatása kétségbeeséssel. És így tovább.
 _
 Homily by Pope St Gregory (the Great,)
@@ -191,7 +191,7 @@ Ti szomjazók, * gyertek a vizekre mind, keressétek az Urat, amíg megtaláljá
 Íme a nagy próféta jő * és megújítja Jeruzsálemet, alleluja.
 
 [Capitulum Laudes]
-!Rom 13:11
+!Róm 13:11
 v. Testvérek: Itt az óra az álomból fölkelnünk; mert most közelebb vagyon a mi üdvösségünk, mint mikor hívőkké lettünk.
 $Deo gratias.
 
@@ -199,12 +199,12 @@ $Deo gratias.
 A Szentlélek * száll le reád, Mária, ne félj, méhedben az Isten Fia fogan, alleluja.
 
 [Capitulum Tertia]
-!Rom 13:11
+!Róm 13:11
 v. Testvérek: Itt az óra az álomból fölkelnünk; mert most közelebb vagyon a mi üdvösségünk, mint mikor hívőkké lettünk.
 $Deo gratias.
 
 [Capitulum Sexta]
-!Rom 13:12
+!Róm 13:12
 v. Az éj elmúlt, a nap pedig elközelgetett. Vessük el tehát a sötétség cselekedeteit, és öltözzünk a világosság fegyvereibe.
 $Deo gratias
 

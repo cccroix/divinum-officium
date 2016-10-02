@@ -15,7 +15,7 @@ See ye fountains, * and all that move in the waters, ascribe ye praise to God. A
 The Apostles spake in divers tongues * the wonderful works of God. Alleluja, Alleluja, Alleluja.;;116
 
 [Capitulum Vespera]
-!Act 2:1-2
+!Acts 2:1-2
 v. Amikor elérkezett pünkösd napja, ugyanazon a helyen mindnyájan együtt voltak. Egyszerre olyan zúgás támadt az égből, mintha csak heves szélvész közeledett volna, és egészen betöltötte a házat, ahol ültek.
 $Deo gratias
 
@@ -126,7 +126,7 @@ R. And That Which containeth all things hath knowledge of the voice. Alleluja.
 
 [Lectio1]
 Evangélium szent János Apostol kőnyvéből
-!Joann 14:23-31
+!John 14:23-31
 Azon időben mondá Jézus tanítványainak: Aki szeret engem, az megtartja tanításomat, s Atyám is szeretni fogja. Hozzá megyünk és benne fogunk lakni. És így tovább.
 _
 Homily by Pope St Gregory the Great.
@@ -163,7 +163,7 @@ See ye fountains, * and all that move in the waters, ascribe ye praise to God. A
 The Apostles spake in divers tongues * the wonderful works of God. Alleluja, Alleluja, Alleluja.
 
 [Capitulum Laudes]
-!Act 2:1-2
+!Acts 2:1-2
 v. Amikor elérkezett pünkösd napja, ugyanazon a helyen mindnyájan együtt voltak. Egyszerre olyan zúgás támadt az égből, mintha csak heves szélvész közeledett volna, és egészen betöltötte a házat, ahol ültek.
 $Deo gratias
 
@@ -212,7 +212,7 @@ R. And began to speak Alleluja.
 Receive ye the Holy Ghost * whoseoever sins ye remit, they are remitted unto them. Alleluja.
 
 [Lectio Prima]
-!Act 2:11
+!Acts 2:11
 v. krétaiak és arabok: halljuk, hogy a mi nyelvünkön hirdetik Isten nagy tetteit.
 
 [Hymnus Tertia]
@@ -253,7 +253,7 @@ Most és örök időkön át.
 Ámen.
 
 [Capitulum Tertia]
-!Act 2:1-2
+!Acts 2:1-2
 v. Amikor elérkezett pünkösd napja, ugyanazon a helyen mindnyájan együtt voltak. Egyszerre olyan zúgás támadt az égből, mintha csak heves szélvész közeledett volna, és egészen betöltötte a házat, ahol ültek.
 $Deo gratias
 
@@ -269,7 +269,7 @@ V. The Comforter, Which is the Holy Ghost Alleluja.
 R. He shall teach you all things Alleluja.
 
 [Capitulum Sexta]
-!Act 2:6
+!Acts 2:6
 v. Amikor ez a zúgás támadt, nagy tömeg verődött össze. Nagy volt a megdöbbenés, mert mindenki a saját nyelvén hallotta, amint beszéltek.
 $Deo gratias
 
@@ -285,7 +285,7 @@ V. They were all filled with the Holy Ghost Alleluja.
 R. And began to speak Alleluja.
 
 [Capitulum Nona]
-!Act 2:11
+!Acts 2:11
 v. Zsidók és prozeliták, krétaiak és arabok: halljuk, hogy a mi nyelvünkön hirdetik Isten nagy tetteit.
 $Deo gratias
 

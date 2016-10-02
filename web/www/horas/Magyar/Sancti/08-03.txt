@@ -13,7 +13,7 @@ Stephen saw the heavens opened * he saw and entered in blessed is he unto whom t
 Behold, I see * the heavens opened, and Jesus standing on the right hand of the power of God;;116
 
 [Capitulum Vespera]
-!Act 6:8
+!Acts 6:8
 v. István kegyelemmel és erővel eltelve nagy csodákat és jeleket művelt a nép körében.
 $Deo gratias
 
@@ -30,7 +30,7 @@ $Qui tecum
 
 [Lectio1]
 Olvasmány az Apostolok Cselekedeiből
-!Act 7:51-54
+!Acts 7:51-54
 51 Ti vastagnyakúak, ti körülmetéletlen szívűek és fülűek, mindig ellenálltatok a Szentléleknek, s mint atyáitok, olyanok vagytok ti is.
 52 Melyik prófétát nem üldözték atyáitok? Mind megölték azokat, akik az Igaz eljöveteléről jövendöltek. S most ti lettetek árulói és gyilkosai,
 53 ti, akik az angyalok közreműködésével átvettétek a törvényt, de nem tartottátok meg."
@@ -43,7 +43,7 @@ V. There arose certain of the synagogue, disputing with Stephen and they were no
 R. Did great wonders and miracles among the people.
 
 [Lectio2]
-!Act 7:55-58
+!Acts 7:55-58
 55 Ő azonban a Szentlélekkel eltelve fölnézett az égre és látta az Isten dicsőségét és Jézust az Isten jobbján.
 56 Felkiáltott: "Látom, hogy nyitva az ég, és az Emberfia ott áll az Isten jobbján."
 57 Erre ordítozni kezdtek, befogták fülüket, s egy akarattal rárontottak,
@@ -56,7 +56,7 @@ V. Full of grace and power, he did great wonders and miracles among the people.
 R. His face as it had been the face of an angel standing among them.
 
 [Lectio3]
-!Act 7:59; 8:1-2
+!Acts 7:59; 8:1-2
 59 Míg kövezték Istvánt, így imádkozott: "Uram, Jézus, vedd magadhoz lelkemet!"
 1 És Saul helyeselte meggyilkolását. Azon a napon nagy üldözés tört ki a jeruzsálemi egyház ellen. Az apostolok kivételével mindnyájan elszéledtek Júdea és Szamaria tájékára.
 2 Istvánnak az istenfélő emberek megadták a végtisztességet, s nagyon megsiratták.
@@ -103,7 +103,7 @@ R. But he received the stones with joy, that he might earn a crown of glory.
 
 [Lectio7]
 Evangélium szent Máté Apostol kőnyvéből
-!Matth 23:34-39
+!Matt 23:34-39
 Abban az időben így szólt Jézus a farizeusokhoz: Nos, prófétákat, bölcseket és írástudókat küldök hozzátok. Közülük némelyeket megöltök és keresztre feszíttek. És így tovább.
 _
 Homily on this passage by St Jerome, Priest (at Bethlehem.)
@@ -142,7 +142,7 @@ Stephen saw * the heavens opened he saw and entered in blessed is he unto whom t
 Behold, I see * the heavens opened, and Jesus standing on the right hand of the power of God
 
 [Capitulum Laudes]
-!Act 6:8
+!Acts 6:8
 v. István kegyelemmel és erővel eltelve nagy csodákat és jeleket művelt a nép körében.
 $Deo gratias
 
@@ -154,11 +154,11 @@ R. And made great lamentation over him.
 And Stephen * full of grace and power, did great wonders and miracles among the people.
 
 [Lectio Prima]
-!Act 7:59
+!Acts 7:59
 v. Míg kövezték Istvánt, így imádkozott: "Uram, Jézus, vedd magadhoz lelkemet!" Majd térdre esett és hangosan felkiáltott: "Uram, ne ródd fel nekik bűnül!"
 
 [Capitulum Tertia]
-!Act 6:8
+!Acts 6:8
 v. István kegyelemmel és erővel eltelve nagy csodákat és jeleket művelt a nép körében.
 $Deo gratias
 
@@ -174,7 +174,7 @@ V. O Lord, Thou hast set a crown of precious stones
 R. Upon his head.
 
 [Capitulum Sexta]
-!Act 6:9-10
+!Acts 6:9-10
 v. Erre a libertinusok, cireneiek, alexandriaiak, kilikiaiak és ázsiaiak zsinagógájából némelyek ellene támadtak, és vitatkozni kezdtek Istvánnal, de bölcsességével és a Lélekkel szemben, amellyel beszélt, nem tudtak ellenállni.
 $Deo gratias
 
@@ -190,7 +190,7 @@ V. His glory is great in thy salvation.
 R. Honour and great majesty shalt Thou lay upon him.
 
 [Capitulum Nona]
-!Act 7:59
+!Acts 7:59
 v. Míg kövezték Istvánt, így imádkozott: "Uram, Jézus, vedd magadhoz lelkemet!" Majd térdre esett és hangosan felkiáltott: "Uram, ne ródd fel nekik bűnül!"
 $Deo gratias
 

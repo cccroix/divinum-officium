@@ -196,7 +196,7 @@ in the City dedicated to St. Cecilia.
 
 [Lectio7]
 Evangélium szent Máté Apostol kőnyvéből
-!Matth 25:1-13
+!Matt 25:1-13
 Abban az időben így szólt Jézus tanítványaihoz: A mennyek országa hasonlít a~
 tíz szűzhöz, akik fogták lámpásukat, és a vőlegény elé mentek. És így tovább.
 _

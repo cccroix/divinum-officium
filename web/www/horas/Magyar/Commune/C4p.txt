@@ -15,7 +15,7 @@ O all ye Priests of God, * bless ye the Lord O all ye servants of the Lord, sing
 Good and faithful servant, * enter thou into the joy of thy Lord. Alleluja;;116
 
 [Capitulum Vespera]
-!Eccl 44:16-17
+!Sir 44:16-17
 v. Ime a nagy főpap aki a maga idejében tetszett az Urnak, igaznak bizonyult és a haragnapján engesztelés lett
 $Deo gratias
 
@@ -77,7 +77,7 @@ R. Enter thou into the joy of thy Lord. Alleluja
 
 [Lectio2]
 Szent Pál Apostolnak Tituszhoz írott leveléből
-!Tit 1:7-11
+!Titus 1:7-11
 7 A püspök ugyanis, mint az Isten megbízottja, legyen feddhetetlen, ne legyen önhitt, ingerlékeny, iszákos, erőszakos, kapzsi,
 8 hanem legyen vendégszerető, jóakaratú, megfontolt, igaz, tisztességes, fegyelmezett.
 9 Álljon szilárdan a hiteles tanítás alapján, hogy éppúgy képes legyen az egészséges tanítással buzdítani, mint az ellentmondókat megcáfolni.
@@ -91,7 +91,7 @@ V. He hath made him a blessing unto all nations, and hath established His covena
 R. Therefore the Lord assured him by an oath that He would multiply his seed among His people Alleluja
 
 [Lectio3]
-!Tit 2:1-8
+!Titus 2:1-8
 1 Te ellenben azt hirdesd, ami az üdvös tanításnak megfelel.
 2 Az idős férfiak józanok, tisztességesek, megfontoltak legyenek a hitben, szeretetben és türelemben.
 3 Az idős asszonyok hasonlóképpen legyenek komoly magaviseletűek, senkit se rágalmazzanak, ne igyanak sok bort, hanem tanítsanak a jóra.
@@ -143,7 +143,7 @@ R. May he pray for all people, that their sins may be forgiven unto them Alleluj
 
 [Lectio7]
 Evangélium szent Máté Apostol kőnyvéből
-!Matth 25:14-23
+!Matt 25:14-23
 14 Úgy lesz, mint azzal az emberrel, aki idegenbe készült. Összehívta szolgáit, s rájuk bízta vagyonát. És így tovább.
 _
 Homily by Pope St Gregory [the Great.]
@@ -179,7 +179,7 @@ O all ye Priests of God, * bless ye the Lord O all ye servants of the Lord, sing
 Good and faithful servant, * enter thou into the joy of thy Lord. Alleluja
 
 [Capitulum Laudes]
-!Eccl 44:16-17
+!Sir 44:16-17
 v. Ime a nagy főpap aki a maga idejében tetszett az Urnak, igaznak bizonyult és a haragnapján engesztelés lett.
 $Deo gratias
 
@@ -206,11 +206,11 @@ Istenünk, aki az örök üdvösseget adtad szent N. szolgádnak, add hogy akik 
 $Per Dominum.
 
 [Lectio Prima]
-!Eccl 45:19-20
+!Sir 45:19-20
 v. Örök szövetséget kötött vele, nem talál magához hasonlót dicsőségben; ő megtartotta a Fölséges törvényét, és szövetségben volt vele.
 
 [Capitulum Tertia]
-!Eccl 44:16-19
+!Sir 44:16-19
 v. Ime a nagy főpap aki a maga idejében tetszett az Urnak, igaznak bizonyult és a haragnapján engesztelés lett
 $Deo gratias
 
@@ -226,7 +226,7 @@ V. Az Úr kiválasztotta őt papjául
 R. Hogy bemutassa a dicséret ádozatát
 
 [Capitulum Sexta]
-!Eccl 44:20; 44:22
+!Sir 44:20; 44:22
 v. Nincs hozzá hasonló aki ugyanűgy megtartaná az Úr törvényét. Ezért az Úr megesküdőtt és népe fölé helyezte őt
 $Deo gratias
 
@@ -242,7 +242,7 @@ V. Te pap vagy mindörökké
 R. Melkizedek rendje szerint`
 
 [Capitulum Nona]
-!Eccl 45:19-20
+!Sir 45:19-20
 v. Örök szövetséget kötött vele, nem talál magához hasonlót dicsőségben; ő megtartotta a Fölséges törvényét, és szövetségben volt vele.
 $Deo gratias
 

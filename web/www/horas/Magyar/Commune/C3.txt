@@ -15,7 +15,7 @@ O all ye Martyrs of the Lord, bless ye the Lord * for ever;;112
 O ye Martyrs, * praise ye the Lord from the heavens, praise Him with the dance, alleluja;;116
 
 [Capitulum Vespera]
-!Sap 3:1-3
+!Wis 3:1-3
 v. Az igazak lelke azonban Isten kezében van, és gyötrelem nem érheti őket. Az esztelenek szemében úgy látszott, hogy meghaltak; a világból való távozásukat balsorsnak vélték, elmenetelüket megsemmisülésnek. De békességben vannak.
 $Deo gratias.
 
@@ -190,7 +190,7 @@ R. For the grace of God, and His peace, are with His chosen.
 
 [Lectio7]
 Evangélium szent Lukács Evangélista kőnyvéből
-!Luc 21:9-19
+!Luke 21:9-19
 Azon időben így szólt Jézus tanitványaihoz: Amikor háborúkról és lázadásokról hallotok, ne rémüldözzetek. Ilyeneknek kell előbb történniük, de ezzel még nincs itt a vég! És így tovább.
 _
 Homily by Pope St Gregory (the Great.)
@@ -227,7 +227,7 @@ O all ye Martyrs of the Lord, bless ye the Lord * for ever.
 O ye Martyrs, * praise ye the Lord from the heavens, praise Him with the dance, alleluja
 
 [Capitulum Laudes]
-!Sap 3:1-3
+!Wis 3:1-3
 v. Az igazak lelke azonban Isten kezében van, és gyötrelem nem érheti őket. Az esztelenek szemében úgy látszott, hogy meghaltak; a világból való távozásukat balsorsnak vélték, elmenetelüket megsemmisülésnek. De békességben vannak.
 $Deo gratias
 
@@ -273,11 +273,11 @@ Isten, aki megőrvendeztetsz mindket szent vértanúid mennyei születésnapján
 $Per Dominum
 
 [Lectio Prima]
-!Sap 3:7-8
+!Wis 3:7-8
 v. Látogatásuk idején majd felragyognak, és olyanok lesznek, mint a szikra, amely a tarlón tovaharapódzik. Nemzetek fölött ítélkeznek majd és népeken uralkodnak; s az Úr lesz a királyuk mindörökre.
 
 [Capitulum Tertia]
-!Sap 3:1-3
+!Wis 3:1-3
 v. Az igazak lelke azonban Isten kezében van, és gyötrelem nem érheti őket. Az esztelenek szemében úgy látszott, hogy meghaltak; a világból való távozásukat balsorsnak vélték, elmenetelüket megsemmisülésnek. De békességben vannak.
 $Deo gratias.
 
@@ -293,7 +293,7 @@ V. Az igazak örüljenek Isten színe előtt
 R. Ujjongjanak örömükben.
 
 [Capitulum Sexta]
-!Sap 10:17
+!Wis 10:17
 v. Az igazaknak megadta a jutalmat fáradozásaikért, vezette őket csodás utakon, és nappal hajlékul szolgált nekik, éjjel meg csillagfényül.
 $Deo gratias
 
@@ -309,7 +309,7 @@ V. Az igazaké az örök élet
 R. Az Úrnál van a jutalmuk
 
 [Capitulum Nona]
-!Sap 3:7-8
+!Wis 3:7-8
 v. Látogatásuk idején majd felragyognak, és olyanok lesznek, mint a szikra, amely a tarlón tovaharapódzik. Nemzetek fölött ítélkeznek majd és népeken uralkodnak; s az Úr lesz a királyuk mindörökre.
 $Deo gratias
 
@@ -340,7 +340,7 @@ A mennyben örvendeznek * a szentek lelkei akik követték Krisztus útját; vé
 
 [Lectio71]
 Evangélium szent Lukács Evangélista kőnyvéből
-!Luc 6:17-23
+!Luke 6:17-23
 Aztán Jézus lejött velük a hegyről és egy sík terepen megállt. Rengeteg tanítvány sereglett oda hozzá, s hatalmas tömeg gyűlt köré egész Júdeából, Jeruzsálemből, valamint a tíruszi és szidoni tengermellékről, És így tovább.
 _
 Homily by St Ambrose, Bishop (of Milan.)

@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 Incipit liber Actuum Apostolorum.
-!Act 1:1-8
+!Acts 1:1-8
 1 Első könyvemben, kedves Teofil, elbeszéltem, mi mindent tett és tanított Jézus
 2 egészen addig a napig, amelyen azután, hogy útbaigazítást adott a Szentlélek~
 által kiválasztott apostoloknak, fölvétetett a mennybe.
@@ -31,12 +31,12 @@ határáig."
 @Tempora/Pasc0-2:Responsory1
 
 [Lectio2]
-!Act 1:9-14
+!Acts 1:9-14
 9 Azután, hogy ezeket mondta, a szemük láttára fölemelkedett, és felhő takarta~
 el szemük elől.
 10 Amint merőn nézték, hogyan emelkedik az égbe, egyszerre két férfi termett~
 mellettük fehér ruhába öltözve.
-11 Ezt mondták nekik: "Galileai férfiak!Mich álltok itt égre emelt tekintettel?~
+11 Ezt mondták nekik: "Galileai férfiak! Mit álltok itt égre emelt tekintettel?~
 Ez a Jézus, aki tőletek az égbe vétetett, úgy jön el ismét, amint szemetek~
 láttára a mennybe ment."
 12 Erre az Olajfákról elnevezett hegyről, amely Jeruzsálemtől egy szombatnapi~
@@ -51,7 +51,7 @@ Máriával, Jézus anyjával és testvéreivel együtt.
 @Tempora/Pasc0-2:Responsory2
 
 [Lectio3]
-!Act 1:15-26
+!Acts 1:15-26
 15 Ezekben a napokban a testvérek körében - mintegy százhúszan lehettek együtt~
 Péter szólásra emelkedett:
 16 "Testvérek, férfiak! Be kellett teljesednie az Írásnak, amelyet a Szentlélek~

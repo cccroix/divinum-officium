@@ -7,7 +7,7 @@ Feria Te Deum
 
 [Lectio1]
 From the Book of Revelation of St John Apostle
-!Apoc 22:1-7
+!Rev 22:1-7
 1 És megmutatta nekem az élet folyóját, kristályhoz hasonlóan ragyogott, Isten~
 és a Bárány trónjából fakadt.
 2 Az utca közepén és a folyam két partján az élet fái álltak. Tizenkétszer~
@@ -38,7 +38,7 @@ R. And David [was with the singers, (and) played upon an harp in the house of~
 the Lord, and sung praises unto God. Alleluja, Alleluja.
 
 [Lectio2]
-!Apoc 22:8-12
+!Rev 22:8-12
 8 Én, János hallottam és láttam ezeket. Miután hallottam és láttam, arcra~
 borultam az angyal előtt, aki ezeket megmutatta nekem, hogy imádjam.
 9 De így szólt: "Vigyázz, ne tedd! Csak neked és testvéreidnek vagyok~
@@ -63,7 +63,7 @@ R. Here worship God. Alleluja, Alleluja, Alleluja.
 R. Here worship God. Alleluja, Alleluja, Alleluja.
 
 [Lectio3]
-!Apoc 22:13-21
+!Rev 22:13-21
 13 Én vagyok az alfa és az ómega, az első és az utolsó, a kezdet és a vég.
 14 Boldogok, akik megmossák ruhájukat (a Bárány vérében). Hatalmuk lesz az élet~
 fája fölött, és a kapukon mennek be a városba.

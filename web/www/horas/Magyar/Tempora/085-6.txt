@@ -1,6 +1,6 @@
 [Lectio1]
 Jézus Sírák fia könyvéből
-!Eccl 32:1-5
+!Sir 32:1-5
 1 Ha fövé tettek, ne fuvalkodjál föl, légy olyan közöttök, mint egyik közölük. 
 2 Gondod legyen rájok, és úgy ülj le, és minden gondodat elvégezve, telepedjél le, 
 3 hogy örömed legyen bennök, és ékességöl vedd a tisztelet koszorúját, és elismerést nyerj a gyülekezettöl. 
@@ -11,7 +11,7 @@ Jézus Sírák fia könyvéből
 @Tempora/081-0:Responsory7
 
 [Lectio2]
-!Eccl 32:6-11
+!Sir 32:6-11
 6 A hol hallomás nincs, ne öntsd ott a beszédet, és alkalmatlanúl ne mutogasd bölcseségedet. 
 7 Karbunkulus-drágakö arany-foglalványban az egybehangzó zene a borozásnál. 
 8 Mint a smaragd az arany pecsétgyüröben, úgy az énekesek kara a víg és mértékletes boritalnál. 
@@ -23,7 +23,7 @@ Jézus Sírák fia könyvéből
 @Tempora/081-1:Responsory2
 
 [Lectio3]
-!Eccl 32:12-17
+!Sir 32:12-17
 12 Sokban olyan légy, mint a tudatlan, és hallj hallgatva s egyszersmind kérdezgetve. 
 13 A föemberek között el ne bízd magadat, és a hol öregek vannak, sokat ne beszélj. 
 14 A jégesö elött jár a villámlás, és a szerénység elött jár a kedvesség; és a szerény viseletért nagy kedvességet találsz. 

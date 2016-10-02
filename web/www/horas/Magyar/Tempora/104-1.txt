@@ -1,6 +1,6 @@
 [Lectio1]
 A Makkabeusok második könyvéből
-!2 Mach 2:1-3
+!2 Mac 2:1-3
 1 Az írásokban azt is megtalálni, hogy Jeremiás próféta megparancsolta az~
 elhurcoltaknak, hogy vigyenek a tűzből, amint erről szó volt.
 2 Azt is lelkükre kötötte a próféta az elhurcoltaknak, amikor átadta nekik a~
@@ -13,7 +13,7 @@ kiveszni.
 @Tempora/101-1:Responsory1
 
 [Lectio2]
-!2 Mach 2:4-6
+!2 Mac 2:4-6
 4 Az is benne van az Írásban, hogy a próféta isteni sugallatra elrendelte, hogy a~
 sátort és a szövetség ládáját vigyék utána. Aztán fölment arra a hegyre, amelyre~
 Mózes ment az Istentől örökségül kapott földet megnézni.
@@ -26,7 +26,7 @@ találták.
 @Tempora/101-1:Responsory2
 
 [Lectio3]
-!2 Mach 2:7-9
+!2 Mac 2:7-9
 7 Amikor Jeremiás ezt megtudta, e szavakkal korholta őket: "A helynek~
 ismeretlennek kell maradnia mindaddig, míg Isten újra egybe nem gyűjti népét, és~
 meg nem könyörül rajta.

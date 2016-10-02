@@ -6,7 +6,7 @@ Dominica II Post Pascha;;Semiduplex;;5;;
 Una Antiphona
 
 [Capitulum Vespera]
-!1 Petri 2:21-22
+!1 Pet 2:21-22
 v. Szeretteim: Mert erre vagytok hivatva, hiszen Krisztus is értünk szenvedett,~
 példát adva nektek, hogy kövessétek nyomdokait. Bűnt nem követett el, hamisság~
 nem volt ajkán.
@@ -29,7 +29,7 @@ $Per eumdem
 
 [Lectio1]
 Olvasmány az Apostolok Cselekedeiből
-!Act 13:13-20
+!Acts 13:13-20
 13 Pál és kísérői tengerre szálltak, és Páfuszból a pamfíliai Pergébe hajóztak.~
 János elvált tőlük és visszatért Jeruzsálembe.
 14 Ők Pergén keresztül eljutottak a pizidiai Antióchiába. Itt egy szombaton~
@@ -51,7 +51,7 @@ Sámuel prófétáig.
 @Tempora/Pasc0-2:Responsory1
 
 [Lectio2]
-!Act 13:21-25
+!Acts 13:21-25
 21 Ekkor királyt kívántak, és az Isten negyven esztendőre Sault adta nekik, Kis~
 fiát, ezt a Benjamin törzséből származó férfiút.
 22 Elvetése után Dávidot támasztotta nekik királyul, akiről így nyilatkozott:~
@@ -68,7 +68,7 @@ saruját megoldjam.
 @Tempora/Pasc0-2:Responsory2
 
 [Lectio3]
-!Act 13:26-33
+!Acts 13:26-33
 26 Testvérek! Ábrahám nemzetségének fiai és ti istenfélők! Ennek az üdvösségnek a~
 híre nekünk szólt.
 27 De Jeruzsálem lakói és vezetői nem ismerték el, hanem ítéletükkel~
@@ -135,7 +135,7 @@ grave is the Same Which now sitteth at the right hand of God the Father.
 
 [Lectio7]
 Evangélium szent János Apostol kőnyvéből
-!Joann 10:11-16
+!John 10:11-16
 Azon időben mondá Jézus a farizeusoknak: Én vagyok a jó pásztor. A jó pásztor~
 életét adja juhaiért. És így tovább.
 _
@@ -182,7 +182,7 @@ bow down to him.
 &teDeum
 
 [Capitulum Laudes]
-!1 Petri 2:21-22
+!1 Pet 2:21-22
 v. Szeretteim: Mert erre vagytok hivatva, hiszen Krisztus is értünk szenvedett,~
 példát adva nektek, hogy kövessétek nyomdokait. Bűnt nem követett el, hamisság~
 nem volt ajkán.
@@ -197,21 +197,21 @@ I am the pastor of the sheeps: * I am the way, and the truth, and the life: I am
 the good pastor, I know my sheep, and they know me, alleluja, alleluja.
 
 [Capitulum Tertia]
-!1 Petri 2:21-22
+!1 Pet 2:21-22
 v. Szeretteim: Mert erre vagytok hivatva, hiszen Krisztus is értünk szenvedett,~
 példát adva nektek, hogy kövessétek nyomdokait. Bűnt nem követett el, hamisság~
 nem volt ajkán.
 $Deo gratias
 
 [Capitulum Sexta]
-!1 Petri 2:23-24
+!1 Pet 2:23-24
 v. Rábízta magát az igazságos bíróra. Vétkeinket a saját testében fölvitte a~
 ~(kereszt)fára, hogy meghaljunk a bűnöknek, s az igazságnak éljünk. Sebei~
 szereztek számotokra gyógyulást.
 $Deo gratias
 
 [Capitulum Nona]
-!1 Petri 2:25
+!1 Pet 2:25
 v. Olyanok voltatok, mint a tévelygő juhok, de most megtértetek lelketek~
 pásztorához és oltalmazójához.
 $Deo gratias

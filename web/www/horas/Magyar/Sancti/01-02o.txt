@@ -16,7 +16,7 @@ Feria Te Deum
 
 [Lectio1]
 Olvasmány az Apostolok Cselekedeiből
-!Act 7:51-54
+!Acts 7:51-54
 51 Ti vastagnyakúak, ti körülmetéletlen szívűek és fülűek, mindig ellenálltatok a~
 Szentléleknek, s mint atyáitok, olyanok vagytok ti is.
 52 Melyik prófétát nem üldözték atyáitok? Mind megölték azokat, akik az Igaz~
@@ -26,7 +26,7 @@ tartottátok meg."
 54 Amikor ezt hallották, haragra gyulladtak, és fogukat vicsorgatták ellene.
 
 [Lectio2]
-!Act 7:55-58
+!Acts 7:55-58
 55 Ő azonban a Szentlélekkel eltelve fölnézett az égre és látta az Isten~
 dicsőségét és Jézust az Isten jobbján.
 56 Felkiáltott: "Látom, hogy nyitva az ég, és az Emberfia ott áll az Isten~
@@ -36,7 +36,7 @@ jobbján."
 rakták le ruhájukat.
 
 [Lectio3]
-!Act 7:59; 8:1-2
+!Acts 7:59; 8:1-2
 59 Míg kövezték Istvánt, így imádkozott: "Uram, Jézus, vedd magadhoz lelkemet!"
 1 És Saul helyeselte meggyilkolását. Azon a napon nagy üldözés tört ki a~
 jeruzsálemi egyház ellen. Az apostolok kivételével mindnyájan elszéledtek Júdea~
@@ -76,7 +76,7 @@ shall be righted.
 
 [Lectio7]
 Evangélium szent Máté Apostol kőnyvéből
-!Matth 23:34-35
+!Matt 23:34-35
 Azon időben mondá Jézus az iras'tudóknak és farizeusoknak: Nos, prófétákat,~
 bölcseket és írástudókat küldök hozzátok. Közülük némelyeket megöltök és~
 keresztre feszíttek. És így tovább.

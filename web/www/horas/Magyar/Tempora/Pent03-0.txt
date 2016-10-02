@@ -31,7 +31,7 @@ $Per Dominum
 
 [Lectio1]
 Olvasmány Sámuel első könyvéből
-!1 Reg 9:18-21
+!1 Sam 9:18-21
 18 Akkor Saul ott a kapuban odalépett Sámuelhez és megszólította: "Mondd, hol~
 van a látóember háza?"
 19 Sámuel így felelt Saulnak: "Én vagyok a látóember. Kísérj fel a magaslatra.~
@@ -52,7 +52,7 @@ among you.
 R. And He will deliver you out of the hand of your enemies.
 
 [Lectio2]
-!1 Reg 9:22-25
+!1 Sam 9:22-25
 22 Sámuel magával vitte Sault és szolgáját, a csarnokba vezette őket, és~
 megtisztelő helyet jelölt ki nekik a vendégek közt, akik közül már vagy~
 harmincan ott voltak.
@@ -73,7 +73,7 @@ of the bear
 R. And anointed me with the oil of His mercy.
 
 [Lectio3]
-!1 Reg 9:26-27;10:1
+!1 Sam 9:26-27;10:1
 26 És nyugalomra tért. Amikor megvirradt, Sámuel felszólt Saulnak a tetőre:~
 "Kelj föl, hogy elkísérhesselek!" Saul fölkelt, és mind a ketten elmentek, ő és~
 Sámuel.
@@ -151,7 +151,7 @@ ever.
 
 [Lectio7]
 Evangélium szent Lukács Evangélista kőnyvéből
-!Luc 15:1-5
+!Luke 15:1-5
 Azon az időben a vámosok és a bűnösök mind jöttek, hogy hallgassák Jézust. És~
 így tovább.
 _

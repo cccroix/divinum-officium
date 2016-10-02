@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Szent Pál Apostolol Filemonhoz írt levelének kezdete
-!Philem 1:1-6
+!Phlm 1:1-6
 1 Pál, Krisztus Jézus foglya és Timóteus testvér Filemonnak, kedves munkatársunknak 
 2 és nővérünknek, Appiának, küzdőtársunknak Archippusznak, és a házadban összejövő egész egyháznak. 
 3 Kegyelem nektek és békesség Istentől, az Atyától és Urunktól, Jézus Krisztustól! 
@@ -18,7 +18,7 @@ Szent Pál Apostolol Filemonhoz írt levelének kezdete
 @Tempora/Epi2-6:Responsory1
 
 [Lectio2]
-!Philem 1:7-11
+!Phlm 1:7-11
 7 Nagy örömömre és vigasztalásomra szolgált ugyanis, testvér, a szereteted, mert a szentek szíve enyhülést talált benne. 
 8 Ezért bár Jézus Krisztusban parancsot is adhatnék rá, hisz kötelességed megtenni, 
 9 mégis a szeretetre hivatkozva inkább kéréssel fordulok hozzád, én, az öreg Pál, aki most Krisztusért fogságot szenvedek. 
@@ -29,7 +29,7 @@ Szent Pál Apostolol Filemonhoz írt levelének kezdete
 @Tempora/Epi2-6:Responsory2
 
 [Lectio3]
-!Philem 1:12-19
+!Phlm 1:12-19
 12 Úgy küldöm vissza hozzád, mint saját szívemet. 
 13 Szerettem volna magam mellett tartani, hogy helyetted szolgáljon nekem fogságomban, amelyet az evangéliumért viselek, 
 14 beleegyezésed nélkül azonban mégsem teszem, hogy jótéteményed ne kényszerből fakadjon, hanem önként vállald. 

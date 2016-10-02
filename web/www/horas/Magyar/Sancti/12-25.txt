@@ -19,7 +19,7 @@ Know ye that the kingdom * of God is at hand Amen I say unto you, it will not ta
 Lift up your heads * behold, your redemption draweth nigh.;;116
 
 [Capitulum Vespera]
-!Tit 3:4-5
+!Titus 3:4-5
 v. Amikor azonban üdvözítő Istenünk kinyilvánította jóságát és emberszeretetét, megmentett minket.  Nem azért, mert igazak voltak tetteink, hanem irgalmasságból
 $Deo gratias
 
@@ -98,7 +98,7 @@ V. He shall cry unto Me, alleluja.
 R. Thou art My Father, alleluja.
 
 [Lectio1]
-!Isai 9:1-6
+!Isa 9:1-6
 1 A nép, amely sötétben jár, nagy fényességet lát. Akik a halál országának árnyékában laknak, azoknak világosság támad. 
 2 Nagy ujjongással töltöd el őket, kitörő örömet adsz nekik. Úgy örülnek majd színed előtt, ahogy aratáskor szoktak örülni, s ahogy akkor örülnek, amikor a zsákmányt osztják. 
 3 Mert terhes igáját, a vállára nehezedő rudat, sanyargatója botját összetöröd, mint Midián idejében. 
@@ -120,7 +120,7 @@ that He might bring back to heaven man who was lost. There is joy among the~
 hosts of Angels, because eternal salvation hath appeared unto men.
 
 [Lectio2]
-!Isai 40:1-8
+!Isa 40:1-8
 1 "Vigasztaljátok meg népemet, vigasztaljátok meg!" - ezt mondja Istenetek. 
 2 "Szóljatok Jeruzsálem szívéhez és kiáltsátok oda neki: Véget ért szolgaságának ideje, bocsánatot nyert a gonoszsága, hiszen kétszeresen sújtotta az Úr keze minden bűnéért." 
 3 Egy hang kiált: "Készítsetek utat a pusztában az Úrnak, egyengessétek Istenünk ösvényét a sivatagon át. 
@@ -138,7 +138,7 @@ of everlasting joy.
 R. This day throughout the whole world the skies drop down sweetness.
 
 [Lectio3]
-!Isai 52:1-6
+!Isa 52:1-6
 1 Kelj föl, kelj föl, öltözz erőbe, Sion! Öltsd fel legszebb ruhádat, Jeruzsálem, te szent város! Mert nem megy át többé rajtad sem körülmetéletlen, sem tisztátalan. 
 2 Rázd le a port magadról, kelj föl, rabságot szenvedett Jeruzsálem! Oldd le nyakad bilincseit, Sionnak fogoly leánya! 
 3 Ezt mondja az Úr: Ingyen adtalak el, s most is váltságdíj nélkül váltalak vissza benneteket. 
@@ -236,7 +236,7 @@ Christ That sent the Gospel preacher, In his meaning be our Teacher.
 
 [Lectio7]
 Evangélium szent Lukács Evangélista könyvéből
-!Luc 2:1-14
+!Luke 2:1-14
 Azokban a napokban történt, hogy Augustus császár rendeletet adott ki, hogy az egész földkerekséget írják össze. És így tovább.
 _
 Homily by Pope St Gregory (the Great,)
@@ -268,7 +268,7 @@ R. This day hath He been pleased for the salvation of the world to be born of a 
 
 [Lectio8]
 Evangélium szent Lukács könyvéből
-!Luc 2:15-20
+!Luke 2:15-20
 Azon időben a pásztorok így szóltak egymáshoz: "Menjünk el Betlehembe, hadd lássuk a valóra vált beszédet, amit az Úr tudtunkra adott! És így tovább.
 _
 Homily by St Ambrose, Bishop (of Milan,)
@@ -296,7 +296,7 @@ full of grace and truth.
 
 [Lectio9]
 Evangélium szent János könyvéből
-!Joann 1:1-14
+!John 1:1-14
 Kezdetben volt az Ige, az Ige Istennél volt, és Isten volt az Ige, ő volt kezdetben Istennél. És így tovább.
 _
 Homily by St Austin, Bishop (of Hippo,)
@@ -322,7 +322,7 @@ There was with the Angel a multitude of the heavenly host, * praising God, and s
 Unto us this day a little Child is born, * and His name shall be called the Mighty God, alleluja, alleluja.
 
 [Capitulum Laudes]
-!Hebr 1:1-2
+!Heb 1:1-2
 v. Sokszor és sokféle módon szólt Isten hajdan az atyákhoz,  ezekben a végső napokban Fiában szólt hozzánk, akit a mindenség örökösévé tett, aki által az időket is teremtette. 
 $Deo gratias
 
@@ -377,11 +377,11 @@ Glory be to God in the highest; * and on earth, peace to men of good will,~
 alleluja, alleluja.
 
 [Lectio Prima]
-!Hebr 1:11-12
+!Heb 1:11-12
 v. Ezek elmúlnak, de te nem múlsz el soha, mindenek elavulnak, mint valami ruha.  Akár a köntöst, úgy göngyölöd össze őket, s mint a ruha, úgy változnak meg. Ám te ugyanaz vagy, és esztendeid nem érnek véget. 
 
 [Capitulum Tertia]
-!Hebr 1:1-2
+!Heb 1:1-2
 v. Sokszor és sokféle módon szólt Isten hajdan az atyákhoz,  ezekben a végső napokban Fiában szólt hozzánk, akit a mindenség örökösévé tett, aki által az időket is teremtette. 
 $Deo gratias
 
@@ -397,7 +397,7 @@ V. He shall cry unto Me, Alleluja.
 R. Thou art My Father. Alleluja.
 
 [Capitulum Sexta]
-!Hebr 1:10
+!Heb 1:10
 v. Továbbá: Kezdetben, Uram, te teremtetted a földet, az ég is a te kezed munkája. 
 $Deo gratias
 
@@ -413,7 +413,7 @@ V. All the ends of the earth have seen Alleluja.
 R. The salvation of our God. Alleluja.
 
 [Capitulum Nona]
-!Hebr 1:11-12
+!Heb 1:11-12
 v. Ezek elmúlnak, de te nem múlsz el soha, mindenek elavulnak, mint valami ruha.  Akár a köntöst, úgy göngyölöd össze őket, s mint a ruha, úgy változnak meg. Ám te ugyanaz vagy, és esztendeid nem érnek véget. 
 $Deo gratias
 
@@ -437,7 +437,7 @@ Of the fruit * of thy body will I set upon thy throne;;131
 
 
 [Capitulum Vespera 3]
-!Hebr 1:1-2
+!Heb 1:1-2
 v. Sokszor és sokféle módon szólt Isten hajdan az atyákhoz,  ezekben a végső napokban Fiában szólt hozzánk, akit a mindenség örökösévé tett, aki által az időket is teremtette. 
 $Deo gratias
 

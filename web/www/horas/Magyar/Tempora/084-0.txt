@@ -9,7 +9,7 @@ R. And let there descend upon us thy mercy.
 
 [Lectio1]
 Jézus Sirák fia könyvének kezdete
-!Eccl 1:1-5
+!Sir 1:1-5
 1 Minden bölcseség az Úr Istentöl vagyon és vele volt mindenkor, és minden idö~
 elött való.
 2 A tenger fövenyét, az esö cseppeit és az idök napjait ki számlálta meg Az ég~
@@ -23,7 +23,7 @@ parancsolatok.
 @Tempora/081-0:Responsory1
 
 [Lectio2]
-!Eccl 1:6-10
+!Sir 1:6-10
 6 A bölcseség gyökere kinek fedeztetett föl, és annak terveit ki ismerte meg
 7 A bölcseség tudománya kinek nyilváníttatott és jelentetett ki és az ö útjának~
 sokaságát ki értette
@@ -37,7 +37,7 @@ adta azt az öt szeretöknek.
 @Tempora/081-0:Responsory2
 
 [Lectio3]
-!Eccl 1:11-16
+!Sir 1:11-16
 11 Az Úr félelme dicsőség és dicséret, vigaság és örvendezés koronája.
 12 Az Úr félelme gyönyörködteti a szivet, vigaságot szerez és örömet és hosszú~
 életet.

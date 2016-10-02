@@ -20,7 +20,7 @@ The Lord shall give unto Him the throne of His father David, and of His kingdom 
 Behold the handmaid of the Lord * be it unto me according to thy word (Alleluja.);;147
 
 [Capitulum Vespera]
-!Isai 7:14-15
+!Isa 7:14-15
 v. Íme, a szűz fogan, fiút szül, és Immánuelnek nevezi el. Aludttej és méz lesz a~
 tápláléka, míg meg nem tanulja elvetni, ami gonosz, és a jót választani.
 $Deo gratias
@@ -48,7 +48,7 @@ Az Úr angyala * köszönté Szűz Máriát, és O fogant a Szentlélektől
 
 [Lectio1]
 Olvasmány Izaiás próféta könyvéből
-!Isai 7:10-15
+!Isa 7:10-15
 10 Az Úr újra szólt Acházhoz. Azt mondta:
 11 "Kérj magadnak jelet az Úrtól, a te Istenedtől, akár az alvilág mélységeiből,~
 akár felülről a magasból."
@@ -73,7 +73,7 @@ R. Behold, thou shalt conceive and bring forth a son, and He shall be called the
 Son of the Highest.
 
 [Lectio2]
-!Isai 11:1-5
+!Isa 11:1-5
 1 Vessző kél majd Izáj törzsökéből, hajtás sarjad gyökeréből.
 2 Az Úr lelke nyugszik rajta: a bölcsesség és az értelem lelke; a tanács és az~
 erősség lelke; a tudás és az Úr félelmének lelke,
@@ -96,7 +96,7 @@ overshadow thee; therefore also that Holy Thing Which shall be born of thee~
 shall be called the Son of God.
 
 [Lectio3]
-!Isai 35:1-7
+!Isa 35:1-7
 1 Örüljön a puszta és a kiaszott vidék, ujjongjon a sivatag és viruljon!
 2 Virulva viruljon, mint a liliom, és örömében ujjongva daloljon! Mert övé a~
 Libanon dicsősége, a Kármel és a Sáron pompája; meglátják az Úr dicsőségét,~
@@ -184,7 +184,7 @@ R. For thou hast borne in thy breast Him Whom the heavens cannot contain.
 
 [Lectio7]
 Evangélium szent Lukács Evangélista kőnyvéből
-!Luc 1:26-38
+!Luke 1:26-38
  Azon időben Isten elküldte Gábor angyalt Galilea Názáret nevű városába egy~
 szűzhöz, aki egy Dávid házából való férfinak, Józsefnek volt a jegyese, és~
 Máriának hívták. És így tovább.
@@ -254,7 +254,7 @@ The Lord shall give unto Him the throne of His father David, and of His kingdom 
 Behold the handmaid of the Lord * be it unto me according to thy word. (Alleluja.)
 
 [Capitulum Laudes]
-!Isai 7:14-15
+!Isa 7:14-15
 v. Íme, a szűz fogan, fiút szül, és Immánuelnek nevezi el. Aludttej és méz lesz a~
 tápláléka, míg meg nem tanulja elvetni, ami gonosz, és a jót választani.
 $Deo gratias
@@ -269,24 +269,24 @@ Mary the Holy Ghost shall come upon thee, and the power of the Highest shall~
 overshadow thee. (Alleluja.)
 
 [Lectio Prima]
-!Isai 11:1-2
+!Isa 11:1-2
 v. Vessző kél majd Izáj törzsökéből, hajtás sarjad gyökeréből. Az Úr lelke~
 nyugszik rajta.
 
 [Capitulum Tertia]
-!Isai 7:14-15
+!Isa 7:14-15
 v. Íme, a szűz fogan, fiút szül, és Immánuelnek nevezi el. Aludttej és méz lesz a~
 tápláléka, míg meg nem tanulja elvetni, ami gonosz, és a jót választani.
 $Deo gratias
 
 [Capitulum Sexta]
-!Luc 1:32-33
+!Luke 1:32-33
 v. Az Úr Isten neki adja atyjának, Dávidnak trónját, és uralkodni fog Jákob~
 házán örökké, s országának nem lesz vége."
 $Deo gratias
 
 [Capitulum Nona]
-!Isai 11:1-2
+!Isa 11:1-2
 v. Vessző kél majd Izáj törzsökéből, hajtás sarjad gyökeréből. Az Úr lelke~
 nyugszik rajta
 $Deo gratias

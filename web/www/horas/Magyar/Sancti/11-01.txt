@@ -17,7 +17,7 @@ Bless the Lord, all ye His chosen, * keep holiday, and extol Him.
 The praise of all His Saints, * even of the children of Israel, a people near unto Him this honour have all His Saints.
 
 [Capitulum Vespera]
-!Apoc 7:2-3
+!Rev 7:2-3
 v. And I saw another angel ascending from the rising of the sun, having the sign~
 of the living God; and he cried with a loud voice to the four angels, to whom it~
 was given to hurt the earth and the sea, saying: Hurt not the earth, nor the sea,~
@@ -108,7 +108,7 @@ R. Their reward also is with the Lord.
 
 [Lectio1]
 Olvasmány a Jelenések könyvéből
-!Apoc 4:2-8
+!Rev 4:2-8
 2 Nyomban elragadtatásba estem a Lélekben: És íme, trónt állítottak fel a~
 mennyben és a trónon ült valaki.
 3 Az ott ülő tekintete jáspishoz és kárneolhoz hasonlított, és smaragdhoz~
@@ -134,7 +134,7 @@ V. Above it stood the Seraphim each one had six wings.
 R. And His train filled the temple.
 
 [Lectio2]
-!Apoc 5:1-8
+!Rev 5:1-8
 1 A trónon ülő jobbjában egy kívül-belül teleírt könyvtekercset láttam, amely~
 hét pecséttel volt lepecsételve.
 2 Aztán láttam egy hatalmas angyalt, aki nagy hangon kérdezte: "Ki méltó rá,~
@@ -163,7 +163,7 @@ V. Hail, Mary, full of grace, the Lord is with thee.
 R. Pray for us unto the Lord our God.
 
 [Lectio3]
-!Apoc 5:9-14
+!Rev 5:9-14
 9 Új éneket énekeltek: "Méltó vagy, hogy átvedd a könyvet és feltörd pecsétjeit,~
 mert megöltek, és véreddel megváltottad (az embereket) Istennek, minden nyelvből,~
 népből és nemzetből,
@@ -255,7 +255,7 @@ R. I will render unto you a reward of your labours.
 
 [Lectio7]
 Evangélium szent Máté Apostol kőnyvéből
-!Matth 5:1-12
+!Matt 5:1-12
  A tömeg láttára fölment a hegyre és leült. Tanítványai köréje gyűltek, És így~
 tovább.
 _
@@ -328,7 +328,7 @@ Bless the Lord, all ye His chosen, * keep holiday, and extol Him.
 The praise of all His Saints, * even of the children of Israel, a people near unto Him this honour have all His Saints.
 
 [Capitulum Laudes]
-!Apoc 7:2-3
+!Rev 7:2-3
 v. And I saw another angel ascending from the rising of the sun, having the sign~
 of the living God; and he cried with a loud voice to the four angels, to whom it~
 was given to hurt the earth and the sea, Saying: Hurt not the earth, nor the sea,~
@@ -377,12 +377,12 @@ Prophets praise thee. The white-robed army of Martyrs praise thee. All thy~
 Saints and Elect with one voice do acknowledge thee, O Blessed Trinity, One God!
 
 [Lectio Prima]
-!Apoc 7:12
+!Rev 7:12
 v. Saying: Ámen. Benediction, and glory, and wisdom, and thanksgiving, honour,~
 and power, and strength to our God for ever and ever. Ámen.
 
 [Capitulum Tertia]
-!Apoc 7:2-3
+!Rev 7:2-3
 v. And I saw another angel ascending from the rising of the sun, having the sign~
 of the living God; and he cried with a loud voice to the four angels, to whom it~
 was given to hurt the earth and the sea, Saying: Hurt not the earth, nor the sea,~
@@ -401,7 +401,7 @@ V. Let the righteous rejoice before God.
 R. Yea, let them exceedingly rejoice.
 
 [Capitulum Sexta]
-!Apoc 7:9
+!Rev 7:9
 v. 7:After this I saw a great multitude, which no man could number, of all~
 nations, and tribes, and peoples, and tongues, standing before the throne, and~
 in sight of the Lamb, clothed with white robes, and palms in their hands:
@@ -419,7 +419,7 @@ V. The righteous live for evermore.
 R. Their reward also is with the Lord.
 
 [Capitulum Nona]
-!Apoc 7:12
+!Rev 7:12
 v. Benediction, and glory, and wisdom, and thanksgiving, honour,~
 and power, and strength to our God for ever and ever. Ámen.
 $Deo gratias

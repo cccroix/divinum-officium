@@ -5,7 +5,7 @@ Feria Tertia infra Hebdomadam II in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Evangélium szent Máté könyvéből
-!Matth 23:1-12
+!Matt 23:1-12
 Azon időben mondá Jézus a to:megnek e's tanítványainak: Az írástudók és a farizeusok Mózes tanítói székében ülnek. Tegyetek meg és tartsatok meg ezért mindent, amit mondanak nektek, de tetteikben ne kövessétek őket És így tovább.
 _
 Homily by St Jerome, Priest (at Bethlehem.)

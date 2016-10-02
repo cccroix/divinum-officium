@@ -15,7 +15,7 @@ The Lord hath sent * His Angel, and hath delivered me out of the hand of Herod. 
 Thou art Peter * and upon this Rock I will build My Church;;116
 
 [Capitulum Vespera]
-!Act 12:1-3
+!Acts 12:1-3
 v. Ebben az időben Heródes király elfogatta az egyház néhány tagját, hogy ártson~
 nekik. János testvérét, Jakabot karddal kivégeztette. Amikor látta, hogy ezzel~
 megnyerheti a zsidók tetszését, azon volt, hogy Pétert is elfogassa.
@@ -76,7 +76,7 @@ So sing we now, and such be our eternal song.
 
 [Lectio1]
 From the Acts of Apostles.
-!Act 12:1-5
+!Acts 12:1-5
 1 Ebben az időben Heródes király elfogatta az egyház néhány tagját, hogy ártson~
 nekik.
 2 János testvérét, Jakabot karddal kivégeztette.
@@ -91,7 +91,7 @@ Istenhez.
 @Sancti/06-29:Responsory1
 
 [Lectio2]
-!Act 12:6-8
+!Acts 12:6-8
 6 Azon az éjszakán, amikor Heródes elő akarta vezettetni, Péter két katona~
 között aludt, kettős lánccal megbilincselve. A bejáratnál őrök tartották szemmel a~
 börtönt.
@@ -105,7 +105,7 @@ Amikor megtette, tovább sürgette: "Vedd magadra köntösödet, és kövess!"
 @Sancti/06-29:Responsory2
 
 [Lectio3]
-!Act 12:9-11
+!Acts 12:9-11
 9 Ment és követte, de nem tudta, hogy valóság-e, amit vele az angyal tesz. Azt~
 gondolta, látomása van.
 10 Átmentek az első őrségen, majd a másodikon is, aztán eljutottak a város felé~
@@ -159,7 +159,7 @@ reverence for these holy chains greatly increased in the City.
 
 [Lectio7]
 Evangélium Szt Máté Apostol könyvéből
-!Matth 16:13-19
+!Matt 16:13-19
 Abban az időben amikor Jézus Fülöp Cezáreájának vidékére ért, megkérdezte~
 tanítványaitól: "Kinek tartják az emberek az Emberfiát?" És így tovább.
 _
@@ -224,7 +224,7 @@ The Lord hath sent * His Angel, and hath delivered me out of the hand of Herod. 
 Thou art Peter * and upon this Rock I will build My Church.
 
 [Capitulum Laudes]
-!Act 12:1-3
+!Acts 12:1-3
 v. Ebben az időben Heródes király elfogatta az egyház néhány tagját, hogy ártson~
 nekik. János testvérét, Jakabot karddal kivégeztette. Amikor látta, hogy ezzel~
 megnyerheti a zsidók tetszését, azon volt, hogy Pétert is elfogassa.
@@ -252,13 +252,13 @@ thou shalt loose on earth shall be loosed in heaven, saith the Lord to Simon~
 Peter.
 
 [Lectio Prima]
-!Act 12:11
+!Acts 12:11
 v. Amikor Péter föleszmélt, megszólalt: - "Most már csakugyan tudom, hogy az Úr~
 elküldte angyalát, és kiszabadított Heródes kezéből, s abból, amire a zsidó nép~
 számított."
 
 [Capitulum Tertia]
-!Act 12:1-3
+!Acts 12:1-3
 v. Ebben az időben Heródes király elfogatta az egyház néhány tagját, hogy ártson~
 nekik. János testvérét, Jakabot karddal kivégeztette. Amikor látta, hogy ezzel~
 megnyerheti a zsidók tetszését, azon volt, hogy Pétert is elfogassa.
@@ -276,7 +276,7 @@ V. Thou shalt make them princes over all the earth
 R. They shall remember thy name, O Lord
 
 [Capitulum Sexta]
-!Act 12:5
+!Acts 12:5
 v. Míg Pétert fogva tartották a börtönben, az egyház állandóan imádkozott érte~
 az Istenhez.
 $Deo gratias
@@ -293,7 +293,7 @@ V. O God, are made exceedingly honourable:
 R. Their principality is exceedingly strengthened.
 
 [Capitulum Nona]
-!Act 12:11
+!Acts 12:11
 v. Amikor Péter föleszmélt, megszólalt: - "Most már csakugyan tudom, hogy az Úr~
 elküldte angyalát, és kiszabadított Heródes kezéből, s abból, amire a zsidó nép~
 számított."

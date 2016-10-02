@@ -21,7 +21,7 @@ $Per Dominum
 
 [Lectio1]
 Olvasmány a Jelenések könyvéből
-!Apoc 21:18-20
+!Rev 21:18-20
 18 Falai jáspiskőből épültek, a város pedig kristályhoz hasonló színaranyból.
 19 A város falainak alapjait mindenféle drágakő díszítette. Az első alapkő~
 jáspis, a második zafír, a harmadik kalcedon, a negyedik smaragd,
@@ -30,7 +30,7 @@ kilencedik topáz, a tizedik krizopráz, a tizenegyedik jácint, a tizenkettedik
 ametiszt.
 
 [Lectio2]
-!Apoc 21:21-23
+!Rev 21:21-23
 21 A tizenkét kapu tizenkét gyöngy: mindegyik kapu egy-egy gyöngy. A város utcái~
 tükörfényes színaranyból voltak.
 22 De templomot nem láttam benne, mert a Mindenható, az Úr, az Isten és a Bárány a~
@@ -39,7 +39,7 @@ temploma.
 Isten dicsősége ragyogja be, világossága pedig a Bárány.
 
 [Lectio3]
-!Apoc 21:24-27
+!Rev 21:24-27
 24 Fényében járnak a nemzetek, és a föld királyai elhozzák bele dicsőségüket.
 25 Kapuit nem zárják be soha, hisz ott nincs éjszaka.
 26 A népek odahordják kincseiket és értékeiket.
@@ -78,7 +78,7 @@ Great is said to have prostrated himself on the ground and, with pick and shovel
 
 [Lectio7]
 Evangélium szent Lukács Evangélista kőnyvéből
-!Luc 19:1-10
+!Luke 19:1-10
 Abban az időben Jézus odaért Jerikóba és végigment rajta. Élt ott egy Zakeus~
 nevű tehetős ember, a vámosok feje. És így tovább.
 _

@@ -15,7 +15,7 @@ Aki nekem szolgál, * azt megtiszteli az Atya, ki a mennyben van, mondja az Úr.
 Úgy akarom Atyám, * hogy ahol én vagyok, ott legyen a szolgám is.;;116
 
 [Capitulum Vespera]
-!Jacob 1:12
+!Jas 1:12
 v. Boldog az az ember, aki a kísértésben helytáll, mert miután kiállja a próbát, megkapja az élet koszorúját, amelyet az Úr azoknak ígért, akik őt szeretik.
 $Deo gratias
 
@@ -78,7 +78,7 @@ R. Honour and great majesty shalt Thou lay upon him.
 
 [Lectio1]
 Olvasmány az Apostolok Cselekedeiből
-!Act 20:17-24
+!Acts 20:17-24
 17 Milétuszból üzent Efezusba, és magához kérette az egyház presbitereit.
 18 Amikor megérkeztek, így szólt hozzájuk: "Tudjátok, hogy Ázsiába jövetelem első napjától kezdve minden időmet köztetek töltöttem,
 19 és szolgáltam az Úrnak, teljes alázatosságban, mindenfelől szorongattatva, könnyek és megpróbáltatások közepette is, amik a zsidók áskálódásai folytán jutottak osztályrészemül.
@@ -96,7 +96,7 @@ R. For he had his foundation upon a strong rock.
 
 [Lectio2]
 Az Apostolok Cselekedeteiből
-!Act 20:25-31
+!Acts 20:25-31
 25 És tudom azt is, hogy közületek, akik között hirdettem az Isten országát, nem lát többé senki.
 26 Ezért most ünnepélyesen kijelentem: nem szárad rajtam senkinek a vére.
 27 Mert nem riadtam vissza semmitől, hogy az Isten akaratát teljes egészében fel ne tárjam előttetek.
@@ -112,7 +112,7 @@ V. Those that be planted in the house of the Lord, shall flourish in the courts 
 R. Yea, he shall flourish in the presence of the Lord for ever.
 
 [Lectio3]
-!Act 20:32-38
+!Acts 20:32-38
 32 Most pedig az Istennek és kegyelme szavának ajánllak benneteket. Neki hatalma van rá, hogy fölépítse művét, és megadja nektek az összes szenttel közös örökséget.
 33 Senki ezüstjét, aranyát vagy ruháját nem kívántam.
 34 Jól tudjátok, hogy amire magamnak és társaimnak szükségünk volt, a kezem munkájával szereztem meg.
@@ -163,7 +163,7 @@ R. And put about his head a crown of joy.
 
 [Lectio7]
 Evangélium szent Lukács Evangélista kőnyvéből
-!Luc 14:26-33
+!Luke 14:26-33
 Azon időben így szólt Jézus a sokasághoz: Ha valaki követni akar, de nem gyűlöli apját, anyját, feleségét, gyermekeit, fivéreit és nővéreit, sőt még saját magát is, nem lehet a tanítványom. És így tovább.
 _
 Homily by Pope St Gregory the Great
@@ -210,7 +210,7 @@ Aki nekem szolgál * azt megtiszteli az Atya, ki a mennyben van, mondja az Úr.
 Úgy akarom Atyám * hogy ahol én vagyok, ott legyen a szolgám is.
 
 [Capitulum Laudes]
-!Jacob 1:12
+!Jas 1:12
 v. Boldog az az ember, aki a kísértésben helytáll, mert miután kiállja a próbát, megkapja az élet koszorúját, amelyet az Úr azoknak ígért, akik őt szeretik.
 $Deo gratias
 
@@ -260,11 +260,11 @@ Add meg kérünk Mindenható Isten, hogy szent vértanúd N. közbenjárására 
 $Per Dominum
 
 [Lectio Prima]
-!Eccl 39:6
+!Sir 39:6
 v. Szivét arra adja, hogy korán ébredjen az Úrhoz, ki őt teremtette, és a Fölségesnek színe előtt könyörög.
 
 [Capitulum Tertia]
-!Jacob 1:12
+!Jas 1:12
 v. Boldog az az ember, aki a kísértésben helytáll, mert miután kiállja a próbát, megkapja az élet koszorúját, amelyet az Úr azoknak ígért, akik őt szeretik.
 $Deo gratias
 
@@ -280,7 +280,7 @@ V. Uram, fejére tetted.
 R. A színarany koronát.
 
 [Capitulum Sexta]
-!Eccl 15:3
+!Sir 15:3
 v. Élteti őt az élet és értelem kenyerével, és az üdvös bölcseség vizével itatja őt, és megerősödik benne, és el nem hajol.
 $Deo gratias
 
@@ -296,7 +296,7 @@ V. Segítségeddel nagy lett a hírneve.
 R. Fönséggel és dicsőséggel övezted.
 
 [Capitulum Nona]
-!Eccl 39:6
+!Sir 39:6
 v. Szívét arra adja, hogy korán ébredjen az Úrhoz, ki őt teremtette, és a Fölségesnek színe előtt könyörög.
 $Deo gratias
 
@@ -352,7 +352,7 @@ R. In the day of His feasting, and of His gladness. Alleluja.
 
 [Lectio71]
 Evangélium szent János Apostol kőnyvéből
-!Joann 15:5-10
+!John 15:5-10
 At that time : Jesus said unto His disciples : I am the vine, ye are the branches: He that abideth in Me and I in him, the same bringeth forth much' fruit: for without Me ye can do nothing. And so on.
 _
 Homily by St Austin, Bishop [of Hippo.]
@@ -384,7 +384,7 @@ one thing, and since we are as yet in this world, we will another. Since we are 
 
 [Lectio72]
 The Lesson is taken from the Holy Gospel according to Matthew
-!Matth 10:26-32
+!Matt 10:26-32
 At that time : Jesus said unto His disciples : There is nothing covered, that shall not be revealed, and hid, that shall not be known. And so on.
 _
 Homily by St Hilary, Bishop (of Poitiers.)
@@ -406,7 +406,7 @@ Fear not them which kill the body. Therefore we need fear nothing which may chan
 
 [Lectio73]
 Evangélium szent Máté Apostol kőnyvéből
-!Matth 16:24-27
+!Matt 16:24-27
 Azon időben így szólt Jézus a tanítványaihoz: Aki követni akar, tagadja meg magát, vegye keresztjét és kövessen. És így tovább.
 _
 Homily by Pope St Gregory (the Great.)

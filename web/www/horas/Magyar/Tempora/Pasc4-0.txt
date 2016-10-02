@@ -7,7 +7,7 @@ Una Antiphona
 StJamesRule=Jas
 
 [Capitulum Vespera]
-!Jacob 1:17
+!Jas 1:17
 v. Szeretteim: Minden jó adomány és minden tökéletes ajándék felülről van, a~
 világosság Atyjától száll alá, akiben nincs változás, még árnyéka sem a~
 változásnak.
@@ -31,7 +31,7 @@ $Per Dominum
 
 [Lectio1]
 Olvasmány szent Jakab apostol leveléből
-!Jacob 1:1-6
+!Jas 1:1-6
 1 Jakab, Istennek és Urunknak, Jézus Krisztusnak szolgája üdvözletet (küld) a~
 szórványokban élő tizenkét törzsnek.
 2 Testvéreim, tartsátok nagy örömnek, ha különféle megpróbáltatások érnek~
@@ -55,7 +55,7 @@ R. If I do not remember thee, let my tongue cleave to the roof of my mouth.~
 Alleluja, Alleluja.
 
 [Lectio2]
-!Jacob 1:6-11
+!Jas 1:6-11
 6 s meg is kapja, csak hittel kérje, egy csöppet sem kételkedve. Mert aki~
 kételkedik, hasonlít a tenger hullámaihoz, amelyeket felkorbácsol és ide-oda vet a~
 szél.
@@ -75,7 +75,7 @@ R. There was a noise as of many waters the clouds sent out a sound. Alleluja,~
 Alleluja, Alleluja.
 
 [Lectio3]
-!Jacob 1:12-16
+!Jas 1:12-16
 12 Boldog az az ember, aki a kísértésben helytáll, mert miután kiállja a próbát,~
 megkapja az élet koszorúját, amelyet az Úr azoknak ígért, akik őt szeretik.
 13 Senki se mondja, aki kísértést szenved: "Az Isten kísért", mert az Istent nem~
@@ -183,7 +183,7 @@ R. How shall we sing the Lord's song in a strange land Alleluja, Alleluja.
 
 [Lectio7]
 Evangélium szent János Apostol kőnyvéből
-!Joann 16:5-14
+!John 16:5-14
 Azon időben mondá Jézus tanítványainak: Most elmegyek ahhoz, aki küldött. De~
 senki sem kérdezi közületek: Hova mégy? És így tovább.
 _
@@ -244,7 +244,7 @@ His visible Presence was then their sufficient Comfort.
 &teDeum
 
 [Capitulum Laudes]
-!Jacob 1:17
+!Jas 1:17
 v. Szeretteim: Minden jó adomány és minden tökéletes ajándék felülről van, a~
 világosság Atyjától száll alá, akiben nincs változás, még árnyéka sem a~
 változásnak.
@@ -259,21 +259,21 @@ I go My way to Him That sent Me * and none of you asketh Me Whither goest Thou~
 Alleluja, Alleluja.
 
 [Capitulum Tertia]
-!Jacob 1:17
+!Jas 1:17
 v. Szeretteim: Minden jó adomány és minden tökéletes ajándék felülről van, a~
 világosság Atyjától száll alá, akiben nincs változás, még árnyéka sem a~
 változásnak.
 $Deo gratias
 
 [Capitulum Sexta]
-!Jacob 1:19-20
+!Jas 1:19-20
 v. Szeretteim: Legyen minden ember készen a hallgatásra, de késedelmes a~
 szólásra, késedelmes a haragra. Mert haragjában az ember nem azt teszi, ami az~
 Isten előtt igazságos.
 $Deo gratias
 
 [Capitulum Nona]
-!Jacob 1:21
+!Jas 1:21
 v. Ezért hagyjatok fel minden tisztátalansággal és burjánzó gonoszsággal,~
 fogadjátok tanulékony lélekkel a belétek oltott tanítást, ez képes megmenteni~
 lelketeket.

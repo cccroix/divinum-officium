@@ -5,7 +5,7 @@ Feria Secunda infra Hebdomadam II in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Lectio sancti Evangelii secundum Joannem
-!Joann 8:21-29
+!John 8:21-29
 Azon időben mondá Jézus a zsidók seregeinek: Elmegyek és kerestek, de bűnötökben~
 haltok meg. Ahova ugyanis én megyek, oda ti nem jöhettek. És így tovább.
 _

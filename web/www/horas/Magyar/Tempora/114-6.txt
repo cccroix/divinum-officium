@@ -1,6 +1,6 @@
 [Lectio1]
 Jonás Próféta könyvének kezdete
-!Jonæ 1:1-4
+!Jonah 1:1-4
 1 Az Úr szózatot intézett Jónáshoz, Amittai fiához:
 2 "Kelj útra, menj el Ninivébe, a nagy városba! Hirdesd neki, hogy gonoszsága~
 színem elé jutott."
@@ -14,7 +14,7 @@ tengeren. A hajó már-már összezúzódott.
 @Tempora/111-0:Responsory7
 
 [Lectio2]
-!Jonæ 1:5-7
+!Jonah 1:5-7
 5 A hajósok megrémültek, és isteneikhez imádkoztak. A hajó rakományát mind a~
 tengerbe dobálták, csakhogy könnyítsenek rajta. Jónás lement a hajó aljába, és~
 mélyen elaludt.
@@ -27,7 +27,7 @@ bennünket ez a veszedelem!" Sorsot vetettek, és a sors Jónásra esett.
 @Tempora/111-1:Responsory2
 
 [Lectio3]
-!Jonæ 1:8-12
+!Jonah 1:8-12
 8 Erre megkérdezték tőle: "Kérünk, mondd el nekünk, miért tört ránk ez a~
 szerencsétlenség? Mi a foglalkozásod, honnan jöttél, hol a hazád, melyik néphez~
 tartozol?"

@@ -1,6 +1,6 @@
 [Lectio1]
 Jézus Sírák fia könyvéből
-!Eccl 13:1-6
+!Sir 13:1-6
 1 A ki szurokhoz nyúl, beszennyezi vele magát; és a ki kevélylyel társalkodik, kevélységet ölt fel. 
 2 Terhet veszen magára, ki magánál tekintélyesebbel társalkodik; azért náladnál gazdagabbnak ne légy társa. 
 3 Összeillik-e a rézfazék a cserépfazékkalö ha egymásba ütödnek, ez eltörik. 
@@ -12,7 +12,7 @@ Jézus Sírák fia könyvéből
 @Tempora/081-0:Responsory7
 
 [Lectio2]
-!Eccl 13:9-15
+!Sir 13:9-15
 9 Alázd meg magadat Isten elött, és az ö kezétöl várj. 
 10 Vigyázz, nehogy bolondságra csábítván, megaláztassál. 
 11 Ne légy alázatos bölcseségedben, nehogy megaláztatván, bolondságra csábíttassál. 
@@ -25,7 +25,7 @@ Jézus Sírák fia könyvéből
 @Tempora/081-1:Responsory2
 
 [Lectio3]
-!Eccl 13:16-22
+!Sir 13:16-22
 16 Óvatos légy, és gondosan figyelj hallomásodra, mert közel jársz romlásodhoz. 
 17 És a mit hallasz, úgy nézd, mint álmot, és vigyázz. 
 18 Teljes életedben szeresd az Istent, és híjjad öt segítségöl üdvösségedre. 

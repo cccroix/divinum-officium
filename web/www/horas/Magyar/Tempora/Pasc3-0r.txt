@@ -7,7 +7,7 @@ Duplex
 Una Antiphona
 
 [Capitulum Vespera]
-!1 Petri 2:11
+!1 Pet 2:11
 v. Szeretteim, kérlek benneteket, hogy mint idegenek és zarándokok,~
 tartózkodjatok a testi kívánságoktól, mert ezek a lélek ellen törnek.
 $Deo gratias
@@ -30,7 +30,7 @@ $Per Dominum
 
 [Lectio1]
 Olvasmány a Jelenések könyvéből
-!Apoc 1:1-6
+!Rev 1:1-6
 1 Jézus Krisztus kinyilatkoztatása, amelyet azért adott neki az Isten, hogy~
 szolgáinak megmutasson mindent, aminek csakhamar be kell következnie. Elküldte~
 angyalát, így adta tudtul szolgájának, Jánosnak,
@@ -54,7 +54,7 @@ V. And hast made us to our God a kingdom and priests
 R. in thy blood, alleluja
 
 [Lectio2]
-!Apoc 1:7-11
+!Rev 1:7-11
 7 Íme, közeledik a felhőkben, látni fogja minden szem, még azoké is, akik~
 átszúrták! A föld minden népe veri majd a mellét. Igen. Ámen.
 8 "Én vagyok az alfa és az ómega (a kezdet és a vég)" - mondja az Úr, az Isten,~
@@ -76,7 +76,7 @@ R. Come over to me, all ye that desire me, and be filled with my fruits,~
 alleluja, alleluja.
 
 [Lectio3]
-!Apoc 1:12-19
+!Rev 1:12-19
 12 Erre megfordultam, hogy megnézzem, mely hang szól hozzám. Amint odafordultam,~
 hét arany gyertyatartót láttam,
 13 a gyertyatartók közt pedig az Emberfiához hasonlót. Bokáig érő ruhát viselt,~
@@ -166,7 +166,7 @@ R. Et odor vestimentorum ejus super omnia aromata, alleluja, alleluja.
 
 [Lectio7]
 Evangélium szent János Apostol kőnyvéből
-!Joann 16:16-22
+!John 16:16-22
 Azon időben mondá Jézus tanítványainak: Rövid idő s már nem láttok, ismét rövid~
 idő s viszontláttok. És így tovább.
 _
@@ -221,7 +221,7 @@ explicari.
 &teDeum
 
 [Capitulum Laudes]
-!1 Petri 2:11
+!1 Pet 2:11
 v. Szeretteim, kérlek benneteket, hogy mint idegenek és zarándokok,~
 tartózkodjatok a testi kívánságoktól, mert ezek a lélek ellen törnek.
 $Deo gratias
@@ -235,20 +235,20 @@ A little while * and you shall not see me; and again a little while, and you~
 shall see me, and, because I go to the Father, alleluja, alleluja.
 
 [Capitulum Tertia]
-!1 Petri 2:11
+!1 Pet 2:11
 v. Szeretteim, kérlek benneteket, hogy mint idegenek és zarándokok,~
 tartózkodjatok a testi kívánságoktól, mert ezek a lélek ellen törnek.
 $Deo gratias
 
 [Capitulum Sexta]
-!1 Petri 2:13-14
+!1 Pet 2:13-14
 v. Engedelmeskedjetek az Úrért minden emberi hatalomnak, mind a királynak, a~
 legfőbbnek, mind a helytartóknak, akiket ő küldött, hogy a gonoszokat~
 megbüntessék, a jókat pedig kitüntessék.
 $Deo gratias
 
 [Capitulum Nona]
-!1 Petri 2:18-19
+!1 Pet 2:18-19
 v. Szolgák, köteles tisztelettel vessétek alá magatokat uratoknak, nemcsak a~
 jóknak és a szelídeknek, hanem a durváknak is. Mert érdemet szerez, aki Istenre~
 való tekintettel türelmesen elviseli a fájdalmat

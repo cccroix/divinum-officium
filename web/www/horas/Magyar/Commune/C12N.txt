@@ -61,7 +61,7 @@ Most és örök időkön át.
 Ámen.
 _
 v. Capitulum
-!Eccl 24:24
+!Sir 24:24
 v. Én a szép szeretet anyja vagyok, és a félelemé és az ismereté és a szent reménységé.
 $Deo gratias
 _
@@ -103,7 +103,7 @@ R. Hogy sátraban lakjék színe előtt
 
 [Lectio1]
 Olvasmány Jézus Sírák fia könyvéből
-!Eccl 24:11-13
+!Sir 24:11-13
 11 minden nagy és kicsiny szivét legyöztem erömmel; és mindezekben nyugodalmat kerestem, és az Úr örökségében lett maradásom.
 12 Akkor parancsola és mondá nekem a mindenek Teremtöje, és a ki teremtett engem, megnyugovék hajlékomban,
 13 és mondá nekem: Jákobban lakjál, és Izraelben bírj örökséget, és választottaim között verj gyökeret.
@@ -115,7 +115,7 @@ V. Blessed art thou among women, and blessed is the fruit of thy womb.
 R. For thou hast borne in thy breast Him Whom the heavens cannot contain.
 
 [Lectio2]
-!Eccl 24:15-16
+!Sir 24:15-16
 15 És így Sionban megerösíttettem, és a megszentelt városban hasonlóképen megnyugodtam, és Jerusalemben az én hatalmam.
 16 És meggyökereztem a tiszteletre méltó nép között, és az én Istenem részében, mely az ö öröksége; és a szentek teljes gyülekezetében az én tartózkodásom.
 
@@ -128,7 +128,7 @@ R. Thou hast borne Him Who created thee, and thou abidest a virgin for ever.
 R. Thou hast borne Him Who created thee, and thou abidest a virgin for ever.
 
 [Lectio3]
-!Eccl 24:17-20
+!Sir 24:17-20
 17 Magasra nöttem, mint Libanon hegyén a czedrus, és mint a cziprusfa Sion hegyén;
 18 növekedtem mint a pálma Kádeszben, és mint a rózsaültetvény Jerikóban;
 19 mint a mezökön a szép olajfa, felnöttem, és mint a platanus viz mellett az utczákon.
@@ -240,7 +240,7 @@ _
 Ant. When, in an unspeakable manner, * Thou wast born of a Virgin, the Scriptures were fulfilled; to save man, Thou earnest down as dew upon the fleece we praise thee, O our God!
 _
 v. Capitulum
-!Eccl 24:15
+!Sir 24:15
 v. És így Sionban megerösíttettem, és a megszentelt városban hasonlóképen megnyugodtam, és Jerusalemben az én hatalmam.
 $Deo gratias
 _
@@ -285,7 +285,7 @@ _
 Ant. Mother of God, when Moses * saw the bush unconsumed, we own that it was a figure of the preservation of thy most wonderful virginity pray for us.
 _
 !!Capitulum
-!Eccl 24:16
+!Sir 24:16
 Meggyökereztem a tiszteletre méltó nép között, és az én Istenem részében, mely az ö öröksége; és a szentek teljes gyülekezetében az én tartózkodásom.
 $Deo gratias
 _
@@ -330,7 +330,7 @@ _
 Ant. Behold, the Lamb of God * behold Him that taketh away the sins of the world. Alleluja.
 _
 !!Capitulum
-!Eccl 24:19
+!Sir 24:19
 v. Mint a platanus viz mellett az utcákon,
 mint a fahéj és illatozó balzsam illatoztam, s mint a válogatott mirrha adtam a jóillat gyönyöröségét
 $Deo gratias.

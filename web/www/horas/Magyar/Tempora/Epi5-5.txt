@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Szent Pál Apostol Tituszhoz írt leveléből
-!Tit 2:15;3:1-2
+!Titus 2:15;3:1-2
 15 Erről beszélj, erre buzdíts és figyelmeztess teljes határozottsággal. Senki~
 meg ne vessen!
 1 Figyelmeztesd őket, hogy vessék alá magukat a fölöttes hatóságoknak,~
@@ -18,7 +18,7 @@ tanúsítsanak kellő szelídséget mindenki iránt.
 @Tempora/Epi2-5:Responsory1
 
 [Lectio2]
-!Tit 3:3-7
+!Titus 3:3-7
 3 Hiszen egykor mi magunk is balgák, engedetlenek és tévelygők voltunk,~
 mindenféle szenvedély és gyönyör hatalmában tartott bennünket; gonoszságunk,~
 irigységünk miatt utálatra méltók voltunk, és gyűlöltük egymást.
@@ -33,7 +33,7 @@ Szentlélekben való újjászületés és megújulás fürdőjében,
 @Tempora/Epi2-5:Responsory2
 
 [Lectio3]
-!Tit 3:8-11
+!Titus 3:8-11
 8 Igaz beszéd ez, s kívánom, hogy erről megbizonyosodj: Akik hisznek az Istenben,~
 igyekezzenek a jóban példát adni. Ez válik az embereknek javukra és hasznukra.
 9 Kerüld azonban az oktalan vitát, a nemzetségfákat, a veszekedést, a törvényen~

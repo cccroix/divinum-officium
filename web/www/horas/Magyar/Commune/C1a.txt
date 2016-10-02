@@ -13,7 +13,7 @@ Boldogok a békességben élők * boldogok a tiszta szívűek, mert meglátják 
 Kitartástokkal * megmentitek lelketeket;;116
 
 [Capitulum Vespera]
-!Ephes 2:19-20
+!Eph 2:19-20
 v. Ezért már nem vagytok idegenek és jövevények, hanem a szentek polgártársai és Isten családjának tagjai. Apostolokra és prófétákra alapozott épület vagytok, s a szegletkő maga Krisztus Jézus.
 $Deo gratias.
 
@@ -56,7 +56,7 @@ R. Their principality is exceedingly strengthened.
 
 [Lectio1]
 Olvasmány Ezekiel próféta könyvéből
-!Ezech 1:1-4
+!Ezek 1:1-4
 1 A 30. esztendőben, a negyedik hónapban, a hónap ötödik napján, amikor a száműzöttek között voltam a Kebár folyó mellett, megnyílt az ég, és isteni látomás tanúja voltam.
 2 A hónap ötödik napján - Jojachin király száműzetésének 5. esztendejében
 3 az Úr szózatot intézett Ezekiel paphoz, Buzi fiához a káldeusok földjén, a Kebár folyó mellett. Ott fölöttem volt az Úr keze.
@@ -69,7 +69,7 @@ V. Whilst you have the light, believe in the light, that you may be the children
 R. Be ye therefore wise as serpents and simple as doves.
 
 [Lectio2]
-!Ezech 1:5-9
+!Ezek 1:5-9
 5 Középütt kivettem valamit, amely négy élőlényhez hasonlított. Emberi formájuk volt.
 6 Mindegyiknek négy arca és mindegyiknek négy szárnya volt.
 7 A lábuk egyenes volt, a talpuk meg olyan, mint a borjú talpa, s úgy szikráztak, akár a fényes érc.
@@ -83,7 +83,7 @@ V. And you shall find rest to your souls.
 R. For my yoke is sweet and my burden light.
 
 [Lectio3]
-!Ezech 1:10-12
+!Ezek 1:10-12
 10 Arcuk emberi archoz hasonlított, és jobb felől mind a négynek oroszlánarca volt, bal felől meg mind a négynek bikaarca volt, s mind a négynek sasarca volt.
 11 Szárnyaik felül ki voltak terjesztve. Két szárnya mindegyiknek összeért, kettő meg a testüket födte.
 12 Mindegyik egyenesen ment maga előtt, oda mentek, ahova a lélek irányította őket, nem fordultak meg, amikor mentek.
@@ -129,7 +129,7 @@ R. And now have they crowns on their heads, and palms in their hands.
 
 [Lectio7]
 Evangélium szent Lukács Evangélista kőnyvéből
-!Luc 10:1-9
+!Luke 10:1-9
 Abban az időben az Úr kiválasztott más hetvenkettőt, és elküldte őket kettesével maga előtt minden városba és helységbe, ahová menni készült. És így tovább.
 _
 Homily by Pope St Gregory (the Great.)
@@ -166,7 +166,7 @@ Blessed are the peacemakers * the clean of heart, they shall see God.
 In your patience * you shall possess your souls.
 
 [Capitulum Laudes]
-!Ephes 2:19-20
+!Eph. 2:19-20
 v. Ezért már nem vagytok idegenek és jövevények, hanem a szentek polgártársai és Isten családjának tagjai. Apostolokra és prófétákra alapozott épület vagytok, s a szegletkő maga Krisztus Jézus.
 $Deo gratias.
 
@@ -181,11 +181,11 @@ R. És megértették cselekedeteit
 Ti akik mindent elhagytatok * és követtetek engem, százszoros jutalmat kaptok és az örök életet
 
 [Lectio Prima]
-!Act 5:41
+!Acts 5:41
 v. Boldogan távoztak a főtanácsból, mert méltók lettek rá, hogy Jézus nevéért gyalázatot szenvedjenek.
 
 [Capitulum Tertia]
-!Ephes 2:19-20
+!Eph. 2:19-20
 v. Ezért már nem vagytok idegenek és jövevények, hanem a szentek polgártársai és Isten családjának tagjai. Apostolokra és prófétákra alapozott épület vagytok, s a szegletkő maga Krisztus Jézus.
 $Deo gratias.
 
@@ -201,7 +201,7 @@ V. Fejedelmekké teszed őket országok felett.
 R. Megemlékeznek nevedről, Urunk
 
 [Capitulum Sexta]
-!Act 5:12
+!Acts 5:12
 v. Az apostolok keze sok jelet és csodát művelt a nép között.
 $Deo gratias
 
@@ -217,7 +217,7 @@ V. Barátaid Uram tiszteletre méltóak
 R. És országuk erős
 
 [Capitulum Nona]
-!Act 5:41
+!Acts 5:41
 v. Boldogan távoztak a főtanácsból, mert méltók lettek rá, hogy Jézus nevéért gyalázatot szenvedjenek.
 $Deo gratias
 

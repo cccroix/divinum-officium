@@ -56,7 +56,7 @@ betöltötte rajta és városain az átkot. A helyet elnevezték Hormának.
 4 Hór hegyétől a Sás-tenger felé vezető úton indultak tovább, hogy megkerüljék~
 Edom országát. A nép azonban belefáradt a vándorlásba
 5 és zúgolódott az Úr és Mózes ellen: "Miért hoztatok ki Egyiptomból? Hogy~
-elpusztuljunk a pusztában? Hisz se kenyér, se víz nincs!Ezech a nyomorúságos~
+elpusztuljunk a pusztában? Hisz se kenyér, se víz nincs! Ez a nyomorúságos~
 eledel utálattal tölt el minket!"
 6 Erre az Úr tüzes kígyókat küldött a népre.
 
@@ -112,7 +112,7 @@ become the more famous thenceforward.
 
 [Lectio7]
 Evangélium szent János Apostol kőnyvéből
-!Joann 12:31-36
+!John 12:31-36
 Azok idoben így szólt Jézus a zsidók sokaságahoz: Ítélet van most a világon.~
 Most vetik ki ennek a világnak a fejedelmét. És így tovább.
 _

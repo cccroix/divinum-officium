@@ -16,7 +16,7 @@ I bless thee, O Father of my Lord Jesus Christ, because by thine Apostle Thou ha
 Upon Him Who hath vouchsafed * to heal me of all my wounds, and to put new paps on my breasts, upon Him will I call, even upon the Living God.;;147
 
 [Capitulum Vespera]
-!Eccl 51:1-3
+!Sir 51:1-3
 v. Hálát adok neked, Uram Királyom! És~
 dicsérlek téged, szabadító Istenemet. Hálát adok a te nevednek, mert segítöm és~
 oltalmazóm lettél. Megszabadítottad testemet a romlástól, a rosz nyelvek~
@@ -49,7 +49,7 @@ R. He hath made her to dwell in His tabernacle.
 
 [Lectio1]
 Olvasmány Jézus Sírák fia könyvéből
-!Eccl 51:1-7
+!Sir 51:1-7
 1 Jézusnak, Sirák fiának imádsága. Hálát adok neked, Uram Királyom! És dicsérlek~
 téged, szabadító Istenemet.
 2 Hálát adok a te nevednek, mert segítöm és oltalmazóm lettél.
@@ -73,7 +73,7 @@ R. Thou foul, cruel, and bloody tyrant, art thou not ashamed to do this to me,~
 having thyself sucked at a mother's breast?
 
 [Lectio2]
-!Eccl 51:8-12
+!Sir 51:8-12
 8 Mindhalálig dicséri lelkem az Urat;
 9 mert életem közelgetett lefelé a pokolhoz.
 10 Körölvettek engem mindenfelöl, és nem volt, ki segítsen; körölnéztem az~
@@ -92,7 +92,7 @@ R. She went like a guest to a banquet, and recommended her struggle to the Lord~
 in prayer.
 
 [Lectio3]
-!Eccl 51:13-17
+!Sir 51:13-17
 13 Felmagasztaltad a földön lakhelyemet és az elmúló halálért könyörögtem.
 14 Segítségöl hittam az Urat, az én Uram Atyját, hogy ne hagyjon engem~
 háborúságom napján és a kevélyek idejében segítség nélkül.
@@ -182,7 +182,7 @@ R. They ordered me to be tortured in the breasts.
 
 [Lectio7]
 Evangélium szent Máté Apostol kőnyvéből
-!Matth 19:3-12
+!Matt 19:3-12
 Azon időben odamentek Jézushoz a farizeusok, hogy próbára tegyék. Ezt kérdezték:~
 "El szabad a férfinek bármilyen okból bocsátania a feleségét?" És így tovább.
 _
@@ -245,7 +245,7 @@ I bless thee, O Father of my Lord Jesus Christ, because by thine Apostle Thou ha
 Upon Him Who hath vouchsafed * to heal me of all my wounds, and to put new paps on my breasts, upon Him will I call, even upon the Living God
 
 [Capitulum Laudes]
-!Eccl 51:1-3
+!Sir 51:1-3
 v. Hálát adok neked, Uram Királyom! És~
 dicsérlek téged, szabadító Istenemet. Hálát adok a te nevednek, mert segítöm és~
 oltalmazóm lettél. Megszabadítottad testemet a romlástól, a rosz nyelvek~
@@ -266,7 +266,7 @@ witness Agatha grace to follow her steps to thee-ward.
 $Per Dominum
 
 [Capitulum Tertia]
-!Eccl 51:1-3
+!Sir 51:1-3
 v. Hálát adok neked, Uram Királyom! És~
 dicsérlek téged, szabadító Istenemet. Hálát adok a te nevednek, mert segítöm és~
 oltalmazóm lettél. Megszabadítottad testemet a romlástól, a rosz nyelvek~
@@ -274,14 +274,14 @@ törétöl
 $Deo gratias
 
 [Capitulum Sexta]
-!Eccl 51:4-5
+!Sir 51:4-5
 v. És megszabadítottál engem a te neved irgalmának sokasága szerint az~
 elnyelésemre készölt ordítóktól, az én lelkemet keresök kezeiböl, és a~
 háborúság kapuiból, mely körölvett engem,
 $Deo gratias
 
 [Capitulum Nona]
-!Eccl 51:8; 51:12
+!Sir 51:8; 51:12
 v. Mindhalálig dicséri lelkem az Urat; hogy kimented, Uram, a te rád~
 várakozókat, és kiszabadítod öket a pogányok kezeiböl.
 $Deo gratias

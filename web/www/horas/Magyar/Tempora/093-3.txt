@@ -9,7 +9,7 @@ Preces Feriales
 
 [Lectio1]
 Evangélium szent Márk Evangélista kőnyvéből
-!Marc 9:16-28
+!Mark 9:16-28
 Azon időben valaki így szól Jézushoz a tömegből: Mester, elhoztam hozzád a~
 fiamat, akit néma lélek szállt meg. And so on.
 _

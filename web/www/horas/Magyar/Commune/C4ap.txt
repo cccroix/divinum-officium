@@ -15,7 +15,7 @@ O all ye Priests of God, * bless ye the Lord O all ye servants of the Lord, sing
 Good and faithful servant, * enter thou into the joy of thy Lord. Alleluja;;116
 
 [Capitulum Vespera]
-!Eccl 44:16-17
+!Sir 44:16-17
 v. Ime a nagy főpap aki a maga idejében tetszett az Urnak, igaznak bizonyult és a haragnapján engesztelés lett
 $Deo gratias
 
@@ -60,7 +60,7 @@ R. Melkizedek rendje szerint. Alleluja.
 
 [Lectio1]
 Olvasmány Jézus Sírák fia könyvéből
-!Eccl 39:1-5
+!Sir 39:1-5
 1 Milyen más, aki egész lelkét arra adja, hogy a Magasságbeli törvényét tanulja; kutatja az elődök bölcsességét, s a jövendölésnek szenteli idejét.
 2 Neves emberek mondásait őrzi, s behatol a példabeszédek világába.
 3 A hasonlatok titkait fürkészi, s a bölcs mondások értelmét keresi.
@@ -74,7 +74,7 @@ V. Lord, thou deliveredst unto me five talents; behold, I have gained beside the
 R. Enter thou into the joy of thy Lord. Alleluja
 
 [Lectio2]
-!Eccl 39:6-10
+!Sir 39:6-10
 6 Ha tetszik Urának, a Hatalmasnak, akkor eltölti az értelem lelkével. Bölcs szavak törnek elő belőle, és imádságában az Urat dicséri.
 7 Bölcsen gondolkodik, ért a tudományhoz, s titkok megértésén járatja az eszét.
 8 Nyilvánosságra is hozza tanítását, s dicsekszik az Úrnak szent szövetségével.
@@ -136,7 +136,7 @@ R. May he pray for all people, that their sins may be forgiven unto them Alleluj
 
 [Lectio7]
 Evangélium szent Máté Apostol kőnyvéből
-!Matth 5:13-19
+!Matt 5:13-19
 13 Ti vagytok a föld sója. Ha a só ízét veszti, ugyan mivel sózzák meg? És így tovább.
 _
 Homily by St Hilary, Bishop of Poitiers.
@@ -173,7 +173,7 @@ O all ye Priests of God, * bless ye the Lord O all ye servants of the Lord, sing
 Good and faithful servant, * enter thou into the joy of thy Lord. Alleluja
 
 [Capitulum Laudes]
-!Eccl 4416-17
+!Sir 4416-17
 v. Ime a nagy főpap aki a maga idejében tetszett az Urnak, igaznak bizonyult és a haragnapján engesztelés lett
 $Deo gratias.
 
@@ -204,11 +204,11 @@ Hear, O Lord, we beseech thee, the prayers which we offer thee on this the solem
 $Per Dominum.
 
 [Lectio Prima]
-!Eccl 45:19-20
+!Sir 45:19-20
 v. Örök szövetséget kötött vele, nem talál magához hasonlót dicsőségben; ő megtartotta a Fölséges törvényét, és szövetségben volt vele.
 
 [Capitulum Tertia]
-!Eccl 44:16-19
+!Sir 44:16-19
 v. Ime a nagy főpap aki a maga idejében tetszett az Urnak, igaznak bizonyult és a haragnapján engesztelés lett
 $Deo gratias
 
@@ -224,7 +224,7 @@ V. Az Úr kiválasztotta őt papjául
 R. Hogy bemutassa a dicséret ádozatát
 
 [Capitulum Sexta]
-!Eccl 44:20; 44:22
+!Sir 44:20; 44:22
 v. Nincs hozzá hasonló aki ugyanűgy megtartaná az Úr törvényét. Ezért az Úr megesküdőtt és népe fölé helyezte őt
 $Deo gratias
 
@@ -240,7 +240,7 @@ V. Te pap vagy mindörökké
 R. Melkizedek rendje szerint`
 
 [Capitulum Nona]
-!Eccl 45:19-20
+!Sir 45:19-20
 v. Örök szövetséget kötött vele, nem talál magához hasonlót dicsőségben; ő megtartotta a Fölséges törvényét, és szövetségben volt vele.
 $Deo gratias
 
