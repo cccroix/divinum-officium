@@ -24,7 +24,7 @@ $Per Dominum
 
 [Lectio]
 Olvasmány szent Jakab apostol leveléből
-!Jacob 1:17-21
+!Jas 1:17-21
 v. Minden jó adomány és minden tökéletes ajándék felülről van, a világosság Atyjától száll alá, akiben nincs változás, még árnyéka sem a változásnak.  Akarattal hívott minket életre az igazság szavával, hogy mintegy zsengéje legyünk teremtményeinek.  Értsétek meg, kedves testvéreim: Legyen minden ember készen a hallgatásra, de késedelmes a szólásra, késedelmes a haragra.  Mert haragjában az ember nem azt teszi, ami az Isten előtt igazságos.  Ezért hagyjatok fel minden tisztátalansággal és burjánzó gonoszsággal, fogadjátok tanulékony lélekkel a belétek oltott tanítást, ez képes megmenteni lelketeket. 
 
 [Graduale]
@@ -36,7 +36,7 @@ v.  Knowing that Christ rising again from the dead, dieth now no more, death sha
 
 [Evangelium]
 Evangélium + szent János Apostol kőnyvéből
-!Joann 16:5-14
+!John 16:5-14
 v. Most elmegyek ahhoz, aki küldött. De senki sem kérdezi közületek: Hova mégy?  Inkább szomorúság tölti el szíveteket, amiért ezt mondtam.  De az igazságot mondtam: Jobb nektek, ha elmegyek, mert ha nem megyek el, akkor nem jön el hozzátok a Vigasztaló. Ha azonban elmegyek, akkor elküldöm.  Amikor eljön, meggyőzi a világot a bűnről, az igazságról és az ítéletről.  A bűnről, amiért nem hittek bennem.  Az igazságról, hogy az Atyához megyek, s többé nem láttok.  Az ítéletről, mivel a világ fejedelme ítélet alá esett.  Még sok mondanivalóm volna, de nem vagytok hozzá elég erősek.  Hanem amikor eljön az Igazság Lelke, ő majd elvezet benneteket a teljes igazságra. Nem magától fog beszélni, hanem azt mondja el, amit hall, és a jövendőt fogja hirdetni nektek.  Megdicsőít engem, mert az enyémből kapja, amit majd hirdet nektek. 
 
 [Offertorium]
@@ -48,7 +48,7 @@ O God, who by the august communion of this sacrifice hast make us partekers of o
 $Per Dominum.
 
 [Communio]
-!Joann 16:8
+!John 16:8
 v.  And when he is come, he will convince the world of sin, and of justice, and of judgment, allelúja, allelúja.
 
 [Postcommunio]

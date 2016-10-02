@@ -33,7 +33,7 @@ $Per Dominum
 
 [Lectio]
 Olvasmány Jézus Sírák fia könyvéből
-!Eccl 24:5; 14:7; 14:9-11; 24:30-31
+!Sir 24:5; 14:7; 14:9-11; 24:30-31
 v. Én a Fölségesnek szájából származtam, elsöszülött vagyok minden teremtmény elött.  És ha jót cselekszik is, nem tudva és nem akarva cselekszi; s végre is elárúlja gonoszságát.  A fösvény szeme telhetetlen a gonoszság részében, nem elégszik meg, míg elepesztvén, meg nem emészti lelkét.  A gonosz szem gonoszra néz; kenyérböl sem eszik eleget, hanem szökölködik, és bánkodik saját asztalánál.  Fiam! ha értéked vagyon, tégy jót magaddal, és méltó áldozatokat mutass be az Istennek.  A ki engem hallgat, nem szégyenöl meg, és a kik általam munkálkodnak, nem vétkeznek.  A kik fényt derítenek rám, örök életet nyernek. 
 
 [GradualeP]
@@ -43,7 +43,7 @@ Alleluia.
 V. Now with Him you reign forever. Alleluia.
 
 [Graduale]
-!Apoc 19:16; Ps 44:10
+!Rev 19:16; Ps 44:10
 He has on His garment and on His thigh a name written: King of kings and Lord of~
 lords.
 V. The Queen takes her place at His right hand, in gold of Ophir. Alleluia,~
@@ -53,7 +53,7 @@ of death. Alleluia.
 
 [Evangelium]
 Evangélium + szent Lukács Evangélista kőnyvéből
-!Luc 1:26-33
+!Luke 1:26-33
 v. A hatodik hónapban az Isten elküldte Gábor angyalt Galilea Názáret nevű városába  egy szűzhöz, aki egy Dávid házából való férfinak, Józsefnek volt a jegyese, és Máriának hívták.  Az angyal belépett hozzá és megszólította: "Üdvözlégy, kegyelemmel teljes! Veled van az Úr! Áldottabb vagy minden asszonynál."  E szavak hallatára Mária zavarba jött, és gondolkozni kezdett rajta, miféle köszöntés ez.  Az angyal ezt mondta neki: "Ne félj, Mária! Kegyelmet találtál Istennél.  Gyermeket fogansz, fiút szülsz, és Jézusnak fogod elnevezni.  Nagy lesz ő és a Magasságbeli Fiának fogják hívni. Az Úr Isten neki adja atyjának, Dávidnak trónját,  és uralkodni fog Jákob házán örökké, s országának nem lesz vége." 
 
 [Offertorium]
@@ -68,7 +68,7 @@ helpful for our salvation.
 $Per Dominum
 
 [Communio]
-!Matth 19:28-29
+!Matt 19:28-29
 Most worthy Queen of the world, Mary ever Virgin, who have borne Christ the Lord,~
 the Savior of all, intercede for our peace and salvation. (Alleluia.)
 

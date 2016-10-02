@@ -6,7 +6,7 @@ vide C5;;
 9 lectiones
 
 [Introitus]
-!Eccl 11:13
+!Ecclus 11:13
 v. The eye of God looks favorably upon him; He raises him free of the vile dust, and lifts up his head to the amazement of the many who glorify God.
 !Ps 72:1
 How good is God to Israel, to those who are clean of heart!
@@ -42,12 +42,12 @@ V. You have made him little less than the angels, and crowned him with glory and
 Alleluia, alleluia.
 !Ps 8:6-7
 V. O Lord, You have made him little less than the angels, and crowned him with glory and honor. You have given him rule over the works of Your hands. Alleluia.
-!Eccl 11:24 Gods blessing is the lot of the just man, and in due time his hopes bear fruit. Alleluia.
+!Sir. 11:24 Gods blessing is the lot of the just man, and in due time his hopes bear fruit. Alleluia.
 
 [Evangelium]
 Evangélium + szent Márk Evangélista kőnyvéből
-!Marc 10:13-21
-v. Kisgyerekeket hoztak hozzá, hogy érintse meg őket. De a tanítványok elutasították őket.  Amikor Jézus észrevette, helytelenítette. "Hagyjátok - mondta -, hadd jöjjenek hozzám a kicsinyek, ne akadályozzátok őket, hisz ilyeneké az Isten országa.  Bizony mondom nektek, aki nem úgy fogadja az Isten országát, mint egy gyermek, nem jut be oda."  Azután megölelte, és kezét rájuk téve megáldotta őket.  Amikor útnak indult, odasietett hozzá valaki, térdre borult előtte, és úgy kérdezte: "Jó Mester!Mich tegyek, hogy elnyerjem az örök életet?"  "Miért mondasz engem jónak? - kérdezte Jézus. - Senki sem jó, csak egy, az Isten.  Ismered a parancsokat: Ne ölj! Ne törj házasságot! Ne lopj! Ne tanúskodjál hamisan! Ne csalj! Tiszteld apádat és anyádat!"  "Mester - válaszolta -, ezeket mind megtartottam kora ifjúságomtól fogva."  Jézus ránézett és megkedvelte. "Valami hiányzik még belőled - mondta neki. - Menj, add el, amid van, oszd szét a szegények közt, és így kincsed lesz az égben, aztán gyere és kövess engem!" 
+!Mark 10:13-21
+v. Kisgyerekeket hoztak hozzá, hogy érintse meg őket. De a tanítványok elutasították őket.  Amikor Jézus észrevette, helytelenítette. "Hagyjátok - mondta -, hadd jöjjenek hozzám a kicsinyek, ne akadályozzátok őket, hisz ilyeneké az Isten országa.  Bizony mondom nektek, aki nem úgy fogadja az Isten országát, mint egy gyermek, nem jut be oda."  Azután megölelte, és kezét rájuk téve megáldotta őket.  Amikor útnak indult, odasietett hozzá valaki, térdre borult előtte, és úgy kérdezte: "Jó Mester! Mit tegyek, hogy elnyerjem az örök életet?"  "Miért mondasz engem jónak? - kérdezte Jézus. - Senki sem jó, csak egy, az Isten.  Ismered a parancsokat: Ne ölj! Ne törj házasságot! Ne lopj! Ne tanúskodjál hamisan! Ne csalj! Tiszteld apádat és anyádat!"  "Mester - válaszolta -, ezeket mind megtartottam kora ifjúságomtól fogva."  Jézus ránézett és megkedvelte. "Valami hiányzik még belőled - mondta neki. - Menj, add el, amid van, oszd szét a szegények közt, és így kincsed lesz az égben, aztán gyere és kövess engem!" 
 
 [Offertorium]
 !Ps 115:16-17
@@ -58,7 +58,7 @@ O Lord, make us who offer You the saving sacrificial gifts in memory of blessed 
 $Qui vivis
 
 [Communio]
-!Apoc 3:20
+!Rev 3:20
 Behold, I stand at the door and knock. If any man listens to My voice and opens the door to Me, I will come in to him and will sup with him, and he with Me.
 
 [Postcommunio]

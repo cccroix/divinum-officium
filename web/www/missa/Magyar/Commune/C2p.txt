@@ -6,7 +6,7 @@ Commune unius Martyris Tempore Paschali; Protextsisti
 [Introitus]
 !Ps 63:3
 v. Thou hast protected me from the assembly of the malignant, alleluia; from the multitude of the workers of iniquity, alleluia, alleluia.
-!Ps 63:2
+!Ps. 63:2
 Hear, O God, my prayer, when I make supplication to thee: deliver my soul from the fear of the enemy.
 &Gloria
 v. Thou hast protected me from the assembly of the malignant, alleluia; from the multitude of the workers of iniquity, alleluia, alleluia.
@@ -37,7 +37,7 @@ $Per Dominum.
 
 [Lectio]
 Olvasmány a Bölcsesség könyvéből
-!Sap 5:1-5
+!Wis 5:1-5
 v. Akkor az igaz teljes biztonsággal áll szemben azokkal, akik sanyargatták, és lebecsülték a fáradozását.  Amikor ezt látják, iszonyú félelem fogja el őket, és nem tudnak hová lenni; annak nem várt üdvössége miatt.  Bánkódva szólnak egymáshoz, és sóhajtoznak lelkük félelmében:  "Ez az, akit egykor kinevettünk és akiből gúnyt űztünk. Mi esztelenek! Életmódját őrültségnek tartottuk és halálát dicstelennek.  Hogy lehet az, hogy Isten fiai közé sorolták és a szentek között van az osztályrésze? 
 
 [Graduale]
@@ -49,7 +49,7 @@ For thou hast prevented him with blessings of sweetness: thou hast set on his he
 
 [Evangelium]
 Evangélium + szent János Apostol kőnyvéből
-!Joann 15:1-7
+!John 15:1-7
 v. Én vagyok az igazi szőlőtő, s Atyám a szőlőműves.  Minden szőlővesszőt, amely nem hoz gyümölcsöt, lemetsz rólam, azt pedig, amely terem, megtisztítja, hogy még többet teremjen.  Ti már tiszták vagytok a tanítás által, amelyet hirdettem nektek.  Maradjatok hát bennem, s akkor én is bennetek maradok. Amint a szőlővessző nem teremhet maga, csak ha a szőlőtőn marad, úgy ti sem, ha nem maradtok bennem.  Én vagyok a szőlőtő, ti a szőlővesszők. Aki bennem marad, s én benne, az bő termést hoz. Hisz nélkülem semmit sem tehettek.  Aki nem marad bennem, azt kivetik, mint a szőlővesszőt, ha elszárad. Összeszedik, tűzre vetik és elég.  Ha bennem maradtok, és tanításom is bennetek marad, akkor bármit akartok, kérjetek, és megkapjátok. 
 
 [Offertorium]

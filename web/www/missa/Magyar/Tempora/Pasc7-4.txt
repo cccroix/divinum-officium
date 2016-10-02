@@ -14,7 +14,7 @@ Credo
 Prefatio=Spiritu
 
 [Introitus]
-!Sap 1:7.
+!Wis 1:7.
 v. The Spirit of the Lord fills the world, alleluia, is all-embracing, and knows~
 mans utterance, alleluia, alleluia, alleluia.
 !Ps 67:2
@@ -47,7 +47,7 @@ fire of Your love.
 
 [Evangelium]
 Evangélium + szent Lukács Evangélista kőnyvéből
-!Luc 9:1-6.
+!Luke 9:1-6.
 v. Összehívta a tizenkettőt, erőt és hatalmat adott nekik a gonosz lelkek fölött és a betegségek gyógyítására.  Aztán elküldte őket, hogy hirdessék az Isten országát és gyógyítsák meg a betegeket.  "Semmit se vigyetek az útra - hagyta meg nekik -, se botot, se tarisznyát, se kenyeret, se pénzt, se egy váltás ruhát.  Ha egy házba betértek, ott szálljatok meg és onnét induljatok tovább.  Ha valahol nem fogadnak be benneteket, hagyjátok ott a várost, és még a port is rázzátok le lábatokról ellenük tanúságul."  Útra keltek hát, bejárták a falvakat, mindenütt hirdették az evangéliumot és gyógyították a betegeket. 
 
 [Offertorium]

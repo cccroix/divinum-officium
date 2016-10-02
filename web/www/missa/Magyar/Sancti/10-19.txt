@@ -39,7 +39,7 @@ Alleluia.
 
 [Evangelium]
 Evangélium + szent Lukács Evangélista kőnyvéből
-!Luc 12:32-34
+!Luke 12:32-34
 v. Ne félj, te kisded nyáj, hisz Atyátok úgy látta jónak, hogy nektek adja országát.  Adjátok el, amitek van, adjátok oda a rászorulóknak. Készítsetek magatoknak kimeríthetetlen erszényt, elfogyhatatlan kincset a mennyben, ahol nem fér hozzá tolvaj, és nem rágja szét a moly.  Ahol a kincsetek, ott a szívetek is. 
 
 [Offertorium]
@@ -54,7 +54,7 @@ mind.
 $Per Dominum
 
 [Communio]
-!Matth 19:28-29
+!Matt 19:28-29
 Amen I say to you that you, who have left all things and followed Me, shall~
 receive a hundredfold, and shall possess life everlasting.
 

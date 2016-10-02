@@ -12,7 +12,7 @@ Prefatio=Apostolis
 Sub unica concl
 
 [Introitus]
-!2 Tim 1:12
+!2 Tim. 1:12
 v. I know Whom I have believed, and I am certain that He is able to guard the~
 trust committed to Him, against that day; being a just judge.
 !Ps 138:1-2
@@ -44,7 +44,7 @@ v. Biztosítalak benneteket, testvérek, hogy az általam hirdetett evangélium 
 !Gal 2:8-9
 He Who worked in Peter for the apostleship, worked also in me among the Gentiles;~
 and they recognized the grace of God, that was given to me.
-!1 Cor 15:10
+!1 Cor. 15:10
 V. The grace of God in me has not been fruitless; but His grace always remains~
 in me. Alleluia, alleluia.
 V. Holy Apostle Paul, preacher of truth, and teacher of the Gentiles, intercede~
@@ -52,7 +52,7 @@ for us. Alleluia.
 
 [Evangelium]
 Evangélium + szent Máté Apostol kőnyvéből
-!Matth 10:16-22
+!Matt 10:16-22
 v. Nézzétek, úgy küldelek titeket, mint bárányokat a farkasok közé! Legyetek tehát okosak, mint a kígyók, és egyszerűek, mint a galambok!  Az emberekkel szemben legyetek óvatosak, mert bíróság elé állítanak, zsinagógáikban pedig megostoroztatnak benneteket!  Miattam helytartók és királyok elé hurcolnak, hogy tegyetek előttük és a pogányok előtt tanúságot.  Amikor átadnak benneteket a bíróságnak, ne töprengjetek, hogyan és mit mondjatok! Abban az órában megadatik nektek, hogyan beszéljetek.  Mert hisz nem ti fogtok beszélni, hanem majd Atyátok Lelke szól belőletek.  Halálra adja majd a testvér a testvért, az apa a gyermekét, a gyermekek meg szüleik ellen támadnak és vesztüket okozzák.  Mindenki szemében gyűlöletesek lesztek nevemért. Aki azonban mindvégig kitart, az üdvözül. 
 
 [Offertorium]
@@ -74,7 +74,7 @@ may obtain forgiveness for us.
 $Per Dominum
 
 [Communio]
-!Matth 19:28-29
+!Matt 19:28-29
 Amen I say to you that you who have left all things and followed Me, shall~
 receive a hundredfold, and shall possess life everlasting.
 

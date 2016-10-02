@@ -26,7 +26,7 @@ $Per Dominum
 
 [Lectio]
 Olvasmány szent Pál apostol Korintusiakhoz irott első leveléből
-!1 Cor 12:27-31
+!1 Cor. 12:27-31
 v. Ti Krisztusnak teste vagytok, s egyenként tagjai.  Ám az Egyházban Isten némelyeket apostollá, másokat prófétává, ismét másokat tanítóvá tett. Adott csodatevő hatalmat, gyógyítóerőt, segítőkészséget, kormányzóképességet, különféle nyelvadományt.  Vajon mind apostolok? Mind próféták? Mind tanítók? Valamennyien rendelkeznek csodatevő hatalommal  és gyógyítóerővel? Mindnyájan értelmezik a beszédeket?  Törekedjetek azonban az értékesebb adományokra! Ezért mindennél magasztosabb utat mutatok nektek. 
 
 [Graduale]
@@ -39,7 +39,7 @@ V. The glorious choir of the Apostles praises You, O Lord. Alleluia.
 
 [Evangelium]
 Evangélium + szent Lukács Evangélista kőnyvéből
-!Luc 6:12-19
+!Luke 6:12-19
 v. Ezekben a napokban történt, hogy kiment a hegyre imádkozni. Az egész éjszakát Isten imádásában töltötte.  Amikor megvirradt, odahívta magához tanítványait, és kiválasztott közülük tizenkettőt, s apostoloknak nevezte őket:  Simont, akit Péternek hívott, testvérét, Andrást, Jakabot és Jánost, Fülöpöt és Bertalant,  Mátét és Tamást, Alfeus fiát, Jakabot és a Zélótának nevezett Simont,  aztán Júdást, Jakab testvérét, és a karióti Júdást, aki később árulója lett.  Aztán lejött velük a hegyről és egy sík terepen megállt. Rengeteg tanítvány sereglett oda hozzá, s hatalmas tömeg gyűlt köré egész Júdeából, Jeruzsálemből, valamint a tíruszi és szidoni tengermellékről,  hogy hallgassák, és meggyógyultak, akiket tisztátalan lelkek kínoztak.  Az egész tömeg arra törekedett, hogy megérinthesse, mert erő áradt belőle, és mindenkit meggyógyított. 
 
 [Offertorium]
@@ -54,7 +54,7 @@ sacrifice of praise in his honor.
 $Per Dominum
 
 [Communio]
-!Matth 19:28
+!Matt 19:28
 You who have followed Me shall sit on thrones judging the twelve tribes of~
 Israel, says the Lord.
 

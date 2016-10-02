@@ -29,7 +29,7 @@ $Per Dominum
 
 [Lectio]
 Olvasmány szent Pál apostol Efezusiakhoz irott leveléből
-!Ephes 4:7-13
+!Eph 4:7-13
 v. Mindegyikünk Krisztus ajándékozásának mértéke szerint részesült a kegyelemben.  Ezért mondja az Írás: Fölment a magasba, magával vitte a foglyokat, s osztott az embereknek ajándékokat.  Az pedig, hogy fölment, mi mást jelent, mint hogy előbb le is szállt a lenti földi tájakra?  Aki leszállt, az emelkedett minden ég fölé, hogy betöltse a mindenséget.  Ő némelyeket apostollá, másokat prófétává, ismét másokat evangélistává, pásztorrá és tanítóvá tett,  hogy szolgálatuk betöltésére neveljék a szenteket, és fölépítsék Krisztus testét,  amíg mindnyájan el nem jutunk az Isten Fia hitének és megismerésének egységére, és meglett emberré nem leszünk, elérve Krisztus teljessége életkorának mértékére. 
 
 [Graduale]
@@ -44,7 +44,7 @@ exceedingly strengthened. Alleluia.
 
 [Evangelium]
 Evangélium + szent János Apostol kőnyvéből
-!Joann 15:17-25
+!John 15:17-25
 v. Ezt a parancsot adom nektek: szeressétek egymást!  Ha gyűlöl majd benneteket a világ, gondoljatok arra, hogy engem előbb gyűlölt, mint titeket.  Ha a világból valók volnátok, mint övéit szeretne benneteket a világ. De mert nem vagytok a világból valók, hanem kiválasztottalak benneteket a világból, gyűlöl benneteket a világ.  Gondoljatok a tőlem kapott tanításra: Nem nagyobb a szolga uránál. Ha tehát engem üldöztek, titeket is üldözni fognak. Ha az én tanításomat megtartották, a tieteket is megtartják.  S ezt mind az én nevemért teszik veletek, mert nem ismerik azt, aki küldött engem.  Ha nem jöttem és nem tanítottam volna őket, nem volna bűnük. De így nincs mentségük bűneikre.  Aki engem gyűlöl, Atyámat is gyűlöli.  Ha nem vittem volna végbe olyan tetteket közöttük, amilyeneket senki más nem vitt végbe, nem volna bűnük. De látták ezeket, mégis gyűlölnek engem is, Atyámat is.  Mert teljesednie kell a törvényükben olvasható jövendölésnek: Ok nélkül gyűlöltek. 
 
 [Offertorium]
@@ -59,7 +59,7 @@ celebrate their glory.
 $Per Dominum
 
 [Communio]
-!Matth 19:28
+!Matt 19:28
 You who have followed Me shall sit on thrones, judging the twelve tribes of~
 Israel.
 

@@ -7,7 +7,7 @@ Credo
 Sequentia
 
 [Introitus]
-!Eccl 15:3-4
+!Sir 15:3-4
 v.  She give them the water of wholesome wisdom to drink, alleluia; and she shall be made strong in him, and he shall not be moved: And she shall hold him fast, and he shall not be confounded: and she shall exalt them, allelúja, allelúja.
 !Ps 104:1
 Give glory to the Lord, and call upon his name: declare his deeds among the Gentiles. 
@@ -39,7 +39,7 @@ V. The Lord is risen from the sepulcher, He, who hangeth on the tree
 
 [Evangelium]
 Evangélium + szent Lukács Evangélista kőnyvéből
-!Luc 24:36-47
+!Luke 24:36-47
 v. Míg ezekről beszélgettek, egyszer csak megjelent köztük és köszöntötte őket: "Békesség nektek!"  Ijedtükben és félelmükben azt vélték, hogy szellemet látnak.  De ő így szólt hozzájuk: "Miért ijedtetek meg, s miért támad kétely szívetekben?  Nézzétek meg a kezem és a lábam! Én vagyok. Tapogassatok meg és lássatok! A szellemnek nincs húsa és csontja, de mint látjátok, nekem van."  Ezután megmutatta nekik kezét és lábát.  De örömükben még mindig nem mertek hinni és csodálkoztak. Ezért így szólt hozzájuk: "Van itt valami ennivalótok?"  Adtak neki egy darab sült halat.  Fogta és a szemük láttára evett belőle.  Aztán így szólt hozzájuk: "Ezeket mondtam nektek, amikor még veletek voltam, hogy be kell teljesednie mindannak, amit rólam Mózes törvényében, a prófétákban és a zsoltárokban írtak."  Ekkor megnyitotta értelmüket, hogy megértsék az Írásokat, s így folytatta:  "Meg van írva, hogy a Messiásnak szenvednie kell, és harmadnap fel kell támadnia a halálból.  Nevében megtérést és bűnbocsánatot kell hirdetni minden népnek Jeruzsálemtől kezdve. 
 
 [Offertorium]

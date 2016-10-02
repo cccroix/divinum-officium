@@ -12,7 +12,7 @@ Prefatio=Nat
 Prefatio1960=Trinitate
 
 [Introitus]
-!Ps 17:19-20.
+!Ps. 17:19-20.
 v. The Lord came to my support. He set me free in the open, and rescued me,~
 because He loves me.
 !Ps 17:2-3
@@ -32,7 +32,7 @@ Olvasmány szent János apostol első leveléből
 v. Ne csodálkozzatok azon, testvérek, hogy a világ gyűlöl benneteket.  Mi tudjuk, hogy a halálból átmentünk az életbe, mert szeretjük testvéreinket. Aki nem szeret, a halálban marad.  Aki gyűlöli testvérét, gyilkos, márpedig tudjátok, hogy egy gyilkosnak sem maradandó birtoka az örök élet.  A szeretetet arról ismerjük fel, hogy ő életét adta értünk. Nekünk is kötelességünk életünket adni testvéreinkért.  Hogyan marad meg az Isten szeretete abban, aki - bár bőven van neki a világ javaiból -, mégis, amikor látja, hogy testvére szükséget szenved, elzárja előle a szívét?  Gyermekeim, ne szeressünk se szóval, se nyelvvel, hanem tettel és igazsággal. 
 
 [Graduale]
-!Ps 119:1-2.
+!Ps. 119:1-2.
 In my distress I called to the Lord, and He answered me.
 V. O Lord, deliver me from lying lip, from treacherous tongue. Alleluia,~
 alleluia.
@@ -42,11 +42,11 @@ me. Alleluia.
 
 [Evangelium]
 Evangélium + szent Lukács Evangélista kőnyvéből
-!Luc 14:16-24.
+!Luke 14:16-24.
 v. Erre ezt válaszolta: "Egy ember nagy vendégséget rendezett. Sokakat meghívott.  Amikor eljött a lakoma kezdetének ideje, elküldte szolgáit, mondják meg a meghívottaknak: Gyertek, már minden készen van.  De elkezdtek mentegetőzni. Az egyik ezt üzente neki: Földet vettem, s el kell mennem megnézni. Kérlek, ments ki.  A másik azt mondta.: Öt iga ökröt vettem, megyek őket kipróbálni. Kérlek, ments ki.  Ismét más ezt mondta: Megnősültem, azért nem mehetek.  Visszatért a szolga, s átadta urának az üzeneteket. Megharagudott a házigazda, és megparancsolta szolgájának: Fogd magad, és eredj ki a város tereire és utcáira, és hívd ide a szegényeket, bénákat, vakokat és sántákat.  A szolga jelentette: Uram, parancsod teljesült, de még mindig van hely.  Az Úr erre ráparancsolt a szolgára: Menj ki az országutakra és a sövények mentére, és kényszeríts mindenkit, jöjjön el, hadd teljen meg a házam.  Mondom nektek, azok közül, akik hivatalosak voltak, senki sem ízleli lakomámat." 
 
 [Offertorium]
-!Ps 6:5.
+!Ps. 6:5.
 Return, O Lord, save my life; rescue me because of Your kindness.
 
 [Secreta]
@@ -55,7 +55,7 @@ pure, and day by day help us to live a more heavenly life.
 $Per Dominum
 
 [Communio]
-!Ps 12:6.
+!Ps. 12:6.
 I will sing of the Lord, He has been good to me; and I will sing to the Name of~
 the Lord the Most High.
 

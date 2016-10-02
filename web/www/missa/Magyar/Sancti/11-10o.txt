@@ -35,7 +35,7 @@ V. Precious in the eyes of the Lord is the death of His faithful ones. Alleluia.
 
 [Evangelium]
 Evangélium + szent Lukács Evangélista kőnyvéből
-!Luc 14:12:1 - 8.
+!Luke 14:12:1 - 8.
 v. Amikor Jézus szombaton egy vezető farizeus házába ment, hogy nála étkezzék, figyelték.  Íme, előtte állt egy vízkóros ember.  Jézus megkérdezte a törvénytudókat és a farizeusokat: "Szabad szombaton gyógyítani, vagy nem szabad?"  Azok hallgattak. Erre megérintette kezével, meggyógyította, és útnak bocsátotta.  Aztán hozzájuk fordult: "Ha valamelyiteknek a fia vagy az ökre kútba esik, nem húzza-e ki rögtön, akár szombaton is?"  Erre nem tudtak mit felelni.  A meghívottaknak egy példabeszédet mondott, mert észrevette, hogyan válogatják az első helyeket.  "Amikor lakodalomba hívnak - kezdte -, ne telepedjél le a főhelyre, mert akadhat a hivatalosak közt nálad előkelőbb is. 
 
 [Offertorium]
@@ -48,7 +48,7 @@ for the honor of all Your just ones, and, by Your mercy, salutary for us.
 $Per Dominum
 
 [Communio]
-!Matth 12:50
+!Matt 12:50
 Whoever does the will of My Father in heaven, he is My brother and sister and~
 mother, says the Lord.
 

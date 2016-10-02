@@ -6,7 +6,7 @@ vide C3;
 Gloria
 
 [Introitus]
-!Eccl 44:15; 44:14
+!Sir 44:15; 44:14
 v. Let the people shew forth their wisdom, and the church declare their praise.~
 Their name liveth unto generation and generation.
 !Ps 32:1
@@ -23,11 +23,11 @@ $Per Dominum
 
 [Lectio]
 Olvasmány a Bölcsesség könyvéből
-!Sap 10:17-20
+!Wis 10:17-20
 v. Az igazaknak megadta a jutalmat fáradozásaikért, vezette őket csodás utakon, és nappal hajlékul szolgált nekik, éjjel meg csillagfényül.  Átvitte őket a Vörös-tengeren, átvezette őket a hatalmas vízen.  Ellenségeiket a hullámokba temette, és a tenger mélyéből újra partra vetette.  Így kifosztották az igazak az istenteleneket, és magasztalták, Uram, a te szent nevedet, és egy szívvel-lélekkel áldották oltalmazó kezedet. 
 
 [Graduale]
-!Sap 3:1-2; 3:3
+!Wis 3:1-2; 3:3
 v. But the souls of the just are in the hand of God, and the torment of death~
 shall not touch them.
 V. In the sight of the unwise they seemed to die: and their departure was taken~
@@ -38,7 +38,7 @@ forever. Allelúja.
 
 [Evangelium]
 Evangélium + szent Lukács Evangélista kőnyvéből
-!Luc 10:16-20
+!Luke 10:16-20
 v. Aki titeket hallgat, engem hallgat, aki titeket elutasít, engem utasít el, aki pedig engem elutasít, azt utasítja el, aki küldött."  A hetvenkét tanítvány nagy örömmel tért vissza. "Uram - mondták -, nevedre még a gonosz lelkek is engedelmeskedtek nekünk."  Így válaszolt nekik: "Láttam a sátánt: mint a villám, úgy bukott le az égből.  Hatalmat adtam nektek, hogy kígyókon és skorpiókon járjatok, hogy minden ellenséges erőn úrrá legyetek. Nem fog ártani nektek semmi.  De mégse annak örüljetek, hogy a gonosz lelkek engedelmeskednek nektek, inkább annak örüljetek, hogy nevetek föl van írva a mennyben." 
 
 [Offertorium]
@@ -52,7 +52,7 @@ Your Saints.
 $Per Dominum
 
 [Communio]
-!Matth 10:27
+!Matt 10:27
 v. That which I tell you in the dark, speak ye in the light: and that which you~
 hear in the ear, preach ye upon the housetops.
 

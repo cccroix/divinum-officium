@@ -29,7 +29,7 @@ $Per Dominum
 
 [Lectio]
 Olvasmány szent Pál apostol Korintusiakhoz irott második leveléből
-!2 Cor 8:16-24
+!2 Cor. 8:16-24
 v. Hála legyen Istennek, aki Titusz szívét hasonló buzgóságra hangolta irántatok!  Engedett felszólításomnak, sőt mivel buzgósága még nagyobb volt, önszántából utazott hozzátok.  Vele küldjük azt a testvért is, akit az evangélium hirdetéséért minden egyházban dicsérnek.  De nemcsak dicsérik, hanem az egyházak kísérőnkül is rendelték a jótékonyság megszervezésében, amelyet az Úr dicsőségére saját akaratunkból vállaltunk.  El akartuk kerülni, hogy valaki megrágalmazzon a gondunkra bízott bőséges adomány miatt.  A becsületre ugyanis vigyázunk nemcsak Isten, hanem az emberek előtt is.  Velük küldtük még azt a testvérünket is, akinek buzgóságát sokféle dologban gyakran kipróbáltuk, s aki most irántatok való bizalma folytán még buzgóbb.  Ami Tituszt illeti, ő kísérőm, nálatok pedig munkatársam; ami a testvéreket illeti, ők az egyházak küldöttei, Krisztus dicsősége.  Tanúsítsatok szeretetet irántuk, és bizonyítsátok be az egyházak színe előtt, hogy a veletek való dicsekvésem nem alaptalan. 
 
 [Graduale]
@@ -38,13 +38,13 @@ Through all the earth their voice resounds, and to the ends of the world, their~
 message.
 V. The heavens declare the glory of God, and the firmament proclaims His~
 handiwork. Alleluia, alleluia.
-!Joann 15:16 
+!John 15:16 
 V. I have chosen you out of the world, that you should go and bear~
 fruit, and that your fruit should remain. Alleluia.
 
 [Evangelium]
 Evangélium + szent Lukács Evangélista kőnyvéből
-!Luc 10:1-9
+!Luke 10:1-9
 v. Ezek után az Úr kiválasztott más hetvenkettőt, és elküldte őket kettesével maga előtt minden városba és helységbe, ahová menni készült.  Így szólt hozzájuk: "Az aratnivaló sok, de a munkás kevés. Kérjétek hát az aratás urát, küldjön munkásokat az aratásra.  Menjetek! Úgy küldelek benneteket, mint bárányokat a farkasok közé.  Ne vigyetek magatokkal erszényt, se tarisznyát, se sarut. Az úton senkit ne üdvözöljetek.  Ha betértek egy házba, először ezt mondjátok: Békesség e háznak!  Ha békesség fia lakik ott, rászáll békességetek, ha nem, visszaszáll rátok.  Maradjatok ott abban a házban, és azt egyétek és igyátok, amijük van. Mert a munkás megérdemli a maga bérét. Ne járjatok házról házra.  Ha egy városba érkeztek és szívesen látnak titeket, egyétek, amit elétek adnak.  Gyógyítsátok meg ott a betegeket s hirdessétek: Közel van hozzátok az Isten országa! 
 
 [Offertorium]
@@ -59,7 +59,7 @@ Evangelist, lead us to heavenly glory.
 $Per Dominum
 
 [Communio]
-!Matth 19:28
+!Matt 19:28
 You who have followed Me shall sit upon thrones, judging the twelve tribes of~
 Israel.
 

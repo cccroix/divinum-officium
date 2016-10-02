@@ -25,14 +25,14 @@ Olvasmány szent Pál apostol Rómaiakhoz irott leveléből
 v. Ki szakíthat el bennünket Krisztus szeretetétől? Nyomor vagy szükség? Üldöztetés vagy éhínség, ruhátlanság, életveszély vagy kard?  Amint meg van írva: Minket minden időben teérted irtanak, s vágójuhok módjára tartanak.  De mindezeken diadalmaskodunk őáltala, aki szeret minket.  Biztos vagyok ugyanis benne, hogy sem halál, sem élet, sem angyalok, sem fejedelemségek, sem jelenvalók, sem eljövendők, sem hatalmasságok,  sem magasság, sem mélység, sem egyéb teremtmény el nem szakíthat bennünket Isten szeretetétől, amely Krisztus Jézusban, a mi Urunkban van. 
 
 [Graduale]
-!Eccl 44:16, 20.
+!Ecclus 44:16, 20.
 Behold a great priest, who in his days pleased God.
 V. There was not any found the like to him, who kept the law of the Most High. Alleluia, alleluia.
-!Gal 2:19-20
+!Gal. 2:19-20
 V. With Christ I am nailed to the cross: I live, now not I, but Christ liveth in me. Alleluia.
 
 [Tractus]
-!Eccl 44:16, 20.
+!Ecclus 44:16, 20.
 Behold a great priest, who in his days pleased God.
 V. There was not any found the like to him, who kept the law of the Most High. 
 !Ps 20:3 - 4.
@@ -42,7 +42,7 @@ V. Thou hast set on his head a crown of precious stones.
 
 [Evangelium]
 Evangélium + szent János Apostol kőnyvéből
-!Joann 12:24-26
+!John 12:24-26
 v. Bizony, bizony, mondom nektek: ha a búzaszem nem hull a földbe, és nem hal el, egymaga marad, de ha elhal, sok termést hoz.  Aki szereti életét, az elveszíti, de aki gyűlöli életét ebben a világban, az megmenti az örök életre.  Aki nekem szolgál, az engem kövessen, s ahol én vagyok, ott lesz a szolgám is. Aki nekem szolgál, azt megtiszteli az Atya. 
 
 [Offertorium]

@@ -8,10 +8,10 @@ Credo
 Prefatio=Spiritu=today;
 
 [Introitus]
-!Sap 1:7.
+!Wis 1:7.
 v. The Spirit of the Lord fills the world, alleluia, is all-embracing, and knows~
 mans utterance, alleluia, alleluia, alleluia.
-!Ps 67:2
+!Ps. 67:2
 God arises; His enemies are scattered, and those who hate Him flee before Him.
 &Gloria
 v. The Spirit of the Lord fills the world, alleluia, is all-embracing, and knows~
@@ -30,7 +30,7 @@ v. Amikor elérkezett pünkösd napja, ugyanazon a helyen mindnyájan együtt vo
 
 [Graduale]
 Alleluia, alleluia.
-!Ps 103:30
+!Ps. 103:30
 V. Send forth Your Spirit, and they shall be created: and You shall renew the~
 face of the earth. Alleluia. (Kneel.)
 V. Come, O Holy Spirit, fill the hearts of Your faithful: and kindle in them the~
@@ -80,7 +80,7 @@ Amen. Alleluia.
 
 [Evangelium]
 Evangélium + szent János Apostol kőnyvéből
-!Joann 14:23-31.
+!John 14:23-31.
 v. Jézus így folytatta: "Aki szeret engem, az megtartja tanításomat, s Atyám is szeretni fogja. Hozzá megyünk és benne fogunk lakni.  Aki nem szeret, az nem tartja meg tanításomat. A tanítás, amelyet hallotok, nem az enyém, hanem az Atyáé, aki engem küldött.  Ezeket akartam nektek mondani, amíg veletek vagyok.  S a Vigasztaló, a Szentlélek, akit majd a nevemben küld az Atya, megtanít benneteket mindenre és eszetekbe juttat mindent, amit mondtam nektek.  Békességet hagyok rátok. Az én békémet adom nektek. Nem úgy adom nektek, ahogy a világ adja. Ne nyugtalankodjék a szívetek, s ne csüggedjen.  Hiszen hallottátok, hogy azt mondtam: Elmegyek, de visszajövök hozzátok. Ha szeretnétek, örülnétek, hogy az Atyához megyek, mert az Atya nagyobb nálam.  Előre megmondtam nektek, mielőtt megtörtént volna, hogy ha majd bekövetkezik, higgyetek.  Már nem beszélek soká nektek, mert közeleg a világ fejedelme. Rajtam nincs hatalma.  De a világ így tudja meg, hogy szeretem az Atyát, és végbeviszem, amivel az Atya megbízott. Keljetek föl, menjünk innét! 
 
 [Offertorium]

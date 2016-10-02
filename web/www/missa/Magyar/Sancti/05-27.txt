@@ -10,7 +10,7 @@ CPapaM=Janos;
 Gloria
 
 [Introitus]
-!Eccl 15:5
+!Sir 15:5
 v. In the midst of the assembly he opened his mouth; and the Lord filled him~
 with the spirit of wisdom and understanding; He clothed him with a robe of~
 glory.
@@ -38,7 +38,7 @@ Let them extol in the assembly of the people and praise him in the council of~
 the elders.
 V. Let them give thanks to the Lord for His kindness and His wondrous deeds to~
 the children of men. Alleluia, alleluia.
-!Matth 16:18
+!Matt 16:18
 V. You are Peter, and upon this rock I will build My Church. Alleluia.
 
 [Tractus]
@@ -49,7 +49,7 @@ V. I have made no secret of Your kindness and Your truth in the vast assembly.
 
 [GradualeP]
 Alleluia, alleluia.
-!Matth 16:18
+!Matt 16:18
 V. You are Peter and upon this rock I will build My Church. Alleluia.
 !Ps 44:17-18
 V. You shall make them princes through all the land; they shall remember Your~
@@ -57,7 +57,7 @@ name through all generations. Alleluia.
 
 [Evangelium]
 Evangélium + szent Máté Apostol kőnyvéből
-!Matth 5:13-19
+!Matt 5:13-19
 v. Ti vagytok a föld sója. Ha a só ízét veszti, ugyan mivel sózzák meg? Nem való egyébre, mint hogy kidobják, s az emberek eltapossák.  Ti vagytok a világ világossága. A hegyen épült várost nem lehet elrejteni.  S ha világot gyújtanának, nem rejtik a véka alá, hanem a tartóra teszik, hogy mindenkinek világítson a házban.  Ugyanígy a ti világosságotok is világítson az embereknek, hogy jótetteiteket látva dicsőítsék mennyei Atyátokat!  Ne gondoljátok, hogy megszüntetni jöttem a törvényt vagy a prófétákat. Nem megszüntetni jöttem, hanem teljessé tenni.  Bizony mondom nektek, míg ég és föld el nem múlik, egy i betű vagy egy vesszőcske sem vész el a törvényből, hanem minden beteljesedik.  Aki tehát csak egyet is eltöröl e legkisebb parancsok közül, és úgy tanítja az embereket, azt igen kicsinek fogják hívni a mennyek országában. Aki viszont megtartja és tanítja őket, az nagy lesz a mennyek országában. 
 
 [Offertorium]
@@ -71,7 +71,7 @@ Lord; may it commend our offerings and ever secure for us Your forgiveness.
 $Per Dominum
 
 [Communio]
-!Luc 12:42
+!Luke 12:42
 The faithful and prudent servant whom the master will set over his household to~
 give them their ration of grain in due time.
 

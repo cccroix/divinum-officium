@@ -43,11 +43,11 @@ $Per eumdem
 
 [Lectio]
 Olvasmány szent Pál apostol Zsidókhoz irott leveléből
-!Hebr 5:1 - 6.
+!Heb 5:1 - 6.
 v. Mert minden főpapot az emberek közül választanak, és arra rendelik, hogy az Isten tiszteletében képviselje az embereket, ajándékokat és áldozatot mutasson be a bűnökért,  mint olyan valaki, aki megértő tud lenni a tudatlanok és a tévelygők iránt, hiszen őrá is gyöngeség nehezedik.  Ezért a népért is, saját vétkeiért is áldozatot kell bemutatnia.  A tisztséget magától senki sem vállalhatja, csak akit az Isten meghív, mint Áront.  Így Krisztus sem önmagát emelte főpapi méltóságra, hanem az, aki így szólt hozzá: "A Fiam vagy, ma szültelek."  Másutt meg ezt mondja: "Pap vagy mindörökké Melkizedek rendje szerint." 
 
 [Graduale]
-!Eccl 44:16, 20.
+!Ecclus 44:16, 20.
 Behold a great priest, who in his days pleased God.
 V. There was not found the like to him, who kept the law of the Most High.~
 Alleluia, alleluia.
@@ -56,7 +56,7 @@ Alleluia.
 
 [Evangelium]
 Evangélium + szent János Apostol kőnyvéből
-!Joann 10:11 - 16.
+!John 10:11 - 16.
 v. Én vagyok a jó pásztor. A jó pásztor életét adja juhaiért.  A béres azonban, aki nem pásztor, akinek a juhok nem sajátjai, otthagyja a juhokat és elfut, amikor látja, hogy jön a farkas. A farkas aztán elragadja és szétkergeti őket.  A béres azért fut el, mert béres, és nem törődik a juhokkal.  Én vagyok a jó pásztor, ismerem enyéimet, és enyéim is ismernek engem,  mint ahogy az Atya ismer engem és én ismerem az Atyát. Életemet adom a juhokért.  De más juhaim is vannak, amelyek nem ebből az akolból valók. Ezeket is ide kell vezetnem. Hallgatni fognak szavamra, s egy nyáj lesz és egy pásztor. 
 
 [Offertorium]
@@ -77,7 +77,7 @@ only-begotten Son cleanse us from the stains of our sins.
 $Per eumdem
 
 [Communio]
-!Joann 10:14
+!John 10:14
 I am the Good Shepherd: and I know My sheep, and Mine know Me.
 
 [Postcommunio]

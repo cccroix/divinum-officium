@@ -16,7 +16,7 @@ Prefatio=Nat
 Suffragium=Maria2;;
 
 [Introitus]
-!Sap 18:14-15.
+!Wis 18:14-15.
 v. For while all things were in quiet silence, and the night was in the midst of her course, Thy almighty word leapt down from heaven
 !Ps 92:l
 Dóminus regnávit, decórem indútus est: indutus est Dóminus fortitúdinem, et~
@@ -42,7 +42,7 @@ The Lord hath reigned, he is clothed with beauty: the Lord is clothed with stren
 
 [Evangelium]
 Evangélium + szent Máté Apostol kőnyvéből
-!Matth 2:19-23.
+!Matt 2:19-23.
 v. Amikor Heródes meghalt, megjelent Egyiptomban álmában Józsefnek az Úr angyala,  és így szólt hozzá: "Kelj föl, fogd a gyermeket és anyját és menj Izrael földjére, mert meghaltak, akik a gyermek életére törtek!"  Erre fölkelt, fogta a gyermeket és anyját, és Izrael földjére ment.  De amikor meghallotta, hogy Archelausz uralkodik Júdeában apja, Heródes után, félt odamenni, ezért egy álmában kapott utasításra Galilea tartományba költözött.  Odaérve Názáret városában telepedett le. Így teljesedett a próféták jövendölése: "Názáretinek fogják hívni." 
 
 [Offertorium]
@@ -55,7 +55,7 @@ grátiam nobis pić devotiónis obtíneat, et efféctum beátć perennitátis ac
 $Per Dominum
 
 [Communio]
-!Matth 2:20
+!Matt 2:20
 v. Take the child and his mother, and go into the land of Israel. For they are dead that sought the life of the child.
 
 [Postcommunio]

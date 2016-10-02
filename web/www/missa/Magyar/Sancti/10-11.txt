@@ -11,7 +11,7 @@ Credo
 Prefatio=Maria=Festivitate;
 
 [Introitus]
-!Isai 7:14
+!Isa 7:14
 v. Behold, the Virgin shall be with child and bear a Son, and shall name Him~
 Emmanuel.
 !Ps 97:1
@@ -28,11 +28,11 @@ $Per eumdem
 
 [Lectio]
 Olvasmány Jézus Sírák fia könyvéből
-!Eccl 24:23-31
+!Sir 24:23-31
 v. Én mint a szöllötö az illat gyönyöröségét termettem, és virágaimból díszes és becses gyümölcs lett.  Én a szép szeretet anyja vagyok, és a félelemé és az ismereté és a szent reménységé.  Nálam az út és igazság minden kegyelme, nálam az élet és erény minden reménysége.  Jöjetek át hozzám mindnyájan, kik engem kívántok, és gyümölcseimböl teljetek el.  Mert az én lelkem édesebb a méznél, és örökségem jobb a színméznél és a lépes méznél.  Az én emlékezetem él minden idök nemzedékeiben.  A kik engem esznek, méginkább éheznek; és a kik engem isznak, méginkább szomjaznak.  A ki engem hallgat, nem szégyenöl meg, és a kik általam munkálkodnak, nem vétkeznek.  A kik fényt derítenek rám, örök életet nyernek. 
 
 [Graduale]
-!Isai 11:1-2
+!Isa 11:1-2
 A shoot shall sprout from the stump of Jesse, and from his roots a bud shall~
 blossom.
 V. And the Spirit of the Lord shall rest upon Him. Alleluia, alleluia.
@@ -41,11 +41,11 @@ Himself in your Womb, becoming Man. Alleluia.
 
 [Evangelium]
 Evangélium + szent Lukács Evangélista kőnyvéből
-!Luc 2:43-51
+!Luke 2:43-51
 v. Az ünnepnapok elteltével hazafelé indultak. A gyermek Jézus azonban Jeruzsálemben maradt anélkül, hogy szülei tudták volna.  Abban a hitben, hogy az úti társaságban van, mentek egy napig, és keresték a rokonok és ismerősök között.  Amikor nem találták, visszafordultak Jeruzsálembe, hogy keressék.  Három nap múlva akadtak rá a templomban, ott ült a tanítók közt, hallgatta és kérdezgette őket.  Akik csak hallgatták, mind csodálkoztak okosságán és feleletein.  Amikor meglátták, csodálkoztak. Anyja így szólt hozzá: "Gyermekem, miért tetted ezt velünk? Íme, atyád és én szomorúan kerestünk."  Ezt felelte: "De miért kerestetek? Nem tudtátok, hogy nekem Atyám dolgaiban kell lennem?"  Ám ők nem értették meg ezeket a hozzájuk intézett szavakat.  Velük ment hát, lement Názáretbe, és engedelmeskedett nekik. Szavait anyja mind megőrizte szívében. 
 
 [Offertorium]
-!Matth 1:18
+!Matt 1:18
 When Mary His Mother had been betrothed to Joseph, she was found to be with~
 child by the Holy Spirit.
 

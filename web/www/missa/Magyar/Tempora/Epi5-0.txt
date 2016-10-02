@@ -39,7 +39,7 @@ Alleluia.
 
 [Evangelium]
 Evangélium + szent Máté Apostol kőnyvéből
-!Matth 13:24-30
+!Matt 13:24-30
 v. Más példabeszédet is mondott: "A mennyek országa hasonlít ahhoz az emberhez, aki jó magot vetett a földjébe.  Amikor szolgái aludtak, jött az ellensége, és konkolyt szórt a búza közé, aztán elment.  A vetés szárba szökött és kalászt hányt, de a konkoly is felütötte a fejét.  A szolgák elmentek a gazdához és megkérdezték: Uram, ugye jó magot vetettél földedbe? Honnét került hát bele a konkoly?  Az így válaszolt: Ellenséges ember műve. A szolgák tovább kérdezték: Akarod, hogy elmenjünk és kigyomláljuk?  Nem - válaszolta -, nehogy a konkolyt gyomlálva vele együtt a búzát is kitépjétek!  Hagyjatok, hadd nőjön mind a kettő az aratásig! Aratáskor majd szólok az aratóknak: Előbb a konkolyt szedjétek össze, kössétek kévébe és égessétek el, a búzát pedig gyűjtsétek csűrömbe!" 
 
 [Offertorium]
@@ -53,7 +53,7 @@ absolve our sins and direct our faltering hearts.
 $Per Dominum
 
 [Communio]
-!Luc 4:22
+!Luke 4:22
 They all marveled at these things that came from the mouth of God.
 
 [Postcommunio]

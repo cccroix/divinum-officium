@@ -32,7 +32,7 @@ $Per Dominum
 
 [Lectio]
 Olvasmány Jézus Sírák fia könyvéből
-!Eccl 31:8 11.
+!Ecclus 31:8 11.
 v. azért biztosítvák javai az Úrban, és alamizsnáit beszéli a szentek egész gyülekezete. 
 
 [Graduale]
@@ -42,13 +42,13 @@ grow in the house of the Lord.
 !Ps 91:3
 V. To proclaim Your kindness at dawn and Your faithfulness throughout the night.~
 Alleluia, alleluia.
-!Jacob 1:12
+!Jas 1:12
 V. Blessed is the man who endures temptation; for when he has been tried, he~
 will receive the crown of life. Alleluia.
 
 [Evangelium]
 Evangélium + szent Lukács Evangélista kőnyvéből
-!Luc 12:35-40
+!Luke 12:35-40
 v. Csípőtök legyen felövezve és égjen a lámpásotok.  Hasonlítsatok azokhoz az emberekhez, akik urukra várnak, hogy mihelyt megérkezik a menyegzőről és zörget, rögtön ajtót nyissanak neki.  Boldogok azok a szolgák, akiket uruk megérkezésekor ébren talál. Bizony mondom nektek, felövezi magát, asztalhoz ülteti őket, és megy, hogy kiszolgálja őket.  És ha a második vagy a harmadik őrváltáskor érkezve is így találja őket, boldogok azok a szolgák.  Gondoljátok meg: ha tudná a házigazda, hogy melyik órában jön a tolvaj, nem engedné betörni házába.  Legyetek ti is készen, mert olyan órában, amikor nem is gondoljátok, eljön az Emberfia." 
 
 [Offertorium]
@@ -68,7 +68,7 @@ for the honor of all Your just ones, and, by Your mercy, salutary for us.
 $Per Dominum
 
 [Communio]
-!Matth 24:46-47
+!Matt 24:46-47
 Blessed is that servant whom his master, when he comes, shall find watching.~
 Amen I say to you, he will set him over all his goods.
 

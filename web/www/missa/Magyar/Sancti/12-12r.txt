@@ -27,14 +27,14 @@ $Per Dominum
 
 [Lectio]
 Olvasmány Jézus Sírák fia könyvéből
-!Eccl 24:23-31
+!Ecclus 24:23-31
 v. Én mint a szöllötö az illat gyönyöröségét termettem, és virágaimból díszes és becses gyümölcs lett.  Én a szép szeretet anyja vagyok, és a félelemé és az ismereté és a szent reménységé.  Nálam az út és igazság minden kegyelme, nálam az élet és erény minden reménysége.  Jöjetek át hozzám mindnyájan, kik engem kívántok, és gyümölcseimböl teljetek el.  Mert az én lelkem édesebb a méznél, és örökségem jobb a színméznél és a lépes méznél.  Az én emlékezetem él minden idök nemzedékeiben.  A kik engem esznek, méginkább éheznek; és a kik engem isznak, méginkább szomjaznak.  A ki engem hallgat, nem szégyenöl meg, és a kik általam munkálkodnak, nem vétkeznek.  A kik fényt derítenek rám, örök életet nyernek. 
 
 [Graduale]
 !Cant 6:9
 Who is this that comes forth like the dawn, as beautiful as the moon, as~
 resplendent as the sun?
-!Eccl 50:8
+!Ecclus 50:8
 V. Like the rainbow appearing in the bright clouds, and as the flower of roses~
 in springtime. Alleluia, alleluia.
 !Cant 2:12
@@ -42,7 +42,7 @@ V. The flowers appear in our land, the time of pruning has come. Alleluia.
 
 [Evangelium]
 Evangélium + szent Lukács Evangélista kőnyvéből
-!Luc 1:39-47
+!Luke 1:39-47
 v. Mária még ezekben a napokban útnak indult, és a hegyekbe sietett, Júda városába.  Zakariás házába tért be és üdvözölte Erzsébetet.  Amikor Erzsébet meghallotta Mária köszöntését, örömében megmozdult méhében a gyermek, maga Erzsébet pedig eltelt Szentlélekkel.  Nagy szóval felkiáltott: "Áldott vagy az asszonyok között, és áldott a te méhed gyümölcse!  Hogy lehet az, hogy Uramnak anyja jön hozzám?  Lásd, mihelyt meghallottam köszöntésed szavát, az örömtől megmozdult méhemben a gyermek.  Boldog, aki hitt annak a beteljesedésében, amit az Úr mondott neki!"  Mária így szólt: "Lelkem magasztalja az Urat,  és szívem ujjong megváltó Istenemben, 
 
 [Offertorium]

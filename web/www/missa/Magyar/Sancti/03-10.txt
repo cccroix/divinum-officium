@@ -19,7 +19,7 @@ $Per Dominum
 
 [Lectio]
 Olvasmány szent Pál apostol Zsidókhoz irott leveléből
-!Hebr 11:33 - 39.
+!Heb 11:33 - 39.
 v. akik a hit erejével országokat győztek le, igazságot osztottak, ígéreteket nyertek el, oroszlánok torkát tömték be,  lángoló tüzet oltottak el, megmenekültek a kard élétől, gyengeségükben erőre kaptak, hősök voltak a háborúban, és megfutamították az ellenség sorait.  Asszonyok feltámasztás útján visszakapták halottaikat. Némelyek kínpadra jutottak, de nem fogadták el a szabadságot, csak hogy dicsőségesebb feltámadásban részesüljenek.  Mások gúnyt és megostorozást, sőt bilincseket és börtönt tűrtek el,  megkövezték, kettéfűrészelték, agyonkínozták, kardélre hányták őket, juhbőrbe és kecskebőrbe öltözve bujdostak, nélkülözés, üldözés és zaklatás közepette.  A világ nem volt méltó rájuk. Ezért a pusztában, a hegyek közt, a föld barlangjaiban és szurdokaiban bolyongtak.  Bár ezek a hitükről mind bizonyságot kaptak, mégsem nyerték el az ígéretet, 
 
 [Graduale]
@@ -33,7 +33,7 @@ V. They shall come back rejoicing, carrying their sheaves.
 
 [Evangelium]
 Evangélium + szent Lukács Evangélista kőnyvéből
-!Luc 6:17 - 23.
+!Luke 6:17 - 23.
 v. Aztán lejött velük a hegyről és egy sík terepen megállt. Rengeteg tanítvány sereglett oda hozzá, s hatalmas tömeg gyűlt köré egész Júdeából, Jeruzsálemből, valamint a tíruszi és szidoni tengermellékről,  hogy hallgassák, és meggyógyultak, akiket tisztátalan lelkek kínoztak.  Az egész tömeg arra törekedett, hogy megérinthesse, mert erő áradt belőle, és mindenkit meggyógyított.  Ekkor tanítványaira emelte tekintetét és megszólalt: "Boldogok vagytok, ti szegények, mert tiétek az Isten országa.  Boldogok vagytok, hogy most éheztek, mert jól fogtok lakni. Boldogok vagytok, akik most sírtok, mert nevetni fogtok.  Boldogok vagytok, ha gyűlölnek benneteket az emberek, kizárnak körükből és megrágalmaznak, s neveteket, mint valami szégyenletes dolgot, elvetik az Emberfia miatt.  Örüljetek azokban a napokban, ha majd ez bekövetkezik, és ujjongjatok, mert nagy jutalomban részesültök a mennyben! Atyáik is így bántak a prófétákkal. 
 
 [Offertorium]
@@ -45,7 +45,7 @@ Look with favor, O Lord, upon the prayers and offerings of Your faithful, that t
 $Per Dominum
 
 [Communio]
-!Matth 12:50
+!Matt 12:50
 Whoever does the will of My Father in heaven, he is My brother and sister and mother, says the Lord.
 
 [Postcommunio]

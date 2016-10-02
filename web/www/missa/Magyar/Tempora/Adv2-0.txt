@@ -10,7 +10,7 @@ Credo
 Suffr=Maria1;Ecclesiae,Papa;;
 
 [Introitus]
-!Isai 30:30
+!Isa 30:30
 v. People of Sion, behold the Lord shall come to save the nations; and the Lord~
 shall make the glory of His voice to be heard, in the joy of your heart.
 !Ps 79:2 O
@@ -46,7 +46,7 @@ by sacrifice.
 
 [Evangelium]
 Evangélium + szent Máté Apostol kőnyvéből
-!Matth 11:2-10
+!Matt. 11:2-10
 v. Közben János a börtönben hallott Jézus tetteiről. Elküldte tanítványait, hogy kérdezzék meg:  "Te vagy az eljövendő, vagy mást várjunk?"  Jézus így válaszolt és mondta: "Menjetek, s adjátok tudtul Jánosnak, amit hallotok és láttok:  Vakok látnak, sánták járnak, leprások megtisztulnak, süketek hallanak, halottak feltámadnak, a szegényeknek pedig hirdetik az evangéliumot.  Boldog, aki nem botránkozik rajtam."  Amikor azok elmentek, Jézus Jánosról kezdett beszélni a tömegnek: "Mit mentetek ki látni a pusztába? Széltől hajladozó nádat?  Vagy mit mentetek ki látni? Finom ruhába öltözött embert? Aki finom ruhában jár, királyi palotában lakik.  Miért mentetek ki? Prófétát látni. Igen, mondom nektek, prófétánál is nagyobbat.  Ő az, akiről az Írás szól: Nézd, elküldöm követemet előtted, hogy előkészítse utadat. 
 
 [Offertorium]
@@ -61,7 +61,7 @@ assistance with Your protection.
 $Per Dominum
 
 [Communio]
-!Baruch 5:5; 4:36
+!Bar 5:5; 4:36
 Up, Jerusalem! stand upon the heights; and behold the joy that comes to you from~
 your God.
 

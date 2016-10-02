@@ -10,7 +10,7 @@ Credo
 Suffr=Maria1;Ecclesiae,Papa;;
 
 [Introitus]
-!Phil 4:4-6
+!Phil. 4:4-6
 v. Rejoice in the Lord always: again I say, rejoice. Let you moderation be known~
 to all men: for the Lord is near. Have no anxiety, but in everything, by prayer~
 let your petitions be made known to God.
@@ -45,7 +45,7 @@ V. O Shepherd of Israel, hearken, O Guide of the flock of Joseph!
 
 [Evangelium]
 Evangélium + szent János Apostol kőnyvéből
-!Joann 1:19-28
+!John 1:19-28
 v. János így tett tanúságot: A zsidók papokat és levitákat küldtek hozzá Jeruzsálemből, s megkérdeztették: "Ki vagy?"  Erre megvallotta, nem tagadta, hanem megvallotta: "Nem én vagyok a Messiás."  Ezért megkérdezték tőle: "Hát akkor? Talán Illés vagy?" "Nem vagyok" - felelte. "A próféta vagy?" - Erre is nemmel válaszolt.  Így tovább faggatták: "Akkor ki vagy? Választ kell vinnünk azoknak, akik küldtek minket. Mit mondasz magadról?"  Ezt felelte: "A pusztában kiáltó szó vagyok: Egyengessétek az Úr útját", amint Izajás próféta mondta.  A küldöttek a farizeusoktól jöttek,  s tovább kérdezgették: "Akkor miért keresztelsz, ha nem vagy sem a Messiás, sem Illés, sem a próféta?"  János így válaszolt: "Én csak vízzel keresztelek. De köztetek áll az, akit nem ismertek,  aki a nyomomba lép, s akinek még a saruszíját sem vagyok méltó megoldani."  Ez Betániában történt, a Jordánon túl, ahol János keresztelt. 
 
 [Offertorium]
@@ -60,7 +60,7 @@ observed, and the work of Your salvation may be wonderfully effective within us.
 $Per Dominum
 
 [Communio]
-!Isai 35:4
+!Isa 35:4
 Say to those who are frightened: Be strong, fear not! Here is our God, He comes~
 to save us.
 

@@ -7,7 +7,7 @@ Credo
 Prefatio=Maria=Assumptione;
 
 [Introitus]
-!Apoc 12:1
+!Rev 12:1
 v. A great sign appeared in heaven: a woman clothed with the sun, and the moon~
 was under her feet, and upon her head a crown of twelve stars.
 !Ps 97:1
@@ -25,7 +25,7 @@ $Per eundem
 
 [Lectio]
 Olvasmány Judit könyvéből
-!Judith 13:22-25; 13:15; 13:10
+!Jdt 13:22-25; 13:15; 13:10
 v. Majd kivette a táskából a fejet, megmutatta nekik és így szólt: "Lám, Holofernesznek, az asszír sereg vezérének a feje, és itt a függöny is, ami mögött részegen feküdt. Isten egy asszony keze által sújtotta le.  Az betette táskájába, és szokásukhoz híven mindketten elmentek imádkozni. Áthaladtak a táboron, végigmentek a völgyön, megmászták Betilua lejtőjét és eljutottak kapuihoz. 
 
 [Graduale]
@@ -37,7 +37,7 @@ V. Mary is taken up into heaven: the choirs of the angels rejoice. Alleluia.
 
 [Evangelium]
 Evangélium + szent Lukács Evangélista kőnyvéből
-!Luc 1:41-50
+!Luke 1:41-50
 v. Amikor Erzsébet meghallotta Mária köszöntését, örömében megmozdult méhében a gyermek, maga Erzsébet pedig eltelt Szentlélekkel.  Nagy szóval felkiáltott: "Áldott vagy az asszonyok között, és áldott a te méhed gyümölcse!  Hogy lehet az, hogy Uramnak anyja jön hozzám?  Lásd, mihelyt meghallottam köszöntésed szavát, az örömtől megmozdult méhemben a gyermek.  Boldog, aki hitt annak a beteljesedésében, amit az Úr mondott neki!"  Mária így szólt: "Lelkem magasztalja az Urat,  és szívem ujjong megváltó Istenemben,  mert rátekintett szolgálója alázatosságára. Íme, mostantól fogva boldognak hirdet minden nemzedék,  mert nagyot tett velem a Hatalmas, és Szent az ő neve.  Irgalma nemzedékről nemzedékre az istenfélőkkel marad. 
 
 [Offertorium]
@@ -51,7 +51,7 @@ on fire with love, strive ever upward to You.
 $Per Dominum
 
 [Communio]
-!Luc 1:48-49
+!Luke 1:48-49
 All generations shall call me blessed; because He Who is mighty has done great~
 things for me.
 
