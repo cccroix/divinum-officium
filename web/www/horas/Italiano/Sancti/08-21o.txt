@@ -8,7 +8,7 @@ No secunda vespera
 
 [Lectio1]
 De Canticis Canticorum
-!Cant 7:1-5
+!Cant. 7:1-5
 CHE è quello, che tu vedrai Sulamitide, se non cori militari? Quanto belli sono i tuoi passi ne' (tuoi) calzari, o figlia di Principe! Le giunture de tuoi fianchi (son) come monili lavorati per mano d'artefice. 
 2 Le tue viscere (sono) un nappo fatto al torno, che non manca mai di bevanda. Il tuo ventre come un monte di frumento circondato da' gigli.
 3 Le due tue mammelle come due teneri cavrioli gemelli.
@@ -16,7 +16,7 @@ CHE è quello, che tu vedrai Sulamitide, se non cori militari? Quanto belli sono
 5 Il tuo capo come il Carmelo, e chiome del tuo capo come la porpora del re legata nei canali.
 
 [Lectio2]
-!Cant 7:6-13
+!Cant. 7:6-13
 6 Quanto bella se' tu, e quanto splendida nelle (tue) delizie, o carissima! 
 7 La tua statura è somigliante alla palma; e le tue mammelle ai grappoli. 
 8 Io dissi: Salirò sopra la palma coglierò i suoi frutti, e le tue mammelle saranno come grappoli della vite, e l'odore della tua bocca come l'odore di mele.
@@ -27,7 +27,7 @@ CHE è quello, che tu vedrai Sulamitide, se non cori militari? Quanto belli sono
 13 Le mandragore spirano odore: nelle nostre porte (son) tutti i pomi: e i nuovi, e i vecchi a te, o mio Diletto, gli ho serbati.
 
 [Lectio3]
-!Cant 8:1-4
+!Cant. 8:1-4
 1 Chi ti darà a me fratello mio, succhiante le mammelle della madre mia ond'io fuori ti ritrovi, e ti baci, e nissuno più mi disprezzi? 
 2 Io ti prenderò, e ti condurrò nella casa di mia madre; ivi tu sarai mio maestro, e io darotti bevanda di vino aromatico, e il mosto delle mie melagrane.
 3 La sinistra di lui sotto il mio capo, e la destra di lui mi abbraccerà. 

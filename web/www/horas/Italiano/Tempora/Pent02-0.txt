@@ -11,7 +11,7 @@ Antiphonas horas
 Doxology=Corp
 
 [Capitulum Vespera]
-!1 Joann 3:13-14
+!1 Joann. 3:13-14
 v. Carissimi: Non vi stupite se il mondo vi odia. Noi sappiamo che siamo passati dalla morte alla vita, perché amiamo i fratelli.
 $Deo gratias
 
@@ -42,19 +42,19 @@ $Qui vivis
 
 [Lectio1]
 Dal primo libro dei Re
-!1 Reg 4:1-3
+!1 Sam 4:1-3
 1 Or avvenne in quel tempo che i Filistei si radunarono per combattere: ed Israele usci incontro ai Filistei per la battaglia, e si accampò vicino alla Pietra del soccorso. Ma i Filistei giunsero ad Afec 
 2 e ordinaron l'esercito in faccia ad Israele. Ingaggiatasi poi la battaglia, Israele voltò le spalle ai Filistei, e furono trucidati in quel conflitto qua e là per i campi circa quattromila uomini. 
 3 E ritornato il popolo nell'accampamento, gli anziani di Israele dissero: Perché il Signore ci ha percossi oggi davanti ai Filistei? Prendiamo con noi da Silo l'arca dell'alleanza del Signore, ed essa venga in mezzo a noi, affinché ci salvi dalle mani dei nostri nemici.
 
 [Lectio2]
-!1 Reg 4:4-6
+!1 Sam 4:4-6
 4 Il popolo dunque mandò in Silo, e di là portarono l'arca dell'alleanza del Signore degli eserciti che siede sui Cherubini; e coll'arca dell'alleanza di Dio c'erano pure i due figli di Eli, Ofni e Finees. 
 5 E giunta l'arca dell'alleanza del Signore nell'accampamento, tutto Israele gridò sì forte, che ne rimbombò la terra. 
 6 I Filistei all'udire quelle alte grida, dissero: Che è questo rumore di grandi grida nel campo degli Ebrei? E intesero che era arrivata nell'accampamento l'arca del Signore.
 
 [Lectio3]
-!1 Reg 4:7-11
+!1 Sam 4:7-11
 7 Allora i Filistei s'impaurirono, e dicevano : È venuto Dio nel loro accampamento; e gemevano dicendo: 
 8 Guai a noi, perché non erano tanto allegri ieri né ieri l'altro: guai a noi! Chi ci salverà dalla mano di questi déi eccelsi? Questi sono gli dèi che fiaccarono l'Egitto con ogni sorta di sciagure presso al deserto. 
 9 Coraggio, o Filistei, e siate uomini, affinché non serviate agli Ebrei, come essi hanno servito a voi: coraggio e combattete. 
@@ -97,7 +97,7 @@ Onde anche noi, nati nelle pene di questo esilio, siamo già giunti quaggiù a t
 &teDeum
 
 [Capitulum Laudes]
-!1 Joann 3:13-14
+!1 Joann. 3:13-14
 v. Carissimi: Non vi stupite se il mondo vi odia. Noi sappiamo che siamo passati dalla morte alla vita, perché amiamo i fratelli.
 $Deo gratias
 
@@ -123,11 +123,11 @@ O Dio, che sotto un Sacramento mirabile ci hai lasciato il ricordo della tua pas
 $Qui vivis
 
 [Lectio Prima]
-!1 Joann 3:18
+!1 Joann. 3:18
 v. Figlioli miei, non amiamo a parole né colla lingua, ma coi fatti e per davvero.
 
 [Capitulum Tertia]
-!1 Joann 3:13-14
+!1 Joann. 3:13-14
 v. Carissimi: Non vi stupite se il mondo vi odia. Noi sappiamo che siamo passati dalla morte alla vita, perché amiamo i fratelli.
 $Deo gratias
 
@@ -143,7 +143,7 @@ V. Li cibò di fior di frumento, alleluia.
 R. E li saziò del miele stillante dalla roccia, alleluia.
 
 [Capitulum Sexta]
-!1 Joann 3:16
+!1 Joann. 3:16
 v. Da questo noi abbiamo constatato l'amore di Dio: che egli ha dato la sua vita per noi, così anche noi dobbiamo dare la vita per i fratelli.
 $Deo gratias
 
@@ -159,7 +159,7 @@ V. Tu trai il pane dalla terra, alleluia.
 R. E il vino che rallegra il cuore dell'uomo, alleluia.
 
 [Capitulum Nona]
-!1 Joann 3:18
+!1 Joann. 3:18
 v. Figlioli miei, non amiamo a parole né colla lingua, ma coi fatti e per davvero.
 $Deo gratias
 

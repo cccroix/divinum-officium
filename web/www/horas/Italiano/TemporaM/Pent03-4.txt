@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Dal primo libro dei Re
-!1 Reg 14:6-11
+!1 Sam 14:6-11
 6 Or Gionata disse al giovine suo scudiere: Vieni, andiamo al presidio di questi incirconcisi, chi sa che il Signore non operi per noi, perché non è difficile al Signore di salvare o con molti o con pochi. 
 7 E il suo scudiere gli rispose: Fa tutto quello che ti piace, va dove desideri, e io sarò con te dovunque vorrai. 
 8 Allora Gionata disse: Ecco che noi andiamo verso quegli uomini. Se, quando ci avranno visti, 
@@ -18,7 +18,7 @@ Dal primo libro dei Re
 @TemporaM/Pent01-1:Responsory1
 
 [Lectio2]
-!1 Reg 14:12-15
+!1 Sam 14:12-15
 12 Egli uomini del presidio parlarono e dissero a Gionata e al suo scudiere: Salite da noi, e v'insegneremo qualche cosa. Gionata allora disse al suo scudiere: Saliamo, seguimi; perché il Signore li ha dati nelle mani d'Israele. 
 13 Gionata quindi salì arrampicandosi colle mani e coi piedi, e dietro a lui il suo scudiero. Pertanto alcuni cadevano dinanzi a Gionata, altri ne uccideva il suo scudiero che lo seguiva. 
 14 Si ebbe così una prima strage, nella quale Gionata e il suo scudiere uccisero circa venti uomini nello spazio di un mezzo iugero, che è quanto un paio di buoi suole arare in un giorno. 
@@ -28,7 +28,7 @@ Dal primo libro dei Re
 @TemporaM/Pent01-1:Responsory2
 
 [Lectio3]
-!1 Reg 14:16-20
+!1 Sam 14:16-20
 16 E le sentinelle di Saul ch'erano a Gabaa di Beniamino osservarono e videro la moltitudine in iscompiglio che fuggiva qua e là. 
 17 Allora Saul disse alla gente ch'era con lui: Cercate e vedete chi è partito dei nostri. E fatta ricerca, trovarono che mancava Gionata e il suo scudiere. 
 18 E Saul disse ad Achia: Accosta l'arca di Dio (chè l'arca di Dio quel giorno era lì coi figli d'Israele). 

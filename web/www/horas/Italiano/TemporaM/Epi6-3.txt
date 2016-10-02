@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Dalla Lettera agli Ebrei
-!Hebr 6:1-3
+!Heb 6:1-3
 1 Perciò lasciando l'insegnamento elementare su Cristo, passiamo a ciò ch'è più perfetto, senza gettare di nuovo il fondamento del pentimento delle opere morte, della fede in Dio, 
 2 della dottrina dei battesimi, come anche dell'imposizione delle mani, della risurrezione dei morti e dell'eterno giudizio. 
 3 Faremo anche questo, se tuttavia Dio lo permetterà.
@@ -15,7 +15,7 @@ Dalla Lettera agli Ebrei
 @TemporaM/Epi2-3:Responsory1
 
 [Lectio2]
-!Hebr 6:4-6
+!Heb 6:4-6
 4 Perché è impossibile che quelli í quali sono stati una volta illuminati, che hanno anche gustato il dono celeste e sono diventati partecipi dello Spirito Santo, 
 5 che hanno gustato ancora la buona parola di Dio e le virtù del secolo futuro, 
 6 e che dopo ciò sono precipitati, si rinnovino un'altra volta mediante la penitenza, ricrocifiggendo essi in se stessi il Figlio di Dio ed esponendolo all'ignominia.
@@ -24,7 +24,7 @@ Dalla Lettera agli Ebrei
 @TemporaM/Epi2-3:Responsory2
 
 [Lectio3]
-!Hebr 6:7-10
+!Heb 6:7-10
 7 Perché una terra che beve la pioggia che spesso cade sopra di essa, e produca un'erba utile per chi la coltiva, riceve la benedizione da Dio. 
 8 Ma quando non produce che delle spine e dei triboli, essa è abbandonata e prossima alla maledizione: e la sua fine è d'essere bruciata. 
 9 Noi però ci ripromettiamo di voi, dilettissimi, cose migliori e più confacenti alla salvezza: vi parliamo così. 

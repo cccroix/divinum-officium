@@ -15,7 +15,7 @@ Il Signore ha mandato * il suo Angelo, e mi ha sottratto dalle mani d'Erode, all
 Tu sei Pietro, * e su questa pietra io edificherò la mia Chiesa.;;116
 
 [Capitulum Vespera]
-!Act 12:1-3
+!Atti 12:1-3
 v. Il re Erode mise mano a maltrattare alcuni della Chiesa. Uccise di spada Giacomo, fratello di Giovanni. E vedendo che ciò piaceva ai Giudei, procedé anche all'arresto di Pietro.
 $Deo gratias
 
@@ -68,7 +68,7 @@ Amen.
 
 [Lectio1]
 Dagli Atti degli Apostoli
-!Act 12:1-5
+!Atti 12:1-5
 1 Il re Erode mise mano a maltrattare alcuni della Chiesa. 
 2 Uccise di spada Giacomo, fratello di Giovanni. 
 3 E vedendo che ciò piaceva ai Giudei, procedé anche all'arresto di Pietro. Erano i giorni degli azimi. 
@@ -82,7 +82,7 @@ V. Qualunque cosa legherai sulla terra, sarà legata anche nei cieli; e qualunqu
 R. E t'ho dato le chiavi del regno dei cieli.
 
 [Lectio2]
-!Act 12:6-8
+!Atti 12:6-8
 6 Or, la notte stessa che Erode stava per processarlo, Pietro dormiva tra due soldati, legato con due catene; e le sentinelle alla porta custodivano la prigione. 
 7 Quand'ecco si presenta un Angelo del Signore e brilla una luce nella cella, e dato un colpo nel fianco a Pietro, lo risvegliò, dicendo: Lévati su in fretta. E caddero le catene dalle mani di lui. 
 8 Poi l'Angelo gli disse: Mettiti la cintura e lègati i sandali. Ed egli fece così. E gli soggiunse: Buttati addosso il tuo mantello, e seguimi.
@@ -94,7 +94,7 @@ V. Quando anche dovessi morire con te, io non ti rinnegherò.
 R. E per te darei la mia vita.
 
 [Lectio3]
-!Act 12:9-11
+!Atti 12:9-11
 9 E uscito che fu, lo seguiva, senza rendersi conto che fosse realtà quanto si faceva dall'Angelo; ma credeva di avere un'allucinazione. 
 10 E passata la prima e la seconda sentinella, giunsero alla porta di ferro che mette in città, la quale s'aprì loro da sé medesima; e usciti fuori, s'inoltrarono in una contrada, e d'improvviso l'Angelo si partì da lui. 
 11 Pietro allora, rientrato in se, disse; Adesso riconosco veramente che il Signore ha mandato il suo Angelo, e m'ha liberato dalle mani d'Erode, e da tutta l'attesa del popolo dei Giudei.
@@ -138,7 +138,7 @@ R. E perciò a te sono state date le chiavi del regno dei cieli.
 
 [Lectio7]
 Lettura del santo Vangelo secondo Matteo
-!Matth 16:13-19
+!Matt 16:13-19
 In quell' occasione: Gesù venuto nelle parti di Cesarea di Filippo, interrogò i suoi discepoli dicendo: La gente chi dice che sia il Figlio dell'uomo? Eccetera.
 _
 Omelia di sant'Agostino Vescovo
@@ -177,7 +177,7 @@ Il Signore ha mandato * il suo Angelo, e mi ha sottratto dalle mani d'Erode, all
 Tu sei Pietro, * e su questa pietra io edificherò la mia Chiesa.
 
 [Capitulum Laudes]
-!Act 12:1-3
+!Atti 12:1-3
 v. Il re Erode mise mano a maltrattare alcuni della Chiesa. Uccise di spada Giacomo, fratello di Giovanni. E vedendo che ciò piaceva ai Giudei, procedé anche all'arresto di Pietro.
 $Deo gratias
 
@@ -201,11 +201,11 @@ R. E su questa pietra io edificherò la mia Chiesa.
 Qualunque cosa * legherai sulla terra, sarà legata anche nei cieli; e qualunque cosa scioglierai sulla terra, sarà sciolta anche nei cieli, dice il Signore a Simon Pietro.
 
 [Lectio Prima]
-!Act 12:11
+!Atti 12:11
 v. Pietro allora rientrato in sé, disse: Adesso riconosco veramente che il Signore ha mandato il suo Angelo e m'ha sottratto dalle mani di Erode, e da tutta l'attesa del popolo dei Giudei.
 
 [Capitulum Tertia]
-!Act 12:1-3
+!Atti 12:1-3
 v. Il re Erode mise mano a maltrattare alcuni della Chiesa. Uccise di spada Giacomo, fratello di Giovanni. E vedendo che ciò piaceva ai Giudei, procedé anche all'arresto di Pietro.
 $Deo gratias
 
@@ -221,7 +221,7 @@ V. Tu li costituirai principi su tutta la terra.
 R. Essi ricorderanno il tuo nome, o Signore.
 
 [Capitulum Sexta]
-!Act 12:5
+!Atti 12:5
 v. Pietro dunque era custodito nella prigione; ma dalla Chiesa si faceva continua orazione a Dio per lui.
 $Deo gratias
 
@@ -237,7 +237,7 @@ V. Molto onorati sono i tuoi amici o Dio.
 R. Molto grande è divenuto il loro potere.
 
 [Capitulum Nona]
-!Act 12:11
+!Atti 12:11
 v. Pietro allora rientrato in sé, disse: Adesso riconosco veramente che il Signore ha mandato il suo Angelo e m'ha sottratto dalle mani di Erode, e da tutta l'attesa del popolo dei Giudei.
 $Deo gratias
 

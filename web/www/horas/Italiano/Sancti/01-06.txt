@@ -19,7 +19,7 @@ Mari e fiumi, * benedite il Signore: fonti, inneggiate al Signore, alleluia.
 Questa stella * risplende come fiamma, e mostra Dio, il Re dei re: i Magi la videro, e offrirono dei presenti al gran Re.
 
 [Capitulum Vespera]
-!Isai 60:1
+!Isa 60:1
 v. Sorgi, ricevi la luce, Gerusalemme, perché la tua luce è venuta, e la gloria del Signore è spuntata su di te.
 $Deo gratias
 
@@ -88,7 +88,7 @@ R. Nel suo santo tempio, alleluia.
 
 [Lectio1]
 De Isaia Prophéta.
-!Isai 55:1-4
+!Isa 55:1-4
 1 Voi tutti che avete sete, venite alle acque: e anche voi, che non avete denaro, affrettatevi, comprate e mangiate: venite, comprate, senza denaro e senza alcuna spesa vino e latte. 
 2 Perché spendete il denaro in ciò che non è pane, e la vostra fatica in ciò che non sazia? Date ascolto a me, e cibatevi di ciò ch'è buono, e l'anima vostra sentirà delizia di cibo sostanzioso. 
 3 Porgete il vostro orecchio e venite a me: ascoltate, e la vostra anima vivrà, e ristabilirò con voi un patto eterno, le misericordie assicurate a David. 
@@ -107,7 +107,7 @@ V. I Magi venerarono l'autore della nostra salute nel presepio, e dai loro tesor
 R. Nell'oro, si dimostra la potenza del Re: nell'incenso, ravvisa il gran Sacerdote: e nella mirra, la sepoltura del Signore.
 
 [Lectio2]
-!Isai 60:1-6
+!Isa 60:1-6
 1 Sorgi, ricevi la luce, o Gerusalemme: poiché la tua luce è venuta, e la gloria del Signore è spuntata su di te. 
 2 Perché ecco le tenebre ricoprono la terra e densa nebbia i popoli: su te invece spunta il Signore, e la sua gloria brilla in te. 
 3 E le Genti cammineranno alla tua luce, e i re allo splendore che nasce in te. 
@@ -122,7 +122,7 @@ V. Si aprirono i cieli su di lui, e si udì la voce del Padre.
 R. Questo è il mio Figlio diletto, in cui mi son compiaciuto.
 
 [Lectio3]
-!Isai 61:10-11; 62:1
+!Isa 61:10-11; 62:1
 10 Gioirò grandemente nel Signore, e l'anima mia esulterà nel mio Dio: perché m'ha rivestito colla veste della salvezza: e m'ha coperto col manto della giustizia, come sposo adorno di corona e come sposa ornata dei suoi gioielli. 
 11 Poiché come la terra butta i suoi germogli, e come un giardino fa germogliare la sua semenza, così il Signore Dio farà germogliare la giustizia e la lode davanti a tutte le Genti. 
 1 Per amore di Sion non tacerò, e per amor di Gerusalemme non riposerò, finché non spunti il suo giusto come la luce, e il suo salvatore risplenda come una face.
@@ -168,7 +168,7 @@ R. E Siam venuti per adorare il Signore.
 
 [Lectio7]
 Lettura del santo Vangelo secondo Matteo
-!Matth 2:1-12
+!Matt 2:1-12
 Essendo nato Gesù in Betlemme di Giuda al tempo del re Erode, ecco dei Magi d'Oriente arrivarono a Gerusalemme, chiedendo: Dov'è il Re dei Giudei ch'è nato? Eccetera.
 _
 Omelia di san Gregorio Papa
@@ -204,7 +204,7 @@ Mari e fiumi, * benedite il Signore: fonti, inneggiate al Signore, alleluia.
 Questa stella * risplende come fiamma, e mostra Dio, il Re dei re: i Magi la videro, e offrirono dei presenti al gran Re.
 
 [Capitulum Laudes]
-!Isai 60:1
+!Isa 60:1
 v. Sorgi, ricevi la luce, Gerusalemme, perché la tua luce è venuta, e la gloria del Signore è spuntata su di te.
 $Deo gratias
 
@@ -243,11 +243,11 @@ R. Angeli suoi tutti, alleluia.
 Quest'oggi * la Chiesa s'unì allo sposo celeste, poiché Cristo lavò nel Giordano i suoi delitti: i Magi accorrono con doni alle nozze regali, e i convitati si rallegrano per l'acqua cambiata in vino, alleluia.
 
 [Lectio Prima]
-!Isai 60:6
+!Isa 60:6
 v. Verran tutti quelli di Saba portando oro ed incenso, e proclamando la gloria del Signore.
 
 [Capitulum Tertia]
-!Isai 60:1
+!Isa 60:1
 v. Sorgi, ricevi la luce, Gerusalemme, perché la tua luce è venuta, e la gloria del Signore è spuntata su di te.
 $Deo gratias
 
@@ -263,7 +263,7 @@ V.  Verranno tutti quelli di Saba, alleluia.
 R. Portando oro ed incenso, alleluia.
 
 [Capitulum Sexta]
-!Isai 60:4
+!Isa 60:4
 v. Alza all'intorno i tuoi sguardi e mira: tutti costoro si sono radunati per venire a te: i tuoi figli verranno da lungi e da ogni lato ti nasceranno delle figlie.
 $Deo gratias
 
@@ -279,7 +279,7 @@ V. Adorate il Signore, alleluia.
 R. Nel suo santo tempio, alleluia.
 
 [Capitulum Nona]
-!Isai 60:6
+!Isa 60:6
 v. Verran tutti quelli di Saba portando oro ed incenso, e proclamando la gloria del Signore.
 $Deo gratias
 

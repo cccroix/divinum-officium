@@ -5,7 +5,7 @@ Feria Tertia infra Hebdomadam III in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Lettura del santo Vangelo secondo Matteo
-!Matth 18:15-22
+!Matt 18:15-22
 In quell'occasione: Gesù disse ai suoi discepoli: Se il tuo fratello avrà peccato contro di te, va e riprendilo fra te e lui solo. Eccetera.
 _
 Omelia di sant'Agostino Vescovo
@@ -47,7 +47,7 @@ $Per Dominum
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Matteo
-!Matth 18:15-22
+!Matt 18:15-22
 18:15 Che se il tuo fratello abbia commesso mancamento contro di te, va, e correggilo tra te e lui solo. Se egli ti ascolta hai guadagnato il tuo fratello.
 18:16 Se poi non ti ascolta, prendi ancora teco una o due persone, affinchè per bocca di due o tre testimoni si stabilisca tutto l'affare.
 18:17 Che se non farà caso di essi, fallo sapere alla Chiesa. E se non ascolta nemmeno la Chiesa, abbilo come il gentile e il pubblicano.

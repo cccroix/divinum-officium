@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 Dagli Atti degli Apostoli
-!Act 24:10-16
+!Atti 24:10-16
 10 Paolo (dopo che il governatore gli ebbe fatto segno di parlare) rispose: Sapendo che da molti anni tu governi questa nazione, di buon animo darò conto di me. 
 11 Tu infatti puoi sincerarti come non sono più di dodici giorni, da che salii a Gerusalemme per adorare: 
 12 e non m'hanno veduto discutere con alcuno, né far adunata di popolo o nel tempio o nelle sinagoghe, o per la città: 
@@ -21,7 +21,7 @@ Dagli Atti degli Apostoli
 @TemporaM/Pasc0-2:Responsory1
 
 [Lectio2]
-!Act 24:17-21
+!Atti 24:17-21
 17 Or dopo vari anni sono venuto a portare delle elemosine per la mia nazione, delle offerte e dei voti. 
 18 In queste cose m'hanno trovato purificato nel tempio, senza radunata di gente e senza tumulto. 
 19 Quei tali Giudei d'Asia, che pur dovevano comparire davanti a te e accusarmi, se avessero qualche cosa contro di me, 
@@ -32,7 +32,7 @@ Dagli Atti degli Apostoli
 @TemporaM/Pasc0-2:Responsory2
 
 [Lectio3]
-!Act 24:22-27
+!Atti 24:22-27
 22 Ma Felice, che conosceva benissimo questa dottrina, li rimandò, dicendo: Vi ascolterò quando sarà venuto il tribuno Lisia. 
 23 E diede ordine al centurione di custodire Paolo, in guisa però che avesse sollievo, né si vietasse ad alcuno dei suoi di assisterlo. 
 24 E dopo qualche giorno venuto Felice con Drusilla sua moglie, che era Giudea, chiamò Paolo e l'ascoltò intorno alla fede in Gesù Cristo. 

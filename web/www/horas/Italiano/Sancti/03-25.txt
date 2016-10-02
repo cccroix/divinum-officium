@@ -20,7 +20,7 @@ Il Signore * gli darà il trono di David, suo padre, e regnerà in eterno. (Alle
 Ecco l'ancella del Signore : * mi avvenga secondo quello che hai detto. (Alleluia.);;147
 
 [Capitulum Vespera]
-!Isai 7:14-15
+!Isa 7:14-15
 v. Ecco, una vergine diventerà madre e darà alla luce un figlio, che avrà nome Emanuele. Si ciberà di burro e di miele, finché sappia riprovare il male, e scegliere il bene.
 $Deo gratias
 
@@ -43,7 +43,7 @@ L'Angelo del Signore * recò l'annunzio a Maria, ed ella divenne madre per opera
 
 [Lectio1]
 Dal Profeta Isaia               
-!Isai 7:10-15
+!Isa 7:10-15
 10 E il Signore continuò a parlare ad Acaz, dicendo: 
 11 Chiedi per te un segno dal Signore Dio tuo nel profondo dell'abisso, oppure sopra dall'alto. 
 12 E Acaz disse: Non lo chiederò. per non tentare il Signore. 
@@ -58,7 +58,7 @@ V. Il Signore Dio gli darà il trono di David, suo padre, e regnerà sulla casa 
 R. Ecco, tu diventerai madre e darai alla luce colui che sarà chiamato Figlio dell'Altissimo. (Alleluia.)
 
 [Lectio2]
-!Isai 11:1-5
+!Isa 11:1-5
 1 Ed uscirà un rampollo dal ceppo di Jesse, e sboccerà un fiore dalla sua radice. 
 2 E su di esso riposerà lo Spirito del Signore: spirito di sapienza e d'intelligenza, spirito di consiglio e di fortezza, spirito di scienza e di pietà; 
 3 e lo riempirà lo spirito del timore del Signore: egli non giudicherà secondo quel che si vede cogli occhi, né sentenzierà secondo quel che si ode cogli orecchi:
@@ -72,7 +72,7 @@ V. Come avverrà questo, se io non conosco uomo? E l'Angelo le rispose, e disse.
 R. Lo Spirito Santo discenderà in te, e la potenza dell'Altissimo ti farà madre: perciò il santo [Essere] che nascerà da te, sarà chiamato Figlio di Dio. (Alleluia.)
 
 [Lectio3]
-!Isai 35:1-7
+!Isa 35:1-7
 1 Si rallegrerà la regione deserta e impervia, esulterà la solitudine, e fiorirà come un giglio. 
 2 Essa germoglierà grandemente, ed esulterà lieta e canterà lodi : a lei è stata data la gloria del Libano, la vaghezza del Carmelo e di Saron, ed essi vedranno la gloria del Signore e io splendore del nostro Dio. 
 3 Fortificate le braccia languide, e rinfrancate le ginocchia deboli. 
@@ -122,7 +122,7 @@ R. Poiché colui che i cieli contenere non possono, tu lo portasti nel seno. (Al
 
 [Lectio7]
 Lettura del santo Vangelo secondo Luca
-!Luc 1:26-38
+!Luca 1:26-38
 In quell' occasione: Fu mandato l'Angelo Gabriele da Dio in una città di Galilea, chiamata Nazaret, ad una Vergine sposata a un uomo di nome Giuseppe, della casa di David, e la Vergine si chiamava Maria. Eccetera.
 _
 Omelia di sant'Ambrogio Vescovo
@@ -158,7 +158,7 @@ Il Signore * gli darà il trono di David, suo padre, e regnerà in eterno. (Alle
 Ecco l'ancella del Signore : * mi avvenga secondo quello che hai detto. (Alleluia.)
 
 [Capitulum Laudes]
-!Isai 7:14-15
+!Isa 7:14-15
 v. Ecco, una vergine diventerà madre e darà alla luce un figlio, che avrà nome Emanuele. Si ciberà di burro e di miele, finché sappia riprovare il male, e scegliere il bene.
 $Deo gratias
 
@@ -170,21 +170,21 @@ R. Il Signore è con te. (Alleluia.)
 Come avverrà questo, * Angelo di Dio, se io non conosco uomo? Ascolta, Vergine Maria: Lo Spirito Santo scenderà in te, e la potenza dell'Altissimo ti farà madre. (Alleluia.)
 
 [Lectio Prima]
-!Isai 11:1-2
+!Isa 11:1-2
 v. Uscirà un rampollo dal ceppo di Jesse, e sboccerà un fiore della sua radice. E su di esso riposerà lo Spirito del Signore.
 
 [Capitulum Tertia]
-!Isai 7:14-15
+!Isa 7:14-15
 v. Ecco, una vergine diventerà madre e darà alla luce un figlio, che avrà nome Emanuele. Si ciberà di burro e di miele, finché sappia riprovare il male, e scegliere il bene.
 $Deo gratias
 
 [Capitulum Sexta]
-!Luc 1:32-33
+!Luca 1:32-33
 v. Il Signore Dio gli darà il trono di David, suo padre: e regnerà sulla casa di Giacobbe in eterno, e il suo regno non avrà fine.
 $Deo gratias
 
 [Capitulum Nona]
-!Isai 11:1-2
+!Isa 11:1-2
 v. Uscirà un rampollo dal ceppo di Jesse, e sboccerà un fiore della sua radice. E su di esso riposerà lo Spirito del Signore.
 $Deo gratias
 

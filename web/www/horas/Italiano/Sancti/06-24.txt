@@ -19,7 +19,7 @@ Questo bambino * sarà grande nel cospetto del Signore : poiché la sua mano è 
 Questo bambino * si chiamerà Nazareno : non berrà né vino ne sicera, e non mangerà nulla d'immondo fin dal seno di sua madre.
 
 [Capitulum Vespera]
-!Isai 49:1
+!Isa 49:1
 v. Udite, isole, e voi, popoli lontani, state attenti; il Signore mi ha chiamato fin dal grembo materno, fin dal seno di mia madre ha pensato al mio nome.
 $Deo gratias
 
@@ -110,7 +110,7 @@ R. Giovanni Battista, il precursore del Signore.
 
 [Lectio1]
 Incomincia il libro del Profeta Geremia
-!Jerem 1:1-5
+!Ger 1:1-5
 1 Parole di Geremia figlio di Elcia, dei sacerdoti che furono in Anatot, nella terra di Beniamino. 
 2 Parola indirizzatagli dal Signore ai giorni di Giosia figlio di Amon re di Giuda, l'anno decimoterzo del suo regno. 
 3 Il che avvenne ai giorni di Gioachim figlio di Giosia re di Giuda, fino al termine dell'undecimo anno di Sedecia figlio di Giosia re di Giuda, sino alla trasmigrazione di Gerusalemme nel quinto mese. 
@@ -124,7 +124,7 @@ V. Giovanni era nel deserto a predicare un battesimo di penitenza.
 R. Questi venne per far da testimonio, per render testimonianza della luce, e preparare al Signore un popolo ben disposto.
 
 [Lectio2]
-!Jerem 1:6-10
+!Ger 1:6-10
 6 Ma io dissi: A a a, Signore Dio, bada che io non so parlare, perché sono un ragazzo. 
 7 E il Signore mi disse: Non dire; Sono un ragazzo; perché tu andrai dovunque io ti manderò : e dirai tutto quello che ti comanderò. 
 8 Non temere davanti a loro: poiché con te sarò io per salvarti, dice il Signore. 
@@ -138,7 +138,7 @@ V. Ci fu un uomo mandato da Dio, che si chiamava Giovanni.
 R. Il quale nel deserto preparò la via al Signore.
 
 [Lectio3]
-!Jerem 1:17-19
+!Ger 1:17-19
 17 Tu dunque cingi i tuoi fianchi, e sorgi, e dì loro tutto quello che io ti comando. Non aver paura davanti a loro : perché io farò che tu non abbia timore davanti ad essi. 
 18 Dacché io oggi t'ho stabilito come una città forte, e una colonna di ferro, e un muro di bronzo contro tutto il paese, contro i re di Giuda, e i suoi magnati, e i sacerdoti, e il popolo del paese. 
 19 Ed essi ti faranno guerra, ma non prevarranno : perché con te sarò io, dice il Signore, per tua difesa.
@@ -184,7 +184,7 @@ R. Giovanni è il suo nome.
 
 [Lectio7]
 Lettura del santo Vangelo secondo Luca
-!Luc 1:57-69
+!Luca 1:57-69
 Venuto il tempo in cui Elisabetta doveva esser madre, essa ebbe un figlio. E i suoi vicini e i parenti seppero che il Signore le aveva fatto una grazia segnalata, e se ne congratularono. Eccetera.
 _
 Omelia di sant'Ambrogio Vescovo
@@ -220,7 +220,7 @@ Tra i nati di donna * non n'è sorto nessuno più grande di Giovanni Battista.
 Tu, bambinello, * sarai chiamato il Profeta dell'Altissimo, poiché camminerai davanti al Signore per preparare le sue vie.
 
 [Capitulum Laudes]
-!Isai 49:1
+!Isa 49:1
 v. Udite, isole, e voi, popoli lontani, state attenti: il Signore m'ha chiamato fin dal grembo materno, fin dal seno di mia madre ha pensato al mio nome.
 $Deo gratias
 
@@ -259,11 +259,11 @@ R. Perché anche la sua mano è con lui.
 S'aprì, * la bocca di Zaccaria, e profetò dicendo : Benedetto Iddio di Israele.
 
 [Lectio Prima]
-!Isai 49:7
+!Isa 49:7
 Al vederti i re si alzeranno e i principi adoreranno il Signore Dio tuo, e il Santo d'Israele, che t'ha eletto.
 
 [Capitulum Tertia]
-!Isai 49:1
+!Isa 49:1
 v. Udite, isole, e voi, popoli lontani, state attenti: il Signore m'ha chiamato fin dal grembo materno, fin dal seno di mia madre ha pensato al mio nome.
 $Deo gratias
 
@@ -279,7 +279,7 @@ V. Tra i nati di donna non n'è sorto nessuno più grande.
 R. Di Giovanni Battista.
 
 [Capitulum Sexta]
-!Isai 49:5-6
+!Isa 49:5-6
 v. Ed ora, dice il Signore, lui che mi ha formato Un dal seno materno perché fossi suo servo : Ecco che io t'ho fatto per essere luce alle Genti, per portare la mia salute sino ai confini del mondo.
 $Deo gratias
 
@@ -295,7 +295,7 @@ V. Elisabetta di Zaccaria diede alla luce un grande uomo.
 R. Giovanni Battista, il precursore del Signore.
 
 [Capitulum Nona]
-!Isai 49:7
+!Isa 49:7
 v. Al vederti i re si alzeranno e i principi adoreranno il Signore Dio tuo, e il Santo d'Israele, che t'ha eletto.
 $Deo gratias
 

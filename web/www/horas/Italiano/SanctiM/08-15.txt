@@ -15,7 +15,7 @@ Dietro all'odore * dei tuoi profumi noi corriamo: le donzelle ti hanno amato imm
 Bella sei tu * e graziosa, o figlia di Gerusalemme, terribile come esercito schierato.;;126
 
 [Capitulum Vespera]
-!Eccl 24:11-12
+!Sir 24:11-12
 v. Cercai per tutto un luogo di riposo, e ho scelto di abitare nei domini del Signore. Allora il Creatore di tutte le cose, diede ordini e mi parlò, e colui che mi ha creato, riposò nel mio seno.
 $Deo gratias
 _
@@ -181,7 +181,7 @@ Figlia * benedetta dal Signore sei tu: ché per te abbiamo ricevuto il frutto di
 Bella sei tu * e graziosa, o figlia di Gerusalemme, terribile come esercito schierato.
 
 [Capitulum Laudes]
-!Eccl 24:11-12
+!Sir 24:11-12
 v. Cercai per tutto un luogo di riposo, e ho scelto di abitare nei domini del Signore. Allora il Creatore di tutte le cose, diede ordini e mi parlò, e colui che mi ha creato, riposò nel mio seno.
 $Deo gratias
 _
@@ -200,7 +200,7 @@ R. Sui cori degli Angeli nel regno celeste.
 Chi è costei * che sale come l'aurora che sorge, bella come la luna, fulgida come il sole, terribile come esercito schierato?
 
 [Capitulum Tertia]
-!Eccl 24:11-12
+!Sir 24:11-12
 v. Cercai per tutto un luogo di riposo, e ho scelto di abitare nei domini del Signore. Allora il Creatore di tutte le cose, diede ordini e mi parlò, e colui che mi ha creato, riposò nel mio seno.
 $Deo gratias
 
@@ -209,7 +209,7 @@ V. È stata esaltata la santa Madre di Dio.
 R. Sui cori degli Angeli nel regno celeste.
 
 [Capitulum Sexta]
-!Eccl 24:15-16
+!Sir 24:15-16
 v. E così ebbi stabile dimora in Sion, e nella città santa trovai anche il mio riposo, e in Gerusalemme la mia potenza. E misi radici in mezzo al popolo glorioso, che ha la sua eredità nel dominio del mio Dio, e la mia dimora è nell'assemblea dei santi.
 $Deo gratias
 
@@ -218,7 +218,7 @@ V. È stata assunta Maria in cielo: gioiscono gli Angeli.
 R. Ne lodano e benedicono il Signore. 
 
 [Capitulum Nona]
-!Eccl 24:19-20
+!Sir 24:19-20
 v. Nelle piazze ho mandato profumo come la cannella e il balsamo aromatico: ho e manato soave profumo come di mirra squisita.  
 $Deo gratias
 

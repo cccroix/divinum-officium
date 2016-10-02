@@ -23,7 +23,7 @@ Doxology=Asc
 
 [LectioJudae1]
 Incomincia la Lettera cattolica dell'Apostolo san Giuda
-!Jud 1:1-4
+!Giuda 1:1-4
 1 Giuda, servo di Gesù Cristo e fratello di Giacomo, a quelli che sono amati da Dio Padre, conservati e chiamati in Gesù Cristo. 
 2 La misericordia, la pace e la carità abbondi in voi. 
 3 Carissimi, mentre ponevo ogni sollecitudine per scrivervi sulla comune vostra salute, sono stato costretto a scrivervi per esortarvi a combattere per la fede che fu già insegnata ai cristiani. 
@@ -41,7 +41,7 @@ V. Se io non andrò, il Paraclito non verrà a voi; se invece andrò, ve lo mand
 R. Affinché rimanga con voi in eterno lo Spirito di verità, alleluia.
 
 [LectioJudae2]
-!Jud 1:5-8
+!Giuda 1:5-8
 5 Ora io voglio ricordarvi, sebbene già sappiate tutte queste cose, che Gesù, dopo d'aver liberato il popolo dalla terra d'Egitto, sterminò poi quelli che non credettero: 
 6 e gli angeli che non conservarono la loro dignità ma abbandonarono il loro domicilio, li ha riservati sepolti nella caligine in eterne catene, per il giudizio del gran giorno. 
 7 Come Sodoma e Gomorra e le città confinanti che si macchiarono delle stesse impurità ed andarono dietro ad eccessi disonoranti, sono rimaste ad esempio, essendo state condannate alla pena del fuoco eterno; 
@@ -61,7 +61,7 @@ R. Quando egli verrà, vi insegnerà ogni verità, alleluia.
 R. Quando egli verrà, vi insegnerà ogni verità, alleluia.
 
 [LectioJudae3]
-!Jud 1:9-13
+!Giuda 1:9-13
 9 Quando Michele Arcangelo disputando col diavolo gli contestava il corpo di Mosè, non ardì di condannarlo con parole di maledizione, ma disse: Ti reprima il Signore! 
 10 Questi invece bestemmiano tutto quello che non capiscono: e di tutto quanto che, come gli animali muti, naturalmente conoscono, abusano per pervertirsi. 
 11 Guai a loro, perché battono la strada di Caino, e per sete di guadagno si sono precipitati nell'errore di Balaam, e sono periti nella ribellione di Core!
@@ -89,7 +89,7 @@ A questo nemico voi avete professato di rinunziare: e in questa professione non 
 
 [Lectio7]
 Lettura del santo Vangelo secondo Giovanni
-!Joann 14:15-21
+!Giov 14:15-21
 In quell'occasione: Gesù disse ai suoi discepoli: Se mi amate, osservate i miei comandamenti. E io pregherò il Padre, ed egli vi darà un altro Paraclito. Eccetera.
 _
 Omelia di sant'Agostino Vescovo

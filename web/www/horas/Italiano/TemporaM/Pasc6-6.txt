@@ -10,7 +10,7 @@ Feria Te Deum
 
 [Lectio1]
 Lettura del santo Vangelo secondo Giovanni
-!Joann 14:15-21
+!Giov 14:15-21
 In quell'occasione: Gesù disse ai suoi discepoli: Se mi amate, osservate i miei comandamenti. E io pregherò il Padre, ed egli vi darà un altro Paraclito. Eccetera.
 _
 Omelia di sant'Agostino Vescovo
@@ -34,7 +34,7 @@ Si vede dunque (lo Spirito S.) in maniera invisibile. E s'egli non è in noi, no
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Giovanni
-!Joann 14:15-21
+!Giov 14:15-21
 14:15 Se mi amate, osservate i miei comandamenti.
 14:16 E io pregherò il Padre, e vi darà un altro Paraclito, affinché resti con voi eternamente,
 14:17 lo Spirito di verità, cui il mondo non può ricevere, perché non lo vede, né lo conosce : voi però lo conoscerete : perché abiterà con voi, e sarà in voi. 

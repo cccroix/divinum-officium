@@ -12,7 +12,7 @@ Psalm5 Vespera=116
 @:Ant Laudes
 
 [Capitulum Vespera]
-!Phil 2:5-7
+!Fil 2:5-7
 v. Fratelli: Dovete avere dentro di voi gli stessi sentimenti che aveva Gesù Cristo: il quale, sebbene fosse della natura di Dio, non credé che fosse una usurpazione quel suo farsi uguale a Dio; ma annientò se stesso, prendendo la natura di servo, facendosi simile agli uomini, e dandosi esteriormente a riconoscere per uomo.
 $Deo gratias.
 
@@ -70,7 +70,7 @@ R. Sul quale il nostro Redentore, rompendo i legami della morte, ha vinto il per
 
 [Lectio2]
 Dalla Lettera ai Filippesi
-!Phil 2:5-11
+!Fil 2:5-11
 5 Dovete avere dentro di voi gli stessi sentimenti che aveva Gesù Cristo: 
 6 il quale, sebbene fosse della natura di Dio, non credé che fosse una usurpazione quel suo farsi uguale a Dio; 
 7 ma annientò se stesso prendendo la natura di servo, facendosi simile agli uomini, e dandosi esteriormente a riconoscere per uomo. 
@@ -135,7 +135,7 @@ R. Allora saranno manifestati i secreti del nostro cuore. (Alleluia, alleluia.)
 
 [Lectio7]
 Lettura del santo Vangelo secondo Giovanni
-!Joann 3:1-15
+!Gio 3:1-15
 In quell'occasione: C'era tra i farisei un uomo chiamato Nicodemo, uno dei capi dei Giudei. Egli venne di notte da Gesù e gli disse: Maestro noi sappiamo che tu sei un dottore venuto da Dio. Eccetera.
 _
 Omelia di sant'Agostino Vescovo
@@ -172,7 +172,7 @@ Noi poi dobbiamo gloriarci * della Croce di nostro Signore Gesù Cristo, allelui
 Per il segno della Croce, * liberaci dai nostri nemici, o Dio nostro, alleluia.
 
 [Capitulum Laudes]
-!Phil 2:5-7.
+!Fil 2:5-7.
 v. Fratelli: Dovete avere dentro di voi gli stessi sentimenti che aveva Gesù Cristo: il quale, sebbene fosse della natura di Dio, non credé che fosse una usurpazione quel suo farsi uguale a Dio; ma annientò se stesso, prendendo la natura di servo, facendosi simile agli uomini, e dandosi esteriormente a riconoscere per uomo.
 $Deo gratias
 
@@ -198,11 +198,11 @@ Concedi, Dio onnipotente, che come celebriamo il natale dei tuoi santi Alessandr
 $Per Dominum.
 
 [Lectio Prima]
-!Phil 2:8-9
+!Fil 2:8-9
 v. Egli abbassò se stesso, facendosi obbediente sino a morire, e morire in Croce. Per questo, anche Dio lo ha esaltato, e gli ha dato un nome ch'è al di sopra di ogni nome.
 
 [Capitulum Tertia]
-!Phil 2:5-7.
+!Fil 2:5-7.
 v. Fratelli: Dovete avere dentro di voi gli stessi sentimenti che aveva Gesù Cristo: il quale, sebbene fosse della natura di Dio, non credé che fosse una usurpazione quel suo farsi uguale a Dio; ma annientò se stesso, prendendo la natura di servo, facendosi simile agli uomini, e dandosi esteriormente a riconoscere per uomo.
 $Deo gratias
 
@@ -234,7 +234,7 @@ V. Tutta la terra ti adori e inneggi a te, alleluia.
 R. Sciolga un inno al tuo nome, o Signore, alleluia.
 
 [Capitulum Nona]
-!Phil 2:8-9
+!Fil 2:8-9
 v. Egli abbassò se stesso, facendosi obbediente sino a morire, e morire in Croce. Per questo, anche Dio lo ha esaltato, e gli ha dato un nome ch'è al di sopra di ogni nome.
 $Deo gratias
 

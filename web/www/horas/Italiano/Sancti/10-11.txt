@@ -19,7 +19,7 @@ Tu sei la figlia benedetta dal Signore, perché per te noi partecipiamo al frutt
 La videro le figlie di Sion e la proclamarono beata, e le regine l'hanno lodata.;;147
 
 [Capitulum Vespera]
-!Eccl 24:12-13
+!Sir 24:12-13
 v. Colui che mi ha creato, riposò nel mio tabernacolo, e mi disse: Abita in Giacobbe e metti le tue radici fra i miei eletti.
 $Deo gratias
 
@@ -66,7 +66,7 @@ Amen.
 
 [Lectio1]
 Dal libro dell' Ecclesiastico 
-!Eccl 24:5-11
+!Sir 24:5-11
 5 Io sono uscita dalla bocca dell'Altissimo, primogenita di tutta la creazione. 
 6 Io ho fatto sorgere nel cielo una luce indefettibile e come vapore ho coperto tutta la terra. 
 7 Ho posto la mia tenda in alto; il mio trono è sopra una colonna di nube. 
@@ -82,7 +82,7 @@ V. Celebriamo con gioia la Maternità della beata vergine Maria.
 R. Da te infatti è sorto il sole di giustizia, Cristo Iddio nostro, per cui siamo stati salvati e riscattati.
 
 [Lectio2]
-!Eccl 24:12-16
+!Sir 24:12-16
 12 Allora il Creatore di tutte le cose ordinò e mi parlò e colui che mi creò diede stabile dimora alla mia tenda 
 13 e mi disse: «Abita in Giacobbe e la tua eredità sia in Israele e metti radici tra i miei eletti». 
 14 Mi creò prima del tempo, dal principio; né tramonterò mai più. Davanti a lui servivo nella sua tenda. 
@@ -96,7 +96,7 @@ V. Tu sei benedetta fra le donne e benedetto è il frutto del tuo seno.
 R. Colui che regge il cielo e la terra si rinchiuse nel tuo seno, facendosi uomo.
 
 [Lectio3]
-!Eccl 24:17-23
+!Sir 24:17-23
 17 Sono stata innalzata come il cedro nel Libano  e come il cipresso sul monte Sion: 
 18 ho allargato i miei rami come la palma in Cades e come la pianta di rose in Gerico. 
 19 Sono stata innalzata come un bell'ulivo nei campi e come platano presso le acque sulle piazze. 
@@ -185,7 +185,7 @@ Tu sei la figlia benedetta dal Signore, perché per te noi partecipiamo al frutt
 La videro le figlie di Sion e la proclamarono beata, e le regine l'hanno lodata.
 
 [Capitulum Laudes]
-!Eccl 24:12-13
+!Sir 24:12-13
 v. Colui che mi ha creato, riposò nel mio tabernacolo, e mi disse: Abita in Giacobbe e metti le tue radici fra i miei eletti.
 $Deo gratias
 
@@ -219,7 +219,7 @@ R. La Vergine ha dato alla luce il Salvatore; noi ti lodiamo, o Dio nostro.
 Santa Maria, * soccorri i miseri, aiuta i pusillanimi, consola gli afflitti, prega per il popolo, intercedi per il ceto femminile religioso: sentano il tuo aiuto tutti coloro che celebrano la tua ammirabile Maternità.
 
 [Capitulum Tertia]
-!Eccl 24:12-13
+!Sir 24:12-13
 v. Colui che mi ha creato, riposò nel mio tabernacolo, e mi disse: Abita in Giacobbe e metti le tue radici fra i miei eletti.
 $Deo gratias
 

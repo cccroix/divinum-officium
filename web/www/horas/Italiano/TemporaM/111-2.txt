@@ -1,6 +1,6 @@
 [Lectio1]
 Dal Profeta Ezechiele
-!Ezech 3:1-4
+!Ezek 3:1-4
 1 Poi mi disse: Figlio dell' uomo, mangia tutto quello che troverai, mangia questo volume, poi va e parla ai figli d'Israele. 
 2 Ed io aprii la mia bocca, ed egli mi fe' mangiar quel volume 
 3 e mi disse: Figlio dell'uomo, il tuo ventre si nutrirà e le tue viscere si riempiranno di questo volume ch'io ti dò. E io lo mangiai, e fu dolce alla mia bocca come il miele. 
@@ -13,7 +13,7 @@ V. Signore, Signore nostro, quanto è ammirabile il tuo nome!
 R. Ma abbi pietà, o Signore, e non consumarla.
 
 [Lectio2]
-!Ezech 3:5-9
+!Ezek 3:5-9
 5 Poiché non ad un popolo di difficile linguaggio e d'ignota favella tu sei mandato, ma alla casa d'Israele; 
 6 non già a popoli diversi di difficile linguaggio e d'ignota favella, le cui parole tu non possa capire; e, se tu fossi mandato a questi, essi ti ascolterebbero; 
 7 ma quelli della casa d'Israele non vogliono udir te, perché non vogliono udire me; ché tutta la casa d'Israele è di fronte impudente e di cuore ostinato. 
@@ -27,7 +27,7 @@ V. Si allontani la tua collera, o Signore, dal tuo popolo e dalla tua santa citt
 R. Ascolta, o Signore, il tuo popolo con misericordia.
 
 [Lectio3]
-!Ezech 3:10-13
+!Ezek 3:10-13
 10 Ed egli mi disse; Figlio dell'uomo, tutte le parole che ti dico, ricevile nel tuo cuore, e ascoltale colle tue orecchie; 
 11 e poi va, recati a quelli dell'esilio, ai figli del tuo popolo, e parla loro e di' loro: Ecco ciò che dice il Signore Dio. Se per caso ti ascoltano e la smettono. 
 12 E lo spirito mi levò in alto, e udii dietro di me una voce, con grande strepito: Benedetta la gloria del Signore nel suo luogo; 

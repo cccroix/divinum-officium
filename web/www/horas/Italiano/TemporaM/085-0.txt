@@ -7,7 +7,7 @@ R. E discenda su di noi la tua misericordia.
 
 [Lectio1]
 Dal libro dell'Ecclesiastico
-!Eccl 5:1-5
+!Sir 5:1-5
 1 Non confidare nelle inique ricchezze, e non dire: Io ho abbastanza da vivere; perché ciò non gioverà nulla nel tempo della vendetta e dell'oscurità. 
 2 Non secondar nella tua fortezza le male voglie del tuo cuore, 
 3 e non dire: Non sono io potente? ovvero chi mi farà render conto delle mie azioni? Perché Dio ne farà atroce vendetta. 
@@ -18,7 +18,7 @@ Dal libro dell'Ecclesiastico
 @TemporaM/081-0:Responsory1
 
 [Lectio2]
-!Eccl 5:6-11
+!Sir 5:6-11
 6 E non dire: La misericordia del Signore è grande, egli mi perdonerà i molti miei peccati; 
 7 perché la misericordia e l'ira si partono da lui rapidamente e sui peccatori pesa l'ira di lui. 
 8 Non tardare a convertirti al Signore, e non differire di giorno in giorno; 
@@ -30,7 +30,7 @@ Dal libro dell'Ecclesiastico
 @TemporaM/081-0:Responsory2
 
 [Lectio3]
-!Eccl 5:12-16
+!Sir 5:12-16
 12 Sii costante nella via del Signore, nella verità dei tuoi sentimenti e nella scienza; e t'accompagni sempre la parola di pace e di giustizia. 
 13 Ascolta con mansuetudine la parola affin di capire e dare con saviezza una risposta verace. 
 14 Se tu n'hai capacità, rispondi al tuo prossimo; se no, mettiti la mano sulla bocca, per non restar sorpreso in qualche parola imprudente ed averne vergogna. 

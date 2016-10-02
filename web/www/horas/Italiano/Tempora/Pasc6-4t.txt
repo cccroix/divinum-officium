@@ -14,7 +14,7 @@ Doxology=Asc
 
 [Lectio1]
 Dalla Lettera dell'Apostolo san Paolo agli Efesini
-!Ephes 4:1-8
+!Eph 4:1-8
 1 Vi scongiuro dunque io, il carcerato per il Signore, a camminare in maniera degna della vocazione cui siete stati chiamati, 
 2 con tutta umiltà e mansuetudine, con pazienza, sopportandovi caritatevolmente l'un l'altro, 
 3 sforzandovi di conservare l'unità dello Spirito col vincolo della pace. 
@@ -28,7 +28,7 @@ Dalla Lettera dell'Apostolo san Paolo agli Efesini
 @Tempora/Pasc5-4:Responsory1
 
 [Lectio2]
-!Ephes 4:9-14
+!Eph 4:9-14
 9 Or come si può dire ch'è asceso, se non perché egli era anche disceso prima in questa bassa terra? 
 10 Colui che è disceso, è quel l'istesso che è anche asceso al disopra di tutti i cieli, per dar compimento a tutte le cose. 
 11 Ed è lui che gli uni ha costituito Apostoli, altri Profeti, altri Evangelisti, altri pastori e dottori, 
@@ -40,7 +40,7 @@ Dalla Lettera dell'Apostolo san Paolo agli Efesini
 @Tempora/Pasc5-4:Responsory2
 
 [Lectio3]
-!Ephes 4:15-21
+!Eph 4:15-21
 15 Ma praticando la verità nella carità, noi cresciamo in ogni cosa in colui che è il capo, cioè Cristo: 
 16 da cui tutto il corpo compaginato e connesso mercé tutte le giunture di comunicazione, secondo l'operazione proporzionata a ciascun membro, prende l'aumento proprio del corpo per la sua edificazione nella carità. 
 17 Questo dunque io vi dico, e vi scongiuro nel Signore, che non camminiate più come i Gentili che camminano nella vanità dei loro pensieri, 

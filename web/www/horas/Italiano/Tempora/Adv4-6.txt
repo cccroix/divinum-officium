@@ -3,17 +3,17 @@ Sabbato in Hebdomadam IV Adventus;;Feria major;;2
 
 [Lectio1]
 De Isaia Propheta
-!Isai homilia
+!Isa  homilia
 
 [Responsory1]
 
 [Lectio2]
-!Isai 
+!Isa 
 
 [Responsory2]
 
 [Lectio3]
-!Isai 
+!Isa 
 
 [Responsory3]
 

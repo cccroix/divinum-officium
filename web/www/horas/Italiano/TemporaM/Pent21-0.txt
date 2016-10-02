@@ -13,7 +13,7 @@ $Per Dominum
 
 [Lectio7]
 Lettura del santo Vangelo secondo Matteo
-!Matth 18:23-35
+!Matt 18:23-35
 In quell'occasione: Gesù disse ai suoi discepoli questa parabola: Il regno dei cieli può paragonarsi a quel re che volle fare i conti coi suoi servi. Eccetera.
 _
 Omelia di san Girolamo Prete
@@ -43,7 +43,7 @@ R. Come incenso al tuo cospetto.
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Matteo
-!Matth 18:23-35
+!Matt 18:23-35
 18:23 In quel tempo: Gesú disse ai suoi discepoli questa parabola: Il regno dei cieli è simile a un re che volle fare i conti con i suoi servi. 
 18:24 E avendo iniziato a fare i conti, gli fu presentato uno che gli era debitore di diecimila talenti. 
 18:25 Ma non avendo costui modo di pagare, il padrone comandò che fosse venduto lui, sua moglie, i figli e quanto aveva, e cosí fosse saldato il debito. 

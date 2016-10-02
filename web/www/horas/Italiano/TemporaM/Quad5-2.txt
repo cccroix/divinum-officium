@@ -5,7 +5,7 @@ Feria Tertia infra Hebdomadam Passionis;;Feria major;;2
 
 [Lectio1]
 Lettura del santo Vangelo secondo Giovanni
-!Joann 7:1-13
+!Gio 7:1-13
 In quell'occasione : Gesù girava per la Galilea, non volendo andare in Giudea, perché i Giudei cercavano di ucciderlo. Eccetera.
 _
 Omelia di sant'Agostino Vescovo
@@ -55,7 +55,7 @@ $Per Dominum
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Giovanni
-!Joann 7:1-13
+!Gio 7:1-13
 7:1 Dopo di ciò andava Gesù scorrendo per la Galilea non volendo andare nella Giudea, perché i Giudei cercavano di farlo morire. 
 7:2 Ed era imminente la festa dei Giudei, dei Tabernacoli.
 7:3 Dissero pertanto a lui i suoi fratelli : Partiti di qua, e va nella Giudea, affinché anche quei tuoi discepoli veggano le 

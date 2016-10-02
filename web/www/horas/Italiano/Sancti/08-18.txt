@@ -18,7 +18,7 @@ $Per eumdem
 
 [Lectio1]
 De Canticis Canticorum
-!Cant 4:7-12.
+!Cant. 4:7-12.
 7 Tutta bella sei tu, o mia diletta, e macchia non è in te. 
 8 Vieni dal Libano, mia sposa, vieni dal Libano, vieni, sarai incoronata; dalla cima dell'Amana, dalla vetta del Sanir e dell'Ermon, dalle tane dei leoni, dai monti dei leopardi. 
 9 Tu hai ferito il mio cuore, sorella mia sposa; hai ferito il mio cuore con uno dei tuoi sguardi e con una treccia del tuo collo. 
@@ -27,7 +27,7 @@ De Canticis Canticorum
 12 Sei un orto chiuso, sorella mia sposa, un orto chiuso, una fonte sigillata. 
 
 [Lectio2]
-!Cant 6:3-9; 8:5
+!Cant. 6:3-9; 8:5
 3 Bella se' tu, o amica mia, soave, e splendida come Gerusalemme, terribile come un esercito messo in ordine di battaglia.
 4 Volgi da me gli occhi tuoi, perché ei mi fecero sorvolare: i tuoi capelli come un gregge di capre, che spuntano dal Galaad. 
 5 Li tuoi denti come un gregge di pecorelle, che tornano dal lavatojo tutte con parti gemelli, e sterile tra queste non è. 
@@ -39,7 +39,7 @@ De Canticis Canticorum
 6 Sotto l'arbore di melo io ti suscitai: ivi fu corrotta la madre tua: ivi fa violata la tua genitrice.
 
 [Lectio3]
-!Cant 8:7-8
+!Cant. 8:7-8
 7 Ponimi come sigillo sopra il cuor tuo, come sigillo sopra il tuo braccio: perocché forte come la morie ell' è la dilezione, duro lo zelo quanto l'inferno: le lampadi sue sono lampadi di fuoco, e di fiamme 
 8 Le molte acque non poterono o stinguere la carità, né le fiumane la soverchieranno: quando un uomo desse per la dilezione tutte le sostanze della sua casa, le disprezzerebbe come un niente.
 

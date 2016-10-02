@@ -13,7 +13,7 @@ Vieni, mia eletta, * ed io porrò in te il mio trono, alleluia.;;126
 Costei è graziosa * tra le figlie di Gerusalemme.;;147
 
 [Capitulum Vespera]
-!Prov 31:10-11
+!Prov. 31:10-11
 v. Chi potrà trovare una donna forte? Ella vale più delle perle portate da lontano. In lei confida il cuore dello sposo, il quale non mancherà di ricchezze.  
 $Deo gratias.
 
@@ -135,7 +135,7 @@ R. La donna che teme il Signore, questa sarà lodata.
 
 [Lectio7]
 Dal Vangelo secondo Matteo
-!Matth 13:44
+!Matt 13:44
 In quel tempo Gesù disse ai suoi discepoli questa parabola: "Il regno dei cieli è simile ad un tesoro nascosto in un campo". (continua nella Messa del giorno)
 _
 Omelia di s. Gregorio papa
@@ -171,7 +171,7 @@ Vieni, mia eletta, * ed io porrò in te il mio trono, alleluia.
 Costei è graziosa * tra le figlie di Gerusalemme.
 
 [Capitulum Laudes]
-!Prov 31:10-11
+!Prov. 31:10-11
 v. Chi potrà trovare una donna forte? Ella vale più delle perle portate da lontano. In lei confida il cuore dello sposo, il quale non mancherà di ricchezze.  
 $Deo gratias.
 
@@ -202,7 +202,7 @@ $Per Dominum
 v. Molte figliole hanno radunato ricchezze: ma tu le hai superate tutte. Fallace è l'avvenenza e vana è la bellezza: la donna che teme il Signore, quella avrà lode.  
 
 [Capitulum Tertia]
-!Prov 31:10-11
+!Prov. 31:10-11
 v. Chi potrà trovare una donna forte? Ella vale più delle perle portate da lontano. In lei confida il cuore dello sposo, il quale non mancherà di ricchezze.  
 $Deo gratias.
 
@@ -218,7 +218,7 @@ V. L'aiuterà Iddio con la sua presenza.
 R. Dio è in lei; non sarà scossa.
 
 [Capitulum Sexta]
-!Prov 31:20-21
+!Prov. 31:20-21
 v. Aprì la sua mano al misero e stese le sue palme al povero. Non ebbe timore per la sua casa del freddo della neve.
 $Deo gratias.
 

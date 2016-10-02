@@ -27,7 +27,7 @@ Il Cristo nato, che oggi incoronò il beato Stefano, * Venite, adoriamolo.
 
 [Lectio1]
 Dagli Atti degli Apostoli
-!Act 6:1-6
+!Act. 6:1-6
 1 Or in quei giorni, crescendo sempre più il numero dei discepoli, si levò un mormorio degli Ellenisti contro gli Ebrei, quasi che nella distribuzione quotidiana le loro vedove fossero trascurate. 
 2 Allora i dodici, convocata la moltitudine dei discepoli, dissero: Non è bene che noi lasciamo la parola di Dio per servire alle mense. 
 3 Perciò, fratelli, scegliete tra voi sette uomini di buona riputazione, pieni di Spirito Santo e di sapienza, ai quali affidare tale ufficio. 
@@ -43,7 +43,7 @@ V. Pieno di grazia e di fortezza, egli faceva prodigi e grandi miracoli tra il p
 R. E scorsero il suo volto come il volto d'un Angelo stante in mezzo ad essi.
 
 [Lectio2]
-!Act 6:7-10;7:54
+!Act. 6:7-10;7:54
 7 E la parola di Dio si diffondeva ognor più, e il numero dei discepoli in Gerusalemme aumentava grandemente: anche gran folla di sacerdoti aderiva alla fede. 
 8 Stefano poi, pieno di grazia e di fortezza, faceva prodigi e grandi miracoli tra il popolo. 
 9 Ma alcuni della sinagoga, detta dei Liberti, e di quella dei Cirenei, e degli Alessandrini, e di quelli della Cilicia e dell'Asia, sorsero a disputare con Stefano: 
@@ -57,7 +57,7 @@ V. Pieno di grazia e di fortezza, egli faceva prodigi e grandi miracoli tra il p
 R. E scorsero il suo volto come il volto d'un Angelo stante in mezzo ad essi.
 
 [Lectio3]
-!Act 7:55-59
+!Act. 7:55-59
 55 Ma egli, ch'era pieno dello Spirito Santo, mirando fisso in cielo, vide la gloria di Dio e Gesù che stava ritto alla destra di Dio. E disse: Ecco, io vedo i cieli aperti, e il Figlio dell'uomo ritto alla destra di Dio.
 56 Ma quelli, gettando grandi grida, si turavano le orecchie, e tutti insieme gli si gettarono addosso. 
 57 E trascinatolo fuori della città, si diedero a lapidarlo e i testimoni deposero i loro mantelli ai piedi d'un giovane, chiamato Saulo. 
@@ -105,7 +105,7 @@ R. Ma egli accolse con gioia le pietre per meritare di ricevere la corona della 
 
 [Lectio7]
 Lettura del santo Vangelo secondo Matteo
-!Matth 23:34-39
+!Matt 23:34-39
 In quell'occasione: Gesù diceva agli scribi e ai farisei: Ecco io vi mando dei profeti e dei savi e degli scribi: e di questi voi ne ucciderete e ne crocifiggerete, Eccetera.
 _
 Omelia di san Girolamo Prete
@@ -141,7 +141,7 @@ Stefano vide * i cieli aperti, li vide e ci entrò: beato lui, cui si aprivano i
 Ecco, io vedo * i cieli aperti, e Gesù stare ritto alla destra di Dio onnipotente.
 
 [Capitulum Laudes]
-!Act 6:8
+!Act. 6:8
 v. Stefano poi, pieno di grazia e di fortezza, faceva prodigi e grandi miracoli tra il popolo.
 $Deo gratias
 
@@ -153,21 +153,21 @@ R. E fecero gran pianto sopra di lui.
 Stefano poi, * pieno di grazia e di fortezza, faceva grandi miracoli tra il popolo.
 
 [Lectio Prima]
-!Act 7:59
+!Act. 7:59
 v. Poi, caduto ginocchioni, gridò a gran voce, dicendo: Signore, non imputar loro questo a peccato. E detto ciò si addormentò nel Signore.
 
 [Capitulum Tertia]
-!Act 6:8
+!Act. 6:8
 v. Stefano poi, pieno di grazia e di fortezza, faceva prodigi e grandi miracoli tra il popolo.
 $Deo gratias
 
 [Capitulum Sexta]
-!Act 6:9-10
+!Act. 6:9-10
 v. Ma alcuni della sinagoga, detta dei Liberti, e di quella dei Cirenei, e degli Alessandrini, e di quelli della Cilicia e dell'Asia sorsero a disputare con Stefano: ma non potevano resistere alla sapienza e allo Spirito con cui egli parlava.
 $Deo gratias
 
 [Capitulum Nona]
-!Act 7:59
+!Act. 7:59
 v. Poi, caduto ginocchioni, gridò a gran voce, dicendo: Signore, non imputar loro questo a peccato. E detto ciò si addormentò nel Signore.
 $Deo gratias
 
@@ -179,7 +179,7 @@ Presso il Signore * è la misericordia, e redenzione copiosa presso di lui.;;129
 Un frutto del tuo seno io porrò sul tuo trono.;;131
 
 [Capitulum Vespera]
-!Act 6:8
+!Act. 6:8
 v. Stefano poi, pieno di grazia e di fortezza, faceva prodigi e grandi miracoli tra il popolo.
 $Deo gratias
 

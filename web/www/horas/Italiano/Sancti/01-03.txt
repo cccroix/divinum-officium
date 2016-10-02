@@ -14,7 +14,7 @@ Comkey=70
 9 lectiones
 
 [Capitulum Vespera] (rubrica Divino aut rubrica Tridentina aut rubrica Monastica)
-!Eccl 15:1-2
+!Sir 15:1-2
 v. Chi teme Dio, farà il bene: e chi osserva la giustizia con esattezza, possederà la sapienza, ed essa gli andrà incontro qual madre veneranda.
 $Deo gratias
 
@@ -73,7 +73,7 @@ Rimane l'aquila, cioè Giovanni, l'araldo delle cose più sublimi, colui che con
 
 [Lectio7]
 Lettura del santo Vangelo secondo Giovanni
-!Joann 21:19-24
+!Joannes 21:19-24
 In quell'occasione: Gesù disse a Pietro: Seguimi. Pietro voltatosi, vide venirgli appresso quel discepolo ch'era caro a Gesù. Eccetera.
 _
 Omelia di san Giovanni Crisostomo.

@@ -1,6 +1,6 @@
 [Lectio1]
 Dal libro dell'Ecclesiastico
-!Eccl 4:23-28
+!Sir 4:23-28
 23 Figlio, bada al tempo e schiva il male. 
 24 Per amor dell'anima tua non vergognarti di dire la verità; 
 25 perché c'è una vergogna che porta peccato, e c'è una vergogna che fa onore e piacere. 
@@ -12,7 +12,7 @@ Dal libro dell'Ecclesiastico
 @Tempora/081-0:Responsory7
 
 [Lectio2]
-!Eccl 4:29-32
+!Sir 4:29-32
 29 Poiché per la lingua si conosce la sapienza, e il senno, la scienza e la dottrina per le parole del saggio, ma il suo forte per le opere di giustizia. 
 30 Non contraddire in verun modo alla parola di verità, ed abbi vergogna della bugia detta da te per ignoranza. 
 31 Non vergognarti di confessare i tuoi peccati, ma non assoggettarti a verun uomo per far peccato. 
@@ -22,7 +22,7 @@ Dal libro dell'Ecclesiastico
 @Tempora/081-1:Responsory2
 
 [Lectio3]
-!Eccl 4:33-36
+!Sir 4:33-36
 33 Per la giustizia lotta con tutta l'anima tua e combatti per la giustizia fino alla morte, e Dio debellerà per te i tuoi nemici. 
 34 Non essere precipitoso colla lingua e buono a nulla e fiacco nel tuo operare. 
 35 Non essere un leone in casa tua sbalordendo i tuoi domestici e opprimendo i tuoi servi. 

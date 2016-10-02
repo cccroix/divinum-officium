@@ -7,7 +7,7 @@ Una Antiphona
 Doxology=Pasc
 
 [Capitulum Vespera]
-!Jacob 1:22-24
+!Giac 1:22-24
 v. Carissimi: Mettete in pratica la parola, e non limitatevi ad ascoltarla, ingannando voi stessi. Perché, se uno ascolta la parola, e non la mette in pratica, costui si può paragonare ad un uomo che mira in uno specchio il viso avuto dalla natura, e che appena s'è mirato, se ne va, dimenticando subito com'era.
 $Deo gratias
 _
@@ -30,7 +30,7 @@ $Per Dominum
 
 [Lectio1]
 Incomincia la prima Lettera dell'Apostolo san Pietro
-!1 Petri 1:1-5
+!1 Pet 1:1-5
 1 Pietro Apostolo di Gesù Cristo, ai fedeli esuli sparsi per il Ponto, per la Galazia, la Cappadocia, l'Asia e Bitinia, eletti, 
 2 secondo la prescienza di Dio Padre, ad essere santificati dallo Spirito, ad essere sudditi di Gesù Cristo e ad essere aspersi dal suo sangue: Grazia e pace scendano in abbondanza su voi. 
 3 Benedetto Dio, Padre di nostro Signore Gesù Cristo, che, nella sua grande misericordia, ci ha rigenerati, mediante la risurrezione di Gesù Cristo da morte, alla viva speranza di possedere 
@@ -41,7 +41,7 @@ Incomincia la prima Lettera dell'Apostolo san Pietro
 @TemporaM/Pasc4-0:Responsory1
 
 [Lectio2]
-!1 Petri 1:6-12
+!1 Pet 1:6-12
 6 In questo (pensiero) voi esulterete sia pure che dobbiate essere ora per poco afflitti da diverse prove: 
 7 affinché la prova della vostra fede, molto più preziosa dell'oro (che pur si prova col fuoco) torni a lode, gloria e ad onore quando si manifesterà Gesù Cristo: 
 8 che voi amate senza aver veduto: in cui anche adesso credete, senza vederlo: e, credendo così, esulterete di gioia ineffabile e beata: 
@@ -54,7 +54,7 @@ Incomincia la prima Lettera dell'Apostolo san Pietro
 @TemporaM/Pasc4-0:Responsory2
 
 [Lectio3]
-!1 Petri 1:13-21
+!1 Pet 1:13-21
 13 Perciò, cinti i lombi della vostra anima e mantenendovi sobri, sperate interamente in quella grazia che vi è offerta nella manifestazione di Gesù Cristo: 
 14 come figli ubbidienti non seguite più le cupidigie del passato quando eravate nell'ignoranza; 
 15 ma come Santo è colui che vi ha chiamato, così anche voi siate santi in tutto l'operare, 
@@ -90,7 +90,7 @@ Osserviamo quanto è grave il sacrilegio di non credere alla risurrezione. Perch
 
 [Lectio7]
 Lettura del santo Vangelo secondo Giovanni
-!Joann 16:23-30
+!Giov 16:23-30
 In quell'occasione: Gesù disse ai suoi discepoli: In verità, in verità vi dico: se domanderete qualche cosa al Padre in mio nome, egli ve la darà. Eccetera.
 _
 Omelia di sant'Agostino Vescovo
@@ -113,7 +113,7 @@ Perciò chi pensa di Cristo quel che non si deve pensare dell'unigenito Figlio d
 @@TemporaM/Pasc4-0:Responsory9
 
 [Capitulum Laudes]
-!Jacob 1:22-24
+!Giac 1:22-24
 v. Carissimi: Mettete in pratica la parola, e non limitatevi ad ascoltarla, ingannando voi stessi. Perché, se uno ascolta la parola, e non la mette in pratica, costui si può paragonare ad un uomo che mira in uno specchio il viso avuto dalla natura, e che appena s'è mirato, se ne va, dimenticando subito com'era.
 $Deo gratias
 _
@@ -131,17 +131,17 @@ R. Il Signore è risorto dal sepolcro, * alleluia, alleluia.
 Finora * non avete domandato nulla in mio nome: domandate, e riceverete, alleluia.
 
 [Capitulum Tertia]
-!Jacob 1:22-24
+!Giac 1:22-24
 v. Carissimi: Mettete in pratica la parola, e non limitatevi ad ascoltarla, ingannando voi stessi. Perché, se uno ascolta la parola, e non la mette in pratica, costui si può paragonare ad un uomo che mira in uno specchio il viso avuto dalla natura, e che appena s'è mirato, se ne va, dimenticando subito com'era.
 $Deo gratias
 
 [Capitulum Sexta]
-!Jacob 1:25
+!Giac 1:25
 v. Chi invece fissa bene lo sguardo nella legge perfetta della libertà, e vi rimane fedele, non facendosene uditore smemorato, ma mettendola in pratica, costui sarà felice nel suo operato.
 $Deo gratias
 
 [Capitulum Nona]
-!Jacob 1:27
+!Giac 1:27
 v. La religione pura e immacolata presso Dio e il Padre è questa: Visitare gli orfani e le vedove nella loro tribolazione, e conservarsi puro da (le sozzure di) questo mondo.
 $Deo gratias
 
@@ -153,7 +153,7 @@ Domandate e riceverete, * affinché la vostra gioia sia piena: poiché il Padre 
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Giovanni
-!Joann 16:23-30
+!Giov 16:23-30
 16:23 E in quel giorno non m'interrogherete di alcuna cosa. In verità, in verità vi dico : che qualunque cosa domandiate al Padre nel nome mio, ve la concederà. 
 16:24 Fino adesso non avete chiesto nulla nel nome mio : chiedete, e otterrete, affinché il vostro gaudio sia compito. 
 16:25 Ho detto a voi queste cose per via di proverbi. Ma viene il tempo che non vi parlerò più per via di proverbi, ma apertamente vi parlerò intorno al Padre. 

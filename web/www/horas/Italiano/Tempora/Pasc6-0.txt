@@ -11,7 +11,7 @@ Doxology=Asc
 StJamesRule=John,Rev
 
 [Capitulum Vespera]
-!1 Petri 4:7-8
+!1. Pietro 4:7-8
 v. Carissimi: Siate prudenti, e vegliate nella preghiera. Ma sopra tutto abbiate l'un per l'altro una carità perseverante: perché la carità copre una moltitudine di peccati.
 $Deo gratias
 
@@ -80,7 +80,7 @@ Cristo è risorto per darci la speranza, perché tutto l'uomo che muore, risusci
 
 [Lectio7]
 Lettura del santo Vangelo secondo Giovanni
-!Joann 15:26-27;16:1-4
+!Giov 15:26-27;16:1-4
 In quell'occasione: Gesù disse ai suoi discepoli: Quando sarà venuto il Consolatore, che io vi manderò da parte del Padre, lo Spirito di verità, che procede dal Padre, egli renderà testimonianza di me. Eccetera.
 _
 Omelia di sant'Agostino Vescovo

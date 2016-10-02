@@ -5,7 +5,7 @@ Feria Tertia infra Hebdomadam II in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Lettura del santo Vangelo secondo Matteo
-!Matth 23:1-12
+!Matt 23:1-12
 In quell'occasione: Gesù parlò alle turbe e ai suoi discepoli dicendo: Sulla cattedra di Mosè seggono gli scribi e i farisei. Pertanto osservate e fate tutto ciò che vi dicono, ma non fate com'essi fanno. Eccetera.
 _
 Omelia di san Girolamo Prete
@@ -45,7 +45,7 @@ $Per Dominum
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Matteo
-!Matth 23:1-12
+!Matt 23:1-12
 23:1 Allora Gesù parlò alle turbe e ai suoi discepoli,
 23:2 dicendo : Sulla cattedra di Mosè si assisero gli Scribi e i Farisei.
 23:3 Tutto quello pertanto che vi diranno, osservatelo e fatelo : ma non vogliate far quel che essi fanno : perchè dicono e non fanno.

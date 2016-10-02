@@ -15,7 +15,7 @@ Sacerdoti di Dio, * benedite il Signore; servi del Signore sciogliete un inno a 
 Servo buono * e fedele, entra nel gaudio del tuo Signore.;;116
 
 [Capitulum Vespera]
-!Eccl 44:16-17
+!Sir 44:16-17
 v. Ecco il gran sacerdote, che nei suoi giorni piacque a Dio e fu trovato giusto, e nel tempo dell'ira fu strumento di riconciliazione.  
 $Deo gratias
 
@@ -125,7 +125,7 @@ R. Entra nel gaudio del tuo Signore.
 
 [Lectio2]
 Dalla lettera a Tito
-!Tit 1:7-11
+!Tito 1:7-11
 7 Infatti è necessario che il vescovo sia incensurabile, poiché egli governa la casa di Dio, e non sia altezzoso, né irascibile, né dedito al vino, né violento, né avido di loschi guadagni, 
 8 ma cordiale verso gli estranei, amante del bene, equilibrato, giusto, pio, padrone di sé, 
 9 saldamente abbracciato alla verace dottrina, quale fu insegnata, in modo che sia in grado con quell'insegnamento salutare di rivolgere esortazioni e di confutare gli avversari. 
@@ -139,7 +139,7 @@ V. Gli diede la benedizione di tutte le genti e confermò il suo patto sul capo 
 R. Per questo il Signore giurò di elevarlo sopra il suo popolo.
 
 [Lectio3]
-!Tit 2:1-8
+!Tito 2:1-8
 1 Tu invece devi predicare quello che è in accordo con il salutare insegnamento: 
 2 che i vecchi siano sobri, dignitosi, assennati, robusti nella fede, nella carità, nella pazienza. 
 3 Altrettanto, che le donne anziane abbiano un contegno santamente decoroso, non siano maldicenti né, schiave del vino; siano maestre di bontà, 
@@ -190,7 +190,7 @@ R. Egli interceda per i peccati di tutti gli uomini.
 
 [Lectio7]
 Dal Vangelo secondo Matteo
-!Matth 25:14-23
+!Matt 25:14-23
 In quel tempo Gesù disse ai suoi discepoli questa parabola: "Un uomo prima di mettersi in viaggio, chiamò i suoi servi, e consegnò loro i suoi beni". (continua nella Messa del giorno) 
 _
 Omelia di s. Gregorio papa
@@ -226,7 +226,7 @@ Sacerdoti di Dio, * benedite il Signore; servi del Signore sciogliete un inno a 
 Servo buono * e fedele, entra nel gaudio del tuo Signore.
 
 [Capitulum Laudes]
-!Eccl 44:16-17
+!Sir 44:16-17
 v. Ecco il gran sacerdote, che nei suoi giorni piacque a Dio e fu trovato giusto, e nel tempo dell'ira fu strumento di riconciliazione.  
 $Deo gratias
 
@@ -285,11 +285,11 @@ O Signore, Pastore eterno, mostrati misericordioso verso di noi che siamo il tuo
 $Per Dominum
 
 [Lectio Prima]
-!Eccl 45:19-20
+!Sir 45:19-20
 v. Gli fece esercitare le funzioni sacerdotali e cantare le lodi nel suo nome, e offrirgli l'incenso degno per il soave profumo.
 
 [Capitulum Tertia]
-!Eccl 44:16-17
+!Sir 44:16-17
 v. Ecco il gran sacerdote, che nei suoi giorni piacque a Dio e fu trovato giusto, e nel tempo dell'ira fu strumento di riconciliazione.  
 $Deo gratias
 
@@ -305,7 +305,7 @@ V. Lo elesse il Signore per suo Sacerdote.
 R. Affinché gli offrisse il sacrificio di lode.
 
 [Capitulum Sexta]
-!Eccl 44:20; 44:22
+!Sir 44:20; 44:22
 v. Non si è trovato uno simile a lui nell'osservare la legge dell'Altissimo: per questo il Signore giurò di elevarlo sopra il sua popolo.  
 $Deo gratias
 
@@ -321,7 +321,7 @@ V. Tu sei sacerdote in eterno.
 R. Secondo l'ordine di Melchisedech. 
 
 [Capitulum Nona]
-!Eccl 45:19-20
+!Sir 45:19-20
 v. Gli fece esercitare le funzioni sacerdotali e cantare le lodi nel suo nome, e offrirgli l'incenso degno per il soave profumo.
 $Deo gratias
 
@@ -348,7 +348,7 @@ R. E gli mostrò il regno di Dio.
 
 [Lectio11]
 Lettura dal libro dell'Ecclesiastico
-!Eccl 44:1-5
+!Sir 44:1-5
 1 Diamo lode agli nomini gloriosi ai maggiori nostri, da' quali siamo stati noi generati.
 2 Molta gloria si procurò per essi il Signore colla sua magnificenza, che è eterna.
 3 Eglino furon signori ne' loro regni, furon uomini grandi per valore, e forniti di prudenza. Essi come profeti fecer conoscere la profetica dignità.
@@ -356,14 +356,14 @@ Lettura dal libro dell'Ecclesiastico
 5 Col loro sapere investigarono i musicali concerti, e dettarono i cantici delle Scritture.
 
 [Lectio21]
-!Eccl 44:6-9
+!Sir 44:6-9
 6 Uomini ricchi di virtù, solleciti del decoro del santuario tranquilli nelle loro case.
 7 Tutti questi ai tempi loro fecer acquisto di gloria, e onorarono la loro età.
 8 Quelli che nacquer da questi, lasciarono un nome, che fa rammentare le loro laudi.
 9 Ma furonvi alcuni, de' quali è spenta la memoria, i quali perirono come so mai non fossero stati ed essi, e i loro figli con essi, benché nascessero furono come non nati.
 
 [Lectio31]
-!Eccl 44:10-15
+!Sir 44:10-15
 10 Ma quelli furono uomini di misericordia, e le opere di loro pietà non sono andate in oblio.
 11 La loro stirpe resta posseditrice de' loro beni. 
 12 I loro nipoti sono un popolo santo, e i loro posteri stetter costanti nella alleanza.
@@ -373,7 +373,7 @@ Lettura dal libro dell'Ecclesiastico
 
 [Lectio71]
 Dal Vangelo secondo Matteo
-!Matth 16:13-19
+!Matt 16:13-19
 In quel tempo Gesù, venuto nella zona di Cesarea di Filippo, interrogava i suoi discepoli: "Chi dicono che sia il Figlio dell uomo?".  (continua nella Messa del giorno)
 _
 Omelia di s. Leone papa
@@ -389,7 +389,7 @@ Mentre dunque rivolgiamo le nostre esortazioni all'orecchio  della vostra santit
 
 [Lectio73]
 Dal Vangelo secondo Matteo
-!Matth 19:27-29
+!Matt 19:27-29
 In quel tempo Pietro disse a Gesù: "Ecco, noi abbiamo abbandonato tutto e ti abbiamo seguito; che ne avremo noi?". (continua nella Messa del giorno)
 _
 Omelia di s. Beda Venerabile presbitero

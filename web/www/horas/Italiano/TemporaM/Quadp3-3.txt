@@ -6,7 +6,7 @@ Preces Feriales
 
 [Lectio1]
 Lettura del santo Vangelo secondo Matteo
-!Matth 6:16-21
+!Matt 6:16-21
 In quell'occasione: Gesù disse ai suoi discepoli: Quando digiunate non vogliate farvi malinconici come gli ipocriti. Eccetera.
 _
 Omelia di sant'Agostino Vescovo
@@ -48,7 +48,7 @@ $Per Dominum
 
 [LectioE]
 v. Lettura del Santo Vangelo secondo Matteo
-!Matth 6:16-21
+!Matt 6:16-21
 6:16 Quando poi digiunate, non vogliate far i malmconici, come gl'ipocriti : perocché questi sfigurano il proprio volto, al fin di dar a conoscere agli uomini che digiunano. In verità vi dico, che han ricevuta la loro mercede.
 6:17 Ma tu, quando digiuni, profumati la testa, e lavati la faccia :
 6:18 affinché il tuo digiuno sia noto non agli uomini, ma al tuo Padre celeste, il quale sta nel segreto : e il Padre tuo, il quale vede in segreto, te ne darà la ricompensa.

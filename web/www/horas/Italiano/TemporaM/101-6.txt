@@ -1,6 +1,6 @@
 [Lectio1]
 Dal primo libro dei Maccabei
-!1 Mach 3:42-45
+!1 Mac 3:42-45
 42 Ma Giuda e i suoi fratelli vedendo che i mali crescevano, e gli eserciti si avvicinavano alle frontiere, e avendo conosciuto il comando del re di sterminare e distruggere il popolo, 
 43 dissero l'uno all'altro: Rialziamo il nostro popolo abbattuto e combattiamo per il nostro popolo e per le nostre cose sante. 
 44 E si radunarono in corpo per prepararsi alla battaglia, e per pregare e domandare misericordia e pietà. 
@@ -10,7 +10,7 @@ Dal primo libro dei Maccabei
 @TemporaM/101-0:Responsory7
 
 [Lectio2]
-!1 Mach 3:46-53
+!1 Mac 3:46-53
 46 Dopo di essersi radunati, essi andarono a Masfa, dirimpetto a Gerusalemme, perché Masfa era già stato luogo di preghiera per Israele, 
 47 e quel giorno digiunarono, si vestirono di cilizio, si cosparsero la testa di cenere e si stracciarono le vesti 
 48 e distesero i libri della legge nei quali i Gentili cercavano somiglianze con i loro simulacri, 
@@ -24,7 +24,7 @@ Dal primo libro dei Maccabei
 @TemporaM/101-1:Responsory2
 
 [Lectio3]
-!1 Mach 3:54-60
+!1 Mac 3:54-60
 54 Indi fecero risonare altamente le trombe. 
 55 Dopo ciò Giuda nominò i condottieri del popolo, i capi di mille, di cento, di cinquanta e di dieci uomini, 
 56 e a quelli che fabbricavano case e prendevano mogli o piantavano vigne, e ai paurosi disse, che, giusta la legge, se ne tornassero ciascuno a casa sua. 

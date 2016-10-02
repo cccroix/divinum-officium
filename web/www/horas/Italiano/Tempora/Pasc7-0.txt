@@ -16,7 +16,7 @@ Fonti * e abitatori tutti delle acque, inneggiate a Dio, alleluia.;;112
 Parlavano * gli Apostoli in varie lingue delle grandezze di Dio, alleluia, alleluia, alleluia.;;116
 
 [Capitulum Vespera]
-!Act 2:1-2
+!Atti 2:1-2
 v. Giunto il giorno della Pentecoste, i discepoli stavano tutti insieme nel medesimo luogo: e all'improvviso venne dal cielo un rumore, come di vento che si avanza impetuoso, e riempì tutta la casa dove si trovavano raccolti.
 $Deo gratias
 
@@ -128,7 +128,7 @@ R. Ed egli che contiene tutto, ha cognizione fin d'una voce, alleluia.
 
 [Lectio1]
 Lettura del santo Vangelo secondo Giovanni
-!Joann 14:23-31
+!Giov. 14:23-31
 In quell'occasione: Gesù disse ai suoi discepoli: Se uno mi ama, osserverà la mia parola, e il Padre mio lo amerà, e verremo a lui, e faremo dimora presso di lui. Eccetera.
 _
 Omelia di san Gregorio Papa
@@ -164,7 +164,7 @@ Fonti * e abitatori tutti delle acque, inneggiate a Dio, alleluia.
 Parlavano * gli Apostoli in varie lingue delle grandezze di Dio, alleluia, alleluia, alleluia.
 
 [Capitulum Laudes]
-!Act 2:1-2
+!Atti 2:1-2
 v. Giunto il giorno della Pentecoste, i discepoli stavano tutti insieme nel medesimo luogo: e all'improvviso venne dal cielo un rumore, come di vento che si avanza impetuoso, e riempì tutta la casa dove si trovavano raccolti.
 $Deo gratias
 
@@ -213,7 +213,7 @@ R. E cominciarono a parlare, alleluia
 Ricevete * lo Spirito Santo: a chi rimetterete i peccati, saranno loro rimessi, alleluia.
 
 [Lectio Prima]
-!Act 2:11
+!Atti 2:11
 Tanto Giudei, come Proseliti, Cretesi ed Arabi, noi li abbiamo uditi annunziare nelle nostre lingue le grandezze di Dio.
 
 [Hymnus Tertia]
@@ -254,7 +254,7 @@ per i secoli dei secoli.
 Amen.
 
 [Capitulum Tertia]
-!Act 2:1-2
+!Atti 2:1-2
 v. Giunto il giorno della Pentecoste, i discepoli stavano tutti insieme nel medesimo luogo: e all'improvviso venne dal cielo un rumore, come di vento che si avanza impetuoso, e riempì tutta la casa dove si trovavano raccolti.
 $Deo gratias
 
@@ -270,7 +270,7 @@ V. Lo Spirito Paraclito, alleluia.
 R. V'insegnerà ogni cosa, alleluia.
 
 [Capitulum Sexta]
-!Act 2:6
+!Atti 2:6
 v. E udito quel rumore, accorsero in folla, e rimasero attoniti perché ciascuno li udiva parlare nella propria lingua.
 $Deo gratias
 
@@ -286,7 +286,7 @@ V. Furono tutti ripieni di Spirito Santo, alleluia.
 R. E cominciarono a parlare, alleluia.
 
 [Capitulum Nona]
-!Act 2:11
+!Atti 2:11
 v. Tanto Giudei, come Proseliti, Cretesi ed Arabi, noi li abbiamo uditi annunziare nelle nostre lingue le grandezze di Dio.
 $Deo gratias
 

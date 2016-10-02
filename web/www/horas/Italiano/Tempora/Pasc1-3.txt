@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 Dagli Atti degli Apostoli
-!Act 3:1-6
+!Atti 3:1-6
 1 Ora Pietro e Giovanni salivano al tempio sull'ora della preghiera delle tre pomeridiane. 
 2 E veniva portato un certo uomo, che era sciancato dalla nascita; e lo posavano ogni giorno alla porta del tempio, chiamata la Bella, perché chiedesse l'elemosina a quelli ch'entravano nel tempio. 
 3 Costui veduto Pietro e Giovanni che stavano per entrare nel tempio, si raccomandava per aver l'elemosina. 
@@ -20,7 +20,7 @@ Dagli Atti degli Apostoli
 @Tempora/Pasc0-6:Responsory1
 
 [Lectio2]
-!Act 3:7-11
+!Atti 3:7-11
 7 E presolo per la mano destra lo alzò, e in quell'istante gli si consolidarono le piante e le caviglie. 
 8 E d'un salto fu in piedi e si mise a camminare; ed entrò con loro nel tempio, camminando, saltando e lodando Dio. 
 9 E tutto il popolo lo vide camminare e lodare Dio. 
@@ -31,7 +31,7 @@ Dagli Atti degli Apostoli
 @Tempora/Pasc0-1:Responsory2
 
 [Lectio3]
-!Act 3:12-16
+!Atti 3:12-16
 12 Pietro vedendo ciò, disse al popolo: Uomini Israeliti, perché vi meravigliate di questo, e perché ci guardate, quasi che per potenza e bontà nostra avessimo fatto che costui cammini? 
 13 Il Dio di Abramo, il Dio d'Isacco e il Dio di Giacobbe, il Dio dei padri nostri ha glorificato il suo Figlio Gesù, che voi avete tradito e rinnegato davanti a Pilato, mentre questi era d'avviso lo si dovesse rilasciare. 
 14 Voi invece avete rinnegato il Santo e il Giusto, e avete chiesto che vi fosse rilasciato un omicida: 

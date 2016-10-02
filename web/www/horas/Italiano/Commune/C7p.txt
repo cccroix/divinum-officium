@@ -13,7 +13,7 @@ Vieni, mia eletta, * ed io porrò in te il mio trono, alleluia.;;126
 Costei è graziosa * tra le figlie di Gerusalemme, alleluia.;;147
 
 [Capitulum Vespera]
-!Eccl 51:1-3
+!Sir 51:1-3
 v. Ti celebrerò, o Signore e Re, e ti glorificherò, o Dio mio Salvatore. Celebrerò il tuo nome, poiché tu mi fosti di aiuto e di protezione, e liberasti il mio corpo dalla perdizione.
 $Deo gratias.
 
@@ -135,7 +135,7 @@ R. La donna che teme il Signore, questa sarà lodata, alleluia.
 
 [Lectio7]
 Dal Vangelo secondo Matteo
-!Matth 13:44
+!Matt 13:44
 In quel tempo Gesù disse ai suoi discepoli questa parabola: "Il regno dei cieli è simile ad un tesoro nascosto in un campo". (continua nella Messa del giorno)
 _
 Omelia di s. Gregorio papa
@@ -171,7 +171,7 @@ Vieni, mia eletta, * ed io porrò in te il mio trono, alleluia.
 Costei è graziosa * tra le figlie di Gerusalemme, alleluia.
 
 [Capitulum Laudes]
-!Eccl 51:1-3
+!Sir 51:1-3
 v. Ti celebrerò, o Signore e Re, e ti glorificherò, o Dio mio Salvatore. Celebrerò il tuo nome, poiché tu mi fosti di aiuto e di protezione, e liberasti il mio corpo dalla perdizione.
 $Deo gratias.
 
@@ -198,11 +198,11 @@ Concedici, o Signore Dio nostro, di venerare con una continua devozione il trion
 $Per Dominum
 
 [Lectio Prima]
-!Eccl 51:8; 51:12
+!Sir 51:8; 51:12
 L'anima mia loderà il Signore fino alla morte, poiché tu salvi quelli che confidano in te, e li liberi dalla stretta della tribolazione, o Signore Dio nostro.
 
 [Capitulum Tertia]
-!Eccl 51:1-3
+!Sir 51:1-3
 v. Ti celebrerò, o Signore e Re, e ti glorificherò, o Dio mio Salvatore. Celebrerò il tuo nome, poiché tu mi fosti di aiuto e di protezione, e liberasti il mio corpo dalla perdizione.
 $Deo gratias.
 
@@ -218,7 +218,7 @@ V. L'aiuterà Iddio con la sua presenza, alleluia.
 R. Dio è in lei; non sarà scossa, alleluia.
 
 [Capitulum Sexta]
-!Eccl 51:4-5
+!Sir 51:4-5
 v. Nella tua grande misericordia tu mi liberasti da quelli che ruggivano pronti a divorare, dalle mani di quelli che cercavano l'anima mia, e dalle molte tribolazioni che mi circondavano.
 $Deo gratias.
 
@@ -234,7 +234,7 @@ V. L'ha eletta Iddio e l'ha prescelta, alleluia.
 R. La fa abitare nella sua dimora, alleluia.
 
 [Capitulum Nona]
-!Eccl 51:8; 51:12
+!Sir 51:8; 51:12
 v. L'anima mia loderà il Signore fino alla morte, poiché tu salvi quelli che confidano in te, e li liberi dalla stretta della tribolazione, o Signore Dio nostro.
 $Deo gratias.
 

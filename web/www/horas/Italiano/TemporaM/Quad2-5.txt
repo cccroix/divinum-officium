@@ -5,7 +5,7 @@ Feria Sexta infra Hebdomadam II in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Lettura del santo Vangelo secondo Matteo
-!Matth 21:33-46
+!Matt 21:33-46
 In quell'occasione: Gesù disse alle turbe dei Giudei e ai capi sacerdoti questa parola: C'era un padre di famiglia, il quale piantò una vigna, e la cinse di siepe. Eccetera
 _
 Omelia di sant'Ambrogio Vescovo
@@ -43,7 +43,7 @@ $Per Dominum
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Matteo
-!Matth 21:33-46
+!Matt 21:33-46
 21:33 Udite un'altra parabola. Eravi un padre di famiglia, il quale piantò una vigna, e la cinse di siepe, e scavò e vi fece un frantoio, e fabbricò una torre, e la diede a lavorare a contadini, e se ne andò in lontano paese. 
 21:34 Venuta poi la stagione de' frutti, mandò i suoi servi dai contadini per ricevere i frutti di essa. 
 21:35 Ma i contadini, messe le mani addosso a' servi, altro ne bastonarono, altro ne uccisero e altro ne lapidarono.

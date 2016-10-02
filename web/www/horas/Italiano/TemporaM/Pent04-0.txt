@@ -20,7 +20,7 @@ $Per Dominum
 
 [Lectio1]
 Dal primo libro dei Re
-!1 Reg 17:1-7
+!1 Sam 17:1-7
 1 Ma i Filistei, messe insieme le loro schiere per combattere, si radunarono in Soco di Giuda, e si accamparono tra Soco e Azeca ai confini di Dommim. 
 2 E Saul coi figli d'Israele, radunatisi anche essi, convennero nella Vale del terebinto, e vi si schierarono per combattere contro i Filistei. 
 3 Or i Filistei stavano su d'un monte da una parte, e anche Israele stava su un monte dall'altra parte e tra loro c'era la valle. 
@@ -36,7 +36,7 @@ V. Convertitevi a lui con tutto il vostro cuore, e togliete di mezzo a voi gli d
 R. Ed egli vi libererà dalle mani dei vostri nemici.
 
 [Lectio2]
-!1 Reg 17:8-11
+!1 Sam 17:8-11
 8 E fermatosi, gridava verso le falangi d'Israele, e diceva loro: Perché siete venuti preparati per la battaglia? Non son io Filisteo e voi servi di Saul? Scegliete uno di voi, e venga a combattere solo con me: 
 9 se si sentirà di combattere con me e mi abbatterà, noi saremo servi vostri; ma se prevarrò io e l'abbatterò, voi sarete nostri schiavi e ci servirete. 
 10 E il Filisteo aggiungeva: Quest'oggi io ho svergognato le schiere di Israele dicendo: Datemi un uomo che venga a combattere solo con me. 
@@ -49,7 +49,7 @@ V. Il Signore, che mi strappò dalla bocca del leone, mi liberò anche dagli art
 R. E mi unse coll'unzione della sua misericordia.
 
 [Lectio3]
-!1 Reg 17:12-16
+!1 Sam 17:12-16
 12 Ma c'era David figlio di quell'uomo di Efrata, cioè di Betlemme di Giuda, chiamato Isai, di cui s'è parlato sopra, che aveva otto figli e al tempo di Saul era vecchio e dei più avanzati in età. 
 13 Ora i suoi tre figli maggiori erano andati alla guerra con Saul: e i nomi dei suoi tre figli ch'eran andati alla guerra (sono), Eliab primogenito, Albinadab il secondo, Samma il terzo; 
 14 e David era il più piccolo. Avendo dunque i tre maggiori seguito Saul, 

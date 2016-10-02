@@ -12,7 +12,7 @@ Ti rendo grazie, * o Signore Gesù Cristo, che ti sei ricordato di me, e m'hai m
 Colui che s'è degnato * di guarirmi da ogni ferita, e di rimettere sul mio petto la mia mammella, questo io invoco, il Dio vivo.;;126
 
 [Capitulum Vespera]
-!Eccl 51:1-3
+!Sir 51:1-3
 v. Ti celebrerò, o Signore e Re, e ti glorificherò, o Dio mio Salvatore. Celebrerò il tuo nome, poiché tu mi fosti di aiuto e di protezione, e liberasti il mio corpo dalla perdizione.
 $Deo gratias
 _
@@ -111,7 +111,7 @@ R. Si comandò di torturarmi in una mammella.
 
 [Lectio7]
 Lettura del santo Vangelo secondo Matteo
-!Matth 19:3-12
+!Matt 19:3-12
 In quell'occasione si accostarono a Gesù: dei farisei per metterlo alla prova e gli dissero : È lecito a un uomo di ripudiare la propria moglie per qualunque motivo? Eccetera.
 _
 Omelia di san Giovanni Crisostomo 
@@ -152,7 +152,7 @@ Ti benedico, * Padre del Signor mio Gesù Cristo, perché, per mezzo del tuo Apo
 Colui che s'è degnato * di guarirmi da ogni ferita, e di rimettere sul mio petto la mia mammella, questo io invoco, il Dio vivo.
 
 [Capitulum Laudes]
-!Eccl 51:1-3
+!Sir 51:1-3
 v. Ti celebrerò, o Signore e Re, e ti glorificherò, o Dio mio Salvatore. Celebrerò il tuo nome, poiché tu mi fosti di aiuto e di protezione, e liberasti il mio corpo dalla perdizione.
 $Deo gratias
 _
@@ -171,23 +171,23 @@ O Dio, che tra gli altri miracoli della tua potenza anche nel sesso debole hai r
 $Per Dominum
 
 [Capitulum Tertia]
-!Eccl 51:1-3
+!Sir 51:1-3
 v. Ti celebrerò, o Signore e Re, e ti glorificherò, o Dio mio Salvatore. Celebrerò il tuo nome, poiché tu mi fosti di aiuto e di protezione, e liberasti il mio corpo dalla perdizione.
 $Deo gratias
 
 [Capitulum Sexta]
-!Eccl 51:4-5
+!Sir 51:4-5
 v. Nella tua grande misericordia tu mi liberasti da quelli che ruggivano pronti a divorare, dalle mani di quelli che cercavano l'anima mia, e dalle molte tribolazioni che mi circondavano.
 $Deo gratias
 
 [Capitulum Nona]
-!Eccl 51:8; 51:12
+!Sir 51:8; 51:12
 v. L'anima mia loderà il Signore fino alla morte, poiché tu salvi quelli che confidano in te, e li liberi dalla stretta della tribolazione, o Signore Dio nostro.
 $Deo gratias
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Matteo
-!Matth 19:3-12
+!Matt 19:3-12
 19:3 E andarono a trovarlo i Farisei per tentarlo, e gli dissero : È egli lecito all'uomo ripudiare per qualunque motivo la propria 
 moglie ?
 19:4 Egli rispose, e disse loro : Non avete voi letto come colui che da principio creò l'uomo, li creò maschio e femmina? e disse :

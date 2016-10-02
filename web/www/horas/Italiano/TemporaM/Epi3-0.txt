@@ -70,7 +70,7 @@ Di simile questione si tratta pure nella Lettera ai Romani: tuttavia pare che ci
 
 [Lectio7]
 Lettura del santo Vangelo secondo Matteo
-!Matth 8:1-13
+!Matt 8:1-13
 In quell'occasione: Sceso che fu Gesù dal monte, lo seguirono molte turbe: quand'ecco un lebbroso si accosta e gli si prostra innanzi. Eccetera.
 _
 Omelia di san Girolamo Prete
@@ -107,7 +107,7 @@ Signore, * se vuoi, puoi mondarmi: e Gesù disse: Lo voglio, sii mondato.
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Matteo
-!Matth 8:1-13
+!Matt 8:1-13
 8:1 In quel tempo: Essendo Gesù disceso dal monte, lo seguirono molte turbe: 
 8:2 ed ecco un lebbroso che, accostatosi, lo adorava, dicendo: Signore, se vuoi, puoi mondarmi. 
 8:3 Gesù, stesa la mano, lo toccò, dicendo: Lo voglio. Sii Mondato. E tosto la sua lebbra fu guarita. 

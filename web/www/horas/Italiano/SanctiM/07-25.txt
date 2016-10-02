@@ -22,7 +22,7 @@ Mentre venivano portati al supplizio, egli chiese perdono a Giacomo; e Giacomo, 
 
 [Lectio7]
 Lettura del santo Vangelo secondo Matteo
-!Matth 20:20-23
+!Matt 20:20-23
 In quell'occasione: Si accostò a Gesù la madre dei figli di Zebedeo coi suoi figli, prostrandosi per fargli una domanda. Eccetera.
 _
 Omelia di san Giovanni Crisostomo
@@ -45,7 +45,7 @@ $Per Dominum
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Matteo
-!Matth 20:20-23
+!Matt 20:20-23
 20:20 Allora si accostò a lui la madre de' figli di Zebedeo co' suoi figli, adorandolo e domandandogli qualche cosa.
 20:21 Ed egli le disse : Che vuoi tu ? Quella gli rispose : Ordina che seggano questi due miei figli, uno alla destra, l'altro alla tua sinistra nel tuo regno.
 20:22 Gesù rispose e disse : Non sapete quello che domandate. Potete voi bere il calice che berò io? Gli risposero : Possiamo.

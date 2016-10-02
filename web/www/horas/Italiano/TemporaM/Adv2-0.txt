@@ -32,7 +32,7 @@ $Qui tecum
 
 [Lectio1]
 Dal Profeta Isaia
-!Isai 11:1-4
+!Isa 11:1-4
 1 Ed uscirà un rampollo dal ceppo di Jesse, e sboccerà un fiore dalla sua radice. 
 2 E su di esso riposerà lo spirito del Signore: spirito di sapienza e d'intelligenza, spirito di consiglio e di fortezza, spirito di scienza e di pietà; 
 3 e lo riempirà lo spirito del timor del Signore: egli non giudicherà secondo quel che si vede cogli occhi, né sentenzierà secondo quel che si ode coll'orecchie 
@@ -45,7 +45,7 @@ V. Perché io sono II Signore Dio tuo, il Santo d'Israele, il tuo Redentore.
 R. Ti salverò e libererò, non voler temere.
 
 [Lectio2]
-!Isai 11:4-7
+!Isa 11:4-7
 4 Ed egli colpirà la terra colla verga della sua bocca, e col soffio delle sue labbra ucciderà l'empio. 
 5 E la giustizia sarà la fascia del suoi lombi: e la fedeltà la cintura dei suoi fianchi. 
 6 Il lupo abiterà insieme coll'agnello, e il leopardo s'accovaccerà col capretto: il vitello e il leone e la pecora staranno insieme, e un piccolo fanciullo li guiderà. 
@@ -58,7 +58,7 @@ V. Ecco che il Signore verrà con potenza: e nella sua mano è il regno, il pote
 R. Su tutte le genti.
 
 [Lectio3]
-!Isai 11:8-10
+!Isa 11:8-10
 8 E il bambino da latte scherzerà sulla buca dell'aspide: e un bambino appena slattato introdurrà la mano nella tana del basilisco. 
 9 Essi non faranno male, e non uccideranno più su tutto il mio santo monte: perché la terra sarà ripiena della cognizione del Signore, come le acque riempiono il mare. 
 10 In quel giorno le genti invocheranno il rampollo di Jesse, che sta per insegna ai popoli, e il suo sepolcro sarà glorioso.
@@ -104,7 +104,7 @@ R. Perché dal mezzo delle Genti verrà ii tuo Salvatore.
 
 [Lectio7]
 Lettura del santo Vangelo secondo Matteo
-!Matth 11:2-10
+!Matt 11:2-10
 In quell’occasione: Giovanni udite nella prigione le opere di Cristo, mandò due dei suoi discepoli a chiedergli: Sei tu colui che deve venire, o dobbiamo aspettarne un altro? Eccetera.
 _
 Omelia di san Gregorio Papa
@@ -179,7 +179,7 @@ Sei tu colui che deve venire, * o dobbiamo aspettarne un altro? Dite a Giovanni 
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Matteo
-!Matth 11:2-10
+!Matt 11:2-10
 11:2 In quel tempo: Non appena Giovanni, nel carcere, sentí delle opere del Cristo, mandò due suoi discepoli 
 11:3 a chiedergli: Sei tu quello che deve venire o attenderemo un altro? 
 11:4 E Gesú rispose loro: Andate e riferite a Giovanni ciò che avete udito e visto. 

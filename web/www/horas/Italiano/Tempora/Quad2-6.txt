@@ -5,7 +5,7 @@ Sabbato infra Hebdomadam II in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Lettura del santo Vangelo secondo Luca
-!Luc 15:11-32
+!Luca 15:11-32
 In quell'occasione: Gesù disse ai farisei e agli scribi questa parabola: Un uomo aveva due figli: e il più giovane disse al padre: Padre, dammi la parte del patrimonio che mi spetta. Eccetera.
 _
 Omelia di sant'Ambrogio Vescovo
@@ -15,7 +15,7 @@ Vedi, che il patrimonio divino si dà a quelli che lo domandano. Non pensare che
 [Responsory1]
 R. Padre, ho peccato contro il cielo e contro di te: non merito più di esser chiamato tuo figlio: 
 * Trattami come uno dei tuoi garzoni.
-V. Quanti garzoni in casa di mio padre abbondano di pane, mentre io qui muoio di fame!Mich farò coraggio, andrò da mio padre, e gli dirò.
+V. Quanti garzoni in casa di mio padre abbondano di pane, mentre io qui muoio di fame! Mi farò coraggio, andrò da mio padre, e gli dirò.
 R. Trattami come uno dei tuoi garzoni.
 
 [Lectio2]

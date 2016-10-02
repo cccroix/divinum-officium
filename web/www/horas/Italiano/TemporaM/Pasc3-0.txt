@@ -7,7 +7,7 @@ Duplex
 Una Antiphona
 
 [Capitulum Vespera]
-!1 Petri 2:11
+!1 Pet 2:11
 v. Carissimi: Io vi scongiuro che, come forestieri e pellegrini, vi asteniate dai desideri carnali che fan guerra all'anima.
 $Deo gratias
 _
@@ -31,7 +31,7 @@ $Per Dominum
 
 [Lectio1]
 Incomincia il libro dell'Apocalisse dell'Apostolo san Giovanni
-!Apoc 1:1-6
+!Apo 1:1-6
 1 Rivelazione di Gesù Cristo, che Dio gli manifestò per far conoscere ai suoi servi le cose che devono accadere tra breve: e le fece conoscere mandando il suo Angelo al suo servo Giovanni,
 2 che ha attestato la parola di Dio e ha reso testimonianza di Gesù Cristo in tutto ciò che ha visto.
 3 Beato chi legge e ascolta le parole di questa profezia, e mette in pratica le cose che in essa sono scritte: perché il tempo è vicino. 
@@ -46,7 +46,7 @@ V. E ci hai fatti regno per il nostro Dio, e sacerdoti.
 R. Col sangue tuo, alleluia.
 
 [Lectio2]
-!Apoc 1:7-11
+!Apo 1:7-11
 7 Ecco ch'egli viene sulle nubi, e lo vedrà ogni occhio, ed anche coloro che lo trafissero. E si batteranno il petto per lui tutte le tribù della terra. Sì: Così è.
 8 Io sono l'alfa e l'omega: il principio e la fine, dice il Signore Iddio: che è, e che era, e ch'è per venire, l'Onnipotente.
 9 Io Giovanni, vostro fratello e compagno nella tribolazione, nel regno e nella pazienza in Gesù Cristo, mi trovavo nell'isola di Patmos per aver predicato la parola di Dio e testimoniato di Gesù.
@@ -60,7 +60,7 @@ V. In me è ogni grazia per conoscere la via della verità: in me ogni speranza 
 R. Venite a me, voi tutti che mi bramate, e saziatevi dei miei frutti, alleluia, alleluia.
 
 [Lectio3]
-!Apoc 1:12-19
+!Apo 1:12-19
 12 Allora mi voltai per vedere la voce che mi parlava: e, voltatomi, vidi sette candelieri d'oro:
 13 e in mezzo ai sette candelieri d'oro (qualcuno) simile al figlio dell'uomo, vestito di lunga tunica e cinto il petto con fascia d'oro:
 14 e il suo capo e i capelli eran bianchi come candida lana e come la neve, e i suoi occhi come fiamma di fuoco,
@@ -111,7 +111,7 @@ R. E la fragranza delle sue vesti sorpassa tutti gli aromi, alleluia, alleluia.
 
 [Lectio7]
 Lettura del santo Vangelo secondo Giovanni
-!Joann 16:16-22
+!Giovanni 16:16-22
 In quell' occasione: Gesù disse ai suoi discepoli: Fra un poco non mi vedrete più: e fra un altro poco mi vedrete: perché me ne vo al Padre. Eccetera.
 _
 Omelia di sant'Agostino Vescovo
@@ -147,7 +147,7 @@ R. Alleluia, alleluia
 R. Alleluia, alleluia
 
 [Capitulum Laudes]
-!1 Petri 2:11
+!1 Pet 2:11
 v. Carissimi: Io vi scongiuro che, come forestieri e pellegrini, vi asteniate dai desideri carnali che fan guerra all'anima.
 $Deo gratias
 _
@@ -166,17 +166,17 @@ R. Si rallegrino i cieli e la terra, alleluia.
 Fra un poco, * non mi vedrete più, dice il Signore: e fra un altro poco, mi vedrete: perché me ne vo al Padre, alleluia, alleluia.
 
 [Capitulum Tertia]
-!1 Petri 2:11
+!1 Pet 2:11
 v. Carissimi: Io vi scongiuro che, come forestieri e pellegrini, vi asteniate dai desideri carnali che fan guerra all'anima.
 $Deo gratias
 
 [Capitulum Sexta]
-!1 Petri 2:13-14
+!1 Pet 2:13-14
 $ Siate quindi soggetti per amor di Dio ad ogni umana istituzione: tanto al re, come sovrano, quanto ai governatori come delegati da lui a punire i malfattori e approvare i buoni.
 $Deo gratias
 
 [Capitulum Nona]
-!1 Petri 2:18-19
+!1 Pet 2:18-19
 v. Servi, siate sottomessi ai padroni avendo per loro tutta la deferenza, non solo se son buoni e miti, ma anche se sono esigenti. Perché questa è cosa di merito, in Gesù Cristo Signor nostro.
 $Deo gratias
 
@@ -189,7 +189,7 @@ In verità * vi dico che voi piangerete e vi lamenterete: il mondo invece godrà
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Giovanni
-!Joann 16:16-22
+!Giovanni 16:16-22
 16:16 Ancora un poco e non mi vedrete : e di nuovo un altro poco, e mi vedrete, perché io vo al Padre.
 16:17 Dissero però tra loro alcuni de' suoi discepoli : Che è quello che egli ci dice : Non andrà molto, e non mi vedrete : e di poi, non andrà molto, e mi vedrete, e me ne vo al Padre?
 16:18 Dicevano adunque : Che è questo che egli dice : Un poco? Non intendiamo quel che egli dica. 

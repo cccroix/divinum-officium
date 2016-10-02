@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 Dalla Lettera dell'Apostolo san Giacomo
-!Jacob 3:1-3
+!Giac 3:1-3
 1 Non vogliate, fratelli miei, esser molti a far da maestri, sapendo che vi addossate un giudizio più severo. 
 2 Perché manchiamo tutti in molte cose. Chi non manca nel parlare, quest'uomo è perfetto, ed è capace di tenere a freno tutto il corpo. 
 3 Se noi mettiamo il freno in bocca ai cavalli perché ci siano ubbidienti, teniamo a freno anche tutto il loro corpo.
@@ -17,7 +17,7 @@ Dalla Lettera dell'Apostolo san Giacomo
 @TemporaM/Pasc4-0:Responsory1
 
 [Lectio2]
-!Jacob 3:4-6
+!Giac 3:4-6
 4 Ecco, anche le navi, benché siano grandi e spinte da venti gagliardi, sono dirette da un piccolo timone, dovunque ordini il timoniere. 
 5 Così pure la lingua è un piccolo membro, e si vanta di grandi cose. Ecco un piccolo fuoco che gran selva incendia! 
 6 Anche la lingua è un fuoco, un mondo d'iniquità.
@@ -31,7 +31,7 @@ R. Grande fragor di acque: la lor voce fecero udir le nubi, alleluia, alleluia, 
 R. Grande fragor di acque: la lor voce fecero udir le nubi, alleluia, alleluia, alleluia.
 
 [Lectio3]
-!Jacob 3:6-10
+!Giac 3:6-10
 6 La lingua posta tra le nostre membra, essa contamina tutto il corpo, ed, eccitata dall'inferno, mette in fiamme il corso della nostra vita. 
 7 Infatti ogni specie di bestie, di volatili, di rettili e di altri animali si domano, e sono state domate dall'uomo: 
 8 ma la lingua nessun uomo può domarla: è un male infrenabile, è piena di mortale veleno. 

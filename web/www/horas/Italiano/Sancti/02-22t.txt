@@ -58,7 +58,7 @@ Tu sei il pastore delle pecore, il Principe degli Apostoli: * A te Dio ha dato l
 
 [Lectio1]
 Incomincia la prima Lettera dell'Apostolo san Pietro
-!1 Petri 1:1-5
+!1 Pet 1:1-5
 1 Pietro, Apostolo di Gesù Cristo, ai fedeli esuli sparsi per il Ponto, per la Galizia, la Cappadocia, l'Asia e Bitinia, 
 2 eletti, secondo la prescienza di Dio Padre, ad essere santificati dallo Spirito, ad essere sudditi di Gesù Cristo, e ad essere aspersi dal suo sangue: Grazia e pace scendano in abbondanza su voi. 
 3 Benedetto Dio, Padre di nostro Signor Gesù Cristo, che, nella sua grande misericordia, ci ha rigenerati, mediante la risurrezione di Gesù Cristo da morte, alla viva speranza di possedere 
@@ -72,7 +72,7 @@ V. Qualunque cosa legherai sulla terra, sarà legata anche nei cieli; e qualunqu
 R. E t'ho dato le chiavi del regno dei cieli.
 
 [Lectio2]
-!1 Petri 1:6-9
+!1 Pet 1:6-9
 6 In questo (pensiero) voi esulterete, sia pure che dobbiate essere ora per poco afflitti da diverse prove: 
 7 affinché la prova della vostra fede molto più preziosa dell'oro (che pur si prova col fuoco) torni a lode, a gloria e ad onore quando si manifesterà Gesù Cristo: 
 8 che voi amate senza aver veduto: in cui anche adesso credete senza vederlo: e, credendo così, esulterete di gioia ineffabile e beata 
@@ -85,7 +85,7 @@ V. Quando anche dovessi morire con te, io non ti rinnegherò.
 R. E per te darei la mia vita.
 
 [Lectio3]
-!1 Petri 1:10-12
+!1 Pet 1:10-12
 10 Salvezza che ricercarono e scrutarono i profeti, che predissero la grazia che voi dovevate ricevere; 
 11 e siccome essi indagavano il tempo e le circostanze che lo Spirito di Cristo, ch'era in essi, andava rivelando intorno alle sofferenze di Cristo e alle glorie susseguenti, 
 12 che prediceva loro, fu ad essi rivelato che non per sé ma per voi essi erano dispensatori delle cose che ora vi sono state annunziate da quelli che vi hanno predicato il Vangelo, mercé lo Spirito Santo mandato dal cielo, e che gli Angeli bramano di contemplare.
@@ -131,7 +131,7 @@ R. Pasci le mie pecore.
 
 [Lectio7]
 Lettura del santo Vangelo secondo Matteo
-!Matth 16:13-19
+!Matt 16:13-19
 In quell'occasione: Gesù, venuto nelle parti di Cesarea di Filippo, interrogò i suoi discepoli dicendo: La gente chi dice che sia il Figlio dell'uomo? Eccetera.
 _
 Omelia di san Leone Papa

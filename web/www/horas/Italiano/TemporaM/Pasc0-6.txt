@@ -11,7 +11,7 @@ Psalmi Dominica;
 
 [Lectio1]
 Lettura del santo Vangelo secondo Giovanni
-!Joann 20:1-9
+!Gio 20:1-9
 In quell'occasione: Il primo giorno della settimana, la mattina, per tempo, mentr'era ancor buio, Maria Maddalena se ne andò al sepolcro. Eccetera.
 _
 Omelia di san Gregorio Papa
@@ -48,7 +48,7 @@ $Per Dominum
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Giovanni
-!Joann 20:1-9
+!Gio 20:1-9
 20:1 Il primo giorno dopo il sabato Maria Maddalena se ne va la mattina, che era ancor buio, al monumento : e vede levata dal monumento la pietra.
 20:2 Corre perciò a trovare Simon Pietro, e quell'altro disce-polo amato da Gesù, e dice loro : Hanno portato via dal monumento il Signore, e non sappiamo dove lo abbian messo.
 20:3 Partì adunque Pietro e quell'altro discepolo, e andarono al monumento.

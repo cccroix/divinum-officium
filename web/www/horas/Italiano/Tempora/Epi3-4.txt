@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Dalla Lettera agli Efesini
-!Ephes 4:1-6
+!Eph 4:1-6
 1 Vi scongiuro dunque, io il carcerato per il Signore, a camminare in maniera degna della vocazione cui siete stati chiamati, 
 2 con tutta umiltà e mansuetudine, con pazienza, sopportandovi caritatevolmente l’un l'altro, 
 3 sforzandovi di conservare l'unità dello spirito col vincolo della pace. 
@@ -18,7 +18,7 @@ Dalla Lettera agli Efesini
 @Tempora/Epi2-4:Responsory1
 
 [Lectio2]
-!Ephes 4:7-10
+!Eph 4:7-10
 7 A ciascuno poi di noi la n grazia è stata data secondo la misura del dono di Cristo. 
 8 Perciò dice: «Ascendendo in alto menò con sé una turba di prigionieri; diede dei doni agli uomini» (Ps. 67, 19). 
 9 Or come si può dire ch'è asceso, se non perché egli era anche disceso prima in questa bassa terra? 
@@ -28,7 +28,7 @@ Dalla Lettera agli Efesini
 @Tempora/Epi2-4:Responsory2
 
 [Lectio3]
-!Ephes 4:11-15
+!Eph 4:11-15
 11 Ed è lui che gli uni ha costituiti apostoli, altri profeti, altri evangelisti, altri pastori e dottori, 
 12 per il perfezionamento dei fedeli, per l'opera del ministero, per l'edificazione del corpo di Cristo: 
 13 finché giungiamo tutti all'unità della fede e della piena conoscenza del Figlio di Dio, allo stato d'uomo perfetto, alla misura dell'età piena di Cristo: 

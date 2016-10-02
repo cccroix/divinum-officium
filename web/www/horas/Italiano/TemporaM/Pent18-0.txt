@@ -13,7 +13,7 @@ $Per Dominum
 
 [Lectio7]
 Lettura del santo Vangelo secondo Matteo
-!Matth 9:1-8
+!Matt 9:1-8
 In quell'occasione: Gesù, entrato in una barchetta, andò all'altra riva, e venne nella sua città. Eccetera.
 _
 Omelia di san Pier Crisologo
@@ -41,7 +41,7 @@ R. Il Signore s'è rivestito di forza, e s'è cinto di potenza.
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Matteo
-!Matth 9:1-8
+!Matt 9:1-8
 9:1  In quel tempo: Gesú, salito su una barca, ripassò il lago, e andò nella sua città. 
 9:2 Quand'ecco gli presentarono un paralitico giacente nel letto.  Veduta la loro fede, Gesú disse
 al paralitico: Figlio, confida: ti sono perdonati i tuoi peccati. 

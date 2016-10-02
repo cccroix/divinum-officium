@@ -1,6 +1,6 @@
 [Lectio1]
 Dal libro dell'Ecclesiastico
-!Eccl 3:1-4
+!Sir 3:1-4
 1 I figli della sapienza formano la società dei giusti, e la loro stirpe è obbedienza ed amore. 
 2 Figli, ascoltate gli avvisi del padre e fate così per essere salvi. 
 3 Perché Dio volle onorato il padre dai figli e ratificò i diritti della madre sopra la prole. 
@@ -10,7 +10,7 @@ Dal libro dell'Ecclesiastico
 @Tempora/081-0:Responsory7
 
 [Lectio2]
-!Eccl 3:5-8
+!Sir 3:5-8
 5 E come chi accumula tesori è colui che onora sua madre; 
 6 chi onora suo padre avrà consolazione dai figli, e quando pregherà sarà esaudito. 
 7 Chi onora suo padre avrà vita lunga, e chi obbedisce al padre dà consolazione alla madre. 
@@ -20,7 +20,7 @@ Dal libro dell'Ecclesiastico
 @Tempora/081-1:Responsory2
 
 [Lectio3]
-!Eccl 3:9-13
+!Sir 3:9-13
 9 Con fatti, colle parole e con tutta la pazienza onora tuo padre, 
 10 affinché su te scenda la sua benedizione, e la sua benedizione ti accompagni sino alla fine. 
 11 La benedizione del padre consolida le case dei figli, ma la maledizione della madre ne sradica i fondamenti. 

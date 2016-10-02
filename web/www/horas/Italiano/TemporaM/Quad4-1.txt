@@ -5,7 +5,7 @@ Feria Secunda infra Hebdomadam IV in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Lettura del santo Vangelo secondo Giovanni
-!Joann 2:13-25.
+!Gio 2:13-25.
 In quell' occasione: Era prossima la Pasqua dei Giudei, e Gesù salì a Gerusalemme: e trovò nel tempio mercanti di buoi, di pecore e di colombe. Eccetera.
 _
 Omelia di sant'Agostino Vescovo
@@ -54,7 +54,7 @@ $Per Dominum.
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Giovanni
-!Joann 2:13-25.
+!Gio 2:13-25.
 2:13 Ed era prossima la Pasqua dei Giudei, e Gesù ascese a Gerusalemme : 
 2:14 e trovò nel tempio gente che vendeva bovi, e pecore, e colombe, e banchieri che sedevano a banco.
 2:15 E fatta come una frusta di cordicelle, scacciò dal tempio tutti coloro, e le pecore e i bovi, e gettò per terra il denaro dei banchieri, e rovesciò i loro banchi.

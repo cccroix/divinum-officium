@@ -7,7 +7,7 @@ R. E discenda su di noi la tua misericordia.
 
 [Lectio1]
 Dal primo libro dei Maccabei
-!1 Mach 4:36-40
+!1 Mac 4:36-40
 36 Ma Giuda e i suoi fratelli dissero: Ecco i nostri nemici sono disfatti; andiamo ora a purificare e restaurare il santuario. 
 37 E radunato tutto l'esercito, salirono al monte di Sion, 
 38 e videro il luogo santo deserto e l'altare profanato e le porte bruciate e nei cortili spuntare i virgulti, come in un bosco, o sui monti, e le celle rovinate. 
@@ -18,7 +18,7 @@ Dal primo libro dei Maccabei
 @Tempora/101-0:Responsory1
 
 [Lectio2]
-!1 Mach 4:41-46
+!1 Mac 4:41-46
 41 Allora Giuda mise in ordine degli uomini che combattessero contro quelli che erano nella fortezza, mentre si purificava il santuario. 
 42 Indi scelse de' sacerdoti senza macchia amanti della legge di Dio, 
 43 i quali purificarono il santuario e trasportarono le pietre contaminate in luogo profano. 
@@ -30,7 +30,7 @@ Dal primo libro dei Maccabei
 @Tempora/101-0:Responsory2
 
 [Lectio3]
-!1 Mach 4:47-51
+!1 Mac 4:47-51
 47 Poi presero delle pietre intere, giusta la legge, ed eressero un altare nuovo simile a quello di prima 
 48 e riedificarono il santuario e quanto era nell'interno del tempio, e santificarono il tempio e i cortili, 
 49 e rifecero i vasi sacri e riportarono nel tempio il candelabro e l'altare degli incensi e la mensa, 

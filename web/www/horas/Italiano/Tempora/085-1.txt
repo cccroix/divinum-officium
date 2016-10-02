@@ -1,6 +1,6 @@
 [Lectio1]
 Dal libro dell'Ecclesiastico
-!Eccl 7:1-5
+!Sir 7:1-5
 1 Non far male, e male non ti incoglierà: 
 2 schiva l'iniquità, e il male piegherà lungi da te. 
 3 Figlio, non seminar male nei solchi dell'ingiustizia per non avere a raccoglierne il sette per uno. 
@@ -11,7 +11,7 @@ Dal libro dell'Ecclesiastico
 @Tempora/081-1:Responsory1
 
 [Lectio2]
-!Eccl 7:6-10
+!Sir 7:6-10
 6 Non brigare per diventar giudice se non ti senti in grado di por fine alle iniquità; altrimenti avrai paura di un potente, e getterai una macchia sulla tua integrità. 
 7 Non offendere la moltitudine della città e non ti gettare in mezzo al popolo 
 8 né aggiungere peccato a peccato, perché nemmeno di un solo andrai impunito. 
@@ -22,7 +22,7 @@ Dal libro dell'Ecclesiastico
 @Tempora/081-1:Responsory2
 
 [Lectio3]
-!Eccl 7:11-15
+!Sir 7:11-15
 11 Non dire: Iddio avrà riguardo a tante mie offerte, e, quand'io offrirò i miei doni a Dio altissimo, egli li gradirà. 
 12 Non disprezzare alcuno quando è afflitto; perché c'è uno che umilia ed esalta, Dio che tutto vede. 13 Non seminare menzogne contro il tuo fratello, e non fare lo stesso contro l'amico. 
 14 Non prender gusto a dir bugie d'ogni sorta; poiché siffatta abitudine non è punto buona. 

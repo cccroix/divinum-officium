@@ -1,6 +1,6 @@
 [Lectio1]
 Dal primo libro dei Maccabei
-!1 Mach 7:1; 7:4-7
+!1 Mac 7:1; 7:4-7
 1 L’anno centocinquantuno, Demetrio, figlio di Seleuco, partì da Roma, e giunse con pochi uomini in una città marittima e vi cominciò a regnare. 
 4 E Demetrio si assise sul trono del suo regno. 
 5 Allora andarono da lui alcuni uomini malvagi ed empi d'Israele, capo dei quali era Alcimo, che voleva essere pontefice, 
@@ -11,7 +11,7 @@ Dal primo libro dei Maccabei
 @TemporaM/101-0:Responsory4
 
 [Lectio2]
-!1 Mach 7:8-11
+!1 Mac 7:8-11
 8 E il re scelse tra i suoi amici Bacchide, ch'era governatore al di là del fiume, dei grandi del regno, fedele al re. 
 9 E lo mandò a vedere lo sterminio fatto da Giuda; e di più diede il sommo pontificato all'empio Alcimo ordinandogli di punire i figli d'Israele. 
 10 Ed essi si mossero ed entraron con grande esercito nella terra di Giuda, e mandarono ambasciatori a Giuda e ai suoi fratelli con parole di pace per ingannarli. 
@@ -21,7 +21,7 @@ Dal primo libro dei Maccabei
 @TemporaM/101-0:Responsory5
 
 [Lectio3]
-!1 Mach 7:12-17
+!1 Mac 7:12-17
 12 Intanto si presentarono ad Alcimo e a Bacchide un gruppo di scribi per domandare loro quel ch'era giusto, 
 13 e primi tra questi agli d'Israele erano gli Assidei, e chiedevano loro la pace. 
 14 Poiché dicevano; E’ venuto un sacerdote della stirpe d'Aronne: egli non c'ingannerà. 

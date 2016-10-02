@@ -16,7 +16,7 @@ Antiphonas horas
 Psalmi Dominica
 
 [Capitulum Vespera]
-!Eccl 24:5; 24:7
+!Sir 24:5; 24:7
 v. Io sono uscita dalla bocca dell'Altissimo, primogenita di tutta la creazione. Nel più alto dei cieli ho la mia dimora e il mio trono sulla colonna di nube.
 $Deo gratias
 
@@ -81,7 +81,7 @@ R. Perché grandi cose ha fatto in me colui che è potente. (Alleluia.)
 
 [Lectio1]
 Dal libro dell' Ecclesiastico 
-!Eccl 24:5-11
+!Sir 24:5-11
 5 Io sono uscita dalla bocca dell'Altissimo, primogenita di tutta la creazione. 
 6 Io ho fatto sorgere nel cielo una luce indefettibile e come vapore ho coperto tutta la terra. 
 7 Ho posto la mia tenda in alto: il mio trono è sopra una colonna di nube. 
@@ -97,7 +97,7 @@ V. Ave, Maria piena di grazia, il Signore è con te.
 R. Ecco, sei stata innalzata, sopra i cori degli angeli, ai regni celesti. (Alleluia.)
 
 [Lectio2]
-!Eccl 24:14-16
+!Sir 24:14-16
 14 Mi creò prima del tempo, dal principio; né tramonterò mai più. Davanti a lui servivo nella sua tenda. 
 15 E perciò ho preso dimora stabile in Sion, e mi fermai nella città amata; io comando su Gerusalemme. 
 16 Affondai le radici presso un popolo glorioso, nella porzione del Signore, nella sua eredità.
@@ -109,7 +109,7 @@ V. Celebriamo la gloria della nostra Regina.
 R. Poiché ella regna con Cristo in eterno. (Alleluia.)
 
 [Lectio3]
-!Eccl 24:24-30
+!Sir 24:24-30
 24 Io sono la madre del vero amore, del timore e della scienza e della santa speranza. 
 25 In me è ogni grazia di via e di verità, in me ogni speranza di vita e di virtù. 
 26 Venite a me, o voi tutti che mi desiderate, e saziatevi dei miei frutti. 
@@ -161,7 +161,7 @@ R. Una donna vestita di sole e la luna sotto i suoi piedi e sul suo capo una cor
 
 [Lectio7]
 Dal Vangelo secondo Luca.
-!Luc 1:26-33
+!Luca 1:26-33
 In quel tempo, l'angelo Gabriele fu inviato da Dio in una città della Galilea, di nome Nazaret, ad una vergine promessa sposa ad un uomo di nome Giuseppe, della stirpe di David, e il nome della vergine era Maria. Eccetera.
 _
 Omelia di s. Bonaventura vescovo
@@ -190,7 +190,7 @@ Maria è regina e distributrice di grazie: ciò fu. intuito nel libro di Ester, 
 &teDeum
 
 [Capitulum Laudes]
-!Eccl 24:5; 24:7
+!Sir 24:5; 24:7
 v. Io sono uscita dalla bocca dell'Altissimo, primogenita di tutta la creazione. Nel più alto dei cieli ho la mia dimora e il mio trono sulla colonna di nube.
 $Deo gratias
 
@@ -209,11 +209,11 @@ Esaudiscici, Dio, nostra salvezza : affinché, come esultiamo per la festa della
 $Per Dominum
 
 [Lectio Prima]
-!Eccl 24:30-31
+!Sir 24:30-31
 v. Chi ascolta me non sarà confuso, e quelli che opereranno con me non sbaglieranno; quelli che mi glorificheranno, avranno la vita eterna.
 
 [Capitulum Tertia]
-!Eccl 24:5; 24:7
+!Sir 24:5; 24:7
 v. Io sono uscita dalla bocca dell'Altissimo, primogenita di tutta la creazione. Nel più alto dei cieli ho la mia dimora e il mio trono sulla colonna di nube.
 $Deo gratias
 
@@ -229,7 +229,7 @@ V. Stava presso la croce di Gesù la Madre sua. (Alleluia.)
 R. Compartecipe della passione, Regina di tutto il mondo. (Alleluia.)
 
 [Capitulum Sexta]
-!Eccl 24, 9-11
+!Sir 24, 9-11
 v. Ebbi dimora in ogni luogo e presso ogni popolo, ed ebbi primato su tutte le genti e sottoposi con la forza i cuori del potenti e degli umili.
 $Deo gratias
 
@@ -245,7 +245,7 @@ V. Tutte le generazioni mi chiameranno beata. (Alleluia.)
 R. Poiché cose grandi ha fatto per me colui che è potente. (Alleluia.)
 
 [Capitulum Nona]
-!Eccl 24:30-31
+!Sir 24:30-31
 v. Chi ascolta me non sarà confuso, e quelli che opereranno con me non sbaglieranno; quelli che mi glorificheranno, avranno la vita eterna.
 $Deo gratias
 

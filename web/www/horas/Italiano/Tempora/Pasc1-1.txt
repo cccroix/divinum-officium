@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 Incomincia il libro degli Atti degli Apostoli
-!Act 1:1-8
+!Atti 1:1-8
 1 Prima, o Teofilo, io ho fatto narrazione di tutto quello che Gesù incominciò a fare e ad insegnare 
 2 fino al giorno, che, dopo aver dato, per mezzo dello Spirito Santo, i suoi ordini agli Apostoli che aveva eletti, fu assunto: 
 3 e ad essi si presentò vivo dopo la sua passione, con molte prove, apparendo loro per quaranta giorni, e parlando del regno di Dio. 
@@ -22,7 +22,7 @@ Incomincia il libro degli Atti degli Apostoli
 @Tempora/Pasc0-2:Responsory1
 
 [Lectio2]
-!Act 1:9-14
+!Atti 1:9-14
 9 E detto  questo, sotto i loro sguardi, si levò in alto: e una nuvola lo tolse ai loro occhi. 
 10 E come essi tenevano gli occhi fissi in cielo mentre egli se ne andava, ecco farsi innanzi a loro due personaggi vestiti di bianco 
 11 e dire: Uomini di Galilea, che state a guardare in cielo? Questo Gesù che di mezzo a voi è stato assunto in cielo, ritornerà nello stesso modo che l'avete visto andare nel cielo. 
@@ -34,7 +34,7 @@ Incomincia il libro degli Atti degli Apostoli
 @Tempora/Pasc0-2:Responsory2
 
 [Lectio3]
-!Act 1:15-26
+!Atti 1:15-26
 15 E in quei giorni, alzatosi Pietro in mezzo ai fratelli (il numero delle persone radunate era di circa centoventi), disse: 
 16 Fratelli miei, bisogna che si adempia la Scrittura, cioè quello che lo Spirito Santo predisse per bocca di Davide, a riguardo di Giuda, il quale fece da guida a quelli che catturarono Gesù: 
 17 sebbene egli fosse uno dei nostri e avesse avuto la sua parte del nostro ministero. 

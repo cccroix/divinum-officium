@@ -11,7 +11,7 @@ Psalmi Dominica;
 
 [Lectio1]
 Lettura del santo Vangelo secondo Giovanni
-!Joann 21:1-14.
+!Gio 21:1-14.
 In quell'occasione: Gesù si manifestò di nuovo ai discepoli in riva al mare di Tiberiade. E si manifestò così: Si trovavano insieme Simon Pietro e Tommaso, detto Didimo. Eccetera.
 _
 Omelia di san Gregorio Papa
@@ -51,7 +51,7 @@ Gesù disse * ai suoi discepoli: Portate qua dei pesci che avete preso ora. Simo
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Giovanni
-!Joann 21:1-14.
+!Gio 21:1-14.
 21:1 Dopo di ciò si manifestò di nuovo Gesù ai discepoli sul mare di Tiberiade, e si manifestò in questo modo :
 21:2 Erano insieme Simon Pietro, e Tommaso soprannominato Didimo, e Natanaele, il quale era di Cana della Galilea, e i figli di Zebedeo, e due altri dei suoi discepoli.
 21:3 Dice loro Simon Pietro : Vo a pescare. Gli rispondono : Veniamo anche noi con te. Partirono, ed entrarono in una barca : e quella notte non presero nulla. 

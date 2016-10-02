@@ -19,7 +19,7 @@ Il Signore ha mandato * il suo Angelo, e m'ha liberato dalle mani d'Erode, allel
 Tu sei Pietro, * e su questa pietra io edificherò la mia Chiesa.;;116
 
 [Capitulum Vespera]
-!Act 12:1-3
+!Atti 12:1-3
 v. Il re Erode mise mano a maltrattare alcuni della Chiesa. Uccise di spada Giacomo, fratello di Giovanni. E vedendo che ciò piaceva ai Giudei, procedé anche all'arresto di Pietro.
 $Deo gratias
 
@@ -54,7 +54,7 @@ $Per Dominum
 
 [Lectio1]
 Dagli Atti degli Apostoli
-!Act 3:1-5
+!Atti 3:1-5
 1 Pietro e Giovanni salivano al tempio, sull'ora della preghiera delle tre pomeridiane. 
 2 E veniva portato un certo uomo ch'era sciancato fin dalla nascita; e lo posavano ogni giorno alla porta del tempio, detta la Bella, perché chiedesse l'elemosina a quelli che entravano nel tempio. 
 3 Costui, visto Pietro e Giovanni che stavano per entrare nel tempio, si raccomandava per aver l'elemosina. 
@@ -68,7 +68,7 @@ V. Qualunque cosa legherai sulla terra, sarà legata anche nei cieli; e qualunqu
 R. E t'ho dato le chiavi del regno dei cieli.
 
 [Lectio2]
-!Act 3:6-10
+!Atti 3:6-10
 6 Ma Pietro disse: Non ho né argento né oro; ma quello che ho, te lo dò: In nome di Gesù Cristo Nazareno, alzati e cammina. 
 7 E prèsolo per la mano destra, lo alzò, e in quell'istante gli si consolidarono le piante e le caviglie. 
 8 E d'un salto fu in piedi, e si mise a camminare; ed entrò con loro nel tempio, camminando, saltando e lodando Dio. 
@@ -82,7 +82,7 @@ V. Quand'anche dovessi morire con te, io non ti rinnegherò
 R. E per te darei la mia vita.
 
 [Lectio3]
-!Act 3:11-16
+!Atti 3:11-16
 11 E mentre egli teneva stretti Pietro e Giovanni, tutto il popolo era corso stupito verso di loro nel portico, detto di Salomone. 
 12 Pietro vedendo ciò, disse al popolo; Uomini d'Israele, perché vi meravigliate di questo, e perché ci guardate, quasi che per potenza e bontà nostra avessimo fatto che costui cammini? 
 13 Il Dio d'Abramo, il Dio d'Isacco e il Dio di Giacobbe, il Dio dei nostri padri ha glorificato il suo Figlio Gesù, che voi avete tradito e rinnegato davanti a Pilato, mentre questi era d'avviso che lo si dovesse rilasciare. 
@@ -131,7 +131,7 @@ R. E perciò a te sono state date le chiavi del regno dei cieli.
 
 [Lectio7]
 Lettura del santo Vangelo secondo Matteo
-!Matth 16:13-19
+!Matt 16:13-19
 In quell'occasione: Gesù, venuto nelle parti di Cesarea di Filippo, interrogò i suoi discepoli, dicendo: La gente chi dice che sia il Figlio dell'uomo? Eccetera.
 _
 Omelia di san Girolamo Prete
@@ -167,7 +167,7 @@ Il Signore ha mandato * il suo Angelo, e m'ha liberato dalle mani d'Erode, allel
 Tu sei Pietro, * e su questa pietra io edificherò la mia Chiesa.
 
 [Capitulum Laudes]
-!Act 12:1-3
+!Atti 12:1-3
 v. Il re Erode mise mano a maltrattare alcuni della Chiesa. Uccise di spada Giacomo, fratello di Giovanni. E vedendo che ciò piaceva ai Giudei, procedé anche all'arresto di Pietro.
 $Deo gratias
 
@@ -192,11 +192,11 @@ Amen.
 Qualunque cosa * legherai sulla terra, sarà legata anche nei cieli; e qualunque cosa scioglierai sulla terra, sarà sciolta anche nei cieli, dice il Signore a Simon Pietro.
 
 [Lectio Prima]
-!Act 12:11
+!Atti 12:11
 Pietro allora, rientrato in sé, disse: Adesso riconosco veramente che il Signore ha mandato il suo Angelo, e m'ha sottratto dalle mani d'Erode e da tutta l'attesa del popolo dei Giudei.
 
 [Capitulum Tertia]
-!Act 12:1-3
+!Atti 12:1-3
 v. Il re Erode mise mano a maltrattare alcuni della Chiesa. Uccise di spada Giacomo, fratello di Giovanni. E vedendo che ciò piaceva ai Giudei, procedé anche all'arresto di Pietro.
 $Deo gratias
 
@@ -212,7 +212,7 @@ V. Tu li costituirai principi su tutta la terra.
 R. Essi ricorderanno il tuo nome, o Signore.
 
 [Capitulum Sexta]
-!Act 12:5
+!Atti 12:5
 v. Pietro dunque era custodito nella prigione; ma dalla Chiesa si faceva continua orazione a Dio per lui.
 $Deo gratias
 
@@ -228,7 +228,7 @@ V. Molto onorati sono i tuoi amici o Dio.
 R. Molto grande è divenuto il loro potere.
 
 [Capitulum Nona]
-!Act 12:11
+!Atti 12:11
 v. Pietro allora, rientrato in sé, disse: Adesso riconosco veramente che il Signore ha mandato il suo Angelo, e m'ha sottratto dalle mani d'Erode e da tutta l'attesa del popolo dei Giudei.
 $Deo gratias
 

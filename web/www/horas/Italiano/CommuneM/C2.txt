@@ -12,7 +12,7 @@ Chi mi serve, * mi segua: e dove sono io, ci sarà pure il mio servo.;;111
 Io voglio, * o Padre, che dove sono io, ci sia anche il mio servo.;;112
 
 [Capitulum Vespera]
-!Jacob 1:12
+!Gia 1:12
 v. Beato l'uomo che sopporta la tentazione, poiché quando sarà stato provato, riceverà la corona della vita, che Dio ha promesso a coloro che lo amano.  
 $Deo gratias
 _
@@ -85,7 +85,7 @@ R. Lo hai ricoperto di grande gloria e di splendore.
 
 [Lectio1]
 Lettura dagli Atti degli Apostoli
-!Act 20:17-24
+!Atti 20:17-24
 17 Da Mileto, Paolo mandò a chiamare i presbiteri della Chiesa di Efeso.
 18 Arrivati e riuniti intorno a lui, disse loro: "Voi sapete in qual modo, dal primo giorno in cui venni in Asia, mi sono comportato con voi per tutto questo tempo,
 19 servendo al Signore con tutta umiltà, tra le lacrime e le tribolazioni che mi sopravvennero dalle insidie dei Giudei,
@@ -102,7 +102,7 @@ V. Questi è colui che disprezzò la vita del mondo e giunse al regno dei cieli.
 R. poiché era fondato su solida pietra.
 
 [Lectio2]
-!Act 20:25-31
+!Atti 20:25-31
 25 "Ed ora, ecco, io so che voi tutti, tra i quali sono passato predicando il regno di Dio, non vedrete più la mia faccia.
 26 Ecco perché vi chiamo oggi quali testimoni che io sono innocente del sangue di tutti.
 27 Infatti, non mi sono mai rifiutato di annunziarvi interamente il disegno di Dio.
@@ -118,7 +118,7 @@ V. Stabilito nella casa del Signore, negli atri della casa del nostro Dio.
 R. E fiorirà in eterno davanti al Signore.
 
 [Lectio3]
-!Act 20:32-38
+!Atti 20:32-38
 32 "Ed ora vi affido a Dio e alla sua dottrina di grazia; egli può benissimo edificare e darvi l'eredità tra i suoi santi.
 33 Non ho desiderato l'oro, l'argento le vesti di nessuno.
 34 Voi stessi siete testimoni, che per le necessità mie e dei miei compagni faticarono queste mie mani.
@@ -136,7 +136,7 @@ R. E fu annoverato tra i santi.
 R. E fu annoverato tra i santi.
 
 [MM Capitulum]
-!Eccl 15:3
+!Eccli 15:3
 Lo nutrì col pane della vita e dell'intelligenza e gli offrì da bere l'acqua della sapienza e della salvezza, il Signore Dio nostro.
 $Deo gratias
 _
@@ -176,7 +176,7 @@ R. E sul suo capo ha posto una corona meravigliosa.
 
 [Lectio7]
 Dal Vangelo secondo Luca
-!Luc 14:26-33
+!Luca 14:26-33
 In quel Gesù disse alle turbe: "Se uno viene a me e non odia suo padre e sua madre e la moglie e i figli e i fratelli e le sorelle, e perfino la sua vita, non può essere mio discepolo".  (continua nella Messa del giorno) 
 _
 Omelia di s. Gregorio papa
@@ -219,7 +219,7 @@ Se uno mi servirà, * sarà onorato dal Padre mio che è nei cieli, dice il Sign
 Io voglio, * o Padre, che dove sono io, ci sia anche il mio servo.
 
 [Capitulum Laudes]
-!Jacob 1:12
+!Gia 1:12
 v. Beato l'uomo che sopporta la tentazione, poiché quando sarà stato provato, riceverà la corona della vita, che Dio ha promesso a coloro che lo amano.  
 $Deo gratias
 _
@@ -276,11 +276,11 @@ Concedi, o Dio onnipotente, che, per intercessione del tuo santo martire N., sia
 $Per Dominum
 
 [Lectio Prima]
-!Eccl 39:6
+!Sir 39:6
 v. I1 giusto appena svegliato, fin dal mattino rivolge il suo cuore al Signore, che lo ha creato, e prega alla presenza dell'Altissimo.  
 
 [Capitulum Tertia]
-!Jacob 1:12
+!Gia 1:12
 v. Beato l'uomo che sopporta la tentazione, poiché quando sarà stato provato, riceverà la corona della vita, che Dio ha promesso a coloro che lo amano.  
 $Deo gratias
 
@@ -289,7 +289,7 @@ V. Di gloria e di onore, lo hai incoronato, Signore.
 R. E lo hai preposto alle opere delle tue mani.
 
 [Capitulum Sexta]
-!Eccl 15:3
+!Sir 15:3
 v. Lo nutrì col pane della vita e dell'intelligenza e gli offrì da bere l'acqua della sapienza e della salvezza, il Signore Dio nostro.  
 $Deo gratias
 
@@ -298,7 +298,7 @@ V. Hai posto, o Signore, sul suo capo.
 R. Una corona di pietre preziose.
 
 [Capitulum Nona]
-!Eccl 39:6
+!Sir 39:6
 v. I1 giusto appena svegliato, fin dal mattino rivolge il suo cuore al Signore, che lo ha creato, e prega alla presenza dell'Altissimo.  
 $Deo gratias
 
@@ -321,7 +321,7 @@ Chi vuol venire dietro a me, * rinneghi se stesso, prenda la sua croce e mi segu
 
 [LectioE]
 v. Dal vangelo secondo Luca
-!Luc 14:26-33
+!Luca 14:26-33
 14:26 Se uno viene da me, e non odia suo padre e sua madre e la moglie e i figli e i fratelli e le sorelle, e fin l'anima sua non può essere mio discepolo.
 14:27 E chi non porta la sua croce, e mi segue, non può essere mio discepolo.
 14:28 Poiché chi di voi volendo fabbricare una torre, non fa prima seduto i conti delle spese che vi vorranno, e se abbia con che finirla?

@@ -53,7 +53,7 @@ R. Di gloria e splendore grande l'hai ripieno.
 
 [Lectio1]
 Dal libro dell'Ecclesiastico. 
-!Eccl 51:1-7
+!Sir 51:1-7
 1 Ti celebrerò, o Signore e Re, e ti glorificherò o Dio, mio Salvatore. 
 2 Celebrerò il tuo nome : perché tu fosti per me un aiuto e un protettore, 
 3 e liberasti il mio corpo dalla perdizione, dal laccio della lingua perfida, dalle labbra di quelli che ordivano menzogne, e di fronte ai miei avversari ti sei fatto mio aiuto, 
@@ -69,7 +69,7 @@ V. Egli largheggiò, diede ai poveri : la sua giustizia perdura in eterno.
 R. E distribuì i tesori della Chiesa ai poveri.
 
 [Lectio2]
-!Eccl 51:8-13
+!Sir 51:8-13
 8 L'anima mia loderà il Signore fino alla morte, 
 9 poiché la mia vita era presso a cadere laggiù nell'inferno. 
 10 Mi avevano circondato da ogni parte, e non c'era chi mi aiutasse. Miravo se uomo mi desse aiuto, ma invano. 
@@ -84,7 +84,7 @@ V. Ti libererò dalle mani degli empi, e ti salverò dalle mani dei potenti.
 R. Se passerai in mezzo al fuoco, la fiamma non ti nuocerà, e l'odore del fuoco non sarà in te.
 
 [Lectio3]
-!Eccl 51:14-17
+!Sir 51:14-17
 14 Invocai il Signore, Padre del mio Signore, che non mi abbandonasse nel giorno della mia tribolazione, e nell'ora dei prepotenti, senza soccorso. 
 15 Loderò il tuo nome continuamente, e lo celebrerò con riconoscenza, perché fu esaudita la mia preghiera. 
 16 Infatti mi liberasti dalla perdizione, e mi salvasti nel tempo cattivo. 
@@ -131,7 +131,7 @@ R. E per ciò non temo i tuoi tormenti.
 
 [Lectio7]
 Lettura del santo Vangelo secondo Giovanni.
-!Joann 12:24-26
+!Joannes 12:24-26
 In quell'occasione: Gesù disse ai suoi discepoli: In verità, in verità vi dico, se il chicco di grano non cade in terra, e non muore, rimane solo com'è. Eccetera.
 _
 Omelia di sant'Agostino Vescovo.
@@ -167,7 +167,7 @@ Il Signore mandò il suo Angelo, e mi liberò di mezzo al fuoco, sicché non mi 
 Il beato Lorenzo * pregava dicendo : Ti rendo grazie, Signore, perché ho meritato d'entrare nella tua dimora.
 
 [Capitulum Laudes]
-!2 Cor 9:6
+! 2 Cor 9:6
 v. Fratelli: Chi poco semina, mieterà anche poco; e chi semina molto, mieterà anche molto.
 $Deo gratias
 
@@ -183,7 +183,7 @@ Sulla graticola * non ho negato che tu sei Iddio, e, messo sul fuoco, ho confess
 v. E Dio può ben ricolmarvi d'ogni grazia, affinché, avendo sempre in ogni cosa il sufficiente, voi abbiate in abbondanza per ogni opera buona, come sta scritto: «Largheggiò, diede ai poveri: la sua giustizia perdura in eterno» (Sal 111,16).
 
 [Capitulum Tertia]
-!2 Cor 9:6
+! 2 Cor 9:6
 v. Fratelli: Chi poco semina, mieterà anche poco; e chi semina molto, mieterà anche molto.
 $Deo gratias
 
@@ -199,7 +199,7 @@ V. Hai posto, o Signore, sul suo capo.
 R. Una corona di pietre preziose.
 
 [Capitulum Sexta]
-!2 Cor 9:7
+!2. Cor. 9:7
 v. Ciascuno dia come ha stabilito in cuor suo, non di mala voglia né per forza; perché Dio ama il donatore cordiale.
 $Deo gratias
 

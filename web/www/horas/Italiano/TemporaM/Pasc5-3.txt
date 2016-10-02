@@ -13,7 +13,7 @@ Doxology=Pasc
 
 [Lectio1]
 Lettura del santo Vangelo secondo Giovanni
-!Joann 17:1-11
+!Giov 17:1-11
 In quell'occasione: Gesù, sollevati gli occhi al cielo, disse: Padre, l'ora è venuta, glorifica il tuo Figlio. Eccetera.
 _
 Omelia di sant'Agostino Vescovo
@@ -49,7 +49,7 @@ $Per Dominum.
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Giovanni
-!Joann 17:1-11
+!Giov 17:1-11
 17:1 Così parlò Gesù, e alzati gli occhi al cielo, disse : Padre, è giunta l'ora, glorifica il tuo Figlio, onde anche il tuo Figlio glorifichi te :
 17:2 siccome hai data a lui potestà sopra tutti gli uomini, affinché egli dia la vita eterna a tutti quelli che a lui hai consegnati.
 17:3 0r la vita eterna è questa, che conoscano te, solo vero Dio, e Gesù Cristo mandato da te.

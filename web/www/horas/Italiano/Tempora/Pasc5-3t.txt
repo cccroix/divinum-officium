@@ -13,7 +13,7 @@ Doxology=Pasc
 
 [Lectio1]
 Lettura del santo Vangelo secondo Giovanni
-!Joann 17:1-11
+!Giov 17:1-11
 In quell'occasione: Gesù, sollevati gli occhi al cielo, disse: Padre, l'ora è venuta, glorifica il tuo Figlio. Eccetera.
 _
 Omelia di sant'Agostino Vescovo

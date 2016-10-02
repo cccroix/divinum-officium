@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 Dagli Atti degli Apostoli
-!Act 2:1-8
+!Atti 2:1-8
 1 Giunto il giorno della Pentecoste, stavano tutti insieme nel medesimo luogo: 
 2 e all'improvviso venne dal cielo un rumore, come di vento che si avanza impetuoso, e riempì tutta la casa dove si trovavano raccolti. 
 3 E videro comparire delle lingue come di fuoco che si separarono e si posarono sopra ciascun di loro: 
@@ -22,7 +22,7 @@ Dagli Atti degli Apostoli
 @TemporaM/Pasc0-3:Responsory2
 
 [Lectio2]
-!Act 2:14-21
+!Atti 2:14-21
 14 Ma Pietro presentatosi cogli undici, alzò la voce e disse loro: Uomini Giudei, e voi tutti che abitate in Gerusalemme, vi sia noto questo, e tendete bene le orecchie alle mie parole. 
 15 Costoro certo non sono ubriachi, come voi vi pensate, poiché sono appena le nove di giorno: 
 16 è invece quel che fu predetto dal profeta Gioele: 
@@ -36,7 +36,7 @@ Dagli Atti degli Apostoli
 @TemporaM/Pasc0-5:Responsory1
 
 [Lectio3]
-!Act 2:22-27
+!Atti 2:22-27
 22 «Uomini Israeliti, ascoltate queste parole: Gesù di Nazareth, uomo autorizzato da Dio tra voi con miracoli, prodigi e meraviglie, che Dio fece per mezzo di lui e tra voi, come voi stessi sapete, 
 23 voi lo avete trafitto per mano d'empi, e ucciso, dopo che per determinata volontà e prescienza di Dio fu tradito: 
 24 questo, Dio l'ha risuscitato, avendolo liberato dai dolori del soggiorno dei morti, essendo impossibile che vi fosse ritenuto. 

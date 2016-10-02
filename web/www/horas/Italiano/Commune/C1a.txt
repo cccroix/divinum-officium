@@ -13,7 +13,7 @@ Beati i pacifici, * beati i puri di cuore, perché essi vedranno Dio.;;112
 Colla vostra pazienza * guadagnerete le anime vostre.;;116
 
 [Capitulum Vespera]
-!Ephes 2:19
+!Efe 2:19
 v. Fratelli: Voi non siete più ospiti e pellegrini, ma siete concittadini dei santi e della famiglia di Dio, edificati sul fondamento degli Apostoli e dei Profeti, essendo Gesù Cristo la pietra maestra e angolare.
 $Deo gratias
 
@@ -56,7 +56,7 @@ R. Molto grande è divenuto il loro potere.
 
 [Lectio1]
 Inizio del libro del profeta Ezechiele
-!Ezech 1:1-4
+!Ezec 1:1-4
 1 Nell'anno trentesimo, ai cinque del quarto mese, io mi trovai insieme con gli esiliati sul fiume Cobar. Quand'ecco si aprirono i cieli e vidi le visioni di Dio. 
 2 Ai cinque del mese di quell'anno  che era il quinto dalla deportazione del re Joachim, 
 3 il Signore parlò al sacerdote Ezechiele, figlio di Buzi, nella terra dei Caldei, vicino al fiume Cobar: ed ivi la mano del Signore fu sopra di lui. 
@@ -69,7 +69,7 @@ V. Finché avete la luce, credete nella luce, affinché siate figli della luce.
 R. Siate dunque prudenti come i serpenti e semplici come le colombe.
 
 [Lectio2]
-!Ezech 1:5-9
+!Ezec 1:5-9
 5 E in mezzo a questo fuoco, vi  era la figura di quattro animali e il loro aspetto aveva apparenza umana. 
 6 Ciascuno aveva quattro facce,e  ciascuno quattro ali. 
 7 Le loro gambe erano diritte e la pianta dei loro piedi era come la pianta di un piede di vitello; e sfavillavano come rame incandescente. 
@@ -83,7 +83,7 @@ V. E troverete pace per le anime vostre.
 R. Il mio giogo infatti è soave e il mio peso è leggero.
 
 [Lectio3]
-!Ezech 1:10-12
+!Ezec 1:10-12
 10 Ecco l'aspetto del loro volto: tutti quattro avevano la faccia di uomo e di leone a destra, la faccia di bue a sinistra e sopra la faccia dell'aquila all'insù:
 11 Le loro facce e le loro ali erano rivolte due ali di ciascuno si univano a quelle dell'altro, e due coprivano il corpo.
 12 Ciascuno di essi andava in direzione della sua faccia, dove  li portava l'impeto dello spinto e nel procedere non si volgevano indietro.
@@ -129,7 +129,7 @@ R. Ora sono incoronati e ricevono la palma.
 
 [Lectio7]
 Dal Vangelo secondo Luca  
-!Luc 10:1-9
+!Luca 10:1-9
 In quel tempo il Signore designò altri settanta due discepoli e li mandò a due a due davanti a sé, in ogni città e luogo dove egli stava per andare. (continua nella Messa del giorno)
 _
 Omelia di s. Gregorio papa               
@@ -165,7 +165,7 @@ Beati i pacifici, * beati i puri di cuore, perché essi vedranno Dio.
 Colla vostra pazienza * guadagnerete le anime vostre.
 
 [Capitulum Laudes]
-!Ephes 2:19-20
+!Efe. 2:19-20
 v. Fratelli: Voi non siete più ospiti e pellegrini, ma siete concittadini dei santi e della famiglia di Dio, edificati sul fondamento degli Apostoli e dei Profeti, essendo Gesù Cristo la pietra maestra e angolare.
 $Deo gratias.
 
@@ -180,11 +180,11 @@ R. Ed hanno compreso ciò ch'egli ha fatto.
 Voi che avete abbandonato ogni cosa * e mi avete seguito riceverete il centuplo più e possederete la vita eterna.
 
 [Lectio Prima]
-!Act 5:41
+!Atti 5:41
 v. Gli Apostoli se ne partivano pieni di gioia dal cospetto del consiglio, perché erano stati fatti degni di essere vituperati per il nome di Gesù.  
 
 [Capitulum Tertia]
-!Ephes 2:19-20
+!Efe. 2:19-20
 v. Fratelli: Voi non siete più ospiti e pellegrini, ma siete concittadini dei santi e della famiglia di Dio, edificati sul fondamento degli Apostoli e dei Profeti, essendo Gesù Cristo la pietra maestra e angolare.
 $Deo gratias.
 
@@ -200,7 +200,7 @@ V. Tu li costituirai principi su tutta la terra.
 R. Essi ricorderanno il tuo nome, o Signore.
 
 [Capitulum Sexta]
-!Act 5:12
+!Atti 5:12
 v. Per mano degli Apostoli avvenivano molti miracoli e prodigi fra il popolo.
 $Deo gratias
 
@@ -216,7 +216,7 @@ V. Molto onorati sono i tuoi amici o Dio.
 R. Molto grande è divenuto il loro potere.
 
 [Capitulum Nona]
-!Act 5:41
+!Atti 5:41
 v. Gli Apostoli se ne partivano pieni di gioia dal cospetto del consiglio, perché erano stati fatti degni di essere vituperati per il nome di Gesù.  
 $Deo gratias
 

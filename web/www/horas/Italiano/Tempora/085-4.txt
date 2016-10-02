@@ -1,6 +1,6 @@
 [Lectio1]
 Dal libro dell'Ecclesiastico
-!Eccl 14:1-5
+!Sir 14:1-5
 1 Beato l'uomo che non ha mancato colle parole della sua bocca e non è punto dal rimorso del peccato; 
 2 felice chi non ha nel suo animo tristezza e non ha perduto la sua speranza. 
 3 Per l'uomo cupido e avaro è inutile la ricchezza, e all'uomo invidioso a che serve l'oro? 
@@ -11,7 +11,7 @@ Dal libro dell'Ecclesiastico
 @Tempora/081-0:Responsory1
 
 [Lectio2]
-!Eccl 14:6-10
+!Sir 14:6-10
 6 Nulla v'ha di più iniquo di chi è avaro con se stesso, e questa è la retribuzione della sua malvagità; 
 7 e se fa del bene, lo fa senza saperlo e volerlo e alla fine manifesta la sua cattiveria. 
 8 Cattivo è l'occhio dell'avaro, egli volta la faccia altrove e disprezza l'anima propria. 
@@ -22,7 +22,7 @@ Dal libro dell'Ecclesiastico
 @Tempora/081-0:Responsory2
 
 [Lectio3]
-!Eccl 14:11-17
+!Sir 14:11-17
 11 Figlio, se hai di che, fa del bene a te stesso, e offri degne oblazioni a Dio. 
 12 Ricordati che la morte non tarda, e che ti è stata intimata la legge di andar nel sepolcro; perché è legge di questo mondo di morire assolutamente. 
 13 Prima di morire benefica il tuo amico e secondo le tue forze stendi la mano al povero. 

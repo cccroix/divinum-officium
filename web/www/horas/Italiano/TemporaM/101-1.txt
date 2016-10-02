@@ -1,6 +1,6 @@
 [Lectio1]
 Dal primo libro dei Maccabei
-!1 Mach 1:17-20
+!1 Mac 1:17-20
 17 Antioco stabilitosi nel suo regno, incominciò a voler regnare anche sulla terra d'Egitto, per avere il dominio di due regni, 
 18 onde entrò nell'Egitto con numeroso esercito, con carri, elefanti, cavalieri e gran numero di navi, 
 19 e mosse guerra a Tolomeo re dell'Egitto, e Tolomeo, avendo avuto paura di fronte a lui, fuggì, e molti furono feriti e uccisi, 
@@ -13,7 +13,7 @@ V. Armatevi, uomini valorosi, e tenetevi pronti; perché è meglio per noi morir
 R. E quale che sia la volontà del cielo, così sia.
 
 [Lectio2]
-!1 Mach 1:21-23
+!1 Mac 1:21-23
 21 E dopo d'aver desolato l'Egitto, Antioco tornò indietro l'anno centoquarantatre, e si rivolse contro Israele. 
 22 E arrivò a Gerusalemme con grosso esercito 
 23 ed entrò arrogantemente nel luogo santo, e si prese l'altare d'oro e il candelabro delle lampade e tutti i suoi vasi e la mensa di proposizione e i vasi delle libagioni e le coppe e i turiboli d'oro e il velo e le corone e l'ornato di oro che stava sulla facciata del tempio, e fece tutto in pezzi.
@@ -25,7 +25,7 @@ V. Con inni e cantici benedicevano il Signore.
 R. E fu grande l'allegrezza del popolo.
 
 [Lectio3]
-!1 Mach 1:24-29
+!1 Mac 1:24-29
 24 E prese l'argento e l'oro e í vasi preziosi, e portò via i tesori nascosti che ritrovò, e, rapita ogni cosa, se ne ritornò al suo paese 
 25 dopo aver fatto strage d'uomini, e parlato con gran superbia, 
 26 e fu gran pianto in Israele e in tutto il paese, 

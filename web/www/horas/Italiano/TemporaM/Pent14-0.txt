@@ -13,7 +13,7 @@ $Per Dominum
 
 [Lectio7]
 Lettura del santo Vangelo secondo Matteo
-!Matth 6:24-33
+!Matt 6:24-33
 In quell'occasione: Gesù disse ai suoi discepoli: Nessuno può servire a due padroni. Eccetera.
 _
 Omelia di sant'Agostino Vescovo
@@ -47,7 +47,7 @@ Cercate prima * il regno di Dio e la sua grazia, e vi saranno date di soprappiù
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Matteo
-!Matth 6:24-33
+!Matt 6:24-33
 6:24 In quel tempo: Gesú disse ai suoi discepoli: Nessuno può servire due padroni: infatti, o avrà in odio l'uno e amerà l'altro, o si affezionerà all'uno e non farà caso all'altro. Non potete servire Dio e mammona.
 6:25 Perciò vi dico: non preoccupatevi di quello che mangerete, né di che vi vestirete: l'anima non vale piú del cibo e il corpo piú del vestito?
 6:26 Guardate gli uccelli del cielo, che non séminano né mietono, né accúmulano nei granai, e il Padre vostro celeste li nutre. Non siete piú di quelli?

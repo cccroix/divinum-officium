@@ -13,7 +13,7 @@ Doxology=Pasc
 
 [Lectio1]
 Dalla prima Epistola di san Pietro Apostolo
-!1 Petri 2:1-5
+!1 Pet 2:1-5
 1 Per la qual cosa deposta ogni malizia, e ogni frode, e le finzioni, e le invidie, e tutte le detrazioni,
 2 come bambini di fresco nati, bramate il latte spirituale, sincero : affinché per esso cresciate a salute :
 3 se pure avete gustato come è dolce il Signore.
@@ -24,7 +24,7 @@ Dalla prima Epistola di san Pietro Apostolo
 @Tempora/Pasc4-1:Responsory1
 
 [Lectio2]
-!1 Petri 2:6-10
+!1 Pet 2:6-10
 6 Per la qual cosa si ha nella Scrittura : Ecco che io pongo in Sion una pietra principale, angolare, eletta, preziosa : e chi in lei crederà, non rimarrà confuso.
 7 Per voi adunque, che credete, ella è di onore : ma per quei che non credono, la pietra rigettata da coloro che fabbricavano, è divenuta testata dell'angolo :
 8 e pietra d'inciampo, e pietra di scandalo per coloro che urtano nella parola, e non credono, al che furono pure ordinati. 
@@ -38,7 +38,7 @@ V. Offrite al Signore gloria ed onore, offrite al Signore la gloria dovuta al su
 R. Cantate salmi a lui, alleluia.
 
 [Lectio3]
-!1 Petri 2:11-17
+!1 Pet 2:11-17
 11 Carissimi, io vi scongiuro che come forestieri e pellegrini vi guardiate dai desiderii carnali che militano contro dell'anima, 
 12 vivendo bene tra le genti : affinché laddove sparlano di voi come di malfattori, considerando le vostre buone opere, glorifichino Dio nel dì in cui li visiterà.
 13 Siate dunque soggetti per riguardo a Dio ad ogni uomo creato : tanto al re, come sopra di tutti :

@@ -500,7 +500,7 @@ R. Io canterò in eterno.
 &Gloria
 R. Le tue misericordie, Signore, * io canterò in eterno.
 [MM LB6]
-!Eccl 12:2-3
+!Eccli 12:2-3
 v. Fa del bene al giusto, e ne avrai gran mercede, e se non da lui, certamente dal Signore. Perocché non avrà bene chi fa sempre del male, e non fa limosina; perché 1'Altissimo odia i peccatori e usa misericordia con que' che fan penitenza.
 $Tu autem
 _
@@ -520,7 +520,7 @@ V. Beati quei che abitano nella tua casa, o Signore.
 R. Essi ti loderanno per tutti i secoli.ver. 
 
 [MM Capitulum Adv]
-!Tit 2:12-13
+!Titus 2:12-13
 v. Con temperanza, con giustizia, e con pietà viviamo in questo secolo, in espettazione di quella beata speranza, e di quella apparizione della gloria del grande Dio, e salvatore nostro Gesù Cristo.
 $Deo gratias
 _
@@ -528,7 +528,7 @@ V. Vieni, o Signore, e non tardare.
 R. Perdona i peccati del tuo popolo.
 
 [MM Capitulum Quad]
-!Isai 1:16-18
+!Isa 1:16-18
 v. Lavatevi, mondatevi, togliete dagli occhi miei la malvagità de' vostri pensieri, ponete fine al mal fare, imparate a fare del bene; cercate quello che è giusto, soccorrete l'oppresso, proteggete il pupillo, difendete la vedova. E venite, e doletevi di me, dice il Signore.
 $Deo gratias
 _
@@ -536,7 +536,7 @@ V. Essi ti porteranno nelle loro mani.
 R. Acciò per disgrazia il tuo piede non inciampi nel sasso.
 
 [MM Capitulum Quad5]
-!Jerem 11:18-19
+!Ger 11:18-19
 v. Ma tu, o Signore, mi desti a conoscere, e io compresi: tu mi facesti vedere allora i loro pensamenti. Ed io come agnello mansueto, che è portato ad esser sacrificato.
 $Deo gratias
 _
@@ -552,7 +552,7 @@ V. Il Signore è risorto, alleluia.
 R. Come vi ha detto, alleluia.
 
 [MM Capitulum C2]
-!Eccl 15:3
+!Eccli 15:3
 v. Il Signore nostro Dio lo nudrirà con pane di vita e di intelligenza, e daragli da bere dell'acqua di saggezza e di salute.
 $Deo gratias
 _
@@ -584,7 +584,7 @@ V. È preziosa nel cospetto del Signore.
 R. La morte dei suoi santi. 
 
 [MM Capitulum C4]
-!Eccl 44:20
+!Eccli 44:20
 v. A cui nissuno fu simile in gloria: il quale conservò la legge dell'Altissimo. Per questo Iddio giurò di dargli gloria nella sua stirpe.
 $Deo gratias
 _
@@ -592,7 +592,7 @@ V. Il giusto germinerà come il giglio.
 R. E fiorirà in eterno dinanzi al Signore.
 
 [MM Capitulum C5]
-!Eccl 39:6
+!Eccli 39:6
 v. Il giusto di buon mattino svegliandosi, il cuor suo rivolgerà al Signore, che lo creò, e nel cospetto dell'Altissimo farà sua orazione.
 $Deo gratias
 _
@@ -608,7 +608,7 @@ V. Hai amato la giustizia ed hai odiato l'iniquità.
 R. Per questo, o Dio, il tuo Dio ti unse con olio di letizia.
 
 [MM Capitulum C6m]
-!Eccl 51:4-5
+!Eccli 51:4-5
 v. E secondo la molta misericordia onde tu prendi il nome, mi liberato da lioni che ruggivano pronti a divorare, dalle mani di que' che cercavano l'anima mia, e dal cadere nelle tribolazioni ond'io fui circondato.
 $Deo gratias
 _

@@ -7,7 +7,7 @@ R. E discenda su di noi la tua misericordia.
 
 [Lectio1]
 Dal Profeta Ezechiele
-!Ezech 21:1-5
+!Ezek 21:1-5
 1 E mi fu indirizzata la parole del Signore, dicendo: 
 2 Figlio dell'uomo, volgi la tua faccia verso. Gerusalemme e parla ai luoghi santi e profetizza contro il suolo d'Israele 
 3 e dirai alla terra d'Israele: Ecco ciò che dice il Signore Dio: Ecco che io vengo a te e trarrò la mia spada dal suo fodero e ucciderò in te il giusto e l'empio. 
@@ -18,7 +18,7 @@ Dal Profeta Ezechiele
 @TemporaM/Pent01-0:Responsory1
 
 [Lectio2]
-!Ezech 21:6-11
+!Ezek 21:6-11
 6 E tu, o figlio dell' uomo, manda sospiri fino a romperti le reni, e gemi amaramente dinanzi a costoro; 
 7 e quando ti diranno: Perché tu gemi? dirai: Per quel che ho udito, perché (il nemico) viene e ogni cuore verrà meno e tutte le mani saranno snervate e ogni spirito sarà abbattuto e tutte le ginocchia si stempreranno in acqua; ecco, esso viene e la cosa avverrà, dice il Signore Dio. 
 8 E mi fu indirizzata la parola dal Signore, dicendo: 
@@ -30,7 +30,7 @@ Dal Profeta Ezechiele
 @TemporaM/111-0:Responsory2
 
 [Lectio3]
-!Ezech 21:12-15
+!Ezek 21:12-15
 12 Grida ed urla, o figlio dell'uomo, perché essa è stata fatta per il mio popolo, essa è per tutti i duci d'Israele ch'eran fuggiti; sono stati abbandonati alla spada insiem col mio popolo, perciò percuotili nel fianco, 
 13 essendo questa una spada provata, e ciò si vedrà allorché rovescerà lo scettro (di Giuda) che più non sarà, dice il Signore Dio. 
 14 Tu dunque, figlio dell'uomo, profetizza e batti mano con mano, e sia raddoppiata la spada, sia triplicata la spada omicida. Questa è la spada del gran macello che li renderà stupidi 

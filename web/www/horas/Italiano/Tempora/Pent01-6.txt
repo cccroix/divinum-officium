@@ -11,7 +11,7 @@ Doxology=Corp
 					
 [Lectio1]
 Dal primo libro dei Re
-!1 Reg 3:1-7
+!1 Sam 3:1-7
 1 Intanto il giovinetto Samuele serviva il Signore sotto gli occhi di Eli, e raro era in quei giorni che parlasse il Signore: non era comune la profezia. 
 2 Or avvenne che un certo giorno Eli se ne stava coricato al suo solito posto, e i suoi occhi erano ottenebrati e non poteva vedere. 
 3 Prima che la lampada di Dio fosse spenta, Samuele dormiva nel tempio del Signore, dov'era l'arca di Dio. 
@@ -24,7 +24,7 @@ Dal primo libro dei Re
 @Tempora/Pent01-3:Responsory1
 
 [Lectio2]
-!1 Reg 3:8-12
+!1 Sam 3:8-12
 8 E il Signore tornò di nuovo per la terza volta a chiamare Samuele che, alzatosi, andò da Eli 
 9 e gli disse: Eccomi, perché m'hai chiamato. Comprese allora Eli che il Signore aveva chiamato il giovinetto e disse a Samuele: Va a dormire, e se ti chiamerà ancora, dirai: Parla, o Signore, ché il tuo servo t'ascolta. Tornò dunque Samuele al suo posto e si addormentò. 
 10 E il Signore venne, e si fermò, e lo chiamò, come avea fatto prima, per due volte: Samuele, Samuele. E Samuele rispose: Parla, o Signore, che il tuo servo t'ascolta. 
@@ -35,7 +35,7 @@ Dal primo libro dei Re
 @Tempora/Pent01-3:Responsory2
 
 [Lectio3]
-!1 Reg 3:15-20
+!1 Sam 3:15-20
 15 E Samuele dormì sino alla mattina e aprì le porte della casa del Signore. Or Samuele temeva di riferire ad Eli la visione. 
 16 Ma Eli chiamò Samuele e gli disse: Samuele, figlio mio. Ed egli rispose: Eccomi. 
 17 E lui gli domandò: Che ti ha detto il Signore? Ti prego, non nascondermelo. Dio ti faccia questo e peggio, se tu mi nascondi una sola parola di quanto t'è stato detto. 
@@ -59,7 +59,7 @@ Possessori dunque di siffatti beni, vegliamo su noi stessi, o dilettissimi: e al
 
 [Lectio7]
 Lettura del santo Vangelo secondo Giovanni
-!Joann 6:56-59
+!Joannes 6:56-59
 In quell'occasione: Gesù disse alle turbe dei Giudei: La mia carne è veramente cibo, e il sangue mio è veramente bevanda. Eccetera.
 _
 Dall'Omelia di sant'Agostino Vescovo

@@ -13,7 +13,7 @@ $Per Dominum
 
 [Lectio7]
 Lettura del santo Vangelo secondo Matteo
-!Matth 24:15-35
+!Matt 24:15-35
 In quell'occasione: Gesù disse ai suoi discepoli: Quando vedrete l'abbominazione della desolazione, già predetta dal profeta Daniele, posta nel luogo santo: chi legge intenda. Eccetera.
 _
 Omelia di san Gerolamo Prete
@@ -41,7 +41,7 @@ In verità vi dico, * che non passerà questa generazione, prima che tutte quest
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Matteo
-!Matth 24:15-35
+!Matt 24:15-35
 24:15 In quel tempo: Gesú disse ai suoi discepoli: Quando vedrete l'abominazione della desolazione, predetta dal profeta Daniele, posta nel luogo santo: chi legge comprenda, 
 24:16 allora coloro che si trovano nella Giudea fuggano ai monti, 
 24:17 e chi si trova sulla terrazza non scenda per prendere qualcosa in casa sua, 

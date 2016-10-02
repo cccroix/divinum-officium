@@ -7,7 +7,7 @@ Feria Te Deum
 
 [Lectio1]
 Dalla seconda Lettera dell'Apostolo san Pietro
-!2 Petri 3:1-7
+!2 Pet 3:1-7
 1 Ecco che vi scrivo, o carissimi, questa seconda lettera per risvegliare, co' miei avvisi, il sincero animo vostro; 
 2 affinché vi ricordiate delle parole dei santi Profeti, di cui ho già parlato, e dei precetti del Signore e Salvatore (trasmessivi) dai vostri Apostoli. 
 3 E sappiate, prima di tutto, che verranno negli ultimi giorni degli schernitori beffardi, viventi a seconda delle loro passioni, 
@@ -20,7 +20,7 @@ Dalla seconda Lettera dell'Apostolo san Pietro
 @TemporaM/Pasc5-4:Responsory1
 
 [Lectio2]
-!2 Petri 3:8-13
+!2 Pet 3:8-13
 8 Ma c'è una cosa che non dovete ignorare, o carissimi, che dinanzi a Dio un giorno è come mille anni, e mille anni come un giorno. 
 9 Il Signore non ritarda la sua promessa, come pensano taluni: ma usa pazienza per riguardo a voi, non volendo che alcuno perisca, ma che tutti ritornino a penitenza. 
 10 Ma il giorno del Signore verrà come un ladro: e allora i cieli periranno con gran fracasso, e gli elementi saranno sciolti dal calore, e la terra e quanto è in essa sarà bruciato. 
@@ -32,7 +32,7 @@ Dalla seconda Lettera dell'Apostolo san Pietro
 @TemporaM/Pasc5-4:Responsory2
 
 [Lectio3]
-!2 Petri 3:14-18
+!2 Pet 3:14-18
 14 Perciò, o carissimi, attendendo queste cose, fate di tutto per essere trovati da lui immacolati, puri e in pace. 
 15 E credete che la longanimità del Signore è per la (vostra) salvezza; come ve ne scrisse anche il carissimo nostro fratello Paolo secondo la sapienza datagli, 
 16 e come fa pure in tutte le sue lettere dove parla di ciò, nelle quali vi sono alcune cose difficili a capirsi, e che gli ignoranti e leggeri stravolgono, come anche tutte le altre Scritture, per loro perdizione. 

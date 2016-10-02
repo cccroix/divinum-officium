@@ -156,7 +156,7 @@ R. Nel giorno della solennità e della gioia, alleluia.
 
 [Lectio7]
 Dal Vangelo secondo Giovanni
-!Joann 15:1-7
+!Giov 15:1-7
 In quel tempo Gesù disse ai suo discepoli: "Io sono la vera vite e il Padre mio è l'agricoltore". (continua nella Messa del giorno)
 _
 Omelia di s. Agostino vescovo.
@@ -239,7 +239,7 @@ V. Santi e giusti , gioite nel Signore, alleluia.
 R. Iddio vi ha scelti per sua eredità, alleluia.
 
 [Capitulum Sexta]
-!Sap 5:5
+!Sap. 5:5
 v. Ecco come essi sono contati nel numero dei figli di Dio, e tra i santi è la loro sorte.
 $Deo gratias
 
@@ -271,7 +271,7 @@ Santi e giusti, * gioite nel Signore, alleluia, Iddio vi ha scelti per sua eredi
 
 [LectioE]
 v. Dal vangelo secondo Giovanni
-!Joann 15:1-7
+!Giov 15:1-7
 15:1 Io sono la vera vite: il Padre mio è il coltivatore.
 15:2 Tutti i tralci che in me non portano frutto, li toglierà via: e tutti quelli che portano frutto, li rimonderà, perchè fruttifichino dì più.
 15:3 Voi già siete mondi in virtù della parola che vi ho annunziato.

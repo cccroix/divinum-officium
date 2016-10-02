@@ -57,7 +57,7 @@ V. Essi saranno incoronati di eterna letizia, alleluia.
 R. Avranno gaudio e consolazione, alleluia.
 
 [Lectio1]
-!Act 20:17-24
+!Atti 20:17-24
 17 Da Mileto, Paolo mandò a chiamare i presbiteri della Chiesa di Efeso. 
 18 Arrivati e riuniti intorno a lui, disse loro: "Voi sapete in qual modo, dal primo giorno in cui venni in Asia, mi sono comportato con voi per tutto questo tempo,
 19 servendo al Signore con tutta umiltà, tra le lacrime e le tribolazioni che mi sopravvennero dalle insidie dei Giudei, 
@@ -90,7 +90,7 @@ V. Il mondo godrà, voi invece sarete tristi. Ma la vostra tristezza.
 R. Si cambierà in gioia, alleluia, alleluia.
 
 [Lectio3]
-!Act 20:32-38
+!Atti 20:32-38
 32 "Ed ora vi affido a Dio e alla sua dottrina di grazia; egli può benissimo edificare e darvi l'eredità tra i suoi santi.     
 33 Non ho desiderato l'oro, l'argento le vesti di nessuno. 
 34 Voi stessi siete testimoni, che per le necessità mie e dei miei compagni faticarono queste mie mani.
@@ -140,7 +140,7 @@ R. Nel giorno della solennità e della gioia, alleluia.
 
 [Lectio7]
 Dal Vangelo secondo Giovanni
-!Joann 15:1-7
+!Giov 15:1-7
 In quel tempo Gesù disse ai suo discepoli: "Io sono la vera vite e il Padre mio è l'agricoltore". (continua nella Messa del giorno)
 _
 Omelia di s. Agostino vescovo.
@@ -217,7 +217,7 @@ V. La luce perpetua risplenderà per i tuoi santi, o Signore, alleluia.
 R. E l'eternità dei secoli, alleluia.
 
 [Capitulum Sexta]
-!Sap 5:5
+!Sap. 5:5
 v. Ecco come essi sono contati nel numero dei figli di Dio, e tra i santi è la loro sorte.
 $Deo gratias
 

@@ -5,7 +5,7 @@ Feria Secunda infra Hebdomadam II in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Lettura del santo Vangelo secondo Giovanni
-!Joann 8:21-29
+!Gio. 8:21-29
 In quell'occasione: Gesù disse alle turbe dei Giudei Io me ne vado, e voi mi cercherete, e morrete nel vostro peccato. Eccetera.
 _
 Omelia di sant'Agostino Vescovo
@@ -49,7 +49,7 @@ $Per Dominum
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Giovanni
-!Joann 8:21-29
+!Gio. 8:21-29
 8:21 Altra volta disse loro Gesù : Io me ne vo, e mi cercherete, e morrete nel vostro peccato. Dove vado io, voi non potete venire.
 8:22 Dicevano perciò i Giudei : Si darà egli da se stesso la morte, poiché dice : Dove vado io, voi non potete venire?
 8:23 Ed egli diceva loro : Voi siete di quaggiù, io sono di lassù. Voi siete di questo mondo, io non sono di questo mondo.

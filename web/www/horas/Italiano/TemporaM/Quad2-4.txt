@@ -5,7 +5,7 @@ Feria Quinta infra Hebdomadam II in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Lettura del santo Vangelo secondo Luca
-!Luc 16:19-31
+!Luca 16:19-31
 In quell'occasione; Gesù disse ai farisei: C'era un certo uomo ricco, il quale indossava porpora e mussolina: e ogni giorno scialava. Eccetera.
 _
 Omelia di san Gregorio Papa
@@ -44,7 +44,7 @@ $Per Dominum
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Luca
-!Luc 16:19-31
+!Luca 16:19-31
 16:19 V'era un uomo ricco, il quale si vestiva di porpora e di bisso e faceva ogni giorno sontuosi banchetti.
 16:20 E vi era un mendico per nome Lazzaro, il quale pieno di piaghe giaceva all'uscio di lui,
 16:21 bramoso di satollarsi dei minuzzoli che cadevano dalla mensa del ricco, e niuno gliene dava : ma i cani andavano a leccargli le piaghe.

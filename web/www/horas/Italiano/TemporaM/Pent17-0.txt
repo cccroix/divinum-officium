@@ -13,7 +13,7 @@ $Per Dominum
 
 [Lectio7]
 Lettura del santo Vangelo secondo Matteo
-!Matth 22:34-46
+!Matt 22:34-46
 In quell'occasione: S'accostarono a Gesù i farisei, e uno di loro, dottore della legge, per metterlo alla prova, gli domandò: Maestro, qual è il più gran comandamento della legge? Eccetera.
 _
 Omelia di san Giovanni Crisostomo
@@ -41,7 +41,7 @@ Che vi pare * del Cristo? di chi è figlio? Gli rispondono tutti: Di David. Dice
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Matteo
-!Matth 22:34-46
+!Matt 22:34-46
 22:34 In quel tempo: I Farisei si avvicinarono a Gesú,
 22:35 e uno di essi, dottore della legge, lo interrogò per tentarlo:
 22:36 Maestro, qual è il grande comandamento della legge?

@@ -1,6 +1,6 @@
 [Lectio1]
 Dal Profeta Ezechiele
-!Ezech 19:1-7
+!Ezek 19:1-7
 1 Or tu intona un canto di pianto sui principi d'Israele, 
 2 e dirai: Perché tua madre, come, una lionessa, si riposò tra i leoni e in mezzo ai leoncini allevò i suoi partì? 
 3 E innalzò uno de' suoi leoncini, e divenne leone e imparò a rapire la preda e a divorare gli uomini. 
@@ -13,7 +13,7 @@ Dal Profeta Ezechiele
 @Tempora/111-0:Responsory7
 
 [Lectio2]
-!Ezech 19:8-11
+!Ezek 19:8-11
 8 E si radunarono contro di lui le Genti da tutte le provincie e gettarono su di lui la loro rete, e dopo vicendevoli ferite fu catturato, 
 9 e lo misero in una gabbia, e incatenato lo condussero al re di Babilonia e lo rinchiusero in un carcere, affinché non si udisse più la sua voce sui monti d'Israele. 
 10 Tua madre come una vigna fu piantata nel tuo sangue lungo le acque; i suoi frutti e le sue frondi erano cresciuti per copia delle acque, 
@@ -23,7 +23,7 @@ Dal Profeta Ezechiele
 @Tempora/111-1:Responsory2
 
 [Lectio3]
-!Ezech 19:12-14
+!Ezek 19:12-14
 12 Ma poi ella è stata schiantata sdegnosamente, e gettata per terra, e un vento ardente seccò i suoi frutti: avvizzirono e inaridirono i rigogliosi suoi tralci, e il fuoco la divorò; 
 13 ed ora ella è trapiantata in un deserto, in una terra impervia e riarsa, 
 14 e da una verga dei suoi rami è uscito un fuoco che ne ha consumato il frutto, e in essa non c'è pia verga forte da servir di scettro ai sovrani. Canto di pianto è questo, e servirà di pianto.

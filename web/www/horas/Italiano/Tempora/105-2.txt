@@ -1,6 +1,6 @@
 [Lectio1Tridentina]
 Dal secondo libro dei Maccabei
-!2 Mach 7:24-27
+!2 Mac 7:24-27
 23 Ma Antioco stimandosi vilipeso, e disprezzando insieme la voce di chi lo rimproverava, rimanendo ora il più giovane, non solo colle parole lo esortava, ma anche con giuramento affermava che lo farebbe ricco e beato, e che se abbandonasse le patrie leggi lo avrebbe per amico e che gli avrebbe dato tutto quanto gli bisognasse. 
 25 Ma non piegandosi perciò il fanciullo, il re chiamata la madre la consigliava a salvare il figlio. 
 26 E dopo averla esortata con molte parole, ella promise di persuadere il figlio suo; 
@@ -15,7 +15,7 @@ Dal secondo libro dei Maccabei
 @Tempora/101-2:Responsory1
 
 [Lectio2Tridentina]
-!2 Mach 7:28-33
+!2 Mac 7:28-33
 28 Deh figlio mio, guarda il cielo e la terra e tutto ciò che vi si contiene, e sappi che tutto questo e il genere umano l'ha creato Dio dal niente. 
 29 Così avverrà che tu non tema questo carnefice, ma fatto degno imitatore de' tuoi fratelli, tu riceva la morte, sì che nel giorno della misericordia io ti riabbia insieme co' tuoi fratelli. 
 30 E mentre ella ancora parlava, il giovinetto disse: Chi aspettate? io non obbedisco al comando del re, ma al precetto della legge che ci fu dato per mezzo di Mosè. 
@@ -32,7 +32,7 @@ Dal secondo libro dei Maccabei
 @Tempora/101-2:Responsory2
 
 [Lectio3Tridentina]
-!2 Mach 7:34-41
+!2 Mac 7:34-41
 34 Ma tu, o scellerato e il più reo di tutti gli uomini, non ti lusingare inutilmente con vane speranze infuriando così contro i suoi servi; 
 35 perché non sei ancora sfuggito al giudizio di Dio onnipotente che vede tutto. 
 36 Ché i miei fratelli, per avere sofferto adesso un breve dolore, sono entrati nell'alleanza della vita eterna; ma tu per giudizio di Dio pagherai le giuste pene della tua superbia. 

@@ -1,6 +1,6 @@
 [Lectio1]
 Dal libro dell'Ecclesiastico
-!Eccl 13:1-6
+!Sir 13:1-6
 1 Chi tocca la pece, ne rimarrà sporcato; e chi s'accompagna col superbo, metterà superbia. 
 2 Si carica d'un gran peso chi fa lega con uno da più di lui, e non associarti con chi è più ricco di te. 
 3 Come può stare insieme un vaso di creta con uno di ferro? appena questo lo urta, quel lo si spezza. 4 Il ricco fa un torto e sbuffa, ma il povero è maltrattato, e zitto. 
@@ -11,7 +11,7 @@ Dal libro dell'Ecclesiastico
 @Tempora/081-0:Responsory7
 
 [Lectio2]
-!Eccl 13:9-15
+!Sir 13:9-15
 9 Umiliati a Dio e aspetta la sua mano; 
 10 bada che, sedotto, tu non ti umilii stoltamente. 
 11 Guardati dall'esser umile secondo la tua sapienza, affinché, umiliato, non sii sedotto a far cose da stolto. 
@@ -24,7 +24,7 @@ Dal libro dell'Ecclesiastico
 @Tempora/081-1:Responsory2
 
 [Lectio3]
-!Eccl 13:16-22
+!Sir 13:16-22
 16 Bada a te, e sta molto attento a quanto ti senti dire, perché cammini sull'orlo del tuo precipizio; 
 17 ma ascoltando tali cose vedile come trasognato, e sta sveglio. 
 18 In tutta la tua vita ama Dio e invocalo per tua salvezza. 

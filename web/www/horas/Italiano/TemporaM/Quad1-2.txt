@@ -5,7 +5,7 @@ Feria Tertia infra Hebdomadam I in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Lettura del santo Vangelo secondo Matteo.
-!Matth 21:1-17.
+!Matt 21:1-17.
 In quell'occasione: entrato Gesù in Gerusalemme, tutta la città si commosse, e andava dicendo: Chi è costui? Eccetera.
 _
 Omelia di san Beda, il Venerabile, Prete
@@ -44,7 +44,7 @@ $Per Dominum.
 
 [LectioE]
 v. Lettura del santo Vangelo secondo Matteo.
-!Matth 21:1-17.
+!Matt 21:1-17.
 21:1 E avvicinandosi a Gerusalemme, arrivati che furono a Betfage al monte Oliveto, allora Gesù mandò due discepoli,
 21:2 dicendo loro : Andate nel castello, che vi sta dirimpetto, e subito troverete legata un'asina e con essa un poledro : scioglietela, e conducetela a me :
 21:3 E se alcuno vi dirà qualche cosa, dite che il Signore ne ha bisogno : e subito ve li rimetterà.

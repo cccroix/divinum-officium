@@ -18,7 +18,7 @@ Mazzetto di mirra * è per me il mio diletto, egli riposerà sul mio seno.;;140
 Sostenetemi coi fiori, confortatemi colle mele, perché io languisco di amore.;;141
 
 [Capitulum Vespera]
-!Isai 53:1-2
+!Isa 53:1-2
 v. Chi ha creduto alla nostra parola? e il braccio del Signore a chi s'è fatto vedere? Egli spunterà dinanzi a lui come un virgulto, e come un germoglio da arida terra.
 $Deo gratias
 
@@ -135,7 +135,7 @@ R. Tu hai messo le mie lacrime nel tuo cospetto.
 
 [Lectio1]
 Dal Profeta Isaia
-!Isai 53:1-5
+!Isa 53:1-5
 1 Chi ha creduto alla nostra parola? e il braccio del Signore a chi si è fatto vedere? 
 2 Egli spunterà dinanzi a lui come un virgulto, e come un germoglio da arida terra. Egli non ha né forma né bellezza, e noi l'abbiam visto, ma non aveva aspetto che lo rendesse desiderabile; 
 3 era lo scherno e il rifiuto degli uomini, un uomo di dolori e conoscitore di sofferenze: come un disprezzato che deve nascondere la faccia, onde non ne facemmo alcun conto. 
@@ -149,7 +149,7 @@ V. Con occhi pietosi, o Vergine, tu lo rimiri, contemplando in lui non tanto la 
 R. Poiché tutto in lui spira amore, e la testa inclinata, le mani distese, il petto aperto provocano a riamare.
 
 [Lectio2]
-!Isai 53:6-9
+!Isa 53:6-9
 6 Tutti noi eravamo randagi come pecore, ognuno seguiva la sua via e il Signore fece ricadere su lui l'iniquità di tutti noi. 
 7 Egli è stato immolato perché l'ha voluto, e non ha aperto la sua bocca: come pecora sarà menato al macello, e come agnello muto sotto i suoi tosatori non aprirà la sua bocca. 
 8 Con un giudizio iniquo egli fu tolto via. Chi spiegherà la generazione di lui? egli è stato reciso dalla terra dei viventi: per le scelleraggini del mio popolo io l'ho colpito. 
@@ -162,7 +162,7 @@ V. Raggi son nelle sue mani: ivi è nascosta la sua forza: perché sono le sue m
 R. Contengono il prezzo dell'umana salute, e sono come ripiene di giacinti.
 
 [Lectio3]
-!Isai 53:10-12
+!Isa 53:10-12
 10 E il Signore ha voluto fiaccarlo colla sofferenza. S'egli offrì la sua vita per il peccato, vedrà però una lunga discendenza, e il disegno del Signore prospererà nelle sue mani. 
 11 Lo vedrà, perché l'anima sua ha sofferto, e sarà pago. Colla sua scienza il giusto, il mio servo egli giustificherà le moltitudini, egli si addosserà le loro iniquità. 
 12 Perciò gli darò in eredità le moltitudini, e la sua parte di preda sarà quella dei forti, perché ha consegnato alla morte l'anima sua, e fu messo nel numero dei malfattori: mentre invece portava i peccati di molti, e intercedeva per i peccatori.
@@ -208,7 +208,7 @@ R. Così che la sorgente della tua acqua zampillante dal divin cuore mi conduca 
 
 [Lectio7]
 Lettura del santo Vangelo secondo Giovanni 
-!Joann 19:25-27.
+!Giov 19:25-27.
 In quell'occasione: Stavano accanto alla croce di Gesù la Madre sua, e la sorella di sua madre, Maria di Cleofa, e Maria Maddalena. Eccetera.
 _
 Omelia di sant'Agostino Vescovo
@@ -235,7 +235,7 @@ R. E risentiamo il frutto della passione del Signore.
 [Lectio9]
 !Omelia della Feria
 Dal Vangelo secondo Giovanni.
-!Joann 11:47-54
+!Giov 11:47-54
 Un giorno, i pontefici i farisei si radunarono in consiglio e, riferendosi si Gesù, dissero: «Che cosa facciamo di quest'uomo che continua a far miracoli?».  (continua nella Messa del giorno)
 _
 Omelia di s. Agostino vescovo
@@ -251,7 +251,7 @@ Mazzetto di mirra * è per me il mio diletto, egli riposerà sul mio seno.
 Sostenetemi coi fiori, confortatemi colle mele, perché io languisco di amore.
 
 [Capitulum Laudes]
-!Isai 53:1-2
+!Isa 53:1-2
 v. Chi ha creduto alla nostra parola? e il braccio del Signore a chi s'è fatto vedere? Egli spunterà dinanzi a lui come un virgulto, e come un germoglio da arida terra.
 $Deo gratias
 
@@ -300,11 +300,11 @@ Signore, infondi benigno la tua grazia nei nostri cuori, affinché, espiando i n
 $Per Dominum
 
 [Lectio Prima]
-!Isai 53:8
+!Isa 53:8
 v. Chi spiegherà la generazione di lui? egli è stato reciso dalla terra dei viventi: per le scelleraggini del mio popolo io l'ho colpito.
 
 [Capitulum Tertia]
-!Isai 53:1-2
+!Isa 53:1-2
 v. Chi ha creduto alla nostra parola? e il braccio del Signore a chi s'è fatto vedere? Egli spunterà dinanzi a lui come un virgulto, e come un germoglio da arida terra.
 $Deo gratias
 
@@ -320,7 +320,7 @@ V. La mia faccia è gonfia dal pianto.
 R. E le mie pupille si sono ottenebrate.
 
 [Capitulum Sexta]
-!Isai 53:5
+!Isa 53:5
 v. Egli fu ferito per le nostre iniquità, stritolato per le nostre scelleratezze: su lui pesò il castigo che ci porta la pace, e per le sue piaghe noi siamo stati guariti.
 $Deo gratias
 
@@ -336,7 +336,7 @@ V. O Dio, ti ho esposto la mia vita.
 R. Tu hai messo le mie lacrime nel tuo cospetto.
 
 [Capitulum Nona]
-!Isai 53:8
+!Isa 53:8
 v. Chi spiegherà la generazione di lui? egli è stato reciso dalla terra dei viventi: per le scelleraggini del mio popolo io l'ho colpito.
 $Deo gratias
 

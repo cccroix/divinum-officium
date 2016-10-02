@@ -7,7 +7,7 @@ R. E discenda su di noi la tua misericordia.
 
 [Lectio1]
 Incomincia il secondo libro dei Maccabei
-!2 Mach 1:1-6
+!2 Mac 1:1-6
 1 Ai fratelli Giudei che sono nell' Egitto, i fratelli Giudei di Gerusalemme e della Giudea, salute e pace sincera. 
 2 Iddio vi ricolmi di bene e si ricordi dell'alleanza fatta con Abramo e Isacco e Giacobbe, suoi servi fedeli; 
 3 e dia a tutti voi un cuore per adorarlo, e per fare la sua volontà di gran cuore e con animo volonteroso. 
@@ -19,7 +19,7 @@ Incomincia il secondo libro dei Maccabei
 @TemporaM/101-0:Responsory1
 
 [Lectio2]
-!2 Mach 1:18-19
+!2 Mac 1:18-19
 18 Noi dunque essendo per celebrare ai venticinque del mese di Casleu la purificazione del tempio, abbiamo creduto necessario di farvelo sapere, affinché anche voi celebriate il giorno dei tabernacoli e il giorno del fuoco, che ci fu mandato quando Neemia, restaurato il tempio e l'altare, offrì i sacrifici. 
 19 Poiché quando i nostri padri furono condotti in Persia, dei sacerdoti d'allora timorati di Dio, preso il fuoco dall'altare, lo nascosero segretamente in una valle, dov'era un pozzo profondo ed asciutto, e ve lo misero al sicuro, in modo che a tutti rimase sconosciuto quel luogo.
 
@@ -27,7 +27,7 @@ Incomincia il secondo libro dei Maccabei
 @TemporaM/101-0:Responsory2
 
 [Lectio3]
-!2 Mach 1:20-22
+!2 Mac 1:20-22
 20 Ma passati molti anni, quando piacque a Dio che dal re di Persia fosse rimandato Neemia, questi mandò a cercare il fuoco i nipoti di quei sacerdoti che lo avevan nascosto; e com'essi ci raccontarono, non trovarono il fuoco, ma un'acqua grassa. 
 21 Tuttavia il sacerdote Neemia ordinò loro di attingerne, e portargliene, e che con quell'acqua si aspergessero le vittime poste sull'altare, e le legna e ciò che vi era sovrapposto. 
 22 Come ciò fu fatto e appena il sole, che prima era tra le nuvole, cominciò a splendere, si accese un gran fuoco sì che tutti ne rimasero stupiti.
