@@ -11,7 +11,7 @@ no Credo
 Suffr=Maria3
 
 [Introitus]
-!Isai 48:20
+!Is 48:20
 v. Vocem jucunditátis annuntiáte, et audiátur, allelúja: annuntiáte usque ad~
 extrémum terræ: liberávit Dóminus pópulum suum, allelúja, allelúja
 !Ps 65:1-2
@@ -33,19 +33,19 @@ $Per Dominum
 
 [Lectio]
 Léctio Epístolæ beáti Pauli Apóstoli ad Ephésios.
-!Ephes 4:7-13
+!Eph 4:7-13
 Fratres: Unicuíque nostrum data est grátia secúndum mensúram donatiónis Christi. Propter quod dicit: Ascéndens in altum, captívam duxit captivitátem: dedit dona homínibus. Quod autem ascéndit, quid est, nisi quia et descéndit primum in inferióres partes terræ? Qui descéndit, ipse est et qui ascéndit super omnes coelos, ut impléret ómnia. Et ipse dedit quosdam quidem apóstolos, quosdam autem prophétas, álios vero evangelístas, álios autem pastóres et doctóres, ad consummatiónem sanctórum in opus ministérii, in ædificatiónem córporis Christi: donec occurrámus omnes in unitátem fídei, et agnitiónis Fílii Dei, in virum perféctum, in mensúram ætátis plenitúdinis Christi.
 
 [Graduale]
 Allelúja, allelúja.
 V. Surréxit Christus, et illúxit nobis, quos rédemit sánguine suo. Allelúja.
-!Joann 16:28
+!Joannes 16:28
 V. Exívi a Patre, et veni in mundum: íterum relínquo mundum, et vado ad Patrem.~
 Allelúja.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Joánnem.
-!Joann 17:1-11
+!Joannes 17:1-11
 In illo témpore: Sublevátis Jesus oculis in coelum, dixit: Pater, venit hora,~
 clarífica Fílium tuum, ut Fílius tuus claríficet te: sicut dedísti ei potestátem~
 omnis carnis, ut omne, quod dedísti ei, det eis vitam ætérnam. Hæc est autem~

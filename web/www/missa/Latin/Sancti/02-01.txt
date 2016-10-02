@@ -25,17 +25,17 @@ Léctio Epistolæ beáti Pauli Apóstoli ad Romános.
 Fratres: Quis nos separábit a cantáte Christi: tribulátio, an angustia, an fames, an núditas, an perículum, an persecútio, an gládius? sicut scriptum est: Quia propter te mortificámur tota die: æstimáti sumus sicut oves occisiónis. Sed in his ómnibus superámus propter eum, qui diléxit nos. Certus sum enim, quia neque mors, neque vita, neque ángeli, neque principátus, neque virtútes, neque instántia, neque futúra, neque fortitúdo, neque altitúdo, neque profúndum, neque creatúra alia poterit nos separáre a cantáte Dei, quæ est in Christo Jesu, Dómino nostro.
 
 [Graduale]
-!Eccl 44:16.
+!Eccli 44:16.
 Ecce sacérdos magnus, qui m diébus suis plácuit Deo.
-!Eccl 44:20.
+!Eccli 44:20.
 V. Non est invéntus símilis illi, qui conserváret legem Excélsi. Allelúja, allelúja
 !Gal 2:19-20.
 V. Christo confíxus sum Cruci: vivo ego, jam non ego, vivit vero in me Christus. Allelúja.
 
 [Tractus]
-!Eccl 44:16.
+!Eccli 44:16.
 Ecce sacérdos magnus, qui m diébus suis plácuit Deo.
-!Eccl 44:20.
+!Eccli 44:20.
 Non est invéntus símilis illi, qui conserváret legem Excélsi.
 !Ps 20:3-4.
 Desidérium ánimæ ejus tribuísti ei: et voluntáte labiórum ejus non fraudásti eum.

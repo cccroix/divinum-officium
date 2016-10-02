@@ -22,7 +22,7 @@ $Per Dominum
 
 [Lectio]
 Léctio libri Sapiéntiæ.
-!Eccl 45:1-6
+!Eccli 45:1-6
 Diléctus Deo et homínibus, cujus memória in benedictióne est. Símilem illum fecit in glória sanctórum, et magnificávit eum in timore inimicórum, et in verbis suis monstra placávit. Glorificávit illum in conspéctu regum, et jussit illi coram pópulo suo, et ostendit illi glóriam suam. In fide et lenitáte ipsíus sanctum fecit illum, et elégit eum ex omni carne. Audívit enim eum et vocem ipsíus, et indúxit illum in nubem. Et dedit illi coram præcépta, et legem vitæ et disciplínæ.
 
 [Graduale]
@@ -36,7 +36,7 @@ Justus ut palma florébit: sicut cedrus Líbani multiplicábitur. Allelúja.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthaeum.
-!Matth 5:43-48
+!Matt 5:43-48
 In illo témpore: Dixit Jesus discípulis suis: Audístis, quia dictum est: Diliges~
 próximum tuum, et ódio habébis inimícum tuum. Ego autem dico vobis: Dilígite~
 inimícos vestros, benefácite his, qui odérunt vos, et oráte pro persequéntibus~

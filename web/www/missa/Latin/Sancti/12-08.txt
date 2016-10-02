@@ -11,7 +11,7 @@ Credo
 Prefatio=Maria=Conceptióne immaculáta;
 
 [Introitus]
-!Isai 61:10
+!Is 61:10
 v. Gaudens gaudébo in Dómino, et exsultábit ánima mea in Deo meo: quia índuit me~
 vestiméntis salútis: et induménto justítiæ circúmdedit me, quasi sponsam ornátam~
 monílibus suis

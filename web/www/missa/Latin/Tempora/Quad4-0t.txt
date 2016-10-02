@@ -8,7 +8,7 @@ Prefatio=Quad
 Suffragium=Sanctorum;Vivis;;
 
 [Introitus]
-!Isai 66:10 et 11.
+!Is 66:10 et 11.
 v. Lætáre, Jerúsalem: et convéntum fácite, omnes qui dilígitis eam: gaudéte cum lætítia, qui in tristítia fuístis: ut exsultétis, et satiémini ab ubéribus consolatiónis vestræ.
 !Ps 121:1.
 Lætátus sum in his, quæ dicta sunt mihi: in domum Dómini íbimus. 

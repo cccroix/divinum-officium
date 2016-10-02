@@ -30,7 +30,7 @@ Léctio Epístolæ beáti Pauli Apóstoli ad Corinthios.
 Fratres: Scitis grátiam Dómini nostri Jesu Christi, quóniam propter vos egénus factus est, cum esset dives, ut illíus inópia vos dívites essétis. Et consílium in hoc do: hoc enim vobis útile est, qui non solum fácere, sed et velle coepistis ab anno prióre: nunc vero et facto perfícite: ut, quemádmodum promptus est ánimus voluntátis, ita sit et perficiéndi ex eo quod habétis. Si enim volúntas prompta est, secúndum id quod habet, accépta est, non secúndum id quod non habet. Non enim ut áliis sit remíssio, vobis autem tribulátio, sed ex æqualitáte. In præsénti témpore vestra abundántia illórum inópiam súppleat: ut et illórum abundántia vestræ inópiæ sit suppleméntum, ut fiat æquálitas, sicut scriptum est: Qui multum, non abundávit: et qui módicum, non minorávit.
 
 [Graduale]
-!Eccl 44:16
+!Eccli 44:16
 Ecce sacérdos magnus, qui in diébus suis plácuit Deo.
 !Ps 44:20
 Non est invéntus símilis illi, qui conserváret legem Excélsi. Allelúja, allelúja

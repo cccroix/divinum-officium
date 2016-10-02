@@ -9,7 +9,7 @@ CredoDA
 Athanase
 
 [Introitus]
-!Eccl 15:5.
+!Eccli 15:5.
 v. In médio Ecclésiæ apéruit os ejus: et implévit eum Dóminus spíritu sapiéntiæ~
 et intelléctus: stolam glóriæ índuit eum, allelúja, allelúja.
 !Ps 91:2. Bonum est confitéri
@@ -38,9 +38,9 @@ Beátus vir, qui suffert tentatiónem: quóniam, cum probátus fúerit, accípiet~
 corónam vitæ. Allelúja.
 
 [Graduale1]
-!Eccl 44:16
+!Eccli 44:16
 Ecce sacérdos magnus, qui in diébus suis plácuit Deo.
-!Eccl 44:20
+!Eccli 44:20
 Non est invéntus símilis illi, qui conserváret legem Excélsi. Allelúja, allelúja
 !Ps 1:12
 Beátus vir, qui suffert tentatiónem: quóniam cum probátus fúerit, accípiet~
@@ -48,7 +48,7 @@ corónam vitæ. Allelúja.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthaeum.
-!Matth 10:23-28
+!Matt 10:23-28
 In illo témpore: Dixit Jesus discípulis suis: Cum persequéntur vos in civitáte~
 ista, fúgite in áliam. Amen dico vobis, non consummábitis civitátes Israël,~
 donec véniat Fílius hóminis. Non est discípulus super magistrum, nec servus~
@@ -72,7 +72,7 @@ et illum beáta retribútio comitétur, et nobis grátiæ tuæ dona concíliet.
 $Per Dominum
 
 [Communio]
-!Matth 10:27
+!Matt 10:27
 Quod dico vobis in ténebris, dícite in lúmine, dicit Dóminus: et quod in aure~
 audítis, prædicáte super tecta, allelúja.
 

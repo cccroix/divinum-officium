@@ -46,7 +46,7 @@ V. Afferéntur in lætítia et exsultatióne: adducántur in templum Regis.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthaeum.
-!Matth 13:44-52
+!Matt 13:44-52
 In illo témpore: Dixit Jesus discípulis suis parábolam hanc: Símile est regnum~
 coelórum thesáuro abscóndito in agro: quem qui invénit homo, abscóndit, et præ~
 gáudio illíus vadit, et vendit univérsa, quæ habet, et emit agrum illum. Iterum~
@@ -73,7 +73,7 @@ lætíficet.
 $Per Dominum
 
 [Communio]
-!Matth 13:45-46
+!Matt 13:45-46
 Símile est regnum coelórum hómini negotiatóri, quærénti bonas margarítas:~
 invénta autem una pretiósa margaríta, dedit ómnia sua, et comparávit eam.
 

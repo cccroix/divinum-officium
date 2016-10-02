@@ -12,7 +12,7 @@ vide C4;
 Gloria
 
 [Introitus]
-!Eccl 45:30.
+!Eccli 45:30.
 v. Státuit ei Dóminus testaméntum pacis, et príncipem fecit eum: ut sit illi~
 sacerdótii dignitas in ætérnum
 !Ps 131:1
@@ -42,7 +42,7 @@ Justus ut palma florébit: sicut cedrus Líbani multiplicábitur. Allelúja.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthaeum.
-!Matth 25:14-23
+!Matt 25:14-23
 In illo témpore: Dixit Jesus discípulis suis parábolam hanc: Homo péregre~
 proficíscens vocávit servos suos, et trádidit illis bona sua. Et uni dedit~
 quinque talénta, álii autem duo, álii vero unum, unicúique secúndum própriam~

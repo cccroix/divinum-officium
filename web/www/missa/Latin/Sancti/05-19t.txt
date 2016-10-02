@@ -6,7 +6,7 @@ Gloria
 Prefatio=Apostolis
 
 [Introitus]
-!Joann 21:15; 21:16; 21:17
+!Joannes 21:15; 21:16; 21:17
 v. Si díligis me, Simon Petre, pasce agnos meos, pasce oves meas. Allelúja,~
 allelúja
 !Ps 29:2
@@ -25,7 +25,7 @@ $Per Dominum
 
 [Lectio]
 Léctio Epístolæ beáti Petri Apóstoli.
-!1 Petri 5:1-4; 5:10-11
+!I Pet 5:1-4; 5:10-11
 Caríssimi: Senióres, qui in vobis
 sunt, obsécro consénior et testis Christi passiónum, qui et ejus, quæ in futúro revelánda est, glóriæ communicátor: páscite qui in vobis est gregem Dei, providéntes non coácte, sed spontánee secúndum Deum, neque turpis lucri grátia, sed voluntárie; neque ut dominántes in cleris, sed forma facti gregis ex ánimo. Et, cum appáruerit princeps pastórum, percipiétis immarcescíbilem glóriæ corónam. Deus autem omnis grátiæ, qui vocávit nos in ætérnam suam glóriam in Christo Jesu, módicum passos ipse perfíciet, confirmábit solidabítque. Ipsi glória et impérium in saecula sæculórum. Amen.
 
@@ -34,12 +34,12 @@ sunt, obsécro consénior et testis Christi passiónum, qui et ejus, quæ in fut
 Exáltent eum in Ecclésia plebis: et in cáthedra seniórum laudent eum.
 V. Confiteántur Dómino misericórdiæ ejus; et mirabília ejus fíliis hóminum.~
 Allelúja, allelúja
-!Matth 16:18
+!Matt 16:18
 Tu es Petrus, et super hanc petram ædificábo Ecclésiam meam. Allelúja.
 
 [GradualeP]
 Allelúja, allelúja 
-!Matth 16:18
+!Matt 16:18
 V. Tu es Petrus, et super hanc petram ædificábo Ecclésiam meam
 !Ps 44:17; 44:18
 Constítues eos príncipes super omnem terram: mémores erunt nóminis tui, Dómine.~
@@ -47,7 +47,7 @@ Allelúja.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthaeum.
-!Matth 16:13-19
+!Matt 16:13-19
 In illo témpore: Venit Jesus in partes Cæsaréæ Philíppi, et interrogábat~
 discípulos suos, dicens: Quem dicunt hómines esse Fílium hóminis? At illi~
 dixérunt: Alii Joánnem Baptístam, alii autem Elíam, alii vero Jeremíam aut unum~
@@ -61,7 +61,7 @@ erit ligátum et in coelis: et quodcúmque sólveris super terram, erit solútum
 in coelis.
 
 [Offertorium]
-!Jerem 1:9-10
+!Jer 1:9-10
 Ecce, dedi verba mea in ore tuo: ecce, constítui te super gentes et super regna,~
 ut evéllas et destruas, et ædífices et plantes. (Allelúja.)
 
@@ -71,7 +71,7 @@ recólimus, patrocínia sentiámus.
 $Per Dominum
 
 [Communio]
-!Matth 16:18
+!Matt 16:18
 Tu es Petrus, et super hanc petram ædificábo Ecclésiam meam. Allelúja.
 
 [Postcommunio]

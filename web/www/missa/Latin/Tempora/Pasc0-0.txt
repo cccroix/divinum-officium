@@ -30,7 +30,7 @@ Fratres: Expurgáte vetus ferméntum, ut sitis nova conspérsio, sicut estis áz
 
 [Graduale]
 Alleluia, alleluia
-!Ps 117:24; 117:1
+!Ps. 117:24; 117:1
 Hæc dies, quam fecit Dóminus: exsultémus et lætémur in ea.
 V. Confitémini Dómino, quóniam bonus: quóniam in saeculum misericórdia ejus. Allelúja, allelúja.
 !1 Cor 5:7
@@ -62,7 +62,7 @@ eum. Sed ite, dícite discípulis ejus et Petro, quia præcédit vos in Galilǽa
 ibi eum vidébitis, sicut dixit vobis.
 
 [Offertorium]
-!Ps 75:9-10.
+!Ps. 75:9-10.
 Terra trémuit, et quiévit, dum resúrgeret in judício Deus, allelúja.
 
 [Secreta]

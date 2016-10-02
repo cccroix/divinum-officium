@@ -5,7 +5,7 @@ Commune Summorum Pontificum; Si diligis
 Prefatio=Apostolis
 
 [Introitus]
-!Joann 21:15-17
+!Joannes 21:15-17
 v. Si díligis me, Simon Petre, pasce agnos meos, pasce oves meas.
 !Ps 29:2
 Exaltábo te, Dómine, quóniam suscepísti me, nec delectásti inimícos meos super~
@@ -42,7 +42,7 @@ Caríssimi: Senióres, qui in vobis sunt, obsécro consénior et testis Christi pass
 Exáltent eum in Ecclésia plebis: et in cáthedra seniórum laudent eum.
 V. Confiteántur Dómino misericórdiæ ejus; et mirabília ejus fíliis hóminum.~
 Allelúja, allelúja
-!Matth 16:18
+!Matt 16:18
 Tu es Petrus, et super hanc petram ædificábo Ecclésiam meam. Allelúja.
 
 [Tractus]
@@ -56,7 +56,7 @@ V. Non abscóndi misericórdiam tuam, et veritátem tuam a concílio multo.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthaeum.
-!Matth 16:13-19
+!Matt 16:13-19
 In illo témpore: Venit Jesus in partes Cæsaréæ Philíppi, et interrogábat~
 discípulos suos, dicens: Quem dicunt hómines esse Fílium hóminis? At illi~
 dixérunt: Alii Joánnem Baptístam, alii autem Elíam, alii vero Jeremíam aut unum~
@@ -70,7 +70,7 @@ erit ligátum et in coelis: et quodcúmque sólveris super terram, erit solútum et~
 in coelis.
 
 [Offertorium]
-!Jerem 1:9-10
+!Jer 1:9-10
 Ecce, dedi verba mea in ore tuo: ecce, constítui te super gentes et super regna,~
 ut evéllas et destruas, et ædífices et plantes.
 
@@ -87,7 +87,7 @@ tranquillitáte semper exsúltet.
 $Per Dominum
 
 [Communio]
-!Matth 16:18
+!Matt 16:18
 Tu es Petrus, et super hanc petram ædificábo Ecclésiam meam.
 
 [Postcommunio]

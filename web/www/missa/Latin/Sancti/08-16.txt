@@ -26,7 +26,7 @@ $Per eundem
 
 [Lectio]
 Léctio libri Sapiéntiæ.
-!Eccl 31:8-11
+!Eccli 31:8-11
 Beátus vir, qui invéntus est sine mácula, et qui post aurum non ábiit, nec sperávit in pecúnia et thesáuris. Quis est hic, et laudábimus eum? fecit enim mirabília in vita sua. Qui probátus est in illo, et perféctus est, erit illi glória ætérna: qui pótuit tránsgredi, et non est transgréssus: fácere mala, et non fecit: ídeo stabílita sunt bona illíus in Dómino, et eleemósynas illíus enarrábit omnis ecclésia sanctórum.
 
 [Graduale]
@@ -53,7 +53,7 @@ opem. Allelúja.
 
 [Evangelium]
 Initium sancti Evangélii secúndum Matthaeum.
-!Matth 1:1-16
+!Matt 1:1-16
 Liber generatiónis Jesu Christi, fílii David, fílii Abralam. Abraham génuit~
 Isaac, Isaac autem génuit Jacob. Jacob autem génuit Judam et fratres ejus. Judas~
 autem génuit Phares et Zaram de Thamar. Phares autem génuit Esron. Esron autem~

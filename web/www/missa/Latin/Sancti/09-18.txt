@@ -6,7 +6,7 @@ vide C5;
 9 lectiones
 
 [Introitus]
-!Eccl 1:14-15
+!Eccli 1:14-15
 v. Diléctio Dei honorábilis sapiéntia: quibus autem apparúerit in visu, díligunt~
 eam in visióne et in agnitióne magnálium suórum.
 !Ps 83:2.
@@ -33,14 +33,14 @@ Dómine, prævenísti eum in benedictiónibus dulcédinis: posuísti in cápite ejus~
 corónam de lápide pretióso.
 V. Vitam pétiit a te, et tribuísti ei longitudinem dierum in saeculum, et in~
 saeculum saeculi. Allelúja, allelúja
-!Eccl 11:13.
+!Eccle 11:13.
 Oculus Dei respéxit illum in bono, et eréxit eum ab humilitáte ipsíus, et~
 exaltávit caput ejus. Allelúja.
 
 [GradualeP]
 
 Allelúja, allelúja
-!Eccl 11:13
+!Eccli 11:13
 Oculus Dei respéxit illum in bono, et eréxit eum ab humilitáte ipsíus, et~
 exaltávit caput ejus. Allelúja
 !Ps 45:9.
@@ -48,7 +48,7 @@ Amávit eum Dóminus, et ornávit eum: stolam glóriæ índuit eum. Allelúja.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthaeum.
-!Matth 22:1-14
+!Matt 22:1-14
 In illo témpore: Loquebátur Jesus princípibus sacerdótum et pharisaeis in~
 parábolis, dicens: Símile factum est regnum coelórum hómini regi, qui fecit~
 núptias fílio suo. Et misit servos suos vocáre invitátos ad núptias, et nolébant~

@@ -22,13 +22,13 @@ $Per Dominum
 
 [Lectio]
 Léctio Epístolæ beáti Petri Apóstoli.
-!1 Petri 4:13-19
+!1 Pet 4:13-19
 Caríssimi: Communicántes Christi passiónibus gaudéte, ut et in revelatióne glóriæ ejus gaudeátis exsultántes. Si exprobrámini in nómine Christi, beáti éritis: quóniam quod est honóris, glóriæ et virtútis Dei, et qui est ejus Spíritus, super vos requiéscit. Nemo autem vestrum patiátur ut homicída, aut fur, aut malédicus, aut alienórum appetítor. Si autem ut christiánus, non erubéscat: gloríficet autem Deum in isto nomine. Quóniam tempus est, ut incípiat judícium a domo Dei. Si autem primum a nobis: quis finis eórum, qui non credunt Dei Evangélio? Et si justus vix salvábitur, ímpius et peccátor ubi parébunt? Itaque et hi, qui patiúntur secúndum voluntátem Dei, fideli Creatóri comméndent ánimas suas in benefáctis.
 
 [Graduale]
-!Ex 15:11
+!Exodi 15:11
 Gloriosus Deus in Sanctis suis: mirábilis in majestáte, fáciens prodígia.
-!Ex 16:6
+!Exod 16:6
 V. Déxtera tua, Dómine, glorificáta est in virtúte: déxtera manus tua confrégit~
 inimícos. Allelúja, allelúja.
 V. Hæc est vera fratérnitas, quæ vicit mundi crímina: Christum secúta est,~

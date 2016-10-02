@@ -5,7 +5,7 @@ Ss. Primi et Feliciani Martyrum;;Simplex;;1.1;;vide C3
 vide C3;
 
 [Introitus]
-!Eccl 44:15; 44:14
+!Eccli 44:15; 44:14
 v. Sapiéntiam Sanctórum narrent pópuli, et laudes eórum núntiet ecclésia: nómina~
 autem eórum vivent in saeculum saeculi.
 !Ps 32:1
@@ -35,7 +35,7 @@ V. Hæc est vera fratérnitas, quæ vicit mundi crímina: Christum secúta est,~
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthaeum.
-!Matth 11:25-30
+!Matt 11:25-30
 In illo témpore: Respóndens Jesus, dixit: Confíteor tibi, Pater, Dómine coeli et~
 terræ, quia abscondísti hæc a sapiéntibus et prudéntibus, et revelásti ea~
 párvulis. Ita, Pater: quóniam sic fuit plácitum ante te. Omnia mihi trádita sunt a~
@@ -57,7 +57,7 @@ famulórum.
 $Per Dominum.
 
 [Communio]
-!Joann 15:16
+!Joannes 15:16
 Ego vos elegi de mundo, ut eátis et fructum afferátis: et fructus vester máneat.
 
 [Postcommunio]

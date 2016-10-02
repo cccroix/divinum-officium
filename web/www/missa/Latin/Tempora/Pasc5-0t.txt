@@ -7,7 +7,7 @@ Credo
 Suffr=Maria3;Ecclesiae,Papa;;
 
 [Introitus]
-!Isai 48:20
+!Isa 48:20
 v. Vocem jucunditátis annuntiáte, et audiátur, allelúja: annuntiáte usque ad~
 extrémum terræ: liberávit Dóminus pópulum suum, allelúja, allelúja
 !Ps 65:1-2
@@ -23,13 +23,13 @@ $Per Dominum.
 
 [Lectio]
 Léctio Epístolæ beáti Jacóbi Apóstoli.
-!Jacob 1:22-27
+!Jas 1:22-27
 Caríssimi: Estóte factóres verbi, et non auditóres tantum: falléntes vosmetípsos. Quia si quis audítor est verbi et non factor: hic comparábitur viro consideránti vultum nativitátis suæ in spéculo: considerávit enim se et ábiit, et statim oblítus est, qualis fúerit. Qui autem perspéxerit in legem perfectam libertátis et permánserit in ea, non audítor obliviósus factus, sed factor óperis: hic beátus in facto suo erit. Si quis autem putat se religiósum esse, non refrénans linguam suam, sed sedúcens cor suum, hujus vana est relígio. Relígio munda et immaculáta apud Deum et Patrem hæc est: Visitáre pupíllos et viduas in tribulatióne eórum, et immaculátum se custodíre ab hoc saeculo.
 
 [Graduale]
 Allelúja, allelúja.
 V. Surréxit Christus, et illúxit nobis, quos rédemit sánguine suo. Allelúja,
-!Joann 16:28
+!Joannes 16:28
 Exívi a Patre, et veni in mundum: íterum relínquo mundum, et vado ad Patrem.~
 Allelúja.
 

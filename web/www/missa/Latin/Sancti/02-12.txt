@@ -22,21 +22,21 @@ $Qui vivis
 
 [Lectio]
 Léctio libri Sapiéntiæ.
-!Eccl 44:1-15.
+!Eccli 44:1-15.
 Laudémus viros gloriósos et paréntes nostros in generatióne sua. Multam glóriam fecit Dóminus magnificéntia sua a saeculo. Dominántes in potestátibus suis, hómines magni virtúte et prudéntia sua praediti, nuntiántes in prophétis dignitátem prophetárum, et imperántes in præsénti pópulo, et virtúte prudéntiæ pópulis sanctíssima verba. In perítia sua requiréntes modos músicos,et narrántes cármina scripturárum. Hómines dívites in virtúte, pulchritúdinis stúdium habéntes: pacificántes in dómibus suis. Omnes isti in generatiónibus gentis suæ glóriam adépti sunt, et in diébus suis habéntur in láudibus. Qui de illis nati sunt, reliquérunt nomen narrándi laudes eórum. Et sunt, quorum non est memória: periérunt, quasi qui non fúerint: et nati sunt, quasi non nati, et fílii ipsórum cum ipsis. Sed illi viri misericórdiæ sunt, quorum pietátes non defuérunt: cum sémine eórum pérmanent bona, heréditas sancta nepótes eórum, et in testaméntis stetit semen eórum: et fílii eórum propter illos usque in ætérnum manent: semen eórum et glória eórum non derelinquétur. Córpora ipsórum in pace sepúlta sunt, et nomen eórum vivit in generatiónem et generatiónem. Sapiéntiam ipsórum narrent pópuli, et laudem eórum núntiet Ecclésia.
 
 [Graduale]
-!Isai 65:23.
+!Is 65:23.
 Electi mei non laborábunt frustra, neque germinábunt in conturbatióne: quia semen benedictórum Dómini est, et nepótes eórum cum eis
-!Eccl 44:14.
+!Eccli 44:14.
 Córpora ipsorum in pace sepúlta sunt, et nomen eórum vivit in generatiónem et generatiónem. Allelúja, allelúja.
-!Eccl 44:15.
+!Eccli 44:15.
 Sapiéntiam ipsorum narrent pópuli, et laudem eórum núntiet Ecclésia. Allelúja.
 
 [Tractus]
-!Isai 65:23.
+!Is 65:23.
 Electi mei non laborábunt frustra, neque germinábunt in conturbatióne: quia semen benedictórum Dómini est, et nepótes eórum cum eis
-!Eccl 44:14.
+!Eccli 44:14.
 Córpora ipsorum in pace sepúlta sunt, et nomen eórum vivit in generatiónem et generatiónem.
 !Ps 125:5-6. Qui séminant
 in lácrimis, in exsultatióne metent.
@@ -45,18 +45,18 @@ V. Veniéntes autem vénient cum exsultatióne, portántes manípulos suos.
 
 [GradualeP]
 Allelúja, allelúja
-!Eccl 44:15.
+!Eccli 44:15.
 Sapiéntiam ipsórum narrent pópuli, et laudem eórum núntiet Ecclésia
 !Ps 36:28.
 Non derelínquet Dóminus sanctos suos: in ætérnum conservabúntur. Allelúja.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthaeum.
-!Matth 19:27-29.
+!Matt 19:27-29.
 In illo témpore: Dixit Petrus ad Jesum: Ecce, nos relíquimus ómnia, et secúti sumus te: quid ergo erit nobis? Jesus autem dixit illis: Amen, dico vobis, quod vos, qui secúti estis me, in regeneratióne, cum séderit Fílius hóminis in sede majestátis suæ, sedébitis et vos super sedes duódecim, judicántes duódecim tribus Israël. Et omnis, qui relíquerit domum, vel fratres, aut soróres, aut patrem, aut matrem, aut uxórem, aut fílios, aut agros, propter nomen meum, céntuplum accípiet, et vitam ætérnam possidébit.
 
 [Offertorium]
-!Isai 56:7.
+!Is 56:7.
 Addúcam eos in montem sanctum meum, et lætificábo eos in domo oratiónis meæ: holocáusta eórum et víctimæ eórum placébunt mihi super altáre meum.
 
 [Secreta]

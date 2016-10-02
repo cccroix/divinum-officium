@@ -14,7 +14,7 @@ Credo
 Prefatio=Nat
 
 [Introitus]
-!Isai 9:6
+!Isa 9:6
 v. Puer natus est nobis, et fílius datus est nobis: cujus impénum super húmerum~
 ejus: et vocábitur nomen ejus magni consílii Angelus
 !Ps 97:1
@@ -40,7 +40,7 @@ Caríssime: Appáruit grátia Dei Salvatóris nostri ómnibus homínibus, erúdiens nos
 Vidérunt omnes fines terræ salutare Dei nostri: jubiláte Deo, omnis terra.
 V. Notum fecit Dominus salutare suum: ante conspéctum géntium revelávit~
 justitiam suam. Allelúja, allelúja.
-!Hebr 1:1-2
+!Heb 1:1-2
 Multifárie olim Deus loquens pátribus in Prophétis, novíssime diébus istis~
 locútus est nobis in Fílio. Allelúja.
 

@@ -43,7 +43,7 @@ Allelúja.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthaeum.
-!Matth 10:16-22
+!Matt 10:16-22
 In illo témpore: Dixit Jesus discípulis suis: Ecce, ego mitto vos sicut oves in~
 médio lupórum. Estóte ergo prudentes sicut serpentes, et simplices sicut~
 columbae. Cavete autem ab homínibus. Tradent enim vos in conciliis, et in~
@@ -66,7 +66,7 @@ nos per hæc a peccatórum nostrórum máculis emúnda.
 $Per Dominum
 
 [Communio]
-!Matth 19:28
+!Matt 19:28
 Vos, qui secúti estis me, sedébitis super sedes, judicántes duódecim tribus~
 Israël.
 

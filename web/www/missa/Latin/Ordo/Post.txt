@@ -4,7 +4,7 @@ _
 Ant. Trium puerórum * cantémus hymnum, quem cantábant Sancti in camíno ignis, benedicéntes Dóminum. (T. P. Allelúja.)
 !Quæ Antiphona in Duplicibus tantum duplicatur.
 !Canticum trium Puerorum
-!Dan 3, 57-88 et 56 
+!Dan. 3, 57-88 et 56 
 v. Benedícite, ómnia ópera Dómini, Dómino: * laudáte et superexaltáte eum in saecula.
 v. Benedícite, Angeli Dómini, Dómino: * benedícite, coeli, Dómino.
 v. Benedícite, aquæ omnes, quæ super coelos sunt, Dómino: * benedícite, omnes virtútes Dómini, Dómino.
@@ -27,7 +27,7 @@ v. Benedicámus Patrem et Filium cum Sancto Spíritu: * laudémus et superexalt�
 v. Benedíctus es, Dómine, in firmaménto coeli: * et laudábilis, et gloriósus, et superexaltátus in saecula.
 ! Hic non dicitur Glória Patri, neque Amen,
 _
-!Ps 150 
+!Psalmus 150 
 v. Laudáte Dóminum in sanctis ejus: * laudáte eum in firmaménto virtútis ejus.
 v. Laudáte eum in virtútibus ejus: * laudáte eum secúndum multitúdinem magnitúdinis ejus.
 v. Laudáte eum in sono tubæ: * laudáte eum in psaltério, et cíthara.

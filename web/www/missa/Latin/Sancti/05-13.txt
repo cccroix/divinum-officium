@@ -30,9 +30,9 @@ V. Qui ad justítiam erúdiunt multos quasi stellæ in perpétuas æternitátes.~
 Allelúja.
 
 [Graduale]
-!Eccl 44:16
+!Eccli 44:16
 Ecce sacérdos magnus, qui in diébus suis plácuit Deo.
-!Eccl 44:20
+!Eccli 44:20
 Non est invéntus símilis illi, qui conserváret legem Excélsi. Allelúja,~
 allelúja.
 V. Qui ad justítiam erúdiunt multos quasi stellæ in perpétuas æternitátes.~
@@ -56,7 +56,7 @@ currámus.
 $Per Dominum.
 
 [Communio]
-!Matth 5:14; 5:16
+!Matt 5:14; 5:16
 Vos estis lux mundi: sic lúceat lux vestra coram homínibus, ut vídeant ópera~
 vestra bona, et gloríficent Patrem vestrum qui in coelis est, allelúja.
 

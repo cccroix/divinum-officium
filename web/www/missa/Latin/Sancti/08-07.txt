@@ -24,7 +24,7 @@ $Per Dominum
 
 [Lectio]
 Léctio libri Sapiéntiæ.
-!Eccl 31:8-11
+!Eccli 31:8-11
 Beátus vir, qui invéntus est sine mácula, et qui post aurum non ábiit, nec sperávit in pecúnia et thesáuris. Quis est hic, et laudábimus eum? fecit enim mirabília in vita sua. Qui probátus est in illo, et perféctus est, erit illi glória ætérna: qui pótuit tránsgredi, et non est transgréssus: fácere mala, et non fecit: ídeo stabílita sunt bona illíus in Dómino, et eleemosýnas illíus enarrábit omnis ecclésia sanctórum.
 
 [Graduale]
@@ -33,13 +33,13 @@ Justus ut palma florébit: sicut cedrus Líbani multiplicábitur in domo Dómini.
 !Ps 91:3
 V. Ad annuntiándum mane misericórdiam tuam, et veritátem tuam per noctem.~
 Allelúja, allelúja
-!Jacob 1:12
+!Jas 1:12
 Beátus vir, qui suffert tentatiónem: quóniam, cumprobátus fúerit, accípiet~
 corónam vitæ. Allelúja.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthaeum.
-!Matth 6:24-33
+!Matt 6:24-33
 In illo témpore: Dixit Jesus discípulis suis: Nemo potest duóbus dóminis~
 servíre: aut enim unum ódio habébit, et álterum díliget: aut unum sustinébit, et~
 alterum contémnet. Non potéstis Deo servíre et mammóna;. Ideo dico vobis, ne~
@@ -69,7 +69,7 @@ puríficet.
 $Per Dominum
 
 [Communio]
-!Matth 24:46-47
+!Matt 24:46-47
 Beátus servus, quem, cum vénerit dóminus, invénerit vigilántem: amen, dico vobis,~
 super ómnia bona sua constítuet eum.
 

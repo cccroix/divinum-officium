@@ -55,13 +55,13 @@ Sanctórum tuórum, qui effúsus est super terram.
 Allelúja, allelúja
 !Ps 112:1
 Laudáte, púeri, Dóminum, laudáte nomen Dómini. Allelúja,
-!Eccl 39:19
+!Eccli 39:19
 V. Sancti tui, Dómine, florébunt sicut lílium, et sicut odor bálsami erunt ante~
 te. Allelúja.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secundum Matthaeum
-!Matth 2:13-18
+!Matt 2:13-18
 In illo témpore: Angelus Dómini appáruit in somnis Joseph, dicens: Surge, et~
 áccipe Púerum et Matrem ejus, et fuge in Ægýptum, et esto ibi, usque dum dicam~
 tibi. Futúrum est enim, ut Heródes quærat Púerum ad perdéndum eum. Qui~
@@ -91,7 +91,7 @@ peccatórum nostrórum máculis emúnda.
 $Per eundem
 
 [Communio]
-!Matth 2:18.
+!Matt 2:18.
 Vox in Rama audíta est, plorátus, et ululátus: Rachel plorans fílios suos, et nóluit~
 consolári, quia non sunt.
 

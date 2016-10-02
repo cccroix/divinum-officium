@@ -49,13 +49,13 @@ Allelúja, allelúja
 !Ps 36:37
 Custódi innocéntiam et vide æquitátem: quóniam sunt relíquiæ hómini pacífico.~
 Allelúja.
-!Eccl 6:35
+!Eccli 6:35
 In multitúdine presbyterórum prudéntium sta, et sapiéntiæ illórum ex corde~
 conjúngere, ut omnem narratiónem Dei possis audire. Allelúja.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthaeum.
-!Matth 10:28-33
+!Matt 10:28-33
 In illo témpore: Dixit Jesus discípulis suis: Nolíte timére eos, qui occídunt~
 corpus, ánimam autem non possunt occídere; sed pótius timéte eum, qui potest et~
 ánimam et corpus pérdere in gehénnam. Nonne duo pásseres asse véneunt: et unus~
@@ -66,7 +66,7 @@ Patre meo, qui in coelis est. Qui autem negáverit me coram homínibus, negábo et~
 ego eum coram Patre meo, qui in coelis est.
 
 [Offertorium]
-!Eccl 24:44. Doctrínam
+!Eccli 24:44. Doctrínam
 quasi ante lucánum illúmino ómnibus, et enarrábo illam usque ad longínquum.
 
 [Secreta]
@@ -76,7 +76,7 @@ christianórum fines ab omni hoste fáciat esse secúros.
 $Per Dominum
 
 [Communio]
-!Eccl 24:47
+!Eccli 24:47
 Vidéte, quóniam non soli mihi laborávi, sed ómnibus exquiréntibus veritátem.
 
 [Postcommunio]

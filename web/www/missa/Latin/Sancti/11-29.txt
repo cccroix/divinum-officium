@@ -6,7 +6,7 @@ vide C1v;
 no Gloria
 
 [Introitus]
-!Matth 4:18; 4:19
+!Matt 4:18; 4:19
 v. Dóminus secus mare Galilaeæ vidit duos fratres, Petrum et Andréam, et vocávit~
 eos: Veníte post me: fáciam vos fíeri piscatóres hóminum.
 !Ps 18:2.
@@ -23,7 +23,7 @@ $Per Dominum
 
 [Lectio]
 Léctio libri Sapiéntiæ.
-!Eccl 44:25-27; 45:2-4; 45:6-9
+!Eccli 44:25-27; 45:2-4; 45:6-9
 Benedíctio Dómini super caput justi. Ideo dedit illi Dóminus hereditátem, et divísit illi partem in tríbubus duódecim: et invénit grátiam in conspéctu omnis carnis. Et magnificávit eum in timóre inimicórum, et in verbis suis monstra placávit. Glorificávit illum in conspéctu regum, et jussit illi coram pópulo suo, et osténdit illi glóriam suam. In fide et lenitáte ipsíus sanctum fecit illum, et elégit eum ex omni carne. Et dedit illi coram præcépta, et legem vitæ et disciplínæ, et excélsum fecit illum. Státuit ei testaméntum ætérnum, et circumcínxit eum zona justítiæ: et índuit eum Dóminus corónam glóriæ.
 
 [Graduale]

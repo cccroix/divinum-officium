@@ -43,7 +43,7 @@ _
 !9. Oratione expleta, sequitur altera lectio, a subdiacono dicenda ad legile, item sine titulo, et sine Deo gratias in fine. Celebrans cetefique omnes, sedentes, auscultant.
 !9a. Lectionem legat lector ad legile: secus vero ipse celebrans, stans in loco suo.  
 !Lectio 
-!Ex 12:1-11
+!Exodus 12:1-11
 In diebus illis: Dixit Dominus ad Moysen et Aaron in terra Aegypti: Mensis iste, vobis principium mensium: primus erit in mensibus anni.  Loquimini ad universum coetum filiorum Israel, et dicite eis: Decima die mensis huius tollat unusquisque agnum per familias et domos suas.  Sin autem minor est numerus, ut sufficere possit ad venscendum agnum, assumet vicinum suum qui iunctus est domui suae, iuxta numerum animarum quae sufficere possunt ad esum agni. Erit autem agnus absque macula, masculus, anniculus: iuxta quem ritum tolletis et haedum.  Et servabitis eum usque ad quartamdecimam diem mensis huius: immolabitque eum universa multitudo filiorum Israel ad vesperam.  Et sument de sanguine eius, ac ponent super utrumque postem, et in superliminaribus domorum, in quibus comedent illum.  Et edent carnes nocte illa assas igni, et azymos panes cum lactucis agrestibus.  Non comedetis ex eo crudum quid, nec coctum aqua, sed tantum assum igni: caput cum pedibus eius et intestinis vorabitis.  Nec remanebit quidquam ex eo usque mane.  Si quid residuum fuerit, igne comburetis.  Sic autem comedetis illum: renes vestros accingetis, et calceamenta habebitis in pedibus, tenentes baculos in manibus, et comedetis festinanter: est enim Phase id est transitus Domini.
 _
 !Sequitur responsorium, a schola cantandum, vel a clero assistente recitandum.
@@ -69,7 +69,7 @@ R. Amen.
 !10 a. Historiam Passionis Domini legit vel cantat celebrans, clara et distincta voce. Antequant incipiaty dicit, in medio presbyterii, profunde inclinatus, secreto: Dominus sit in corde meo et in labiis meis. Amen.  Tune, fact a altari reverentia, vadit ad latus Evangelii, ibique, super nudum legile, incipit legere vel cantare historiam Passionis Domini.
 !Tunc, iterum facta altari reverentia, procedunt ad latus Evangelii, ibique, super nu dum legile, incipiunt cantare vel legere historiam Passionis Domini, omnibus auscultantibus.
 Passio Domini nostri Iesu Christi secundum Ioannem.
-!Joann 18:1-40; 19:1-42
+!Joannes 18:1-40; 19:1-42
 In illo tempore: Egressus est Iesus cum discipulis suis trans torrentem~
 Cedron, ubi erat hortus, in quem introivit ipse, et discipuli eius~
 Sciebat autem et Iudas, qui tradebat eum, locum: quia frequenter Iesus~

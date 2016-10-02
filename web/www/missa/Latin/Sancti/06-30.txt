@@ -66,7 +66,7 @@ nobis. Allelúja.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthaeum.
-!Matth 10:16-22
+!Matt 10:16-22
 In illo témpore: Dixit Jesus discípulis suis: Ecce, ego mitto vos sicut oves in~
 médio lupórum. Estóte ergo prudéntes sicut serpentes, et símplices sicut~
 colúmbæ. Cavéte autem ab homínibus. Tradent enim vos in concíliis, et in~
@@ -95,7 +95,7 @@ comméndet orátio: ut, quod pro illíus glória celebrámus, nobis prosit ad véniam.
 $Per Dominum
 
 [Communio]
-!Matth 19:28-29
+!Matt 19:28-29
 Amen, dico vobis: quod vos, qui reliquístis ómnia et secúti estis me, céntuplum~
 accipiétis et vitam ætérnam possidébitis.
 

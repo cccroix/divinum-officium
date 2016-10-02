@@ -6,7 +6,7 @@ vide C3;
 Gloria
 
 [Introitus]
-!Eccl 44:15; 44:14
+!Eccli 44:15; 44:14
 v. Sapiéntiam Sanctórum narrent pópuli, et laudes eórum núntiet ecclésia: nómina~
 autem eórum vivent in saeculum saeculi.
 !Ps 32:1
@@ -55,7 +55,7 @@ mente célebrat, profícere sibi séntiat ad salútem.
 $Per Dominum
 
 [Communio]
-!Matth 10:27
+!Matt 10:27
 Quod dico vobis in ténebris, dícite in lúmine, dicit Dóminus: et quod in aure~
 audítis, prædicáte super tecta.
 

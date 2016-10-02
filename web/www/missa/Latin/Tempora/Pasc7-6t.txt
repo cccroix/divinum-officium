@@ -33,7 +33,7 @@ $Per Dominum eiusdem
 
 [LectioL1]
 Léctio Joélis Prophétæ.
-!Joël 2:28-32
+!Joel 2:28-32
 Hæc dicit Dóminus Deus: Effúndam Spíritum meum super omnem carnem: et prophetábunt fílii vestri et fíliæ vestræ: senes vestri sómnia somniábunt, et júvenes vestri visiónes vidébunt. Sed et super servos meos et ancíllas in diébus illis effúndam Spíritum meum. Et dabo prodígia in coelo et in terra, sánguinem et ignem et vapórem fumi. Sol convertétur in ténebras et luna in sánguinem: ántequam véniat dies Dómini magnus ei horríbilis. Et erit: omnis, qui invocáverit nomen Dómini, salvus erit.
 $Deo gratias
 
@@ -49,7 +49,7 @@ $Qui tecum eiusdem
 
 [LectioL2]
 Léctio libri Levítici.
-!Levit 23:9-11; 23:15-17; 23:21
+!Lev 23:9-11; 23:15-17; 23:21
 In diébus illis: Locútus est Dóminus ad Móysen, dicens: Lóquere fíliis Israel, et dices ad eos: Cum ingréssi fuéritis terram, quam ego dabo vobis, et messuéritis ségetem, ferétis manípulos spicárum, primítias messis vestræ ad sacerdótem: qui elevábit fascículum coram Dómino, ut acceptábile sit pro vobis, áltero die sábbati, et sanctificábit illum. Numerábitis ergo ab áltero die sábbati, in quo obtulístis manípulum primitiárum, septem hebdómadas plenas, usque ad álteram diem expletiónis hebdómadæ séptiniæ, id est, quinquagínta dies: et sic offerétis sacrifícium novum Dómino ex ómnibus habitáculis vestris, panes primitiárum duos de duábus decimis símilæ fermentátæ, quos coquétis in primítias Dómini. Et vocábitis hunc diem celebérrimum atque sanctíssimum: omne opus servíle non faciétis in eo. Legítimum sempitérnum erit in cunctis habitáculis et generatiónibus vestris: dicit Dóminus omnípotens.
 $Deo gratias
 
@@ -71,7 +71,7 @@ $Deo gratias
 
 [GradualeL3]
 Allelúja
-!Act 2:1
+!Acts 2:1
 Cum compleréntur dies Pentecóstes, erant omnes páriter sedéntes.
 
 [OratioL3]
@@ -81,7 +81,7 @@ $Per Dominum
 
 [LectioL4]
 Léctio libri Levítici.
-!Levit 26:3-12
+!Lev 26:3-12
 In diébus illis: Dixit Dóminus ad Móysen: Lóquere fíliis Israël, et dices ad eos: Si in præcéptis meis ambulavéritis, et mandáta mea custodiéritis et fecéritis ea, dabo vobis plúvias tempóribus suis, et terra gignet germen suum, et pomis árbores replebúntur. Apprehéndet méssium tritúra vindémiam, et vindémia occupábit seméntem: et comedétis panem vestrum in saturitáte, et absque pavóre habitábitis in terra vestra. Dabo pacem in fínibus vestris: dormiétis, et non erit, qui extérreat. Auferam malas béstias, et gládius non transíbit términos vestros. Persequémini inimícos vestros, et córruent coram vobis. Persequéntur quinque de vestris centum aliénos et centum de vobis decem mília: cadent inimíci vestri gládio in conspéctu vestro. Respíciam vos et créscere fáciam: multiplicábo mini, et firmábo pactum meum vobíscum. Comedétis vetustíssima véterum, et vétera novis superveniéntibus projiciétis. Ponam tabernáculum meum in médio vestri, et non abjíciet vos ánima mea. Ambulábo inter vos, et ero Deus vester, vosque éritis pópulus meus: dicit Dóminus omnípotens.
 $Deo gratias
 
@@ -156,7 +156,7 @@ múnere sacraménti purificátum tibi pectus offérre.
 $Per Dominum.
 
 [Communio]
-!Joann 3:8
+!Joannes 3:8
 Spíritus, ubi vult, spirat: et vocem ejus audis, allelúja, allelúja: sed nescis,~
 unde véniat aut quo vadat, allelúja, allelúja, allelúja.
 

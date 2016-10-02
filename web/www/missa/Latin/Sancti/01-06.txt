@@ -24,21 +24,21 @@ $Per eundem
 
 [Lectio]
 Léctio Isaíæ Prophétæ.
-!Isai 60:1-6
+!Is 60:1-6
 Surge, illumináre, Jerúsalem: quia venit lumen tuum, et glória Dómini super te orta est. Quia ecce, ténebræ opérient terram et caligo pópulos: super te autem oriétur Dóminus, et glória ejus in te vidébitur. Et ambulábunt gentes in lúmine tuo, et reges in splendóre ortus tui. Leva in circúitu óculos tuos, et vide: omnes isti congregáti sunt, venérunt tibi: fílii tui de longe vénient, et fíliæ tuæ de látere surgent. Tunc vidébis et áfflues, mirábitur et dilatábitur cor tuum, quando convérsa fúerit ad te multitúdo maris, fortitúdo géntium vénerit tibi. Inundátio camelórum opériet te dromedárii Mádian et Epha: omnes de Saba vénient, aurum et thus deferéntes, et laudem Dómino annuntiántes.
 
 [Graduale]
-!Isai 60:6; 60:1
+!Isa 60:6; 60:1
 Omnes de Saba vénient, aurum et thus deferéntes, et laudem Dómino annuntiántes.
 V. Surge et illumináre, Jerúsalem: quia glória Dómini super te orta est.~
 Allelúja, allelúja
-!Matth 2:2.
+!Matt 2:2.
 Vídimus stellam ejus in Oriénte, et vénimus cum munéribus adoráre Dóminum.~
 Allelúja.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthaeum
-!Matth 2:1-12
+!Matt 2:1-12
 Cum natus esset Jesus in Béthlehem Juda in diébus Heródis regis, ecce, Magi ab~
 Oriénte venerunt Jerosólymam, dicéntes: Ubi est, qui natus est rex Judæórum?~
 Vidimus enim stellam ejus in Oriénte, et vénimus adoráre eum. Audiens autem~
@@ -69,7 +69,7 @@ súmitur, Jesus Christus, fílius tuus, Dóminus noster:
 $Qui tecum
 
 [Communio]
-!Matth 2:2
+!Matt 2:2
 Vídimus stellam ejus in Oriénte, et vénimus cum munéribus adoráre Dóminum.
 
 [Postcommunio]

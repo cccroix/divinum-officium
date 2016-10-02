@@ -25,7 +25,7 @@ $Per Dominum
 
 [Lectio]
 Léctio Epístolæ beáti Petri Apóstoli.
-!1 Petri 3:8-15
+!1 Pet 3:8-15
 Caríssimi: Omnes unánimes in oratióne estóte, compatiéntes, fraternitátis amatóres, misericórdes, modésti, húmiles: non reddéntes malum pro malo, nec maledíctum pro maledícto, sed e contrário benedicéntes: quia in hoc vocáti estis, ut benedictiónem hereditáte possideátis. Qui enim vult vitam dilígere et dies vidére bonos, coérceat linguam suam a malo, et lábia ejus ne loquántur dolum. Declínet a malo, et fáciat bonum: inquírat pacem, et sequátur eam. Quia óculi Dómini super justos, et aures ejus in preces eórum: vultus autem Dómini super faciéntes mala. Et quis est, qui vobis nóceat, si boni æmulatóres fuéritis? Sed et si quid patímini propter justítiam, beáti. Timórem autem eórum ne timuéritis: et non conturbémini. Dóminum autem Christum sanctificáte in córdibus vestris.
 
 [Graduale]
@@ -39,7 +39,7 @@ veheménter. Allelúja.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthaeum.
-!Matth 5:20-24
+!Matt 5:20-24
 In illo témpore: Dixit Jesus discípulis suis: Nisi abundáverit justítia vestra~
 plus quam scribárum et pharisæórum, non intrábitis in regnum coelórum. Audístis,~
 quia dic tum est antíquis: Non occídes: qui autem occídent, re us erit judício.~

@@ -11,7 +11,7 @@ Credo
 Prefatio=Nat
 
 [Introitus]
-!Isai 9:6
+!Isa 9:6
 v. Puer natus est nobis, et fílius datus est nobis: cujus impérium super húmerum~
 ejus: et vocábitur nomen ejus magni consílii Angelus.
 !Ps 97:1

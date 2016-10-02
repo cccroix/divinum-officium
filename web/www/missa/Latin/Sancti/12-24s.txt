@@ -4,7 +4,7 @@ In Vigilia Nativitatis Domini;;Duplex I classis;;6
 [Rule]
 
 [Introitus]
-!Ex 16:6; 16:7
+!Exod 16:6; 16:7
 v. Hódie sciétis, quia véniet Dóminus et salvábit nos: et mane vidébitis glóriam~
 ejus
 !Ps 23:1
@@ -26,7 +26,7 @@ Lectio Epístolæ beati Pauli Apostoli ad Romános
 Paulus, servus Jesu Christi, vocátus Apóstolus, segregátus in Evangélium Dei, quod ante promíserat per Prophétas suos in Scriptúris sanctis de Fílio suo, qui factus est ei ex sémine David secúndum carnem: qui prædestinátus est Fílius Dei in virtúte secúndum spíritum sanctificatiónis ex resurrectióne mortuórum Jesu Christi, Dómini nostri: per quem accépimus grátiam, et apostolátum ad oboediéndum fídei in ómnibus géntibus pro nómine ejus, in quibus estis et vos vocáti Jesu Christi, Dómini nostri.
 
 [Graduale]
-!Ex 16:6; 16:7
+!Exod 16:6; 16:7
 Hódie sciétis, quia véniet Dóminus et salvábit nos: et mane vidébitis glóriam~
 ejus
 !Ps 79:2-3
@@ -37,7 +37,7 @@ Allelúja.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secundum Matthaeum.
-!Matth 1:18-21
+!Matt 1:18-21
 Cum esset desponsáta Mater Jesu Maria Joseph, ántequam convenírent, inventa est~
 in útero habens de Spiritu Sancto. Joseph autem, vir ejus, cum esset justus et~
 nollet eam tradúcere, vóluit occúlte dimíttere eam. Hæc autem eo cogitánte, ecce,~
@@ -56,7 +56,7 @@ prævenímus, sic ejus múnera capiámus sempitérna gaudéntes:
 $Qui tecum
 
 [Communio]
-!Isai 40:5
+!Isa 40:5
 Revelábitur glória Dómini: et vidébit omnis caro salutáre Dei nostri.
 
 [Postcommunio]

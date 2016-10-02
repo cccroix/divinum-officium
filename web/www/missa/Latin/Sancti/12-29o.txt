@@ -43,9 +43,9 @@ Léctio Epístolæ beáti Pauli Apóstoli ad Hebraeos.
 Fratres: Omnis póntifex ex homínibus assúmptus, pro homínibus constitúitur in iis, quæ sunt ad Deum: ut ófferat dona, et sacrifícia pro peccátis: qui condolére possit iis, qui ígnorant et errant: quóniam et ipse circúmdatus est infirmitáte: et proptérea debet, quemádmodum pro pópulo, ita étiam et pro semetípso offérre pro peccátis. Nec quisquam sumit sibi honórem, sed qui vocátur a Deo, tamquam Aaron. Sic et Christus non semetípsum clarificávit, ut Póntifex fíeret: sed qui locútus est ad eum: Fílius meus es tu, ego hódie génui te. Quemádmodum et in álio loco dicit: Tu es sacérdos in ætérnum, secúndum órdinem Melchísedech.
 
 [Graduale]
-!Eccl 44:16
+!Eccli 44:16
 Ecce sacérdos magnus, qui in diébus suis plácuit Deo.
-!Eccl 44:20
+!Eccli 44:20
 Non est invéntus símilis illi, qui conserváret legem Excélsi. Allelúja, allelúja,
 !Joann 10:14
 V. Ego sum pastor bonus: et cognósco oves meas, et cognóscunt me meæ. Allelúja.

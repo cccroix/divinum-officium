@@ -12,7 +12,7 @@ omit commemoratio
 [Prelude]
 #Benedictio Palmorum
 !Antiphona 
-!Matth 21:9
+!Matt 21:9
 Hosánna fílio David: benedíctus, qui venit in nómine Dómini. O Rex Israël: Hosánna in excélsis.
 ! Deinde Sacerdos stans in cornu Epistolæ, non vertens se ad populum, dicit, manibus junctis, in tono Orationis ferialis:
 V. Dóminus vobíscum. 
@@ -24,7 +24,7 @@ _
 ! Postea Subdiaconus in loco solito cantat sequentem Lectionem in tono Epistolæ, et in fine osculatur manum Sacerdotis.
 !!Lectio
 Léctio libri Exodi.
-!Ex 15:27; 16:1-7
+!Exod 15:27; 16:1-7
 In diébus illis: Venérunt fílii Israël in Elim, ubi erant duódecim fontes aquárum et septuagínta palmæ: et castrametáti sunt juxta aquas. Profectíque sunt de Elim, et venit omnis multitúdo filiórum Israël in desértum Sin, quod est inter Elim et Sínai: quintodécimo die mensis secúndi, postquam egréssi sunt de terra Ægýpti. Et murmurávit omnis congregátio filiórum Israël contra Móysen et Aaron in solitúdine. Dixerúntque fílii Israël ad eos: Utinam mórtui essëmus per manum Dómini in terra Ægýpti, quando sedebámus super oílas cárnium, et comedebámus panem in saturitáte: cur eduxístis nos in desértum istud, ut occiderétis omnem multitúdinem fame? Dixit autem Dóminus ad Móysen: Ecce, ego pluam vobis panes de coelo: egrediátur pópulus, et cólligat quæ suffíciunt per síngulos dies: ut tentem eum, utrum ámbulet in lege mea an non. Die autem sexto parent quod ínferant: et sit duplum, quam collígere sciébant per síngulos dies. Dixerúntque Móyses et Aaron ad omnes fílios Israël: Véspere sciétis, quod Dóminus edúxerit vos de terra Ægýpti: et mane vidébitis glóriam Dómini.
 $Deo gratias
 _
@@ -38,7 +38,7 @@ V. Unus autem ex illis, Cáiphas nómine, cum esset póntifex anni illíus, prop
 R. Et vénient Románi, et tollent nostrum locum et gentem.
 
 !Vel aliud
-!Matth 28:39, 41
+!Matt 28:39, 41
 R. In monte Olivéti orávit ad Patrem: Pater, si fíeri potest, tránseat a me calix iste. 
 R.  Spíritus quidem promptus est, caro autem infírma: fiat volúntas tua.
 V. Vigiláte et oráte, ut non intrétis in tentatiónem. 
@@ -57,7 +57,7 @@ _
 !!Evangelium
 Sequéntia ++ sancti Evangélii secúndum Matthǽum.
 R. Glória tibi, Dómine.
-!Matth 21:1-9
+!Matt 21:1-9
 In illo témpore: Cum appropinquásset Jesus Jerosólymis, et venísset Béthphage ad montem Olivéti: tunc misit duos discípulos suos, dicens eis: Ite in castéllum, quod contra vos est, et statim inveniétis ásinam alligátam et pullum cum ea: sólvite et addúcite mihi: et si quis vobis áliquid dixerit, dícite, quia Dóminus his opus habet, et conféstim dimíttet eos. Hoc autem totum factum est, ut adimplerétur, quod dictum est per Prophétam, dicéntem: Dícite fíliae Sion: Ecce, Rex tuus venit tibi mansuétus, sedens super ásinam et pullum, fílium subjugális. Eúntes autem discípuli, fecérunt, sicut præcépit illis Jesus. Et adduxérunt ásinam et pullum: et imposuérunt super eos vestiménta sua, et eum désuper sedére tecérunt. Plúrima autem turba stravérunt vestiménta sua in via: álii autem cædébant ramos de arbóribus, et sternébant in via: turbæ autem, quæ præcedébant et quæ sequebántur, clamábant, dicéntes: Hosánna fílio David: benedíctus, qui venit in nómine Dómini.
 R. Laus tibi, Christe!
 S. Per Evangelica dicta, deleantur nostra delicta.
@@ -118,7 +118,7 @@ _
 Ant. Pueri Hebræórum, portántes ramos olivárum, obviavérunt Dómino, clamántes et dicéntes: Hosánna in excélsis.
 _
 !Alia Antiphona
-!Matth 21:8 et 9
+!Matt 21:8 et 9
 Ant. Pueri Hebræórum vestiménta prosternébant in via et clamábant, dicéntes: Hosánna fílio David: benedíctus, qui venit in nómine Dómini.
 ! Quæ si non sufficiant, repetantur, quousque ramorum distributio finiatur. Deinde Sacerdos dicit:
 V. Dóminus vobíscum. 
@@ -133,7 +133,7 @@ V. Procedámus in pace.
 R. In nómine Christi. Amen.
 ! Præcedit Thuriferarius cum thuribulo fumiganti: deinde Subdiaconus paratus, deferens Crucem, medius inter duos Acolythos cum candelabris accensis: sequitur Clerus per ordinem, ultimo Celebrans cum Diacono a sinistris, omnes cum ramis in manibus: et cantantur sequentes Antiphonæ, vel omnes vel aliquæ, quousque durat Processio.
 !Antiphona
-!Matth 21:1-3, 7, 8, 9
+!Matt 21:1-3, 7, 8, 9
 v. Cum appropinquáret Dóminus Jerosólymam, misit duos ex discípulis suis, dicens: Ite in castéllum, quod contra vos est: et inveniétis pullum ásinæ alligátum, super quem nullus hóminum sedit: sólvite et addúcite mihi. Si quis vos interrogáverit, dícite: Opus Dómino est. Solvéntes adduxérunt ad Jesum: et imposuérunt illi vestiménta sua, et sedit super eum: alii expandébant vestiménta sua in via: alii ramos de arbóribus sternébant: et qui sequebántur, clamábant: Hosánna, benedíctus, qui venit in nómine Dómini: benedíctum regnum patris nostri David: Hosánna in excélsis: miserére nobis, fili David.
 _
 !Alia Antiphona
@@ -217,7 +217,7 @@ V. Pópulo, qui nascétur, quem fecit Dóminus.
 
 [Evangelium1]
 Pássio Dómini nostri Jesu Christi secúndum Matthǽum.
-!Matth 26:1-75; 27:1-66.
+!Matt 26:1-75; 27:1-66.
 
 [Evangelium2]
 In illo témpore: Dixit Jesus discípulis suis: J. Scitis, quid post~
@@ -460,7 +460,7 @@ Concéde, quæsumus, Dómine: ut oculis tuæ majestátis munus oblátum, et grá
 $Per Dominum
 
 [Communio]
-!Matth 26:42.
+!Matt 26:42.
 Pater, si non potest hic calix transíre, nisi bibam illum: fiat volúntas tua.
 
 [Postcommunio]

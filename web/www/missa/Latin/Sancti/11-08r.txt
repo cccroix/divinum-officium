@@ -12,13 +12,13 @@ $Per Dominum
 
 [Lectio]
 Léctio Epístolæ beáti Pauli Apóstoli ad Hebraeos.
-!Hebr 11:33-39
+!Heb 11:33-39
 Fratres: Sancti per fidem vicérunt regna, operáti sunt justítiam, adepti sunt repromissiónes, obturavérunt ora leónum, exstinxérunt ímpetum ignis, effugérunt áciem gládii, convaluérunt de infirmitáte, fortes facti sunt in bello, castra vertérunt exterórum: accepérunt mulíeres de resurrectióne mórtuos suos: álii autem disténti sunt, non suscipiéntes redemptiónem, ut meliórem invenírent resurrectiónem: álii vero ludíbria et vérbera expérti, ínsuper et víncula et cárceres: lapidáti sunt, secti sunt, tentáti sunt, in occisióne gládii mórtui sunt: circuiérunt in melótis, in péllibus caprínis, egéntes, angustiáti, afflícti: quibus dignus non erat mundus: in solitudínibus errántes, in móntibus et spelúncis et in cavérnis terræ. Et hi omnes testimónio fídei probáti, invénti sunt in Christo Jesu, Dómino nostro.
 
 [Graduale]
-!Ex 15:11
+!Exod 15:11
 Gloriósus Deus in Sanctis suis: mirábilis in majestáte, fáciens prodígia.
-!Ex 15:6
+!Exod 15:6
 Déxtera tua, Dómine, glorificáta est in virtúte: déxtera manus tua confrégit~
 inimícos. Allelúja, allelúja 
 !Ps 44:14. 
@@ -26,7 +26,7 @@ Córpora Sanctórum in pace sepúlta sunt, et nómina eórum vivent in generatiónem e
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthaeum.
-!Matth 5:1-12
+!Matt 5:1-12
 In illo témpore: Videns Jesus turbas, ascéndit in montem, et cum sedísset,~
 accessérunt ad eum discípuli ejus, et apériens os suum, docébat eos, dicens:~
 Beáti páuperes spíritu: quóniam ipsórum est regnum cælórum. Beáti mites: quóniam~
