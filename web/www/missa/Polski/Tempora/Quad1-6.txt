@@ -38,7 +38,7 @@ $Per Dominum
 
 [LectioL1]
 Czytanie z Księgi Powtórzonego Prawa.
-!Deut 26:12-19
+!Pp 26:12-19
 W one dni mówił Mojżesz do ludu: Gdy dopełnisz dziesięciny z wszystkich plonów twoich, powiesz przed oczyma Pana, Boga twego: «Wyniosłem, co jest poświęcone, z domu mego, i dałem to lewicie i przychodniowi, i sierocie, i wdowie, jak mi rozkazałeś; nie przestąpiłem przykazania Twego anim zapomniał rozkazania Twego. Byłem posłuszny głosowi Pana, Boga mego, i uczyniłem wszystko, jak mi przykazałeś. Wejrzyj ze świątyni Twojej i z wysokiego niebios mieszkania, a błogosław ludowi Twemu izraelskiemu i ziemi, którąś nam dał, jak przysiągłeś ojcom naszym, ziemi mlekiem i miodem płynącej».
 Dzisiaj Pan, Bóg twój, Przykazał tobie, abyś wykonywał te przykazania i prawa i strzegł, i pełnił je ze wszystkiego serca twego i ze wszystkiej duszy twojej. Pana dziś obrałeś, aby ci był Bogiem i żebyś chodził drogami Jego i strzegł ustaw Jego i przykazań, i praw, i był posłuszny rozkazaniu Jego. I Pan obrał cię dziś, abyś Mu był ludem osobliwym, tak jak ci powiedział, i żebyś strzegł wszystkich przykazań Jego, i żeby cię uczynił wyższym nad wszystkie narody, które stworzył ku chwale i imieniu, i sławie swojej, abyś był ludem świętym Pana, Boga twego, jak powiedział.
 $Deo Gratias
@@ -54,7 +54,7 @@ $Per Dominum
 
 [LectioL2]
 Czytanie z Księgi Powtórzonego Prawa.
-!Deut 11:22-25
+!Pp 11:22-25
 !x! Życie katolików zgodne z prawem Bożym zapewnia Kościołowi moc promieniowania na całą ziemię.
 W one dni mówił Mojżesz synom Izraela: Jeśli strzec będziecie przykazań, które ja wam daję, i pełnić je będziecie, że będziecie miłowali Pana, Boga waszego, i chodzili wszystkimi drogami Jego, trzymając się Go, wytraci Pan wszystkie te narody przed obliczem waszym i zawładniecie nimi, chociaż są większe i mocniejsze niźli wy. Wszelkie miejsce, na które stąpi noga wasza, wasze będzie. Od puszczy i od Libanu, od rzeki wielkiej Eufratu aż do Morza Zachodniego będą granice wasze. Nikt nie ostoi się przed wami, strach przed wami i bojaźń puści Pan, Bóg wasz, na każdą ziemię, którą deptać będziecie, jak wam powiedział Pan, Bóg wasz.
 $Deo Gratias
@@ -86,7 +86,7 @@ $Per Dominum
 
 [LectioL4]
 Czytanie z Księgi Syracydesa.
-!Eccl 36:1-10
+!Syr 36:1-10
 !x! Lud Boży, świadomy, że jego grzechy są powodem trudności w spełnieniu Bożego posłannictwa, prosi o miłosierdzie i skrócenie czasu próby.
 Zmiłuj się nad nami, Boże wszystkiego stworzenia, a wejrzyj na nas i ukaż nam światłość zmiłowania Twego; i ześlij strach Twój na narody, które Cie nie szukały, aby poznały, że nie ma Boga, jeno Ty, i żeby opowiadały wielkie dzieła Twoje. Podnieś rękę Twą na obce narody, aby oglądały moc Twoją. Bo jak przed oczyma ich pokazałeś swą świętość na nas, tak przed oczyma naszymi będziesz uwielbiony w nich, aby Cię poznali, jak i myśmy poznali, iż nie ma Boga prócz Ciebie, Panie.
 Wznów znaki i powtórz cuda! Uwielbij rękę i prawe ramię. Wzbudź zapalczywość i wylej gniew! Zgładź przeciwnika i utrap nieprzyjaciela! Przyśpiesz czas i pomnij na koniec, aby wysławiano dziwne dzieła Twoje, Panie, Boże nasz.
@@ -103,12 +103,12 @@ $Per Dominum
 
 [LectioL5]
 Czytanie z Księgi proroka Daniela.
-!Dan 3:47-51
+!Dn 3:47-51
 !x!Poważną przeszkodą do zbawienia są nasze namiętności, które wykorzystuje szatan i świat. Jak Anioł łagodził płomienie ognia, tak Chrystus uśmierzy nasze namiętności i wybawi nas od zła.
 W one dni Anioł Pański zstąpił z Azariaszem i z towarzyszami jego w piec i wyrzucił płomień ognia z pieca, i uczynił wśród pieca jakby wiatr rosisty przewiewający, a płomień rozchodził się nad piecem na czterdzieści dziewięć łokci, i wypadł, i popalił tych Chaldejczyków, których znalazł koło pieca, sługi królewskie, którzy podniecali ogień. ((Azariasza i jego towarzyszy)) nie dotknął się wcale ogień, ani ich nie zasmucił, ani żadnej przykrości nie uczynił. Wtedy ci trzej jakby jednymi usty chwalili i wysławiali, i błogosławili Boga w piecu mówiąc:
 _
 !Hymn
-!Dan 3:52-53
+!Dn 3:52-53
 Błogosławiony jesteś, Panie, Boże ojców naszych: i chwalebny, i sławny na wieki.
 I błogosławione prześwietne imię Twoje, które jest święte: i chwalebne, i sławne na wieki.
 Błogosławiony jesteś w świętym przybytku chwały Twojej: i chwalebny, i sławny na wieki
@@ -128,7 +128,7 @@ $Per Dominum
 
 [Lectio]
 Czytanie z Listu świętego Pawła Apostoła do Tesaloniczan.
-!1 Thess 5:14-23
+!1 Tes 5:14-23
 !x! W oczekiwaniu na przyjście Chrystusa chrześcijanin winien trwać w wierze i okazywać swą miłość przez dobre uczynki.
 Bracia: Prosimy was, upominajcie krnąbrnych, pocieszajcie bojaźliwych, przygarniajcie słabych, a cierpliwi bądźcie względem wszystkich. Baczcie, aby jeden drugiem, złem za zło nie oddawał, ale zawsze usiłujcie czynić wzajemnie i względem wszystkich to, co dobre. Zawsze się weselcie, a módlcie się bez przerwy. Za wszystko składajcie dzięki, bo taka jest wola Boża w Chrystusie Jezusie względem was wszystkich. Ducha nie gaście. Proroctwa nie lekceważcie. Doświadczajcie wszystkiego, a to, co dobre jest, zachowujcie. Unikajcie wszystkiego, co ma choćby pozór zła.
 A sam Bóg pokoju niech was we wszystkim uświęca, aby wszystek duch wasz i dusza, i ciało zachowane były bez zarzutu na przyjście Pana naszego Jezusa Chrystusa.
@@ -140,7 +140,7 @@ V. Bo miłosierdzie Jego, nad nami utwierdzone, a wierność Pańska trwa na wie
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Mateusza.
-!Matth 17:1-9
+!Mt 17:1-9
 !x! Ewangelia jak w następną niedzielę.
 Onego czasu: Wziął Jezus Piotra i Jakuba, i Jana brata jego, i zaprowadził ich na górę wysoką na uboczu. I przemienił się przed nimi: i rozjaśniało oblicze Jego jako słońce, szaty zaś Jego stały się białe jako śnieg. I oto ukazali się im Mojżesz i Eliasz, rozmawiający z Nim. A odpowiadając Piotr rzekł do Jezusa: «Panie, dobrze nam tu być; jeżeli chcesz uczyńmy tu trzy przybytki: Tobie jeden, Mojżeszowi jeden i Eliaszowi jeden». Gdy on to jeszcze mówił, oto obłok jasny okrył ich. I oto głos z obłoku mówiący: «Ten jest Syn mój miły, w którym upodobałem sobie: Jego słuchajcie». A słysząc to uczniowie padli na oblicze swoje i zlękli się bardzo. I przystąpił Jezus, dotknął ich i rzekł im: «Wstańcie, a nie lękajcie się». A podniósłszy oczy swe, nikogo nie widzieli, jeno samego Jezusa.
 A gdy zstępowali z góry, przykazał im Jezus mówiąc: «Nikomu nie mówcie o widzeniu, aż Syn Człowieczy zmartwychwstanie».

@@ -35,7 +35,7 @@ $Per eundem
 
 [Lectio]
 Czytanie z Księgi Apokalipsy świętego Jana.
-!Apoc 14:1-5
+!Ap 14:1-5
 !x! Przytaczając piękną wizję św. Jana, Kościół wskazuje na chwałę zgotowaną w niebie tym, którzy urzeczywistniają ideał dziewictwa i męczeństwa.
 W one dni widziałem Baranka stojącego na górze Syjon, a wraz z Nim sto czterdzieści cztery tysiące tych, którzy mają imię Jego i imię Ojca Jego napisane na czołach. I usłyszałem głos z nieba, niby głos wielu wód i niby huk wielkiego gromu, a ton, który dał się słyszeć, podobny był do tonu cytrzystów grających na cytrach. A śpiewali jakby nową pieśń przed tronem i przed czterema zwierzętami, i starszymi. A nikt nie mógł śpiewać onej pieśni, jeno one sto czterdzieści i cztery tysiące, którzy byli wykupieni z ziemi. To są ci, którzy nie pokalali się z niewiastami, bo dziewicami są. Podążają oni za Barankiem, dokądkolwiek idzie. Są oni wykupionymi z ludzi pierwocinami Bogu i Barankowi. W ustach ich nie postało kłamstwo, albowiem są nienaganni przed tronem Bożym.
 
@@ -56,12 +56,12 @@ V. Pomścij, o Panie, krew Świętych Twoich, którą wylano na ziemi.
 Alleluja, alleluja
 !Ps 112:1
 Chwalcie, o dziatki, Pana, chwalcie imię Pańskie. Alleluja, alleluja.
-!Eccl 39:19
+!Syr 39:19
 V. Panie, Święci Twoi zakwitną jak lilia i jak woń olejku przed Tobą. Alleluja.
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Mateusza.
-!Matth 2:13-18
+!Mt 2:13-18
 Onego czasu: Anioł Pański ukazał się we śnie Józefowi mówiąc: «Wstań, a weźmij Dziecię i Matkę Jego i uchodź do Egiptu. A pozostań tam, aż ci oznajmię. Albowiem stanie się, że Herod szukać będzie Dziecięcia, aby Je zgładzić». A on powstał, wziął Dziecię i Matkę Jego w nocy i uszedł do Egiptu. I pozostał tam aż do śmierci Heroda, aby się spełniło, co powiedziane jest od Pana przez Proroka, mówiącego: «Z Egiptu wezwałem Syna mojego». Wtedy Herod widząc, że go Mędrcy zawiedli, rozgniewał się bardzo i posławszy pozabijał wszystkie dzieci, które były w Betlejem i we wszystkich granicach jego, w wieku od dwóch lat i niżej według czasu, o który się był pytał Mędrców. Wówczas wypełniło się, co jest powiedziane przez Jeremiasza proroka, mówiącego: «Głos usłyszano w Rama, płacz i jęk wielki: Rachel opłakująca synów swoich, i nie chciała się dać pocieszyć, bo ich nie ma».
 
 [Offertorium]
@@ -78,7 +78,7 @@ Uświęć, Panie, złożone dary przez nowe narodzenie Jedynego Syna Twojego i o
 $Per eundem
 
 [Communio]
-!Matth 2:18
+!Mt 2:18
 !x!Rachel, która opłakiwała zaginionych synów, Józefa i Beniamina, jest symbolem zbolałych matek betlejemskich.
 Głos usłyszano w Rama, płacz i jęk wielki: Rachel opłakująca synów swoich, i nie chciała się dać pocieszyć, bo ich nie ma.
 

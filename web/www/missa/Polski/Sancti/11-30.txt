@@ -30,7 +30,7 @@ $Per Dominum
 
 [Lectio]
 Czytanie z Listu świętego Pawła Apostoła do Rzymian.
-!Rom 10:10-18
+!Rz 10:10-18
 Bracia: Bo sercem przyjęta wiara prowadzi do usprawiedliwienia, a wyznawanie jej ustami - do zbawienia. Wszak mówi Pismo: Żaden, kto wierzy w Niego, nie będzie zawstydzony. Nie ma już różnicy między Żydem a Grekiem. Jeden jest bowiem Pan wszystkich. On to rozdziela swe bogactwa wszystkim, którzy Go wzywają. Albowiem każdy, kto wezwie imienia Pańskiego, będzie zbawiony. Jakże więc mieli wzywać Tego, w którego nie uwierzyli? Jakże mieli uwierzyć w Tego, którego nie słyszeli? Jakże mieli usłyszeć, gdy im nikt nie głosił? Jakże mogliby im głosić, jeśliby nie zostali posłani? Jak to jest napisane: Jak piękne stopy tych, którzy zwiastują dobrą nowinę! Ale nie wszyscy dali posłuch Ewangelii. Izajasz bowiem mówi: Panie, któż uwierzył temu, co od nas posłyszał? Przeto wiara rodzi się z tego, co się słyszy, tym zaś, co się słyszy, jest słowo Chrystusa. Pytam więc: czy może nie słyszeli? Ależ tak: Po całej ziemi rozszedł się ich głos, aż na krańce świata ich słowa.
 
 [Graduale]
@@ -41,7 +41,7 @@ V. Andrzej był miły Panu jak wonna ofiara. Alleluja.
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Mateusza.
-!Matth 4:18-22
+!Mt 4:18-22
 Gdy [Jezus] przechodził obok Jeziora Galilejskiego, ujrzał dwóch braci: Szymona, zwanego Piotrem, i brata jego, Andrzeja, jak zarzucali sieć w jezioro; byli bowiem rybakami. I rzekł do nich: «Pójdźcie za Mną, a uczynię was rybakami ludzi». Oni natychmiast zostawili sieci i poszli za Nim. A gdy poszedł stamtąd dalej, ujrzał innych dwóch braci: Jakuba, syna Zebedeusza, i brata jego, Jana, jak z ojcem swym Zebedeuszem naprawiali w łodzi swe sieci. Ich też powołał. A oni natychmiast zostawili łódź i ojca i poszli za Nim.
 
 [Offertorium]
@@ -53,7 +53,7 @@ Prosimy Cię, Panie, niech modlitwa św. Andrzeja, Apostoła, poleci Tobie nasz�
 $Per Dominum
 
 [Communio]
-!Matth 4:19-20
+!Mt 4:19-20
 Pójdźcie za mną, a sprawię, że staniecie się rybakami ludzi. A oni natychmiast opuściwszy sieci poszli za Panem.
 
 [Postcommunio]

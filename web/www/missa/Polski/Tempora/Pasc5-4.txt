@@ -17,7 +17,7 @@ Prefatio=Asc
 Wniebowstąpienie jest ukoronowaniem Zmartwychwstania. Pascha — przejście Pańskie osiąga w tej tajemnicy swój kres. Człowieczeństwo Zbawiciela otrzymuje najwyższą chwałę w nagrodę za doskonałe posłuszeństwo wobec Ojca. Wejście Chrystusa do nieba to wejście Arcykapłana Nowego Testamentu do świętego świętych «aby wstawiać się za nami». Wniebowstąpienie jest również triumfem ludzkości. Chrystus umieścił bowiem po prawicy Ojca ułomną ludzką naturę. «Gdyśmy byli umarłymi przez grzechy... (Bóg) wzbudził (nas) z martwych, dozwolił zasiadać na niebiosach w Chrystusie Jezusie» (Ef. 2, 5-6). Tajemnica Wniebowstąpienia dopełni się ostatecznie wówczas, gdy wejdą do nieba również członki Jego Mistycznego Ciała. Całe życie Kościoła jest przygotowaniem na dzień, w którym Chrystus wróci, aby wprowadzić odkupionych do chwały Ojca. Teksty Mszy św. wysławiają Wniebowstąpienie jako triumfalny pochód Zbawiciela. Modlitwy są wyrazem chrześcijańskiej nadziei.
 
 [Introitus]
-!Act 1:11
+!Dz 1:11
 v. Mężowie Galilejscy, czemu stoicie zapatrzeni w niebo? Alleluja. Jak widzieliście Go wstępującego do nieba, tak przyjdzie, alleluja, alleluja, alleluja.
 !Ps 46:2
 Wszystkie narody klaskajcie w dłonie, radosnym głosem wykrzykujcie Bogu.
@@ -30,7 +30,7 @@ $Per eundem
 
 [Lectio]
 Czytania z Dziejów Apostolskich
-!Act 1:1-11
+!Dz 1:1-11
 !x! Wstęp do księgi Dziejów Apostolskich to równocześnie wstęp do dziejów Kościoła. Z chwilą odejścia Zbawiciela rozpoczyna się posłannictwo Jego Kościoła, które jest przedłużeniem posłannictwa samego Chrystusa.
 W pierwszej księdze opowiedziałem, Teofilu, o wszystkim, co Jezus uczynił był i czego nauczał od początku, aż do dnia, w którym, gdy przez Ducha Świętego pouczył wybranych przez siebie Apostołów, wzięty był do nieba. Im też po swojej męce ukazał się jako żyjący, dając im tego liczne dowody, zjawiając się wobec nich przez dni czterdzieści i pouczając o Królestwie Bożym.
 A gdy zasiadł z nimi do stołu, przykazał im, aby nie odchodzili z Jerozolimy, ale oczekiwali obietnicy Ojca, o której słyszeliście — mówił — z ust moich, że ((mianowicie)) Jan bowiem chrzcił tylko wodą, a wy będziecie ochrzczeni Duchem Świętym po niewielu dniach. Ci więc, którzy się zebrali, zapytywali go: «Panie czy teraz odbudujesz królestwo Izraela?» Ale on odrzekł: «Nie należy to do was, abyście znali czas i chwile wybrane przez Ojca na mocy najwyższej jego władzy, ale otrzymacie moc Ducha Świętego, kiedy zstąpi na was i będziecie mi świadkami w Jerozolimie i w całej Judei, i Samarii, i aż po krańce ziemi». A gdy to powiedział w ich oczach uniósł się w górę i obłok osłonił Go przed ich wzrokiem. I gdy oni pilnie patrzyli za oddalającym się ku niebu, oto stanęli przy nich dwaj mężowie w białych szatach, którzy rzekli: «Mężowie galilejscy, czemu stoicie zapatrzeni w niebo? Ten Jezus, który spośród was wzięty jest do nieba, przyjdzie tak, jakoście go widzieli idącego do nieba».

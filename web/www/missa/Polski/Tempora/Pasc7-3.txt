@@ -36,7 +36,7 @@ $Qui tecum eiusdem
 
 [LectioL1]
 Czytanie z Dziejów Apostolskich.
-!Act 2:14-21
+!Dz 2:14-21
 W one dni: Powstawszy Piotr Wraz z jedenastoma podniósł głos swój i przemówił do nich: «Mężowie z Judei i wszyscy mieszkańcy Jerozolimy. Niechże wam będzie to wiadome i niech słowa moje dotrą do uszu waszych. Albowiem nie są oni, jak mniemacie, pijani, bo jest trzecia godzina dnia, ale tu się spełniło, co było zapowiedziane przez proroka Joela: I stanie się w ostateczne dni [mówi Pan]. Ześlę Ducha mojego na każdego człowieka, a synowie wasi, jak i córki wasze będą prorokować, młodzieńcy wasi widzenia mieć będą, a starcy wasi będą śnili we śnie. A także na sługi swoje i na służebnice swoje ześlę Ducha mojego w one dni i będą prorokowali. I uczynię cuda na niebie w górze i dziwy w dole, na ziemi krew i ogień, i kłęby dymu. Słońce zamieni się w ciemności, a księżyc – w krew, zanim nadejdzie dzień Pański wielki i jawny. I stanie się, że każdy zbawienia dostąpi, ktokolwiek imienia Pańskiego wzywać będzie».
 $Deo gratias
 
@@ -51,7 +51,7 @@ $Per Dominum eiusdem
 
 [Lectio]
 Czytanie z Dziejów Apostolskich.
-!Act 5:12-16
+!Dz 5:12-16
 W one dni: Przez ręce Apostołów działy się wśród ludu liczne znaki i cuda. I byli wszyscy razem w krużganku Salomonowym. Z innych zaś nikt nie śmiał do nich się przyłączyć, ale lud ich uwielbiał.
 Coraz bardziej wzrastała liczba wierzących w Pana mężów i niewiast, tak że na ulice wynoszono chorych i kładziono na łożach i noszach, aby za nadejściem Piotra przynajmniej cień jego padł na którego z nich, aby zostali uwolnieni od niemocy swoich. A zbiegało się do Jeruzalem wielu z sąsiednich miast, przynosząc chorych i dręczonych przez duchy nieczyste, i wszyscy byli uzdrowieni.
 
@@ -64,7 +64,7 @@ V. (Tu się przyklęka) Przyjdź, Duchu Święty, napełnij serca Twych wiernych
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Jana.
-!Joann 6:44-52
+!J 6:44-52
 Onego czasu: Mówił Jezus rzeszom żydowskim: «Nikt nie może przyjść do mnie, jeśli go nie pociągnie Ojciec, który mię posłał; a ja go wskrzeszę w dzień ostateczny. Jest napisane u Proroków: I będą wszyscy uczniami Bożymi. Każdy, kto usłyszał od Ojca i nauczył się, przychodzi do mnie. Nie jakoby Ojca kto widział, bo tylko ten, który jest od Boga, ten widział Ojca. Zaprawdę, zaprawdę powiadam wam: Kto wierzy we mnie, ma żywot wieczny.
 Jam jest chleb żywota. Ojcowie wasi pożywali mannę na pustyni i pomarli. A ten jest chleb, który z nieba zstępuje, aby każdy, który go spożywać będzie, nie umarł. Jam jest chleb żywy, który z nieba zstąpił; jeśliby kto pożywał tego chleba, żyć będzie na wieki, a chlebem, który ja mu dam, jest ciało moje za życie świata».
 
@@ -77,7 +77,7 @@ Prosimy Cię, Panie, przyjmij złożony dar ofiarny i spraw łaskawie, abyśmy z
 $Per Dominum.
 
 [Communio]
-!Joann 14:27
+!J 14:27
 Pokój zostawiam wam, alleluja: pokój mój daję wam, alleluja, alleluja.
 
 [Postcommunio]

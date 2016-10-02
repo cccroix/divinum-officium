@@ -22,7 +22,7 @@ $Per Dominum
 
 [Lectio]
 Czytanie z Listu świętego Pawła Apostoła do Koryntian.
-!1 Cor 12:27-31
+!1 Kor 12:27-31
 Bracia: Wy jesteście ciałem Chrystusowym, jedni drugich członkami. I niektórych ustanowił Bóg w Kościele: najpierw Apostołów, potem Proroków, po trzecie Nauczycieli, innym dał moc i dary uzdrawiania, posługiwania, rządzenia, mówienia językami i tłumaczenia mów. Czy wszyscy są Apostołami? Czy wszyscy Prorokami? Czy wszyscy Nauczycielami? Czy wszyscy mają niezwykłą moc? Czy wszyscy mają dar uzdrawiania? Czy wszyscy mówią językami? Czy Wszyscy tłumaczą? Ale wy ubiegajcie się o lepsze dary.
 
 [Graduale]
@@ -33,7 +33,7 @@ V. Ciebie, Panie, wychwala przesławny chór Apostołów. Alleluja.
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Łukasza.
-!Luc 6:12-19
+!Łk 6:12-19
 Onego czasu: Odszedł Jezus na górę modlić się i spędził noc na modlitwie Bożej. A skoro nastał dzień, przywołał uczniów swoich i wybrał spośród nich dwunastu, których też nazwał Apostołami: Szymona, którego też nazwał Piotrem, i Andrzeja, brata jego, Jakuba i Jana, Filipa i Bartłomieja, Mateusza i Tomasza, Jakuba Alfeuszowego i Szymona, którego zowią Zelotą, Judę Jakubowego i Judasza Iszkariotę, który był zdrajcą. A gdy z nimi zeszedł, stanął na równinie wraz z rzeszą swych uczniów i wielkim mnóstwem ludu z całej Judei i Jerozolimy, znad morza, Tyru i Sydonu, którzy przybyli, aby Go słuchali i byli uzdrowieni z niemocy swoich. Także i dręczeni przez duchy nieczyste uzdrawiani byli. A cała rzesza pragnęła się Go dotknąć, albowiem wychodziła zeń moc, i uzdrawiała wszystkich.
 
 [Offertorium]
@@ -45,7 +45,7 @@ Obchodząc uroczystość świętego Bartłomieja, Twojego Apostoła, prosimy Ci�
 $Per Dominum
 
 [Communio]
-!Matth 19:28
+!Mt 19:28
 Wy, którzyście poszli za mną, zasiądziecie na stolicach, sądząc dwanaście pokoleń Izraela, mówi Pan.
 
 [Postcommunio]

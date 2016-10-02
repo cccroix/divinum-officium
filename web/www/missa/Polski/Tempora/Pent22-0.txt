@@ -27,7 +27,7 @@ $Per Dominum
 
 [Lectio]
 Czytanie z Listu świętego Pawła Apostoła do Filipian.
-!Phil 1:6-11
+!Flp 1:6-11
 Bracia: Ufamy, w Panu Jezusie, że Ten, który rozpoczął w was dobrą sprawę, dokona jej aż do dnia Chrystusa Jezusa. Jakże to słuszne, abym tak sądził o was, bo przecież noszę was w sercu, a wy wszyscy współuczestnikami radości mojej jesteście i w więzach moich, i w obronie, i w umacnianiu Ewangelii. Albowiem świadkiem mi jest Bóg, jak pragnę, abyście wszyscy byli w sercu Jezusa Chrystusa. A modlę się o to, aby miłość wasza pomnażała się nieustannie w umiejętności i we wszelkim zrozumieniu, abyście umieli rozeznać, co ważniejsze, a byli szczerzy i bez skazy na dzień Chrystusowy, napełnieni plonem sprawiedliwości przez Jezusa Chrystusa ku czci i chwale Bożej.
 
 [Graduale]
@@ -40,11 +40,11 @@ Którzy się Pana boją, niechaj Mu ufają. On jest ich obrońcą i wspomożycie
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Mateusza.
-!Matth 22:15-21
+!Mt 22:15-21
 Onego czasu: Faryzeusze odszedłszy naradzali się, jakby Go pochwycić w mowie. I wysyłali do niego uczniów swoich z herodianami, mówiąc: «Nauczycielu, wiemy, żeś prawdomówny i drogi Bożej w prawdzie nauczasz i nie dbasz o nikogo, bo nie oglądasz się na osobę ludzką. Powiedzże nam tedy, co się tobie zdaje: Godzili się płacić daninę cesarzowi, czy też nie?» A Jezus, poznawszy ich przewrotność, rzekł: «Czemu mnie kusicie obłudnicy? Pokażcie mi monetę czynszową». A oni podali Mu denar. I rzekł im Jezus: «Czyj to wizerunek i napis?» Mówią Mu: «Cesarski». Wtedy powiedział im: «Oddajcież tedy, co jest cesarskiego, cesarzowi, a co jest Bożego, Bogu».
 
 [Offertorium]
-!Esth 14:12; 14:13
+!Est 14:12; 14:13
 Wspomnij na mnie, o Panie, któremu wszelka zwierzchność podlega. Włóż w moje usta mowę właściwą, aby się podobały słowa moje w obliczu króla.
 
 [Secreta]

@@ -26,7 +26,7 @@ $Per Dominum
 
 [Lectio]
 Czytanie z Listu świętego Pawła Apostoła do Tesaloniczan.
-!1 Thess 1:2-10
+!1 Tes 1:2-10
 Bracia: Dzięki składamy Bogu zawsze za was wszystkich, wspominając was nieustannie w modlitwach naszych i pamiętając przed Bogiem i Ojcem naszym o dziele waszej wiary i wysiłku miłości, i wytrwaniu w nadziei Pana naszego Jezusa Chrystusa. A wiemy też, umiłowani przez Boga bracia, i o wybraniu waszym, bo głosiliśmy wam Ewangelię nie tylko słowem, ale też z mocą i z Duchem Świętym, i z wielką pełnością. A sami to wiecie, jakimi byliśmy dla was, przebywając wśród was. Wy też staliście się naśladowcami naszymi i Pańskimi, przyjąwszy naukę w wielkim ucisku z weselem Ducha Świętego, tak że staliście się wzorem dla wszystkich wiernych w Macedonii i w Achai. Od was bowiem rozniosło się słowo Pańskie nie tylko po Macedonii i po Achai, ale wiara w Boga dotarła wszędzie, tak, że nam nawet mówić o tym nie trzeba. Bo sami oni głoszą o nas, jakiegośmy doznali u was przyjęcia i jakeście się nawrócili do Boga od bożków, abyście służyli Bogu żywemu i prawdziwemu i oczekiwali Syna Jego z niebios ((którego wzbudził z martwych)), Jezusa, który nas wybawił od mającego nadejść gniewu.
 
 [Graduale]
@@ -38,7 +38,7 @@ Pan króluje, wesel się ziemio, radujcie się mnogie wyspy. Alleluja.
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Mateusza.
-!Matth 13:31-35
+!Mt 13:31-35
 Onego czasu: Powiedział Jezus rzeszom tę przypowieść: «Podobne jest Królestwo Niebieskie ziarnu gorczycznemu, które wziąwszy człowiek posiał na roli swojej. Acz najmniejsze ze wszystkiego nasienia, gdy jednak wzrośnie, jest większe od wszystkich krzewów. Staje się drzewem, tak że ptaki niebieskie nadlatują i mieszkają w gałęziach jego». Inną przypowieść powiedział im: «Podobne jest Królestwo Niebieskie do kwasu, który wziąwszy skryła niewiasta w trzy miary mąki, aż zakwasiło się wszystko». To wszystko mówił Jezus do rzesz w przypowieściach, a bez przypowieści nie mówił do nich. Aby się wypełniło, co jest powiedziane przez Proroka, mówiącego: «Otworzę usta moje w przypowieściach. Wypowiadać będę rzeczy skryte od założenia świata».
 
 [Offertorium]
@@ -50,7 +50,7 @@ Prosimy Cię, Boże, niech nas ta ofiara oczyści i odnowi, prowadzi i ochrania.
 $Per Dominum
 
 [Communio]
-!Luc 4:22
+!Łk 4:22
 Dziwili się wszyscy słowom, które wychodziły z ust Bożych.
 
 [Postcommunio]

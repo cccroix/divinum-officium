@@ -22,9 +22,9 @@ W czasie ofiarowania Pana Jezusa w świątyni starzec Symeon przepowiedział Mar
 Święto Siedmiu Boleści Najświętszej Maryi Panny wprowadził w XVII wieku zakon Serwitów. W roku 1814 Pius VII rozszerzył je na cały Kościół.
 
 [Introitus]
-!Joann 19:25
+!J 19:25
 v. Pod krzyżem Jezusowym stały Matka Jego i siostra Matki Jego, Maria Kleofasowa i Salome, oraz Maria Magdalena.
-!Joann 19:26-27
+!J 19:26-27
 Niewiasto, oto syn Twój, rzekł Jezus, a potem uczniowi: Oto Matka twoja.
 &Gloria
 v. Pod krzyżem Jezusowym stały Matka Jego i siostra Matki Jego, Maria Kleofasowa i Salome, oraz Maria Magdalena.
@@ -40,7 +40,7 @@ $Per Dominum
 
 [Lectio]
 Czytanie z Księgi Judyty.
-!Judith 13:22; 13:23-25
+!Jdt 13:22; 13:23-25
 Pobłogosławił Cię Pan w mocy swojej, bo przez Cię wniwecz obrócił naszych nieprzyjaciół. Błogosławionaś Ty, Córko, przez Pana Boga wysokiego nad wszystkie niewiasty na ziemi. Błogosławiony Pan, który stworzył niebo i ziemię… Bo dziś imię Twe tak wsławił, iż chwała Twa nigdy nie zejdzie z ust ludzi, którzy pomni będą na wieki mocy Pańskiej. Dla nich to samej siebie nie szczędziłaś z powodu utrapienia i udręki rodu Twojego, lecz zapobiegłaś upadkowi przed obliczem Boga naszego.
 
 [Graduale]
@@ -132,11 +132,11 @@ Amen.
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Jana.
-!Joann 19:25-27
+!J 19:25-27
 Onego czasu: Pod krzyżem Jezusowym stała Matka Jego i siostra Matki Jego, Maria Kleofasowa, oraz Maria Magdalena. Gdy więc Jezus ujrzał Matkę i ucznia, którego miłował, stojącego obok, rzekł do Matki swojej: «Niewiasto, oto syn Twój!» Potem rzekł uczniowi: «Oto Matka twoja!» I od onej godziny wziął ją uczeń pod swoją opiekę.
 
 [Offertorium]
-!Jerem 18:20
+!Jer 18:20
 Pamiętaj o nas, Matko Dziewico, przed obliczem Boga, abyś prosiła o dobra dla nas i aby od nas odwrócił swój gniew.
 
 [Secreta]

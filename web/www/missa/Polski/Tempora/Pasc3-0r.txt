@@ -26,7 +26,7 @@ $Per Dominum
 
 [Lectio]
 Czytanie z Listu świętego Piotra Apostoła.
-!1 Petri 2:11-19 
+!1 P 2:11-19 
 Najmilsi: Proszę was, abyście jako przychodnie i goście powstrzymywali się od pożądliwości cielesnych, walczących przeciw duchowi. Zachowujcie się dostojnie obcując z poganami, aby za to, że was spotwarzają jako złoczyńców, gdy przejrzą w dzień nawiedzenia, chwalili Boga dzięki waszym dobrym uczynkom.
 Bądźcież tedy poddani każdej ludzkiej władzy ze względu na Boga: czy to królowi jako najwyższemu zwierzchnikowi, czy namiestnikom jako posłanym przezeń ku pomście złoczyńców, a ku chwale dobrych. Bo taka jest wola Boża, abyście dobrymi uczynkami zamknęli usta głupocie ludzi nierozsądnych jako wolni, ale nie tacy, którzy wolności używają na pokrywkę zła, lecz jako słudzy Boga. Wszystkich szanujcie. Braci miłujcie. Boga się lękajcie. Króla czcijcie. Słudzy, bądźcie poddani panom z wielką bojaźnią, nie tylko dobrym i skromnym, ale też i przykrym. Bo to jest łaską w Chrystusie Jezusie, Panu naszym.
 
@@ -34,12 +34,12 @@ Bądźcież tedy poddani każdej ludzkiej władzy ze względu na Boga: czy to kr
 Alleluja, alleluja
 !Ps 110:9
 Pan zesłał odkupienie swojemu ludowi. Alleluja.
-!Luc 24:46
+!Łk 24:46
 Trzeba było, aby Chrystus cierpiał i zmartwychwstał dnia trzeciego i tak wszedł do swojej chwały. Alleluja.
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Jana.
-!Joann 16:16-22
+!J 16:16-22
 Onego czasu rzekł Jezus uczniom swoim: «Już niedługo, a nie będziecie mnie oglądać, i znowu niedługo, a ujrzycie mnie: bo idę do Ojca». Mówili tedy niektórzy z uczniów Jego między sobą: «Cóż to ma znaczyć, co mówi do nas: Niedługo, a oglądać mnie nie będziecie, i znowu niedługo, a ujrzycie mnie, oraz że idę do Ojca». Mówili tedy: «Co może oznaczać „niedługo”? Nie wiemy, o czym mówi».
 I poznał Jezus, że zapytać Go chcieli, i rzekł im: «O to pytacie się między sobą, żem powiedział: Niedługo, a oglądać mnie nie będziecie i znowu niedługo, a ujrzycie mnie. Zaprawdę, zaprawdę powiadam wam, że będziecie płakać i narzekać, a świat się będzie weselił. A wy smucić się będziecie, ale smutek wasz w radość się zamieni. Niewiasta, gdy rodzi, boleje, bo nadeszła jej godzina, ale gdy porodzi dziecię, już nie pamięta swego ucisku z radości, że się człowiek na świat narodził. Tak i wy: teraz się wprawdzie smucicie, ale znowu was zobaczę i będzie się radowało serce wasze, a radości waszej nikt wam nie odbierze».
 
@@ -52,7 +52,7 @@ Panie, przez te misteria udziel nam pomocy abyśmy poskramiali ziemskie pragnien
 $Per Dominum
 
 [Communio]
-!Joann 16:16
+!J 16:16
 Już niedługo, a nie będziecie Mnie oglądać, alleluja; i znowu niedługo, a ujrzycie Mnie, bo idę do Ojca, alleluja, alleluja.
 
 [Postcommunio]

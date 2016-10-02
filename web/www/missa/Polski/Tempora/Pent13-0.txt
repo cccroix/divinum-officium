@@ -27,7 +27,7 @@ $Per Dominum
 
 [Lectio]
 Czytanie z Listu świętego Pawła Apostoła do Galatów.
-!Gal 3:16-22
+!Ga 3:16-22
 !x! Żydzi, zwłaszcza faryzeusze, wierzyli, że osiągną zbawienie dzięki drobiazgowemu przestrzeganiu Prawa Mojżeszowego, natomiast św. Paweł zwraca uwagę, że nie obala ono obietnicy danej kilkaset lat wcześniej. Prawo Mojżeszowe było środkiem podtrzymania prawdziwej religii aż do nadejścia Mesjasza. Gdy obietnice dane Abrahamowi zostały spełnione w potomku Abrahama, to jest w Chrystusie, Stare Przymierze straciło moc obowiązującą. Zbawienie osiąga się przez wiarę w Jezusa Chrystusa i życie według Jego Ewangelii.
 Bracia: Obietnice były dane Abrahamowi i potomstwu jego. Nie powiedziano: I potomkom, jakoby mowa była o wielu, ale jak gdyby o jednym: I potomkowi twemu, którym jest Chrystus.
 Powiadam tedy: Testamentu potwierdzonego przez Boga nie może obalić Zakon dany w czteryta trzydzieści lat później, żeby obietnica stała się próżna. Albowiem jeżeli dziedzictwo dane było na mocy Zakonu, to już nie z obietnicy. A jednak Abrahamowi przez obietnicę Bóg udzielił daru łaski.
@@ -43,7 +43,7 @@ Panie, Tyś był ucieczką naszą z pokolenia na pokolenie. Alleluja.
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Łukasza.
-!Luc 17:11-19
+!Łk 17:11-19
 !x! Zbawiciel uzdrawiał Żydów i Samarytan, którzy weń wierzyli. Jego Kościół nadal niesie zbawienie wszystkim, którzy wierzą w Chrystusa.
 Onego czasu: Gdy Jezus zdążał do Jeruzalem, przechodził środkiem Samarii i Galilei. A gdy wchodził do niektórej osady, zabiegło mu drogę dziesięciu mężów trędowatych, którzy stanęli z daleka i zawołali mówiąc: «Jezusie, nauczycielu, zmiłuj się nad nami!» A ujrzawszy ich rzekł: «Idźcie, ukażcie się kapłanom». I stało się, gdy szli, że byli oczyszczeni.
 A jeden z nich, skoro zobaczył, że był uzdrowiony, wrócił się, głosem wielkim wielbiąc Boga, i padł na oblicze do stóp Jego, dziękując: a był to Samarytanin. A Jezus odpowiadając rzekł: «Czyż nie dziesięciu było oczyszczonych? Gdzie jest dziewięciu? Nie znalazł się nikt, kto by wrócił i dał chwałę Bogu, jeno ten cudzoziemiec». I rzekł mu: «Wstań, idź, bo wiara twoja uzdrowiła cię».

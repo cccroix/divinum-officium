@@ -33,7 +33,7 @@ $Per Dominum
 
 [Lectio]
 Czytanie z Księgi proroka Ezechiela.
-!Ezech 18:20-28
+!Ez 18:20-28
 To mówi Pan Bóg: Człowiek, który zgrzeszy, sam śmierć poniesie: syn nie poniesie nieprawości ojca, a ojciec nie poniesie nieprawości syna. Sprawiedliwość sprawiedliwego będzie jego własnością, a niezbożność niezbożnego będzie jego własnością. Jeśli zaś niezbożny za wszystkie grzechy swe, jakie popełnił, będzie czynił pokutę, a strzec będzie wszystkich mych przykazań, a postępować będzie według sądu i sprawiedliwości: z pewnością żyć będzie, a nie umrze. Nie będę pomny na wszystkie nieprawości jego, jakie popełnił dzięki sprawiedliwości swej, jakiej dokonał, żyć będzie. Czyż chcę śmierci grzesznika, mówi Pan Bóg, a nie raczej, ażeby od dróg swych nawrócił się, a żył?
 Jeśli zaś sprawiedliwy odwróci się od swej sprawiedliwości, a będzie czynił nieprawość podług wszystkich obrzydliwości, jakie zwykł czynić niezbożny – czyż będzie żył? Wszystkie jego czyny sprawiedliwe, jakie zdziałał, nie będą wspomniane; przez sprzeniewierzenie, którego dokonał, i przez grzech, który popełnił, przez nie umrze.
 I powiedzieliście: «Droga Pańska nie jest słuszna». Słuchajcie więc, domu izraelski: Czyż moja droga nie jest słuszna, czy raczej nie wasze to drogi są przewrotne? Gdy bowiem odwróci się sprawiedliwy od sprawiedliwości i czynić będzie nieprawość, umrze przez nie: przez niesprawiedliwość, którą popełnił, umrze. I gdy odwróci się niezbożny od niezbożności, którą popełnił, a postępować będzie według sądu i sprawiedliwości, sam sobie życie zapewni. Rozważywszy bowiem, a odwróciwszy się od wszystkich nieprawości swych, jakie popełnił, żyć będzie na pewno, a nie umrze, mówi Pan wszechmogący.
@@ -47,7 +47,7 @@ _
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Jana.
-!Joann 5:1-15
+!J 5:1-15
 !x! Paralityk oczekujący uzdrowienia od 38 lat to obraz nałogowego grzesznika, który nie znajduje w sobie siły do poprawy.
 Onego czasu. Było święto żydowskie i przyszedł Jezus do Jerozolimy. A jest w Jerozolimie sadzawka owcza, po hebrajsku zwana Betsajda, mająca pięć krużganków. W nich to leżało wielkie mnóstwo chorych, ślepych, chromych, paralityków, czekających poruszenia wody. A Anioł Pański zstępował od czasu do czasu do sadzawki i poruszała się woda. I kto pierwszy wszedł do sadzawki po poruszeniu wody, stawał się zdrowym, jakąkolwiek byłby zdjęty niemocą.
 A był tam człowiek pewien złożony chorobą od lat trzydziestu ośmiu. I gdy Jezus ujrzał go leżącego i poznał, że już przez długi czas choruje, rzekł do niego: «Czy chcesz być zdrowym?» Odpowiedział Mu chory: «Panie, nie mam nikogo, kto by zanurzył mię w sadzawce, kiedy porusza się woda. Bo zanim ja dojdę, inny przede mną wstępuje». Rzekł mu Jezus: «Wstań, weźmij łoże twe i chodź». I natychmiast stał się zdrowym ów człowiek, i wziął łoże swoje, i chodził.

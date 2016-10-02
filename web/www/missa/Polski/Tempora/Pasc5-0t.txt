@@ -13,7 +13,7 @@ Suffr=Maria3;Ecclesiae,Papa;;
 Zmartwychwstanie i Wniebowstąpienie to dwa etapy jednego misterium. Przy końcu Okresu Wielkanocnego słyszymy z ust Zbawiciela streszczenie całego Jego życia. «Wyszedłem od Ojca i przyszedłem na świat, znowu opuszczam świat i idę do Ojca» (Alleluja, ewangelia). Podobnie jak Chrystus, zostaliśmy wybawieni od śmierci (antyfona na wejście, antyfona na ofiarowanie) dążymy do Ojca (sekreta). Życie ziemskie to czas próby, w którym mamy czynami udowadniać naszą miłość ku Ojcu niebieskiemu (lekcja). Modlitwa zanoszona w imię Jezusa zapewni nam pomoc łaski Bożej.
 
 [Introitus]
-!Isai 48:20
+!Iz 48:20
 v. Radosną nowinę głoście, niech będzie słyszana, alleluja, po krańce ziemi rozpowiadajcie, iż Pan swój naród wyzwolił, alleluja, alleluja.
 !Ps 65:1-2
 Z radością sławcie Boga wszystkie ziemie, opiewajcie chwałę Jego imienia, cześć Jemu świetną oddajcie.
@@ -26,18 +26,18 @@ $Per Dominum.
 
 [Lectio]
 Czytanie z Listu świętego Jakuba Apostoła.
-!Joann 1:22-27
+!Jk 1:22-27
 Najmilsi: Bądźcie wykonawcami słowa, a nie tylko słuchaczami, oszukującymi samych siebie. Bo jeśli kto słucha słowa, a nie wypełnia go, podobnym będzie do człowieka przypatrującego się naturalnemu swemu obliczu w zwierciadle, gdyż przypatrzył się sobie i odszedł, a niebawem zapomniał, jaki był. Kto zaś wniknął we wzniosłe prawo wolności i wytrwał w nim, stał się nie tylko zapominającym słuchaczem, ale wykonawcą dzieła: ten będzie błogosławiony dla czynu swego. A jeśli kto mniema, że jest pobożny nie powściągając języka swego, lecz zwodząc serce swoje, tego pobożność próżna jest. Czystą i nieskalaną pobożnością wobec Boga i Ojca jest nawiedzanie sierot i wdów w utrapieniach ich i strzeżenie samego siebie od zmazy tego świata.
 
 [Graduale]
 Alleluja, alleluja
 V. Powstał Chrystus z martwych i zajaśniał nam, których Krwią swoją odkupił. Alleluja.
-!Joann 16:28
+!J 16:28
 Wyszedłem od Ojca i przyszedłem na świat, znowu opuszczam świat i idę do Ojca, alleluja.
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Jana.
-!Joann 16:23-30
+!J 16:23-30
 !x! Związek chrześcijan z Chrystusem jest tak ścisły, że ich modlitwy tworzą jedno z Jego modlitwą, a Ojciec niebieski kocha ich i wysłuchuje tak jak swego Syna.
 Onego czasu: Rzekł Jezus uczniom swoim: «Zaprawdę, zaprawdę powiadam wam: Jeśli o co prosić będziecie Ojca w imię moje, da wam. Dotychczas o nic nie prosiliście w imię moje; proście, a otrzymacie, aby radość wasza była pełna. To wam mówiłem w przypowieściach. Nadchodzi godzina, gdy już nie w przypowieściach mówić wam będę, ale jawnie o Ojcu oznajmię wam. W on dzień w imię moje prosić będziecie, i nie mówię wam, że ja będę prosił Ojca za wami, sam bowiem Ojciec miłuje was, boście wy mnie umiłowali i uwierzyliście, że od Boga wyszedłem. Wyszedłem od Ojca i przyszedłem na świat, znowu opuszczam świat i idę do Ojca». 
 Rzekli Mu uczniowie Jego: «Oto teraz jawnie mówisz i żadnej przypowieści nie powiadasz. Teraz wiemy, że wszystko wiesz i nie potrzebujesz, żeby Cię kto pytał; dlatego wierzymy, że od Boga wyszedłeś».

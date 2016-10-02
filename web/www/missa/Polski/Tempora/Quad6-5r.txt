@@ -31,12 +31,12 @@ _
 !! Część Pierwsza: Czytania
 ! Celebrans udaje się do ławki, wierni podnoszą się, siadają i słuchają lekcji, którą czyta lektor lub sam celebrans.
 ! 1 Lekcja
-!Osee 6:1-6
-To mówi Pan: W utrapieniu swoim będą mnie szukać: Pójdźcie! Wróćmy do Pana; On rozszarpał, On nas uleczy; On uderzył, On zawiąże nasze rany. Ożywi nas po dwóch dniach, dnia trzeciego wzbudzi nas, i żyć będziemy przed obliczem Jego. Poznajmy tedy, pobiegnijmy, aby poznać Pana!Jacob jutrzenka jest pewne Jego przyjście. I przyjdzie do nas jak deszcz, jak późny deszcz, który ziemię orzeźwia. Cóż mam ci uczynić, Efraimie? Cóż mam ci uczynić, Judo? Bo miłość wasza jest jak mgła poranna i jako rosa, która prędko znika. Dlatego to ciosałem przez Proroków i zabijałem słowami mych ust, a sąd mój wschodzi jak światło. Miłości chcę, a nie krwawej ofiary, znajomości Boga więcej niż całopaleń.
+!Oz 6:1-6
+To mówi Pan: W utrapieniu swoim będą mnie szukać: Pójdźcie! Wróćmy do Pana; On rozszarpał, On nas uleczy; On uderzył, On zawiąże nasze rany. Ożywi nas po dwóch dniach, dnia trzeciego wzbudzi nas, i żyć będziemy przed obliczem Jego. Poznajmy tedy, pobiegnijmy, aby poznać Pana! Jak jutrzenka jest pewne Jego przyjście. I przyjdzie do nas jak deszcz, jak późny deszcz, który ziemię orzeźwia. Cóż mam ci uczynić, Efraimie? Cóż mam ci uczynić, Judo? Bo miłość wasza jest jak mgła poranna i jako rosa, która prędko znika. Dlatego to ciosałem przez Proroków i zabijałem słowami mych ust, a sąd mój wschodzi jak światło. Miłości chcę, a nie krwawej ofiary, znajomości Boga więcej niż całopaleń.
 
 _
 !Responsorium
-!Hab 3,2-3
+! Hab 3,2-3
 !x! Prorok ogląda w duchu wybawienie Izraela. Dokona się ono, gdy nadejdzie «pełnia czasów». Bóg okaże się jako miłosierny Odkupiciel, lecz również jako sprawiedliwy Sędzia.
 v. Panie, słyszałem zapowiedź Twoją i uląkłem się: ujrzałem w duchu dzieła Twoje i zadrżałem.
 V. Między dwoma zwierzętami ukażesz się, gdy przyjdą lata, dasz się poznać, gdy nadejdzie pora, objawisz się.
@@ -55,7 +55,7 @@ _
 _
 ! Po kolejcie wszyscy siadają i słuchają drugiej lekcji.
 ! 2 Lekcja 
-!Ex 12:1-11
+!Wj 12:1-11
 W one dni: Rzekł Pan do Mojżesza i Aarona w ziemi egipskiej: Miesiąc ten jako początek miesięcy będzie dla was pierwszy wśród miesięcy roku. Mówcie do wszystkiego zgromadzenia synów Izraela i rzeczcie im: Dziesiątego dnia tego miesiąca niechaj każdy dla rodziny i domu swego weźmie baranka. Jeśli zaś mniejsza jest liczba, niż to wystarcza do spożycia baranka, niech weźmie sąsiada swego, co obok jego domu mieszka, ze względu na liczbę ludzi wystarczającą do spożycia baranka. Baranek zaś będzie bez skazy, samczyk, jednoroczny; według tegoż przepisu weźmiecie też kozła. I zachowacie go aż do dnia czternastego tego miesiąca, i ofiaruje go pod wieczór całe zgromadzenie synów Izraela. I wezmą krew jego, i pomażą podwoje i górne belki drzwi w domach, gdzie będą go pożywać. I nocy tej będą jeść mięso na ogniu upieczone i chleb przaśny z sałatą. Nie będziecie zeń nic surowego pożywać ani w wodzie ugotowanego, lecz wszystko upieczone na ogniu; spożyjecie głowę jego wraz z nogami i wnętrznościami. I nic zeń nie pozostanie aż do ranka. Jeśliby co zostało, spalicie ogniem. W ten sposób będziecie go spożywać: przepaszecie biodra wasze i będziecie mieli obuwie na nogach, trzymając laski w rękach, a spożywać będziecie spiesznie: jest to bowiem Phase [to znaczy Przejście] Pańskie.
 _
 !Responsorium
@@ -78,8 +78,8 @@ _
 S. Pan niech będzie w waszych sercach i na ustach waszych.
 R. Amen.
 Pasja Pana naszego Jezusa Chrystusa według Jana.
-!Joann 18:1-40; 19:1-42
-!x!Joann = słowa Chrystusa; C = opowiadanie Ewangelisty; S = słowa innych osób.
+!J 18:1-40; 19:1-42
+!x! J = słowa Chrystusa; C = opowiadanie Ewangelisty; S = słowa innych osób.
 Onego czasu: Wyszedł Jezus z uczniami swymi za potok Cedron, gdzie był ogród, do którego wszedł sam i uczniowie Jego. Ale i Judasz, który Go wydał, znał to miejsce, bo Jezus schodził się tam często z uczniami swymi. Judasz tedy zabrawszy kohortę, a od przedniejszych kapłanów i faryzeuszów służbę, przyszedł tam z latarniami, pochodniami i bronią. A Jezus, wiedząc wszystko, co na Niego przyjść miało, wystąpił naprzód i zapytał ich: J. Kogo szukacie? C. Odpowiedzieli Mu: S. Jezusa Nazareńskiego. C. Rzecze im Jezus: J. Jam jest. C. A stał też z nimi i Judasz, który Go wydał. Skoro im przeto rzekł: Jam jest, cofnęli się wstecz i padli na ziemię. Spytał ich tedy znowu: J. Kogo szukacie? C. A oni powiedzieli: S. Jezusa Nazareńskiego. C. Odpowiedział Jezus: J. Powiedziałem wam, że to ja jestem, jeśli tedy mnie szukacie, dopuśćcie tym odejść. C. A to, aby się wypełniło Słowo, które był wyrzekł: Nie utraciłem żadnego z tych, których mi dałeś.
 Tedy Szymon Piotr, mając miecz, dobył go i uderzył sługę najwyższego kapłana, odcinając mu prawe ucho. Słudze temu było na imię Malchus. Rzekł tedy Jezus Piotrowi: J. Schowaj miecz twój do pochwy. Czyż mam nie pić kielicha, który mi dał Ojciec? C. Kohorta tedy i trybun, słudzy żydowscy pojmali Jezusa i związali Go.
 I przyprowadzili Go naprzód do Annasza, bo był teściem Kajfasza, który był najwyższym kapłanem roku tego. Kajfasz to właśnie dał był radę żydom, że lepiej, aby jeden człowiek umarł za naród. A szedł za Jezusem Szymon Piotr drugi uczeń. A uczeń ten znany był najwyższemu kapłanowi i wszedł z Jezusem na dziedziniec najwyższego kapłana. Piotr zaś został na zewnątrz, przy wejściu. Wyszedł tedy drugi uczeń, który był znany najwyższemu kapłanowi, pomówił z odźwierną i wprowadził Piotra. Mówi tedy do Piotra służąca odźwierna: S. Czy i ty jesteś spośród uczniów tego człowieka? C. A on mówi: S. Nie jestem. C. I stała czeladź i słudzy przy węglach żarzących się, bo zimno było i grzali się. A był z nimi i Piotr, stojąc i grzejąc się.
@@ -251,7 +251,7 @@ V. Ludu mój, ludu, cóżem ci uczynił lub czym cię zasmuciłem, odpowiedz mi.
 ! Po czym śpiewa się następującą antyfonę:
 ! Antyfona
 Ant. Wielbimy Krzyż Twój, Panie: chwalimy i wysławiamy Twoje święte Zmartwychwstanie: przez to drzewo bowiem przyszła radość na cały świat.
-!Ps 66,2
+! Ps 66,2
 Niech Bóg się zmiłuje nad nami i nam błogosławi: niech nam ukaże pogodne oblicze i zmiłuje się nad nami.
 Ant. Wielbimy Krzyż Twój, Panie: chwalimy i wysławiamy Twoje święte Zmartwychwstanie: przez to drzewo bowiem przyszła radość na cały świat.
 _

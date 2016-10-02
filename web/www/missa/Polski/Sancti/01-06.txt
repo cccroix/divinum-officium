@@ -20,7 +20,7 @@ Domy chrześcijańskie również otwierają się w tym czasie na przybycie wielk
 W niektórych kościołach w wigilię Objawienia Pańskiego poświęca się uroczyście wodę na pamiątkę chrztu Pana Jezusa w Jordanie. Obrzęd ten pochodzi z Kościoła Wschodniego, w którym udzielano w to święto Chrztu świętego, podobnie jak na Wielkanoc.
 
 [Introitus]
-!Malach 3:1; 1 Krn 29:12
+!Ml 3:1; 1 Krn 29:12
 v. Oto już nadszedł Władca najwyższy: a w ręku Jego królewska władza i moc i rządy świata.
 !Ps 71:1
 Boże, przekaż swą władzę Królowi i sądy swoje temuż potomkowi Króla.
@@ -33,19 +33,19 @@ $Per eundem
 
 [Lectio]
 Czytanie z Księgi proroka Izajasza.
-!Isai 60:1-6
+!Iz 60:1-6
 !x!Jerozolima jest typem Kościoła katolickiego, do którego garną się wszystkie narody, otrzymując światło prawdziwej wiary.
 Powstań, Jeruzalem, i rozbłyśnij jasnością, bo przybywa światłość twoja i chwała Pańska wzeszła nad tobą. Bo oto ciemności okryją ziemię i mrok narody, nad tobą zaś wzejdzie Pan i ujrzą w tobie Jego chwałę. I będą poganie chodzić w świetle twoim, a królowie w blasku twego wschodu. Podnieś wokoło twe oczy, a oglądaj: wszyscy ci zgromadzili się, do ciebie przybyli. Synowie twoi z daleka przybędą, a córki twoje z boku powstaną. Wtedy ujrzysz i promieniować będziesz radością. Zadziwi się i rozszerzy twe serce, gdy zwróci się ku tobie bogactwo morza, moc pogan do ciebie przybędzie. Niby potop przykryje cię mnóstwo wielbłądów, dromaderów z Madianu i Efy. Wszyscy z Saby przybędą, przynosząc złoto i kadzidło i głosząc chwałę Panu.
 
 [Graduale]
-!Isai 60:6; 60:1
+!Iz 60:6; 60:1
 Wszyscy ze Saby przyjdą, złoto i kadzidło przynosząc i chwałę Pańską rozgłaszając. Powstań, Jeruzalem i zajaśniej: bo chwała Pańska wzeszła nad tobą. Alleluja, alleluja.
-!Matth 2:2
+!Mt 2:2
 Ujrzeliśmy gwiazdę Jego na wschodzie i przybyliśmy z darami pokłonić się Panu. Alleluja.
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Mateusza.
-!Matth 2:1-12
+!Mt 2:1-12
 Gdy się tedy narodził Jezus w Betlejem Judzkim za dni króla Heroda: oto przybyli Mędrcy ze Wschodu do Jerozolimy mówiąc: «Gdzie jest on Król żydowski, który się narodził? Albowiem ujrzeliśmy gwiazdę Jego na wschodzie i przybyliśmy pokłonić się Jemu». A usłyszawszy to król Herod zatrwożył się i cała Jerozolima z nim. I zebrawszy wszystkich przedniejszych kapłanów i nauczycieli ludu, dowiadywał się od nich, gdzie się miał Chrystus narodzić. A oni mu rzekli: «W Betlejem judzkim; bo tak jest napisane przez Proroka: I ty Betlejem, ziemio judzka, żadną miarą nie jesteś najmniejsze między książętami judzkimi, albowiem z ciebie wynijdzie wódz, który by rządził ludem moim izraelskim». Wtedy Herod, wezwawszy potajemnie Mędrców, dokładnie dowiedział się od nich o czasie gwiazdy, która im się ukazała. A odsyłając ich do Betlejem, rzekł: «Idźcie, a wywiadujcie się pilnie o Dzieciątku, a gdy znajdziecie, oznajmijcie mi, abym i ja przybywszy pokłonił się Jemu». Oni tedy po wysłuchaniu króla ruszyli w drogę. A oto gwiazda, którą byli widzieli na wschodzie, wyprzedzała ich, aż zatrzymała się nad miejscem, gdzie było Dziecię. A ujrzawszy gwiazdę uradowali się radością bardzo wielką. I wszedłszy w dom znaleźli dziecię z Maryją, Matką Jego (tu się przyklęka) i upadłszy, pokłonili się Jemu. A otworzywszy skarby swe, ofiarowali Mu dary: złoto, kadzidło i mirrę. A otrzymawszy odpowiedź we śnie, aby nie wracali do Heroda, inną drogą powrócili do krainy swojej.
 
 [Offertorium]
@@ -57,7 +57,7 @@ Wejrzyj miłościwie na dary Twojego Kościoła, który składa ci już nie zło
 $Qui tecum
 
 [Communio]
-!Matth 2:2
+!Mt 2:2
 Ujrzeliśmy gwiazdę Jego na wschodzie i przybyliśmy z darami pokłonić się Panu.
 
 [Postcommunio]

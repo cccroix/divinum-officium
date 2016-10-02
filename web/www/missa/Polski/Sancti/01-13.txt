@@ -18,7 +18,7 @@ Chrystus chciał przyjąć chrzest pokuty w wodach Jordanu, ponieważ wziął na
 Msza o Objawieniu Pańskim, z wyjątkiem modlitw i ewangelii.
 
 [Introitus]
-!Malach 3:1; 1 Krn 29:12
+!Ml 3:1; 1 Krn 29:12
 v. Oto już nadszedł Władca najwyższy: a w ręku Jego królewska władza i moc i rządy świata.
 !Ps 71:1
 Boże, przekaż swą władzę Królowi i sądy swoje temuż potomkowi Króla.
@@ -31,18 +31,18 @@ $Qui tecum
 
 [Lectio]
 Czytanie z Księgi proroka Izajasza.
-!Isai 60:1-6
+!Iz 60:1-6
 Powstań, Jeruzalem, i rozbłyśnij jasnością, bo przybywa światłość twoja i chwała Pańska wzeszła nad tobą. Bo oto ciemności okryją ziemię i mrok narody, nad tobą zaś wzejdzie Pan i ujrzą w tobie Jego chwałę. I będą poganie chodzić w świetle twoim, a królowie w blasku twego wschodu. Podnieś wokoło twe oczy, a oglądaj: wszyscy ci zgromadzili się, do ciebie przybyli. Synowie twoi z daleka przybędą, a córki twoje z boku powstaną. Wtedy ujrzysz i promieniować będziesz radością. Zadziwi się i rozszerzy twe serce, gdy zwróci się ku tobie bogactwo morza, moc pogan do ciebie przybędzie. Niby potop przykryje cię mnóstwo wielbłądów, dromaderów z Madianu i Efy. Wszyscy z Saby przybędą, przynosząc złoto i kadzidło i głosząc chwałę Panu.
 
 [Graduale]
-!Isai 60:6; 60:1
+!Iz 60:6; 60:1
 Wszyscy ze Saby przyjdą, złoto i kadzidło przynosząc i chwałę Pańską rozgłaszając. Powstań, Jeruzalem i zajaśniej: bo chwała Pańska wzeszła nad tobą. Alleluja, alleluja.
-!Matth 2:2
+!Mt 2:2
 Ujrzeliśmy gwiazdę Jego na wschodzie i przybyliśmy z darami pokłonić się Panu. Alleluja.
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Jana.
-!Joann 1:29-34
+!J 1:29-34
 Onego czasu ujrzał Jan nadchodzącego Jezusa i rzekł: «Oto Baranek Boży, oto, który gładzi grzech świata. To Ten, o którym mówiłem: po mnie przyjdzie mąż, który stał się przede mną, bo pierwej był, niźli ja. Jam Go wprawdzie nie znał, alem dlatego przyszedł chrzcząc wodą, aby mógł się okazać Izraelowi». I dał Jan świadectwo mówiąc: «Widziałem Ducha zstępującego z nieba jak gołębicę i spoczął na Nim. A jam Go nie znał, ale Ten, który mię posłał chrzcić wodą, powiedział mi: Na kogo ujrzysz, iż zstępuje Duch i zostaje na nim, ten jest, który chrzci Duchem Świętym. I sam to widziałem, i dałem świadectwo, że On jest Synem Bożym».
 
 [Offertorium]
@@ -54,7 +54,7 @@ Składamy Ci, Panie, ofiary ku uczczeniu objawienia się Syna Twojego, który st
 $Qui tecum.
 
 [Communio]
-!Matth 2:2
+!Mt 2:2
 Ujrzeliśmy gwiazdę Jego na wschodzie i przybyliśmy z darami pokłonić się Panu.
 
 [Postcommunio]

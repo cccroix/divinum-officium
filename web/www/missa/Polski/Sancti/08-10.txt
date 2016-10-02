@@ -30,7 +30,7 @@ $Per Dominum
 
 [Lectio]
 Czytanie z Listu świętego Pawła Apostoła do Koryntian.
-!2 Cor 9:6-10
+!2 Kor 9:6-10
 !x! Św. Wawrzyniec oświadczył pogańskiemu sędziemu, że przez rozdawanie jałmużny gromadzi się prawdziwe bogactwa.
 Bracia! Kto skąpo sieje, skąpo też i żąć będzie, a kto sieje w błogosławieństwach, w błogosławieństwach też żąć będzie. Każdy jako postanowił w sercu swoim, nie z żalem albo z musu: ochotnego bowiem dawcę miłuje Bóg. A Bóg mocen jest udzielić wam wszelkiego daru obfitości, abyście mając zawsze dostatek wszystkiego obfitowali we wszelki dobry uczynek, jako napisane jest: «Rozsypał, dał ubogim a sprawiedliwość jego trwa na wieki wieków». A. ten, który siewcy dostarcza nasienia i chleb do spożycia, i wam te nasienie rozmnoży, i przysporzy plonów sprawiedliwości waszej.
 
@@ -42,7 +42,7 @@ V. Lewita Wawrzyniec dobre dzieło wykonał: znakiem Krzyża wzrok ślepym przyw
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Jana.
-!Joann 12:24-26
+!J 12:24-26
 !x! Śmierć św. Wawrzyńca i wielu innych męczenników przyniosła Kościołowi zwycięstwo nad pogaństwem i wspaniały wzrost.
 Onego czasu: Rzekł Jezus uczniom swoim: «Zaprawdę, zaprawdę powiadam wam, jeśli ziarno pszeniczne wrzucone w ziemię nie obumrze, samo zostanie, lecz jeśli obumrze, wiele owocu przynosi. Kto miłuje życie swoje, straci je, ale ko ma w nienawiści życie swoje na tym świecie, na żywot wieczny zachowa je. Kto by chciał mi służyć, niech mnie naśladuje, a gdzie ja jestem, tam będzie i sługa mój. Jeśli kto służyć mi będzie, uczci go Ojciec mój».
 
@@ -55,7 +55,7 @@ Prosimy Cię, Panie, przyjmij dary ze czcią złożone i spraw, niech przez zas�
 $Per Dominum
 
 [Communio]
-!Joann 12:26
+!J 12:26
 Kto mnie służy, niech idzie za mną; a gdzie ja jestem, tam będzie i sługa mój.
 
 [Postcommunio]

@@ -14,7 +14,7 @@ Suffr=Sanctorum;Maria3,Ecclesiae,Papa;;
 Gdy zaczyna się jesienne zamieranie przyrody, Kościół kieruje naszą myśl ku życiu wiecznemu. Świątynia, w której się gromadzimy, jest symbolem nieba — domu Bożego, dlatego idziemy do niej z radością (ant. na wejście, graduał). Tu otrzymujemy pouczenie o prawdach Bożych oraz przyjmujemy sakramenty, przygotowujące nas na dzień przyjścia Pańskiego (lekcja). W sakramencie Pokuty Chrystus oczyszcza duszę i wlewa w nią nowe siły na pielgrzymowanie ku wieczności, które trwa bez przerwy, wśród codziennych zajęć w domach i warsztatach pracy (ewangelia). Przez Eucharystię Bóg daje nam udział w swoim Bóstwie, przedsmak niebieskiej chwały.
 
 [Introitus]
-!Eccl 36:18
+!Syr 36:18
 v. Użycz pokoju, o Panie, tym, którzy oczekują pomocy od Ciebie, aby się spełniły obietnice Twoich proroków. Wysłuchaj próśb Swojego sługi oraz Izraela, Twojego ludu.
 !Ps 121:1
 Uradowałem się, gdy mi powiedziano: Pójdziemy do domu Pańskiego.
@@ -27,7 +27,7 @@ $Per Dominum
 
 [Lectio]
 Czytanie z Listu świętego Pawła Apostoła do Koryntian.
-!1 Cor 1:4-8
+!1 Kor 1:4-8
 Bracia: Dziękuję Bogu mojemu zawsze za was, za łaskę Bożą, która jest wam dana w Chrystusie Jezusie, żeście się w Nim we wszystko wzbogacili, we wszelkie słowo i we wszelką umiejętność. Jako że świadectwo Chrystusowe utwierdzone jest pośród was. Tak, że wam na żadnej łasce nie zbywa, w oczekiwaniu objawienia Pana naszego Jezusa Chrystusa, który też umocni was aż do końca bez winy, w dzień przyjścia Pana naszego Jezusa Chrystusa.
 
 [Graduale]
@@ -39,11 +39,11 @@ Poganie będą czcili imię Twoje, Panie, i wszyscy królowie ziemi Twoją chwa�
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Mateusza.
-!Matth 9:1-8
+!Mt 9:1-8
 Onego czasu: Jezus wstąpiwszy do łodzi przeprawił się i przybył do miasta swego. I oto przynieśli Mu paralityka, leżącego na łożu. A widząc wiarę ich, rzekł Jezus paralitykowi: «Ufaj, synu, odpuszczają ci się grzechy twoje». A oto niektórzy z uczonych w Piśmie myśleli sobie: «On bluźni». Jezus zaś, przeniknąwszy ich myśli, powiedział: «Czemuż źle myślicie w sercach waszych? Cóż łatwiej jest powiedzieć: Odpuszczają ci się grzechy, czy też: wstań a chodź? A żebyście wiedzieli, że Syn Człowieczy ma na ziemi moc odpuszczania grzechów», przeto rzecze do paralityka: «Wstań, weźmij łoże twoje i idź do domu twego». I wstał, i poszedł do domu swego. Co widząc rzesze ulękły się i oddały chwałę Bogu, który dał taką moc ludziom.
 
 [Offertorium]
-!Ex 24:4; 24:5
+!Wj 24:4; 24:5
 Poświęcił Mojżesz ołtarz dla Pana, składając na nim ofiary całopalne i ofiarując żertwy ze zwierząt. Wobec synów Izraela dopełnił ofiary wieczornej na wonność miłą Panu Bogu.
 
 [Secreta]

@@ -28,7 +28,7 @@ $Per Dominum eiusdem
 
 [Lectio]
 Czytanie z Dziejów Apostolskich.
-!Act 2:1-11
+!Dz 2:1-11
 !x! Dar języków jest potwierdzeniem powszechnej misji Kościoła. Wszystkie narody są wezwane do słuchania Dobrej Nowiny.
 Gdy nadeszły dni Zielonych Świąt, byli wszyscy razem na tym samym miejscu. I stał się z nagła z nieba szum jakby nadchodzącego wichru gwałtownego i napełnił cały dom, gdzie siedzieli. I ukazały się im rozdzielone języki na kształt ognia, który spoczął na każdym z nich z osobna. I wszyscy napełnieni byli Duchem Świętym, i poczęli mówić różnymi językami, jako im Duch Święty mówić dawał. 
 A przebywali w Jerozolimie żydzi, ludzie nabożni ze wszystkich narodów, które są pod niebem. Gdy tedy rozległ się ten szum, zbiegło się mnóstwo ludzi i osłupieli, bo każdy posłyszał ich mówiących swoim językiem. Toteż zdumiewali się wszyscy i mówili zdziwieni: «Czyż ci wszyscy, którzy mówią, nie są Galilejczykami? Jakże więc słyszymy, i to każdy z nas swój własny język, w którym się urodziliśmy? Partowie i Medowie, Elamici i mieszkańcy Mezopotamii, Judei i Kapadocji, Pontu i Azji, Frygii i Pamfilii, Egiptu i ziem libijskich, leżących koło Cyreny, i przybysze z Rzymu, Żydzi też i prozelici, Kreteńczycy i Arabowie — słyszeliśmy ich mówiących w naszych językach o wielkich sprawach Bożych».
@@ -84,7 +84,7 @@ Amen. Alleluja.
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Jana.
-!Joann 14:23-31
+!J 14:23-31
 Onego czasu rzekł Jezus uczniom swoim: «Jeśli mnie kto miłuje, będzie przestrzegał nauki mojej i Ojciec mój umiłuje go, i przyjdziemy do niego, i przebywać u niego będziemy. Kto mnie nie miłuje, nauki mojej nie przestrzega. A nauka, którą słyszeliście, nie jest moja, ale Tego, który mnie posłał, Ojca. To wam powiedziałem, wśród was przebywając. Lecz Pocieszyciel, Duch Święty, którego Ojciec pośle w imię moje, On was wszystkiego nauczy i przypomni wam wszystko, cokolwiek wam powiedziałem.
 Pokój zostawiam wam, pokój mój daję wam, nie jako daje świat, ja wam daję. Niech się nie trwoży serce wasze ani się nie lęka. Słyszeliście, żem ja wam powiedział: odchodzę i przychodzę do was. Gdybyście mnie miłowali, zaiste radowalibyście się, że idę do Ojca. Bo Ojciec większy jest niźli ja. I teraz powiedziałem wam, zanim się to stanie, abyście, gdy się stanie, uwierzyli. Już o wielu rzeczach wam mówić nie będę. Nadchodzi bowiem książę tego świata, lecz nie ma on nic we mnie. Ale, żeby świat poznał, że miłuję Ojca i jak Ojciec mi rozkazał, tak czynię».
 
@@ -97,7 +97,7 @@ Prosimy Cię, Panie, uświęć złożone dary i oczyść nasze serca światłem 
 $Per Dominum eiusdem
 
 [Communio]
-!Act 2:2; 2:4
+!Dz 2:2; 2:4
 Nagle dał się słyszeć z nieba szum jakby nadchodzącego wichru gwałtownego tam gdzie przebywali, alleluja. I wszyscy zostali napełnieni Duchem Świętym i mówili o wielkich sprawach Bożych, alleluja, alleluja.
 
 [Postcommunio]

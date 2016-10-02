@@ -24,7 +24,7 @@ Wielki Czwartek jest przede wszystkim rocznicą ustanowienia sakramentów Ołtar
 Eucharystia ustanowiona w czasie Ostatniej Wieczerzy jest owocem i uobecnieniem ofiary krzyżowej. Stąd słusznie chlubimy się krzyżem w antyfonie na wejście i w graduale wieczornej Mszy. W lekcji poucza nas św. Paweł, że sprawowanie Eucharystii jest opowiadaniem śmierci Pańskiej. Chleb i wino, które Pan Jezus wybrał na postacie Najświętszego Sakramentu, symbolizują zjednoczenie. Wiele ziaren łączy się w jednym chlebie, sok wielu jagód tworzy wino. W czasie Ostatniej Wieczerzy Pan Jezus podkreślił ważność przykazania miłości bliźniego, a w modlitwie arcykapłańskiej modlił się o wzajemną miłość między członkami Kościoła. W czasie Mszy św. celebrans konsekruje oprócz hostii mszalnej komunikanty przeznaczone do Komunii duchowieństwa i wiernych, a w Polsce także hostię przeznaczoną do wystawienia w Bożym Grobie. Jest życzeniem Kościoła, aby wierni licznie przystępowali w dniu dzisiejszym do Komunii świętej i oddawali się uczynkom miłości chrześcijańskiej.
 
 [Introitus]
-!Gal 6:14
+!Ga 6:14
 v. A myśmy się chlubić powinni Krzyżem Pana naszego Jezusa Chrystusa; w Nim jest zbawienie, życie i zmartwychwstanie nasze: przez Niego jesteśmy zbawieni i oswobodzeni.
 !Ps 66:2
 Niech Bóg się zmiłuje nad nami i nam błogosławi: niech nam ukaże pogodne oblicze i zmiłuje się nad nami.
@@ -36,19 +36,19 @@ $Qui tecum
 
 [Lectio]
 Czytanie z Listu świętego Pawła Apostoła do Koryntian.
-!1 Cor 11:20-32
+!1 Kor 11:20-32
 Bracia: Gdy się tedy wespół schodzicie, nie jest to już pożywanie wieczerzy Pańskiej. Każdy bowiem wieczerzę swoją już uprzednio spożywa i tak jeden jest głodny, a drugi nietrzeźwy. Czyż domów nie macie do jedzenia i picia? Albo okazujecie wzgardę Kościołowi Bożemu i poniewieracie tymi, którzy nic nie mają? Cóż wam powiem? Czy chwalę was? Za to nie chwale.
 Ja bowiem otrzymałem od Pana, co też wam podałem, że Pan Jezus tej nocy, w której był wydany, wziął chleb i dzięki uczyniwszy, łamał i rzekł: «Bierzcie i jedzcie, to jest ciało moje, które za was będzie wydane: to czyńcie na moją pamiątkę». Także i kielich po wieczerzy mówiąc: «Ten kielich jest nowym testamentem we krwi mojej. To czyńcie, ilekroć pić będziecie, na pamiątkę moją».
 Ilekroć bowiem ten chleb pożywać, a kielich pić będziecie, śmierć Pańską będziecie zwiastować, aż przybędzie. Tak więc ktokolwiek by pożywał ten chleb albo pił kielich Pański niegodnie, winien będzie ciała i krwi Pańskiej. Niechajże tedy doświadcza człowiek samego siebie, a tak niechaj pożywa chleba tego i z kielicha pije. Kto bowiem Pozywa i pije niegodnie, potępienie dla siebie pożywa i pije, nie bacząc na ciało Pańskie. Dlatego między wami wielu chorych i słabych i wielu pomarło. Bo gdybyśmy sami siebie sądzili, nie bylibyśmy sądzeni. Lecz gdy nas sądzą, karanie odbieramy od Pana, abyśmy z tym światem potępieni nie byli.
 
 [Graduale]
-!Phil 2:8-9
+!Flp 2:8-9
 Chrystus stał się dla nas posłuszny aż do śmierci, a była to śmierć krzyżowa.
 V. Dlatego i Bóg wywyższył Go: i nadał Mu imię, przewyższające wszelkie imię.
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Jana.
-!Joann 13:1-15
+!J 13:1-15
 Przed świętym dniem Paschy Jezus, wiedząc, że nadeszła godzina Jego, aby odszedł z tego świata do Ojca, umiłowawszy swoich, którzy byli na świecie, aż do końca ich umiłował. I po skończeniu wieczerzy, gdy szatan skusił był serce Judasza Iszkarioty, syna Szymona, aby Go zdradził, ((Jezus)) wiedząc, że Ojciec oddał wszystko w Jego ręce, że od Boga wyszedł i do Boga zdąża, wstaje od wieczerzy, składa szaty swoje, a wziąwszy prześcieradło, przepasuje się. Potem nalewa wody do misy i poczyna umywać nogi uczniom i wycierać prześcieradłem, którym się był przepasał. Zbliża się tedy do Szymona Piotra. I rzecze Mu Piotr. «Panie, Ty mnie nogi umywasz?» Odpowiadając Jezus, rzekł mu: «Co ja czynię, ty jeszcze nie rozumiesz, ale zrozumiesz potem». Rzecze Mu Piotr: «Nigdy mi nóg nie będziesz umywał». Odpowiedział mu Jezus: «Jeśli cię nie umyję, nie będziesz miał uczestnictwa ze mną». Rzecze Mu Szymon Piotr: «Panie, nie tylko nogi moje, ale ręce i głowę». Rzecze mu Jezus: «Kto umyty jest, potrzebuje tylko nogi umyć, a cały jest czysty. Wy też jesteście czyści, ale nie wszyscy». Albowiem wiedział, który to Go miał wydać, dlatego powiedział: «Nie wszyscy jesteście czyści».
 Gdy tedy umył nogi ich i przywdział szaty swoje, zasiadł do stołu i mówił do nich: «Czy wiecie, com wam uczynił? Wy Mnie nazywacie Mistrzem i Panem i dobrze mówicie, bo jestem nim. Jeśli tedy ja, Pan i Mistrz, umyłem nogi wasze i wy powinniście jeden drugiemu nogi umywać. Albowiem dałem wam przykład, abyście jakom ja wam uczynił, tak i wy czynili».
 
@@ -76,7 +76,7 @@ _
 On to w przeddzień męki, to jest dzisiaj, (bierze Hostię) wziął chleb w swoje święte i czcigodne ręce, (podnosi oczy ku niebu) a podniósłszy oczy w niebo ku Tobie Bogu, Ojcu swemu wszechmogącemu, (pochyla głowę) dzięki Ci składając (czyni znak krzyża nad Hostią) pobłogosławił, połamał i rozdał uczniom swoim mówiąc: 
 
 [Communio]
-!Joann 13:12,13,15
+!J 13:12,13,15
 Pan Jezus, gdy skończył wieczerzę z uczniami swoimi, umył nogi ich i rzekł: «Czy wiecie, com wam uczynił, ja Pan i Mistrz? Przykład dałem wam, abyście i wy tak czynili».
 
 [Postcommunio]
@@ -185,7 +185,7 @@ Ant. Dzielą między siebie moje szaty i o suknię moją los rzucają.
 _
 _
 !Antyfona 1
-!Joann 13:34
+!J 13:34
 Ant. «Przykazanie nowe daję wam, abyście się wzajemnie miłowali, jakom ja was umiłował» – mówi Pan.
 !Ps 118:1
 Błogosławieni, których droga jest niepokalana: którzy postępują zgodnie z prawem Pańskim.
@@ -193,7 +193,7 @@ Ant. «Przykazanie nowe daję wam, abyście się wzajemnie miłowali, jakom ja w
 _
 _
 !Antyfona 2
-!Joann 13:4,5,15
+!J 13:4,5,15
 Ant. Gdy Pan wstał od wieczerzy, nalał wody w miednicę i począł umywać nogi swoich uczniów. Ten przykład im zostawił.
 !Ps 47:2
 Wielki jest Pan i godny wszelkiej chwały w mieście Boga naszego, na świętej Jego górze.
@@ -201,7 +201,7 @@ Ant. Gdy Pan wstał od wieczerzy, nalał wody w miednicę i począł umywać nog
 _
 _
 !Antyfona 3
-!Joann 13:12,13,15
+!J 13:12,13,15
 Ant. Pan Jezus, gdy skończył wieczerzę z uczniami swoimi, umył nogi ich i rzekł: «Czy wiecie, com wam uczynił, ja, Pan i Mistrz? Przykład dałem wam, abyście i wy tak czynili».
 !Ps 84:2
 Łaskawym okazałeś się, Panie, dla Twej ziemi; na dobre odmieniłeś los Jakuba.
@@ -209,7 +209,7 @@ Ant. Pan Jezus, gdy skończył wieczerzę z uczniami swoimi, umył nogi ich i rz
 _
 _
 !Antyfona 4
-!Joann 13:6-7,8
+!J 13:6-7,8
 Ant. «Panie, Ty mnie nogi umywasz?» Odpowiedział mu Jezus: «Jeśli cię nie umyję, nie będziesz miał uczestnictwa ze mną».
 V. Zbliża się tedy do Szymona Piotra i rzecze mu Piotr:
 Ant. «Panie, Ty mnie nogi umywasz?» Odpowiedział mu Jezus: «Jeśli cię nie umyję, nie będziesz miał uczestnictwa ze mną».
@@ -218,7 +218,7 @@ Ant. «Panie, Ty mnie nogi umywasz?» Odpowiedział mu Jezus: «Jeśli cię nie 
 _
 _
 !Antyfona 5
-!Joann 13:14
+!J 13:14
 Ant. «Jeśli ja, Pan i Mistrz wasz, umyłem nogi wasze, o ileż bardziej wy powinniście jeden drugiemu nogi umywać?»
 !Ps 48:2
 Słuchajcie tego, wszystkie narody, nakłońcie uszy, wszyscy mieszkańcy ziemi.
@@ -226,14 +226,14 @@ Ant. «Jeśli ja, Pan i Mistrz wasz, umyłem nogi wasze, o ileż bardziej wy pow
 _
 _
 !Antyfona 6
-!Joann 13:35
+!J 13:35
 Ant. «Po tym poznają wszyscy, żeście uczniami moimi, jeśli miłość mieć będziecie jeden ku drugiemu».
 V. Rzekł Jezus uczniom swoim.
 Ant. «Po tym poznają wszyscy, żeście uczniami moimi, jeśli miłość mieć będziecie jeden ku drugiemu».
 _
 _
 !Antyfona 7
-!1 Cor 13:13
+!1 Kor 13:13
 Ant. Niech trwają w was wiara, nadzieja i miłość: to troje, a z tych największa jest miłość.
 V. Teraz tedy trwają wiara, nadzieja i miłość: to troje, a z tych największa jest miłość.
 Ant. Niech trwają w was wiara, nadzieja i miłość: to troje, a z tych największa jest miłość.

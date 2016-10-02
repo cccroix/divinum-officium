@@ -19,7 +19,7 @@ Suffr=Maria3;Ecclesiae,Papa;;
 W noc poprzedzającą uroczystość Zesłania Ducha Świętego odprawiano Wigilię. Podczas niej udzielano Chrztu św. i Bierzmowania katechumenom, którzy nie mogli przyjąć tych sakramentów na Wielkanoc. Na zakończenie Wigilii odprawiano Mszę św. o świcie. Jest to zatem Msza świąteczna, podobnie jak Msza Wigilii Wielkanocnej. Charakter świąteczny zachowała ona mimo przesunięcia na ranek soboty poprzedzającej święto. Teksty mszalne wysławiają działanie Ducha Świętego w duszy ochrzczonego i bierzmowanego. Działanie Ducha Świętego podobne jest do światła rozpraszającego ciemności (kolekta, sekreta) i wody podtrzymującej życie na ziemi (antyfona na wejście i na komunię oraz pokomunia).
 
 [Introitus]
-!Ezech 36:23; 36:24; 36:25-26
+!Ez 36:23; 36:24; 36:25-26
 v. Gdy zajaśnieje świętość moja w was, zgromadzę was ze wszystkich ziem i wyleję na was wodę czystą, i będziecie oczyszczeni od wszelkich nieczystości waszych, i ducha nowego wam dam, alleluja, alleluja.
 !Ps 33:2
 W każdym czasie będę błogosławił Panu; na ustach moich zawsze Jego chwała.
@@ -32,7 +32,7 @@ $Per Dominum eiusdem
 
 [Lectio]
 Czytanie z Dziejów Apostolskich.
-!Act 19:1-8
+!Dz 19:1-8
 W one dni: Gdy Apollo bawił w Koryncie, stało się, iż Paweł obszedłszy wyżej położone kraje przybył do Efezu i spotkawszy niektórych uczniów rzekł do nich: «Czy otrzymaliście Ducha Świętego, gdyście wiarę przyjęli?» A oni mu odpowiedzieli: «Nawet nie słyszeliśmy, że jest Duch Święty». I powiedział im: «Jakże więc byliście ochrzczeni?» A oni na to: «Chrztem Janowym».
 Rzekł tedy Paweł: «Jan udzielał ludowi chrztu pokuty mówiąc, że Powinni wierzyć w Tego, który po nim przyjdzie, to jest w Jezusa». Usłyszawszy to, przyjęli Chrzest w imię Pana Jezusa. I gdy Paweł włożył na nich ręce, zstąpił na nich Duch Święty i mówili językami, i prorokowali. A było wszystkich mężów około dwunastu.
 A wszedłszy do synagogi, odważnie przemawiał przez trzy miesiące, przekonywając i rozprawiając o Królestwie Bożym.
@@ -48,7 +48,7 @@ V. Bo Jego miłosierdzie nad nami utwierdzone, a wierność Pańska trwa na wiek
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Jana.
-!Joann 14:15-21
+!J 14:15-21
 Onego czasu: Rzekł Jezus uczniom swoim: «Jeśli mnie miłujecie, zachowujcie przykazania moje. A ja prosić będę Ojca, i innego Pocieszyciela da wam, aby pozostał z wami na zawsze. Ducha prawdy, którego świat nie może przyjąć, bo Go nie widzi ani Go nie zna. Lecz wy Go poznacie, bo u was pozostanie i w was będzie przebywał. Nie pozostawię was sierotami, przyjdę do was. Jeszcze niedługo, a świat mnie już nie ujrzy. Ale wy mnie widzicie, bo ja żyję i wy żyć będziecie. W on dzień poznacie, że ja jestem w Ojcu moim, wy we mnie, a ja w was. Kto ma przykazania moje i zachowuje je, ten jest, który mnie miłuje. A kto mnie miłuje, umiłuje go Ojciec mój i ja go miłować będę, i siebie samego mu objawię».
 
 [Offertorium]
@@ -60,7 +60,7 @@ Prosimy Cię, Panie, uświęć złożone dary i oczyść nasze serca światłem 
 $Per Dominum eiusdem.
 
 [Communio]
-!Joann 7:37-39
+!J 7:37-39
 W ostatnim dniu święta mówił Jezus: Kto wierzy we mnie, rzeki wody żywej popłyną z jego wnętrza. A to mówił o Duchu, którego otrzymać mieli wierzący weń, alleluja.
 
 [Postcommunio]

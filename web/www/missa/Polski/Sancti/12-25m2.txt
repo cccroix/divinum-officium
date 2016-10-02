@@ -17,7 +17,7 @@ Druga Msza Bożego Narodzenia wzięła swój początek od nabożeństwa stacyjne
 Św. Anastazja została spalona za wiarę w Sirmium (Mitrovica w Slawonii) w dniu 25 grudnia. Imię jej wymienia się w kanonie Mszy św. Obecnie we Mszy św., poświęconej Bożemu Narodzeniu, dołącza się wspomnienie św. Anastazji. Jej imię, które po grecku znaczy «zmartwychwstanie», wpłynęło, być może, na dobór tekstów mszalnych. Lekcja wspomina o Chrzcie św., który jest owocem tajemnicy Zmartwychwstania. W graduale śpiewa się wielkanocny psalm 117. Boże Narodzenie to wschód Słońca, które pełnym blaskiem zajaśnieje w dniu Zmartwychwstania.
 
 [Introitus]
-!Isai 9:2,6
+!Iz 9:2,6
 v. Światłość zabłyśnie dzisiaj nad nami, albowiem narodził się nam Pan! A imię Jego nazwano: Przedziwny, Bóg, Książę pokoju, którego królestwu nie będzie końca.
 !Ps 92:1
 Pan króluje, w majestat się oblókł, odział się Pan w potęgę i przepasał się.
@@ -35,7 +35,7 @@ $Per Dominum
 
 [Lectio]
 Czytanie z Listu świętego Pawła Apostoła do Tytusa.
-!Tit 3:4-7
+!Tt 3:4-7
 Najmilszy: Okazała się dobroć i łaskawość Boga, Zbawiciela naszego: zbawił On nas nie dla uczynków sprawiedliwych, których dokonaliśmy, ale z miłosierdzia Swego przez obmycie odrodzenia i odnowienia w Duchu Świętym. Zesłał Go nam obficie przez Jezusa Chrystusa, Zbawiciela naszego, abyśmy łaską Jego usprawiedliwieni, stali się według nadziei dziedzicami żywota wiecznego: w Chrystusie Jezusie, Panu naszym.
 
 [Graduale]
@@ -47,7 +47,7 @@ V. Pan króluje, w majestat się oblókł, odział się Pan w potęgę i przepas
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Łukasza.
-!Luc 2:15-20
+!Łk 2:15-20
 Onego czasu; Mówili pasterze jeden do drugiego: «Pójdźmy aż do Betlejem i zobaczmy to, co się stało, o czym oznajmił nam Pan». I spiesząc się przybyli, i znaleźli Maryję i Józefa oraz Dzieciątko złożone w żłobie. A ujrzawszy, zrozumieli słowa, które im oznajmione były o tym Dzieciątku. A wszyscy, którzy słyszeli, zdumiewali się; także i temu, co im mówili pasterze. Maryja zaś zachowywała wszystkie te słowa, rozważając je w sercu swoim. I wrócili pasterze wielbiąc i chwaląc Boga za wszystko, co słyszeli i widzieli, jako im było powiedziane.
 
 [Offertorium]
@@ -65,7 +65,7 @@ Przyjmij, prosimy Cię, Panie dary ze czcią złożone i spraw, niech przez zas�
 $Per Dominum
 
 [Communio]
-!Zach 9:9
+!Zch 9:9
 Raduj się wielce, córko syjońska! Wołaj radośnie, córko Jeruzalem! Oto przychodzi twój Król: On, sprawiedliwy i Zbawiciel świata.
 
 [Postcommunio]

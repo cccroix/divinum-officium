@@ -15,7 +15,7 @@ Suffr=Ecclesiae,Papa;;
 Życie katolickie jest przygotowaniem do życia wiecznego. Wejście do Kościoła przez Chrzest jest zaproszeniem do udziału w Królestwie Niebieskim (antyfona na wejście). Przez korzystanie z sakramentów świętych cały Kościół odnawia się i przygotowuje do życia wiecznego. Cudowny połów opisany w ewangelii Ojcowie Kościoła uważają za obraz działalności Kościoła, który łowi dusze ludzkie i doprowadza do Chrystusa.
 
 [Introitus]
-!Matth 25:34
+!Mt 25:34
 v. Pójdźcie, błogosławieni Ojca mego, i posiądźcie Królestwo, alleluja, zgotowane wam od założenia świata, alleluja, alleluja, alleluja.
 !Ps 95:1
 Śpiewajcie Panu pieśń nową, śpiewajcie Panu, wszystkie krainy.
@@ -28,7 +28,7 @@ $Per eundem
 
 [Lectio]
 Czytanie z Dziejów Apostolskich.
-!Act 3:13-15; 3:17-19
+!Dz 3:13-15; 3:17-19
 W one dni: Piotr otwierając swe usta rzekł: «Mężowie izraelscy i którzy lękacie się Boga, słuchajcie: Bóg Abrahama i Bóg Izaaka, i Bóg Jakuba, Bóg ojców naszych uwielbił Syna swego Jezusa, któregoście wy wydali i zaparli się przed Piłatem, choć ten sądził, że należy Go uwolnić. A wy zaparliście się świętego i sprawiedliwego prosiliście, aby wam ułaskawił morderce. Zabiliście tedy dawcę życia, którego Bóg wskrzesił z martwych, czego my świadkami jesteśmy. Ale teraz, bracia, wiem, żeście to z nieświadomości uczynili, jako i przełożeni wasi. Bóg zaś spełnił to, co był zapowiedział przez usta wszystkich Proroków, że Chrystus Jego miał cierpieć. Czyńcie przeto pokutę i nawróćcie się, aby zostały zgładzone grzechy wasze».
 
 [Graduale]
@@ -36,7 +36,7 @@ Alleluja, alleluja
 !Ps 117:24; 117:16
 Oto dzień, który Pan uczynił; radujmy się zeń i weselmy.
 V. Prawica Pańska moc okazała, prawica Pańska dźwignęła mnie. Alleluja, alleluja.
-!Luc 24:34
+!Łk 24:34
 V. Prawdziwie powstał Pan z martwych i ukazał się Piotrowi.
 
 [Sequentia]
@@ -44,7 +44,7 @@ V. Prawdziwie powstał Pan z martwych i ukazał się Piotrowi.
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Jana.
-!Joann 21:1-14
+!J 21:1-14
 Onego czasu: Ukazał się znowu Jezus uczniom nad Morzem Tyberiadzkim. A ukazał się tak oto: Byli razem Szymon Piotr i Tomasz, zwany Didymusem, Natanael z Kany Galilejskej, synowie Zebedeusza i dwaj inni z uczniów Jego. Rzekł do nich Szymon Piotr: Idę łowić ryby. Mówią mu: Pójdziemy i my z tobą. Poszli więc i wsiedli do łodzi, a nocy owej nic nie ułowili.
 A gdy nastał ranek, stanął Jezus na brzegu, ale uczniowie nie poznali, że to był Jezus. Rzekł im tedy Jezus: «Dzieci, a macie co jeść?» Odpowiedzieli Mu: «Nie». Rzekł im: «Zapuśćcie sieć po prawej stronie łodzi, a znajdziecie». Zapuścili tedy, a już nie mogli uciągnąć z powodu mnóstwa ryb. Tedy ów uczeń, którego miłował Jezus, rzekł do Piotra: «Pan to jest». A Szymon Piotr usłyszawszy, że to Pan jest, przywdział suknię ((był bowiem nagi)) i rzucił się w morze. Inni zaś uczniowie przypłynęli w łodzi ((byli bowiem daleko od brzegu, jakoby na dwieście łokci)) ciągnąc sieć z rybami.
 I gdy wyszli na ląd, ujrzeli węgle nałożone, rybę na nich leżącą i chleb. Rzecze im Jezus: «Przynieście z ryb, któreście teraz złowili». Poszedł Szymon Piotr i wyciągnął na ląd sieć napełnioną wielkimi rybami, których było sto pięćdziesiąt trzy. A chociaż było ich tyle, nie porwała się sieć. Mówi im Jezus: «Pójdźcie, jedzcie». I nikt z siedzących nie śmiał Go zapytać: Ktoś ty jest? bo wiedzieli, że to Pan jest. A Jezus zbliża się, bierze chleb i daje im, a podobnież i rybę. I tak już po raz trzeci ukazał się Jezus uczniom swoim, odkąd powstał z martwych.
@@ -58,7 +58,7 @@ Wśród radości wielkanocnych składamy Ci, Panie, tę ofiarę, którą Kości�
 $Per Dominum
 
 [Communio]
-!Rom 6:9
+!Rz 6:9
 !x! W Komunii świętej przyjmujemy Ciało Chrystusa zmartwychwstałego, które jest zadatkiem naszego życia wiecznego.
 Chrystus powstawszy z martwych więcej nie umiera, alleluja; śmierć więcej już nad Nim nie zapanuje, alleluja, alleluja.
 

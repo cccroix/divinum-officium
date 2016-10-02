@@ -14,7 +14,7 @@ Sequentia
 Wczoraj słyszeliśmy św. Piotra, dzisiaj św. Paweł świadczy o Zmartwychwstaniu Chrystusa (lekcja). Jako ewangelie czytamy opis ukazania się Pana Jezusa Apostołom zgromadzonym w Wieczerniku. Śmierć i Zmartwychwstanie Zbawiciela były spełnieniem proroctw Starego Testamentu. Chrzest jednoczy nas z tą śmiercią i Zmartwychwstaniem (antyfona na wejście i na ofiarowanie) i nakłada na nas obowiązek dążenia do dóbr wiecznych (antyfona na komunię).
 
 [Introitus]
-!Eccl 15:3-4
+!Syr 15:3-4
 v. Pan ich napoił wodą mądrości, alleluja, alleluja; tak ich umocni, że się nie zachwieją, alleluja; i na wieki ich wywyższy, alleluja, alleluja.
 !Ps 104: 1
 Chwalcie Pana i wzywajcie Jego imienia: dzieła Jego głoście wśród narodów.
@@ -27,7 +27,7 @@ $Per Dominum
 
 [Lectio]
 Czytanie z Dziejów Apostolskich.
-!Act 13:16; 13:26-33
+!Dz 13:16; 13:26-33
 W one dni: Powstał Paweł i nakazując ręką milczenie rzekł: «Mężowie bracia, synowie rodu Abrahama i ci pośród was, którzy się lękają Boga. Do was zostało posłane słowo tego zbawienia. Mieszkańcy bowiem Jerozolimy i zwierzchnicy ich nie uznali Go, a przez wyrok wypełnili zapowiedzi Proroków czytane im w każdy szabat. Nie znaleźli w Nim żadnej przyczyny śmierci, a prosili Piłata, aby mogli Go zabić. I gdy wykonali wszystko, co o Nim napisano, zdjęli Go z krzyża i złożyli Go w grobie, Bóg wszakże wskrzesił Go z martwych dnia trzeciego, o On ukazywał się przez wiele dni tym, którzy razem z Nim przyszli z Galilei do Jerozolimy i którzy po dziś dzień dają o Nim świadectwo wobec ludu. I my zwiastujemy wam tę obietnicę daną ojcom naszym, że ją wypełnił Bóg dla dzieci naszych, wskrzeszając Jezusa Chrystusa, Pana naszego».
 
 [Graduale]
@@ -43,7 +43,7 @@ V. Zmartwychwstał Pan z grobu, który za nas zawisł na drzewie ((krzyża)).
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Łukasza.
-!Luc 24, 36-47
+!Łk 24, 36-47
 Onego czasu: Stanął Jezus w pośrodku uczniów swoich i rzekł im: «Pokój wam. Jam jest, nie trwóżcie się». A strwożeni i przestraszeni sądzili, że ducha oglądają. I rzekł im: «Czemuście się zatrwożyli, a myśli różne wstępują do serc waszych? Oglądajcie ręce moje i nogi, że to ja sam jestem: dotykajcie się i patrzcie; albowiem duch nie ma ciała ani kości, jako widzicie, że ja mam». A gdy to mówił, pokazał im ręce i nogi. A gdy oni jeszcze nie wierzyli i zdumiewali się z radości, rzekł: «Macie tu co do jedzenia?» A oni dali Mu część ryby pieczonej i plaster miodu. A gdy zjadł wobec nich, wziąwszy resztę oddał im. I rzekł do nich: «Te są słowa, które do was mówiłem, gdym jeszcze był z wami, że musiało się spełnić wszystko, co napisane jest w Prawie Mojżeszowym, w Prorokach i w Psalmach o mnie». Wtedy otworzył im umysł, aby rozumieli Pisma, i rzekł im: «Tak jest napisano i tak było potrzeba, aby Chrystus cierpiał i zmartwychwstał dnia trzeciego. I aby w Jego imieniu wszystkim narodom była głoszona pokuta i odpuszczenie grzechów».
 
 [Offertorium]
@@ -55,7 +55,7 @@ Prosimy Cię, Panie, przyjmij modlitwy wiernych i ofiary przez nich złożone, a
 $Per Dominum
 
 [Communio]
-!Col 3:1-2
+!Kol 3:1-2
 Jeżeli razem z Chrystusem powstaliście z martwych, szukajcie tego, co w górze jest, gdzie Chrystus siedzi po prawicy Boga, alleluja, starajcie się o to, co w górze jest, alleluja.
 
 [Postcommunio]

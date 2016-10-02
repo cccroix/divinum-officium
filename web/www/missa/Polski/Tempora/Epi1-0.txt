@@ -16,7 +16,7 @@ No Sunday Commemoratio
 Wzorem rodziny chrześcijańskiej jest Rodzina z Nazaretu, w której wyrósł i wychował się Jezus. W ubogim domu, w zwyczajnych warunkach, rozwijało się najszczęśliwsze życie rodzinne, oparte na prawie Bożym. Antyfona na wejście i graduał wyśpiewują szczęście przenikające dom nazaretański. W lekcji św. Paweł poucza nas o cnotach, które są warunkiem szczęścia domowego. W ewangelii dostrzegamy troskę Maryi i Józefa o Dziecię Jezus i posłuszeństwo Syna Bożego wobec ziemskich rodziców. Przy ofiarowaniu uświadamiamy sobie, że rodzina chrześcijańska winna wychowywać swe dzieci dla Boga. W modlitwach dzisiejszej Mszy upraszamy dla wszystkich naszych rodzin umiejętność naśladowania świętej Rodziny.
 
 [Introitus]
-!Prov 23:24; 23:25
+!Prz 23:24; 23:25
 v. Raduje się bardzo Ojciec Sprawiedliwego. Niech się weseli Ojciec Twój i Matka Twoja; niech się raduje, która Cię zrodziła.
 !Ps 83:2-3
 Jakże miłe są przybytki Twoje, Panie zastępów! Wzdycha i tęskni ma dusza do przedsionków Pańskich.
@@ -38,7 +38,7 @@ $Per eundem
 
 [Lectio]
 Czytanie z Listu świętego Pawła Apostoła do Kolosan.
-!Col 3:12-17
+!Kol 3:12-17
 !x!Wzajemna wyrozumiałość i wspólna modlitwa mają doniosłe znaczenie dla chrześcijańskiego życia rodzinnego.
 Bracia: Przyobleczcież się jako wybrańcy Boży, święci i umiłowani, w tkliwe miłosierdzie, w dobroć, w pokorę, w cichość i w cierpliwość. Znoście jedni drugich i wybaczajcie sobie, jeśli kto ma skargę przeciw komu: jako Pan przebaczył wam, tak i wy. A ponad to wszystko miejcie miłość, która jest więzią doskonałości. A pokój Chrystusowy, do którego też wezwani jesteście w jednym ciele, niech radością opanuje serca wasze i bądźcie wdzięczni.
 Słowo Chrystusowe niech przebywa w was obficie, abyście z wszelką mądrością jedni drugich nauczali i krzepili przez psalmy, hymny i pieśni duchowe, w łasce śpiewając Bogu w sercach waszych. Wszystko, cokolwiek czynicie w słowie lub uczynku, wszystko w imię Pana Jezusa Chrystusa czyńcie, dziękując przez Niego Bogu Ojcu.
@@ -48,31 +48,31 @@ Słowo Chrystusowe niech przebywa w was obficie, abyście z wszelką mądrości�
 O jedno proszę Pana, jednego pragnę, bym mógł przebywać w domu Pańskim po wszystkie dni życia mego.
 !Ps 83:5
 Szczęśliwi, którzy mieszkają w domu Twoim Panie, gdyż na wieki wieków mogą Cię chwalić. Alleluja, alleluja.
-!Isai 45:15
+!Iz 45:15
 Zaprawdę Tyś jest Król ukryty, Bóg Izraela, Zbawiciel. Alleluja.
 
 [Tractus]
-!Hebr 10:5
+!Hbr 10:5
 Nie chciałeś ofiary i obiaty; aleś mi ciało sposobił.
 !Ps 39:7-8
 Całopalenia i za grzech nie żądałeś. Tedym rzekł: Oto idę.
-!Hebr 10:7
+!Hbr 10:7
 V. Na początku ksiąg napisano jest o mnie, abym czynił, Boże! wolą twoje.
 
 [GradualeP]
 Alleluja, alleluja
-!Prov 8:34
+!Prz 8:34
 Błogosławiony człowiek, który mnie słucha i który czuwa co dzień u drzwi moich i strzeże podwojów mej bramy.
-!Col 3:3
+!Kol 3:3
 Żywot wasz skryty jest z Chrystusem w Bogu. Alleluja.
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Łukasza.
-!Luc 2:42-52
+!Łk 2:42-52
 Gdy Jezus miał lat dwanaście, udali się do Jerozolimy według zwyczaju onego święta. A po upływie dni, gdy wracali, zostało Dziecię Jezus w Jerozolimie, a nie wiedzieli o tym rodzice Jego. I mniemając, że jest On w gromadzie, uszli dzień drogi i szukali Go między krewnymi i znajomymi. A nie znalazłszy, wrócili do Jerozolimy, szukając Go. I stało się, że po upływie dni trzech znaleźli Go w świątyni, siedzącego wpośród doktorów, słuchającego ich i zadającego im pytania. A zdumiewali się wszyscy, którzy Go słuchali, nad rozumem i nad odpowiedziami Jego. I ujrzawszy Go zdziwili się. I rzekła doń Matka Jego: «Synu, cóżeś to nam uczynił? Oto ojciec Twój i ja, bolejąc, szukaliśmy Ciebie». I rzekł do nich: «Cóż jest, żeście mnie szukali? Czy nie wiedzieliście, że w tym, co jest Ojca mego być winienem?» Lecz oni nie zrozumieli tych słów, które im mówił. I udał się z nimi, i przyszedł do Nazaretu, a był im poddany. A Matka jego wszystkie te słowa zachowywała w sercu swoim. Jezus zaś wzrastał w mądrości i latach, i w łasce u Boga i u ludzi.
 
 [Offertorium]
-!Luc 2:22
+!Łk 2:22
 Przynieśli Jezusa Rodzice Jego do Jeruzalem, aby Go stawić przed Panem.
 
 [Secreta]
@@ -89,7 +89,7 @@ Wejrzyj miłościwie na dary Twojego Kościoła, który składa ci już nie zło
 $Qui tecum
 
 [Communio]
-!Luc 2:51
+!Łk 2:51
 Wrócił Jezus z Nimi, przyszedł do Nazaretu i był im poddany.
 
 [Postcommunio]

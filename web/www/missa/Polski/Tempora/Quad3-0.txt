@@ -28,7 +28,7 @@ $Per Dominum
 
 [Lectio]
 Czytanie z Listu świętego Pawła Apostoła do Efezjan.
-!Ephes 5:1-9
+!Ef 5:1-9
 Bracia: Bądźcież naśladowcami Bożymi jako synowie najmilsi i postępujcie w miłości, jako i Chrystus umiłował nas i wydał samego siebie za nas na dar i na ofiarę, na wonność wdzięczności. A rozpusta i wszelka nieczystość albo chciwość niech nie będą nawet wspominane między wami, jak przystoi świętym. Podobnie też i bezwstyd albo głupie mowy lub nieprzystojne żarty, nie należące do rzeczy, ale raczej składanie dziękczynienia. Bo o tym powinniście być przekonani, że żaden rozpustnik albo nieczysty lub chciwiec ((co jest bałwochwalstwem)) nie ma dziedzictwa w Królestwie Chrystusowym i Bożym. Niechże was nikt nie zwodzi próżnymi słowy, bo za to nadciąga gniew Boży na synów niedowiarstwa. Nie wchodźcie więc z nimi w uczestnictwo. Niegdyś bowiem byliście ciemnością, ale teraz staliście się światłością w Panu. Postępujcie jako synowie światłości. Bo owoc światłości polega na wszelkiej dobroci, sprawiedliwości i prawdzie.
 
 [Graduale]
@@ -45,7 +45,7 @@ V. Zmiłuj się nad nami, Panie, zmiłuj się nad nami.
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Łukasza.
-!Luc 11:14-28
+!Łk 11:14-28
 Onego czasu: Wyrzucał Jezus czarta, a ten był niemy. A gdy wyrzucił czarta, przemówił niemy i zdumiały się rzesze. I mówili niektórzy z nich: «Przez Belzebuba, księcia czartowskiego, wyrzuca czarty». A inni, kusząc, domagali się od Niego znaku z nieba. Ale On, znając ich myśli, rzekł im: «Wszelkie królestwo rozdzierane niezgodą będzie spustoszone, a dom na dom upadnie. A jeśliby i szatan rozdzierany był niezgodą, jakże ostoi się królestwo jego, skoro powiadacie, że ja przez Belzebuba wyrzucam czarty? A jeśli ja przez Belzebuba wyrzucam czarty, synowie wasi przez kogo wyrzucają? Dlatego oni będą sędziami waszymi. Lecz jeśli ja mocą Bożą wyrzucam czarty, tedy przyszło do Was Królestwo Boże.
 Gdy zbrojny mocarz strzeże domu swego, bezpieczne jest to, co ma. Ale jeżeli mocniejszy od niego nadejdzie i zwycięży go, zabierze wszystką jego broń, w której ufał, a łupy jego rozda. Kto nie jest ze mną, przeciwko mnie jest, a kto nie zgromadza ze mną, rozprasza.
 Gdy duch nieczysty opuści człowieka, błąka się po miejscach bezwodnych, szukając odpocznienia, a nie znajdując mówi: Wrócę się do domu mego, skąd wyszedłem. I wróciwszy znajduje go umiecionym i przyozdobionym. Wówczas idzie i bierze ze sobą siedmiu innych duchów, gorszych od siebie, i wszedłszy mieszkają tam. I stają się późniejsze rzeczy człowieka owego gorsze niźli pierwsze».
