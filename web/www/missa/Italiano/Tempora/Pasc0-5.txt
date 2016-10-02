@@ -37,11 +37,11 @@ Dite a tutte le genti che il Signore regnò dalla Croce.
 
 [Evangelium]
 Seguito ++ del Santo vangelo secondo Matteo.
-!Matth 28:16-20
+!Matt 28:16-20
 In quel tempo gli undici discepoli andarono in Galilea al monte designato loro da Gesù. E, vedutolo, lo adorarono, mentre alcuni avevano prima dubitato. E Gesù, accostatosi, disse loro: «Mi è stato dato ogni potere, in cielo e in terra. Andate dunque ad ammaestrare tutte le genti, battezzandole nel nome del Padre e del Figlio e dello Spirito Santo, insegnando loro ad osservare tutte le cose che vi ho comandate. Ed ecco io sono con voi tutti i giorni, sino alla fine del mondo».
 
 [Offertorium]
-!Ex 12:14
+!Exod 12:14
 Questo giorno sarà per voi un ricordo, alleluia; e questa festa del Signore la festeggerete di età in età, come statuto perpetuo, alleluia, alleluia, alleluia.
 
 [Secreta]
@@ -49,7 +49,7 @@ O Signore, accetta placato queste offerte che ti presentiamo in espiazione dei r
 $Per Dominum
 
 [Communio]
-!Matth 28:18-19
+!Matt 28:18-19
 Mi è stato dato ogni potere in cielo ed in terra: andate ed ammaestrate tutte le genti, battezzandole nel nome del Padre e del Figlio e dello Spirito Santo, alleluia, alleluia.
 
 [Postcommunio]

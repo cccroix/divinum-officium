@@ -19,7 +19,7 @@ $Per Dominum
 
 [Lectio]
 Lettura della Lettera del Beato Pietro Apostolo
-!1 Petri 2:11-19 
+!1 Pet 2:11-19 
 Caríssimi: Vi scongiuro che, come forestieri e pellegrini vi asteniate dai desiderii carnali, che mílitano contro l’ànima, vivendo bene tra i gentili, affinché, pure sparlando di voi quasi siate malfattori, considerando le vostre òpere buone, glorífichino Iddio nel giorno della sua venuta. Siate dunque soggetti ad ogni autorità umana per riguardo a Dio: sia al re come sovrano, sia ai prefetti come mandati da lui per far vendetta dei malfattori, e per onorare i buoni. Perché tale è la volontà di Dio, che facendo il bene chiudiate la bocca all’ignoranza degli uomini stolti. Comportatevi da uomini liberi, senza però che la libertà vi serva di pretesto alla malizia, ma come servi di Dio. Onorate tutti, amate i fratelli, temete Dio, rendete onore al re. Servi, siate soggetti con ogni timore ai padroni, non solo ai buoni e clementi, ma anche ai duri. Questa infatti è una grazia: in Gesú Cristo nostro Signore.
 
 [Graduale]
@@ -31,7 +31,7 @@ Bisognava che Cristo soffrisse e risorgesse dalla morte, ed entrasse cosí nella
 
 [Evangelium]
 Séguito ++ del S. Vangelo secondo Giovanni.
-!Joann 16:16-22
+!Joannes 16:16-22
 In quel tempo: Gesú disse ai suoi discepoli: Ancora un poco e non mi vedrete piú: e di nuovo un altro poco e mi rivedrete, perché io vado al Padre. Dissero perciò tra loro alcuni dei suoi discepoli: Che significa ciò che dice: Ancora un poco e non mi vedrete piú: e di nuovo un altro poco e mi rivedrete, perché io vado al Padre? Cos’è questo poco di cui parla? Non comprendiamo quel che dice. E conobbe Gesú che volevano interrogarlo, e disse loro: Vi chiedete tra voi perché abbia detto: Ancora un poco e non mi vedrete piú: e di nuovo un altro poco e mi rivedrete. In verità, in verità vi dico che voi piangerete e gemerete, laddove il mondo godrà, sarete oppressi dalla tristezza, ma questa si muterà in gioia. La donna, allorché partorisce, è triste perché è giunto il suo tempo: quando poi ha dato alla luce il bambino non si ricorda piú dell’affanno, a motivo della gioia perché è nato al mondo un uomo. Anche voi siete adesso nella tristezza, ma vi vedrò di nuovo e il vostro cuore gioirà, e nessuno vi toglierà il vostro gàudio.
 
 [Offertorium]
@@ -43,7 +43,7 @@ In virtú di questi misteri, concédici, o Signore, la grazia con la quale, miti
 $Per Dominum
 
 [Communio]
-!Joann 16:16
+!Joannes 16:16
 Ancora un poco e non mi vedrete piú, allelúia: ancora un poco e mi vedrete, perché vado al Padre, allelúia, allelúia.
 
 [Postcommunio]

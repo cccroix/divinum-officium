@@ -32,7 +32,7 @@ V. Io ho pregato per te, o Pietro, che la tua fede non venga meno: e tu, quando 
 
 [Evangelium]
 Séguito ++ del S. Vangelo secondo Matteo.
-!Matth 19:27-29
+!Matt 19:27-29
 In quel tempo Pietro disse a Gesù: « Ecco noi abbiamo lasciato ogni cosa e ti abbiamo seguito; che cosa adunque avremo noi? ».  E Gesù disse loro: « In verità vi dico: Voi che mi avete seguito, nella rigenerazione, quando il Figlio dell'uomo sederà sul trono della sua gloria, sederete anche voi sopra dodici troni a giudicare le dodici tribù di Israele.  E chiunque avrà lasciato casa, fratelli o sorelle, o padre o madre, o moglie o figli, o campi per amore del nome mio, riceverà il centuplo e possederà la vita eterna ».
 
 [Offertorium]
@@ -44,7 +44,7 @@ Le offerte, o Signore, che Ti presentiamo, affinché siano consacrate al tuo nom
 $Per Dominum
 
 [Communio]
-!Matth 19:28
+!Matt 19:28
 Voi che mi avete seguito, sederete su troni a giudicare le dodici tribù d'Israele.
 
 [Postcommunio]

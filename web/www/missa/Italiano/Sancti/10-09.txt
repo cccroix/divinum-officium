@@ -6,7 +6,7 @@ vide C5;
 Gloria
 
 [Introitus]
-!Eccl 42:15-16.
+!Eccli 42:15-16.
 v. Per la parola di Dio sta l'opera sua; il sole splendente contempla tutte le cose, e della gloria del Signore son piene le opere sue.
 !Ps 95:1
 Cantate al Signore un cantico nuovo, la terra tutta canti a Dio.
@@ -25,7 +25,7 @@ Fratelli, avendo ricevuto questo ministero, per misericordiosa concessione di Di
 [Graduale]
 !Ps 72:21; 68:10
 Di fiamma fu il mio cuore, e le mie viscere sconvolte. Lo zelo della tua casa mi divorava.
-!Isai 49:2
+!Isa 49:2
 Dio rese la mia lingua penetrante come spada; mi custodì all'ombra della sua mano e fece di me una freccia scelta. Alleluia, alleluia.
 !Ps 70:7
 Fui per molti come un prodigio, poiché Tu eri il mio valido protettore. Alleluia.

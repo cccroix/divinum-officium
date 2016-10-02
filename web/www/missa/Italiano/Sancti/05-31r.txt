@@ -31,7 +31,7 @@ $Per Dominum
 
 [Lectio]
 Dal libro della Sapienza.
-!Eccl 24:5; 24:7, 24:9-11; 24:30-31
+!Eccli 24:5; 24:7, 24:9-11; 24:30-31
 Io sono uscita dalla bocca dell'Altissimo, primogenita di tutta la creazione. Nel più alto dei cieli ho la mia dimora e il mio trono sulla colonna di nube. In tutta la terra ho stabilito il mio soggiorno: ho regnato su ogni popolo e su ogni nazione. I cuori di tutti, grandi e piccoli, con la mia potenza ho soggiogati. Chi mi ascolta, non patirà vergogna; chi agisce con me, non peccherà; chi mi fa conoscere, avrà la vita eterna.
 
 [GradualeP]
@@ -40,7 +40,7 @@ V. Beata sei tu, Vergine Maria, sei stata forte presso la croce del Signore. All
 V. Adesso regni con lui in eterno. Alleluia.
 
 [Graduale]
-!Apoc 19:16
+!Rev 19:16
 E scritto sul suo manto e sul fianco: Re dei re, e Signore dei signori.
 !Ps 44:10
 La Regina sta alla sua destra ornata d’oro di Ofir. Alleluia, alleluia.
@@ -55,7 +55,7 @@ V. Madre di Dio, prega per noi.
 
 [Evangelium]
 Seguito ++ del Santo Vangelo secondo Luca.
-!Luc 1:26-33
+!Luke 1:26-33
 In quel tempo, l'angelo Gabriele fu inviato da Dio in una città della Galilea, di nome Nazareth, ad una vergine sposa di un uomo di nome Giuseppe, della stirpe di Davide; e il nome della vergine era Maria. L'angelo, entrando da lei, disse: «Ave, piena di grazia; il Signore è con te, tu sei benedetta fra le donne». Mentre l'udiva, fu turbata alle sue parole, e si domandava cosa significasse quel saluto. E l'angelo le disse: «Non temere, Maria, poiché hai trovato grazia presso Dio. Ecco, concepirai nel tuo seno e partorirai un figlio, e gli porrai nome Gesù. Egli sarà grande e sarà chiamato Figlio dell’Altissimo, e il Signore Iddio gli darà il trono di Davide, suo padre: e regnerà sulla casa di Giacobbe in eterno, e il suo regno non avrà fine».
 
 [Offertorium]

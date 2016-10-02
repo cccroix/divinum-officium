@@ -14,7 +14,7 @@ no Ultima Evangelium
 #Benedizione dei rami di palma
 ! All'ora appropriate, in coro dopo la Terza, omessa l'aspersione dell'acqua, si procede a benedire i rami di palma o di olivo, o di altri alberi. Il colore dei parementi è roso. Il Celebrante è vestito di amitto, alba, cingolo, stola e piviale; i ministri scari di amitto, alba, cingolo, il suddiacono con la tunicella sopra, il diacono con stola e dalmatica. Il Celebrante è vestito di amitto, alba, cingolo, stola e piviale, o rimane senza casula.
 ! I rami, se non sono già tenuti in mano dagli stessi fedeli, si preparono super un tavolo, coperto con una tovaglia bianca, e posto nel luogo più opportuno nel presbiterio, così tuttavia, che rimanga in vista del popolo. Una volta che tutto è a posto secondo il rito, il celebrante, con i ministri sacri, fatta la debita reverenza all'altare, si sistema dietro al tavolino, rivolto al popolo. Intanto so canta il seguente
-!Matth 21:9
+!Matt 21:9
 Ant. Osanna al Figlio di David, benedetto Colui che viene nel nome del Signore.
 O Re di Israele: Osanna nel più alto dei cieli!
 V. Il Signore sia con voi
@@ -31,7 +31,7 @@ _
 ! Pertanto il celebrante, i piedi sulla pedana dell'altare, rivolto al popoplo, con l'aiuto dei ministri sacri o dei ministranti, da i rami benedetti prima a tutti i chierici per ordine, poi ai ministranti, infine, ai cancelli, ai fedeli.
 ! E mentre si inizia a distribuire, si cantano le seguenti antifone e salmi in questo modo.
 Ant. I fanciulli ebrei, portando rami di olivo, andarono incontro al Signore, acclamando e dicendo: Osanna nel più alto dei cieli.
-!Ps 23:1-2; 23:7-10
+!Psalmus 23:1-2; 23:7-10
 v. Del Signore è la terra e quanto la riempie, * l'universo e coloro che vi abitano.
 Poiché egli sopra i mari l'ha fondato * e sui fiumi l'ha consolidato.
 Ant. I fanciulli ebrei, portando rami di olivo, andarono incontro al Signore, acclamando e dicendo: Osanna nel più alto dei cieli.
@@ -74,7 +74,7 @@ $Dominus vobiscum
 !! Vangelo
 Seguito ++ del S. Vangelo sec. S. Matteo.
 R. Gloria a Te, o Signore.
-!Matth 21:1-9
+!Matt 21:1-9
 In quel tempo: Avvicinandosi a Gerusalemme, arrivato a Bètfage, vicino al monte degli ulivi, Gesù mandò due suoi discepoli, dicendo loro: «Andate nel villaggio dirimpetto a voi, e subito vi troverete un'asina legata con il suo puledro: scioglietela e conducetemela. E, se qualcuno vi dirà qualche cosa, dite; - il Signore ne ha bisogno; e subito ve li rilascerà». Ora tutto questo avvenne perché si adempisse quanto detto dal Profeta: «Dite alla figlia di Sion (Gerusalemme): Ecco il tuo Re viene a Te, mansueto, seduto sopra di un'asina ed asinello puledro di una giumenta». I Discepoli andarono e fecero come Gesù aveva loro detto. Menarono l'asina ed il puledro, vi misero sopra i mantelli e Gesù sopra a sedere. E molta gente stese i mantelli lungo la strada, mentre altri tagliavano rami dagli alberi e li spargevano sulla via, mentre le turbe che precedevano e seguivano gridavano: «Osanna al Figlio di Davide; benedetto Colui che viene nel nome del Signore».
 R. Lode a Te, o Cristo!
 S. Per questi evangelici detti siano perdonati i nostri peccati.
@@ -128,7 +128,7 @@ Gloria, lode e onore sia a te, Re Cristo Redentore, al quale i migliori fanciull
 _
 _
 Ant. Tutti al tuo nome danno lode, dicendo: Benedetto Colui che viene nel nome del Signore! Osanna nel più alto dei cieli !
-!!Ps 147
+!!Psalmus 147
 v. Celebra, o Gerusalemme, il Signore, loda il tuo Dio, o Sion,
 Perché ha reso sicure le tue porte, dentro di te ha benedetto i tuoi figli.
 Egli dà la pace ai tuoi confini, e di pingue frumento ti sazia.
@@ -207,7 +207,7 @@ D. Amen.
 
 [Evangelium1]
 Passione di nostro Signore Gesù Cristo secondo san Matteo.
-!Matth 26:36-75; 27:1-60.
+!Matt. 26:36-75; 27:1-60.
 
 [Evangelium]
 @:Munda Cor Passionis
@@ -225,7 +225,7 @@ Concedi, te ne preghiamo, o Signore, che quest'ostia offerta alla presenza della
 $Per Dominum
 
 [Communio]
-!Matth 26:42.
+!Matt 26:42.
 Padre mio, se non è possibile che questo calice passi senza chi lo beva, sia fatta la tua volontà.
 
 [Postcommunio]

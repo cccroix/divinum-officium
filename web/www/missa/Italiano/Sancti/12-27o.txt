@@ -10,7 +10,7 @@ Credo
 Prefatio=Nat
 
 [Introitus]
-!Eccl 15:5
+!Eccli 15:5
 v. Dio gli apri la bocca in mezzo all'assemblea, lo riempì dello spirito di sapienza e d'intelligenza; lo coprì col manto di gloria.
 !Ps 91:2
 È bene cantare la gloria al Signore: e lodare, Altissimo, il tuo Nome.
@@ -28,7 +28,7 @@ $Per eundem
 
 [Lectio]
 Dal libro della Sapienza.
-!Eccl 15:1-6
+!Eccli 15:1-6
 C hi teme Dio farà bene, e chi abbraccia la legge consegue la sapienza. Essa gli va incontro qual madre, e qual vergine sposa lo accoglie. Lo nutre col pane della vita e dell'intelligenza, lo disseta coll'acqua della salutare sapienza. Ed egli si appoggia a lei e non vacilla; a lei si affida e non rimane deluso. Lo fa grande sopra i suoi compagni. Nelle pubbliche adunanze gli dà la parola, lo riempie dello spirito di sapienza e d'intelligenza, e lo copre col manto della gloria; ammassa su di lui tesori di gioia e di allegrezza, e gli fa ereditare un nome eterno, il Signore Dio nostro.
 
 [Graduale]

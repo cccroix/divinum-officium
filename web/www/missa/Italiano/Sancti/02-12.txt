@@ -21,22 +21,22 @@ $Qui vivis
 
 [Lectio]
 Dal libro della Sapienza.
-!Eccl 44:1-15.
+!Eccli 44:1-15.
 Lodiamo gli uomini virtuosi, i nostri padri secondo i loro tempi. Molta gloria concesse loro il Signore di sua magnificenza fin da principio. Sovrani nei loro regni, furono uomini grandi nel valore, e, forniti di prudenza, onniveggenti per dono profetico; principi delle nazioni per il loro accorgimento, capi del popolo per la loro sagacia; saggi parlatori. Colla loro abilità trovarono le melodie della musica e pubblicarono i cantici delle Scritture. Uomini pieni di virtù , dotati di gusto per la bellezza, vissuti in pace nelle loro case. Tutti questi, tra la gente della loro generazione, ebbero gloria e stima nei loro tempi. Quelli che nacquero da essi lasciarono un nome che fa raccontare le loro lodi. E vi sono degli altri dei quali non esiste memoria, che perirono come se non fossero mai esistiti, nacquero, ma son come non nati, e con essi i loro figli. Ma quelli furono uomini virtuosi, e le loro opere di pietà non sono state dimenticate. Alla loro posterità ne restano i beni e la loro eredità passa ai nipoti, e i loro posteri stettero fedeli all'alleanza divina. E per merito loro ne rimangono in eterno i figli; la loro stirpe, la loro gloria non sarà mai dimenticata. I loro corpi riposano in pace, ma il loro nome vive nei secoli. Celebrino i popoli la loro sapienza e nelle adunanze si ripetano le loro lodi.
 
 [Graduale]
-!Isai 65:23.
+!Is 65:23.
 I miei eletti non lavoreranno invano, e non semineranno nell'affanno, perché essi sono progenie benedetta dal Signore, e con essi i loro discendenti.
-!Eccl 44:14.
+!Eccli 44:14.
 I loro corpi furono sepolti in pace, e il loro nome vive di generazione in generazione.
 Alleluia, alleluia.
-!Eccl 44:15.
+!Eccli 44:15.
 I popoli celebrino la loro sapienza e nelle adunanze siano ripetute le loro lodi. Alleluia.
 
 [Tractus]
-!Isai 65:23.
+!Is 65:23.
 I miei eletti non si affaticheranno invano, né genereranno nell'agitazione, perché sono la stirpe benedetta del Signore, essi e i loro discendenti.
-!Eccl 44:14.
+!Eccli 44:14.
 I loro corpi riposano in pace, ma il loro nome vive nei secoli.
 !Ps 125:5-6. Chi semina tra le lacrime raccoglie nella gioia.
 V. Ci si avvia nel pianto portando il grano da semina.
@@ -44,7 +44,7 @@ V. Se ne ritorna cantando e stringendo i mannelli di spighe.
 
 [GradualeP]
 Allelúia, allelúia
-!Eccl 44:15.
+!Eccli 44:15.
 I popoli celebrino la loro sapienza e nelle adunanze siano ripetute le loro lodi.
 Alleluia.
 !Ps 36:28.
@@ -52,11 +52,11 @@ Il Signore non abbandonerà i suoi santi: essi saranno conservati in eterno. All
 
 [Evangelium]
 Seguito ++ del Santo Vangelo secondo Matteo.
-!Matth 19:27-29.
+!Matt 19:27-29.
 In quel tempo Pietro disse a Gesù: «Ecco noi abbiamo lasciato ogni cosa e ti abbiamo seguito; che cosa adunque avremo noi?». E Gesù disse loro: «In verità vi dico: Voi che mi avete seguito, nella rigenerazione, quando il Figlio dell'uomo sederà sul trono della sua gloria, sederete anche voi sopra dodici troni a giudicare le dodici tribù di Israele. E chiunque avrà lasciato casa, fratelli o sorelle, o padre o madre, o moglie o figli, o campi per amore del nome mio, riceverà il centuplo e possederà la vita eterna».
 
 [Offertorium]
-!Isai 56:7.
+!Is 56:7.
 Li condurrò al mio santo monte, li farò lieti nella mia casa d'orazione; i loro olocausti, le loro vittime mi saranno graditi sul mio altare.
 
 [Secreta]

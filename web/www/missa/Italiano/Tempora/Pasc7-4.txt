@@ -22,7 +22,7 @@ $Per Dominum eiusdem
 
 [Lectio]
 Lettura degli Atti degli Apostoli.
-!Act 8:5-8
+!Acts 8:5-8
 In quei giorni: Filippo arrivato alla città di Samaria, vi predicava Cristo. La moltitudine prestava attenzione a quanto diceva Filippo, ascoltando di comune accordo, e ammirava i miracoli che faceva. Poiché da molti che avevano spiriti immondi, questi uscivano gridando ad alta voce. E furono anche guariti molti paralitici e zoppi. Tanto che vi fu grande allegrezza in quella città.
 
 [Graduale]
@@ -49,7 +49,7 @@ Santifica, Te ne preghiamo, o Signore, i doni che Ti vengono offerti, e monda i 
 $Per Dominum eiusdem
 
 [Communio]
-!Act 2:2; 2:4
+!Acts 2:2; 2:4
 Improvvisamente, nel luogo ove si trovavano, venne dal cielo un suono come di un vento impetuoso, allelúia: e furono ripieni di Spirito Santo, e decantavano le meraviglie del Signore, allelúia, allelúia.
 
 [Postcommunio]

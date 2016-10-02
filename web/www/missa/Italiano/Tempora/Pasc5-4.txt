@@ -10,7 +10,7 @@ Credo
 Prefatio=Asc
 
 [Introitus]
-!Act 1:11.
+!Acta 1:11.
 v. Uomini di Galilea, perché ve ne state stupiti a mirare il cielo? allelúia: nello stesso modo che lo avete visto ascendere al cielo, così ritornerà, allelúia, allelúia, allelúia.
 !Ps 46:2
 Applaudite, o genti tutte: acclamate Dio con canti e giubilo.

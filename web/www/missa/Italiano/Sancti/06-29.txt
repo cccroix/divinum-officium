@@ -11,7 +11,7 @@ Credo
 Prefatio=Apostolis
 
 [Introitus]
-!Act 12:11
+!Acts 12:11
 v. Adesso riconosco veramente che il Signore ha mandato il suo Angelo: e mi ha liberato dalle mani di Erode e da ogni attesa dei Giudei.
 !Ps 138:1-2
 Signore, tu mi scruti e mi conosci: conosci il mio riposo e il mio cammino.
@@ -31,7 +31,7 @@ In quei giorni: Il re Erode mise le mani su alcuni membri della Chiesa per maltr
 !Ps 44:17-18
 Li costituirai príncipi sopra tutta la terra: essi ricorderanno il tuo nome, o Signore.
 V. Ai padri succederanno i figli; perciò i popoli Ti loderanno. Alleluia, alleluia.
-!Matth 18:18
+!Matt 18:18
 Tu sei Pietro, e su questa pietra edificherò la mia Chiesa. Allelúia.
 
 [Evangelium]

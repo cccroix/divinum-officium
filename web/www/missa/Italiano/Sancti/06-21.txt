@@ -19,7 +19,7 @@ $Per Dominum
 
 [Lectio]
 Dal libro della Sapienza.
-!Eccl 31:8-11
+!Eccli 31:8-11
 Beato l'uomo che è trovato senza macchia, che non è andato dietro all'oro, e non ha sperato nel danaro e nei tesori. Chi è costui e gli daremo lode? Poiché certo ha fatto meraviglie nella sua vita. Costui, che fu provato con l'oro e rimase incorrotto, sicché ridonda a sua gloria? Costui, che poteva peccare e non peccò, fare del male e non lo fece? Per questo i suoi beni sono resi stabili nel Signore.
 
 [Graduale]
@@ -39,7 +39,7 @@ Dio, mi istruisci dalla mia giovinezza, e finché io annunzi la tua potenza. All
 
 [Evangelium]
 Seguito ++ del Santo Vangelo secondo Matteo.
-!Matth 22:28-40
+!Matt 22:28-40
 In quel tempo Gesù, rispondendo ai Sadduci, disse: «Voi sbagliate perché non comprendete né le Scritture, né la potenza di Dio. Dopo risuscitati, infatti, né s'ammogliano, né si maritano; ma vivono come Angeli di Dio in Cielo. In quanto poi alla risurrezione dei morti, non avete letto quel che vi fu detto da Dio: "lo sono il Dio d'Abramo, il Dio d'Isacco, il Dio di Giacobbe?”. Non è dunque il Dio dei morti, ma dei vivi». E le turbe che ascoltavano, stupivano della sua dottrina. Ma i farisei, saputo come aveva ridotto al silenzio i Sadducei, si unirono insieme; e lo interrogò uno di loro, dottore della Legge, per tentarlo: «Maestro, qual è il maggiore comandamento della Legge?». E Gesù gli rispose: «Ama il Signore Dio tuo con tutto il cuore, con tutta l'anima tua, con tutta la tua mente. Questo è il massimo e primo comandamento; il secondo poi gli somiglia: Ama il prossimo tuo come te stesso. A questi due comandamenti si riduce tutta la Legge e i Profeti».
 
 [Offertorium]

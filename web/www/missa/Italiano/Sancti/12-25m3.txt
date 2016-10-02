@@ -9,7 +9,7 @@ celebranda aut missa prima aut missa secunda aut missa tertia
 (rubrica 1960) no Ultima Evangelium
 
 [Introitus]
-!Isai 9:6
+!Isa 9:6
 v. Ci è nato un Bambino e ci è stato dato un Figlio, il cui impero poggia sugli òmeri suoi: il suo nome sarà Àngelo del buon consiglio.
 !Ps 97:1
 Cantate al Signore un càntico nuovo: poiché ha fatto cose mirabili.

@@ -13,7 +13,7 @@ Gloria
 CredoDA
 
 [Introitus]
-!Eccl 15:5.
+!Eccli 15:5.
 v. Dio gli aprì la bocca in mezzo all'assemblea, lo riempì dello spirito di sapienza e d'intelligenza; lo coprì col manto della gloria.
 !Ps 91:2. È bene cantare la gloria al Signore: e lodare, Altissimo, il tuo Nome.
 &Gloria
@@ -29,7 +29,7 @@ DalIa seconda lettera di san Paolo apostolo a Timoteo
 Carissimo: Ti scongiuro davanti a Dio e a Gesù Cristo, che ha da venire a giudicare i vivi ed i morti, per la sua venuta e per il suo regno: predica la Parola, insisti a tempo opportuno e fuori tempo. Riprendi, esorta, sgrida con paziente insegnamento; perché verrà tempo in cui la gente non potrà sopportare la sana dottrina, ma per assecondare la propria passione e per prurito di novità, si creerà una folla di maestri, e per non ascoltare la verità andrà dietro a favole. Ma tu veglia sopra tutte le cose, sopporta le afflizioni, compi l'ufficio di predicare il Vangelo, adempi il tuo ministero e sii temperante. In quanto a me il mio sangue sta per essere versato come una libazione e il tempo del mio scioglimento dal corpo è vicino. Ho combattuto la buona battaglia, ho conservato la fede. Non mi resta che ricevere la corona di giustizia, che mi darà in quel giorno il Signore, giusto giudice; e non solo a me, ma anche a quelli che desiderano la sua venuta.
 
 [Graduale]
-!Eccl 44:16
+!Eccli 44:16
 Ecco il grande pontefice, che nella sua vita piacque a Dio.
 !Ps 44:20
 Non si trovò alcuno simile a lui nell'osservare la legge dell'Eccelso. Alleluia, alleluia.
@@ -38,7 +38,7 @@ Tu sei sacerdote per sempre, secondo l'ordine di Melchisedech. Alleluia.
 
 [Evangelium]
 Seguito ++ delmSanto Vangelo secondo Matteo.
-!Matth 5:13-19
+!Matt 5:13-19
 In quel tempo Gesù disse ai suoi discepoli: «Voi siete il sale della terra. E se il sale perde la sua virtù, come lo si riattiverà? Non è più buono che ad essere gettato via e calpestato dalla gente. Voi siete la luce del mondo. Non può rimanere nascosta una città posta sopra un monte. Né si accende la lucerna per riporla sotto il moggio, ma sul candeliere, perché faccia lume a quanti sono in casa. Cosi risplenda la vostra luce dinanzi agli uomini, affinché vedano le vostre opere buone e glorifichino il Padre vostro che è nei cieli. Non crediate che io sia venuto ad abrogare la Legge o i Profeti, ma a completare. In verità vi dico che finché non passi il cielo e la terra non passerà un solo iota o un apice solo della Legge, che tutto non sia compiuto. Chi pertanto violerà uno dei minimi di questi comandamenti e insegnerà così agli uomini, sarà tenuto minimo nel regno dei cieli; ma colui che avrà operato ed insegnato, sarà tenuto grande nel regno dei cieli».
 
 [Offertorium]
@@ -50,7 +50,7 @@ O Signore, non ci venga mai meno l'intercessione pia del beato Pier Crisologo ve
 $Per Dominum
 
 [Communio]
-!Matth 25:20; 25:21
+!Matt 25:20; 25:21
 O Signore, tu mi affidasti cinque talenti: ecco che ne ho guadagnati altri cinque. Bene, o servo buono e fedele! Poiché sei stato fedele nel poco, ti darò autorità su molto: entra nel gaudio del tuo Signore.
 
 [Postcommunio]

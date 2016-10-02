@@ -5,7 +5,7 @@ Commune Summorum Pontificum; Si diligis
 Prefatio=Apostolis
 
 [Introitus]
-!Joann 21:15-17
+!Joannes 21:15-17
 v. Se mi ami, Simon Pietro, pasci i miei agnelli, pasci le mie pecore.
 !Ps 29:2
 Ti voglio esaltare, Signore, perché mi hai salvato, né hai fatto che gioisca colui che mi ha in odio.
@@ -34,7 +34,7 @@ Carissimi: Sacerdote anch'io e teste della Passione di Cristo e chiamato ad aver
 !Ps 106:32; 106:31
 Lo esaltino nell'assemblea del popolo e lo lodino nel consesso degli anziani.
 V. Ringrazino il Signore per la sua bontà e per i suoi prodigi a favore degli uomini. Alleluia, alleluia.
-!Matth 16:18
+!Matt 16:18
 Tu sei Pietro, e su questa pietra edificherò la mia Chiesa!
 Alleluia.
 
@@ -53,7 +53,7 @@ Seguito ++ del Santo Vangelo secondo Matteo.
 In quel tempo, Gesù, venuto nella zona di Cesarea di Filippo, interrogava i suoi discepoli: «Chi dicono che sia il Figlio dell'uomo?». Ed essi risposero: «Alcuni Giovanni il. Battista, altri Elia, altri ancora Geremia, o uno dei profeti». Disse loro Gesù: «Ma voi, chi dite che io sia?». Rispose Simon Pietro: «Tu sei il Cristo, il Figlio del Dio vivente». E Gesù, in risposta, gli disse: «Beato sei tu, Simone, figlio di Giona, poiché non la carne e il sangue te l'hanno rivelato, ma il Padre mio che è nei cieli. E io dico a te che tu sei Pietro, e su questa pietra edificherò la mia Chiesa, e le porte degli inferi non prevarranno contro di essa. E ti darò le chiavi del regno dei cieli: tutto ciò che avrai legato sulla terra sarà legato anche nei cieli, e tutto ciò che avrai sciolto sulla terra sarà sciolto anche nei cieli».
 
 [Offertorium]
-!Jerem 1:9-10
+!Jer 1:9-10
 Ecco che le mie parole pongo sulla tua bocca: ecco che io ti prepongo a nazioni e a regni per svellere ed abbattere, per edificare e piantare.
 
 [Secreta]
@@ -65,7 +65,7 @@ O Signore, ricevi benigno questi doni, che lieti ti offriamo; e, per intercessio
 $Per Dominum
 
 [Communio]
-!Matth 16:18
+!Matt 16:18
 Tu sei Pietro, e su questa pietra edificherò la mia Chiesa!
 
 [Postcommunio]

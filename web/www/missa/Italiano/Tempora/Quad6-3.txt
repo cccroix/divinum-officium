@@ -25,7 +25,7 @@ $Qui tecum
 
 [LectioL1]
 Lettura del Profeta Isaia.
-!Isai 63:1-7
+!Isa 63:1-7
 Questo dice il Signore Iddio: Dite alla figliuola di Sion: Ecco, che arriva il tuo Salvatore; e la sua ricompensa è con lui. Chi è quegli che viene da Edom e da Bosra, con la veste tinta di rosso? cosi splendido nel suo abito, e così fiero nella grandezza della sua forza? Sono io, io che parlo con giustizia, io che sono potente per salvare. Perché dunque il tuo abito è rosso, e le tue vesti sono come di chi pigia nel tino? Il tino lo pigiai da me solo; e dei popoli con me non c'era nessuno. E io li pigiai col mio furore, e li calpestai coll'ira mia: il loro sangue mi sprizzò sulle vesti; e ne ho tutti i miei panni macchiati. Perché un giorno di vendetta era nel mio cuore, e l'anno della mia redenzione era venuto. Mirai all'intorno, e non era chi porgesse la mano, cercai e non ci fu chi desse aiuto; però mi soccorse il mio braccio, e la mia forza fu quella che mi sostenne. E ho schiacciato i popoli col mio sdegno, li ho stritolati col mio furore, e ho gettato a terra la loro fortezza. Io celebrerò le misericordie del Signore, le lodi del Signore, per tutto quello che ha fatto per noi il Signore Iddio nostro.
 $Deo Gratias
 
@@ -40,11 +40,11 @@ $Per eundem
 
 [Lectio]
 Lettura del Profeta Isaia.
-!Isai 53:1-12. 
+!Is 53:1-12. 
 In quei giorni disse Isaia: «O Signore, chi crederà a ciò che annunziammo? a chi si rivelerà la tua potenza? Egli (il Cristo) spunterà dinnanzi a Dio come virgulto, come germoglio che ha radici in arida terra. Egli non ha bellezza, né splendore; l'abbiamo veduto, ma non era di bell'aspetto, né l'abbiamo amato. Disprezzato, rifiuto degli uomini, l'uomo dei dolori, assuefatto al patire. Il suo volto era velato, Egli era cosi vilipeso che noi non ne facemmo alcun conto. Veramente egli ha presi sopra di sé i nostri mali, ha portati i nostri dolori; a noi è parso come un lebbroso, un percosso da Dio e umiliato. Egli invece è stato piagato per le nostre iniquità, è stato trafitto per le nostre scelleratezze: pesò su di lui il castigo che ci ridona la pace; per le sue lividure siamo stati risanati. Noi tutti siamo stati come pecore erranti, ciascuno aveva deviato per la sua strada, e il Signore pose addosso a lui l'iniquità di noi tutti. È stato sacrificato perché ha voluto: non ha aperto bocca; come pecorella sarà condotto al macello; come agnello muto dinanzi a chi lo tosa, egli non aprirà bocca. È tolto di mezzo con iniqua sentenza, ma chi si da pensiero della sua causa? Si egli fu strappato dalla terra dei viventi; per i peccati del mio popolo egli fu colpito a morte. A lui è preparata una tomba fra gli empi e tra i malfattori egli muore. E tuttavia non ha commesso iniquità né ebbe mai la frode sulla sua bocca. È Iddio che ha voluto consumarlo coi patimenti; ma quando avrà data la sua vita in sacrificio di espiazione, vedrà una lunga posterità e la volontà del Signore per mezzo di Lui sarà adempiuta. Libero dai tormenti dell'anima sua, ne vedrà i frutti e ne sarà sazio. Il Giusto, il mio Servo, santificherà delle moltitudini, e si addosserà le loro iniquità. Per questo gli darò una grande moltitudine; egli dividerà le spoglie dei forti, perché consegnò la sua vita alla morte, fu annoverato tra i malfattori, mentre caricava su di sé le colpe di molti e intercedeva per i peccatori».
 
 [Graduale]
-!Ps 101:2-5,14
+!Ps. 101:2-5,14
 Signore, ascolta la mia preghiera, e il mio grido giunga fino a te.
 V. Non mi nascondere il tuo volto nel giorno che io mi trovo angustiato, piega l'orecchio verso di me.
 V. In qualunque giorno io ti invocherò, affrettati ad esaudirmi.

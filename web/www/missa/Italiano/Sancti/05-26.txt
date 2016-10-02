@@ -10,7 +10,7 @@ Gloria
 [Introitus]
 !Rom 5:5.
 v. La carità di Dio è stata diffusa nel nostri cuori, per mezzo dello Spirito Santo, che ci è stato dato. (Allelúia, allelúia.)
-!Ps 102. 1. Anima mia, benedici il Signore, tutto il mio interno benedica il nome santo suo.
+!Ps. 102. 1. Anima mia, benedici il Signore, tutto il mio interno benedica il nome santo suo.
 &Gloria
 v. La carità di Dio è stata diffusa nel nostri cuori, per mezzo dello Spirito Santo, che ci è stato dato. (Allelúia, allelúia.)
 
@@ -38,7 +38,7 @@ Arse dentro di me il mio cuore: e divampò un fuoco nella mia meditazione. Allel
 
 [Evangelium]
 Seguito ++ del Santo Vangelo secondo Luca.
-!Luc 12:35-40
+!Luke 12:35-40
 In quel tempo: Disse Gesù ai suoi discepoli: «I vostri fianchi sian cinti ed accese nelle vostre mani le lucerne, come coloro che aspettano il loro padrone quando torni da nozze, per aprirgli appena giunge e picchia. Beati quei servi che il padrone, arrivando, troverà desti. In verità vi dico, che, cintosi, li farà sedere a tavola e si metterà a servirli. E se giungerà alla seconda vigilia e se giungerà alla terza vigilia e li troverà così, beati loro! Sappiate pero che se il padrone conoscesse in qual ora viene il ladro, veglierebbe senza dubbio, e non si lascerebbe sfondare la casa. E anche voi tenetevi pronti, perché, nell'ora che non pensate, verrà il Figlio dell'uomo.
 
 [Offertorium]

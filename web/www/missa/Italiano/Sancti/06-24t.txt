@@ -9,7 +9,7 @@ Gloria
 Credo
 
 [Introitus]
-!Isai 49:1; 49:2
+!Isa 49:1; 49:2
 v. Il Signore mi chiamò col mio nome fin dal seno di mia madre. Rese la mia bocca pari a una spada tagliente: mi protesse all’ombra della sua mano, e mi foggiò come una freccia acuta.
 !Ps 91:2
 È bello lodarti, o Signore: inneggiare al tuo nome, o Altissimo.
@@ -22,20 +22,20 @@ $Per Dominum
 
 [Lectio]
 Lettura del Profeta Isaia.
-!Isai 49:1-3; 49:5-7
+!Isa 49:1-3; 49:5-7
 Ascoltate, o isole, e state attenti o popoli lontani: il Signore mi chiamò fin dalle viscere di mia madre, fin dal suo seno si ricordò del mio nome. E rese la mia bocca pari a una spada tagliente: mi protesse sotto l’ombra delle sue mani, mi foggiò come freccia acuta e mi ripose nella sua faretra. E mi disse: Tu sei il mio servo, o Israele, e in te mi glorierò. E ora il Signore, che mi formò suo servo fin dal seno di mia madre, dice: Ecco, ti ho costituito come luce per le genti, per portare la mia salvezza fino alla estremità della terra. I re ti vedranno, i principi si leveranno, ti onoreranno a causa del Signore, del Santo d’Israele che ti ha scelto.
 
 [Graduale]
-!Jerem 1:5; 1:9
+!Jer 1:5; 1:9
 Prima che ti formassi nel seno di tua madre, ti ho conosciuto: e prima che uscissi dalle sue viscere, ti ho santificato.
 V. Il Signore stese la sua mano, mi toccò la bocca e mi parlò. Alleluia,~
 alleluia
-!Luc 1:76
+!Luke 1:76
 Tu, o fanciullo, sarai chiamato profeta dell’Altissimo: precederai il Signore per preparargli la via.
 
 [Evangelium]
 Séguito ++ del S. Vangelo secondo Luca
-!Luc 1:57-68
+!Luke 1:57-68
 Si compí il tempo in cui Elisabetta doveva partorire, ed ella partorí un figlio. I vicini e i parenti, avendo udito che il Signore aveva mostrata la sua misericordia verso di lei, se ne congratulavano. Dopo otto giorni, vennero a circoncidere il bambino, e volevano chiamarlo Zaccaria, come suo padre. Ma sua madre intervenne, dicendo: No, invece avrà nome Giovanni. Le replicarono: Non c’è nessuno nel tuo parentado che abbia questo nome. E facevano dei cenni al padre, per sapere come voleva che fosse chiamato. Ed egli chiesta una tavoletta, vi scrisse: il suo nome è Giovanni. E tutti restarono stupefatti. In quel momento la sua bocca si aprí e la sua lingua si sciolse, ed egli parlava benedicendo il Signore. Il timore invase l’intero vicinato, e la fama dell’accaduto si diffuse per tutte le montagne della Giudea. Quanti udivano queste cose, vi riflettevano e andavano dicendo: Che bambino sarà mai questo? Perché la mano del Signore era con lui. E Zaccaria, suo padre, fu ripieno di Spirito Santo, e profetò dicendo: Benedetto sia il Signore Dio d’Israele, perché ha visitato e redendo il suo popolo.
 
 [Offertorium]
@@ -47,7 +47,7 @@ Sopra i tuoi altari accumuliamo le offerte, o Signore, celebrando col dovuto ono
 $Qui tecum
 
 [Communio]
-!Luc 1:76
+!Luke 1:76
 Tu, o fanciullo, sarai chiamato profeta dell’Altissimo: precederai il Signore per preparargli a via.
 
 [Postcommunio]
@@ -59,7 +59,7 @@ Alleluia, alleluia
 !Ps 1:76
 Tu, Bambino, sarai chiamato Profeta dell'Altissimo: camminerai di fronte al Signore per preparargli le sue vie.~
 Alleluia.
-!Osee 14:6
+!Hos 14:6
 Il Giusto germoglierà come il giglio, e fiorirà in eterno davanti al Signore. Alleluia.
 
 

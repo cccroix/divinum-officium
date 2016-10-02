@@ -22,7 +22,7 @@ $Per Dominum
 
 [Lectio]
 Dal libro della Sapienza.
-!Eccl 44:10-15
+!Eccli 44:10-15
 Costoro furono uomini virtuosi, e le loro opere di pietà non sono state dimenticate. Alla loro posterità ne restano i beni e la loro eredità passa ai nipoti, e i loro posteri stettero fedeli all'alleanza divina. E per merito loro ne rimangono in eterno i figli; la loro stirpe, la loro gloria non sarà mai dimenticata. I loro corpi riposano in pace, ma il loro nome vive nei secoli. Celebrino i popoli la loro sapienza e nelle adunanze si ripetano le loro lodi.
 
 [Graduale]
@@ -33,7 +33,7 @@ V. Questo è il vero amore fraterno che vinse i delitti del mondo: ha seguito Cr
 
 [Evangelium]
 Seguito ++ del Santo Vangelo secondo Luca.
-!Luc 12:1-8
+!Luke 12:1-8
 In quel tempo Gesù disse ai suoi discepoli: «Guardatevi dal lievito dei Farisei che è l'ipocrisia. Ma non c'è niente di nascosto che non abbia ad essere scoperto, e niente di occulto che non abbia a venir conosciuto. Perciò quanto avrete detto all'oscuro, sarà detto nella luce, e quel che avrete detto all'orecchio nel segreto della camera, sarà strombazzato sui tetti. A voi poi, amici miei, io dico: Non abbiate paura di coloro che uccidono il corpo, e dopo ciò non possono far altro; ma vi mostrerò io chi dovete temere: temete colui che dopo avervi fatto morire ha potere di mandarvi all'inferno: temete questo, vi ripeto. Si vendono cinque passeri per due soldi, non è vero? Eppure nemmeno uno di essi è dimenticato dinanzi a Dio; anzi perfino i capelli del vostro capo sono tutti contati. Non temete adunque, voi valete ben più di molti passeri. Or vi dico: chi avrà riconosciuto Me davanti agli uomini, anche il Figlio dell'uomo lo riconoscerà davanti agli Angeli di Dio».
 
 [Offertorium]

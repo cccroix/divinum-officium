@@ -11,7 +11,7 @@ Credo
 Prefatio=Nat
 
 [Introitus]
-!Isai 9:6
+!Isa 9:6
 v. E’ nato per noi un Bambino, un figlio ci è stato donato: egli avrà sulle spalle il dominio, Consigliere mirabile, sarà il suo nome.
 !Ps 97:1
 Canto nuovo cantate al Signore poiché fatti mirabili Egli ha operato.

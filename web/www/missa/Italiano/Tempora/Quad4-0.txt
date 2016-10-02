@@ -8,7 +8,7 @@ Prefatio=Quad
 Suffragium=Sanctorum;Vivis;;
 
 [Introitus]
-!Isai 66:10 et 11.
+!Is 66:10 et 11.
 v. Alliétati, Gerusalemme, e voi tutti che l’amate, esultate con essa: rallegràtevi voi che foste tristi: ed esultate e siate sazii delle sue consolazioni.
 !Ps 121:1.
 Mi rallegrai di ciò che mi fu detto: andremo nella casa del Signore.
