@@ -26,7 +26,7 @@ $Per Dominum
 
 [Lectio1]
 Olvasmány szent János apostol első leveléből
-!1 Joann 1:1-5
+!1 John 1:1-5
 1 Ami kezdettől fogva volt, amit hallottunk, amit a szemünkkel láttunk, amit~
 szemléltünk és amit a kezünkkel tapintottunk: az élet Igéjét hirdetjük nektek.
 2 Igen, az élet megjelent, láttuk, tanúságot teszünk róla, és hirdetjük nektek~
@@ -46,7 +46,7 @@ rest.
 R. To him did Christ upon the Cross commit His mother, maiden to maiden.
 
 [Lectio2]
-!1 Joann 1:6-10
+!1 John 1:6-10
 6 Ha azt állítjuk, hogy közösségben vagyunk vele, és sötétségben járunk, akkor~
 hazudunk, és nem az igazságot tesszük.
 7 De ha világosságban járunk, ahogy ő is világosságban van, akkor közösségben~
@@ -67,7 +67,7 @@ fountain.
 R. And we know that his testimony is true.
 
 [Lectio3]
-!1 Joann 2:1-5
+!1 John 2:1-5
 1 Gyermekeim! Ezeket azért írom, hogy ne kövessetek el bűnt. De ha valaki bűnbe~
 esik, van szószólónk az Atyánál: Jézus Krisztus, az Igaz.
 2 Ő az engesztelő áldozat bűneinkért, nemcsak a mieinkért, hanem az egész világ~

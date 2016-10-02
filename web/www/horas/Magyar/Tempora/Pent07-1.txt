@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Olvasmány a Királyok első könyvéből
-!1 Reg 1:28-31
+!1 Kgs 1:28-31
 28 Ekkor Dávid király vette át a szót, és így rendelkezett: "Hívjátok ide~
 Batsebát!" Az bement a királyhoz és a király elé járult.
 29 A király megesküdött: "Úgy igaz, ahogy az Úr él, aki minden szorongatásomból~
@@ -20,7 +20,7 @@ az én királyom, Dávid!"
 @Tempora/Pent03-1Feria:Responsory1
 
 [Lectio2]
-!1 Reg 1:32-35
+!1 Kgs 1:32-35
 32 Azután Dávid király megparancsolta: "Hívjátok ide Cádok papot, Nátán prófétát~
 és Jojoda fiát, Benaját." Azok megjelentek a király előtt,
 33 s a király ezt mondta nekik: "Vigyétek magatokkal uratok szolgáit, azután~
@@ -35,7 +35,7 @@ Izrael és Júda fejedelme legyen."
 @Tempora/Pent01-3:Responsory2
 
 [Lectio3]
-!1 Reg 1:38-40
+!1 Kgs 1:38-40
 38 Cádok pap, Nátán próféta és Jojada fia, Benaja, valamint a kereták és a~
 peleták tehát elvonultak, Salamont felültették a király öszvérére és elvezették~
 Gichonba.

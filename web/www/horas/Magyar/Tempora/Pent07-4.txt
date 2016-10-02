@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Olvasmány a Királyok első könyvéből
-!1 Reg 5:1-4
+!1 Kgs 5:1-4
 1 Salamon kiterjesztette uralmát minden királyságra a folyótól egészen a filiszteusok földjéig és Egyiptom határáig. Ezek adót fizettek neki és alattvalói voltak Salamonnak, amíg csak élt. 
 2 Salamon napi szükséglete 30 kor lisztlángot és 60 kor simalisztet tett ki, 
 3 továbbá 10 hízómarhát és 20 ridegmarhát, végül 100 juhot, nem számítva a szarvasokat, gazellákat, antilopokat meg a hízott szárnyasokat. 
@@ -16,7 +16,7 @@ Olvasmány a Királyok első könyvéből
 @Tempora/Pent01-1:Responsory1
 
 [Lectio2]
-!1 Reg 5:5-9
+!1 Kgs 5:5-9
 5 Júda és Izrael biztonságban éltek, ki-ki a maga szőlője és fügefája árnyékában, Dántól Beersebáig, amíg csak Salamon élt. 
 6 Salamonnak volt végül négyezer állása a lóistállókban a szekerei számára és tizenkétezer lova. 
 7 Ezek a kormányzók látták el Salamont mindennel, ami Salamon király asztalára került, mindegyikük egy hónapig; nem hagyták, hogy valami is hiányozzék. 
@@ -27,7 +27,7 @@ Olvasmány a Királyok első könyvéből
 @Tempora/Pent01-1:Responsory2
 
 [Lectio3]
-!1 Reg 5:10-14
+!1 Kgs 5:10-14
 10 Salamon bölcsessége így felülmúlta Kelet országainak minden bölcsességét, sőt, még Egyiptom bölcsességét is. 
 11 Bölcsebb volt minden embernél, még az eszrachita Etánnál s Machol fiainál, Hemannál, Kalkolnál és Dardánál is. 
 12 Nevének híre eljutott körös-körül minden néphez. Háromezer mondást mondott, énekeinek száma pedig ezerötre rúg. 

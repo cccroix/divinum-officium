@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Olvasmány a Királyok második könyvéből
-!2 Reg 9:1-5
+!2 Kgs 9:1-5
 1 Elizeus magához szólította az egyik prófétatanítványt, és azt mondta neki: "Övezd fel derekadat, vedd kezedbe ezt az olajoskorsót, és menj el a gileádi Ramotba. 
 2 Ha megérkezel, keresd meg ott Jehut, Nimsi fiának, Josafátnak a fiát. Menj oda hozzá, hívd ki barátai köréből, és vezesd be a legbelső szobába. 
 3 Aztán fogd az olajos korsót, öntsd a fejére és mondd: Ezt mondja az Úr: Fölkenlek Izrael királyává! Aztán nyisd ki az ajtót és késedelem nélkül menekülj!" 
@@ -17,7 +17,7 @@ Olvasmány a Királyok második könyvéből
 @Tempora/Pent01-3:Responsory1
 
 [Lectio2]
-!2 Reg 9:6-10
+!2 Kgs 9:6-10
 6 Erre az fölállt és bement vele a házba. Ekkor a fejére öntötte az olajat, és azt mondta: "Ezt mondja az Úr, Izrael Istene: Fölkenlek az Úr népe, Izrael királyává. 
 7 Semmisítsd meg uradnak, Achábnak házát. Így bosszulom meg szolgáimnak, a prófétáknak s az Úr minden szolgájának vérét Izebelen 
 8 és Acháb egész házában. Acháb (házából) mind kiirtom, aki csak férfi, a szabadot is, a rabszolgát is Izraelben. 
@@ -28,7 +28,7 @@ Olvasmány a Királyok második könyvéből
 @Tempora/Pent01-3:Responsory2
 
 [Lectio3]
-!2 Reg 9:11-13
+!2 Kgs 9:11-13
 11 Amikor Jehu kiment ura szolgáihoz, megkérdezték tőle: "Rendben van (minden)? Minek jött ide ez a bolond hozzád?" "Hisz ismeritek az embert - felelte -, meg a fecsegését is." 
 12 De csak kérlelték: "Ki vele! Mondd meg nekünk is!" Erre elbeszélte: "Ezt és ezt mondta nekem. Mégpedig: Ezt mondja az Úr: Fölkentelek Izrael királyává." 
 13 Erre gyorsan vették a köntösüket és a lábhoz tették a puszta lépcsőre. Aztán megfújták a harsonákat és kikiáltották: "Jehu a király!" 

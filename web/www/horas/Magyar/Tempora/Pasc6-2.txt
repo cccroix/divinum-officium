@@ -12,7 +12,7 @@ Feria Te Deum
 
 [Lectio1]
 Olvasmány szent János apostol első leveléből
-!1 Joann 4:1-6
+!1 John 4:1-6
 1 Szeretteim, ne higgyetek minden léleknek, hanem vizsgáljátok meg a lelkeket, hogy Istentől származnak-e, mert sok hamis próféta ment ki a világba. 
 2 Az Istentől származó lelket erről ismeritek fel: minden lélek, amely megvallja, hogy Jézus Krisztus testben jött el, az Istentől van. 
 3 S minden lélek, amely nem vallja meg Jézust, nem az Istentől való, hanem az antikrisztusé, akiről hallottátok, hogy eljön, és most már a világban is van. 
@@ -24,7 +24,7 @@ Olvasmány szent János apostol első leveléből
 @Tempora/Pasc5-4:Responsory1
 
 [Lectio2]
-!1 Joann 4:7-14
+!1 John 4:7-14
 7 Szeretteim, szeressük egymást, mert a szeretet Istentől van, és mindenki, aki szeret, Istentől van, és mindenki, aki szeret, Istentől való és ismeri Istent. 
 8 Aki nem szeret, nem ismeri az Istent, mert az Isten szeretet. 
 9 Az Isten szeretete abban nyilvánul meg bennünk, hogy az Isten elküldte a világba egyszülött Fiát, hogy általa éljünk. 
@@ -38,7 +38,7 @@ Olvasmány szent János apostol első leveléből
 @Tempora/Pasc5-4:Responsory2
 
 [Lectio3]
-!1 Joann 4:15-21
+!1 John 4:15-21
 15 Aki vallja, hogy Jézus az Isten Fia, abban benne marad az Isten, és ő is az Istenben. 
 16 Megismertük és hittünk a szeretetben, amellyel Isten van irántunk. Az Isten szeretet, és aki kitart a szeretetben, az az Istenben marad, s az Isten is benne marad. 
 17 Abban teljesedett ki bennünk a szeretet, hogy bizalommal várjuk az ítélet napját, mert ahogyan ő, úgy vagyunk mi is ezen a világon. 
