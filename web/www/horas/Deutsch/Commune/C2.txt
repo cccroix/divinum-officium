@@ -15,7 +15,7 @@ Wer sich mir hingegeben hat, * den wird mein Vater ehren, der im Himmel ist, sag
 Ich möchte, o Vater, * dass da, wo ich bin, auch der ist, der sich mir hingibt.
 
 [Capitulum Vespera]
-!Jacob 1,12
+!Jak 1,12
 v. Selig ist der Mann, der in der Prüfung aushält; denn wenn er erprobt ist, wird er als Krone das Leben erhalten, das Gott seinen Liebhabern versprochen hat.
 $Deo gratias
 
@@ -78,7 +78,7 @@ R. Ruhm und herrlichsten Glanz hast du ihm verliehen.
 
 [Lectio1]
 Aus der Apostelgeschichte.
-!Act 20,17-24
+!Apg 20,17-24
 17 Von Milet sandte Paulus Boten nach Ephesus und rief die Ältesten der dortigen Gemeinde zu sich.
 18 Als diese zu ihm gekommen waren und alle zusammen waren, sprach er zu ihnen: Ihr selbst wisst es, wie ich vom ersten Tage, wo ich Asien betreten habe, mit euch zusammen ständig gelebt habe,
 19 dass ich dem Herrn gedient in aller Unterwürfigkeit unter Tränen und Anfeindungen, die mir zuteil wurden von den mir nachstellenden Juden;
@@ -95,7 +95,7 @@ V. Der ist es, der das Leben in dieser Welt verachtet hat und zum himmlischen K�
 R. Denn er war fest gegründet auf einem festen Felsen.
 
 [Lectio2]
-!Act 20,25-31
+!Apg 20,25-31
 25 Und nun hört es: Ich weiß, dass ihr alle mein Antlitz nicht mehr sehen werdet, bei denen ich verweilt und die Kunde vom Gottesreiche verbreitet habe.
 26 Darum versichere ich feierlich am heutigen Tage, dass ich schuldlos bin bei allen, wenn einer verloren geht.
 27 Denn ich habe nichts verheimlicht, sondern euch alle Ratschlüsse Gottes mitgeteilt.
@@ -111,7 +111,7 @@ V. Mit Wurzeln eingesenkt im Hause Gottes, in unseres Gottes Hallen.
 R. Und wie eine Blume vor dem Herrn in Ewigkeit.
 
 [Lectio3]
-!Act 20,32-38
+!Apg 20,32-38
 32 Und nun empfehle ich euch Gott und seiner übergroßen Huld, ihm, der mächtig genug ist, einen Bau aufzurichten und euch den Besitz zu gewähren an allem, was ihm gehört.
 33 Silber und Gold oder Kleidung habe ich von keinem erbeten, wie
 34 ihr selbst wisst; denn zur Beschaffung dessen, was ich brauchte, und auch für meine Begleiter haben diese Hände gedient.
@@ -161,7 +161,7 @@ R. Und einen herrlichen Kranz ihm auf das Haupt gesetzt.
 
 [Lectio7]
 Lesung aus dem heiligen Evangelium nach Lukas.
-!Luc 14,26-33
+!Lk 14,26-33
 In jener Zeit sagte Jesus zu den Volksscharen: Wenn jemand zu mir kommt und überwindet nicht die Liebe zu seinem Vater und zur Mutter und zur Gattin und zu den Kindern und zu den Brüdern und Schwestern, ja noch mehr, die Liebe zu sich selbst, so kann er mein Jünger nicht sein usw.
 _
 Auslegung vom heiligen Papst Gregor.
@@ -249,7 +249,7 @@ Verleihe uns, wir bitten dich, o allmächtiger Gott, die Gnade, dass wir auf die
 $Per Dominum
 
 [Lectio Prima]
-!Eccl 39,6
+!Sir 39,6
 v. Der Gottesdiener hat seinen Sinn in aller Frühe wachgehalten und zum Herrn, seinem Schöpfer, gelenkt und Gebete vor dem Allerhöchsten verrichtet.
 
 [Capitulum Tertia]
@@ -267,7 +267,7 @@ V. Du hast, o Herr, auf das Haupt ihm gesetzt.
 R. Eine Krone von herrlichsten Steinen.
 
 [Capitulum Sexta]
-!Eccl 15,3
+!Sir 15,3
 v. Es hat ihm zu essen gegeben Brot, das zum Leben führende Erkenntnis verschafft, und ihm zu trinken gegeben Wasser, das heilbringende Weisheit verleiht, der Herr, unser Gott.
 $Deo gratias
 
@@ -283,7 +283,7 @@ V. Groß ist sein Ruhm ob des Sieges, den du ihm gewährt hast.
 R. Ruhm und herrlichsten Glanz hast du ihm verliehen.
 
 [Capitulum Nona]
-!Eccl 39,6
+!Sir 39,6
 v. Der Gottesdiener hat seinen Sinn in aller Frühe wachgehalten und zum Herrn, seinem Schöpfer, gelenkt und Gebete vor dem Allerhöchsten verrichtet.
 $Deo gratias
 
@@ -337,7 +337,7 @@ R. In die solemnitátis et lætítiæ, allelúia.
 
 [Lectio71]
 Léctio sancti Evangélii secúndum Joánnem.
-!Joann 15:5-10
+!Joannes 15:5-10
 In illo témpore: Dixit Jesus discípulis suis: Ego sum vitis, vos pálmites: qui manet in me, et ego in eo, hic fert fructum multum: quia sine me nihil potéstis fácere. Et réliqua.
 _
 Homilía sancti Augustíni Epíscopi.
@@ -367,7 +367,7 @@ Si manséritis in me, inquit, et verba mea in vobis mánserint: quodcúmque volu
 
 [Lectio72]
 Léctio sancti Evangélii secúndum Matthǽum.
-!Matth 10:26-32
+!Matt 10:26-32
 In illo témpore: Dixit Jesus discípulis suis: Nihil est opértum, quod non revelábitur; et occúltum, quod non sciétur. Et réliqua.
 _
 Homilía sancti Hilárii Epíscopi.
@@ -392,7 +392,7 @@ Nolíte timére eos qui occídunt corpus. Nullus ígitur córporum nostrórum ca
 
 [Lectio73]
 Léctio sancti Evangélii secúndum Matthǽum.
-!Matth 16:24-27
+!Matt 16:24-27
 In illo témpore: Dixit Jesus discípulis suis: Si quis vult post me veníre, ábneget semetípsum, et tollat crucem suam, et sequátur me. Et réliqua.
 _
 Homilía sancti Gregórii Papæ.

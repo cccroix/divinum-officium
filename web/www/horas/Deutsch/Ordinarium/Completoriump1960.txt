@@ -3,7 +3,7 @@ V. Lass, o Herr, den Segen erteilen.
 Segen. Eine ungestörte Nacht und ein vollkommen gutes Ende verleihe uns der allmächtige und barmherzige Herr. Amen.
 
 #Kurzlesung
-!1 Petri 5,8-9
+!1 Petr 5,8-9
 Brüder, seid umsichtig und haltet Wache, weil euer Feind, der Teufel, wie ein Löwe mit aufgesperrtem Maul um euch herumschleicht und danach trachtet, einen zu verschlingen. Ihm stellt euch entgegen mit Festigkeit im Glauben.
 $Tu autem
 
@@ -43,7 +43,7 @@ Zugleich regiert auf ew'gem Thron.
 Amen.
 
 #Capitulum Responsorium Versus
-!Jerem 14,9
+!Jer 14,9
 v. Du aber bist unter uns, o Herr, und deine heilige Majestät ist angerufen zum Schutze über uns; verlass uns nicht, Herr, unser Gott. 
 R. Gott sei Dank gesagt.
 _

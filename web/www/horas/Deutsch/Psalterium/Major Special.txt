@@ -1,5 +1,5 @@
 [Day0 Laudes]
-!Apoc 7,12
+!Offb 7,12
 v. Preis und Ruhm und Huldigung und Dank, Ehre, Siegesruf und Triumphgesang sei unserm Gott in alle Ewigkeit. Amen.
 $Deo gratias
 
@@ -117,7 +117,7 @@ V. Mag mein Gebet zur Höhe steigen, o Herr.
 R. Vor dir wie Weihrauchwolken.
 
 [Day1 Laudes]
-!Rom 13,12-13
+!Röm 13,12-13
 v. Die Nacht ist vorüber, das Tageslicht ist nahe gekommen. Drum wollen wir ablegen die Werke, die die Finsternis suchen und die Ausstattung anlegen, die zum hellen Tage passt. Wie es dem hellen Tageslicht zukommt, so wollen wir uns wohlanständig bewegen.
 $Deo gratias
 
@@ -173,7 +173,7 @@ V. Wir haben nun die Fülle deiner Huld erfahren.
 R. Gejubelt und genossen große Freude.
 
 [Day1 Vespera]
-!2 Cor 1,3-4
+!2 Kor 1,3-4
 v. Gepriesen sei Gott, der Vater unseres Herrn Jesus Christus, der Urheber aller Erbarmung, und der Gott, der allen Trost in sich birgt, der uns in aller unserer Bedrängnis tröstet.
 $Deo gratias
 
@@ -209,7 +209,7 @@ V. Mag mein Gebet, o Herr, zur Höhe steigen.
 R. Vor dir wie Weihrauchwolken.
 
 [Day2 Laudes]
-!Rom 13,12-13
+!Röm 13,12-13
 v. Die Nacht ist vorüber, das Tageslicht ist nahe gekommen. Drum wollen wir ablegen die Werke, die die Finsternis suchen und die Ausstattung anlegen, die zum hellen Tage passt. Wie es dem hellen Tageslicht zukommt, so wollen wir uns wohlanständig bewegen.
 $Deo gratias
 
@@ -245,7 +245,7 @@ V. Wir haben nun die Fülle deiner Huld erfahren.
 R. Gejubelt und genossen große Freude.
 
 [Day2 Vespera]
-!2 Cor 1,3-4
+!2 Kor 1,3-4
 v. Gepriesen sei Gott, der Vater unseres Herrn Jesus Christus, der Urheber aller Erbarmung, und der Gott, der allen Trost in sich birgt, der uns in aller unserer Bedrängnis tröstet.
 $Deo gratias
 
@@ -281,7 +281,7 @@ V. Mag mein Gebet zur Höhe steigen, o Herr.
 R. Vor dir wie Weihrauchwolken.
 
 [Day3 Laudes]
-!Rom 13,12-13
+!Röm 13,12-13
 v. Die Nacht ist vorüber, das Tageslicht ist nahe gekommen. Drum wollen wir ablegen die Werke, die die Finsternis suchen und die Ausstattung anlegen, die zum hellen Tage passt. Wie es dem hellen Tageslicht zukommt, so wollen wir uns wohlanständig bewegen.
 $Deo gratias
 
@@ -317,7 +317,7 @@ V. Wir haben nun die Fülle deiner Huld erfahren.
 R. Gejubelt und genossen große Freude.
 
 [Day3 Vespera]
-!2 Cor 1,3-4
+!2 Kor 1,3-4
 v. Gepriesen sei Gott, der Vater unseres Herrn Jesus Christus, der Urheber aller Erbarmung, und der Gott, der allen Trost in sich birgt, der uns in aller unserer Bedrängnis tröstet.
 $Deo gratias
 
@@ -353,7 +353,7 @@ V. Mag mein Gebet zur Höhe steigen, o Herr.
 R. Vor dir wie Weihrauchwolken.
 
 [Day4 Laudes]
-!Rom 13,12-13
+!Röm 13,12-13
 v. Die Nacht ist vorüber, das Tageslicht ist nahe gekommen. Drum wollen wir ablegen die Werke, die die Finsternis suchen und die Ausstattung anlegen, die zum hellen Tage passt. Wie es dem hellen Tageslicht zukommt, so wollen wir uns wohlanständig bewegen.
 $Deo gratias
 
@@ -389,7 +389,7 @@ V. Wir haben nun die Fülle deiner Huld erfahren.
 R. Gejubelt und genossen große Freude.
 
 [Day4 Vespera]
-!2 Cor 1,3-4
+!2 Kor 1,3-4
 v. Gepriesen sei Gott, der Vater unseres Herrn Jesus Christus, der Urheber aller Erbarmung, und der Gott, der allen Trost in sich birgt, der uns in aller unserer Bedrängnis tröstet.
 $Deo gratias
 
@@ -425,7 +425,7 @@ V. Mag mein Gebet zur Höhe steigen, o Herr.
 R. Vor dir wie Weihrauchwolken.
 
 [Day5 Laudes]
-!Rom 13,12-13
+!Röm 13,12-13
 v. Die Nacht ist vorüber, das Tageslicht ist nahe gekommen. Drum wollen wir ablegen die Werke, die die Finsternis suchen und die Ausstattung anlegen, die zum hellen Tage passt. Wie es dem hellen Tageslicht zukommt, so wollen wir uns wohlanständig bewegen.
 $Deo gratias
 
@@ -466,7 +466,7 @@ V. Wir haben nun die Fülle deiner Huld erfahren.
 R. Gejubelt und genossen große Freude.
 
 [Day5 Vespera]
-!2 Cor 1,3-4
+!2 Kor 1,3-4
 v. Gepriesen sei Gott, der Vater unseres Herrn Jesus Christus, der Urheber aller Erbarmung, und der Gott, der allen Trost in sich birgt, der uns in aller unserer Bedrängnis tröstet.
 $Deo gratias
 
@@ -502,7 +502,7 @@ V. Mag mein Gebet zur Höhe steigen, o Herr.
 R. Vor dir wie Weihrauchwolken.
 
 [Day6 Laudes]
-!Rom 13,12-13
+!Röm 13,12-13
 v. Die Nacht ist vorüber, das Tageslicht ist nahe gekommen. Drum wollen wir ablegen die Werke, die die Finsternis suchen und die Ausstattung anlegen, die zum hellen Tage passt. Wie es dem hellen Tageslicht zukommt, so wollen wir uns wohlanständig bewegen.
 $Deo gratias
 
@@ -533,7 +533,7 @@ V. Wir haben nun die Fülle deiner Huld erfahren.
 R. Gejubelt und genossen große Freude.
 
 [Day6 Vespera]
-!Rom 11,33
+!Röm 11,33
 v. O Altitúdo divitiárum sapiéntiæ, et sciéntiæ Dei, quam incomprehensibilia sunt judícia ejus, et investigábiles viæ ejus!
 $Deo gratias
 
@@ -622,7 +622,7 @@ Es ist Gott Retter geworden * seinem ihm als Knecht gehörenden Volke Israel, ge
 
 
 [Adv Laudes]
-!Isai 2,3
+!Jes 2,3
 v. Kommt, wir wollen hinaufsteigen zum Berg des Herrn und zum Hause des Gottes Jakobs; und er wird uns belehren über seine wohlgemeinten Pläne und wir werden wandeln auf den von ihm vorgezeichneten Wegen; denn von Sion soll ausgehen, was recht ist, und was der Herr verordnet, von Jerusalem.
 $Deo gratias
 
@@ -788,7 +788,7 @@ Fürchtet euch nicht, * denn am fünften Tage wird der Herr zu euch kommen.
 Siehe, erfüllt ist * alles, was durch den Engel gesagt worden ist von der Jungfrau Maria.
  
 [Quad Laudes]
-!Isai 58,1
+!Jes 58,1
 v. Rufe ohne Unterlass, wie eine Trompete lass laut erschallen deine Stimme und mach kund meinem Volke seine Frevel, der Familie Jakobs ihre Missetaten.
 $Deo gratias
 
@@ -824,7 +824,7 @@ V. Seinen Engeln hat Gott befohlen deinetwegen.
 R. Dass sie dich schützen auf allen deinen Wegen.
 
 [Quad Vespera]
-!Joël 2,17
+!Joel 2,17
 v. Zwischen dem Gitter und dem Altare sollen weinen die Priester, die Diener des Herrn, und rufen: Schone doch, o Herr, schone deines Volkes; und lass, was dir gehört, nicht zum Gegenstand der Schmähung werden dadurch, dass darüber die Fremden herrschen.
 $Deo gratias
 
@@ -859,7 +859,7 @@ Amen.
 @:Quad Versum 2
 
 [Quad5 Laudes]
-!Jerem 11,19
+!Jer 11,19
 v. Kommet, wir wollen den Baum (Propheten) vernichten mit dem, was von ihm stammt (Mahnung), und ihn ausrotten aus dem Land der Lebenden, damit seiner nicht mehr gedacht wird.
 $Deo gratias
 
@@ -912,7 +912,7 @@ V. Befrei mich, o Gott, von meinen Feinden.
 R. Vor denen, die sich gegen mich erheben, sei mir Retter.
 
 [Quad5 Vespera]
-!Jerem 11,20
+!Jer 11,20
 v. Ach, o Herr der Heerscharen, der du richtig urteilst und Sinn und Herz erprobst, lass mich deines Zornes Sieg über sie erleben; dir habe ich ja anvertraut mein Anliegen, o mein Herr und Gott.
 $Deo gratias
 
@@ -964,7 +964,7 @@ V. Befreie mich, o Herr, vom schlimmen Feinde.
 R. Vor der bösen Rotte sei mir Retter.
 
 [Pasch Laudes]
-!Rom 6,9-10
+!Röm 6,9-10
 v. Christus stirbt, nachdem er von den Toten auferstanden ist, nicht mehr; der Tod hat keine Herrschaft mehr über ihn; wo er nämlich infolge der Sünde gestorben ist, ist er einmal gestorben; wo er aber nun lebt, lebt er in der Kraft Gottes.
 $Deo gratias
 
@@ -1358,7 +1358,7 @@ R. Amen.
 $Fidelium animae
 
 [Day0M Laudes]
-!Apoc 7:12
+!Apo 7:12
 v. Benedíctio, et claritas, et sapiéntia, et gratiárum actio, honor, virtus, et fortitúdo Deo nostro in sæcula sæculórum. Amen.
 $Deo gratias
 _
@@ -1430,7 +1430,7 @@ R. Et magna virtus ejus.
 R. Magnus Dóminus noster, * et magna virtus ejus.
 
 [AdvM Laudes]
-!Isai 2:3
+!Isa 2:3
 v. Veníte, ascendámus ad montem Dómini, et ad Domum Dei Jacob, et docébit nos vias suas, et ambulabimus in sémitis ejus: quia de Sion exíbit lex, et verbum Dómini de Jerúsalem.
 $Deo gratias
 _
@@ -1454,7 +1454,7 @@ R. Misericórdiam tuam.
 R. Osténde nobis Dómine * Misericórdiam tuam.
 
 [QuadM Laudes]
-!Isai 58:1
+!Isa 58:1
 v. Clama ne cesses quasi tuba exalta vocem tuam et annuntia pópulo meo scélera eórum et dómui Iacob peccáta eórum
 $Deo gratias
 _
@@ -1466,7 +1466,7 @@ R. De láqueo venántium.
 R. Ipse liberávit me * de láqueo venántium
 
 [QuadM Vespera]
-!Joël 2:17
+!Joel 2:17
 v. Inter vestibulum et altáre plorabunt sacerdótes, minístri Dómini, et dicent: parce, Dómine, parce pópulo tuo: et ne des hereditátem tuam in oppróbrium, ut dominentur eis natiónes. 
 $Deo gratias
 _
@@ -1478,7 +1478,7 @@ R. Obumbrábit tibi.
 R. Scápulis suis * obumbrábit tibi.
 
 [Quad5M Laudes]
-!Jerem 11:19
+!Jer 11:19
 v. Veníte, mittamus lignum in panem ejus, et eradamus eum de terra vivéntium, et nomen ejus non memorétur ámplius.
 $Deo gratias
 _
@@ -1489,7 +1489,7 @@ R. Deus ánimam meam.
 R. Érue a frámea * Deus ánimam meam.
 
 [Quad5M Vespera]
-!Jerem 11:20
+!Jer 11:20
 v. Tu autem Dómine Sábaoth qui júdicas juste et probas renes et cor vídeam ultiónem tuam ex eis tibi enim revelavi causam meam Dómine Deus meus.
 $Deo gratias
 _

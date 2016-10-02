@@ -15,7 +15,7 @@ Ihr Priester des Herrn, * preiset den Herrn auf ewig, alleluja.;;112
 Du guter Diener, * und so getreu, gehe ein in das Freudengemach deines Herrn.;;116
 
 [Capitulum Vespera]
-!Eccl 44,16-17
+!Sir 44,16-17
 v. Seht da, ein erhabener Priester, der während seines Lebens Gott gefallen hat, und der zur Zeit der drohenden Strafe ein Werkzeug der Versöhnung geworden ist.
 $Deo gratias
 
@@ -190,7 +190,7 @@ R. Er möge Fürsprecher sein für die Sünden aller Völker.
 
 [Lectio7]
 Lesung aus dem heiligen Evangelium nach Matthäus.
-!Matth 25,14-23
+!Mt 25,14-23
 In jener Zeit sagte Jesus seinen Jüngern dieses Gleichnis: Ein Mann, der eine Reise antreten wollte, rief seine Angestellten zusammen und gab ihnen seine Güter zur Verwahrung usw.
 _
 Auslegung vom heiligen Papste Gregor.
@@ -226,7 +226,7 @@ Ihr Priester des Herrn, * preiset den Herrn auf ewig, alleluja.
 Du guter Diener, * und so getreu, gehe ein in das Freudengemach deines Herrn.
 
 [Capitulum Laudes]
-!Eccl 44,16-17
+!Sir 44,16-17
 v. Seht da, ein erhabener Priester, der während seines Lebens Gott gefallen hat, und der zur Zeit der drohenden Strafe ein Werkzeug der Versöhnung geworden ist.
 $Deo gratias
 
@@ -285,11 +285,11 @@ Gregem tuum, Pastor ætérne, placátus inténde: et per beátos N. et N. (Márt
 $Per Dominum
 
 [Lectio Prima]
-!Eccl 45,19-20
+!Sir 45,19-20
 v. Er vermochte das Priesteramt zu verwalten und sich Lob zu verdienen bei seiner (Gottes) Majestät und ihr ein ihrer würdiges Opferbrennwerk darzubringen zu einem lieblichen Wohlgeruch.
 
 [Capitulum Tertia]
-!Eccl 44,16-17
+!Sir 44,16-17
 v. Seht da, ein erhabener Priester, der während seines Lebens Gott gefallen hat, und der zur Zeit der drohenden Strafe ein Werkzeug der Versöhnung geworden ist.
 $Deo gratias
 
@@ -305,7 +305,7 @@ V. Es hat der Herrn ihn auserwählt für sich zum Priester.
 R. Auf dass er ihm ein Opfer darbringe zu seinem Lobe.
 
 [Capitulum Sexta]
-!Eccl 44,20; 44,22
+!Sir 44,20; 44,22
 v. Es gab keinen, der ihm ähnlich gewesen wäre in der Beobachtung des göttlichen Gebotes. Darum hat ihn Gott in Erfüllung eines Eides immer größer werden lassen in seinem Volke.
 $Deo gratias
 
@@ -321,7 +321,7 @@ V. Du bist ein Priester auf ewig.
 R. Wie Melchisedech es vorgebildet.
 
 [Capitulum Nona]
-!Eccl 45,19-20
+!Sir 45,19-20
 v. Er vermochte das Priesteramt zu verwalten und sich Lob zu verdienen bei seiner (Gottes) Majestät und ihr ein ihrer würdiges Opferbrennwerk darzubringen zu einem lieblichen Wohlgeruch.
 $Deo gratias
 
@@ -348,7 +348,7 @@ R. Und ließ das Gottesreich ihn sehen.
 
 [Lectio11]
 De libro Ecclesiastici
-!Eccl 44:1-5
+!Sir 44:1-5
 1 Laudemus viros gloriosos, et parentes nostros in generatione sua.
 2 Multam gloriam fecit Dominus: magnificentia sua a saeculo.
 3 Dominantes in potestatibus suis, homines magni virtute et prudentia sua praediti, nuntiantes in prophetis dignitatem prophetarum:
@@ -356,14 +356,14 @@ De libro Ecclesiastici
 5 In peritia sua requirentes modos musicos, et narrantes carmina scripturarum:
 
 [Lectio21]
-!Eccl 44:6-9
+!Sir 44:6-9
 6 Homines divites in virtute, pulchritudinis studium habentes, pacificantes in domibus suis.
 7 Omnes isti in generationibus gentis suae gloriam adepti sunt, et in diebus suis habentur in laudibus.
 8 Qui de illis nati sunt reliquerunt nomen narrandi laudes eorum.
 9 Et sunt quorum non est memoria: perierunt quasi qui non fuerint: et nati sunt quasi non nati, et filii ipsorum cum ipsis.
 
 [Lectio31]
-!Eccl 44:10-15
+!Sir 44:10-15
 10 Sed illi viri misericordiae sunt, quorum pietates non defuerunt.
 11 Cum semine eorum permanent bona:
 12 hereditas sancta nepotes eorum, et in testamentis stetit semen eorum:
@@ -373,7 +373,7 @@ De libro Ecclesiastici
 
 [Lectio71]
 Léctio sancti Evangélii secúndum Matthæum
-!Matth 16:13-19
+!Matt 16:13-19
 In illo témpore: Venit Jesus in partes Cæsaréæ Philíppi, et interrogábat discípulos suos, dicens: Quem dicunt hómines esse Fílium hóminis? Et réliqua.
 _
 Homilía sancti Leónis Papæ
@@ -389,7 +389,7 @@ Cum ergo cohortatiónes nostras áuribus vestræ sanctitátis adhibémus, ipsum 
 
 [Lectio73]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matth 19:27-29
+!Matt 19:27-29
 In illo tempore: Dixit Petrus ad Jesum: Ecce nos reliquimus omnia, et secuti sumus te: quid ergo erit nobis? Et reliqua. De Homilia venerabilis Bedae Presbyteri.
 !In Natali S. Benedicti.
 Duo sunt ordines electorum in judicio futuri: unus judicantium cum Domino, de quibus hoc loco memorat, qui reliquerunt omnia, et secuti sunt illum: alius judicandorum a Domino, qui non quidem omnia sua pariter reliquerunt, sed de his tamen quae habebant, quotidianas dare eleemosynas Christi pauperibus curabant: unde et audituri sunt in judicio: Venite benedicti Patris mei, possidete praeparatum vobis regnum a constitutione mundi. Esurivi enim, et dedistis mihi manducare: sitivi, et dedistis mihi bibere.

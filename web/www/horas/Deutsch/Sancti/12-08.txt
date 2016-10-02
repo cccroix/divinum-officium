@@ -20,7 +20,7 @@ Gesegnet bist du, * Jungfrau Maria, von Gott dem Herrn, dem Allerhöchsten, mehr
 Zieh uns * dir nach, o unbefleckte Jungfrau, dir wollen wir nacheilen, an deiner Salben Duft uns zu erfreuen.;;147
 
 [Capitulum Vespera]
-!Prov 8,22-24
+!Spr 8,22-24
 v. Der Herr hat mich vor sich gehabt als Grundlage seines Schaffens, ehe er etwas hervorbrachte, von jeher. Von Ewigkeit her bin ich im Amte, vor alter Zeit, ehe die Erde entstand. Noch waren nicht die Meerestiefen und ich hatte schon Leben.
 $Deo gratias
 
@@ -177,7 +177,7 @@ R. Und auf ihrem Haupte ein Kranz von zwölf Sternen.
 
 [Lectio7]
 Lesung aus dem heiligen Evangelium nach Lukas.
-!Luc 1,26-28
+!Lk 1,26-28
 In jener Zeit wurde der Engel Gabriel von Gott gesandt in eine Stadt Galiläas, die Nazareth hieß, zu einer Jungfrau, die verwählt war mit einem Manne, der den Namen Joseph hatte, aus der Familie Davids, und der Name der Jungfrau war Maria. Und so weiter.
 _
 Auslegung vom heiligen Bischof Germanus.
@@ -213,7 +213,7 @@ Gesegnet bist du, * Jungfrau Maria, von Gott dem Herrn, dem Allerhöchsten, mehr
 Zieh uns * dir nach, o unbefleckte Jungfrau, dir wollen wir nacheilen, an deiner Salben Duft uns zu erfreuen.
 
 [Capitulum Laudes]
-!Prov 8,22-24
+!Spr 8,22-24
 v. Der Herr hat mich vor sich gehabt als Grundlage seines Schaffens, ehe er etwas hervorbrachte, von jeher. Von Ewigkeit her bin ich im Amte, vor alter Zeit, ehe die Erde entstand. Noch waren nicht die Meerestiefen und ich hatte schon Leben.
 $Deo gratias
 
@@ -225,11 +225,11 @@ R. Die der Schlange Haupt mit jungfräulichem Fuß zertreten.
 Es sagte Gott der Herr * zur Schlange: Eine Feindschaft will ich aufrichten zwischen dir und einer Frau, zwischen deinen Anhängern und den Nachkommen jener, und sie wird dir den Kopf zertreten, alleluja.
 
 [Lectio Prima]
-!Apoc 12,1
+!Offb 12,1
 v. Eine gewaltige Erscheinung wurde am Himmel sichtbar, eine Frau umkleidet mit dem Sonnenlicht, und der Mond zu ihren Füßen, und auf dem Haupte ein Kranz von zwölf Sternen.
 
 [Capitulum Tertia]
-!Prov 8,22-24
+!Spr 8,22-24
 v. Der Herr hat mich vor sich gehabt als Grundlage seines Schaffens, ehe er etwas hervorbrachte, von jeher. Von Ewigkeit her bin ich im Amte, vor alter Zeit, ehe die Erde entstand. Noch waren nicht die Meerestiefen und ich hatte schon Leben.
 $Deo gratias
 
@@ -245,7 +245,7 @@ V. Daran hab ich erkannt, dass du mich gern hast.
 R. Dass du dem Feinde über mich nicht den Triumph gönnst.
 
 [Capitulum Sexta]
-!Ezech 44,2-3
+!Ez 44,2-3
 v. Diese Tür soll geschlossen bleiben, sie soll nicht geöffnet werden und kein Mann soll durch sie hindurchgehen; denn der Herr, der Gott Israels, geht durch sie hindurch. Und darum soll sie für den König geschlossen bleiben; der König selbst wird seinen Platz in ihr nehmen.
 $Deo gratias
 
@@ -261,7 +261,7 @@ V. Ich will dich preisen, Herr, da du dich meiner angenommen.
 R. Und da du meinen Feinden nicht gegönnt, sich über mich zu freuen.
 
 [Capitulum Nona]
-!Apoc 12,1
+!Offb 12,1
 v. Eine gewaltige Erscheinung wurde am Himmel sichtbar, eine Frau umkleidet mit dem Sonnenlicht, und der Mond zu ihren Füßen, und auf dem Haupte ein Kranz von zwölf Sternen.
 $Deo gratias
 

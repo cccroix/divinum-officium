@@ -101,7 +101,7 @@ V. Er darf rufen zu mir, alleluja.
 R. Du bist mein Vater, alleluja.
 
 [Lectio1]
-!Isai 9,1-6
+!Jes 9,1-6
 1 Primo tempore alleviata est terra Zabulon et terra Nephthali: et novissimo aggravata est via maris trans Jordanem Galilaeae gentium.
 2 Populus qui ambulabat in tenebris, vidit lucem magnam; habitantibus in regione umbrae mortis, lux orta est eis.
 3 Multiplicasti gentem, et non magnificasti laetitiam. Laetabuntur coram te, sicut qui laetantur in messe; sicut exsultant victores capta praeda, quando dividunt spolia.
@@ -121,7 +121,7 @@ ad coelestia regna revocaret: * Gaudet exercitus Angelorum: quia salus aeterna~
 humano generi apparuit.
 
 [Lectio2]
-!Isai 40,1-8
+!Jes 40,1-8
 1 Consolamini, consolamini, popule meus, dicit Deus vester.
 2 Loquimini ad cor Jerusalem, et advocate eam, quoniam completa est malitia ejus, dimissa est iniquitas illius: suscepit de manu Domini duplicia pro omnibus peccatis suis.
 3 Vox clamantis in deserto: Parate viam Domini, rectas facite in solitudine semitas Dei nostri.
@@ -139,7 +139,7 @@ felicitatis aeternae.
 R. Hodie per totum mundum melliflui facti sunt coeli.
 
 [Lectio3]
-!Isai 52,1-6
+!Jes 52,1-6
 1 Consurge, consurge, induere fortitudine tua, Sion, induere vestimentis gloriae tuae, Jerusalem, civitas Sancti, quia non adjiciet ultra ut pertranseat per te incircumcisus et immundus.
 2 Excutere de pulvere, consurge; sede, Jerusalem: solve vincula colli tui, captiva filia Sion.
 3 Quia haec dicit Dominus: Gratis venumdati estis, et sine argento redimemini.
@@ -276,7 +276,7 @@ R. Und wir haben seine Herrlichkeit gesehen, die Herrlichkeit, wie sie zukommt d
 
 [Lectio9]
 Lectio sancti Evangelii secundum Joannem.
-!Joann 1:1-14
+!Joannes 1:1-14
 In principio erat Verbum, et Verbum erat apud Deum, et Deus erat Verbum. Et~
 reliqua.
 _

@@ -15,7 +15,7 @@ Ihr Geister und ihr Seelen * der Rechtschaffenen, stimmt an einen Lobgesang unse
 Es leuchten die Rechtschaffenen * wie die Sonne vor den Augen Gottes, alleluja.;;116
 
 [Capitulum Vespera]
-!Sap 5,1
+!Weish 5,1
 v. Es stehen die Gottesdiener in großer Zuversicht gegenüber denen, die ihnen Bedrängnis gemacht und ihnen nun ihre Mühsale abgenommen haben.
 $Deo gratias
 
@@ -58,7 +58,7 @@ R. Jubel und Frohlocken erhalten sie als Besitz, alleluja.
 
 [Lectio1]
 Aus dem Briefes des heiligen Apostels Paulus an die Römer.
-!Rom 8,12-19
+!Röm 8,12-19
 12 Brüder! Wir haben ein Schuldverhältnis, doch nicht gegen unsere niedere Natur, dass wir dieser niederen Natur zu Gefallen unser Leben einrichten müssten.
 13 Denn, wenn ihr der niederen Natur zu Gefallen lebt, seid ihr auf dem Wege zum (geistigen) Tode; wenn ihr aber durch Geistesadel die der niederen Natur eigenen Werke am Aufkommen hindert, werdet ihr (im Gnadenleben und in der Glückseligkeit) leben.
 14 Alle nämlich, die sich durch die ihnen von Gott eingegebene Gesinnung zum Handeln bestimmen lassen, sind Gotteskinder.
@@ -75,7 +75,7 @@ V. Wohlstand und Reichtum ist in seinem Haus, sein Glück ist ihm für alle Ewig
 R. Der sein Gebot befolgt mit seinem ganzen Eifer, alleluja, alleluja, alleluja.
 
 [Lectio2]
-!Rom 8,28-34
+!Röm 8,28-34
 28 Wir wissen doch, dass denen, die Gott lieben, alles zum Segen mitwirkt, da es ja solche sind, die auf besonderen Ratschluss ihre Berufung haben, die Schützlinge Gottes.
 29 Ja, diejenigen, die er (als Beseligte) vorhergesehen hat, die hat er auch von jeder dazu bestimmt, dass sie angepasst würden dem Vorbild seines Sohnes, damit dieser als der Erstlingssohn gilt unter vielen Brüdern;
 30 die er aber dazu vorherbestimmt hat, die hat er auch gerufen; und die er gerufen hat, die hat er auch begnadigt (mit Gnadenleben ausgestattet); und die er begnadigt hat, die hat er verherrlicht.
@@ -91,7 +91,7 @@ V. Die Welt wird sich wohl freuen, ihr werdet dagegen traurig sein, doch eure Tr
 R. Wird verwandelt in Freude, alleluja, alleluja.
 
 [Lectio3]
-!Rom 8,35-39
+!Röm 8,35-39
 35 Wer also könnte uns abbringen von der Liebe zu Christus? Not oder Bedrängnis, oder Hunger, oder Mangel an Kleidung, oder eine Gefahr, oder eine Verfolgung, oder ein Schwert?
 36 (gemäß dem, was geschrieben steht: "Ja, deinetwegen werden wir zu Tode gequält Tag für Tag, und Schafen an der Schlachtbank gleich behandelt", Ps. 43,23.)
 37 Im Gegenteil, gegenüber alledem sind wir überlegen um dessentwillen, der uns geliebt hat.
@@ -139,7 +139,7 @@ R. In die solemnitátis et lætítiæ, allelúia.
 
 [Lectio7]
 Léctio sancti Evangélii secúndum Joánnem.
-!Joann 15:1-7
+!Joannes 15:1-7
 In illo témpore: Dixit Jesus discípulis suis: Ego sum vitis vera: et Pater meus agrícola est. Et réliqua.
 _
 Homilía sancti Augustíni Epíscopi.
@@ -181,7 +181,7 @@ Ihr Geister und ihr Seelen * der Rechtschaffenen, stimmt an einen Lobgesang unse
 Es leuchten die Rechtschaffenen * wie die Sonne vor den Augen Gottes, alleluja.
 
 [Capitulum Laudes]
-!Sap 5,1
+!Weish 5,1
 v. Es stehen die Gottesdiener in großer Zuversicht gegenüber denen, die ihnen Bedrängnis gemacht und ihnen nun ihre Mühsale abgenommen haben.
 $Deo gratias
 
@@ -196,11 +196,11 @@ R. Wenn deine Diener sterben, alleluja.
 O ihr Töchter Jerusalems, * kommt und seht die Zeugen für Gott mit ihren Kränzen, mit denen sie der Herr umkränzt hat am Tage ihrer Festlichkeit und ihrer Freude, alleluja, alleluja.
 
 [Lectio Prima]
-!Rom 8,28
+!Röm 8,28
 v. Wir wissen, dass denen, die Gott lieben, alles zum Guten wirkt; denen nämlich, die gemäß seinem Ratschluss berufen sind zur Heiligkeit.
 
 [Capitulum Tertia]
-!Sap 5,1
+!Weish 5,1
 v. Es stehen die Gottesdiener in großer Zuversicht gegenüber denen, die ihnen Bedrängnis gemacht, und die ihnen nun ihre Mühsale abgenommen haben.
 $Deo gratias
 
@@ -216,7 +216,7 @@ V. Ununterbroch'nes Licht scheint deinen Schützlingen, o Herr, alleluja.
 R. Auf ewige Zeiten, alleluja.
 
 [Capitulum Sexta]
-!Sap 5,5
+!Weish 5,5
 v. Seht doch, wie sie aufgenommen sind unter die Gottesdiener, und mitten unter den Heiligen ist der ihnen angewiesene Aufenthalt.
 $Deo gratias
 
@@ -232,7 +232,7 @@ V. Ewige Freude strömt auf sie herunter, alleluja.
 R. Jubel und Frohlocken erhalten sie als Besitz, alleluja.
 
 [Capitulum Nona]
-!Rom 8,28
+!Röm 8,28
 v. Wir wissen, dass denen, die Gott lieben, alles zum Guten wirkt; denen nämlich, die gemäß seinem Ratschluss berufen sind zur Heiligkeit.
 $Deo gratias
 

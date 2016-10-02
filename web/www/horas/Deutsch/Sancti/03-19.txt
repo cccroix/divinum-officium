@@ -22,7 +22,7 @@ Da Joseph, ihr Gatte, * rechtschaffen war und sie auch nicht in Verlegenheit bri
 Ein Engel des Herrn * erschien dem Joseph und sprach: Joseph, Sohn Davids, habe keine Bedenken, Maria, deine Gattin zu behalten; denn was sie im Schoße trägt, ist entstanden auf Grund der Wirkung des Heiligen Geistes; sie wird nun einen Sohn zur Welt bringen, und du wirst ihm den Namen Jesus geben.;;116
 
 [Capitulum Vespera]
-!Prov 28,20; 27,18
+!Spr 28,20; 27,18
 v. Ein zuverlässiger Mann erhält großes Lob. Und wer Hüter seines Herrn ist, der kommt zu hohen Ehren.
 $Deo gratias 
 
@@ -235,7 +235,7 @@ Seine Mutter sagt * zu ihm: Kind, weshalb hast du uns das getan? Ach, dein Vater
 Jesus stieg hinab * mit ihnen und kam nach Nazareth, und er war ihnen untertänig.
 
 [Capitulum Laudes]
-!Prov 28,20; 27,18
+!Spr 28,20; 27,18
 v. Ein zuverlässiger Mann erhält großes Lob. Und wer Hüter seines Herrn ist, der kommt zu hohen Ehren.
 $Deo gratias 
 
@@ -274,11 +274,11 @@ R. Und seine Zunge redet gern, was recht ist.
 Jesus ward, * als er gerade dreißig Jahre alt war, in sein Wirken eingeführt, und zwar, wie er allgemein galt, als Sohn Josephs.
 
 [Lectio Prima]
-!Sap l0,10
+!Weish l0,10
 v. Seinen Diener hat, als er auf der Flucht war, er, der die Weisheit ist, geführt auf richtigen Wegen und hat das Gottesreich ihn sehen lassen; er hat ihm ein heiliges Wissen gegeben, hat ihm Hilfe gewährt in seinen Arbeiten und hat gedeihen lassen seine Arbeiten.
 
 [Capitulum Tertia]
-!Prov 28,20; 27,18
+!Spr 28,20; 27,18
 v. Ein zuverlässiger Mann erhält großes Lob. Und wer Hüter seines Herrn ist, der kommt zu hohen Ehren.
 $Deo gratias 
 
@@ -294,7 +294,7 @@ V. Groß ist sein Ruhm ob des ihm von dir gewährten Segens.
 R. Ruhm und herrlichsten Glanz hast du ihm verliehen.
 
 [Capitulum Sexta]
-!Eccl 45,1; 45,4
+!Sir 45,1; 45,4
 v. Er war ein Liebling Gottes und der Menschen, und das Andenken an ihn bleibt im Segen. Auf Grund seines Vertrauens ~
 und seiner geduldigen Ergebung hat er ihn zu seinem besonderen Schützling gemacht und ihn bevorzugt vor allen Menschen.
 $Deo gratias 
@@ -311,7 +311,7 @@ V. Der rechte Gottesdiener ist wie eine Lilie, die aufsprosst.
 R. Und wie eine vor dem Herrn auf ewig blühende Blume.
 
 [Capitulum Nona]
-!Sap l0,10
+!Weish l0,10
 v. Seinen Diener hat, als er auf der Flucht war, er, der die Weisheit ist, geführt auf richtigen Wegen und hat das Gottesreich ihn sehen lassen; er hat ihm ein heiliges Wissen gegeben, hat ihm Hilfe gewährt in seinen Arbeiten und hat gedeihen lassen seine Arbeiten.
 $Deo gratias 
 

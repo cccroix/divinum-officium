@@ -13,7 +13,7 @@ Alle, dir ihr durstig seid, * kommt doch zur Quelle, nahet euch dem Herrn, da er
 Seht, es wird kommen * ein großer Gottesmann, und er wird ein neues Jerusalem schaffen, alleluja.
 
 [Capitulum Vespera]
-!Rom 13,11
+!Röm 13,11
 v. Brüder: Es ist nun schon Zeit, aus dem Schlaf aufzuwachen. Jetzt nämlich ist unsere Beseligung näher als damals, wo wir den Glauben angenommen haben.
 $Deo gratias.
 
@@ -26,7 +26,7 @@ $Qui vivis
 
 [Lectio1]
 Anfang des Buches des Propheten Isaias.
-!Isai 1,1-3
+!Jes 1,1-3
 1 Offenbarung an Isaias, den Sohn des Amos, die er in Gesichten erhalten hat über Juda und Jerusalem, in der Zeit der Könige von Juda, Osias, Joathan, Achaz, und Ezechias.
 2 Höre es, o Himmel, und mit deinen Ohren fang es auf, o Erde! So spricht der Herr: Kinder habe ich groß gezogen und mit Gütern ausgestattet, sie aber haben nur Verachtung gegen mich.
 3 Es erkennt der Ochs seinen Eigentümer an und der Esel die Krippe, die sein Herr ihm hinstellt; das Volk Israels aber kennt mich nicht, mein Volk bleibt ohne Einsicht.
@@ -40,7 +40,7 @@ V. Macht höher, ihr Tore, die Dächer, erhöht euch, ehrwürdige Tore, dass ein
 R. Aus der Ferne schaue ich und da, da gewahr' ich Gottes Majestät, die zu uns kommt, und eine Glanzwolke, die die ganze Erde bedeckt. * Eilt ihm entgegen und ruft: * Tue es uns kund, ob du es selbst bist, * Der du König sein sollst im Volke Israel.
 
 [Lectio2]
-!Isai 1,4-6
+!Jes 1,4-6
 4 Wehe der sündigen Schar, dem mit Missetat beladenen Volk, dem nichtswerten Samen, der frevlerischen Brut. Sie haben den Herrn verlassen, sie haben gelästert die Majestät in Israel, haben mir den Rücken gekehrt.
 5 Wohin soll ich euch noch schlagen, wenn ihr weiter Sünde auf Sünde häuft? Alle Häupter sind wund, alle Herzen voll Trauer.
 6 Von der Fußsohle bis zum Scheitel ist nichts da, das heil wäre. Nur Wunden, Striemen, aufgeschwollene Beulen ohne Verband, ohne Heilmittel, ohne linderndes Öl.
@@ -52,7 +52,7 @@ V. Seine Macht ist eine ewige Macht, die nie genommen werden kann; und sein Reic
 R. Und alle Völker und Stämme und Nationen sollen ihm untertan sein.
 
 [Lectio3]
-!Isai 1,7-9
+!Jes 1,7-9
 7 Euer Land ist verwüstet, eure Wohnstätten sind in Feuer verbrannt; euren Feldertrag stecken in eurer Gegenwart die Feinde in ihren Magen, und alles ist wüst, wie es bei einer Verheerung durch die Feinde geschieht.
 8 Und so bleibt die Tochter Sion zurück wie ein Schuppen im Weinberg und wie eine Wächterbude im Gemüsegarten, und wie eine Stadt, die in Trümmern liegt.
 9 Wenn nicht der Herr einen Keim uns aufbewahrt hätte, wären wir alle wie Sodom geworden und hätten mit Gomorrha Ähnlichkeit bekommen.
@@ -98,7 +98,7 @@ R. Und mach uns frei.
 
 [Lectio7]
 Lesung aus dem heiligen Evangelium nach Lukas.
-!Luc 21,25-33
+!Lk 21,25-33
 In jener Zeit sagte Jesus zu seinen Jüngern: Es werden Zeichen auftreten an Sonne, Mond und Sternen, und auf Erden wird Beängstigung unter den Völkern sein. Und so weiter.
 _
 Auslegung des heiligen Papstes Gregor.
@@ -139,7 +139,7 @@ Alle, dir ihr durstig seid, * kommt doch zur Quelle, nahet euch dem Herrn, da er
 Seht, es wird kommen * ein großer Gottesmann, und er wird ein neues Jerusalem schaffen, alleluja.
 
 [Capitulum Laudes]
-!Rom 13,11
+!Röm 13,11
 v. Brüder: Es ist nun schon Zeit, aus dem Schlaf aufzuwachen. Jetzt nämlich ist unsere Beseligung näher als damals, wo wir den Glauben angenommen haben.
 $Deo gratias.
 
@@ -147,17 +147,17 @@ $Deo gratias.
 Der Heilige Geist * wird auf dich herabsteigen, Maria; fürchte nicht, du wirst in deinem Schoße den Sohn Gottes tragen, alleluja.
 
 [Capitulum Tertia]
-!Rom 13,11
+!Röm 13,11
 v. Brüder: Es ist nun schon Zeit, aus dem Schlaf aufzuwachen. Jetzt nämlich ist unsere Beseligung näher als damals, wo wir den Glauben angenommen haben.
 $Deo gratias.
 
 [Capitulum Sexta]
-!Rom 13,12
+!Röm 13,12
 v. Die Nacht ist vorüber, das Tageslicht ist nahe gekommen. Darum wollen wir ablegen die Werke, die die Finsternis suchen, und die Ausstattung anlegen, die zum hellen Tage passt.
 $Deo gratias
 
 [Capitulum Nona]
-!Rom 13,13-14
+!Röm 13,13-14
 v. Wie es dem hellen Tageslicht zukommt, wollen wir uns wohlanständig bewegen, nicht in Schmausereien und Trinkereien, nicht auf Lagern der Unzucht und in Schamlosigkeiten, nicht in Zänkereien und Eifersuchtshändeln, sondern legt als Kleid um den Herrn Jesus Christus.
 $Deo gratias
 

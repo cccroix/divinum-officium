@@ -13,7 +13,7 @@ Heute sollt ihr wissen, dass der Herr kommt. * Und morgen werdet ihr sehen, wie 
 
 [Lectio1]
 Lesung aus dem heiligen Evangelium nach Matthäus.
-!Matth 1,18-21
+!Mt 1,18-21
 Als Maria, die Mutter Jesu, mit Joseph verlobt war, wurde sie, ehe sie zur ehelichen Gemeinschaft kamen, Mutter auf Grund der Wirkung des Heiligen Geistes. Und so weiter.
 _
 Auslegung vom heiligen Priester Hieronymus.
@@ -54,7 +54,7 @@ Der Herr wird kommen, * eilt ihm entgegen und ruft: O großer Gewalt-Träger, de
 Morgen wird euch gewährt * großer Segen, so sagt der Herr, der Gott der Heerscharen.
 
 [Capitulum Laudes]
-!Rom 1,1-3
+!Röm 1,1-3
 v. (Ich) Paulus (bin) ein als Apostel berufener Knecht Jesu Christi, auserlesen zur Verbreitung der frohen Kunde Gottes von dem Ereignis, das vorher schon Gott durch seine Propheten in der heiligen Schrift verheißen hat bezüglich seines Sohnes, der ihm als leiblicher Abkömmling Davids geboren ist.
 $Deo gratias
 
@@ -70,7 +70,7 @@ O Gott, der du uns durch die jährliche Erwartung unserer Erlösung Freude berei
 $Qui tecum
 
 [Lectio Prima]
-!Rom 1,5-6
+!Röm 1,5-6
 v. Und durch ihn habe ich die Auszeichnung des Apostelamtes erhalten, damit mir gläubiger Gehorsam erwiesen werde unter allen Völkern in allem, was seine Majestät angeht, und unter diesen seid auch ihr als berufene Anhänger Jesu Christi unseres Herrn.
 
 [Capitulum Tertia]
@@ -88,7 +88,7 @@ V. Seid guten Mutes.
 R. Ihr werdet die helfende Sorge des Herrn um euch erkennen.
 
 [Capitulum Sexta]
-!Rom 1,4
+!Röm 1,4
 v. Und der ist ausgestattet als Gottes Sohn in hervorragender Weise mit der Kraft uns zu heiligen, auf Grund der Auferstehung von den Toten, - Jesus Christus, unser Herr.
 $Deo gratias
 

@@ -15,7 +15,7 @@ Ihr Priester des Herrn, * preiset den Herrn auf ewig, alleluja.;;112
 Du guter Diener, * und so getreu, gehe ein in das Freudengemach deines Herrn, alleluja.;;116
 
 [Capitulum Vespera]
-!Eccl 44,16-17
+!Sir 44,16-17
 v. Seht da, ein erhabener Priester, der während seines Lebens Gott gefallen hat, und der zur Zeit der drohenden Strafe ein Werkzeug der Versöhnung geworden ist.
 $Deo gratias
 
@@ -60,7 +60,7 @@ R. Wie Melchisedech es vorgebildet, alleluja.
 
 [Lectio1]
 De libro Ecclesiastici.
-!Eccl 39:1-5
+!Sir 39:1-5
 1 Sapientiam omnium antiquorum exquiret sapiens, et in prophetis vacabit.
 2 Narrationem virorum nominatorum conservabit, et in versutias parabolarum simul introibit.
 3 Occulta proverbiorum exquiret, et in absconditis parabolarum conversabitur.
@@ -74,7 +74,7 @@ V. O Herr, du hast mir fünf Talente übergeben; siehe, ich habe fünf weitere d
 R. Geh ein in das Freudengemach deines Herrn. Alleluja.
 
 [Lectio2]
-!Eccl 39:6-10
+!Sir 39:6-10
 6 Cor suum tradet ad vigilandum diluculo ad Dominum, qui fecit illum, et in conspectu Altissimi deprecabitur.
 7 Aperiet os suum in oratione, et pro delictis suis deprecabitur.
 8 Si enim Dominus magnus voluerit, spiritu intelligentiae replebit illum:
@@ -88,7 +88,7 @@ V. Den Segen für alle Völker übergab ihm Gott und das mit ihm eingegangene B�
 R. Deshalb ließ Gott auf Grund eines eidlichen Versprechens ihn emporwachsen unter seinem Volke. Alleluja.
 
 [Lectio3]
-!Eccl 39:11-14
+!Sir 39:11-14
 11 Ipse palam faciet disciplinam doctrinae suae, et in lege testamenti Domini gloriabitur.
 12 Collaudabunt multi sapientiam ejus, et usque in saeculum non delebitur.
 13 Non recedet memoria ejus, et nomen ejus requiretur a generatione in generationem.
@@ -135,7 +135,7 @@ R. Er möge Fürsprecher sein für die Sünden aller Völker. Alleluja.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matth 5:13-19
+!Matt 5:13-19
 In illo tempore: Dixit Jesus discipulis suis: Vos estis sal terrae. Quod si sal evanuerit, in quo salietur? Et reliqua.
 _
 Homilia sancti Hilarii Episcopi.
@@ -171,7 +171,7 @@ Ihr Priester des Herrn, * preiset den Herrn auf ewig, alleluja.
 Du guter Diener, * und so getreu, gehe ein in das Freudengemach deines Herrn, alleluja.
 
 [Capitulum Laudes]
-!Eccl 44,16-17
+!Sir 44,16-17
 v. Seht da, ein erhabener Priester, der während seines Lebens Gott gefallen hat, und der zur Zeit der drohenden Strafe ein Werkzeug der Versöhnung geworden ist.
 $Deo gratias.
 
@@ -202,11 +202,11 @@ Verleihe uns, wir bitten dich, o allmächtiger Gott, die Gnade, dass deines heil
 $Per Dominum.
 
 [Lectio Prima]
-!Eccl 45,19-20
+!Sir 45,19-20
 v. Er vermochte das Priesteramt zu verwalten und sich Lob zu verdienen bei seiner (Gottes) Majestät und ihr ein ihrer würdiges Opferbrennwerk darzubringen zu einem lieblichen Wohlgeruch.
 
 [Capitulum Tertia]
-!Eccl 44,16-17
+!Sir 44,16-17
 v. Seht da, ein erhabener Priester, der während seines Lebens Gott gefallen hat, und der zur Zeit der drohenden Strafe ein Werkzeug der Versöhnung geworden ist.
 $Deo gratias
 
@@ -222,7 +222,7 @@ V. Es hat der Herrn ihn auserwählt für sich zum Priester, alleluja.
 R. Auf dass er ihm ein Opfer darbringe zu seinem Lobe, alleluja.
 
 [Capitulum Sexta]
-!Eccl 44,20; 44,22
+!Sir 44,20; 44,22
 v. Es gab keinen, der ihm ähnlich gewesen wäre bei der Beobachtung des göttlichen Gebotes. Darum hat ihn Gott in Erfüllung eines Eides immer größer werden lassen in seinem Volke.
 $Deo gratias
 
@@ -238,7 +238,7 @@ V. Du bist ein Priester auf ewig, alleluja.
 R. Wie Melchisedech es vorgebildet, alleluja.
 
 [Capitulum Nona]
-!Eccl 45,19-20
+!Sir 45,19-20
 v. Er vermochte das Priesteramt zu verwalten und sich Lob zu verdienen bei seiner (Gottes) Majestät und ihr ein ihrer würdiges Opferbrennwerk darzubringen zu einem lieblichen Wohlgeruch.
 $Deo gratias
 

@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Aus dem Propheten Isaias.
-!Isai 24,1-3
+!Jes 24,1-3
 1 Seht, der Herr wird die Erde entvölkern und leeren und ihre Oberfläche in Verwirrung bringen und ihre Bewohner entfernen.
 2 Und dann wird es wie dem Volke, so auch dem Priester gehen; und wie dem Knecht, so auch dem Herrn; und wie der Magd, so auch ihrer Hausfrau; und wie dem Käufer, so auch dem Verkäufer; wie dem Darlehensgeber, so auch dem Darlehensnehmer; wie dem Gläubiger, so auch dem Schuldner.
 3 Vollständig zerrüttet wird die Erde und ganz verwüstet. Denn der Herr hat dieses geredet.
@@ -15,7 +15,7 @@ Aus dem Propheten Isaias.
 @Tempora/Adv2-0:Responsory4
 
 [Lectio2]
-!Isai 24,4-6
+!Jes 24,4-6
 4 Es trauert und verschmachtet vor Trauer die Erde und verliert den Mut; es verschmachtet der Erdkreis, den Mut verliert der Gewaltigste unter den Erdenvölkern.
 5 Denn die Erde ist entweiht von ihren Bewohnern; die haben die Gebote übertreten, das Recht verdreht, den auf ewig geschlossenen Bund gebrochen.
 6 Darum wird ein Fluch die Erde verschlingen und Sühne leisten werden ihre Bewohner; deshalb werden außer Fassung kommen deren Pfleger, und nur wenige Menschen werden übrig bleiben.
@@ -24,7 +24,7 @@ Aus dem Propheten Isaias.
 @Tempora/Adv2-0:Responsory5
 
 [Lectio3]
-!Isai 24,7-16
+!Jes 24,7-16
 7 Es trauert der Weintraubenleser, es grämt sich der Weinstock, es seufzen alle auf, die im Herzen so fröhlich waren.
 8 Zu Ende ist der Jubel des Zymbelspiels, es hat aufgehört der Freudengesang, verstummt ist der süße Klang der Zither.
 9 Nicht mehr trinkt man den Wein mit Liedern; gar bitter ist der Trank den Trinkern.

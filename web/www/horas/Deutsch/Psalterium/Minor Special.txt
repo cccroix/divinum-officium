@@ -44,7 +44,7 @@ V. O mach mich rein, o Herr, von meinen unbewussten Fehlern.
 R. Und vor dem bösen Willen schütze deinen Diener.
 
 [Feria Tertia]
-!Jerem 17:14
+!Jer 17:14
 v. Sana me, Domine, et sanabor: salvum me fac, et salvus ero: quoniam laus mea tu es.
 $Deo gratias
 _
@@ -74,7 +74,7 @@ V. Dominus regit me et nihil mihi deerit.
 R. In loco pascuae ibi me collocavit.
 
 [Feria Nona]
-!1 Petri 1:17-19
+!1 Pet 1:17-19
 v. In timóre incolátus vestri témpore conversámini: sciéntes quod non corruptibílibus auro vel argénto redémpti estis, sed pretióso sánguine quasi Agni immaculáti Christi.
 $Deo gratias
 _
@@ -89,7 +89,7 @@ V. Ab occultis meis munda me, Domine.
 R. Et ab alienis parce servo tuo.
 
 [Adv Tertia]
-!Jerem 23,5
+!Jer 23,5
 v. Seht doch, es kommt die Zeit, spricht der Herr, da ich im Stamme Davids auferwecken werde einen Sproß nach unserem Wunsch; und er wird herrschen als König und weise sein; und er wird Segen und Glück im Lande schaffen.
 $Deo gratias
 
@@ -105,7 +105,7 @@ V. Es sollen Ehrfurcht, Herr, vor dir die Völker haben.
 R. Und alle Könige vor deiner Herrlichkeit.
 
 [Adv Sexta]
-!Jerem 23,6
+!Jer 23,6
 v. In jenen Tagen wird Juda glücklich werden, und Israel wird sorglos leben und das ist der Name, den man ihm beilegen wird: Der Herr, unser Beseliger.
 $Deo gratias
 
@@ -121,7 +121,7 @@ V. Denk doch, o Herr, an uns, sei gnädig deinem Volke.
 R. Besuche uns mit deinem Segen.
 
 [Adv Nona]
-!Isai 14,1
+!Jes 14,1
 v. Es steht nahe bevor, dass seine Zeit kommt, und die dafür bestimmten Tage werden nicht hinausgeschoben werden; dann wird der Herr sich Jakobs erbarmen, und Israel wird zum Heile gelangen.
 $Deo gratias
 
@@ -137,7 +137,7 @@ V. Komm, o Herr, und säume nicht.
 R. Erleichtere die Last der Frevel deinem Volke.
 
 [Quad Tertia]
-!Joël 2,12-13
+!Joel 2,12-13
 v. Wendet euch mir zu mit eurem ganzen Herzen, mit Fasten und Flehen und Weinen. Ihr müsst einen Riss machen in eure Herzen, und nicht bloß in eure Kleider, so spricht der allmächtige Herr.
 $Deo gratias
 
@@ -153,7 +153,7 @@ V. Mit seinen Schwingen möge er über dir ein Dach machen.
 R. Und du wirst unter seinen Flügeln in Sicherheit sein.
 
 [Quad Sexta]
-!Isai 55,7
+!Jes 55,7
 v. Es möge der Frevler seinen Weg verlassen und der sündige Mensch seine Pläne, und zurückkehren zum Herrn, auf dass er sich seiner erbarme, zu unserem Gott, da er so freigebig ist im Verzeihen.
 $Deo gratias
 
@@ -169,7 +169,7 @@ V. Wie mit einem Schilde möge dich umgeben seine Güte.
 R. Dass du vor nächtlichem Gespenst nicht brauchst zu fürchten.
 
 [Quad Nona]
-!Isai 58,7
+!Jes 58,7
 v. Gib dem Hungernden ein Stück von deinem Brote und die Darbenden und Obdachlosen führe hinein in dein Haus. Wenn du einen ohne Kleider siehst, gib ihm etwas zum Anziehen, und blick nicht weg von dem, der deine Natur trägt.
 $Deo gratias
 
@@ -185,7 +185,7 @@ V. Seinen Engeln hat Gott deinetwegen aufgetragen.
 R. Dass sie dich beschützen auf allen deinen Wegen.
 
 [Quad5 Tertia]
-!Jerem 17:13
+!Jer 17:13
 v. Domine, omnes qui te derelinquunt, confundentur: recedentes a te, in terra scribentur: quoniam dereliquerunt venam aquarum viventium Dominum.
 $Deo gratias
 
@@ -200,7 +200,7 @@ V. De ore leonis libera me, Domine.
 R. Et a cornibus unicornium humilitatem meam.
 
 [Quad5 Sexta]
-!Jerem 17:18
+!Jer 17:18
 v. Confundantur qui me persequuntur, et non confundar ego: paveant illi, et non paveam ego: induc super eos diem afflictionis, et duplici contritione contere eos, Domine, Deus noster.
 $Deo gratias
 
@@ -215,7 +215,7 @@ V. Ne perdas cum impiis, Deus, animam meam.
 R. Et cum viris sanguinum vitam meam.
 
 [Quad5 Nona]
-!Jerem 18:20
+!Jer 18:20
 v. Recordare quod steterim in conspectu tuo, ut loquerer pro eis bonum, et averterem indignationem tuam ab eis.
 $Deo gratias
 
@@ -244,7 +244,7 @@ V. Der Herr ist wahrhaftig auferstanden, alleluja.
 R. Und hat sich dem Simon gezeigt, alleluja.
 
 [Pasch Sexta]
-!1 Cor 15,20-22
+!1 Kor 15,20-22
 v. Christus ist von den Toten auferstanden als Erstling der Entschlafenen; denn durch einen Menschen ist der Tod wirklich geworden, und durch einen Menschen auch die Auferstehung von den Toten. Und wie infolge der Zugehörigkeit zu Adam alle sterben, so kommen durch die Zugehörigkeit zu Christus alle zum Leben.
 $Deo gratias
 
@@ -260,7 +260,7 @@ V. Die Jünger waren voll Freude, alleluja.
 R. Als sie den Herrn sahen, alleluja.
 
 [Pasch Nona]
-!1 Petri 3,18
+!1 Petr 3,18
 v. Christus ist ein für allemal für unsere Sünden gestorben, der Rechtschaffene für die Frevler, um uns Gott als Opfergabe zu weihen, und er ist infolge der niederen Natur dem Tode verfallen, aber zum Leben erweckt durch höhere Kraft.
 $Deo gratias
 
@@ -276,7 +276,7 @@ V. O bleib doch bei uns, o Herr, alleluja.
 R. Denn es wird Abend, alleluja.
 
 [Dominica TertiaM]
-!1 Joann 4:16
+!1 Joann. 4:16
 v. Deus caritas est: et qui manet in caritate, in Deo manet, et Deus in eo.
 $Deo gratias
 _
@@ -284,7 +284,7 @@ V. Ego dixi: Domine, miserere mei.
 R. Sana animam meam, quia peccavi tibi.
 
 [Dominica SextaM]
-!Gal 6:2
+!Gal. 6:2
 v. Alter alterius onera portate et sic adimplebitis legem Christi.
 $Deo gratias
 _
@@ -300,7 +300,7 @@ V. Ab occultis meis munda me Domine.
 R. Et ab alienis parce servo tuo.
 
 [Feria TertiaM]
-!Jerem 17:14
+!Jer 17:14
 v. Sana me, Domine, et sanabor: salvum me fac, et salvus ero: quoniam laus mea tu es.
 $Deo gratias
 _
@@ -316,7 +316,7 @@ V. Dominus regit me, et nihil mihi deerit.
 R. In loco pascuae ibi me collocavit.
 
 [Feria NonaM]
-!1 Petri 1:17-19
+!1 Pet 1:17-19
 v. In timóre incolátus vestri témpore conversámini: sciéntes quod non corruptibílibus auro vel argénto redémpti estis, sed pretióso sánguine quasi Agni immaculáti Christi.
 $Deo gratias
 _
@@ -324,7 +324,7 @@ V. Ab occultis meis munda me Domine.
 R. Et ab alienis parce servo suo.
 
 [Adv TertiaM]
-!Jerem 23:5
+!Jer 23:5
 Ecce dies veniunt, dicit Dominus, et suscitabo David germen justum: et regnabit rex, et sapiens erit: et faciet judicium et justitiam in terra.
 $Deo gratias
 
@@ -333,7 +333,7 @@ V. Veni ad liberandum nos, Domine Deus virtutum.
 R. Ostende faciem tuam, et salvi erimus.
 
 [Adv SextaM]
-!Jerem 23:6
+!Jer 23:6
 v. In diebus illis salvabitur Juda, et habitabit confidenter, et hoc est nomen quod vocabunt eum: Dominus justus noster.
 $Deo gratias
 
@@ -342,7 +342,7 @@ V. Ostende nobis, Domine, misericordiam tuam.
 R. Et salutare tuum da nobis.
 
 [Adv NonaM]
-!Isai 14:1
+!Isa 14:1
 v. Prope est ut veniat tempus eius, et dies eius non elongabuntur: miserebitur enim Dominus Jacob, et Israël salvabitur.
 $Deo gratias
 
@@ -351,7 +351,7 @@ V. Super te, Jerusalem, orietur Dominus.
 R. Et gloria eius in te videbitur.
 
 [Quad TertiaM]
-!Joël 2:12-13
+!Joel 2:12-13
 v. Convertimini ad me in toto corde vestro, in jejunio et fletu et planctu Et scindite corda vestra, et non vestimenta vestra, ait Dominus omnipotens
 $Deo gratias
 
@@ -360,7 +360,7 @@ V. Ipse liberavit me de laqueo venantium.
 R. Et a verbo aspero.
 
 [Quad SextaM]
-!Isai 55:7
+!Isa 55:7
 v. Derelinquat impius viam suam, et vir iniquus cogitationes suas et revertatur ad Dominum, et miserebitur eius, et ad Deum nostrum, quoniam multus est ad ignoscendum.
 $Deo gratias
 
@@ -369,7 +369,7 @@ V. Scapulis suis obumbrabit tibi.
 R. Et sub pennis eius sperabis.
 
 [Quad NonaM]
-!Isai 58:7
+!Isa 58:7
 v. Frange esurienti panem tuum, et egenos vagosque induc in domum tuam: cum videris nudum, operi eum, et carnem tuam ne despexeris.
 $Deo gratias
 
@@ -378,7 +378,7 @@ V. Scuto circumdabit te veritas eius.
 R. Non timebis a timore nocturno.
 
 [Quad5 TertiaM]
-!Jerem 17:13
+!Jer 17:13
 Domine, omnes qui te dereliquerunt confundentur: recedentes a te in terra scribentur; quoniam dereliquerunt venam aquarum viventium: Dominum.
 $Deo gratias
 
@@ -387,7 +387,7 @@ V. Erue a framea, Deus, animam meam.
 R. Et de manu canis unicam meam.
 
 [Quad5 SextaM]
-!Jerem 17:18
+!Jer 17:18
 Confundantur qui me persequuntur, et non confundar ego: paveant illi et non paveam ego: induc super eos diem afflictionis, et duplici contritione contere eos, Domine Deus noster.
 $Deo gratias
 
@@ -396,7 +396,7 @@ V. De ore leonis libera me Domine.
 R. Et a cornibus unicornium humilitatem meam.
 
 [Quad5 NonaM]
-!Jerem 18:20
+!Jer 18:20
 v. Recordare quod steterim in conspectu tuo ut loquerer pro eis bonum, et avertam indignationem tuam ab eis.
 $Deo gratias
 
@@ -424,7 +424,7 @@ R. Et apparuit Simoni, alleluia.
 
 
 [Pasch NonaM]
-!1 Petri 3:18
+!1 Pet 3:18
 v. Christus semel pro peccatis nostris mortuus est, justus pro injustis, ut nos offeret Deo, mortificatus quidem carne, vivificatus autem spiritu.
 $Deo gratias
 
@@ -433,7 +433,7 @@ R.br. Gavisi sunt discipuli, alleluia.
 R. Viso Domino, alleluia.
 
 [Feria II TertiaM]
-!Jerem 23:5
+!Jer 23:5
 v. Ecce dies veniunt, dicit Dominus, et suscitabo David germen iustum: et regnabit rex, et sapiens erit: et faciat iudicium et iustitiam in terra.
 $Deo gratias
 _

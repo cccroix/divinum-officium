@@ -13,7 +13,7 @@ Doxology=Pasc
 
 [Lectio1]
 Lesung aus dem heiligen Evangelium nach Johannes.
-!Joann 17,1-11
+!Joh 17,1-11
 In jener Zeit betete Jesus mit zum Himmel erhobenen Augen: Vater, nun ist die Stunde gekommen, gib die Herrlichkeit deinem Sohn. Und so weiter.
 _
 Auslegung vom heiligen Bischof Augustin.

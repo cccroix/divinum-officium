@@ -13,7 +13,7 @@ Doxology=Pasc
 
 [Lectio1]
 Aus dem ersten Briefe des heiligen Apostels Petrus.
-!1 Petri 4,1-7
+!1 Petr 4,1-7
 1 Nachdem nun Christus in der menschlichen Natur in der menschlichen Natur den Tod erlitten hat, müsst ihr euch mit derselben Gesinnung ausstatten; denn wenn einer den leiblichen Tod erleidet, so trennt er sich von der Sünde.
 2 Und so soll er nicht mehr den menschlichen Neigungen, sondern dem Willen Gottes, was ihm an Zeit zum leiblichen Leben bleibt, widmen.
 3 Es ist doch genug, dass die vergangene Zeit verwandt worden ist zur vollen Betätigung der heidnischen Neigung dadurch, dass man wandelte in Schwelgerei, in Leidenschaften, in Trunkenheit, in Schmausereien, Trinkereien und sündhaften Ehrungen der Götzen.
@@ -26,7 +26,7 @@ Aus dem ersten Briefe des heiligen Apostels Petrus.
 @Tempora/Pasc4-0:Responsory4
 
 [Lectio2]
-!1 Petri 4,7-11
+!1 Petr 4,7-11
 7 Seid also verständig und befleißigt euch des Gebetes.
 8 Vor allem aber übt gegeneinander wechselseitige, ständige Liebe; denn die Liebe bedeckt eine Menge von Sünden.
 9 Seid gegeneinander gastfreundlich, ohne euch zu beklagen;
@@ -39,7 +39,7 @@ Aus dem ersten Briefe des heiligen Apostels Petrus.
 R. Ne repellas me a mandatis tuis, alleluia, alleluia.
 
 [Lectio3]
-!1 Petri 4,12-17
+!1 Petr 4,12-17
 12 Geliebteste, geratet nicht außer Fassung ob des Feuers (der Verfolgung), das zu eurer Prüfung gilt, als ob euch etwas nie Dagewesenes zustoßen würde;
 13 sondern wenn ihr Gemeinschaft habt mit dem leidenden Christus, freut euch, weil dies geschieht, damit ihr, wenn seine Herrlichkeit offenbar wird, im Jubel aufjauchzet.
 14 Wenn man euch beschimpft um Christi willen, seid selig; denn alles das, was es gibt bei Gott an Ehrung, an Verherrlichung und Macht, und selbst sein eigenes Wesen, das lässt sich auf euch nieder.

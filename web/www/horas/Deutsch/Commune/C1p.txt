@@ -14,7 +14,7 @@ Ihr Geister und ihr Seelen * der Rechtschaffenen, stimmt an einen Lobgesang unse
 Es leuchten die Rechtschaffenen * wie die Sonne vor den Augen Gottes, alleluja.;;116
 
 [Capitulum Vespera]
-!Sap 5,1
+!Weish 5,1
 v. Es stehen die Gottesdiener in großer Zuversicht gegenüber denen, die ihnen Bedrängnis gemacht, und die ihnen nun ihre Mühsale abgenommen haben.
 $Deo gratias
 
@@ -170,7 +170,7 @@ Spíritus et ánimæ * justórum hymnum dícite Deo nostro, allelúia, allelúia
 Fulgébunt justi * sicut sol in conspéctu Dei, allelúia.
 
 [Capitulum Laudes]
-!Sap 5,1
+!Weish 5,1
 v. Es stehen die Gottesdiener in großer Zuversicht gegenüber denen, die ihnen Bedrängnis gemacht, und die ihnen nun ihre Mühsale abgenommen haben.
 $Deo gratias
 
@@ -236,11 +236,11 @@ R. Wenn deine Diener sterben, alleluja.
 O ihr Töchter Jerusalems, * kommt und seht die Zeugen für Gott mit ihren Kränzen, mit denen sie der Herr umkränzt hat am Tage ihrer Festlichkeit und ihrer Freude, alleluja, alleluja.
 
 [Lectio Prima]
-!Rom 8,28
+!Röm 8,28
 v. Wir wissen, dass denen, die Gott lieben, alles zum Guten wirkt; denen nämlich, die gemäß seinem Ratschluss berufen sind zur Heiligkeit.
 
 [Capitulum Tertia]
-!Sap 5,1
+!Weish 5,1
 v. Es stehen die Gottesdiener in großer Zuversicht gegenüber denen, die ihnen Bedrängnis gemacht, und die ihnen nun ihre Mühsale abgenommen haben.
 $Deo gratias
 
@@ -256,7 +256,7 @@ V. Ununterbroch'nes Licht scheint deinen Schützlingen, o Herr, alleluja.
 R. Auf ewige Zeiten, alleluja.
 
 [Capitulum Sexta]
-!Sap 5,5
+!Weish 5,5
 v. Seht doch, wie sie aufgenommen sind unter die Gottesdiener, und mitten unter den Heiligen ist der ihnen angewiesene Aufenthalt.
 $Deo gratias
 
@@ -272,7 +272,7 @@ V. Ewige Freude strömt auf sie herunter, alleluja.
 R. Jubel und Frohlocken erhalten sie als Besitz, alleluja.
 
 [Capitulum Nona]
-!Rom 8,28
+!Röm 8,28
 v. Wir wissen, dass denen, die Gott lieben, alles zum Guten wirkt; denen nämlich, die gemäß seinem Ratschluss berufen sind zur Heiligkeit.
 $Deo gratias
 
