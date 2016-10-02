@@ -39,7 +39,7 @@ Rozbrzmiewa świecie.
 Amen.
 
 [Capitulum Vespera]
-!Dan 9:21-22
+!Dn 9:21-22
 v. Oto mąż Gabryel, któregom widział w widzeniu z początku, prędko lecący, dotknął się mnie czasu ofiary wieczornéj. I nauczył mię, a mówił zemną i rzekł: Danielu! terazem wyszedł, abych cię nauczył, ażebyś zrozumiał.
 $Deo gratias
 
@@ -68,7 +68,7 @@ R. Będę się kłaniał ku kościołowi twemu świętemu, i będę wyznawał im
 
 [Lectio1]
 Z Proroka Daniela
-!Dan 9:20-23
+!Dn 9:20-23
 20 A gdym jeszcze mówił i modlił się, a wyznawałem grzechy moje i grzechy ludu mego Izraelskiego i pokładałem prośby moje przed obliczem Boga mego, o górę świętą Boga mego:
 21 Gdym ja jeszcze mówił w modlitwie, oto mąż Gabryel, któregom widział w widzeniu z początku, prędko lecący, dotknął się mnie czasu ofiary wieczornéj.
 22 I nauczył mię, a mówił zemną i rzekł: Danielu! terazem wyszedł, abych cię nauczył, ażebyś zrozumiał.
@@ -81,7 +81,7 @@ V. A gdy pokładał prośby swoje przed obliczem Boga swego.
 R. Oto Archanioł Gabryel, prędko lecący, dotknął go czasu ofiary wieczornéj.
 
 [Lectio2]
-!Dan 9:24-25
+!Dn 9:24-25
 24 Siedmdziesiąt tygodni ukrócone są na lud twój i na miasto święte twoje, aby się dokonało przestępstwo, a grzech aby wziął koniec, ażeby nieprawość była zgładzona, a przywiedziona sprawiedliwość wieczna i aby się spełniło widzenie i proroctwo, a był pomazany Święty świętych.
 25 A tak wiedz a obacz, od wyjścia mowy, aby zaś było zbudowane Jeruzalem, aż do Chrystusa wodza, tygodniów siedm i tygodniów sześćdziesiąt i dwa będą, a znowu będzie zbudowana ulica i mury w ciasności czasów.
 
@@ -92,7 +92,7 @@ V. Ty tedy obacz mowę, a zrozumiéj widzenie.
 R. A jam przyszedł oznajmić tobie; boś mąż pożądania jest.
 
 [Lectio3]
-!Dan 9:26-27
+!Dn 9:26-27
 26 A po tygodniów sześćdziesiąt i dwu będzie zabit Chrystus, a nie będzie ludem jego, który się go zaprzy: a miasto i świątynią skazi lud z wodzem, który przyjdzie, a koniec jego spustoszenie, a po skończeniu wojny postanowione spustoszenie.
 27 A zmocni przymierze z mnogimi tydzień jeden: a w pół tygodnia ustanie ofiara i ofiarowanie, i będzie w kościele obrzydłość spustoszenia, i aż do skończenia i końca będzie trwać spustoszenie. 
 
@@ -178,7 +178,7 @@ V. Wstąpił dym kadzenia przed oblicze Boga.
 R. Z rąk Anioła.
 
 [Capitulum Sexta]
-!Dan 9:23-24
+!Dn 9:23-24
 v. A jam przyszedł oznajmić tobie; boś mąż pożądania jest. Siedmdziesiąt tygodni ukrócone są, a grzech aby wziął koniec, aby się spełniło widzenie i proroctwo, a był pomazany Święty świętych.
 $Deo gratias
 
@@ -194,7 +194,7 @@ V. Przed oblicznością Aniołów będęć śpiewał Tobie Panie.
 R. Będę się kłaniał ku kościołowi twemu świętemu, i będę wyznawał imieniowi twojemu.
 
 [Capitulum Nona]
-!Dan 9:25
+!Dn 9:25
 v. A tak wiedz a obacz, od wyjścia mowy, aby zaś było zbudowane Jeruzalem, aż do Chrystusa wodza tygodniów siedm i tygodniów sześćdziesiąt i dwa będą.
 $Deo gratias
 

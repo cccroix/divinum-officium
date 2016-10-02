@@ -13,7 +13,7 @@ $Per Dominum
 
 [Lectio1]
 Z Księgi Rodzaju
-!Gen 37:2-10
+!Rdz 37:2-10
 2 A te są pokolenia jego: Józeph gdy miał szesnaście lat, pasł trzodę z bracią swą, jeszcze pacholęciem: i był z synami Bale i Zelphy, żon ojca swego: i oskarżył bracią swą przed ojcem o grzech bardzo sprosny.
 3 A Izrael miłował Józepha nad wszystkie syny swe, przeto, iż go był w starości swéj urodził: i uczynił mu suknią wzorzystą.
 4 I widząc bracia jego, że go miłował ojciec nade wszystkie syny: nienawidzieli go, i nie mogli nic łaskawie z nim mówić.
@@ -31,7 +31,7 @@ V. A gdy bracia Józefa ujrzeli, że ojciec kocha go bardziej niż pozostałych 
 R. Chodźcie, zabijmy go i zobaczmy na co mu się przydadzą sny jego! 
 
 [Lectio2]
-!Gen 37:11-20
+!Rdz 37:11-20
 11 Zajrzeli mu tedy bracia jego: a ojciec milcząc rzecz uważał.
 12 A gdy bracia jego, pasąc bydło ojca swego, mieszkali w Sychem,
 13 Rzekł do niego Izrael: Bracia twoi pasą owce w Sychimie: pójdź, poślę cię do nich.
@@ -50,7 +50,7 @@ V. Cóż nam przyjdzie z tego, gdy zabijemy naszego brata, i ukryjemy krew jego;
 R. Wszak jest on naszym ciałem i naszym bratem. 
 
 [Lectio3]
-!Gen 37:21-28
+!Rdz 37:21-28
 21 Co usłyszawszy Ruben, starał się wybawić go z rąk ich, i mówił:
 22 Nie zabijajcie dusze jego, ani wylewajcie krwie, ale wrzućcie go do studnie téj, która jest na puszczy, a ręce wasze zachowajcie niewinne: a to mówił, chcąc go wyrwać z ręku ich, i wrócić ojcu swemu.
 23 Wnet tedy skoro przyszedł do braciéj swéj, zewlekli go z onej suknie długiéj i wzorzystéj:
@@ -96,7 +96,7 @@ R. Bo kradzieżą wzięto mię, a tu mię do tego dołu niewinnie wsadzono.
 
 [Lectio7]
 Czytanie Ewangelii świętej według Łukasza
-!Luc 11, 14-28
+!Łk 11, 14-28
 Onego czasu: Wyrzucał Jezus czarta, a ten był niemy. A gdy wyrzucił czarta, przemówił niemy i zdumiały się rzesze. I tak dalej.
 _
 Homilia świętego Bedy Czcigodnego, Kapłana
@@ -131,7 +131,7 @@ Vim virtutis suae * oblitus est ignis: ut pueri tui liberarentur illaesi
 Słońce i miesiącu * chwalcie Boha, bo wywyższyło się imię jego samego.
 
 [Capitulum Laudes]
-!Ephes 5:1-2
+!Ef 5:1-2
 v. Bracia: Bądźcież tedy naśladowcami Bożymi, jako synowie najmilsi, a chodźcie w miłości, jako i Chrystus umiłował nas i wydał samego siebie za nas obiatą i ofiarą Bogu na wonność wdzięczności. 
 $Deo gratias
 
@@ -151,7 +151,7 @@ Jeźli palcem Bożym * wyrzucam czarty, zaisteć na was przyszło królestwo Bo�
 Kto nie zgromadza zemną, * rozprasza, a kto nie jest zemną, przeciwko mnie jest.
 
 [Capitulum Sexta]
-!Ephes 5:5
+!Ef 5:5
 v. Bo to wiedzcie rozumiejąc, iż wszelki porubca, albo nieczysty, albo łakomiec, co jest bałwochwalstwo, nie ma dziedzictwa w królestwie Chrystusowem i Bożem.
 $Deo gratias
 
@@ -159,7 +159,7 @@ $Deo gratias
 Gdy duch nieczysty * wynidzie od człowieka, chodzi po miejscach bezwodnych, szukając odpoczynku, a nie znajduje.
 
 [Capitulum Nona]
-!Ephes 5:8-9
+!Ef 5:8-9
 v. Albowiemeście byli niekiedy ciemnością; lecz teraz światłością w Panu. Jako synowie światłości chodźcie. Bo owoc światłości jest w wszelakiéj dobrotliwości i sprawiedliwości i prawdzie.
 $Deo gratias
 

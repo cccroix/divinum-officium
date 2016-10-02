@@ -13,7 +13,7 @@ Doxology=Pasc
 
 [Lectio1]
 Czytanie Ewangelii świętej według Jana
-!Joann 17:1-11
+!J 17:1-11
 Onego czasu: Jezus, podniósłszy oczy ku niebu, rzekł: „Ojcze, nadeszła godzina moja, wsław Syna Twego". I tak dalej.
 _
 Homilia świętego Augustyna, Biskupa

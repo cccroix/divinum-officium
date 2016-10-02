@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 Z Listu św. Jakuba Apostoła
-!Joann 3:1-3
+!Jk 3:1-3
 1 Niech się was wiele mistrzami nie stawa, bracia moi! wiedząc, iż większy sąd odniesiecie. 
 2 Albowiem w wielu upadamy wszyscy. Jeźli kto w słowie nie upada, ten jest mąż doskonały, który może téż wędzidłem kierować wszystko ciało.
 3 A jeźli koniom wędzidła w gęby wprawujemy, aby nam posłuszne były, i wszystko ich ciało obracamy.
@@ -17,7 +17,7 @@ Z Listu św. Jakuba Apostoła
 @Tempora/Pasc4-0
 
 [Lectio2]
-!Joann 3:4-6
+!Jk 3:4-6
 4 Oto i okręty wielkie będąc, i gdy je srogie wiatry pędzą, obracane bywają od malutkiego steru, gdzie wola sterującego zechce:
 5 Tak i język, małyć wprawdzie członek jest, ale wielkie rzeczy podnosi. Oto jako mały ogień, jako wielki las spala!
 6 I język jest ogień, powszechność nieprawości.
@@ -26,7 +26,7 @@ Z Listu św. Jakuba Apostoła
 @Tempora/Pasc4-0
 
 [Lectio3]
-!Joann 3:6-10
+!Jk 3:6-10
 6 Język postanowiony jest między członkami naszemi, który plugawi wszystko ciało i zapala koło narodzenia naszego, zapalony od piekła.
 7 Albowiem wszelkie przyrodzenie zwierząt i ptaków i płazów i innych uskromione bywa i okrócone jest od przyrodzenia ludzkiego.
 8 Lecz języka żaden z ludzi nie może okrócić, złe niespokojne, pełne jadu śmiertelnego.

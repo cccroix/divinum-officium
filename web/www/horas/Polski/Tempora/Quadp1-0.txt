@@ -9,7 +9,7 @@ Dominica in Septuagesima;;Semiduplex;;5
 Invit2
 
 [Capitulum Vespera]
-!1 Cor 9:24
+!1Kor 9:24
 v. Bracia: Nie wiecie, iż ci, którzy w zawód biegają, acz wszyscy bieżą, ale jeden zakład bierze? Tak bieżcie, abyście otrzymali.
 $Deo gratias
 
@@ -26,7 +26,7 @@ Uprzedźmy oblicze Pana: * A psalmami śpiewajmy mu.
 
 [Lectio1]
 Początek Księgi Rodzaju
-!Gen 1:1-8
+!Rdz 1:1-8
 1 Na początku stworzył Bóg niebo i ziemię.
 2 A ziemia była pusta i próżna: i ciemności były nad głębokością: a Duch Boży unaszał się nad wodami.
 3 I rzekł Bóg: Niech się stanie światłość: i stała się światłość.
@@ -43,7 +43,7 @@ V. Utworzył tedy Pan Bóg człowieka z mułu ziemie, i natchnął w oblicze jeg
 R. Na wyobrażenie podobieństwa swego.
 
 [Lectio2]
-!Gen 1:9-19
+!Rdz 1:9-19
 9 Potem rzekł Bóg: Niech się zbiorą wody, które są pod niebem, na jedno miejsce: a niech się ukaże sucha. I stało się tak.
 10 I nazwał Bóg suchą, Ziemią: a zebranie wód przezwał Morzem. I widział Bóg, że było dobre.
 11 I rzekł: Niech zrodzi ziemia ziele zielone, i dawające nasienie: i drzewo rodzajne, owoc czyniące według rodzaju swego, któregoby nasienie było w samym sobie na ziemi. I stało się tak.
@@ -63,7 +63,7 @@ V. Dokończone są tedy niebiosa i ziemia, i wszystko ochędóstwo ich.
 R. I widział Bóg wszystkie rzeczy, które był uczynił: i były bardzo dobre.
 
 [Lectio3]
-!Gen 1:20-26
+!Rdz 1:20-26
 20 Rzekł téż Bóg: Niech wywiodą wody płaz dusze żywiącéj, i ptastwo nad ziemią pod utwierdzeniem nieba.
 21 I stworzył Bóg wieloryby wielkie, i wszelką duszę żywiącą i ruszającą się, którą wywiodły wody według rodzaju ich: i wszelkie ptastwo według rodzaju jego. I widział Bóg, iż było dobre.
 22 I błogosławił im, mówiąc:  Rośćcie, i mnóżcie się, i napełniajcie wody morskie: i ptastwo niech się mnoży na ziemi.
@@ -102,7 +102,7 @@ R. I nazwał ją Mężyną; bo z męża wzięta jest.
 
 [Lectio7]
 Czytanie Ewangelii świętej według Mateusza
-!Matth 20:1-6
+!Mt 20:1-6
 Onego czasu: Rzekł Jezus uczniom swoim tę przypowieść: „Podobne jest Królestwo Niebieskie człowiekowi gospodarzowi, który wyszedł bardzo rano najmować robotników do winnicy swojej”. I tak dalej.
 _
 Homilia świętego Grzegorza, Papieża
@@ -153,7 +153,7 @@ Idźcie i wy * do winnicy mojej: a co będzie sprawiedliwe dam wam.
 Co tu stoicie * cały dzień próżnujący? Rzekli mu: Iż nas nikt nie najął.
 
 [Capitulum Sexta]
-!1 Cor 9:25
+!1Kor 9:25
 v. A każdy, który się potyka na placu, od wszystkiego się powściąga: a onić, aby wzięli wieniec skazitelny, a my nieskazitelny.
 $Deo gratias
 
@@ -161,7 +161,7 @@ $Deo gratias
 Zawołaj robotników * i oddaj im zapłatę, rzekł Pan.
 
 [Capitulum Nona]
-!1 Cor 10:4-5
+!1Kor 10:4-5
 v. Pili z skały duchownéj, która za nimi szła: a skała była Chrystus. Ale nie w wielu z nich upodobało się Bogu.
 $Deo gratias
 

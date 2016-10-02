@@ -7,7 +7,7 @@ Duplex
 Una Antiphona
 
 [Capitulum Vespera]
-!1 Petri 2:11
+!1 P 2:11
 v. Najmilsi: Proszę was, jako przychodniów i gościów, abyście się wstrzymawali od pożądliwości cielesnych, które walczą przeciwko duszy,
 $Deo gratias
 
@@ -23,7 +23,7 @@ $Per Dominum
 
 [Lectio1]
 Początek Księgi Apokalipsy św. Jana Apostoła
-!Apoc 1:1-6
+!Ap 1:1-6
 1 Objawienie Jezusa Chrystusa, które jemu dał Bóg, aby objawił sługom swym, co się ma dziać w rychle; i oznajmił, posławszy przez Anioła swojego słudze swemu Janowi,
 2 Który świadectwo wydał słowu Bożemu i świadectwo Jezusa Chrystusa, cokolwiek widział.
 3 Błogosławiony, który czyta i słucha słów proroctwa tego i zachowywa to, co w niem jest napisano; albowiem czas jest blizko.
@@ -38,7 +38,7 @@ V I uczynił nas królestwem i kapłany Bogu naszemu.
 R. Przez krew twoję, alleluja.
 
 [Lectio2]
-!Apoc 1:7-11
+!Ap 1:7-11
 7 Oto idzie z obłokami, i ujrzy go wszelkie oko, i którzy go przebili: i bić się będą dla niego wszystkie pokolenia ziemie. Tak, Amen. 
 8 Jam jest Alpha i Omega, początek i koniec, mówi Pan Bóg, który jest, i który był, i który przyjdzie, Wszechmogący. 
 9 Ja, Jan, brat wasz i uczęstnik ucisku i w królestwie i w cierpliwości w Chrystusie Jezusie, byłem na wyspie, którą zowią Patmos, dla słowa Bożego i świadectwa Jezusa.
@@ -46,7 +46,7 @@ R. Przez krew twoję, alleluja.
 11 Mówiący: Co widzisz, napisz w księgi i poślij siedmi kościołom, które są w Azyi: Ephezowi i Smyrnie i Pergamowi i Tyatyrze i Sardowi i Philadelphii i Laodycei.
 
 [Lectio3]
-!Apoc 1:12-19
+!Ap 1:12-19
 12 I obróciłem się, abym obaczył głos, który mówił zemną. A obróciwszy się, ujrzałem siedm lichtarzów złotych:
 13 A w pośrodku siedmi lichtarzów złotych podobnego Synowi człowieczemu, obleczonego w długą szatę i przepasanego u piersi pasem złotym.
 14 A głowa jego i włosy były białe jako wełna biała i jako śnieg, a oczy jego jako płomień ognia.
@@ -78,7 +78,7 @@ R. Bójcie się Pana i dajcie mu czystość jego, a kłaniajcie się temu, któr
 
 [Lectio7]
 Czytanie Ewangelii świętej wedługętego Jana
-!Joann 16:16-22
+!J 16:16-22
 Onego czasu: Rzekł Jezus uczniom swoim: „Już niedługo, a nie będziecie Mnie oglądać, i znowu niedługo, a ujrzycie Mnie: bo idę do Ojca”. I tak dalej.
 _
 Homilia świętego Augustyna, Biskupa
@@ -106,12 +106,12 @@ R. W radość się obróci, alleluja, alleluja.
 @:Capitulum Vespera
 
 [Capitulum Sexta]
-!1 Petri 2:13-14
+!1 P 2:13-14
 v. Bądźcież tedy poddani wszelkiemu ludzkiemu stworzeniu dla Boga, chociaż królowi, jako przewyższającemu, chociaż książętom, jako od niego posłanym ku pomście złoczyńców, a ku chwale dobrych.
 $Deo gratias
 
 [Capitulum Nona]
-!1 Petri 2:18-19
+!1 P 2:18-19
 v. Słudzy, bądźcie poddani panom we wszystkiéj bojaźni, nie tylko dobrym i skromnym, ale téż i przykrym. Bo to jest łaska, w Chrystusie Jezusie Panu naszym.
 $Deo gratias
 

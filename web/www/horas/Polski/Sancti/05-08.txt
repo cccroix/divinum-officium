@@ -19,7 +19,7 @@ Aniołowie Pańscy, * błogosławcie Pana na wieki. (Alleluja.)
 Aniołowie, Archaniołowie, * Trony, Panowania, Księstwa, Władze i Moce niebieskie, chwalcie Pana Zastępów. (Alleluja.)
 
 [Capitulum Vespera]
-!Apoc 1:1-2
+!Rev 1:1-2
 v. Objawił Bóg, co się ma dziać wkrótce i oznajmił przez Anioła swego słudze swemu Janowi, który świadectwo wydał słowu Bożemu i świadectwo Jezusa Chrystusa, cokolwiek widział.
 $Deo gratias
 
@@ -86,13 +86,13 @@ R. Będę się kłaniał ku kościołowi twemu świętemu, i będę wyznawał im
 
 [Lectio1]
 Z Proroka Daniela
-!Dan 7:9-11
+!Dn 7:9-11
 9 Przypatrowałem się, aż postanowiono stołki, a Starowieczny usiadł, szata jego biała jako śnieg, a włosy głowy jego jako wełna czysta, stolica jego płomienie ogniste, koła jéj ogień rozpalony.
 10 Rzeka ognista a bystra wychodziła od oblicza jego, tysiąc tysięcy służyło mu, a po dziesięć tysięcy kroć sto tysięcy stało przy nim: zasiadł sąd, i księgi otworzono.
 11 Patrzyłem dla głosu mów wielkich, które on róg mówił, i widziałem, że była zabita bestya, i zginęło ciało jéj i dano je na spalenie ogniem.
 
 [Lectio2]
-!Dan 10:4-8
+!Dn 10:4-8
 4 A dwudziestego i czwartego dnia miesiąca pierwszego byłem nad rzeką wielką, która jest Tygrys.
 5 I podniosłem oczy moje i ujrzałem, a ono mąż jeden obleczony w płócienne szaty, a nerki jego przepasane złotem najczystszem,
 6 A ciało jego jako Chrysolit, a oblicze jego jako pozór błyskawice, a oczy jego jako lampa gorejąca, a ramiona jego i co poniż jest aż do nóg, jako pozór miedzi błyszczące się: a głos mów jego jako głos mnóstwa.
@@ -106,7 +106,7 @@ V. Przed oblicznością Aniołów będęć śpiewał: będę się kłaniał ku k
 R. I wstąpił dym kadzenia z rąk Anioła przed oblicze Boga. (Alleluja.)
 
 [Lectio3]
-!Dan 10:9-14
+!Dn 10:9-14
 9 I usłyszałem głos mów jego, a usłyszawszy leżałem przestraszony na oblicze moje, a twarz moja przylgnęła do ziemie.
 10 A oto ręka tknęła mię i wzniosła mię na kolana moje i na członki rąk moich.
 11 I rzekł do mnie: Danielu! mężu pożądania, rozumiéj słowa, które ja mówię do ciebie, a stań na nogach twoich; bom teraz posłan jest do ciebie. A, gdy mi rzekł tę mowę, stanąłem drżąc.
@@ -161,7 +161,7 @@ V. Anioł stanął przed ołtarzem kościoła. (Alleluja.)
 R. Mając kadzielnicę złotą w ręku swojem. (Alleluja.)
 
 [Lectio Prima]
-!Apoc 12:7-8
+!Ap 12:7-8
 v. I stała się wielka bitwa na niebie: Michał i Aniołowie jego walczyli ze smokiem, i smok walczył i Aniołowie jego, i nie przemogli, ani miejsce ich daléj znalezione jest na niebie.
 
 [Capitulum Tertia]
@@ -179,7 +179,7 @@ V. Wstąpił dym kadzenia przed oblicze Boga, alleluja.
 R. Z rąk Anioła, alleluja.
 
 [Capitulum Sexta]
-!Apoc 5:11-12
+!Ap 5:11-12
 v. Słyszałem głos wielu Aniołów około stolice i zwierząt i starszych, a była liczba ich tysiące tysiąców, mówiących głosem wielkim: Zbawienie Bogu naszemu.
 $Deo gratias
 

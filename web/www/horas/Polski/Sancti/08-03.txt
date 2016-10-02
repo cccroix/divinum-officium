@@ -9,7 +9,7 @@ vide C2;
 @Sancti/12-26:Ant Laudes
 
 [Capitulum Vespera]
-!Act 6:8
+!Dz 6:8
 v. A Szczepan pełen łaski i mocy czynił cuda i znaki wielkie między ludem.
 $Deo gratias
 
@@ -24,7 +24,7 @@ $Deo gratias
 
 [Lectio1]
 Z Dziejów Apostolskich
-!Act 7:51-54
+!Dz 7:51-54
 51 Twardego karku i nieobrzezanych serc i uszu, wy się zawżdy sprzeciwiacie Duchowi Świętemu, jako ojcowie wasi, także i wy.
 52 Którego z proroków nie prześladowali ojcowie wasi? i zabili tych, którzy opowiadali o przyjściu Sprawiedliwego, któregoście wy teraz zdrajcami i mężobójcami byli.
 53 Którzyście wzięli zakon przez rozrządzenie Anielskie, a nie strzegliście.
@@ -34,7 +34,7 @@ Z Dziejów Apostolskich
 @Sancti/12-26
 
 [Lectio2]
-!Act 7:55-58
+!Dz 7:55-58
 55 A będąc pełen Ducha S. patrząc pilnie w niebo, ujrzał chwałę Bożą i Jezusa stojącego po prawicy Bożéj. I rzekł: Oto widzę niebiosa otworzone, a Syna człowieczego stojącego po prawicy Bożéj.
 56 A krzyknąwszy głosem wielkim, zatulili sobie uszy i rzucili się nań jednomyślnie.
 57 A wyrzuciwszy go z miasta, kamionowali, a świadkowie składali szaty swe u nóg młodzieńca, którego zwano Szawłem. 
@@ -44,7 +44,7 @@ Z Dziejów Apostolskich
 @Sancti/12-26
 
 [Lectio3]
-!Act 7:59; 8:1-2
+!Dz 7:59; 8:1-2
 59 A klęknąwszy na kolana, zawołał głosem wielkim, mówiąc: Panie! nie przyczytaj im tego grzechu. A to rzekłszy, zasnął w Panu. A Szaweł zezwalał na zabicie jego.
 1 I stało się onego dnia wielkie prześladowanie przeciw kościołowi, który był w Jeruzalem, i rozproszyli się wszyscy po krainach Żydowskiej ziemie i Samaryi, oprócz Apostołów.
 2 I pogrzebli Szczepana ludzie bogobojni i uczynili nad nim wielkie płakanie.

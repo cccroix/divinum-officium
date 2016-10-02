@@ -27,7 +27,7 @@ Christum natum, qui beatum hodie coronavit Stephanum * Venite adoremus.
 
 [Lectio1]
 Z Dziejów Apostolskich
-!Act 6:1-6
+!Dz 6:1-6
 1 A we dni one, gdy rosła liczba uczniów, stało się szemranie Greków przeciw Żydom, iż w poługowaniu powszedniem bywały pogardzone wdowy ich.
 2 A dwanaście zezwawszy gromadę uczniów, rzekli: Nie jest słuszna, żebyśmy my opuścili słowo Boże, a stołom służyli.
 3 Upatrzcież tedy, bracia! z was siedmi mężów dobre świadectwo mających, pełnych Ducha Świętego i mądrości, którebyśmy przełożyli nad tą sprawą.
@@ -42,7 +42,7 @@ V. I powstali niektórzy z bóżnice, gadając się z Szczepanem: i nie mogli si
 R. Czynił cuda i znaki wielkie między ludem.
 
 [Lectio2]
-!Act 6:7-10;7:54
+!Dz 6:7-10;7:54
 7 A słowo Pańskie rosło i mnożył się poczet uczniów bardzo w Jeruzalem, wielkie téż mnóstwo kapłanów posłuszne było wierze.
 8 A Szczepan pełen łaski i mocy czynił cuda i znaki wielkie między ludem.
 9 I powstali niektórzy z bóżnice, którą zowią Libertynów i Cyrenejczyków i Alexandryanów i tych, którzy byli z Cylicyi i z Azyi, gadając się z Szczepanem.
@@ -50,7 +50,7 @@ R. Czynił cuda i znaki wielkie między ludem.
 54 A słuchając tego, krajały się serca ich, i zgrzytali nań zębami.
 
 [Lectio3]
-!Act 7:55-59
+!Dz 7:55-59
 55 A będąc pełen Ducha Świętego, patrząc pilnie w niebo, ujrzał chwałę Bożą i Jezusa stojącego po prawicy Bożéj. I rzekł: Oto widzę niebiosa otworzone, a Syna człowieczego stojącego po prawicy Bożéj.
 56 A krzyknąwszy głosem wielkim, zatulili sobie uszy i rzucili się nań jednomyślnie.
 57 A wyrzuciwszy go z miasta, kamionowali, a świadkowie składali szaty swe u nóg młodzieńca, którego zwano Szawłem.
@@ -73,7 +73,7 @@ R, Panie Jezu! przyjmij ducha mojego, i nie przyczytaj im tego grzechu.
 
 [Lectio7]
 Czytanie Ewangelii świętej według św. Mateusza
-!Matth 23:34-39
+!Mt 23:34-39
 Onego czasu: Mówił Jezus do uczonych w Piśmie i faryzeuszy: „Oto Ja posyłam do was Proroków i mędrców, i uczonych w Piśmie, a wielu z nich zabijecie i ukrzyżujecie”. I tak dalej.
 _
 Homilia świętego Hieronima, Kapłana
@@ -109,7 +109,7 @@ Szczepan ujrzał * niebiosa otworzone, widział i wszedł: błogosławiony mąż
 Oto widzę * niebiosa otworzone, a Syna człowieczego stojącego po prawicy Bożéj
 
 [Capitulum Laudes]
-!Act 6:8
+!Dz 6:8
 v. A Szczepan pełen łaski i mocy czynił cuda i znaki wielkie między ludem.
 $Deo gratias
 
@@ -121,21 +121,21 @@ R. I uczynili nad nim wielkie płakanie.
 Szczepan pełen * łaski i mocy czynił znaki wielkie między ludem.
 
 [Lectio Prima]
-!Act 7:59
+!Dz 7:59
 v. A klęknąwszy na kolana, zawołał głosem wielkim, mówiąc: Panie! nie przyczytaj im tego grzechu. A to rzekłszy, zasnął w Panu.
 
 [Capitulum Tertia]
-!Act 6:8
+!Dz 6:8
 v. A Szczepan pełen łaski i mocy czynił cuda i znaki wielkie między ludem.
 $Deo gratias
 
 [Capitulum Sexta]
-!Act 6:9-10
+!Dz 6:9-10
 v. I powstali niektórzy z bóżnice, którą zowią Libertynów i Cyrenejczyków i Alexandryanów i tych, którzy byli z Cylicyi i z Azyi, gadając się z Szczepanem. I nie mogli się sprzeciwić mądrości i duchowi, który mówił.
 $Deo gratias
 
 [Capitulum Nona]
-!Act 7:59
+!Dz 7:59
 v. A klęknąwszy na kolana, zawołał głosem wielkim, mówiąc: Panie! nie przyczytaj im tego grzechu. A to rzekłszy, zasnął w Panu.
 $Deo gratias
 
@@ -147,7 +147,7 @@ U Pana * miłosierdzie i obfite u Niego odkupienie.;;129
 Z owocu * żywota Twego posadzę na stolicy Twojej.;;131
 
 [Capitulum Vespera]
-!Act 6:8
+!Dz 6:8
 v. A Szczepan pełen łaski i mocy czynił cuda i znaki wielkie między ludem.
 $Deo gratias
 

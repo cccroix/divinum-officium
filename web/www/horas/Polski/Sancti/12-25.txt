@@ -19,7 +19,7 @@ Wiedzcie, * że blisko jest Królestwo Boże, zaprawdę powiadam wam, iż nie om
 Podnoście głowy wasze, * boć się przybliża odkupienie wasze.;;116
 
 [Capitulum Vespera]
-!Tit 3:4-5
+!Tyt 3:4-5
 v. Okazała się dobrotliwość i ludzkość Zbawiciela Boga: nie z uczynków sprawiedliwości, któreśmy uczynili, ale podług miłosierdzia swego zbawił nas.
 $Deo gratias
 
@@ -101,7 +101,7 @@ V. On mię będzie wzywał, alleluja.
 R. Ojcem moim jesteś ty, alleluja.
 
 [Lectio1]
-!Isai 9:1-6
+!Iz 9:1-6
 1 Pierwszego czasu ulżenie się stało ziemi Zabulon i ziemi Nephthalim: a na ostatek obciążona jest droga morska za Jordanem w Galilei pogańskiéj.
 2 Lud, który chodził w ciemności, ujrzał światłość wielką, mieszkającym w krainie cienia śmierci, światłość im weszła.
 3 Rozmnożyłeś naród, a nie uczyniłeś wielkiego wesela: będą się weselić przed tobą, jako ci, którzy się weselą we żniwa, jako się radują zwycięzcy, dostawszy korzyści, gdy się dzielą łupy.
@@ -119,7 +119,7 @@ R. Dzisiaj Król niebios raczył narodzić się nam z Dziewicy, aby człowieka z
 * Radują się zastępy Aniołów: bo zbawienie wieczne objawiło się rodzajowi ludzkiemu.
 
 [Lectio2]
-!Isai 40:1-8
+!Iz 40:1-8
 1 Cieszcie się, cieszcie, ludu mój! mówi Bóg wasz.
 2 Mówcie do serca Jeruzalem a przyzwijcie go; bo się skończyła złość jego, odpuszczona jest nieprawość jego: wzięło z ręki Pańskiéj dwojako za wszystkie grzechy swoje.
 3 Głos wołającego na puszczy: Gotujcie drogę Pańską, proste czyńcie na puszczy ścieżki Boga naszego.
@@ -136,7 +136,7 @@ V. Dzisiaj oświeci nas dzień nowego odkupienia, starożytnego naprawienia, rad
 R. Dzisiaj po całym świecie słodycz rozleją niebiosa.
 
 [Lectio3]
-!Isai 52:1-6
+!Iz 52:1-6
 1 Powstań, powstań, oblecz się w moc twoje, Syonie! oblecz szaty ochędóstwa twego, Jerusalem, miasto Świętego; bo nie przyda więcej, aby przeszedł przez cię nieobrzezaniec i nieczysty.
 2 Otrząśnij się z prochu, wstań a siądź, Jeruzalem! rozwiąż związki szyje twojej, poimana córko Syon!
 3 Bo to mówi Pan: Darmoście zaprzedani, a bez srebra będziecie wykupieni.
@@ -192,7 +192,7 @@ Słowa świętej Ewangelii, pouczą nas o Chrystusie Synu Boga. Amen.
 
 [Lectio7]
 Czytanie Ewangelii świętej według św. Łukasza
-!Luc 2:1-14
+!Łk 2:1-14
 Onego czasu: Wydany został dekret przez cesarza Augusta, aby spisano wszystek świat. I tak dalej.
 _
 Homilia świętego Grzegorza, Papieża
@@ -207,7 +207,7 @@ R. On to dzisiaj dla zbawienia świata zechciał się narodzić z Dziewicy.
 
 [Lectio8]
 Czytanie Ewangelii świętej według św. Łukasza
-!Luc 2:15-20
+!Łk 2:15-20
 Onego czasu: Mówili pasterze jeden do drugiego: „Pójdźmy aż do Betlejem i zobaczmy to, co się stało, o czym nam oznajmił Pan”. I tak dalej.
 _
 Homilia świętego Ambrożego, Biskupa
@@ -224,7 +224,7 @@ R. I widzieliśmy chwałę Jego, pełnego łaski i prawdy, chwałę jako Jednoro
 
 [Lectio9]
 Czytanie Ewangelii świętej według św. Jana
-!Joann 1:1-14
+!J 1:1-14
 Na początku było Słowo, a Słowo było u Boga i Bogiem było Słowo. I tak dalej.
 _
 Homilia świętego Augustyna, Biskupa
@@ -240,7 +240,7 @@ Było z Aniołem * mnóstwo wojska niebieskiego, chwalących Boga i mówiących:
 Małe Dziecię * dzisiaj nam się narodziło: i nazwane będzie Bogiem Mocnym, alleluja, alleluja.
 
 [Capitulum Laudes]
-!Hebr 1:1-2
+!Hbr 1:1-2
 v. Rozmaicie i wielą sposobów mówiwszy dawno Bóg ojcom przez Proroki: Na ostatek tych dni mówił do nas przez Syna, którego postanowił dziedzicem wszystkiego, przez którego uczynił i wieki.
 $Deo gratias
 
@@ -294,11 +294,11 @@ R. Zbawienie swoje, alleluja.
 Chwała na wysokości Bogu, * a na ziemi pokój ludziom dobréj woléj, alleluja, alleluja.
 
 [Lectio Prima]
-!Hebr 1:11-12
+!Hbr 1:11-12
 v. One poginą, a ty trwać będziesz: a wszystkie jako szata zwiotszeją. A jako odzienie zmienisz je, i odmienią się; ale ty tenżeś jest, i lata twoje nie ustaną?
 
 [Capitulum Tertia]
-!Hebr 1:1-2
+!Hbr 1:1-2
 v. Rozmaicie i wielą sposobów mówiwszy dawno Bóg ojcom przez Proroki: Na ostatek tych dni mówił do nas przez Syna, którego postanowił dziedzicem wszystkiego, przez którego uczynił i wieki.
 $Deo gratias
 
@@ -314,7 +314,7 @@ V. On mię będzie wzywał, alleluja.
 R. Ojcem moim jesteś ty, alleluja.
 
 [Capitulum Sexta]
-!Hebr 1:10
+!Hbr 1:10
 v. I tyś, Panie! na początku ugruntował ziemię, a dzieła rąk twoich są niebiosa.
 $Deo gratias
 
@@ -330,7 +330,7 @@ V. Oglądały wszystkie kraje ziemie, alleluja.
 R. Zbawienie Boga naszego, alleluja.
 
 [Capitulum Nona]
-!Hebr 1:11-12
+!Hbr 1:11-12
 v. One poginą, a ty trwać będziesz: a wszystkie jako szata zwiotszeją. A jako odzienie zmienisz je, i odmienią się; ale ty tenżeś jest, i lata twoje nie ustaną?
 $Deo gratias
 
@@ -353,7 +353,7 @@ U Pana * miłosierdzie i obfite u Niego odkupienie.;;129
 Z owocu * żywota Twego posadzę na stolicy Twojej.;;131
 
 [Capitulum Vespera 3]
-!Hebr 1:1-2
+!Hbr 1:1-2
 v. Rozmaicie i wielą sposobów mówiwszy dawno Bóg ojcom przez Proroki: Na ostatek tych dni mówił do nas przez Syna, którego postanowił dziedzicem wszystkiego, przez którego uczynił i wieki.
 $Deo gratias
 

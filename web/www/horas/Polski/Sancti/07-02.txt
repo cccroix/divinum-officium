@@ -35,7 +35,7 @@ Obchodząc Nawiedzenie Panny Marji: * kłaniajmy się Chrystusowi Panu, jej Syno
 
 [Lectio1]
 Z Pieśni nad Pieśniami
-!Cant 2:1-7
+!Pnp 2:1-7
 1 Ja kwiat polny i lilia padolna.
 2 Jako lilia między cierniem, tak przyjaciółka moja między córkami.
 3 Jako jabłoń między drzewem leśnem, tak miły mój między synami. Pod cieniem jego, któregom pragnęła, siedziałam: a owoc jego słodki gardłu memu.
@@ -51,7 +51,7 @@ V. Weszła Marja w dom Zacharyaszów i pozdrowiła Elżbietę.
 R. Głos synogarlice słyszan jest w ziemi naszéj.
 
 [Lectio2]
-!Cant 2:8-13
+!Pnp 2:8-13
 8 Głos miłego mego: oto ten idzie skacząc po górach, przeskakując pagórki.
 9 Podobny jest miły mój sarnie i jelonkowi: oto on stoi za ścianą naszą, poglądając okny, patrzając przez kraty.
 10 Oto miły mój mówi ku mnie: Wstań, śpiesz się, przyjaciółko moja! gołębico moja, piękna moja, a przyjdź.
@@ -60,7 +60,7 @@ R. Głos synogarlice słyszan jest w ziemi naszéj.
 13 Figa wypuściła niedojrzałe figi swoje, winnice kwitnące wydały wonność swoję.
 
 [Lectio3]
-!Cant 2:13-17
+!Pnp 2:13-17
 13 Wstań, przyjaciółko moja! piękna moja, a przyjdź.
 14 Gołębico moja! w rozpadlinach skalnych, w maclochu parkanu: ukaż mi oblicze twoje, niechaj głos twój zabrzmi w uszach moich; albowiem głos twój wdzięczny, a oblicze twoje piękne.
 15 Poimajcie nam liszki małe, które psują winnice; bo winnica nasza zakwitła.
@@ -91,7 +91,7 @@ R. Wielbij, duszo moja, Pana.
 
 [Lectio7]
 Czytanie Ewangelii świętej według Łukasza
-!Luc 1:39-47
+!Łk 1:39-47
 Onego czasu: Powstawszy, Maryja udała się spiesznie w okolicę górzystą do miasta Judy. I weszła do domu Zachariasza, i pozdrowiła Elżbietę. I tak dalej.
 _
 Homilia świętego Ambrożego, Biskupa

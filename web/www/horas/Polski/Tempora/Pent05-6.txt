@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Z Drugiej Księgi Królewskiej
-!2 Reg 11:1-4
+!2 Sm 11:1-4
 1  I stało się po roku tego czasu, którego zwykli królowie wyjeżdżać na wojnę, posłał Dawid Joaba i sługi swe z nim i wszystkiego Izraela, i pustoszyli syny Ammon i obiegli Rabba: a Dawid został w Jeruzalem. 
 2 To gdy się działo, przydało się, że Dawid wstał z łoża swego po południu i przechodził się po sali domu królewskiego: i ujrzał niewiastę myjącą się naprzeciwko na sali swéj, a była niewiasta bardzo piękna.
 3 Posłał tedy król i pytał, co za niewiasta była. I dano mu sprawę, że to była Bethsabee, córka Eliam, żona Uryasza Hethejczyka.
@@ -16,7 +16,7 @@ Z Drugiej Księgi Królewskiej
 @Tempora/Pent01-3:Responsory1
 
 [Lectio2]
-!2 Reg 11:5-11
+!2 Sm 11:5-11
 5 I wróciła się do domu swego, płód począwszy; i posławszy oznajmiła Dawidowi i rzekła: Poczęłam.
 6 I posłał Dawid do Joaba, mówiąc: Poszlij do mnie Uryasza Hethejczyka. I posłał Joab Uryasza do Dawida.
 7 I przyszedł Uryasz do Dawida, i pytał się Dawid, jakoby się dobrze powodziło Joab i ludowi, jakoby była sprawowana wojna.
@@ -29,7 +29,7 @@ Z Drugiej Księgi Królewskiej
 @Tempora/Pent01-3:Responsory2
 
 [Lectio3]
-!2 Reg 11:12-17
+!2 Sm 11:12-17
 12 Rzekł tedy Dawid do Uryasza: Zostań tu jeszcze przez dziś, a jutro cię odprawię. Został Uryasz w Jeruzalem dnia onego i drugiego.
 13  13 I wezwał go Dawid, aby jadł i pił przed nim, i upoił go; który wyszedłszy wieczór spał na pościeli swéj z sługami pana swego, a do domu swego nie szedł.
 14 Stało się tedy rano, i napisał Dawid list do Joaba i posłał przez ręce Uryasza,

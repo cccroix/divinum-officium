@@ -27,7 +27,7 @@ $Per Dominum
 
 [Lectio1]
 Początek Listu św. Jakuba Apostoła
-!Joann 1:1-6
+!Jk 1:1-6
 1 Jakób, Boży i Pana naszego Jezusa Chrystusa sługa, dwiemanaście pokoleniom, ktore są w rozproszeniu, zdrowia.
 2 Za wszelką radość poczytajcie, bracia moi! gdy w rozmaite pokusy wpadniecie.
 3 Wiedząc, iż doświadczenie wiary waszéj sprawuje cierpliwość. 
@@ -36,7 +36,7 @@ Początek Listu św. Jakuba Apostoła
 6 A niech prosi z wiarą, nic nie wątpiąc; bo kto wątpi, podobny jest wału morskiemu, którego wiatr wzrusza i tam i sam nosi. 
 
 [Lectio2]
-!Joann 1:6-11
+!Jk 1:6-11
 6 A niech prosi z wiarą, nic nie wątpiąc; bo kto wątpi, podobny jest wału morskiemu, którego wiatr wzrusza i tam i sam nosi. 
 7 Przetóż niech on człowiek nie mniema, aby co miał wziąć od Pana.
 8 Mąż umysłu dwoistego niestateczny jest we wszech drogach swoich.
@@ -45,7 +45,7 @@ Początek Listu św. Jakuba Apostoła
 11 Albowiem weszło słońce z upaleniem i ususzyło trawę, i kwiat jéj opadł, i zginęła śliczność oblicza jego, tak i bogaty w drogach swoich uwiędnie.
 
 [Lectio3]
-!Joann 1:12-16
+!Jk 1:12-16
 12 Błogosławiony mąż, który zdzierża pokusę; bo gdy będzie doświadczony, weźmie koronę żywota, którą obiecał Bóg tym, którzy go miłują. 
 13 Żaden, gdy bywa kuszon, niech nie mówi, że od Boga bywa kuszon; albowiem Bóg nie jest kusiciel złych, a sam nikogo nie kusi.
 14 Lecz każdy bywa kuszony, od własnéj pożądliwości pociągniony i przynęcony.
@@ -54,7 +54,7 @@ Początek Listu św. Jakuba Apostoła
 
 [Lectio7]
 Czytanie Ewangelii świętej według Jana
-!Joann 14:1-13
+!J 14:1-13
 Onego czasu: Rzekł Jezus uczniom swoim: „Niech się nie trwoży serce wasze.  Wierzycie w Boga i we Mnie wierzcie. W domu Ojca mego mieszkań jest wiele”. I tak dalej.
 _
 Homilia świętego Augustyna, Biskupa

@@ -16,7 +16,7 @@ $Per Dominum
 
 [Lectio1]
 Z Pierwszej Księgi Królewskiej
-!1 Reg 17:1-7
+!1 Sm 17:1-7
 1 A zebrawszy Philistynowie wojska swe na walkę, zeszli się do Socho Juda i położyli się obozem między Socho i Azeka, na granicach Dommim.
 2 A Saul i synowie Izrael zebrawszy się przyciągnęli do doliny Therebinthu, i uszykowali wojsko ku bitwie przeciw Philistynom.
 3 A Philistynowie stali na górze z téj strony, a Izraelczycy stali na górze z drugiéj strony: a dolina była między nimi.
@@ -39,7 +39,7 @@ Z Pierwszej Księgi Królewskiej
 @Tempora/Pent01-1
 
 [Lectio3]
-!1 Reg 17:12-16
+!1 Sm 17:12-16
 12 A Dawid był syn męża Ephrathejczyka, o którym wyżéj powiedziano, z Bethlehem Juda, któremu imię było Isai, który miał ośmi synów, a był mąż za dni Saulowych stary i zeszły w leciech między mężami.
 13 I poszli trzéj synowie jego starsi za Saulem na wojnę: a imiona trzech synów jego, którzy poszli na wojnę: Eliab, pierworodny, a wtóry Abinadab, a trzeci Samma.
 14 Lecz Dawid był najmniejszy. Gdy tedy trzej starsi szli za Saulem,
@@ -60,7 +60,7 @@ Z Pierwszej Księgi Królewskiej
 
 [Lectio7]
 Czytanie Ewangelii świętej według Łukasza
-!Luc 5:1-11
+!Łk 5:1-11
 Onego czasu: Gdy cisnęły się rzesze do Jezusa, aby słuchać słowa Bożego, On stał nad jeziorem Genezaret. I tak dalej.
 _
 Homilia świętego Ambrożego, Biskupa

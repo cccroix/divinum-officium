@@ -16,7 +16,7 @@ Pan przyjdzie: * Wynijdźcie naprzeciw Niego i rzeczecie Wielka Jego moc i król
 Wszechmogące słowo Twoje * ze stolicy królewskiej przyjdzie, alleluja.
 
 [Capitulum Vespera]
-!1 Cor 4:1-2
+!1Kor 4:1-2
 v. Bracia, tak niechaj człowiek o	nas rozumie, jako o sługach Chrystusowych i szafarzach tajemnic Bożych. To już szukają między szafarzami, aby który znaleziony był wiernym.
 $Deo gratias
 
@@ -26,7 +26,7 @@ $Qui vivis
 
 [Lectio1]
 De Isaia Propheta
-!Isai 35:1-7
+!Iz 35:1-7
 1 Rozraduje się pusta i bezdróżna, i rozweseli się pustynia i zakwitnie jako lilia.
 2 Rodząc rodzić będzie, i rozraduje się, weseląc się i chwaląc: chwała Libanu dana jest jéj, ozdoba Karmela i Saron: oni ujrzą chwałę Pańską i ozdobę Boga naszego.
 3 Zmocnijcie ręce opadłe, a kolana zemdlałe posilcie.
@@ -36,14 +36,14 @@ De Isaia Propheta
 7 A która była sucha, będzie jeziorem, i pragnąca źródłami wód.
 
 [Lectio2]
-!Isai 35:7-10
+!Iz 35:7-10
 7 W legowiskach, w których pierwéj smokowie przebywali, wznidzie zieloność trzciny i sitowia.
 8 I będzie tam ścieżka i droga, i nazowią ją drogą świętą: nie pójdzie po niéj nieczysty; a ta wam będzie prosta droga, tak iżby głupi nie błądzili po niéj.
 9 Nie będzie tam lwa, i zły zwierz nie będzie chodził po niéj, ani się tam znajdzie: i pójdą, którzy będą wybawieni.
 10 A wykupieni od Pana nawrócą się i przyjdą na Syon z wychwalaniem, a wesele wieczne na głowie ich: radość i wesele otrzymają, a uciecze boleść i wzdychanie.
 
 [Lectio3]
-!Isai 41:1-4
+!Iz 41:1-4
 1 Niech milczą ku mnie wyspy, a narody niech odmienia siłę: niech przystąpią, a tedy niech mówią: Społem przystąpmy do sądu.
 2 Kto zbudził od wschodu słońcasprawiedliwego, wezwał go, aby szedł za nim? poda przed nim narody i króle odzierży, da jako proch mieczowi jego, jako źdźbło od wiatru porwane łukowi jego?
 3 Będzie je gonił, przejdzie w pokoju, ścieżka się nie ukaże na nogach jego.
@@ -51,7 +51,7 @@ De Isaia Propheta
 
 [Lectio7]
 Czytanie Ewangelii świętej według św. Łukasza
-!Luc 3:1-6
+!Łk 3:1-6
 Roku piętnastego panowania Tyberiusza cesarza, gdy Piłat Poncjusz zarządzał Judeą. I tak dalej.
 _
 Homilia świętego Grzegorza, Papieża
@@ -70,22 +70,22 @@ R. Jego wiek nie ma końca.
 @:Ant Vespera
 
 [Capitulum Laudes]
-!1 Cor 4:1-2
+!1Kor 4:1-2
 v. Bracia, tak niechaj człowiek o	nas rozumie, jako o sługach Chrystusowych i szafarzach tajemnic Bożych. To już szukają między szafarzami, aby który znaleziony był wiernym.
 $Deo gratias
 
 [Capitulum Tertia]
-!1 Cor 4:1-2
+!1Kor 4:1-2
 v. Bracia, tak niechaj człowiek o	nas rozumie, jako o sługach Chrystusowych i szafarzach tajemnic Bożych. To już szukają między szafarzami, aby który znaleziony był wiernym.
 $Deo gratias
 
 [Capitulum Sexta]
-!1 Cor 4:3
+!1Kor 4:3
 v. Ale u mnie to jest najmniejsza, żebych był od was sądzony, albo od dnia ludzkiego; lecz ani sam siebie sądzę.
 $Deo gratias
 
 [Capitulum Nona]
-!1 Cor 4:5
+!1Kor 4:5
 v. A tak nie sądźcie przed czasem, ażby Pan przyszedł, który téż oświeci zakrycia ciemności i objawi rady serc: a tedy chwała będzie każdemu od Boga.
 $Deo gratias
 

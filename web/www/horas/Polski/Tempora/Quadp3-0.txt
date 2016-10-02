@@ -9,7 +9,7 @@ Dominica in Quinquagesima;;Semiduplex;;5
 Invit2
 
 [Capitulum Vespera]
-!1 Cor 13:1
+!1Kor 13:1
 v. Bracia: Gdybych mówił językami ludzkiemi, i anielskiemi, a miłościbych nie miał, stałem się jako miedź brząkająca, albo cymbał brzmiący.
 $Deo gratias
 
@@ -29,7 +29,7 @@ Uprzedźmy oblicze Pana: * a psalmami śpiewajmy mu.
 
 [Lectio1]
 Z Księgi Rodzaju
-!Gen 12:1-6
+!Rdz 12:1-6
 1 I rzekł Pan do Abrama: wynidź z ziemie twojéj, i od rodziny twojéj, i z domu ojca twego: a idź do ziemie, którąć ukażę.
 2 A uczynię cię narodem wielkim, i będęć błogosławił, i uwielbię imię twoje, i będziesz błogosławiony.
 3 Będę błogosławił błogosławiącym tobie, a przeklnę te, którzy cię przeklinają: a w tobie będą błogosławione wszystkie narody ziemie.
@@ -44,7 +44,7 @@ V. Będę błogosławił błogosławiącym tobie, i uwielbię imię twoje, i bę
 R. A uczynię cię narodem wielkim.
 
 [Lectio2]
-!Gen 12:7-13
+!Rdz 12:7-13
 7 I ukazał się Pan Abramowi, i rzekł mu: Nasieniu twemu dam ziemię tę; który zbudował tam ołtarz Panu, który mu się był ukazał.
 8 A z tamtąd przeszedł do góry, która była ku wschodowi Bethel: rozbił tam namiot swój, mając od zachodu Bethel, a od wschodu Haj, i zbudował téż tam ołtarz Panu, i wzywał imię jego.
 9 I ciągnął Abram idąc i daléj postępując ku południu.
@@ -60,7 +60,7 @@ V. Oto Sara, twoja żona, urodzi ci syna, i nazwiesz imię jego Izaak.
 R. Trzech ujrzał, a Jednemu oddał pokłon. 
 
 [Lectio3]
-!Gen 12:14-19
+!Rdz 12:14-19
 14 Gdy tedy wszedł Abram do Egiptu, ujrzeli Egiptyanie niewiastę, że była bardzo piękna.
 15 I dały znać Książęta Pharaonowi, i chwalili ją przed nim: i wzięto niewiastę do domu Pharaonowego.
 16 A Abramowi czynili dobrze dla niéj: i miał owce, i woły, i osły, i niewolniki, i niewolnice, i oślice, i wielbłądy.
@@ -98,7 +98,7 @@ R. Abym szczęśliwie powrócił do domu mego pana.
 
 [Lectio7]
 Czytanie Ewangelii świętej według Łukasza
-!Luc 18:31-43
+!Łk 18:31-43
 Onego czasu: Jezus, wziąwszy z sobą dwunastu, mówił do nich: „Oto idziemy do Jerozolimy i wypełni się wszystko, co napisane jest przez Proroków o Synu Człowieczym”. I tak dalej.
 _
 Homilia świętego Grzegorza, Papieża
@@ -152,7 +152,7 @@ Do przechodzącego * Pana, ślepiec wołał: zmiłuj się nade mną, Synu Dawida
 A którzy szli wprzód, * fukali nań, aby milczał: lecz on tem więcéj wołał: Synu Dawidów! zmiłuj się nademną.
 
 [Capitulum Sexta]
-!1 Cor 13:8-9
+!1 Kor 13:8-9
 v. Miłość nigdy nie ginie: choć proroctwa zniszczeją, chociaż języki ustaną, chociaż umiejętność będzie zepsowana. Albowiem po części znamy i po części prorokujemy.
 $Deo gratias
 
@@ -160,7 +160,7 @@ $Deo gratias
 Ślepiec więcej * i więcej wołał, i Pan do oświecił.
 
 [Capitulum Nona]
-!1 Cor 13:13
+!1 Kor 13:13
 v. A teraz trwają wiara, nadzieja, miłość, to troje; a z tych większa jest miłość.
 $Deo gratias
 

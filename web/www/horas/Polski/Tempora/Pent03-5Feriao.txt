@@ -2,7 +2,7 @@
 
 [Lectio1]
 Z Pierwszej Księgi Królewskiej
-!1 Reg 15:1-5
+!1 Sm 15:1-5
 1 I rzekł Samuel do Saula: Mnie posłał Pan, abym cię pomazał na królestwo nad ludem jego Izraelskim: a tak teraz słuchaj głosu Pańskiego:
 2 To mówi Pan zastępów: Obliczyłem, cokolwiek uczynił Amalek Izraelowi, jako się mu zastawił na drodze, gdy wychodził z Egiptu. 
 3 Przetóż teraz idź, a pobij Amaleka, a zburz wszystko jego: nie przepuszczaj mu, ani pożądaj niczego z rzeczy jego; ale wybij od męża aż do niewiasty, i dziecię i ssącego, wołu i owcę, wielbłąda i osła.
@@ -10,7 +10,7 @@ Z Pierwszej Księgi Królewskiej
 5 A gdy przyciągnął Saul aż do miasta Amalek, uczynił zasadzkę przy potoku.
 
 [Lectio2]
-!1 Reg 15:6-11
+!1 Sm 15:6-11
 6 I rzekł Saul Cyneowi: Idźcie, odstąpcie i wynidźcie od Amalek, abych snadź nie zagarnął cię z nim; boś ty uczynił miłosierdzie ze wszystkimi syny Izraelowymi, gdy wychodzili z Egiptu. I odstąpił Cynejczyk z pośrodku Amalek.
 7 I poraził Saul Amalek od Hewila, aż przyjdziesz do Sur, który jest naprzeciw Egiptowi.
 8 I poimał Agaga, króla Amalek żywego, a wszystek lud pobił paszczeką miecza.
@@ -19,7 +19,7 @@ Z Pierwszej Księgi Królewskiej
 11 Żal mi, żem uczynił Saula królem; bo mię opuścił, a słowa mego skutkiem nie wypełnił. I zafrasował się Samuel i wołał do Pana całą noc.
 
 [Lectio3]
-!1 Reg 15:12-16
+!1 Sm 15:12-16
 12 A gdy wstał w nocy Samuel, aby szedł do Saula rano, dano znać Samuelowi, że Saul przyszedł do Karmela, i postawił sobie frambogę tryumphalną, a wróciwszy się pojechał i wstąpił do Galgala. Przyszedł tedy Samuel do Saula, a Saul ofiarował całopalenie Panu z pierwocin korzyści, które był przygnał od Amaleka.
 13 A gdy przyszedł Samuel do Saula, rzekł do niego Saul: Błogosławionyś ty Panu, wypełniłem słowo Pańskie.
 14 I rzekł Samuel: A cóż to za wrzask trzody, który brzmi w uszach moich, i rogatego bydła, który ja słyszę?

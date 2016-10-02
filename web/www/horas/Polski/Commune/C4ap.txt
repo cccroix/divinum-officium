@@ -15,7 +15,7 @@ Kapłani Boga, * błogosławcie Panu: słudzy Pańscy, śpiewajcie hymn Bogu, al
 Sługo dobry * i wierny, wnijdź do wesela Pana Twego, alleluja.;;116
 
 [Capitulum Vespera]
-!Eccl 44:16-17
+!Syr 44:16-17
 v. Oto kapłan wielki, * który za dni swoich podobał się Bogu i znalezion jest sprawiedliwym: a czasu rozgniewania stał się pojednaniem.
 $Deo gratias
 
@@ -44,7 +44,7 @@ Kapłani Boga, * błogosławcie Panu: słudzy Pańscy, śpiewajcie hymn Bogu, al
 Sługo dobry * i wierny, wnijdź do wesela Pana Twego, alleluja.
 
 [Capitulum Laudes]
-!Eccl 44:16-17
+!Syr 44:16-17
 v. Oto kapłan wielki, * który za dni swoich podobał się Bogu i znalezion jest sprawiedliwym: a czasu rozgniewania stał się pojednaniem.
 $Deo gratias
 
@@ -75,11 +75,11 @@ Daj, prosimy Cię, wszechmogący Boże, aby chwalebna uroczystość błogosławi
 $Per Dominum.
 
 [Lectio Prima]
-!Eccl 45:19-20
+!Syr 45:19-20
 v. Fungi sacerdotio, et habere laudem in nomine ipsius, et offerre illi incensum dignum in odorem suavitatis.
 
 [Capitulum Tertia]
-!Eccl 44:16-17
+!Syr 44:16-17
 v. Oto kapłan wielki, * który za dni swoich podobał się Bogu i znalezion jest sprawiedliwym: a czasu rozgniewania stał się pojednaniem.
 $Deo gratias
 
@@ -95,7 +95,7 @@ V. Obrał go Pan kapłanem sobie. Alleluja.
 R. Aby Mu złożył ofiarę chwały. Alleluja.
 
 [Capitulum Sexta]
-!Eccl 44:20; 44:22
+!Syr 44:20; 44:22
 v. Nie jest nalezion jemu podobien, który zachował Zakon Nawyższego: przetoż pod przysięgą dał mu Pan rozmnożyć się w narodzie swoim.
 $Deo gratias
 
@@ -111,7 +111,7 @@ V. Tyś jest kapłanem na wieki. Alleluja.
 R. Według obrządku Melchizedeka. Alleluja.
 
 [Capitulum Nona]
-!Eccl 45:19-20
+!Syr 45:19-20
 v. Aby sprawował urząd kapłański i miał urząd chwalenia w imię Jego, i ofiarował Mu kadzenie godne jako dobrą wonność.
 $Deo gratias
 

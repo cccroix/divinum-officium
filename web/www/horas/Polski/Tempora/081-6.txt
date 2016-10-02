@@ -1,6 +1,6 @@
 [Lectio1]
 Z Przysłów Salomona
-!Prov 16:1-5
+!Prz 16:1-5
 1 Człowiecza jest duszę przygotować: a Pańska rządzić językiem.
 2 Wszystkie drogi człowiecze są jawne przed oczyma jego: Pan jest, który uważa duchy.
 3 Objaw Panu uczynki twoje, a będą wyprostowane myśli twoje.
@@ -11,7 +11,7 @@ Z Przysłów Salomona
 @Tempora/081-0:Responsory7
 
 [Lectio2]
-!Prov 16:5-9
+!Prz 16:5-9
 5 Początek drogi dobréj, czynić sprawiedliwość, i wdzięczniejsza Bogu, niźli ofiary ofiarować.
 6 Miłosierdziem i prawdą nieprawość bywa odkupiona: a w bojaźni Pańskiéj strzegą się złego.
 7 Gdy się podobają Panu drogi człowiecze, tedy i nieprzyjacioły jego przywiedzie do pokoju.
@@ -22,7 +22,7 @@ Z Przysłów Salomona
 @Tempora/081-1:Responsory2
 
 [Lectio3]
-!Prov 16:10-15
+!Prz 16:10-15
 10 Proroctwo w wargach królewskich: w sądzie nie błądzą usta jego.
 11 Waga i szala jest sąd Pański: a uczynki jego wszystkie gwichty w worku.
 12 Obrzydliwi królowie, którzy źle czynią; bo sprawiedliwością umacnia się stolica.

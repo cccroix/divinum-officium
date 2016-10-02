@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Z Pierwszej Księgi Królewskiej
-!1 Reg 17:38-40
+!1 Sm 17:38-40
 38 I oblókł Saul Dawida w szaty swoje i włożył hełm miedziany na głowę jego i ubrał go w karacenę.
 39 Przypasawszy tedy Dawid miecz jego na szaty swoje, jął kosztować, jeźliby zbrojno mógł chodzić; bo nie miał zwyczaju. I rzekł Dawid do Saula: Nie mogę tak chodzić; bo nie mam zwyczaju: i złożył je.
 40 I wziął kij swój, który zawsze miał w ręku, i obrał sobie pięć jaśniusienieczkich kamieni z potoka, i włożył je w torbę pasterską, którą miał przy sobie, a procę niósł w ręku i wyszedł przeciw Philistynowi.
@@ -15,7 +15,7 @@ Z Pierwszej Księgi Królewskiej
 @Tempora/Pent03-2Feria:Responsory1
 
 [Lectio2]
-!1 Reg 17:41-46
+!1 Sm 17:41-46
 41 Lecz Phihstyn szedł krocząc i przybhżając się przeciw Dawidowi, a giermek jego przed nim.
 42 A gdy Philistyńczyk wejrzał i obaczył Dawida, wzgardził nim; bo był młodzieńczyk lisowaty i piękny na wejrzeniu.
 43 I rzekł Philistyn do Dawida: Albom ja pies, że ty idziesz do mnie z kijem? i przeklinał Philistyńczyk Dawida przez bogi swoje.
@@ -27,7 +27,7 @@ Z Pierwszej Księgi Królewskiej
 @Tempora/Pent03-2Feria:Responsory2
 
 [Lectio3]
-!1 Reg 17:48-51
+!1 Sm 17:48-51
 48 A tak gdy powstał Philistyn i przychodził i przybliżał się przeciw Dawidowi, pośpieszył się Dawid i bieżał na potkanie przeciw Philistynowi.
 49 A sięgnął ręką swą do torby, i wyjął jeden kamień, i rzucił z proce, i wkoło zawiódłszy uderzył Philistyna w czoło, że utknął kamień w czole jego, i padł twarzą swą na ziemię.
 50 I wziął Dawid górę nad Philistynem procą i kamieniem, i poraziwszy Philistyna, zabił go. A gdy Dawid miecza w ręku nie miał, 

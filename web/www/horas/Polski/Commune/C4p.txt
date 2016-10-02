@@ -15,7 +15,7 @@ Kapłani Boga, * błogosławcie Panu: słudzy Pańscy, śpiewajcie hymn Bogu, al
 Sługo dobry * i wierny, wnijdź do wesela Pana Twego, alleluja.;;116
 
 [Capitulum Vespera]
-!Eccl 44:16-17
+!Syr 44:16-17
 v. Oto kapłan wielki, * który za dni swoich podobał się Bogu i znalezion jest sprawiedliwym: a czasu rozgniewania stał się pojednaniem.
 $Deo gratias
 
@@ -77,7 +77,7 @@ R. Wnidź do wesela Pana twego. Alleluja.
 
 [Lectio2]
 Z listu do Tytusa
-!Tit 1:7-11
+!Tt 1:7-11
 7 Albowiem biskup ma być bez winy, jako szafarz Boży, nie pyszny, nie gniewliwy, nie winopilca, nie bijący, nie chciwy zysku szkaradnego;
 8 Ale wdzięcznie goście przyjmujący, dobrotliwy, trzeźwy, sprawiedliwy, święty, powściągliwy,
 9 Trzymający się téj, która jest wedle nauki, wiernéj mowy, iżby mógł napominać przez zdrową naukę i tych, którzy się sprzeciwiają, przekonać.
@@ -91,7 +91,7 @@ V. Benedictionem omnium gentium dedit illi, et testamentum suum confirmavit supe
 R. Ideo jurejurando fecit illum Dominus crescere in plebem suam. Alleluja.
 
 [Lectio3]
-!Tit 2:1-8
+!Tt 2:1-8
 1 A ty mów, co przystoi zdrowéj nauce.
 2 Starcy, aby byli trzeźwi, wstydliwi, roztropni, zdrowi w wierze, w miłości, w cierpliwości.
 3 Także stare niewiasty w ubiorze świętym, niepotwarliwe, nie wiele wina pijące, na dobre uczące:
@@ -139,7 +139,7 @@ Kapłani Boga, * błogosławcie Panu: słudzy Pańscy, śpiewajcie hymn Bogu, al
 Sługo dobry * i wierny, wnijdź do wesela Pana Twego, alleluja.
 
 [Capitulum Laudes]
-!Eccl 44:16-17
+!Syr 44:16-17
 v. Oto kapłan wielki, * który za dni swoich podobał się Bogu i znalezion jest sprawiedliwym: a czasu rozgniewania stał się pojednaniem.
 $Deo gratias
 
@@ -166,11 +166,11 @@ Boże, któryś ludowi swemu na drodze do zbawienia błogosławionego N., dał z
 $Per Dominum
 
 [Lectio Prima]
-!Eccl 45:19-20
+!Syr 45:19-20
 v. Fungi sacerdotio, et habere laudem in nomine ipsius, et offerre illi incensum dignum in odorem suavitatis.
 
 [Capitulum Tertia]
-!Eccl 44:16-17
+!Syr 44:16-17
 v. Oto kapłan wielki, * który za dni swoich podobał się Bogu i znalezion jest sprawiedliwym: a czasu rozgniewania stał się pojednaniem.
 $Deo gratias
 
@@ -186,7 +186,7 @@ V. Obrał go Pan kapłanem sobie. Alleluja.
 R. Aby Mu złożył ofiarę chwały. Alleluja.
 
 [Capitulum Sexta]
-!Eccl 44:20; 44:22
+!Syr 44:20; 44:22
 v. Nie jest nalezion jemu podobien, który zachował Zakon Nawyższego: przetoż pod przysięgą dał mu Pan rozmnożyć się w narodzie swoim.
 $Deo gratias
 
@@ -202,7 +202,7 @@ V. Tyś jest kapłanem na wieki. Alleluja.
 R. Według obrządku Melchizedeka. Alleluja.
 
 [Capitulum Nona]
-!Eccl 45:19-20
+!Syr 45:19-20
 v. Aby sprawował urząd kapłański i miał urząd chwalenia w imię Jego, i ofiarował Mu kadzenie godne jako dobrą wonność.
 $Deo gratias
 

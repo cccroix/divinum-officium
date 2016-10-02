@@ -1,6 +1,6 @@
 [Lectio1]
 Z Przysłów Salomona
-!Prov 5:1-6
+!Prz 5:1-6
 1 Synu mój! bądź pełen mądrości mojéj, a ku roztropności mojéj nakłoń ucha twego.
 2 Abyś srzegł myśli, a wargi twe naukę zachowały. Nie słuchaj chytrości niewieściéj.
 3 Plastr bowiem miodu ciekący wargi nierządnice, a gardło jéj gładsze niż oliwa:
@@ -9,7 +9,7 @@ Z Przysłów Salomona
 6 Po ścieżce żywota nie chodzą, błędne są kroki jéj i nie wyśladowane.
 
 [Lectio2]
-!Prov 5:7-13
+!Prz 5:7-13
 7 Teraz tedy, synu mój! słuchaj mię, a nie odstępuj od słów ust moich.
 8 Oddal od niéj drogę twoję, a nie przybliżaj się ku drzwiom domu jéj.
 9 Abyś nie dał obcym czci twojéj, a lat twoich okrutnemu:
@@ -22,7 +22,7 @@ Z Przysłów Salomona
 @Tempora/081-0:Responsory5
 
 [Lectio3]
-!Prov 5:20-23
+!Prz 5:20-23
 20 Czemu się dasz, synu mój! zwodzić obcéj, i odpoczywasz na łonie cudzéj?
 21 Pan patrza na drogi człecze, i wszystkie kroki jego upatruje. 
 22 Nieprawości jego poimają niezbożnika, a powrozami grzechów swych związan bywa.

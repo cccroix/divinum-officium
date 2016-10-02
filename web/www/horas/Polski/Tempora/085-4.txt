@@ -1,6 +1,6 @@
 [Lectio1]
 Z Księgi Ekklezjastyka
-!Eccl 14:1-5
+!Syr 14:1-5
 1 Błogosławiony mąż, który się nie podtknął w słowie ust swoich i nie jest trapion frasunkiem grzechu.
 2 Szczęśliwy, który nie miał smutku na umyśle swoim, i nie utracił nadzieje swojej.
 3 Człowiek chciwy i skąpy próżno ma bogactwa, a człowiekowi zazdrościwemu na co złoto?
@@ -11,7 +11,7 @@ Z Księgi Ekklezjastyka
 @Tempora/081-0:Responsory1
 
 [Lectio2]
-!Eccl 14:6-10
+!Syr 14:6-10
 6 Kto sam sobie zajżrzy, nic nadeń nie jest gorszego i ta jest zapłata złości jego;
 7 i jeśli co dobrze uczyni, niewiadomie a nie chcąc czyni, a na ostatek pokazuje złość swoję.
 8 Złośliwe jest oko zazdrościwego i odwracające twarz, i gardzące duszą swoją.
@@ -22,7 +22,7 @@ Z Księgi Ekklezjastyka
 @Tempora/081-0:Responsory2
 
 [Lectio3]
-!Eccl 14:11-17
+!Syr 14:11-17
 11 Synu, jeśli masz, czyń sam sobie dobrze a ofiaruj Bogu godne ofiary.
 12 Pamiętaj, żeć śmierć nie omieszka a iż ci jest okazan testament piekielny, testament bowiem tego świata: śmiercią umrze.
 13 Przede śmiercią czyń dobrze przyjadelowi twemu, a według przemożenia twego ściągając, dawaj ubogiemu.

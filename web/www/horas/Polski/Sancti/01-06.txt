@@ -19,7 +19,7 @@ Morza i rzeki * błogosławcie Pana. źródła śpiewajcie hymn Panu, alleluja.
 Gwiazda ta, * jak płomień jaśnieje, wskazując Króla Królów; trzej Królowie ujrzeli ją i złożyli dary wielkiemu Królowi.
 
 [Capitulum Vespera]
-!Isai 60:1
+!Iz 60:1
 v. Wstań, oświeć się Jeruzalem, bo przyszła światłość twoja, a sława Pańska weszła nad tobą.
 $Deo gratias
 
@@ -88,14 +88,14 @@ R. Na dworze świętym jego, alleluja.
 
 [Lectio1]
 Z proroka Izajasza
-!Isai 55:1-4
+!Iz 55:1-4
 1 Wszyscy pragnący pójdźcie do wód, i którzy nie macie srebra, kwapcie się, kupujcie, a jedzcie! chodźcie, kupujcie bez srebra, i bez żadnej zamiany wino i mleko. [64]
 2 Przecz odważacie srebro nie za chleb, a pracę wasze nie za nasycenie? Słuchajcie słuchając mię, a jedzcie dobro, a rozkoszować będzie w tłustości dusza wasza.
 3 Nakłońcie ucha swego, a przyjdźcie do mnie: słuchajcie, i żyć będzie dusza wasza: i uczynię z wami przymierze wieczne, miłosierdzia Dawidowe wierne. [65]
 4 Otom go dał świadkiem narodom, wodzem i nauczycielem narodom.
 
 [Lectio2]
-!Isai 60:1-6
+!Iz 60:1-6
 1 Wstań, oświeć się, Jeruzalem! bo przyszła światłość twoja, a sława Pańska weszła nad tobą.
 2 Bo oto ciemności okryją ziemię, i mrok narody; ale nad tobąwnidzie Pan, a sława jego nad tobą, widziana będzie.
 3 I będą chodzić narodowie w światłości twojej, a królowie w jasności wejścia twojego.
@@ -104,7 +104,7 @@ Z proroka Izajasza
 6 Obfitość wielbłądów okryje cię, wielbłądowie prędcy Madyan i Epha: wszyscy z Saby przyjdą, złoto i kadzidło przynosząc, a chwałę Panu opowiadając.
 
 [Lectio3]
-!Isai 61:10-11; 62:1
+!Iz 61:10-11; 62:1
 10 Weseląc się będę się weselił w Panu, i rozraduje się dusza moja w Bogu moim, iż mię oblókł w szaty zbawienia i ubiorem sprawiedliwości odział mię, jako oblubieńca ozdobionego koroną, i jako oblubienicę ubraną klejnotami jej.
 11 Bo jako ziemia daje urodzaj swój, a jako ogród rodzi nasienie swe, tak Pan Bóg zrodzi sprawiedliwość i chwałę przede wszymi narody.
 1 Dla Syonu nie zamilczę, a dla Jeruzalem nie uspokoję się, aż wynidzie jako jasność sprawiedliwy jego, a zbawiciel jego jako kaganiec zapali się.
@@ -133,7 +133,7 @@ R. I przyjechaliśmy pokłonić się jemu.
 
 [Lectio7]
 Czytanie Ewangelii świętej według św. Mateusza
-!Matth 2:1-12
+!Mt 2:1-12
 Gdy się narodził Jezus w Betlejem Judzkim za dni króla Heroda: oto przybyli Mędrcy ze Wschodu do Jerozolimy mówiąc: „Gdzie jest on Król żydowski, który się narodził?” I tak dalej.
 _
 Homilia świętego Grzegorza, Papieża
@@ -169,7 +169,7 @@ Morza i rzeki * błogosławcie Pana. źródła śpiewajcie hymn Panu, alleluja.
 Gwiazda ta, * jak płomień jaśnieje, wskazując Króla Królów; trzej Królowie ujrzeli ją i złożyli dary wielkiemu Królowi.
 
 [Capitulum Laudes]
-!Isai 60:1
+!Iz 60:1
 v. Wstań, oświeć się Jeruzalem, bo przyszła światłość twoja, a sława Pańska weszła nad tobą.
 $Deo gratias
 
@@ -205,11 +205,11 @@ V. Kłaniajcie się Bogu, alleluja.
 R. Wszyscy aniołowie jego, alleluja.
 
 [Lectio Prima]
-!Isai 60:6
+!Iz 60:6
 v. Wszyscy z Saby przyjdą, złoto i kadzidło przynosząc, a chwałę Panu opowiadając.
 
 [Capitulum Tertia]
-!Isai 60:1
+!Iz 60:1
 v. Wstań, oświeć się Jeruzalem, bo przyszła światłość twoja, a sława Pańska weszła nad tobą.
 $Deo gratias
 
@@ -225,7 +225,7 @@ V. Wszyscy z Saby przyjdą, alleluja.
 R. Złoto i kadzidło przynosząc, alleluja.
 
 [Capitulum Sexta]
-!Isai 60:4
+!Iz 60:4
 v. Podnieś wokoło oczy twoje, a oglądaj: ci wszyscy zgromadzili się, przyszli do ciebie: synowie twoi zdaleka przyjdą, a córki twoje z boku powstaną.
 $Deo gratias
 
@@ -241,7 +241,7 @@ V. Kłaniajcie się Panu, alleluja.
 R. Na dworze świętym jego, alleluja.
 
 [Capitulum Nona]
-!Isai 60:6
+!Iz 60:6
 v. Wszyscy z Saby przyjdą, złoto i kadzidło przynosząc, a chwałę Panu opowiadając.
 $Deo gratias
 

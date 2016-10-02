@@ -60,7 +60,7 @@ Amen.
 
 [Lectio1]
 Z Pieśni nad Pieśniami
-!Cant 3:1-4
+!Pnp 3:1-4
 1 Na łóżku mojem w nocy szukałam tego, którego miłuje dusza moja: szukałam go, a nie nalazłam.
 2 Wstanę a obieżę miasto: po ulicach i po rynkach szukać będę, którego miłuje dusza moja: szukałam go, a nie nalazłam.
 3 Znaleźli mię stróżowie, którzy strzegą miasta: Zaliście widzieli, którego miłuje dusza moja?
@@ -70,7 +70,7 @@ Z Pieśni nad Pieśniami
 @Tempora/Pasc0-1::s/[Aa]ll.*//g
 
 [Lectio2]
-!Cant 8:1-4
+!Pnp 8:1-4
 1 Któż mi da ciebie, brata mego, ssącego piersi matki mojéj, abych cię nalazła na dworze, i całowała cię, a jużby mię żaden nie wzgardził?
 2 Poimam cię, i wyprowadzę do domu matki mojéj, tam mię będziesz uczył: a dam ci pełną z wina przyprawnego, i moszczu z jabłek granatowych moich.
 3 Lewica jego pod głową, moją, a prawica jego obłapi mię.
@@ -86,7 +86,7 @@ R. A gdy płakałam u grobu, ujrzałam Pana, alleluja.
 @:Responsory3
 
 [Lectio3]
-!Cant 8:5-7
+!Pnp 8:5-7
 5 (Któraż to jest, która wstępuje z puszczy, opływająca rozkoszami, podparłszy się miłego swego?) Pod jabłoniowem drzewem wzbudziłem cię: tam naruszona jest matka twoja, tam zgwałcona jest rodzicielka twoja.
 6 Przyłóż mię, jako pieczęć do serca twego, jako pieczęć do ramienia twego; bo mocna jest jako śmierć miłość, twarda jako piekło rzewliwość: pochodnie jéj pochodnie ognia i płomieniów.
 7 Wody mnogie nie mogły ugasić miłości, i rzeki nie zatopią jéj.

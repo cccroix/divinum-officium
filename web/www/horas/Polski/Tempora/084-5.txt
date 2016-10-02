@@ -1,6 +1,6 @@
 [Lectio1]
 Z Księgi Ekklezjastyka
-!Eccl 4:1-4
+!Syr 4:1-4
 1 Synu, nie odejmuj jałmużny ubogiemu a oczu twoich nie odwracaj od ubogiego.
 2 Nie wzgardzaj dusze łaknącej i nie drażni ubogiego w niedostatku jego.
 3 Nie trap serca człowieka niedostatecznego a nie odwłaczaj datku uciśnionemu.
@@ -10,7 +10,7 @@ Z Księgi Ekklezjastyka
 @Tempora/081-0:Responsory4
 
 [Lectio2]
-!Eccl 4:5-7
+!Syr 4:5-7
 5 Nie odwracaj oczu twoich od ubogiego dla gniewu a nie dopuszczaj proszącym z tyłu cię przeklinać:
 6 bo tego, który cię w gorzkości dusze przeklina, modlitwa wysłuchana będzie, a wysłucha go ten, który go stworzył.
 7 Zgromadzeniu ubogich staw się łaskawym, a starszemu poniżaj duszę twoję, a przełożonemu nakłoń głowę swoję.
@@ -19,7 +19,7 @@ Z Księgi Ekklezjastyka
 @Tempora/081-0:Responsory5
 
 [Lectio3]
-!Eccl 4:8-11
+!Syr 4:8-11
 8 Nakłoń ubogiemu bez smutku ucha twego i oddaj dług twój a odpowiedz mu spokojnie w cichości.
 9 Wybaw tego, który krzywdę cierpi z ręki pysznego, a nie kwaśno znoś na duszy twojej.
 10 Na sądzie bądź miłosierny sierotom jako ociec, a matce ich miasto męża:

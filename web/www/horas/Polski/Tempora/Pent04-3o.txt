@@ -2,7 +2,7 @@
 
 [Lectio1]
 Z Pierwszej Księgi Królewskiej
-!1 Reg 17:57-58; 18:1-5
+!1 Sm 17:57-58; 18:1-5
 57 A gdy się wracał Dawid, zabiwszy Philistyna, wziął go Abner, i przywiódł go przed Saula, dzierżącego w ręku głowę Philistynowę.
 58 I rzekł do niego Saul: Z któregoś rodu jest, młodzieńcze? I rzekł Dawid: Syn sługi twego Isai Bethlehemczyka ja jestem.
 1 I stało się, gdy skończył mówić do Saula, dusza Jonathy spoiła się z duszą Dawida: i miłował go Jonathan jako duszę swoję.
@@ -12,7 +12,7 @@ Z Pierwszej Księgi Królewskiej
 5 Wychodził téż Dawid do wszystkiego, do czegokolwiek posyłał go Saul, i roztropnie się sprawował; i postanowił go Saul nad mężmi wojennymi, i był wdzięczny w oczu wszystkiego ludu, a najwięcéj w oczu sług Saulowych.
 
 [Lectio2]
-!1 Reg 18:6-11
+!1 Sm 18:6-11
 6 Lecz gdy się wracał Dawid zabiwszy Philistyna, wyszły białegłowy ze wszystkich miast Izraelskich przeciw Saulowi królowi, śpiewając i tańcując, z bębnami wesela i z gęślami.
 7 I zaczynały białegłowy, grając i mówiąc: Poraził Saul tysiąc, a Dawid dziesięć tysięcy. 
 8 I rozgniewał się Saul bardzo, i nie podobała się w oczach jego ta mowa, i rzekł: Dali Dawidowi dziesięć tysięcy, a mnie dali tysiąc; czegóż mu niedostaje, jedno tylko królestwa?
@@ -21,7 +21,7 @@ Z Pierwszej Księgi Królewskiej
 11 I cisnął nim, rozumiejąc, że mógł przebić Dawida ku ścianie: i uchylił się Dawid od oblicza jego drugi raz.
 
 [Lectio3]
-!1 Reg 18:12-17
+!1 Sm 18:12-17
 12 I bał się Saul Dawida, przeto że Pan był z nim, a od niego odstąpił.
 13 I odprawił go Saul od siebie i uczynił go hetmanem nad tysiącem mężów: i wychadzał i wchadzał pred oczyma ludu.
 14 We wszech téż drogach swoich Dawid roztropnie się sprawował, a Pan był z nim.

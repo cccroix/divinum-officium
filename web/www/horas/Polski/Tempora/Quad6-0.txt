@@ -13,7 +13,7 @@ $Per eumdem
 
 [Lectio1]
 Z Proroka Jeremiasza
-!Joann 2:12-17
+!Jr 2:12-17
 12 Zdumiejcie się niebiosa nad tem, a bramy jego spustoszcie się bardzo, mówi Pan.
 13 Bo dwie złości uczynił lud mój: mnie opuścił, źródło wody żywéj, a ukopali sobie cysterny, cysterny rozwalone, które nie mogą wody zatrzymać.
 14 Izali niewolnik jest Izrael, albo z niewolnika doma urodzony? czemuż się tedy stał łupem?
@@ -22,7 +22,7 @@ Z Proroka Jeremiasza
 17 Izali się to nie stało tobie? żeś opuściła Pana, Boga twego, onego czasu, którego cię prowadził drogą?
 
 [Lectio2]
-!Joann 2:18-22
+!Jr 2:18-22
 18 A teraz, czego chcesz na drodze Egipskiéj, żebyś piła wodę mętną? a co masz z drogą Assyryjczyków, abyś piła wodę rzeki?
 19 Skarze cię złość twoja, a odwrócenie twoje zfuka cię. Wiedz a obacz, że zła a gorzka jest rzecz, żeś ty opuściła Pana, Boga twego, a iż niemasz bojaźni mojéj u ciebie, mówi Pan, Bóg zastępów.
 20 Od wieku złamałaś jarzmo moje, rozerwałaś związki moje i mówiłaś: Nie będę służyła. Albowiem na każdym pagórku wysokim i pod każdem drzewem gałęzistem pokładałaś się, ty nierządnico!
@@ -36,7 +36,7 @@ V. Opuścili mię bliscy moi: i ci którzy mię znali.
 R. Jako obcy odeszli odemnie.
 
 [Lectio3]
-!Joann 2:29-32
+!Jr 2:29-32
 29 Co się zemną prawem spierać chcecie? wszyscyście mię opuścili, mówi Pan.
 30 Próżnom karał syny wasze, karania nie przyjęli: pożarł miecz wasz proroki wasze, jako lew pustoszący
 31 Naród wasz. Patrzcie słowa Pańskiego! Izali puszczą stałem się Izraelowi, albo ziemią zamierzkłą? Czemuż tedy mówił lud mój: Odeszliśmy, nie przyjdziem więcéj do ciebie?
@@ -52,7 +52,7 @@ R. Pilnuj mię, Panie, a posłuchaj głosu przeciwników moich: * Izali oddawaj�
 
 [Lectio7]
 Czytanie Ewangelii świętej według Mateusza
-!Matth 21:1-9
+!Mt 21:1-9
 Onego czasu: Gdy Jezus przybliżał się do Jeruzalem i przyszedł do Betfage na Górze Oliwnej, wtedy wysłał dwóch uczniów, mówiąc im. I tak dalej.
 _
 Homilia świętego Ambrożego, Biskupa
@@ -75,7 +75,7 @@ Cum Angelis * et pueris fideles inveniamur, triumphatori mortis clamantes: Hosan
 Niech się zawstydzą, * którzy mię prześladują, a niech się ja nie zawstydzę, Panie, Boże mój.
 
 [Capitulum Laudes]
-!Phil 2:5-7
+!Flp 2:5-7
 v. Bracia: Albowiem to w sobie czujcie, co i w Chrystusie Jezusie. Który będąc w postaci Bożéj, nie poczytał za drapieztwo, że był równym Bogu; Ale wyniszczył samego siebie, przyjąwszy postać sługi, stawszy się na podobieństwo ludzi, i postawą naleziony jako człowiek.
 $Deo gratias
 
@@ -95,7 +95,7 @@ Dzieci Żydowskie * słały szaty swoje na drodze i wołały, mówiąc: Hosanna 
 Tobie objawił * sprawę moją, obrońco życia mego, Panie, Boże mój.
 
 [Capitulum Sexta]
-!Phil 2:8-9
+!Flp 2:8-9
 v. Sam się poniżył, stawszy się posłusznym aż do śmierci, a śmierci krzyżowej. Dlaczego i Bóg wywyższył go, i darował mu imię, które jest nad wszelakie imię,
 $Deo gratias
 
@@ -103,7 +103,7 @@ $Deo gratias
 Wzywam * imienia twego, Panie: nie odwracaj twarzy swojej od wołania mego.
 
 [Capitulum Nona]
-!Phil 2:10-11
+!Flp 2:10-11
 v. Aby na imię Jezusowe wszelkie kolano klękało niebieskich, ziemskich i podziemnych.  A iżby wszelkie język wyznawał, iż Pan Jezus Chrystus jest w chwale Boga Ojca.
 $Deo gratias
 

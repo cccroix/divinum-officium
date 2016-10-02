@@ -2,7 +2,7 @@
 
 [Lectio1]
 Z Pierwszej Księgi Królewskiej
-!1 Reg 16:1-5
+!1 Sm 16:1-5
 1 I rzekł Pan do Samuela: Pókiż płaczesz Saula, gdyżem go ja odrzucił, aby nie królował nad Izraelem? napełnij róg twój oliwą, że cię poślę do Isai Bethlehemczyka; bom sobie opatrzył króla między synmi jego.
 2 I rzekł Samuel: Jakoż mam iść? bo się dowie Saul i zabije mię. I rzekł Pan: Weźmiesz cielca z stada w ręce twojéj, i rzeczesz: Przyszedłem ofiarować Panu.
 3 I wzowiesz Isai na ofiarę, a ja tobie każę, co masz czynić, i pomażesz, któregoćkolwiek pokażę.
@@ -10,7 +10,7 @@ Z Pierwszej Księgi Królewskiej
 5 I rzekł: Spokojne. Przyszedłem ofiarować Panu, poświęćcie się, a pójdźcie zemną, żebym ofiarował. A tak poświęcił Isai i syny jego i wezwał ich na ofiarę.
 
 [Lectio2]
-!1 Reg 16:6-11
+!1 Sm 16:6-11
 6 A gdy weszli, ujrzał Eliaba, i rzekł: Izali przed Panem jest pomazaniec jego?
 7 I rzekł Pan do Samuela: Nie patrz na twarz jego, ani na wysokość wzrostu jego; bom go odrzucił: ani według pojrzenia człowieczego ja sądzę; bo człowiek widzi, co się pokazuje, a Pan patrzy na serce. 
 8 I zawołał Isai Abinadab, i przywiódł go przed Samuela, który rzekł: Ani tego Pan obrał.
@@ -19,7 +19,7 @@ Z Pierwszej Księgi Królewskiej
 11 I rzekł Samuel do Isai: A już to wszyscy synowie? który odpowiedział: Jeszcze został mały, i pasie owce. I rzekł Samuel do Isai: Poślij, a przywiedź go; bo nie siędziemy do stołu, aż on tu przyjdzie.
 
 [Lectio3]
-!1 Reg 16:12-19
+!1 Sm 16:12-19
 12 A tak posłał i przywiódł go: a był lisowaty i wdzięczny na wejrzeniu i pięknéj twarzy. I rzekł Pan: Wstań, pomaż go; boć ten jest.
 13 Wziął tedy Samuel róg oliwy, i pomazał go wpośrodku braciéj jego. I obrócony jest Duch Pański na Dawida od onego dnia, i napotem. A Samuel wstawszy poszedł do Ramatha. 
 14 A Duch Pański odstąpił od Saula, a miotał go duch zły od Pana.

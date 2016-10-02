@@ -17,7 +17,7 @@ Dobrze ugruntowany jest * dom Pana na opoce.;;112
 Wszystkie mury Twoje, * Jeruzalem, zbudowane będą z drogich kamienie, a wieże z pereł.;;147
 
 [Capitulum Vespera]
-!Apoc 21:2
+!Ap 21:2
 v. Widziałem święte miasto Jeruzalem nowe, zstępujące z nieba od Boga; zgotowane jako oblubienicę ubraną mężowi swemu.
 $Deo gratias
 
@@ -87,7 +87,7 @@ Dobrze ugruntowany jest * dom Pana na opoce.
 Wszystkie mury Twoje, * Jeruzalem, zbudowane będą z drogich kamienie, a wieże z pereł.
 
 [Capitulum Laudes]
-!Apoc 21:2
+!Ap 21:2
 v. Widziałem święte miasto Jeruzalem nowe, zstępujące z nieba od Boga; zgotowane jako oblubienicę ubraną mężowi swemu.
 $Deo gratias
 
@@ -136,7 +136,7 @@ Amen.
 Zacheuszu, * zstąp prędko, albowiem dziś potrzeba mi zostać w domu twoim: i prędko zstąpił, i przyjął go z radością w domu swoim. Dzisiaj zbawienie stało się temu domowi od Boga, alleluja.
 
 [Lectio Prima]
-!Apoc 21:4-5
+!Ap 21:4-5
 v. I otrze Bóg wszelką łzę z oczu ich: a śmierci daléj nie będzie, ani smętku, ani krzyku, ani boleści więcéj nie będzie, iż pierwsze rzeczy przeminęły. I rzekł który siedział na stolicy: Oto nowe czynię wszystkie rzeczy.
 
 [Capitulum Tertia]
@@ -155,7 +155,7 @@ R. Za nieprawości i grzechy ludu.
 
 
 [Capitulum Sexta]
-!Apoc 21:3
+!Ap 21:3
 v. I słyszałem głos wielki z stolice, mówiący: Oto przybytek Boży z ludźmi, i będzie mieszkał z nimi. A oni będą ludem jego, a sam Bóg z nimi będzie Bogiem ich.
 $Deo gratias
 
@@ -171,7 +171,7 @@ V. Ten jest dom Boży mocno zbudowany.
 R. Dobrze ugruntowany jest na opoce.
 
 [Capitulum Nona]
-!Apoc 21:4-5
+!Ap 21:4-5
 v. I otrze Bóg wszelką łzę z oczu ich: a śmierci daléj nie będzie, ani smętku, ani krzyku, ani boleści więcéj nie będzie, iż pierwsze rzeczy przeminęły. I rzekł który siedział na stolicy: Oto nowe czynię wszystkie rzeczy.
 $Deo gratias
 

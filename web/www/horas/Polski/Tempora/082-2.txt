@@ -1,6 +1,6 @@
 [Lectio1]
 Z Księgi Ekklezjastyka
-!Eccl 3:1-8
+!Koh 3:1-8
 1 Wszystkie rzeczy mają czas, a swym zamierzonym biegem przemija wszystko pod słońcem.
 2 Czas rodzenia i czas umierania, czas szczepienia i czas wyrywania tego, co szczepiono.
 3 Czas zabijania i czas leczenia, czas rozwalania i czas budowania.
@@ -14,7 +14,7 @@ Z Księgi Ekklezjastyka
 @Tempora/081-2:Responsory1
 
 [Lectio2]
-!Eccl 3:9-13
+!Koh 3:9-13
 9 Czas wojny i czas pokoju.
 10 Cóż więcéj ma człowiek z prace swéj? Widziałem udręczenie, które dał Bóg synom człowieczym, aby się ciągnęli w niem.
 11 Wszystko uczynił dobrze czasu swego, a świat podał rozbieraniu ich, aby nie nalazł człowiek sprawy, którą uczynił Bóg od początku aż do końca.
@@ -25,7 +25,7 @@ Z Księgi Ekklezjastyka
 @Tempora/081-0:Responsory5
 
 [Lectio3]
-!Eccl 3:14-17
+!Koh 3:14-17
 14 Doznałem, iże wszystkie sprawy, które Bóg uczynił, trwają na wieki: nie możemy im nic przydać ani ująć, które Bóg uczynił, aby się go bano.
 15 Co już było, to i teraz jest: co będzie, już było; a Bóg odnawia, co przeminęło.
 16 Widziałem pod słońcem na miejscu sądu niezbożność: a na miejscu sprawiedliwości nieprawość.

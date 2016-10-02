@@ -1,6 +1,6 @@
 [Lectio1]
 Z Księgi Ekklezjastyka
-!Eccl 21:1-5
+!Syr 21:1-5
 1 Synu, jeśliś zgrzeszył, nie przydawaj drugi raz, ale i za dawne proś, abyć były odpuszczone.
 2 Uciekaj przed grzechy jako przed wężem, a jeśli się do nich przystąpisz, ukąszą cię.
 3 Zęby lwie zęby ich, zabiiaiace dusze człowiecze.
@@ -11,7 +11,7 @@ Z Księgi Ekklezjastyka
 @Tempora/081-0:Responsory4
 
 [Lectio2]
-!Eccl 21:6-10
+!Syr 21:6-10
 6 Modlitwa z ust ubogiego przyjdzie aż do uszu jego, a sąd prędko przyjdzie nań.
 7 Kto nienawidzi karania, znak jest złośliwego, a kto się Boga boi, nawróci się do serca swego.
 8 Możny w śmiałym języku, daleko słynie: a mądry wie, że bywa omylon od niego.
@@ -22,7 +22,7 @@ Z Księgi Ekklezjastyka
 @Tempora/081-0:Responsory5
 
 [Lectio3]
-!Eccl 21:11-16
+!Syr 21:11-16
 11 Droga grzeszących kamieniem ubrukowana: a na końcu ich piekło i ciemności, i męki.
 12 Kto strzeże sprawiedliwości, obejmie zrozumienie jej.
 13 Doskonałość bojaźni Bożej mądrość i rozum.

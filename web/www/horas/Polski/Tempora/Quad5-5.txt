@@ -18,7 +18,7 @@ Snopek mirrhy * jest mi miły mój, między piersiami mojemi mieszkać będzie.;
 Obłóżcie mię kwieciem, * osypcie mię jabłki: boć mdleję od miłości.;;141
 
 [Capitulum Vespera]
-!Isai 53:1-2
+!Iz 53:1-2
 v. Kto uwierzył słuchowi naszemu? a ramię Pańskie komu jest odkryte? A wystąpi jako latorośl przed nim, a jako korzeń z ziemie pragnącej.
 $Deo gratias
 
@@ -132,7 +132,7 @@ R. Położyłeś łzy moje przed oblicznością twoją.
 
 [Lectio1]
 Z Proroka Izajasza
-!Isai 53:1-5
+!Iz 53:1-5
 1 Kto uwierzył słuchowi naszemu? a ramię Pańskie komu jest odkryte?
 2 A wystąpi jako latorośl przed nim, a jako korzeń z ziemie pragnącej, niema krasy ani piękności: i widzieliśmy go, a nie było nacz pojrzeć, i pożądaliśmy go.
 3 Wzgardzonego i najpodlejszego z mężów, męża boleści i znającego niemoc, a jakoby zasłoniona twarz jego i wzgardzona: zkąd aniśmy go mieli zacz.
@@ -140,14 +140,14 @@ Z Proroka Izajasza
 5 Lecz on zranion jest za nieprawości nasze, ztart jest za złości nasze: karność pokoju naszego na nim, a sinością jego jesteśmy uzdrowieni.
 
 [Lectio2]
-!Isai 53:6-9
+!Iz 53:6-9
 6 Wszyscy my jako owce pobłądziliśmy, każdy na swą drogę ustąpił: a Pan włożył nań nieprawość wszystkich nas.
 7 Ofiarowali jest, iż sam chciał, a nie otworzył ust swoich: jako owca na zabicie wiedzion będzie, a jako baranek przed strzygącym go zamilknie, a nie otworzy ust swoich.
 8 Z ucisku i z sądu wzięty jest: rodzaj jego kto wypowie? bo wycięt jest z ziemie żywiących, dla złości ludu mego ubiłem go.
 9 I da niezbożne za pogrzeb, a bogatego za śmierć swoje, przeto iż nieprawości nie uczynił, ani zdrady było w uściech jego.
 
 [Lectio3]
-!Isai 53:10-12
+!Iz 53:10-12
 10 A Pan chciał go zetrzeć w niemocy: jeźli położy za grzech duszę swoje, ujrzy nasienie długo wieczne: a wola Pańska w ręce jego powiedzie się.
 11 Za to, że pracowała dusza jego, ujrzy i nasyci się. Umiejętnością swoją usprawiedliwi on sprawiedliwy sługa mój wielu, a nieprawości ich on poniesie.
 12 Przetóż oddzielę mu bardzo wielu, a korzyści mocarzów dzielić będzie, ponieważ wydał na śmierć duszę swoje, a z złośnikami jest policzon: a on grzechy mnogich odniósł, a za przestępcę się modlił.
@@ -206,7 +206,7 @@ Prosimy Cię, Panie, wlej łaskę Twoją w serca nasze: abyśmy pokutując dobro
 $Per Dominum
 
 [Lectio Prima]
-!Isai 53:8
+!Iz 53:8
 v. Rodzaj jego kto wypowie, bo wycięt jest z ziemie żywiących, dla złości ludu mego ubiłem go.
 
 [Capitulum Tertia]
@@ -224,7 +224,7 @@ V. Oblicze moje spuchnęło od płaczu.
 R. A powieki moje zaćmiły się.
 
 [Capitulum Sexta]
-!Isai 53:5
+!Iz 53:5
 v. Lecz on zranion jest za nieprawości nasze, ztart jest za złości nasze: karność pokoju naszego na nim, a sinością jego jesteśmy uzdrowieni.
 $Deo gratias
 

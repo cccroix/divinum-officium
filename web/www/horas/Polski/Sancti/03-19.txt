@@ -22,7 +22,7 @@ Józef, mąż jej, * będąc sprawiedliwym i nie chcąc jej osławiać, chciał 
 Anioł Pański * ukazał się Józefowi mówiąc: Józefie, Synu Dawidów, nie bój się przyjąć Marji małżonki twej: albowiem co się w niej narodziło jest z Ducha Świętego: a porodzi syna i nazwiesz imię Jego Jezus.;;116
 
 [Capitulum Vespera]
-!Prov 28:20
+!Prz 28:20
 v. Mąż wierny wielce chwalon będzie. A który strzeże Pana swego, uwielbiony.
 $Deo gratias
 
@@ -110,7 +110,7 @@ R. I zakwitnie na wieki przed Panem.
 
 [Lectio1]
 Z Księgi Rodzaju
-!Gen 39:1-5
+!Rdz 39:1-5
 1 Józeph tedy był zawiedzion do Egiptu: i kupił go Putyphar, trzebieniec Pharaonów, hetman wojska, mąż Egiptyanin z ręku Ismaelitów, od których był przywiedziony.
 2 I był Pan z nim, i był mężem we wszystkiem szczęśliwie postępując: i mieszkał w domu pana swego.
 3 Który bardzo dobrze wiedział, że Pan jest z nim, a iż wszystko co czynił, on szczęścił w ręku jego.
@@ -124,7 +124,7 @@ V. A cokolwiek się działo, pod nim było: Pan bowiem był z nim, i szczęści�
 R. Który podał w rękę jego wszystkie więźnie.
 
 [Lectio2]
-!Gen 41:37-40
+!Rdz 41:37-40
 37 Podobała się rada Pharaonowi, i wszystkim sługom jego.
 38 I mówił do nich: Izali możemy naléść takowego męża, któryby ducha Bożego pełen był?
 39 I rzekł do Józepha: Ponieważ ci Bóg ukazał to wszystko, coś mówił: izali mędrszego i podobnego tobie naleść będę mógł?
@@ -137,7 +137,7 @@ V. A głód brał moc co dzień po wszystkiéj ziemi, i otworzył Józeph wszyst
 R. Idźcie do Józepha, a cokolwiek on wam rzecze, czyńcie.
 
 [Lectio3]
-!Gen 41:41-44
+!Rdz 41:41-44
 41 I rzekł jeszcze Pharaon do Józepha: Oto postawiłem cię nade wszystką ziemią Egipską.
 42 I zdjął pierścień z ręki swéj, i dał go na rękę jego: i ubrał go w szatę bisiorową, i włożył łańcuch złoty na szyję jego.
 43 I kazał mu wsięść na swój wtóry wóz, a woźny wołał, aby się wszyscy przed nim kłaniali, i wiedzieli, że był przełożonym nade wszystką ziemią Egipską.
@@ -248,7 +248,7 @@ V. Wielka jest chwała jego w zbawieniu twojem.
 R. Sławę i wielką ozdobę nań włożysz.
 
 [Capitulum Sexta]
-!Eccl 45:1; 45:4
+!Syr 45:1; 45:4
 v. Miły Bogu i ludziom, którego pamiątka jest w błogosławieństwie. Uczynił go świętym w wierze i w cichości jego, i wybrał go ze wszelkiego ciała.
 $Deo gratias
 

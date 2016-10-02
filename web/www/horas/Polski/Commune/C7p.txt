@@ -13,7 +13,7 @@ Przyjdź wybrana moja, * a założę w tobie stolicę moją, alleluja.;;126
 Ta jest piękna * pomiędzy córkami Jerozolimskiemi. Alleluja.;;147
 
 [Capitulum Vespera]
-!Eccl 51:1-3
+!Syr 51:1-3
 v. Wyznawać Ci będę, Panie, Królu, i będę Cię chwaliła, Boga, Zbawiciela mojego. Będę wysławiała Imię Twoje: boś mi się stał pomocnikiem i obrońcą i zachowałeś ciało moje od zguby.
 $Deo gratias.
 
@@ -62,7 +62,7 @@ Przyjdź wybrana moja, * a założę w tobie stolicę moją, alleluja.
 Ta jest piękna * pomiędzy córkami Jerozolimskiemi.
 
 [Capitulum Laudes]
-!Eccl 51:1-3
+!Syr 51:1-3
 v. Wyznawać Ci będę, Panie, Królu, i będę Cię chwaliła, Boga, Zbawiciela mojego. Będę wysławiała Imię Twoje: boś mi się stał pomocnikiem i obrońcą i zachowałeś ciało moje od zguby.
 $Deo gratias.
 
@@ -89,11 +89,11 @@ Daj nam prosimy Cię, Panie, Boże nasz, Świętych Męczenniczek Twoich N. i N.
 $Per Dominum
 
 [Lectio Prima]
-!Eccl 51:8; 51:12
+!Syr 51:8; 51:12
 v. Będzie chwaliła aż do śmierci dusza moja Pana, bo wyrywasz czekających na cię, Panie, i wybawiasz je z rąk pogańskich, Panie Boże nasz.
 
 [Capitulum Tertia]
-!Eccl 51:1-3
+!Syr 51:1-3
 v. Wyznawać ci będę, Panie, Królu, i będę cię chwaliła, Boga, Zbawiciela mego. Będę wyznawała imię twoje: boś mi się zstał pomocnikiem i obrońcą, i zachowałeś ciało moje od zginienia.
 $Deo gratias.
 
@@ -109,7 +109,7 @@ V. Wspomoże ją Bóg obliczem swoim, alleluja.
 R. Bóg w pośrodku jej, nie będzie poruszona, alleluja.
 
 [Capitulum Sexta]
-!Eccl 51:4-5
+!Syr 51:4-5
 v. I wybawiłeś mię według wielkości miłosierdzia imienia twego od ryczących nagotowanych do żeru, z rąk szukających dusze mojej i bram utrapienia, które mię ogarnęły,
 $Deo gratias.
 
@@ -125,7 +125,7 @@ V. Wybrał ją Bóg, i przybrał ją, alleluja.
 R. W namiocie swoim dał jej mieszkanie, alleluja.
 
 [Capitulum Nona]
-!Eccl 51:8; 51:12
+!Syr 51:8; 51:12
 v. Będzie chwaliła aż do śmierci dusza moja Pana, bo wyrywasz czekających na cię, Panie, i wybawiasz je z rąk pogańskich, Panie Boże nasz.
 $Deo gratias.
 

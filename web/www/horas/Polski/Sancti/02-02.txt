@@ -14,7 +14,7 @@ Festum Domini
 @Sancti/01-01
 
 [Capitulum Vespera]
-!Malach 3:1
+!Ml 3:1
 v. Oto Ja posyłam Anioła mojego, a nagotuje drogę przed obliczem mojem. A zarazem przyjdzie do kościoła swego Panujący, którego wy szukacie, i Aniół przymierza, którego wy chcecie.
 $Deo gratias
 
@@ -34,7 +34,7 @@ Oto Pan Panujący przyjdzie do świątyni świętej swojej: * Raduj się i wesel
 
 [Lectio1]
 Z Księgi Wyjścia
-!Ex 13:1-3; 13:11-13
+!Wj 13:1-3; 13:11-13
 1 I mówił Pan do Mojżesza, mówiąc:
 2 Poświęć mi każde pierworodne, otwarzające żywot między syny Izraelowymi, tak z ludzi jako i z bydląt; wszystko bowiem jest moje.
 3 I rzekł Mojżesz do ludu:
@@ -50,7 +50,7 @@ R. Którego dziewica poczęła, dziewica porodziła, która dziewicą pozostawsz
 
 [Lectio2]
 Z Księgi Kapłańskiej
-!Levit 12:1-5
+!Kpł 12:1-5
 1 I rzekł Pan do Mojżesza, mówiąc:
 2 Mów synom Izraelowym, i rzeczesz do nich: Niewiasta jeźli przyjąwszy nasienie, porodzi mężczyznę, nieczystą będzie przez siedm dni, według dni odłączenia miesięcznéj.
 3 A ósmego dnia będzie obrzezano dzieciątko.
@@ -64,7 +64,7 @@ V. Oddali ofiarę za niego: parę synogarlic, albo dwoje gołąbiąt.
 R. Jako napisane jest w zakonie Pańskim, iż wszelki mężczyzna otwierający żywot, świętym Panu nazwany będzie. 
 
 [Lectio3]
-!Levit 12:6-8
+!Kpł 12:6-8
 6 A gdy się wypełnią dni oczyszczenia jéj, za syna, albo za córkę, przyniesie baranka rocznego na całopalenie i gołąbię albo synogarlicę za grzech, do drzwi przybytku świadectwa, i odda kapłanowi:
 7 Który je ofiaruje przed Panem, i będzie się modlił za nię, i tak będzie oczyszczona od płynienia krwie jéj; ten jest zakon rodzącéj syna albo dziewkę.
 8 A jeźliby nie nalazła ręka jéj, aniby mogła ofiarować baranka: weźmie parę synogarlic, albo dwoje gołąbiat, jedno na całopalenie, a drugie za grzech, i będzie się modlił za nię kapłan, i tak będzie oczyszczona.
@@ -110,7 +110,7 @@ R. Teraz puszczasz sługę twego, Panie w pokoju.
 
 [Lectio7]
 Czytanie Ewangelii świętej według Łukasza
-!Luc 2:22-32
+!Łk 2:22-32
 Onego czasu: Gdy się wypełniły dni oczyszczenia Maryi, według Prawa Mojżeszowego, przynieśli Jezusa do Jeruzalem, aby Go stawić przed Panem, jako napisane jest w Prawie Pańskim. I tak dalej.
 _
 Homilia świętego Ambrożego, Biskupa
@@ -152,19 +152,19 @@ Oddali ofiarę * za niego: parę synogarlic, albo dwoje gołąbiąt.
 Gdy wwodzili dzieciątko Jezusa rodzicy jego, Symeon wziął je na ręce i błogosławił Panu na wieki, mówiąc: teraz puszczasz sługę twego w pokoju.
 
 [Lectio Prima]
-!Malach 3:4
+!Ml 3:4
 v. I spodoba się Panu ofiara Judy i Jeruzalem jako dni wieku i jako dawne lata.
 
 [Capitulum Tertia]
 @:Capitulum Vespera
 
 [Capitulum Sexta]
-!Malach 3:1-3
+!Ml 3:1-3
 v. Oto idzie, mówi Pan zastępów: A kto będzie mógł myślą ogarnąć dzień przyjścia jego, a kto się ostoi na widzenie jego? Bo on jako ogień zlewający, i jako ziele farbierskie. 
 $Deo gratias
 
 [Capitulum Nona]
-!Malach 3:4
+!Ml 3:4
 v. I spodoba się Panu ofiara Judy i Jeruzalem jako dni wieku i jako dawne lata.
 $Deo gratias
 

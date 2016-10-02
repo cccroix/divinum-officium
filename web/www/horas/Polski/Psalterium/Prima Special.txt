@@ -1,45 +1,45 @@
 [Dominica]
-!1 Tim 1:17
+!1 Tm 1:17
 v. Królowi wieków nieśmiertelnemu, niewidzialnemu, samemu Bogu, cześć i chwała na wieki wieków. Amen.
 
 [Feria]
-!Zach 8:19
+!Za 8:19
 v. Prawdę a pokój miłujcie, to mówi Pan zastępów.
 
 [Per Annum]
-!2 Thess 3:5
+!2 Tes 3:5
 v. A Pan niech prostuje serca i ciała nasze w miłości Bożéj i w cierpliwości Chrystusowéj. 
 
 [Adv]
-!Isai 33:2
+!Iz 33:2
 v. Panie! zmiłuj się nad nami; bośmy cię czekali: bądź ramieniem naszem z poranku, a zbawieniem naszem czasu utrapienia.
 
 [Nat]
-!Hebr 1:11-12
+!Hbr 1:11-12
 v. One poginą, a ty trwać będziesz: a wszystkie jako szata zwiotszeją: a jako odzienie zmienisz je, i odmienią się; ale ty tenżeś jest, i lata twoje nie ustaną.
 
 [Epi]
-!Isai 60:6
+!Iz 60:6
 v. Wszyscy z Saby przyjdą, złoto i kadzidło przynosząc, a chwałę Panu opowiadając.
 
 [Asc]
-!Act 1:11
+!Dz 1:11
 v. Mężowie Galilejscy! czemu stoicie patrząc w niebo? ten Jezus, który wzięt jest od was do nieba, tak przyjdzie, jakoście go widzieli idącego do nieba. 
 
 [Quad]
-!Isai 55:6
+!Iz 55:6
 v. Szukajcie Pana, póki nalezion być może: wzywajcie go, póki jest blisko.
 
 [Quad5]
-!Isai 50:6-7
+!Iz 50:6-7
 v. Twarzy mojej nie odwróciłem od łających i plujących na mię. Pan Bóg wspomożyciel mój, przetom się nie zawstydził.
 
 [Pasc]
-!Col 3:1-2
+!Kol 3:1-2
 v. Przeto, jeźliście spół powstali z Chrystusem, co wzgórę jest, szukajcie, gdzie Chrystus jest na prawicy Bożéj siedzący: co wzgórę jest, miłujcie, nie co na ziemi. 
 
 [Pent]
-!Act 2:11
+!Dz 2:11
 v. Żydowie téż i nowo nawróceni, Kreteńczycy i Arabczycy: słyszeliśmy je mówiące języki naszemi wielmożne sprawy Boże.
 
 [Responsory Adv]

@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 Z Dziejów Apostolskich
-!Act 10:1-8
+!Dz 10:1-8
 1 A W Cezaryi był mąż niektóry, imieniem Korneliusz, rotmistrz roty, którą zowią Włoską,
 2 Pobożny i bojący się Boga ze wszystkim domem swym, czyniący jałmużny wielkie ludziom, a Bogu się zawżdy modlący.
 3 Ten widział jawnie w widzeniu około dziewiątéj godziny na dzień Anioła Bożego, wchodzącego do siebie i mówiącego jemu: Korneliuszu!
@@ -19,7 +19,7 @@ Z Dziejów Apostolskich
 8 Którym gdy wszystko powiedział, posłał je do Joppy.
 
 [Lectio2]
-!Act 10:9-17
+!Dz 10:9-17
 9 A nazajutrz, gdy oni byłi w drodze i przybliżali się do miasta, wszedł Piotr na górę, aby się modlił o godzinie szóstéj.
 10 A gdy łaknął, chciał jeść. A gdy oni gotowali, przyszło nań zachwycenie,
 11 I ujrzał niebo otworzone, a zstępujące naczynie jakieś, jakoby prześcieradło wielkie za cztery końce spuszczone z nieba ku ziemi,
@@ -31,7 +31,7 @@ Z Dziejów Apostolskich
 17 A gdy Piotr sam w sobie wątpił, coby za widzenie było, które widział: alić mężowie, którzy od Korneliusza byli posłani, pytający się o domu Symonowym, stanęli u drzwi.
 
 [Lectio3]
-!Act 10:34-41
+!Dz 10:34-41
 34 A Piotr otworzywszy usta swe, rzekł: Prawdziwiem doznał, Bóg na osoby nie ogląda. 
 35 Ale w każdym narodzie, kto się go boi a czyni sprawiedliwość, jest jemu przyjemnym. 
 36 Słowo posłał Bóg synom Izraelskim, opowiadając pokój przez Jezusa Chrystusa, (ten jest Panem wszystkich).

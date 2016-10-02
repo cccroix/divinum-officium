@@ -16,7 +16,7 @@ $Per Dominum
 
 [Lectio1]
 Z Drugiej Księgi Królewskiej
-!2 Reg 12:1-4
+!2 Sm 12:1-4
 1 Posłał tedy Pan Nathana do Dawida: który gdy przyszedł do niego, rzekł mu: Dwaj mężowie byli w jednem mieście, jeden bogaty, a drugi ubogi.
 2 Bogaty miał owiec i wołów bardzo wiele:
 3 Lecz ubogi zgoła nic nie miał oprócz owce jednéj maluczkiéj, którą był kupił i wychował, i która zrosła u niego pospołu z synmi jego, chleb jego jedząc, i z kubka jego pijąc, i na łonie jego sypiając, i była mu jako córka.
@@ -26,7 +26,7 @@ Z Drugiej Księgi Królewskiej
 @Tempora/Pent01-1
 
 [Lectio2]
-!2 Reg 12:5-9
+!2 Sm 12:5-9
 5 I rozgniewany gniewem Dawid na onego człowieka bardzo, rzekł do Nathana: Żywie Pan, że synem śmierci jest mąż, który to uczynił.
 6 Owcę czworako nagrodzi przeto, że to słowo uczynił a nie zfolgował. 
 7 I rzekł Nathan do Dawida: Tyś jest ten człowiek. Tak mówi Pan, Bóg Izraelów: Jam cię pomazał za króla nad Izraelem i jam cię wyrwał z ręki Saulowéj.
@@ -37,7 +37,7 @@ Z Drugiej Księgi Królewskiej
 @Tempora/Pent01-1
 
 [Lectio3]
-!2 Reg 12:10-16
+!2 Sm 12:10-16
 10 Przetóż nie odejdzie miecz z domu twego aż na wieki, tem, żeś mną wzgardził i wziąłeś żonę Uryasza Hethejczyka, aby twoją żoną była.
 11 A tak to mówi Pan: Oto ja wzbudzę na cię złe z domu twego, a pobiorę żony twe przed oczyma twemi, i dam je bliźniemu twemu, a będzie spał z żonami twemi przed oczyma słońca tego,
 12 Boś ty uczynił potajemnie, ale Ja uczynię to słowo przed oczyma wszystkiego Izraela i przed oczyma słońca.

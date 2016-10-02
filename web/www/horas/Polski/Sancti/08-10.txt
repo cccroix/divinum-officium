@@ -20,7 +20,7 @@ Pan wysłał * Anioła i wybawił mię od ucisku płomienia, który mię ogarną
 Błogosławiony Wawrzyniec * modlił się, mówiąc: dzięki Ci czynię, Panie, iżem bramy Królestwa Twego przekroczyć zasłużył.
 
 [Capitulum Vespera]
-!2 Cor 9:6
+!2 Kor 9:6
 Bracia: Kto skąpo sieje, skąpo też żąć będzie, a kto sieje w błogosławieństwach, z błogosławieństw też żąć będzie.
 $Deo gratias
 
@@ -33,7 +33,7 @@ $Per Dominum
 
 [Lectio1]
 Z Księgi Mądrości Syracha
-!Eccl 51:1-7
+!Syr 51:1-7
 1 Wyznawać ci będę, Panie, Królu, i będę cię chwalił, Boga, Zbawidela mego.
 2 Będę wyznawał imię twoje, boś mi się zstał pomocnikiem i obrońcą
 3 i zachowałeś ciało moje od zginienia, od sidła języka złośliwego i od ust sprawujących kłamstwo i zstałeś mi się pomocnikiem przed oczyma sprzeciwników.
@@ -49,7 +49,7 @@ V. Rozproszył, dał ubogim: Sprawiedliwość jego trwa na wieki wieków.
 R. I skarby kościoła biednym rozdał.
 
 [Lectio2]
-!Eccl 51:8-13
+!Syr 51:8-13
 8 Będzie chwaliła aż do śmierci dusza moja Pana,
 9 a żywot mój przybliżał się na dół do piekła.
 10 Obtoczyli mię zewsząd, a nie był nikt, co by był ratował, oględowałem się na ratunek ludzi, a nie było go.
@@ -58,7 +58,7 @@ R. I skarby kościoła biednym rozdał.
 13 Wywyższyłeś na ziemi mieszkanie moje i o spłynienie od śmierci prosiłem.
 
 [Lectio3]
-!Eccl 51:14-17
+!Syr 51:14-17
 14 Wzywałem Pana, Ojca Pana mego, aby mię nie opuszczał w dzień utrapienia mego i czasu pysznych, bez pomocy.
 15 Będę chwalił ustawicznie imię twoje i będę je wysławiał w wyznaniu, i wysłuchana jest modlitwa moja.
 16 I zachowałeś mię od zginienia, i z czasu złego wyrwałeś mię.
@@ -66,7 +66,7 @@ R. I skarby kościoła biednym rozdał.
 
 [Lectio7]
 Czytanie Ewangelii świętej wedługętego Jana
-!Joann 12:24-26
+!J 12:24-26
 Onego czasu: Rzekł Jezus uczniom swoim: „Zaprawdę, zaprawdę powiadam wam, jeśli ziarno pszeniczne wrzucone w ziemię nie obumrze, samo zostanie”. I tak dalej.
 _
 Homilia świętego Augustyna, Biskupa
@@ -105,14 +105,14 @@ V. Rozproszył, dał ubogim.
 R. Sprawiedliwość jego trwa na wieki wieków.
 
 [Lectio Prima]
-!2 Cor 9:8-9
+!2 Kor 9:8-9
 v. A Bóg mocen jest uczynić, aby obfitowała w was wszystka łaska, abyście we wszystkiem zawsze mając wszystek dostatek, obfitowali ku wszelkiemu uczynkowi dobremu. Jako napisano jest: Rozproszył, dał ubogim, sprawiedliwość jego trwa na wieki wieków.
 
 [Capitulum Tertia]
 @:Capitulum Laudes
 
 [Capitulum Sexta]
-!2 Cor 9:7
+!2 Kor 9:7
 v. Każdy jako postanowił w sercu swojem, nie z zamarszczeniem albo z przymuszenia; albowiem ochotnego dawcę Bóg miłuje.
 $Deo gratias
 

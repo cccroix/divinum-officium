@@ -6,7 +6,7 @@ vide sancti/08-15;
 9 lectiones
 
 [Lectio1]
-!Cant 5:8-12
+!Pnp 5:8-12
 8 Poprzysięgam was, córki Jerozolimskie, jeźli najdziecie miłego mego, abyście mu oznajmiły, iż mdleję od miłości.
 9 Jakiż jest miły twój nad miłego, o najpiękniejsza między niewiastami? jakiż jest miły twój nad miłego, żeś nas tak poprzysięgła?
 10 Miły mój jest biały i rumiany, wybrany z tysiąców.
@@ -17,7 +17,7 @@ vide sancti/08-15;
 @Sancti/08-15:Responsory1
 
 [Lectio2]
-!Cant 6:1-5
+!Pnp 6:1-5
 1 Miły mój stąpił do ogroda swego, do grządki wonnych ziół, aby się pasł w ogrodziech a lilie zbierał.
 2 Ja miłemu memu, a mnie miły mój, który się pasie między liliami.
 3 Pięknaś jest, przyjaciółko moja! wdzięczna i ozdobna jako Jeruzalem: ogromna, jako wojska uszykowane porządnie.
@@ -28,7 +28,7 @@ vide sancti/08-15;
 @Sancti/08-15:Responsory2
 
 [Lectio3]
-!Cant 6:8-12
+!Pnp 6:8-12
 8 Jedna jest gołębica moja, doskonała moja, jedynaczka jest matki swojéj, wybrana rodzicielki swojéj. Widziały ją inne córki, i za najszczęśliwszą wystawiały, królewskie żony i nałożnice, i chwaliły ją.
 9 Któraż to jest, która idzie jako zorza powstająca, piękna jako księżyc, wybrana jako słonce, ogromna jako wojska uszykowane porządnie?
 10 Stąpiłem do ogroda orzechowego, abym oglądał jabłka na dolinach i obaczył, jeźli zakwitła winnica, a jeźli zrodziły jabłka granatowe.

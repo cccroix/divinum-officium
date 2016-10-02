@@ -7,7 +7,7 @@ $Per Dominum.
 
 [Lectio1]
 Początek Drugiego Listu św. Pawła Apostoła do Koryntian
-!2 Cor 1:1-5
+!2Kor 1:1-5
 1 Paweł, Apostół Jezusa Chrystusa, przez wolą Bożą, i Tymotheusz brat, kościołowi Bożemu, który jest w Koryncie, ze wszystkimi świętymi, którzy są w wszystkiéj Achai.
 2 Łaska wam i pokój od Boga, Ojca naszego, i Pana Jezusa Chrystusa.
 3 Błogosławiony Bóg i Ojciec Pana naszego Jezusa Chrystusa, Ojciec miłosierdzia, a Bóg wszystkiéj pociechy,
@@ -21,7 +21,7 @@ V. Bojaźń i drżenie przyszły na mię i okryły mię ciemności.
 R. Zmiłuj się nademną, Panie; bomci chory.
 
 [Lectio2]
-!2 Cor 1:6-7
+!2Kor 1:6-7
 6 A choć bywamy utrapieni, dla waszego napominania i zbawienia, choć pocieszeni bywamy, dla waszego pocieszenia, choć napominani bywamy, dla waszego napominania i zbawienia, które sprawuje cierpliwość tegoż utrapienia, które i my cierpimy,
 7 Aby nadzieja nasza mocna była o was, wiedząc, iż jako jesteście towarzysze utrapienia, tak będziecie i pocieszenia.
 
@@ -32,7 +32,7 @@ V. Tobie zostawiony jest ubogi: sierocie ty będziesz pomocnikiem.
 R. Tylko ty na boleść i na utrapienie patrzysz.
 
 [Lectio3]
-!2 Cor 1:8-11
+!2Kor 1:8-11
 8 Albowiem nie chcemy, abyście nie wiedzieli, bracia! o ucisku naszym, który się stał w Azyi, iżeśmy byli nazbyt obciążeni nad siłę, tak, że nam téż tęskno było żyć.
 9 Aleśmy sami w sobie mieli wyrok śmierci, abyśmy nie ufali sami w sobie, ale w Bogu, który wzbudza umarłe:
 10 Który z tak wielkich niebezpieczeństw wyrwał nas i wyrywa, w którym nadzieję mamy, iż téż jeszcze wyrwie,
@@ -68,7 +68,7 @@ R. Okrąg ziemie, i wszyscy, którzy mieszkają na nim.
 
 [Lectio7]
 Czytanie Ewangelii świętej według Jana
-!Joann 2:1-11
+!J 2:1-11
 Onego czasu: Odbywały się gody weselne w Kanie Galilejskiej i była tam Matka Jezusowa. Zaproszono też na gody Jezusa wraz z uczniami Jego. I tak dalej.
 _
 Homilia świętego Augustyna, Biskupa

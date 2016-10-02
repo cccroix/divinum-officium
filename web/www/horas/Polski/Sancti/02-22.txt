@@ -68,7 +68,7 @@ Tyś jest pasterzem owiec, Książęciem Apostołów, * Tobie powierzył Bóg kl
 
 [Lectio1]
 Początek Pierwszego Listu św. Piotra Apostoła
-!1 Petri 1:1-5
+!1P 1:1-5
 1 Piotr, Apostół Jezusa Chrystusa, wybranym przychodniom rozproszenia Pontu, Galacyi, Kappadocyi, Azyi i Bithynii,
 2 Wedle przejrzenia Boga Ojca, ku poświęceniu Ducha, ku posłuszeństwu i pokropieniu krwie Jezusa Chrystusa. Łaska wam i pokój niech się rozmnoży.
 3 Błogosławiony Bóg i Ojciec Pana naszego Jezusa Chrystusa, który wedle wielkiego miłosierdzia swego odrodził nas ku nadziei żywéj przez zmartwychwstanie Jezusa Chrystusa,
@@ -76,7 +76,7 @@ Początek Pierwszego Listu św. Piotra Apostoła
 5 Którzy mocą Bożą strzeżeni jesteście przez wiarę ku zbawieniu zgotowanemu, aby się okazało czasu ostatecznego.
 
 [Lectio2]
-!1 Petri 1:6-9
+!1P 1:6-9
 6 W czem radować się będziecie trochę teraz, jeźli potrzeba zasmucić się w rozmaitych pokusach,
 7 Aby doświadczenie wiary waszéj, daleko kosztowniejsze nad złoto, (którego przez ogień próbują), było nalezione ku chwale i czci i sławie, w objawienie Jezusa Chrystusa:
 8 Którego nie widziawszy, miłujecie, w którego téż teraz nie widząc go wierzycie, a wierząc radować się będziecie weselem niewymownem i chwalebnem,
@@ -89,7 +89,7 @@ V. Choćby by mi z tobą przyszło umrzeć, nie zaprzę się ciebie.
 R. A duszę moję kładę za ciebie.
 
 [Lectio3]
-!1 Petri 1:10-12
+!1P 1:10-12
 10 O którem zbawieniu wywiadowali się i badali prorocy, którzy o przyszłéj na was łasce prorokowali:
 11 Badając się, na który albo na jaki czas okazował w nich Duch Chrystusów, opowiadając pierwéj o utrapieniach tych, które są w Chrystusie, i o chwałach za nimi idących:
 12 Którym objawiono jest, iż nie samym sobie, ale wam tem usługowali, co się teraz wam opowiada przez te, którzy wam Ewangelią przepowiadali, przez Ducha Ś. z nieba posłanego, na którego pragną patrzyć Aniołowie.
@@ -124,7 +124,7 @@ R. Paś baranki moje.
 
 [Lectio7]
 Czytanie Ewangelii świętej według św. Mateusza
-!Matth 16:13-19
+!Mt 16:13-19
 Onego czasu: Przyszedł Jezus w okolicę Cezarei Filipowej i pytał uczniów swoich, mówiąc: „Za kogo mają ludzie Syna Człowieczego?” I tak dalej.
 _
 Homilia świętego Leona, Papieża

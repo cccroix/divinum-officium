@@ -13,7 +13,7 @@ Przyjdź wybrana moja, * a założę w tobie stolicę moją, alleluia.;;126
 Ta jest * piękna między córkami Jerozolimskiemi.;;147
 
 [Capitulum Vespera]
-!2 Cor 10:17-18
+!2 Kor 10:17-18
 v. Bracia: Lecz kto się przechwala, niech się w Panu przechwala. Albowiem nie, który sam siebie zaleca, ten jest doświadczony; ale którego Bóg zaleca.
 $Deo gratias
 
@@ -117,7 +117,7 @@ R. W namiocie swoim dał jej mieszkanie.
 
 [Lectio1]
 Z Pierwszego Listu świętego Pawła Apostoła do Koryntian
-!1 Cor 7:25-31
+!1 Kor 7:25-31
 25 A o pannach nie mam rozkazania Pańskiego; ale radę daję, jako ten, którym od Pana miłosierdzia dostąpił, abych był wiernym.
 26 Mniemam tedy to być rzeczą dobrą dla teraźniejszéj potrzeby, iż dobra jest rzecz człowiekowi tak być.
 27 Przywiązanyś do żony, nie szukajże rozwiązania. Rozwiązanyś od żony, nie szukaj że żony.
@@ -127,7 +127,7 @@ Z Pierwszego Listu świętego Pawła Apostoła do Koryntian
 31 A którzy używają świata tego, jakoby nie używali; bo przemija kształt świata tego.
 
 [Lectio2]
-!1 Cor 7:32-35
+!1 Kor 7:32-35
 32 A chcę, abyście byli bez pieczołowania. Kto bez żony jest, stara się o to, co Pańskiego jest, jakoby się podobał Bogu.
 33 A który z żoną jest, stara się to, co światu należy, jakoby się podobał żonie, i rozdzielon jest.
 34 I białagłowa niemężata i panna myśli o tem co Pańskiego jest, aby była święta ciałem i duchem. A która szła za mąż, myśli co światu należy, jakoby się podobała mężowi.
@@ -140,7 +140,7 @@ V. Z ślicznością twoją i z pięknością twoją nadciągnij, szczęśliwie p
 R. Dlatego cię błogosławił Bóg na wieki.
 
 [Lectio3]
-!1 Cor 7:36-40
+!1 Kor 7:36-40
 36 A jeźli sobie kto za sromotę ma z strony panny swojéj, iż lata przeszła, a tak musi być: co chce, niech czyni, nie grzeszy, jeźli pójdzie za mąż.
 37 Bo kto postanowił mocnie w sercu swem, potrzeby nie mając, a mając w mocy swą własną wolą, i to postanowił w sercu swem, aby zachował pannę swą, dobrze czyni.
 38 A tak i który daje w małżeństwo pannę swoję, dobrze czyni, i który nie daje, lepiéj czyni.
@@ -225,7 +225,7 @@ V. Wspomoże ją Bóg obliczem swoim.
 R. Bóg w pośrodku jej, nie będzie poruszona.
 
 [Capitulum Sexta]
-!2 Cor 11:2
+!2 Kor 11:2
 v. Albowiem was gorąco miłuję gorącą miłością Bożą; bom was poślubił czystą panną stawić jednemu mężowi Chrystusowi.
 $Deo gratias
 
@@ -265,7 +265,7 @@ Przyjdź Oblubienico Chrystusowa, * weź koronę, którą ci Pan przygotował na
 
 [Lectio11]
 Z Księgi Mądrości Syracha
-!Eccl 51:1-7
+!Syr 51:1-7
 1 Wyznawać ci będę, Panie, Królu, i będę cię chwalił, Boga, Zbawidela mego.
 2 Będę wyznawał imię twoje, boś mi się zstał pomocnikiem i obrońcą
 3 i zachowałeś ciało moje od zginienia, od sidła języka złośliwego i od ust sprawujących kłamstwo i zstałeś mi się pomocnikiem przed oczyma sprzeciwników.
@@ -275,7 +275,7 @@ Z Księgi Mądrości Syracha
 7 z głębokości brzucha piekielnego i od języka splugawionego, i od słowa kłamliwego, od króla niezbornego i od języka niesprawiedliwego.
 
 [Lectio21]
-!Eccl 51:8-12
+!Syr 51:8-12
 8 Będzie chwaliła aż do śmierci dusza moja Pana,
 9 a żywot mój przybliżał się na dół do piekła.
 10 Obtoczyli mię zewsząd, a nie był nikt, co by był ratował, oględowałem się na ratunek ludzi, a nie było go.
@@ -283,7 +283,7 @@ Z Księgi Mądrości Syracha
 12 Bo wyrywasz czekających na cię, Panie, i wybawiasz je z rąk pogańskich.
 
 [Lectio31]
-!Eccl 51:13-17
+!Syr 51:13-17
 13 Wywyższyłeś na ziemi mieszkanie moje i o spłynienie od śmierci prosiłem.
 14 Wzywałem Pana, Ojca Pana mego, aby mię nie opuszczał w dzień utrapienia mego i czasu pysznych, bez pomocy.
 15 Będę chwalił ustawicznie imię twoje i będę je wysławiał w wyznaniu, i wysłuchana jest modlitwa moja.

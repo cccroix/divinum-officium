@@ -12,7 +12,7 @@ W Damaszku, * narodu starosta króla Arety chciał, aby mię poimał: ale przez
 Trzykroć byłem bit rózgami, * razem był ukamionowan, trzykrociem się z okrętem rozbił, dla imienia Chrystusa.;;116
 
 [Capitulum Vespera]
-!Act 9:1-2
+!Dz 9:1-2
 v. A Szaweł parskając jeszcze groźbami i morderstwem przeciw uczniom Pańskim, przyszedł do najwyższego kapłana. I prosił od niego listów do Damaszku do bóżnic, iż jeźliby które znalazł tej drogi męże i niewiasty, aby związane przywiódł do Jeruzalem. 
 $Deo gratias
 
@@ -27,7 +27,7 @@ Chwalmy Boga naszego, * W dzień nawrócenia Doktora narodów.
 
 [Lectio1]
 Z Dziejów Apostolskich
-!Act 9:1-5
+!Dz 9:1-5
 1 A Szaweł parskając jeszcze groźbami i morderstwem przeciw uczniom Pańskim, przyszedł do najwyższego kapłana. 
 2 I prosił od niego listów do Damaszku do bóżnic, iż jeźliby które znalazł tej drogi męże i niewiasty, aby związane przywiódł do Jeruzalem. 
 3 A gdy jechał, stało się, że się przybliżał do Damaszku, i z prędka zewsząd oświeciła go światłość z nieba. 
@@ -35,14 +35,14 @@ Z Dziejów Apostolskich
 5 Który rzekł: Ktoś jest, Panie? A on: Jam jest Jezus, którego ty prześladujesz; trudno jest tobie przeciw ościeniowi wierzgać.
 
 [Lectio2]
-!Act 9:6-9
+!Dz 9:6-9
 6 A drżąc i zdumiewając się, rzekł: Panie! co chcesz, abych czynił? 
 7 A Pan do niego: Wstań a wnidź do miasta, a tam ci powiedzą, co będziesz miał czynić. A mężowie oni, którzy z nim byli, stali zdumiawszy się: głos wprawdzie słysząc, lecz żadnego nie widząc.
 8 I wstał Szaweł z ziemie, a otworzywszy oczy, nic nie widział. A prowadząc go za ręce, wwiedli do Damaszku.
 9 I był tam trzy dni nie widząc, i nie jadł ani pił.
 
 [Lectio3]
-!Act 9:10-16
+!Dz 9:10-16
 10 A uczeń niektóry był w Damaszku, imieniem Ananiasz: i rzekł Pan do niego w widzeniu: Ananiaszu! A on rzekł: Otom ja, Panie!
 11 A Pan do niego: Wstań a idź na ulicę, którą zowią Prostą, a szukaj w domu Judy Szawła imieniem Tarseńczyka; albowiem oto się modli.
 12 A widział męża, Ananiasza imieniem, wchodzącego i ręce na się wkładającego, aby wzrok zasię wziął.
@@ -81,19 +81,19 @@ Boże, który św. Piotrowi, Apostołowi swemu, powierzyłeś klucze Królestwa 
 $Qui vivis
 
 [Lectio Prima]
-!Act 9:22
+!Dz 9:22
 v. A Szaweł zmacniał się daleko więcéj i zawstydzał Żydy, którzy mieszkali w Damaszku, twierdząc, iż ten jest Chrystus.
 
 [Capitulum Tertia]
 @:Capitulum Vespera
 
 [Capitulum Sexta]
-!Act 9:8-9
+!Dz 9:8-9
 v. I wstał Szaweł z ziemie, a otworzywszy oczy, nic nie widział. A prowadząc go za ręce, wwiedli do Damaszku. I był tam trzy dni nie widząc, i nie jadł ani pił.
 $Deo gratias
 
 [Capitulum Nona]
-!Act 9:22
+!Dz 9:22
 v. A Szaweł zmacniał się daleko więcéj i zawstydzał Żydy, którzy mieszkali w Damaszku, twierdząc, iż ten jest Chrystus.
 $Deo gratias
 

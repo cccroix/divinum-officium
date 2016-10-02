@@ -1,5 +1,5 @@
 [Day0 Laudes]
-!Apoc 7:12
+!Ap 7:12
 v. Błogosławienie i chwała i mądrość i dziękowanie i cześć i moc i siła Bogu naszemu na wieki wieków. Amen.
 $Deo gratias
 
@@ -25,7 +25,7 @@ V. Pan królował, oblókł się w ozdobę.
 R. Oblókł się Pan mocą i przepasał się.
 
 [Day0 Laudes2]
-!1 Cor 9:24
+!1 Kor 9:24
 v. Bracia: Nie wiecie, iż ci, którzy w zawód biegają, acz wszyscy bieżą, ale jeden zakład bierze? Tak bieżcie, abyście otrzymali.
 $Deo gratias
 
@@ -81,7 +81,7 @@ V. Panie, stałeś się ucieczką nam.
 R. Od rodzaju do rodzaju.
 
 [Day0 Vespera]
-!2 Cor 1:3-4
+!2 Kor 1:3-4
 v. Błogosławiony Bóg i Ojciec Pana naszego Jezusa Chrystusa, Ojciec miłosierdzia, a Bóg wszystkiéj pociechy, który nas cieszy we wszelakiem utrapieniu naszem.
 $Deo gratias
 
@@ -117,7 +117,7 @@ V. Niech się wzniesie modlitwa moja.
 R. Jako woń kadzidła przed obliczem Twoim.
 
 [Day1 Laudes]
-!Rom 13:12-13
+!Rz 13:12-13
 v. Noc przeminęła, a dzień się przybliżył. Odrzućmyź tedy uczynki ciemności a obleczmy się w zbroję światłości. Jako w dnie uczciwie chodźmy.
 $Deo gratias
 
@@ -173,7 +173,7 @@ V. Napełnieniśmy rano miłosierdzia twego.
 R. Rozradowaliśmy się, i kochaliśmy się.
 
 [Day1 Vespera]
-!2 Cor 1:3-4
+!2 Kor 1:3-4
 v. Błogosławiony Bóg i Ojciec Pana naszego Jezusa Chrystusa, Ojciec miłosierdzia, a Bóg wszystkiéj pociechy, który nas cieszy we wszelakiem utrapieniu naszem.
 $Deo gratias
 
@@ -209,7 +209,7 @@ V. Niech się wzniesie modlitwa moja.
 R. Jako woń kadzidła przed obliczem Twoim.
 
 [Day2 Laudes]
-!Rom 13:12-13
+!Rz 13:12-13
 v. Noc przeminęła, a dzień się przybliżył. Odrzućmyź tedy uczynki ciemności a obleczmy się w zbroję światłości. Jako w dnie uczciwie chodźmy.
 $Deo gratias
 
@@ -245,7 +245,7 @@ V. Napełnieniśmy rano miłosierdzia twego.
 R. Rozradowaliśmy się, i kochaliśmy się.
 
 [Day2 Vespera]
-!2 Cor 1:3-4
+!2 Kor 1:3-4
 v. Błogosławiony Bóg i Ojciec Pana naszego Jezusa Chrystusa, Ojciec miłosierdzia, a Bóg wszystkiéj pociechy, który nas cieszy we wszelakiem utrapieniu naszem.
 $Deo gratias
 
@@ -281,7 +281,7 @@ V. Niech się wzniesie modlitwa moja.
 R. Jako woń kadzidła przed obliczem Twoim.
 
 [Day3 Laudes]
-!Rom 13:12-13
+!Rz 13:12-13
 v. Noc przeminęła, a dzień się przybliżył. Odrzućmyź tedy uczynki ciemności a obleczmy się w zbroję światłości. Jako w dnie uczciwie chodźmy.
 $Deo gratias
 
@@ -317,7 +317,7 @@ V. Napełnieniśmy rano miłosierdzia twego.
 R. Rozradowaliśmy się, i kochaliśmy się.
 
 [Day3 Vespera]
-!2 Cor 1:3-4
+!2 Kor 1:3-4
 v. Błogosławiony Bóg i Ojciec Pana naszego Jezusa Chrystusa, Ojciec miłosierdzia, a Bóg wszystkiéj pociechy, który nas cieszy we wszelakiem utrapieniu naszem.
 $Deo gratias
 
@@ -353,7 +353,7 @@ V. Niech się wzniesie modlitwa moja.
 R. Jako woń kadzidła przed obliczem Twoim.
 
 [Day4 Laudes]
-!Rom 13:12-13
+!Rz 13:12-13
 v. Noc przeminęła, a dzień się przybliżył. Odrzućmyź tedy uczynki ciemności a obleczmy się w zbroję światłości. Jako w dnie uczciwie chodźmy.
 $Deo gratias
 
@@ -389,7 +389,7 @@ V. Napełnieniśmy rano miłosierdzia twego.
 R. Rozradowaliśmy się, i kochaliśmy się.
 
 [Day4 Vespera]
-!2 Cor 1:3-4
+!2 Kor 1:3-4
 v. Błogosławiony Bóg i Ojciec Pana naszego Jezusa Chrystusa, Ojciec miłosierdzia, a Bóg wszystkiéj pociechy, który nas cieszy we wszelakiem utrapieniu naszem.
 $Deo gratias
 
@@ -425,7 +425,7 @@ V. Niech się wzniesie modlitwa moja.
 R. Jako woń kadzidła przed obliczem Twoim.
 
 [Day5 Laudes]
-!Rom 13:12-13
+!Rz 13:12-13
 v. Noc przeminęła, a dzień się przybliżył. Odrzućmyź tedy uczynki ciemności a obleczmy się w zbroję światłości. Jako w dnie uczciwie chodźmy.
 $Deo gratias
 
@@ -466,7 +466,7 @@ V. Napełnieniśmy rano miłosierdzia twego.
 R. Rozradowaliśmy się, i kochaliśmy się.
 
 [Day5 Vespera]
-!2 Cor 1:3-4
+!2 Kor 1:3-4
 v. Błogosławiony Bóg i Ojciec Pana naszego Jezusa Chrystusa, Ojciec miłosierdzia, a Bóg wszystkiéj pociechy, który nas cieszy we wszelakiem utrapieniu naszem.
 $Deo gratias
 
@@ -502,7 +502,7 @@ V. Niech się wzniesie modlitwa moja.
 R. Jako woń kadzidła przed obliczem Twoim.
 
 [Day6 Laudes]
-!Rom 13:12-13
+!Rz 13:12-13
 v. Noc przeminęła, a dzień się przybliżył. Odrzućmyź tedy uczynki ciemności a obleczmy się w zbroję światłości. Jako w dnie uczciwie chodźmy.
 $Deo gratias
 
@@ -533,7 +533,7 @@ V. Napełnieniśmy rano miłosierdzia twego.
 R. Rozradowaliśmy się, i kochaliśmy się.
 
 [Day6 Vespera]
-!Rom 11:33
+!Rz 11:33
 v. O głębokości bogactw, mądrości i wiadomości Bożéj! jako są nieogarnione sądy jego, i niedościgłe drogi jego!
 $Deo gratias
 
@@ -621,7 +621,7 @@ Oświeć Panie, * siedzących w ciemności i w cieniu śmierci, ku wyprostowaniu
 Przyjął Bóg * Izraela, sługę swego: jako mówił do ojców naszych: Abrahamowi i nasieniu jego na wieki.
 
 [Adv Laudes]
-!Isai 2:3
+!Iz 2:3
 v. Chodźcie, a wstąpmy na górę Pańską i do domu Boga Jakóbowego, a nauczy nas dróg swoich, i będziemy chodzić ścieżkami jego; bo z Syonu wynidzie zakon, a słowo Pańskie z Jeruzalem.
 $Deo gratias
 
@@ -684,7 +684,7 @@ V. Głos wołającego na puszczy: Gotujcie drogę Pańską.
 R. Czyńcie proste ścieżki jego.
 
 [Adv Vespera]
-!Gen 49:10
+!Rdz 49:10
 v. Nie będzie odjęty sceptr od Judy, ani wódz z biódr jego, aż przyjdzie, który ma być posłan, a on będzie oczekawaniem narodów.
 $Deo gratias
 
@@ -787,7 +787,7 @@ Nie bójcie się * piątego dnia, przyjdzie do was Pan nasz.
 Ecce compléta sunt * ómnia, quć dicta sunt per Angelum de Vírgine María.
 
 [Quad Laudes]
-!Isai 58:1
+!Iz 58:1
 v. Wołaj, nie przestawaj, jako trąba wynoś głos swój: a opowiadaj ludowi memu złości ich, a domowi Jakóbowemu grzechy ich.
 $Deo gratias
 
@@ -823,7 +823,7 @@ V. Aniołom swoim rozkazał o tobie.
 R. Aby cię strzegli na wszystkich drogach twoich. 
 
 [Quad Vespera]
-!Joann 2:17
+!Jo 2:17
 v. Między przysionkiem a ołtarzem będą płakać kapłani, słudzy Pańscy, a będą mówić: Przepuść, Panie! przepuść ludowi twemu, a nie daj dziedzictwa twego na hańbę, żeby nad niem poganie panowali.
 $Deo gratias
 
@@ -859,7 +859,7 @@ V. Aniołom swoim rozkazał o tobie.
 R. Aby cię strzegli na wszystkich drogach twoich. 
 
 [Quad5 Laudes]
-!Joann 11:19
+!Jr 11:19
 v. Włóżmy drewno w chleb jego a wygładźmy go z ziemie żywiących, i imienia jego więcej niech nie wspomnią.
 $Deo gratias
 
@@ -912,7 +912,7 @@ V. Wyrwij mię od nieprzyjaciół moich, Boże mój.
 R. I od powstawających przeciwko mnie wybaw mię.
 
 [Quad5 Vespera]
-!Joann 11:20
+!Jr 11:20
 v. Ale ty, Panie zastępów! który sądzisz sprawiedliwie, a nerek i serca doznawasz, niech ujrzę pomstę twoję nad nimi; bom tobie objawił sprawę moję.
 $Deo gratias
 
@@ -964,7 +964,7 @@ V. Wybaw mnie Panie od człowieka złego.
 R. Od męża niegodziwego ustrzeż mnie.
 
 [Pasch Laudes]
-!Rom 6:9-10
+!Rz 6:9-10
 v. Wiedząc, że Chrystus powstawszy z martwych, więcéj nie umiera, śmierć mu więcéj panować nie będzie. Bo iż umarł, grzechowi raz umarł, a iż żywie, żywie Bogu.
 $Deo gratias
 
@@ -1005,7 +1005,7 @@ V. Ze zmartwychwstania twego, Chryste, alleluja.
 R. Niebo i ziemia weselą się, alleluja.
 
 [Pasch Vespera]
-!Rom 6:9-10
+!Rz 6:9-10
 v. Wiedząc, że Chrystus powstawszy z martwych, więcéj nie umiera, śmierć mu więcéj panować nie będzie. Bo iż umarł, grzechowi raz umarł, a iż żywie, żywie Bogu.
 $Deo gratias
 
@@ -1062,7 +1062,7 @@ V. Uczcił Pan Świętych swoich.
 R. I wysłuchał ich wołających do siebie.
 _
 !Modlitwa
-!Zach N. wstawić imię patrona parafii
+!Za N. wstawić imię patrona parafii
 v. Módlmy się.
 v. Broń nas, prosimy Cię, Panie, od wszelkich niebezpieczeństw duszy i ciała, a za wstawieniem się świętej i przechwalebnej Dziewicy, Bogarodzicy Marji, świętego Józefa, świętych Apostołów Twoich, Piotra i Pawła, i świętego~
 r. N. i wszystkich Świętych udziel nam łaskawie zbawienia i pokoju: aby Kościół Twój, pokonawszy przeciwności i błędy, mógł Ci służyć w bezpiecznej wolności.
@@ -1075,7 +1075,7 @@ V. Uczcił Pan Świętych swoich.
 R. I wysłuchał ich wołających do siebie.
 _
 !Modlitwa
-!Zach N. wstawić imię patrona parafii
+!Za N. wstawić imię patrona parafii
 v. Módlmy się.
 v. Broń nas, prosimy Cię, Panie, od wszelkich niebezpieczeństw duszy i ciała, a za wstawieniem się, świętego Józefa, świętych Apostołów Twoich, Piotra i Pawła, i świętego~
 r. N. i wszystkich Świętych udziel nam łaskawie zbawienia i pokoju: aby Kościół Twój, pokonawszy przeciwności i błędy, mógł Ci służyć w bezpiecznej wolności.
@@ -1360,7 +1360,7 @@ R. Amen.
 $Fidelium animae
 
 [Day0M Laudes]
-!Apoc 7:12
+!Ap 7:12
 v. Błogosławienie i chwała i mądrość i dziękowanie i cześć i moc i siła Bogu naszemu na wieki wieków. Amen.
 $Deo gratias
 _
@@ -1372,7 +1372,7 @@ R. Ku świadectwom twoim.
 R. Nakłoń serce moje, Boże, * ku świadectwom twoim.
 
 [DayFM Laudes]
-!Rom 13:12-13
+!Rz 13:12-13
 v. Noc przeminęła, a dzień się przybliżył. Odrzućmyź tedy uczynki ciemności a obleczmy się w zbroję światłości. Jako w dnie uczciwie chodźmy.
 $Deo gratias
 _
@@ -1384,7 +1384,7 @@ R. Bom grzeszył tobie.
 R. Uzdrów duszę moję, * bom grzeszył tobie.
 
 [Day6M Laudes]
-!Rom 13:12-13
+!Rz 13:12-13
 v. Noc przeminęła, a dzień się przybliżył. Odrzućmyź tedy uczynki ciemności a obleczmy się w zbroję światłości. Jako w dnie uczciwie chodźmy.
 $Deo gratias
 _
@@ -1396,7 +1396,7 @@ R. Bom grzeszył tobie.
 R. Uzdrów duszę moję, * bom grzeszył tobie.
 
 [Day0M Vespera]
-!2 Cor 1:3-4
+!2 Kor 1:3-4
 v. Błogosławiony Bóg i Ojciec Pana naszego Jezusa Chrystusa, Ojciec miłosierdzia, a Bóg wszystkiéj pociechy, który nas cieszy we wszelakiem utrapieniu naszem.
 $Deo gratias
 _
@@ -1408,7 +1408,7 @@ R. Panie, uczynki twoje.
 R. Jako wielmożne są, * Panie, uczynki twoje.
 
 [DayFM Vespera]
-!2 Cor 1:3-4
+!2 Kor 1:3-4
 v. Błogosławiony Bóg i Ojciec Pana naszego Jezusa Chrystusa, Ojciec miłosierdzia, a Bóg wszystkiéj pociechy, który nas cieszy we wszelakiem utrapieniu naszem.
 $Deo gratias
 _
@@ -1420,7 +1420,7 @@ R. Na każdy czas.
 R. Będę błogosławił Pana * na każdy czas.
 
 [Day6M Vespera]
-!Rom 11:33
+!Rz 11:33
 v. O głębokości bogactw, mądrości i wiadomości Bożéj! jako są nieogarnione sądy jego, i niedościgłe drogi jego!
 $Deo gratias
 _
@@ -1432,7 +1432,7 @@ R. I wielka moc jego.
 R. Wielki Pan nasz, * i wielka moc jego.
 
 [AdvM Laudes]
-!Isai 2:3
+!Iz 2:3
 v. Chodźcie, a wstąpmy na górę Pańską i do domu Boga Jakóbowego, a nauczy nas dróg swoich, i będziemy chodzić ścieżkami jego; bo z Syonu wynidzie zakon, a słowo Pańskie z Jeruzalem.
 $Deo gratias
 _
@@ -1444,7 +1444,7 @@ R. Panie, Boże zastępów.
 R. Przyjdź nas wyzwolić * Panie, Boże zastępów.
 
 [AdvM Vespera]
-!Gen 49:10
+!Rdz 49:10
 v. Nie będzie odjęty sceptr od Judy, ani wódz z biódr jego, aż przyjdzie, który ma być posłan, a on będzie oczekawaniem narodów.
 $Deo gratias
 _
@@ -1456,7 +1456,7 @@ R. Miłosierdzie twoje.
 R. Okaż nam, Panie, * miłosierdzie twoje
 
 [QuadM Laudes]
-!Isai 58:1
+!Iz 58:1
 v. Wołaj, nie przestawaj, jako trąba wynoś głos swój: a opowiadaj ludowi memu złości ich, a domowi Jakóbowemu grzechy ich.
 $Deo gratias
 _
@@ -1468,7 +1468,7 @@ R. Z sidła łowiących.
 R. Albowiem on mię wyrwał * z sidła łowiących.
 
 [QuadM Vespera]
-!Joann 2:17
+!Jo 2:17
 v. Między przysionkiem a ołtarzem będą płakać kapłani, słudzy Pańscy, a będą mówić: Przepuść, Panie! przepuść ludowi twemu, a nie daj dziedzictwa twego na hańbę, żeby nad niem poganie panowali.
 $Deo gratias
 _
@@ -1480,7 +1480,7 @@ R. Okryje cię.
 R. Plecami swemi okryje cię.
 
 [Quad5M Laudes]
-!Jerem 11:19
+!Jer 11:19
 v. Włóżmy drewno w chleb jego a wygładźmy go z ziemie żywiących, i imienia jego więcej niech nie wspomnią.
 $Deo gratias
 _
@@ -1491,7 +1491,7 @@ R. Boże, duszę moję.
 R. Wyrwij od miecza, * Boże, duszę moję.
 
 [Quad5M Vespera]
-!Joann 11:20
+!Jr 11:20
 v. Ale ty, Panie zastępów! który sądzisz sprawiedliwie, a nerek i serca doznawasz, niech ujrzę pomstę twoję nad nimi; bom tobie objawił sprawę moję.
 $Deo gratias
 _
@@ -1502,7 +1502,7 @@ R. Wybaw mię, Panie.
 R. Z paszczęki lwiéj * wybaw mię Panie.
 
 [PaschM Laudes]
-!Rom 6:9-10
+!Rz 6:9-10
 v. Wiedząc, że Chrystus powstawszy z martwych, więcéj nie umiera, śmierć mu więcéj panować nie będzie. Bo iż umarł, grzechowi raz umarł, a iż żywie, żywie Bogu.
 $Deo gratias
 _
@@ -1514,7 +1514,7 @@ R. Alleluja, alleluja.
 R. Wstał Pan z grobu: * Alleluja, alleluja.
 
 [PaschM Vespera]
-!Rom 6:9-10
+!Rz 6:9-10
 v. Wiedząc, że Chrystus powstawszy z martwych, więcéj nie umiera, śmierć mu więcéj panować nie będzie. Bo iż umarł, grzechowi raz umarł, a iż żywie, żywie Bogu.
 $Deo gratias
 _

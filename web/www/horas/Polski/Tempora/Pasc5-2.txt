@@ -13,7 +13,7 @@ Doxology=Pasc
 
 [Lectio1]
 Z Pierwszego Listu św. Piotra Apostoła
-!1 Petri 4:1-7
+!1 P 4:1-7
 1 Gdyż tedy Chrystus ucierpiał w ciele, i wy tąż myślą się uzbrójcie; bo który ucierpiał w ciele, poprzestał grzechów,
 2 Aby już nie pożądliwościom ludzkim, ale woli Bożéj ostatek czasu żył w ciele.
 3 Albowiem dosyć na przeszłym czasie ku wypełnieniu woli pogańskiéj tym, którzy chodzili w niepowściągliwościach, pożądliwościach, opilstwach, biesiadach, pijaństwach i niesłusznych bałwochwalstwach. 
@@ -26,7 +26,7 @@ Z Pierwszego Listu św. Piotra Apostoła
 @Tempora/Pasc4-0:Responsory4
 
 [Lectio2]
-!1 Petri 4:7-11
+!1 P 4:7-11
 7 Przetóż roztropni bądźcie i czujcie w modlitwach.
 8 A nade wszystko miejcie ustawiczną miłość jedni ku drugim; bo miłość zakrywa wielkość grzechów. 
 9 Goście radzi przyjmujcie, jedni drugie bez szemrania. 
@@ -39,7 +39,7 @@ Z Pierwszego Listu św. Piotra Apostoła
 R. Nie odpędzaj mię od mandatów twoich, alleluja, alleluja.
 
 [Lectio3]
-!1 Petri 4:12-17
+!1 P 4:12-17
 12 Najmilejsi, nie bądźcie gośćmi w upaleniu, które was potyka ku doświadczeniu, jakoby co nowego na was przychodziło;
 13 Ale się weselcie, uczestnikami będąc Chrystusowych ucisków; abyście się i w objawienie chwały jego radując weselili.
 14 Jeźli was sromocą dla imienia Chrystusowego, błogosławieni będziecie, gdyż, co jest czci i chwały i mocy Bożéj, i który jest Duch jego, na was odpoczywa.

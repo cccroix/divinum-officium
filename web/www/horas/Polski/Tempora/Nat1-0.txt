@@ -14,7 +14,7 @@ Psalmi Dominica
 @Sancti/12-25:Ant Vespera 3
 
 [Capitulum Vespera]
-!Gal 4:1-2
+!Ga 4:1-2
 v. Bracia: Jak długo dziedzic jest dziecięciem nie jest różny od sługi, będąc Panem wszystkiego; ale jest pod opiekuny i sprawcy, aż do zamierzonego czasu od ojca.
 $Deo gratias
 
@@ -37,7 +37,7 @@ $Qui tecum
 
 [Lectio7]
 Czytanie Ewangelii świętej według św. Łukasza
-!Luc 2:33-40
+!Łk 2:33-40
 Onego czasu: Józef i Maryja, Matka Jezusowa, dziwili się temu, co o Nim mówiono. I tak dalej.
 _
 Homilia świętego Ambrożego, Biskupa
@@ -51,7 +51,7 @@ V. Wszystko się przez nie stało; a bez niego nic się nie stało.
 R. I widzieliśmy chwałę jego, chwałę jako jednorodzonego od Ojca, pełne łaski i prawdy.
 
 [Capitulum Laudes]
-!Gal 4:1-2
+!Ga 4:1-2
 v. Bracia: Jak długo dziedzic jest dziecięciem nie jest różny od sługi, będąc Panem wszystkiego; ale jest pod opiekuny i sprawcy, aż do zamierzonego czasu od ojca.
 $Deo gratias
 
@@ -63,21 +63,21 @@ R. I mieszkało między nami, alleluja.
 Gdy wszystko było w * spokojnem milczeniu, a noc w swym biegu pół drogi miała, wszechmocne słowo Twoje, Panie, z nieba, ze stolicy królewskiej przyszło, alleluja.
 
 [Lectio Prima] (rubrica Divino aut rubrica Tridentina aut rubrica Monastica)
-!Gal 4:7
+!Ga 4:7
 v. A tak już nie jesteś niewolnikiem, ale synem: a jeźli synem, tedyć i dziedzicem przez Boga.
 
 [Capitulum Tertia]
-!Gal 4:1-2
+!Ga 4:1-2
 v. Bracia: Jak długo dziedzic jest dziecięciem nie jest różny od sługi, będąc Panem wszystkiego; ale jest pod opiekuny i sprawcy, aż do zamierzonego czasu od ojca.
 $Deo gratias
 
 [Capitulum Sexta]
-!Gal 4:4-5
+!Ga 4:4-5
 v. Lecz gdy przyszło wypełnienie czasu, zesłał Bóg Syna. swego, narodzonego z niewiasty, uczynionego pod zakonem, aby te, którzy pod zakonem byli, wykupił, żebyśmy przysposobienia synowskiego dostali.
 $Deo gratias
 
 [Capitulum Nona]
-!Gal 4:7
+!Ga 4:7
 v. A tak już nie jesteś niewolnikiem, ale synem: a jeźli synem, tedyć i dziedzicem przez Boga.
 $Deo gratias
 

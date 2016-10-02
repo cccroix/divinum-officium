@@ -1,6 +1,6 @@
 [Lectio1]
 Z Przysłów Salomona
-!Prov 10:1-5
+!Prz 10:1-5
 1 Mądry syn rozwesela ojca: a syn głupi smutkiem jest matce swojéj.
 2 Nic nie pomogą skarby niezbożności, lecz sprawiedliwość wybawi od śmierci.
 3 Nie udręczy Pan głodem dusze sprawiedliwego: a zasadki niezbożnych wywróci.
@@ -11,7 +11,7 @@ Z Przysłów Salomona
 @Tempora/081-0:Responsory1
 
 [Lectio2]
-!Prov 10:6-10
+!Prz 10:6-10
 6 Błogosławieństwo Pańskie nad głową sprawiedliwego: a nieprawość usta bezbożnych pokrywa.
 7 Pamiątka sprawiedliwego z chwałą: ale imię niezbożnych zginie.
 8 Mądry sercem przyjmuje przykazania: głupi bywa bit wargami.
@@ -22,7 +22,7 @@ Z Przysłów Salomona
 @Tempora/081-0:Responsory2
 
 [Lectio3]
-!Prov 10:11-16
+!Prz 10:11-16
 11 Źródło żywota usta sprawiedliwego: a usta niezbożnych nieprawość pokrywają.
 12 Nienawiść wzbudza swary: a wszystkie występki miłość pokrywa. 
 13 w uściech mądrego najduje się mądrość: a kij na grzbiecie tego, któremu nie staje serca.

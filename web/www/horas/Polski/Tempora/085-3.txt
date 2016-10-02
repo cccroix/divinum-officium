@@ -1,6 +1,6 @@
 [Lectio1]
 Z Księgi Ekklezjastyka
-!Eccl 13:1-6
+!Syr 13:1-6
 1 I Kto się smoły dotknie, pomaże się od niej, a kto ma z pysznym towarzystwo, oblecze się w pychę.
 2 Brzemię na się kładzie, i kto z poczciwszym nad się spółkuje. I bogatszemu nad cię nie bądź towarzyszem.
 3 Co za towarzystwo ma kodeł z garncem? Bo kiedy w się uderzą, stłucze się.
@@ -12,7 +12,7 @@ Z Księgi Ekklezjastyka
 @Tempora/081-0:Responsory7
 
 [Lectio2]
-!Eccl 13:9-15
+!Syr 13:9-15
 9 Ukórz się Bogu a czekaj rąk jego.
 10 Strzeż się, abyś zwiedziony w głupstwo nie był poniżony.
 11 Nie uniżaj się w mądrości twojej, byś uniżywszy się nie był zwiedzion w głupstwo.
@@ -25,7 +25,7 @@ Z Księgi Ekklezjastyka
 @Tempora/081-1:Responsory2
 
 [Lectio3]
-!Eccl 13:16-22
+!Syr 13:16-22
 16 Strzeż się a pilnuj tego, co słyszysz, bo chodzisz z upadkiem twoim.
 17 A słuchając tego, jako we śnie, patrz i czuj.
 18 Przez wszytek żywot twój miłuj Boga i wzywaj go ku zbawieniu twemu.

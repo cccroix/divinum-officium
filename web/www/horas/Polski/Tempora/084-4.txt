@@ -1,6 +1,6 @@
 [Lectio1]
 Z Księgi Ekklezjastyka
-!Eccl 3:22-26
+!Syr 3:22-26
 22 Wyższych rzeczy nad cię nie pytaj się a mocniejszych nad cię nie badaj się: ale cóć Bóg rozkazał, to rozmyślaj zawźdy, a w wielu uczynkach jego nie bądź dworny.
 23 Bo nie potrzeba tobie, abyś skryte rzeczy oczyma twemi upatrował.
 24 W rzeczach niepotrzebnych nie zabawią się rozmaicie, a w wielu uczynkach jego nie będziesz dworny.
@@ -11,7 +11,7 @@ Z Księgi Ekklezjastyka
 @Tempora/081-0:Responsory1
 
 [Lectio2]
-!Eccl 3:27-30
+!Syr 3:27-30
 27 Serce twarde źle się na ostatek będzie miało, a kto miłuje niebezpieczeństwo, w nim zginie.
 28 Serce, które chodzi dwiema drogami, nie będzie miało szczęścia, a człowiek złego serca potknie się na nich.
 29 Serce złośliwe będzie obciążone boleściami, a grzesznik do grzeszenia przyda.
@@ -21,7 +21,7 @@ Z Księgi Ekklezjastyka
 @Tempora/081-0:Responsory2
 
 [Lectio3]
-!Eccl 3:31-34
+!Syr 3:31-34
 31 Serce mądrego bywa poznane w mądrości, a ucho dobre słuchać będzie mądrości ze wszystką pilnością.
 32 Mądre serce i rozumne wstrzyma się od grzechów, a w uczynkach sprawiedliwości będzie miało szczęście.
 33 Ogień gorający gasi woda, a jałmużna grzechom się przeciwia,

@@ -16,7 +16,7 @@ I przyszli kwapiąc się * i znaleźli Marję i Józefa i niemowlątko w żłobi
 A ten Jezus * poczynał być jakoby w trzydziestu latach, jako mniemano, syn Józefa, alleluja.
 
 [Capitulum Vespera]
-!Gen 49:26
+!Rdz 49:26
 v. Błogosławieństwa ojca twego zmocnione są błogosławieństwy ojców jego: ażby przyszło pożądanie pagórków wiecznych: niechaj będą na głowie Józephowéj, i na ciemieniu Nazarejczyka między bracią swoją.
 $Deo gratias
 
@@ -56,7 +56,7 @@ R. Aby mię nie opuszczał w dzień utrapienia, alleluja.
 
 [Lectio1]
 Z Księgi Rodzaju
-!Gen 39:1-6
+!Rdz 39:1-6
 1 Józeph tedy był zawiedzion do Egiptu: i kupił go Putyphar, trzebieniec Pharaonów, hetman wojska, mąż Egiptyanin z ręku Ismaelitów, od których był przywiedziony.
 2 I był Pan z nim, i był mężem we wszystkiem szczęśliwie postępując: i mieszkał w domu pana swego.
 3 Który bardzo dobrze wiedział, że Pan jest z nim, a iż wszystko co czynił, on szczęścił w ręku jego.
@@ -71,7 +71,7 @@ V. Zdrowie nasze w ręce twojéj: niech tylko wejrzy na nas pan nasz, a z wesele
 R. Który im odpowiedział: Idźcie do Józepha, alleluja.
 
 [Lectio2]
-!Gen 41:37-43
+!Rdz 41:37-43
 37 Podobała się rada Pharaonowi, i wszystkim sługom jego.
 38 I mówił do nich: Izali możemy naléść takowego męża, któryby ducha Bożego pełen był?
 39 I rzekł do Józepha: Ponieważ ci Bóg ukazał to wszystko, coś mówił: izali mędrszego i podobnego tobie naleść będę mógł?
@@ -87,7 +87,7 @@ V. Przyjedźcie do mnie: a ja wam dam wszystkie dobra Egipskie, abyście używal
 R. Wywyższył mnie, a żeby wiele ludu zachował, alleluja.
 
 [Lectio3]
-!Gen 41:44-49
+!Rdz 41:44-49
 44 I rzekł jeszcze król do Józepha: Jam jest Pharaon, bez twego rozkazania nie podniesie żaden ręki albo nogi we wszystkiéj ziemi Egipskiéj.
 45 I odmienił imię jego, i nazwał go językiem Egipskim, Zbawicielem świata: i dał mu za żonę Aseneth, córkę Putyphara, kapłana Heliopolskiego. Wyjechał tedy Józeph na ziemię Egipską:
 46 (A trzydzieści mu lat było, gdy stanął przed oblicznością króla Pharaona) i objechał wszystkie krainy Egipskie.
@@ -140,7 +140,7 @@ R. A prawica twoja broniła mię, alleluja.
 Józefie, Synu Dawidów, * nie bój się przyjąć Marji małżonki twej: albowiem co się w niej narodziło jest z Ducha Świętego, alleluja.
 
 [Lectio Prima]
-!Gen 49:22
+!Rdz 49:22
 v. Syn przyrastający Józeph, syn przyrastający i śliczny na wejrzeniu: córki przebiegały się na murze.
 
 [Capitulum Tertia]
@@ -158,7 +158,7 @@ V. Będę wyznawał imię twoje, alleluja.
 R. Boś mi się zstał pomocnikiem i obrońcą, alleluja.
 
 [Capitulum Sexta]
-!Gen 49:25
+!Rdz 49:25
 v. Bóg ojca twego będzie pomocnikiem twoim, a wszechmogący będzieć błogosławił błogosławieństwy niebieskiemi zwierzchu.
 $Deo gratias
 

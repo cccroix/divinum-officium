@@ -16,7 +16,7 @@ Nam zaś chlubić się * trzeba w Krzyżu Pana naszego Jezusa Chrystusa.
 Przez znamię Krzyża * wybaw nas od nieprzyjaciół. Boże nasz.
 
 [Capitulum Vespera]
-!Phil 2:5-7
+!Flp 2:5-7
 v. Bracia: Albowiem to w sobie czujcie, co i w Chrystusie Jezusie. Który będąc w postaci Bożéj, nie poczytał za drapieztwo, że był równym Bogu; Ale wyniszczył samego siebie, przyjąwszy postać sługi, stawszy się na podobieństwo ludzi, i postawą naleziony jako człowiek.
 $Deo gratias.
 
@@ -39,7 +39,7 @@ $Qui vivis
 
 [Lectio1]
 Z Listu świętego Pawła Apostoła do Galatów
-!Gal 3:10-14
+!Ga 3:10-14
 10 Albowiem którzykolwiek są z uczynków zakonu, pod przeklęctwem są; bo napisano jest: Przeklęty każdy, któryby nie trwał we wszystkiem, co napisano w księgach zakonu, aby ono czynił. 
 11 A iż przez zakon żaden nie bywa usprawiedliwion u Boga, jawno jest, iż sprawiedliwy z wiary żywie.
 12 A zakon nie jest z wiary; ale któryby je czynił, w nich żyć będzie.
@@ -48,7 +48,7 @@ Z Listu świętego Pawła Apostoła do Galatów
 
 [Lectio2]
 Z Listu do Filipian
-!Phil 2:5-11
+!Flp 2:5-11
 5 Albowiem to w sobie czujcie, co i w Chrystusie Jezusie.
 6 Który będąc w postaci Bożéj, nie poczytał za drapieztwo, że był równym Bogu;
 7 Ale wyniszczył samego siebie, przyjąwszy postać sługi, stawszy się na podobieństwo ludzi, i postawą naleziony jako człowiek.
@@ -59,7 +59,7 @@ Z Listu do Filipian
 
 [Lectio3]
 Z Listu do Kolosan
-!Col 2:9-15
+!Kol 2:9-15
 9 Gdyż w nim mieszka wszystka zupełność Bóstwa cieleśnie.
 10 I jesteście w nim napełnieni, który jest głową wszelkiego księztwa i zwierzchności,
 11 W którym i obrzezani jesteście obrzezaniem nie ręką uczynionem: w zewleczeniu ciała cielesnego, w obrzezaniu Chrystusowem,
@@ -107,7 +107,7 @@ Spraw, prosimy Cię, Panie, byśmy obchodząc pamiątkę narodzin dla nieba świ
 $Per Dominum.
 
 [Lectio Prima]
-!Phil 2:8-9
+!Flp 2:8-9
 v. Sam się poniżył, stawszy się posłusznym aż do śmierci, a śmierci krzyżowej. Dlaczego i Bóg wywyższył go,i darował mu imię, które jest nad wszelakie imię,
 
 [Capitulum Tertia]
@@ -125,7 +125,7 @@ V. Kłaniamy Ci się Chryste i błogosławimy Tobie, alleluja.
 R. Żeś przez krzyż Twój świat odkupić raczył, alleluja.
 
 [Capitulum Sexta]
-!Gal 6:14
+!Ga 6:14
 v. A ja, nie daj Boże, abym się chlubić miał, jedno w krzyżu Pana naszego Jezusa Chrystusa, przez którego mnie świat jest ukrzyżowan, a ja światu.
 $Deo gratias
 

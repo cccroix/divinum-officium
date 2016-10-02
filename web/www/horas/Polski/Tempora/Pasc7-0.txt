@@ -16,7 +16,7 @@ Napełnieni byli wszyscy * Duchem Świętym i poczęli mówić, alleluja.
 Apostołowie opowiadali * rozmaitemi językami cuda Boże, alleluja, alleluja, alleluja.;;116
 
 [Capitulum Vespera]
-!Act 2:1-2
+!Dz 2:1-2
 v. A gdy się spełniały dni Pięćdziesiątnice, byli wszyscy wespółek na temże miejscu. I stał się z prędka z nieba szum, jakoby przypadającego wiatru gwałtownego, i napełnił wszystek dom, gdzie siedzieli.
 $Deo gratias
 
@@ -129,7 +129,7 @@ R. A to, co wszytko ma w sobie, ma wiadomość głosu, alleluja.
 
 [Lectio1]
 Czytanie Ewangelii świętej według Jana
-!Joann 14:23-31
+!J 14:23-31
 Onego czasu: Rzekł Jezus uczniom swoim: „Jeśli Mnie kto miłuje, będzie przestrzegał nauki mojej i Ojciec mój umiłuje go, i przyjdziemy do niego, i przebywać u niego będziemy”. I tak dalej.
 _
 Homilia świętego Grzegorza, Papieża
@@ -207,7 +207,7 @@ Amen.
 Weźmijcie * Ducha Świętego: których odpuścicie grzechy, są im odpuszczone, alleluja.
 
 [Lectio Prima]
-!Act 2:11
+!Dz 2:11
 v. Żydowie téż i nowo nawróceni, Kreteńczycy i Arabczycy: słyszeliśmy je mówiące języki naszemi wielmożne sprawy Boże.
 
 [Hymnus Tertia]
@@ -228,7 +228,7 @@ V. Duch Pocieszyciel, alleluja.
 R. Wszystkiego was nauczy, alleluja.
 
 [Capitulum Sexta]
-!Act 2:6
+!Dz 2:6
 v. A gdy się stał ten głos, zbieżało się mnóstwo, i strwożyło się na myśli, że każdy słyszał je swym językiem mówiące.
 $Deo gratias
 

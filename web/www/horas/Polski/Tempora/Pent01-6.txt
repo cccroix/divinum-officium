@@ -11,7 +11,7 @@ Doxology=Corp
 
 [Lectio1]
 Z Pierwszej Księgi Królewskiej
-!1 Reg 3:1-7
+!1 Sm 3:1-7
 1 Lecz młodzieniaszek Samuel służył Panu przed Heli, a słowo Pańskie było drogie w one dni, nie było widzenia jawnego.
 2 Stało się tedy dnia niektórego: Heli leżał na miejscu swojem, a oczy jego zaćmiły się były, i nie mógł widzieć.
 3 Niż lampa Boża była zagaszona, Samuel spał w kościele Pańskim, gdzie była skrzynia Boża.
@@ -24,7 +24,7 @@ Z Pierwszej Księgi Królewskiej
 @Tempora/Pent01-3:Responsory1
 
 [Lectio2]
-!1 Reg 3:8-12
+!1 Sm 3:8-12
 8 I przydał Pan i zawołał jeszcze Samuela trzecikroć: który wstawszy szedł do Heli,
 9 I rzekł: Owom ja; boś mię wołał. Dorozumiał się tedy Heli, iż Pan wołał młodzieńca, i rzekł do Samuela: Idź a śpij, a jeźli cię potem zawoła, rzeczesz: Mów Panie; bo słucha sługa twój. I szedł Samuel, a spał na miejscu swojem.
 10 I przyszedł Pan i stanął i zawołał, jako był zawołał powtóre: Samuel, Samuel! I rzekł Samuel: Mów Panie; bo słucha sługa twój.
@@ -35,7 +35,7 @@ Z Pierwszej Księgi Królewskiej
 @Tempora/Pent01-3:Responsory2
 
 [Lectio3]
-!1 Reg 3:15-20
+!1 Sm 3:15-20
 15 I spał Samuel aż do zarania, i otworzył drzwi domu Pańskiego. A Samuel bał sie oznajmić widzenia Heli.
 16 Wezwał tedy Heli Samuela, i rzekł: Samuelu, synu mój! Który odpowiadając, rzekł: Owom ja.
 17 I zapytał go: Co jest za mowa, którą mówił Pan do ciebie? proszę cię, nie taj przedemną: toć niechaj Bóg uczyni, i toć niech przyczyni, jeźli zataisz przedemną mowę ze wszystkich słów, któreć są rzeczone.
