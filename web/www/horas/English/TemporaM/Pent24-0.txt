@@ -14,7 +14,7 @@ $Per Dominum
 
 [Lectio7]
 From the Holy Gospel according to Matthew
-!Matth 24:15-35
+!Matt 24:15-35
 At that time Jesus said unto his disciples: When ye shall see the abomination~
 of desolation, spoken of by Daniel the Prophet, stand in the Holy Place, (whoso~
 readeth, let him understand,) And so on.
@@ -77,7 +77,7 @@ R. As incense before thee.
 
 [LectioE]
 Continuation of the Holy Gospel according to Matthew
-!Matth 24:15-35
+!Matt 24:15-35
 24:15 When therefore you shall see the abomination of desolation, which was spoken of by Daniel the prophet, standing in the holy place: he that readeth let him understand.
 24:16 Then they that are in Judea, let them flee to the mountains:
 24:17 And he that is on the housetop, let him not come down to take any thing out of his house:

@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 From the letter of blessed Apostle James
-!Jacob 2:14-17
+!Jas 2:14-17
 14 What shall it profit, my brethren, if a man say he hath faith, but hath not~
 works? Shall faith be able to save him?
 15 And if a brother or sister be naked, and want daily food:
@@ -23,7 +23,7 @@ V. Thou art my God, and I will praise thee Thou art my God, and I will exalt the
 R. Upon a psaltery of ten strings will I sing praises unto thee. Alleluia, Alleluia.
 
 [Lectio2]
-!Jacob 2:18-22
+!Jas 2:18-22
 18 But some man will say: Thou hast faith, and I have works: show me thy faith~
 without works; and I will show thee, by works, my faith.
 19 Thou believest that there is one God. Thou dost well: the devils also believe~
@@ -43,7 +43,7 @@ R. And to sing praises Alleluia.
 R. And to sing praises Alleluia.
 
 [Lectio3]
-!Jacob 2:23-26
+!Jas 2:23-26
 23 And the scripture was fulfilled, saying: Abraham believed God, and it was~
 reputed to him to justice, and he was called the friend of God.
 24 Do you see that by works a man is justified; and not by faith only?

@@ -12,7 +12,7 @@ The bodies of the Saints are buried in peace, * and their name liveth for evermo
 O ye Martyrs, * praise ye the Lord from the heavens, praise Him with the dance, alleluia;;112
 
 [Capitulum Vespera]
-!Sap 3:1-3
+!Wis 3:1-3
 v. But the souls of the just are in the hand of God, and the torment of death~
 shall not touch them. In the sight of the unwise they seemed to die, but they~
 are in peace.
@@ -250,7 +250,7 @@ R. For the grace of God, and His peace, are with His chosen.
 
 [Lectio7]
 From the Holy Gospel according to Luke
-!Luc 21:9-19
+!Luke 21:9-19
 At that time Jesus said unto His disciples When ye shall hear of wars and~
 commotions, be not terrified for these things must first come to pass; but the~
 end is not by and by. And so on.
@@ -327,7 +327,7 @@ O all ye Martyrs of the Lord, bless ye the Lord * for ever.
 O ye Martyrs, * praise ye the Lord from the heavens, praise Him with the dance, alleluia
 
 [Capitulum Laudes]
-!Sap 3:1-3
+!Wis 3:1-3
 v. But the souls of the just are in the hand of God, and the torment of death~
 shall not touch them. In the sight of the unwise they seemed to die, but they~
 are in peace.
@@ -387,13 +387,13 @@ patience under suffering.
 $Per Dominum
 
 [Lectio Prima]
-!Sap 3:7-8
+!Wis 3:7-8
 v, The just shall shine, and shall run to and fro like sparks among the reeds.~
 They shall judge nations, and rule over people, and their Lord shall reign for~
 ever.
 
 [Capitulum Tertia]
-!Sap 3:1-3
+!Wis 3:1-3
 v. But the souls of the just are in the hand of God, and the torment of death~
 shall not touch them. In the sight of the unwise they seemed to die, but they~
 are in peace.
@@ -404,7 +404,7 @@ V. Be glad in the Lord, and rejoice, ye righteous.
 R. And shout for joy, all ye that are upright in heart.
 
 [Capitulum Sexta]
-!Sap 10:17
+!Wis 10:17
 v. And she rendered to the just the wages of their labours, and conducted them~
 in a wonderful way: and she was to them for a covert by day, and for the light~
 of stars by night:
@@ -415,7 +415,7 @@ V. Let the righteous rejoice before God.
 R. Yea, let them exceedingly rejoice.
 
 [Capitulum Nona]
-!Sap 3:7-8
+!Wis 3:7-8
 v. The just shall shine, and shall run to and fro like sparks among the reeds.~
 They shall judge nations, and rule over people, and their Lord shall reign for~
 ever.
@@ -442,7 +442,7 @@ shall they be made glad for ever with Christ.
 
 [Lectio71]
 From the Holy Gospel according to Luke
-!Luc 6:17-23
+!Luke 6:17-23
 At that time Jesus came down from the mountain, and stood in the plain, and~
 the company of His disciples, and a great multitude of people out of all Judea,~
 and Jerusalem, and from the sea coast of Tyre and Sidon. And so on.
@@ -498,7 +498,7 @@ world doth so press, that he cannot rid himself thereof.
 
 [LectioE]
 Continuation of the Holy Gospel according to Luke
-!Luc 21:9-19
+!Luke 21:9-19
 21:9 And when you shall hear of wars and seditions, be not terrified: these things must first come to pass; but the end is not yet presently.
 21:10 Then he said to them: Nation shall rise against nation, and kingdom against kingdom.
 21:11 And there shall be great earthquakes in divers places, and pestilences, and famines, and terrors from heaven; and there shall be great signs.

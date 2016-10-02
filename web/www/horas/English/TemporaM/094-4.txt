@@ -1,6 +1,6 @@
 [Lectio1]
 From the book of Judith
-!Judith 12:10-13
+!Jdt  12:10-13
 10  And it came to pass on the fourth day, that Holofernes made a supper for his servants, and said to Vagao his eunuch: so, and persuade that Hebrew woman, to consent of her own accord to dwell with me.
 11  For it is looked upon as shameful among the Assyrians, if a woman mock a man, by doing so as to pass free from him.
 12  Then Vagao went in to Judith, and said: Let not my good maid be afraid to go in to my lord, that she may be honoured before his face, that she may eat with him and drink wine and be merry.
@@ -10,7 +10,7 @@ From the book of Judith
 @TemporaM/094-0:Responsory1
 
 [Lectio2]
-!Judith 13:1-7
+!Jdt 13:1-7
 1  And when it was grown late, his servants made haste to their lodgings, and Vagao shut the chamber doors, and went his way.
 2  And they were all overcharged with wine.
 3  And Judith was alone in the chamber.
@@ -23,7 +23,7 @@ From the book of Judith
 @TemporaM/093-0:Responsory7
 
 [Lectio3]
-!Judith 13:8-11
+!Jdt 13:8-11
 8  And when she had said this, she went to the pillar that was at his bed's head, and loosed his sword that hung tied upon it.
 9  And when she had drawn it out, she took him by the hair of his head, and said: Strengthen me, O Lord God, at this hour.
 10  And she struck twice upon his neck, and out off his head, and took off his canopy from the pillars, and rolled away his headless body.

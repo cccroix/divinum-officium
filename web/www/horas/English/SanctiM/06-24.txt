@@ -15,7 +15,7 @@ Elizabeth was barren and well stricken in years, * but from her womb was born Jo
 The child shall be great * in the sight of the Lord, for His hand is with him.
 
 [Capitulum Vespera]
-!Isai 49:1
+!Isa 49:1
 v. Give ear, ye islands, and hearken, ye people from afar. The Lord hath called~
 me from the womb, from the bowels of my mother he hath been mindful of my name.
 $Deo gratias
@@ -121,7 +121,7 @@ R. Even of John the Baptist, the Fore-runner of the Lord
 
 [Lectio1]
 Here beginneth the Book of Jeremiah
-!Jerem 1:1-5
+!Jer 1:1-5
 1 The words of Jeremias the son of Helcias, of the priests that were in Anathoth,~
 in the land of Benjamin.
 2 The word of the Lord which came to him in the days of Josias the son of Amon~
@@ -143,7 +143,7 @@ R. The same came for a witness, to bear witness of the Light, to make ready a~
 people prepared for the Lord.
 
 [Lectio2]
-!Jerem 1:6-10
+!Jer 1:6-10
 6 And I said: Ah, ah, ah, Lord God: behold, I cannot speak, for I am a child.
 7 And the Lord said to me: Say not: I am a child: for thou shalt go to all that I~
 shall send thee: and whatsoever I shall command thee, thou shalt speak.
@@ -162,7 +162,7 @@ V. There was a man sent from God, whose name was John.
 R. Who made straight in the desert an highway for the Lord.
 
 [Lectio3]
-!Jerem 1:17-19
+!Jer 1:17-19
 17 Thou therefore gird up thy loins, and arise, and speak to them all that I~
 command thee. Be not afraid at their presence: for I will make thee not to fear~
 their countenance.
@@ -256,7 +256,7 @@ R. His name is John.
 
 [Lectio7]
 From the Holy Gospel according to Luke
-!Luc 1:57-69
+!Luke 1:57-69
 Elisabeth's full time came that she should be delivered, and she brought forth a~
 son. And her neighbours and her cousins heard how the Lord had showed great~
 mercy upon her, and they rejoiced with her. And so on.
@@ -335,7 +335,7 @@ Among them that are born of women * there hath not risen a greater than John the
 Thou, child, shalt be called the Prophet of the Highest; * for thou shalt go before the face of the Lord, to prepare His ways.
 
 [Capitulum Laudes]
-!Isai 49:1
+!Isa 49:1
 v. Give ear, ye islands, and hearken, ye people from afar. The Lord hath called~
 me from the womb, from the bowels of my mother he hath been mindful of my name.
 $Deo gratias
@@ -383,12 +383,12 @@ And the mouth of Zacharias was opened, * and he prophesied, saying: Blessed be~
 the Lord God of Israel.
 
 [Lectio Prima]
-!Isai 49:7
+!Isa 49:7
 v. Kings shall see, and princes shall arise, and shall worship the Lord thy God,~
 and the Holy One of Israel that hath chosen thee.
 
 [Capitulum Tertia]
-!Isai 49:1
+!Isa 49:1
 v. Give ear, ye islands, and hearken, ye people from afar. The Lord hath called~
 me from the womb, from the bowels of my mother he hath been mindful of my name.
 $Deo gratias
@@ -398,7 +398,7 @@ V. There was a man sent from God.
 R. Whose name was John.
 
 [Capitulum Sexta]
-!Isai 49:5-6
+!Isa 49:5-6
 v. And now, saith the Lord that formed me from the womb to be His servant, I~
 have given thee for a light to the Gentiles, that thou mayest be My salvation~
 unto the end of the earth.
@@ -409,7 +409,7 @@ V. Among them that are born of women there hath not risen a greater
 R. Than John the Baptist.
 
 [Capitulum Nona]
-!Isai 49:7
+!Isa 49:7
 v. Kings shall see, and princes shall arise, and shall worship the Lord thy God,~
 and the Holy One of Israel that hath chosen thee.
 $Deo gratias
@@ -425,7 +425,7 @@ risen a greater than John the Baptist.
 
 [LectioE]
 v. Continuation of the Holy Gospel according to Luke
-!Luc 1:57-69
+!Luke 1:57-69
 1:57 Now Elizabeth's full time of being delivered was come, and she brought forth a son.
 1:58 And her neighbours and kinsfolks heard that the Lord had shewed his great mercy towards her, and they congratulated with her.
 1:59 And it came to pass, that on the eighth day they came to circumcise the child, and they called him by his father's name Zachary.

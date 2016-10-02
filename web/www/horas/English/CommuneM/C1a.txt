@@ -12,7 +12,7 @@ You are my friends * if you do the things that I command you, said the Lord;;111
 Blessed are the peacemakers * the clean of heart, they shall see God;;112
 
 [Capitulum Vespera]
-!Ephes 2:19-20
+!Eph 2:19-20
 v. Brothers: Now therefore you are no more strangers and foreigners; but you are~
 fellow citizens with the saints, and the domestics of God.Built upon the~
 foundation of the apostles and prophets, Jesus Christ himself being the chief~
@@ -71,7 +71,7 @@ R. Their principality is exceedingly strengthened.
 
 [Lectio1]
 Lesson from the book of Ezekiel
-!Ezech 1:1-4
+!Ezek 1:1-4
 1 Now it came to pass in the thirtieth year, in the fourth month, on the fifth~
 day of the month, when I was in the midst of the captives by the river Chobar,~
 the heavens were opened, and I saw the visions of God.
@@ -92,7 +92,7 @@ V. Whilst you have the light, believe in the light, that you may be the children
 R. Be ye therefore wise as serpents and simple as doves.
 
 [Lectio2]
-!Ezech 1:5-9
+!Ezek 1:5-9
 5 And in the midst thereof the likeness of four living creatures: and this was~
 their appearance: there was the likeness of a man in them.
 6 Every one had four faces, and every one four wings.
@@ -110,7 +110,7 @@ V. And you shall find rest to your souls.
 R. For my yoke is sweet and my burden light.
 
 [Lectio3]
-!Ezech 1:10-12
+!Ezek 1:10-12
 10 And as for the likeness of their faces: there was the face of a man, and the~
 face of a lion on the right side of all the four: and the face of an ox, on the~
 left side of all the four: and the face of an eagle over all the four.
@@ -186,7 +186,7 @@ R. And now have they crowns on their heads, and palms in their hands.
 
 [Lectio7]
 From the Holy Gospel according to Luke
-!Luc 10:1-9
+!Luke 10:1-9
 At that time the Lord appointed other seventy - two also, and sent them two~
 and two before His face into every city and place, whither He Himself would~
 come. And so on.
@@ -258,7 +258,7 @@ Blessed are the peacemakers * the clean of heart, they shall see God.
 In your patience * you shall possess your souls.
 
 [Capitulum Laudes]
-!Ephes 2:19-20
+!Eph. 2:19-20
 v. Brothers: Now therefore you are no more strangers and foreigners; but you are~
 fellow citizens with the saints, and the domestics of God.Built upon the~
 foundation of the apostles and prophets, Jesus Christ himself being the chief~
@@ -284,12 +284,12 @@ You who left all * and follow me, you will get hundredfolds, and you will have~
 the eternal life
 
 [Lectio Prima]
-!Act 5:41
+!Acts 5:41
 v. And they indeed went from the presence of the council, rejoicing that they~
 were accounted worthy to suffer reproach for the name of Jesus.
 
 [Capitulum Tertia]
-!Ephes 2:19-20
+!Eph. 2:19-20
 v. Brothers: Now therefore you are no more strangers and foreigners; but you are~
 fellow citizens with the saints, and the domestics of God.Built upon the~
 foundation of the apostles and prophets, Jesus Christ himself being the chief~
@@ -301,7 +301,7 @@ V. Their sound hath gone forth into all the earth:
 R. And their words unto the ends of the world.
 
 [Capitulum Sexta]
-!Act 5:12
+!Acts 5:12
 v. And by the hands of the apostles were many signs and wonders wrought among~
 the people.
 $Deo gratias
@@ -311,7 +311,7 @@ V. Thou shalt make them princes over all the earth
 R. They shall remember thy name O Lord.
 
 [Capitulum Nona]
-!Act 5:41
+!Acts 5:41
 v. And they indeed went from the presence of the council, rejoicing that they~
 were accounted worthy to suffer reproach for the name of Jesus.
 $Deo gratias
@@ -336,7 +336,7 @@ kingdom, alleluia.
 
 [LectioE]
 Continuation of the Holy Gospel according to Luke
-!Luc 10:1-9
+!Luke 10:1-9
 10:1 And after these things the Lord appointed also other seventy-two: and he sent them two and two before his face into every city and place whither he himself was to come.
 10:2 And he said to them: The harvest indeed is great, but the labourers are few. Pray ye therefore the Lord of the harvest, that he send labourers into his harvest.
 10:3 Go: Behold I send you as lambs among wolves.

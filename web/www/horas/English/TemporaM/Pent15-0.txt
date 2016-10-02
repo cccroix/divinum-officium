@@ -15,7 +15,7 @@ $Pre Dominum
 
 [Lectio7]
 From the Holy Gospel according to Luke
-!Luc 7:11-16
+!Luke 7:11-16
 At that time Jesus went into a city called Nain and His disciples went with~
 Him, and much people. And so on.
 _
@@ -80,7 +80,7 @@ R. As incense before thee.
 
 [LectioE]
 Continuation of the Holy Gospel according to Luke
-!Luc 7:11-16
+!Luke 7:11-16
 7:11 And it came to pass afterwards, that he went into a city that is called Naim; and there went with him his disciples, and a great multitude.
 7:12 And when he came nigh to the gate of the city, behold a dead man was carried out, the only son of his mother; and she was a widow: and a great multitude of the city was with her.
 7:13 Whom when the Lord had seen, being moved with mercy towards her, he said to her: Weep not.

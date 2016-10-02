@@ -3,7 +3,7 @@ Moreover, all Israel made great lamentation * for Judas, saying How art thou fal
 
 [Lectio1]
 Lesson from the first book of Machabees
-!1 Mach 9:1-6
+!1 Mac 9:1-6
 1 In the mean time when Demetrius heard that Nicanor and his army were fallen in battle, he sent again Bacchides and Alcimus into Judea; and the right wing of his army with them.
 2 And they took the road that leadeth to Galgal, and they camped in Masaloth, which is in Arabella: and they made themselves masters of it, and slew many people.
 3 In the first month of the hundred and fifty-second year they brought the army to Jerusalem:
@@ -15,7 +15,7 @@ Lesson from the first book of Machabees
 @Tempora/101-0:Responsory1
 
 [Lectio2]
-!1 Mach 9:7-11
+!1 Mac 9:7-11
 7 And Judas saw that his army slipped away, and the battle pressed upon him, and his heart was cast down: because he had not time to gather them together, and he was discouraged.
 8 Then he said to them that remained: Let us arise, and go against our enemies, if we may be able to fight against them.
 9 But they dissuaded him, saying: We shall not be able, but let us save our lives now, and return to our brethren, and then we will fight against them: for we are but few.
@@ -26,7 +26,7 @@ Lesson from the first book of Machabees
 @Tempora/101-0:Responsory2
 
 [Lectio3]
-!1 Mach 9:12-20
+!1 Mac 9:12-20
 12 And Bacchides was in the right wing, and the legion drew near on two sides, and they sounded the trumpets:
 13 And they also were on Judas' side, even they also cried out, and the earth shook at the noise of the armies: and the battle was fought from morning even unto the evening.
 14 And Judas perceived that the stronger part of the army of Bacchides was on the right side, and all the stout of heart came together with him:

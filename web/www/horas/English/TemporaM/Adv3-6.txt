@@ -12,7 +12,7 @@ Oratio Dominica
 
 [Lectio1]
 Continuation of the Holy Gospel according to Luke
-!Luc 3:1-6
+!Luke 3:1-6
 In the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being~
 governor of Judea. And so on.
 _
@@ -90,7 +90,7 @@ $Qui vivis
 
 [LectioE]
 Continuation of the Holy Gospel according to Luke
-!Luc 3:1-6
+!Luke 3:1-6
 3:1 NOW in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judea, and Herod being tetrarch of Galilee, and Philip his brother tetrarch of Iturea, and the country of Trachonitis, and Lysanias tetrarch of Abilina;
 3:2 Under the high priests Annas and Caiphas; the word of the Lord was made unto John, the son of Zachary, in the desert.
 3:3 And he came into all the country about the Jordan, preaching the baptism of penance for the remission of sins;

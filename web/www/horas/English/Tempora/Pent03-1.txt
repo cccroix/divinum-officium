@@ -8,13 +8,13 @@ Doxology=Heart
 
 [Lectio1]
 Lesson from the first book of Samuel
-!1 Reg 10:17-19
+!1 Sam 10:17-19
 17 And Samuel called together the people to the Lord in Maspha:
 18 And he said to the children of Israel: Thus saith the Lord the God of Israel: I brought up Israel out of Egypt, and delivered you from the hand of the Egyptians, and from the hand of all the kings who afflicted you.
 19 But you this day have rejected your God, who only hath saved you out of all your evils and your tribulations: and you have said: Nay: but set a king over us. Now therefore stand before the Lord by your tribes, and by your families
 
 [Lectio2]
-!1 Reg 10:20-24
+!1 Sam 10:20-24
 20 And Samuel brought to him all the tribes of Israel, and the lot fell on the tribe of Benjamin.
 21 And he brought the tribe of Benjamin and the kindreds thereof, and the lot fell upon the kindred of Metri, and it came to Saul the son of Cis. They sought him therefore and he was not found.
 22 And after this they consulted the Lord whether he would come thither. And the Lord answered: Behold he is hidden at home.
@@ -22,7 +22,7 @@ Lesson from the first book of Samuel
 24 And Samuel said to all the people: Surely you see him whom the Lord hath chosen, that there is none like him among all the people. And all the people cried and said: God save the king.
 
 [Lectio3]
-!1 Reg 10:25-27
+!1 Sam 10:25-27
 25 And Samuel told the people the law of the kingdom, and wrote it in a book, and laid it up before the Lord: and Samuel sent away all the people, every one to his own house.
 26 Saul also departed to his own house in Gabaa: and there went with him a part of the army, whose hearts God had touched.
 27 But the children of Belial said: Shall this fellow be able to save us? And they despised him, and brought him no presents, but he dissembled as though he heard not.
@@ -39,7 +39,7 @@ And note who they are that be partakers in the mysteries of such a priesthood, a
 
 [Lectio7]
 From the Holy Gospel according to John
-!Joann 19:31-37
+!John 19:31-37
 At that time : The Jews, because it was the Preparation, that the bodies should not remain upon the cross on the Sabbath Day, for that Sabbath Day was an high day, besought Pilate that their legs might broken, and that they might be taken away. And so on, and that which followeth.
 _
 !A Homily by St. Lawrence Justinian the Bishop

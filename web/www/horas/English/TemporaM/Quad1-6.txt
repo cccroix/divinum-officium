@@ -5,7 +5,7 @@ Sabbato Quattuor temporum;;Feria major;;2
 
 [Lectio1]
 From the holy Gospel according to Matthew
-!Matth 17:1-9
+!Matt 17:1-9
 In that time Jesus taketh unto him Peter and James, and John his brother, and~
 bringeth them up into a high mountain apart: And he was transfigured before~
 them. And so on.
@@ -79,7 +79,7 @@ $Per Dominum
 
 [LectioE]
 v. Continuation of the Holy Gospel according to Matthew
-!Matth 17:1-9
+!Matt 17:1-9
 17:1 AND after six days Jesus taketh unto him Peter and James, and John his brother, and bringeth them up into a high mountain apart:
 17:2 And he was transfigured before them. And his face did shine as the sun: and his garments became white as snow.
 17:3 And behold there appeared to them Moses and Elias talking with him.

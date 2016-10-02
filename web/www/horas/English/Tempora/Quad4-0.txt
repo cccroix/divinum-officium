@@ -13,7 +13,7 @@ $Per Dominum
 
 [Lectio1]
 Lesson from the book of Exodus
-!Ex 3:1-6
+!Exod 3:1-6
 1 Now Moses fed the sheep of Jethro his father in law, the priest of Madian: and he drove the flock to the inner parts of the desert, and came to the mountain of God, Horeb.
 2 And the Lord appeared to him in a flame of fire out of the midst of a bush: and he saw that the bush was on fire and was not burnt.
 3 And Moses said: I will go and see this great sight, why the bush is not burnt.
@@ -28,7 +28,7 @@ V. The cry of the children of Israel is come unto Me, and I have seen their affl
 R. Let My people go. And the heart of Pharaoh shall be hardened, that he will not let My people go but by a mighty hand.
 
 [Lectio2]
-!Ex 3:7-10
+!Exod 3:7-10
 7 And the Lord said to him: I have seen the affliction of my people in Egypt, and I have heard their cry because of the rigour of them that are over the works:
 8 And knowing their sorrow, I am come down to deliver them out of the hands of the Egyptians, and to bring them out of that land into a good and spacious land, into a land that floweth with milk and honey, to the places of the Chanaanite, and Hethite, and Amorrhite, and Pherezite, and Hevite, and Jebusite.
 9 For the cry of the children of Israel is come unto me: and I have seen their affliction, wherewith they are oppressed by the Egyptians.
@@ -41,7 +41,7 @@ V. The Lord God of the Hebrews hath sent me unto thee, saying:
 R. Let My people go, that they may hold a feast unto Me in the wilderness.
 
 [Lectio3]
-!Ex 3:11-15
+!Exod 3:11-15
 11 And Moses said to God: Who am I that I should go to Pharao, and should bring forth the children of Israel out of Egypt?
 12 And he said to him: I will be with thee: and this thou shalt have for a sign, that I have sent thee: When thou shalt have brought my people out of Egypt, thou shalt offer sacrifice to God upon this mountain.
 13 Moses said to God: Lo, I shall go to the children of Israel, and say to them: The God of your fathers hath sent me to you. If they should say to me: What is his name? what shall I say to them?
@@ -89,7 +89,7 @@ R. To make him meet to receive the Law of God.
 
 [Lectio7]
 From the Holy Gospel according to John
-!Joann 6:1-15
+!John 6:1-15
 In that time, Jesus went over the sea of Galilee, which is that of Tiberias. And a great multitude followed him, because they saw the miracles which he did on them that were diseased. And so on.
 _
 Homily by St. Augustine, Bishop (of Hippo.)

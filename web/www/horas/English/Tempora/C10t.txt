@@ -11,7 +11,7 @@ Special Lectio 3
 Doxology=Nat
 
 [Capitulum Vespera]
-!Eccl 24:14
+!Sir 24:14
 v. From the beginning, and before the world, was I created, and unto the world to come I shall not cease to be, and in the holy dwelling place I have ministered before him.
 $Deo gratias.
 
@@ -108,7 +108,7 @@ May the Virgin of virgins, intercede for us at the Lord. Amen.
 Through the Virgin Mother, the Lord grant us salvation and peace. Amen.
 
 [Capitulum Laudes]
-!Eccl 24:14
+!Sir 24:14
 v. From the beginning, and before the world, was I created, and unto the world to come I shall not cease to be, and in the holy dwelling place I have ministered before him.
 $Deo gratias.
 
@@ -229,11 +229,11 @@ The good comrade and guardian of chastity is modesty. And this is the first thin
 &teDeum
 
 [Lectio Prima]
-!Eccl 24:19-20
+!Sir 24:19-20
 v. As a plane tree by the water in the streets, I gave a sweet smell like cinnamon, and aromatical balm: I yielded a sweet odour like the best myrrh.
 
 [Capitulum Tertia]
-!Eccl 24:14
+!Sir 24:14
 v. From the beginning, and before the world, was I created, and unto the world to come I shall not cease to be, and in the holy dwelling place I have ministered before him.
 $Deo gratias.
 
@@ -249,7 +249,7 @@ V. God shall help her with His countenance.
 R. God is in the midst of her, she shall not be moved.
 
 [Capitulum Sexta]
-!Eccl 24:15-16
+!Sir 24:15-16
 v. And so was I established in Sion, and in the holy city likewise I rested, and my power was in Jerusalem. And I took root in an honourable people, and in the portion of my God his inheritance, and my abode is in the full assembly of saints.
 $Deo gratias.
 
@@ -265,7 +265,7 @@ V. God hath chosen her, and fore-chosen her.
 R. He hath made her to dwell in His tabernacle.
 
 [Capitulum Nona]
-!Eccl 24:19-20
+!Sir 24:19-20
 v. As a plane tree by the water in the streets, I gave a sweet smell like cinnamon. and aromatical balm: I yielded a sweet odour like the best myrrh.
 $Deo gratias.
 

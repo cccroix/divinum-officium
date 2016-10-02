@@ -15,7 +15,7 @@ $Per Dominum
 
 [Lectio7]
 From the Holy Gospel according to Luke
-!Luc 17:11-19
+!Luke 17:11-19
 It came to pass, as Jesus went to Jerusalem, that He passed through the midst of~
 Samaria and Galilee. And, as He entered into a certain village, there met Him~
 ten men that were lepers. And so on.
@@ -80,7 +80,7 @@ R. As incense before thee.
 
 [LectioE]
 Continuation of the Holy Gospel according to Luke
-!Luc 17:11-19
+!Luke 17:11-19
 17:11 And it came to pass, as he was going to Jerusalem, he passed through the midst of Samaria and Galilee.
 17:12 And as he entered into a certain town, there met him ten men that were lepers, who stood afar off;
 17:13 And lifted up their voice, saying: Jesus, master, have mercy on us.

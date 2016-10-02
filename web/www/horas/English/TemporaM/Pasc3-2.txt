@@ -7,7 +7,7 @@ Feria Te Deum
 
 [Lectio1]
 From the Book of Revelation of St John Apostle
-!Apoc 4:1-5
+!Rev 4:1-5
 1 After these things I looked, and behold a door was opened in heaven, and the~
 first voice which I heard, as it were, of a trumpet speaking with me, said: Come~
 up hither, and I will show thee the things which must be done hereafter.
@@ -28,7 +28,7 @@ V. The building of the wall of it was of jasper and the city was pure gold, like
 R. Alleluia, Alleluia.
 
 [Lectio2]
-!Apoc 4:6-8
+!Rev 4:6-8
 6 And in the sight of the throne was, as it were, a sea of glass like to crystal;~
 and in the midst of the throne, and round about the throne, were four living~
 creatures, full of eyes before and behind.
@@ -48,7 +48,7 @@ R. While as the work of God was in doing. Alleluia, Alleluia, Alleluia.
 R. While as the work of God was in doing. Alleluia, Alleluia, Alleluia.
 
 [Lectio3]
-!Apoc 4:9-11
+!Rev 4:9-11
 9 And when those living creatures gave glory, and honour, and benediction to him~
 that sitteth on the throne, who liveth for ever and ever;
 10 The four and twenty ancients fell down before him that sitteth on the throne,~

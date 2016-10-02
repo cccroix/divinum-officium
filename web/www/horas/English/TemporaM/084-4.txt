@@ -1,6 +1,6 @@
 [Lectio1]
 From the Book of Ecclesiasticus
-!Eccl 3:22-26
+!Sir 3:22-26
 22 Seek not the things that are too high for thee, and search not into things~
 above thy ability: but the things that God hath commanded thee, think on them~
 always, and in many of his works be not curious.
@@ -16,7 +16,7 @@ in vanity.
 @TemporaM/081-0:Responsory1
 
 [Lectio2]
-!Eccl 3:27-30
+!Sir 3:27-30
 27 A hard heart shall fear evil at the last: and he that loveth danger shall~
 perish in it.
 28 A heart that goeth two ways shall not have success, and the perverse of heart~
@@ -30,7 +30,7 @@ wickedness shall take root in them, and it shall not be perceived.
 @TemporaM/081-0:Responsory2
 
 [Lectio3]
-!Eccl 3:31-34
+!Sir 3:31-34
 31 The heart of the wise is understood in wisdom, and a good ear will hear~
 wisdom with all desire.
 32 A wise heart, and which hath understanding, will abstain from sins, and in~

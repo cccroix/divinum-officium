@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the letter of St. Paul the Apostle to Philemon
-!Philem 1:1-6
+!Phlm 1:1-6
 1 Paul, a prisoner of Christ Jesus, and Timothy, a brother: to Philemon, our beloved and fellow labourer;
 2 And to Appia, our dearest sister, and to Archippus, our fellow soldier, and to the church which is in thy house:
 3 Grace to you and peace from God our Father, and from the Lord Jesus Christ.
@@ -18,7 +18,7 @@ Lesson from the letter of St. Paul the Apostle to Philemon
 @Tempora/Epi2-6:Responsory1
 
 [Lectio2]
-!Philem 1:7-11
+!Phlm 1:7-11
 7 For I have had great joy and consolation in thy charity, because the bowels of the saints have been refreshed by thee, brother.
 8 Wherefore though I have much confidence in Christ Jesus, to command thee that which is to the purpose:
 9 For charity sake I rather beseech, whereas thou art such a one, as Paul an old man, and now a prisoner also of Jesus Christ.
@@ -29,7 +29,7 @@ Lesson from the letter of St. Paul the Apostle to Philemon
 @Tempora/Epi2-6:Responsory2
 
 [Lectio3]
-!Philem 1:12-19
+!Phlm 1:12-19
 12 And do thou, therefore, receive him as my own bowels.
 13 Whom I would have retained with me, that in thy stead he might have ministered to me in the bands of the gospel:
 14 But without thy counsel I would do nothing: that thy good deed might not be as it were of necessity, but voluntary.

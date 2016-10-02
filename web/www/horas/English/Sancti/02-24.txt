@@ -16,7 +16,7 @@ $Per Dominum
 
 [Lectio1]
 From the Acts of Apostles
-!Act 1:15-18
+!Acts 1:15-18
 15 In those days Peter rising up in the midst of the brethren, said: now the~
 number of persons together was about an hundred and twenty:
 16 Men, brethren, the scripture must needs be fulfilled, which the Holy Ghost~
@@ -27,7 +27,7 @@ that apprehended Jesus:
 hanged, burst asunder in the midst: and all his bowels gushed out.
 
 [Lectio2]
-!Act 1:19-22
+!Acts 1:19-22
 19 And it became known to all the inhabitants of Jerusalem: so that the same~
 field was called in their tongue, Haceldama, that is to say, The field of blood.
 20 For it is written in the book of Psalms: Let their habitation become desolate,~
@@ -38,7 +38,7 @@ Jesus came in and went out among us,
 from us, one of these must be made a witness with us of his resurrection.
 
 [Lectio3]
-!Act 1:23-26
+!Acts 1:23-26
 23 And they appointed two, Joseph, called Barsabas, who was surnamed Justus, and~
 Matthias.
 24 And praying, they said: Thou, Lord, who knowest the hearts of all men, shew~
@@ -97,7 +97,7 @@ baptizing them in the Name of the Father, and of the Son, and of the Holy Ghost.
 
 [Lectio7]
 From the holy Gospel according to Matthew
-!Matth 11:25-30
+!Matt 11:25-30
 At that time, Jesus answered and said: I confess to thee, O Father, Lord of~
 heaven and earth, because thou hast hid these things from the wise and prudent,~
 and hast revealed them to the little ones. And so on.

@@ -14,7 +14,7 @@ Doxology=Asc
 
 [Lectio1]
 Lesson from the letter of St Paul the Apostle to the Ephesians
-!Ephes 4:1-8
+!Eph 4:1-8
 1 I therefore, a prisoner in the Lord, beseech you that you walk worthy of the vocation in which you are called,
 2 With all humility and mildness, with patience, supporting one another in charity.
 3 Careful to keep the unity of the Spirit in the bond of peace.
@@ -28,7 +28,7 @@ Lesson from the letter of St Paul the Apostle to the Ephesians
 @Tempora/Pasc5-4:Responsory1
 
 [Lectio2]
-!Ephes 4:9-14
+!Eph 4:9-14
 9 Now that he ascended, what is it, but because he also descended first into the lower parts of the earth?
 10 He that descended is the same also that ascended above all the heavens, that he might fill all things.
 11 And he gave some apostles, and some prophets, and other some evangelists, and other some pastors and doctors, 
@@ -40,7 +40,7 @@ Lesson from the letter of St Paul the Apostle to the Ephesians
 @Tempora/Pasc5-4:Responsory2
 
 [Lectio3]
-!Ephes 4:15-21
+!Eph 4:15-21
 15 But doing the truth in charity, we may in all things grow up in him who is the head, even Christ:
 16 From whom the whole body, being compacted and fitly joined together, by what every joint supplieth, according to the operation in the measure of every part, maketh increase of the body, unto the edifying of itself in charity.
 17 This then I say and testify in the Lord: That henceforward you walk not as also the Gentiles walk in the vanity of their mind,
@@ -67,7 +67,7 @@ Father. Farther, if a man be given over to this soul-slaying delusion of believi
 
 [Lectio7]
 From the Holy Gospel according to Mark
-!Marc 16:14-20
+!Mark 16:14-20
 At that time Jesus appeared unto the eleven disciples as they sat at meat, and upbraided them with their unbelief and hardness of heart because they believed not them which had seen Him after He was risen. And so on.
 _
 Homily by Pope St Gregory the Great.

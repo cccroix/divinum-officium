@@ -8,7 +8,7 @@ R. And let there descend upon us thy mercy.
 
 [Lectio1]
 From the first book of the Macchabees
-!1 Mach 9:1-6
+!1 Mac 9:1-6
 1 In the mean time when Demetrius heard that Nicanor and his army were fallen in~
 battle, he sent again Bacchides and Alcimus into Judea; and the right wing of~
 his army with them.
@@ -29,7 +29,7 @@ remained of them no more than eight hundred men.
 @TemporaM/101-0:Responsory1
 
 [Lectio2]
-!1 Mach 9:7-11
+!1 Mac 9:7-11
 7 And Judas saw that his army slipped away, and the battle pressed upon him, and~
 his heart was cast down: because he had not time to gather them together, and he~
 was discouraged.
@@ -49,7 +49,7 @@ went before the army, and they that were in the front were all men of valour.
 @TemporaM/101-0:Responsory2
 
 [Lectio3]
-!1 Mach 9:12-20
+!1 Mac 9:12-20
 12 And Bacchides was in the right wing, and the legion drew near on two sides,~
 and they sounded the trumpets:
 13 And they also were on Judas' side, even they also cried out, and the earth~

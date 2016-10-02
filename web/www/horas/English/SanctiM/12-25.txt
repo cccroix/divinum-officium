@@ -16,7 +16,7 @@ Know ye that the kingdom * of God is at hand Amen I say unto you, it will not ta
 Lift up your heads * behold, your redemption draweth nigh.
 
 [Capitulum Vespera]
-!Tit 3:4-5
+!Titus 3:4-5
 v. But when the goodness and kindness of God our Savior appeared:Not by the~
 works of justice, which we have done, but according to his mercy, he saved us
 $Deo gratias
@@ -110,7 +110,7 @@ V. He shall cry unto Me, alleluia.
 R. Thou art My Father, alleluia.
 
 [Lectio1]
-!Isai 9:1-6
+!Isa 9:1-6
 1 At the first time the land of Zabulon, and the land of Nephtali was lightly~
 touched: and at the last the way of the sea beyond the Jordan of the Galilee of~
 the Gentiles was heavily loaded.
@@ -141,7 +141,7 @@ that He might bring back to heaven man who was lost. There is joy among the~
 hosts of Angels, because eternal salvation hath appeared unto men.
 
 [Lectio2]
-!Isai 40:1-8
+!Isa 40:1-8
 1 BE comforted, be comforted, my people, saith your God.
 2 Speak ye to the heart of Jerusalem, and call to her: for her evil is come to~
 an end, her iniquity is forgiven: she hath received of the hand of the Lord~
@@ -167,7 +167,7 @@ of everlasting joy.
 R. This day throughout the whole world the skies drop down sweetness.
 
 [Lectio3]
-!Isai 52:1-6
+!Isa 52:1-6
 1 ARISE, arise, put on thy strength, O Sion, put on the garments of thy glory, O~
 Jerusalem, the city of the Holy One: for henceforth the uncircumcised, and~
 unclean shall no more pass through thee.
@@ -273,7 +273,7 @@ Christ That sent the Gospel preacher, In his meaning be our Teacher.
 
 [Lectio7]
 From the holy Gospel according to Luke
-!Luc 2:1-14
+!Luke 2:1-14
 In that time Jesus said to his disciples: And it came to pass, that in those~
 days there went out a decree from Caesar Augustus, that the whole world should~
 be enrolled. This enrolling was first made by Cyrinus, the governor of Syria.~
@@ -308,7 +308,7 @@ Virgin.
 
 [Lectio8]
 From the holy Gospel according to Luke
-!Luc 2:15-20
+!Luke 2:15-20
 In that time the shepherds said one to another: Let us go over to Bethlehem, and~
 let us see this word that is come to pass, which the Lord hath showed to us. And~
 so on
@@ -335,7 +335,7 @@ R. Hoc erat in principio apud Deum
 
 [Lectio9]
 From the holy Gospel according to John.
-!Joann 1:1-14
+!John 1:1-14
 In that time Jesus said to his disciples: In the beginning was the Word, and the~
 Word was with God, and the Word was God. The same was in the beginning with God.~
 And so on.
@@ -373,7 +373,7 @@ There was with the Angel a multitude of the heavenly host, * praising God, and s
 Unto us this day a little Child is born, * and His name shall be called the Mighty God, alleluia, alleluia.
 
 [Capitulum Laudes]
-!Hebr 1:1-2
+!Heb 1:1-2
 v. God, who, at sundry times and in divers manners, spoke in times past to the~
 fathers by the prophets, last of all,In these days hath spoken to us by his Son,~
 whom he hath appointed heir of all things, by whom also he made the world.
@@ -437,13 +437,13 @@ Glory be to God in the highest; * and on earth, peace to men of good will,~
 alleluia, alleluia.
 
 [Lectio Prima]
-!Hebr 1:11-12
+!Heb 1:11-12
 v. They shall perish, but thou shalt continue: and they shall all grow old as a~
 garment. And as a vesture shalt thou change them, and they shall be changed: but~
 thou art the selfsame, and thy years shall not fail.
 
 [Capitulum Tertia]
-!Hebr 1:1-2
+!Heb 1:1-2
 v. God, who, at sundry times and in divers manners, spoke in times past to the~
 fathers by the prophets, last of all,In these days hath spoken to us by his Son,~
 whom he hath appointed heir of all things, by whom also he made the world.
@@ -454,7 +454,7 @@ V. The Word was made flesh. Alleluia, Alleluia.
 R. And dwelt among us.
 
 [Capitulum Sexta]
-!Hebr 1:10
+!Heb 1:10
 v. And: Thou in the beginning, O Lord, didst found the earth: and the works of~
 thy hands are the heavens.
 $Deo gratias
@@ -464,7 +464,7 @@ V. He shall cry unto Me, Alleluia.
 R. Thou art My Father. Alleluia.
 
 [Capitulum Nona]
-!Hebr 1:11-12
+!Heb 1:11-12
 v. They shall perish, but thou shalt continue: and they shall all grow old as a~
 garment. And as a vesture shalt thou change them, and they shall be changed: but~
 thou art the selfsame, and thy years shall not fail.
@@ -481,7 +481,7 @@ Unto the upright there ariseth light in the darkness * the Lord is gracious, and
 With the Lord there is mercy, * and with Him is plenteous redemption;;129
 
 [Capitulum Vespera 3]
-!Hebr 1:1-2
+!Heb 1:1-2
 v. God, who, at sundry times and in divers manners, spoke in times past to the~
 fathers by the prophets, last of all,In these days hath spoken to us by his Son,~
 whom he hath appointed heir of all things, by whom also he made the world.
@@ -505,7 +505,7 @@ righteous are glad and say Glory to God in the highest. Alleluia.
 
 [LectioE]
 v. The beginning of the HOly Gospel according to Matthew
-!Matth 1:1-16
+!Matt 1:1-16
 1:1 THE book of the generation of Jesus Christ, the son of David, the son of~
 Abraham:
 1:2 Abraham begot Isaac. And Isaac begot Jacob. And Jacob begot Judas and his~

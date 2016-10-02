@@ -6,7 +6,7 @@ Antiphonas horas
 
 [Lectio1]
 From the Prophet Jeremias.
-!Jerem 11:15-20
+!Jer 11:15-20
 15 What is the meaning that my beloved hath wrought muck wickedness in my house?~
 shall the holy flesh take away from thee thy crimes, in which thou hast boasted?
 16 The Lord called thy name, a plentiful olive tree, fair, fruitful, and~
@@ -35,7 +35,7 @@ R. Let them stumble into everlasting confusion, that I may see thy vengeance~
 upon them, for unto thee have I opened my cause.
 
 [Lectio2]
-!Jerem 12:1-4
+!Jer 12:1-4
 1 Thou indeed, O Lord, art just, if I plead with thee, but yet I will speak what~
 is just to thee: Why doth the way of the wicked prosper: why is it well with all~
 them that transgress, and do wickedly?
@@ -57,7 +57,7 @@ V. Draw nigh unto my soul, and redeem it; deliver me, because of mine enemies.
 R. For the zeal of thine house hath eaten me up.
 
 [Lectio3]
-!Jerem 12:7-11
+!Jer 12:7-11
 7 I have forsaken my house, I have left my inheritance: I have given my dear~
 soul into the land of her enemies.
 8 My inheritance is become to me as a lion in the wood: is hath cried out~

@@ -15,7 +15,7 @@ He lifted up His Hands, and blessed them, * and was carried up into heaven. Alle
 While they beheld, * He was taken up, and a cloud received Him in heaven. Alleluia;;112
 
 [Capitulum Vespera]
-!Act 1:1-2
+!Acts 1:1-2
 v. The former treatise I made, O Theophilus, of all things which Jesus began to~
 do and to teach, Until the day on which, giving commandments by the Holy Ghost~
 to the apostles whom he had chosen, he was taken up.
@@ -137,7 +137,7 @@ R. To My God and your God Alleluia.
 
 [Lectio1]
 Lesson from the Acts of Apostles
-!Act 1:1-5
+!Acts 1:1-5
 1 The former treatise I made, O Theophilus, of all things which Jesus began to~
 do and to teach,
 2 Until the day on which, giving commandments by the Holy Ghost to the apostles~
@@ -161,7 +161,7 @@ R. And while they beheld, He was taken up, and a cloud received Him out of their
 sight. Alleluia.
 
 [Lectio2]
-!Act 1:6-9
+!Acts 1:6-9
 6 They therefore who were come together, asked him, saying: Lord, wilt thou at~
 this time restore again the kingdom to Israel?
 7 But he said to them: It is not for you to know the times or moments, which the~
@@ -182,7 +182,7 @@ R. His loveliness is in the clouds of heaven, and His Name endureth for ever.~
 Alleluia.
 
 [Lectio3]
-!Act 1:10-14
+!Acts 1:10-14
 10 And while they were beholding him going up to heaven, behold two men stood by~
 them in white garments.
 11 Who also said: Ye men of Galilee, why stand you looking up to heaven? This~
@@ -272,7 +272,7 @@ R. He gave gifts unto men Alleluia, Alleluia, Alleluia.
 
 [Lectio7]
 From the Holy Gospel according to Mark
-!Marc 16:14-20
+!Mark 16:14-20
 At that time Jesus appeared unto the eleven disciples as they sat at meat, and~
 upbraided them with their unbelief and hardness of heart because they believed~
 not them which had seen Him after He was risen. And so on.
@@ -349,7 +349,7 @@ Extol the King of kings, * and ascribe praise to God. Alleluia.
 While they beheld, * He was taken up, and a cloud received Him in heaven. Alleluia.
 
 [Capitulum Laudes]
-!Act 1:1-2
+!Acts 1:1-2
 v. The former treatise I made, O Theophilus, of all things which Jesus began to~
 do and to teach, Until the day on which, giving commandments by the Holy Ghost~
 to the apostles whom he had chosen, he was taken up.
@@ -379,12 +379,12 @@ may also in heart and mind thither ascend, and with Him continually dwell
 $Per eumdem
 
 [Lectio Prima]
-!Act 1:11
+!Acts 1:11
 Ye men of Galilee, why stand you looking up to heaven? This Jesus who is taken~
 up from you into heaven, shall so come, as you have seen him going into heaven.
 
 [Capitulum Tertia]
-!Act 1:1-2
+!Acts 1:1-2
 v. The former treatise I made, O Theophilus, of all things which Jesus began to~
 do and to teach, Until the day on which, giving commandments by the Holy Ghost~
 to the apostles whom he had chosen, he was taken up.
@@ -395,7 +395,7 @@ V. God is gone up with a shout Alleluia, alleluia.
 R. And the Lord with the sound of a trumpet. Alleluia, alleluia. 
 
 [Capitulum Sexta]
-!Act 1:4-5
+!Acts 1:4-5
 v. And eating together with them, he commanded them, that they should not depart~
 from Jerusalem, but should wait for the promise of the Father, which you have~
 heard (saith he) by my mouth. For John indeed baptized with water, but you shall~
@@ -407,7 +407,7 @@ V. When Christ ascended up on high Alleluia.
 R. He led captivity captive Alleluia.
 
 [Capitulum Nona]
-!Act 1:11
+!Acts 1:11
 v. Ye men of Galilee, why stand you looking up to heaven? This Jesus who is~
 taken up from you into heaven, shall so come, as you have seen him going into~
 heaven.
@@ -430,7 +430,7 @@ Promise of the Father, even the Spirit of truth. Alleluia.
 
 [LectioE]
 Continuation of the Holy Gospel according to Mark
-!Marc 16:14-20
+!Mark 16:14-20
 16:14 At length he appeared to the eleven as they were at table: and he upbraided them with their incredulity and hardness of heart, because they did not believe them who had seen him after he was risen again.
 16:15 And he said to them: Go ye into the whole world, and preach the gospel to every creature.
 16:16 He that believeth and is baptized, shall be saved: but he that believeth not shall be condemned.

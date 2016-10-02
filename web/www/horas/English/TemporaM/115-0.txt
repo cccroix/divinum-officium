@@ -8,7 +8,7 @@ R. And let there descend upon us thy mercy.
 
 [Lectio1]
 Here beginneth Prophet Micheas
-!Mich 1:1-3
+!Mic 1:1-3
 1 The word of the Lord that came to Micheas the Morasthite, in the days of~
 Joathan, Achaz, and Ezechias, kings of Juda: which he saw concerning Samaria and~
 Jerusalem.
@@ -21,7 +21,7 @@ and will tread upon the high places of the earth.
 @TemporaM/Pent01-0:Responsory1
 
 [Lectio2]
-!Mich 1:4-6
+!Mic 1:4-6
 4 And the mountains shall be melted under him: and the valleys shall be cleft,~
 as wax before the fire, and as waters that run down a steep place.
 5 For the wickedness of Jacob is all this, and for the sins of the house of~
@@ -35,7 +35,7 @@ her foundations bare.
 @TemporaM/111-0:Responsory2
 
 [Lectio3]
-!Mich 1:7-9
+!Mic 1:7-9
 7 And all her graven things shall be cut in pieces, and all her wages shall be~
 burnt with fire, and I will bring to destruction all her idols: for they were~
 gathered together of the hire of a harlot, and unto the hire of a harlot they~

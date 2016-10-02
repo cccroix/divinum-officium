@@ -5,7 +5,7 @@ Feria Sexta infra Hebdomadam II in Quadragesima;;Feria major;;2
 
 [Lectio1]
 From the holy Gospel according to Matthew
-!Matth 21:33-46
+!Matt 21:33-46
 In that time Jesus said to the multitude of Jews and the chief priests: Hear ye~
 another parable. There was a man an householder, who planted a vineyard, and~
 made a hedge round about it. And so on.
@@ -76,7 +76,7 @@ $Per Dominum
 
 [LectioE]
 v. Continuation of the Holy Gospel according to Matthew
-!Matth 21:33-46
+!Matt 21:33-46
 21:33 Hear ye another parable. There was a man an householder, who planted a vineyard, and made a hedge round about it, and dug in it a press, and built a tower, and let it out to husbandmen; and went into a strange country.
 21:34 And when the time of the fruits drew nigh, he sent his servants to the husbandmen that they might receive the fruits thereof.
 21:35 And the husbandmen laying hands on his servants, beat one, and killed another, and stoned another.

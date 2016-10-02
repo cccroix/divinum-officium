@@ -3,7 +3,7 @@ Wisdom * crieth in the streets: If any man love wisdom, let him come unto me, an
 
 [Lectio1]
 Lesson from the book of Ecclesiasticus
-!Eccl 1:1-5
+!Sir 1:1-5
 1 All wisdom is from the Lord God, and hath been always with him, and is before all time.
 2 Who hath numbered the sand of the sea, and the drops of rain, and the days of the world? Who hath measured the height of heaven, and the breadth of the earth, and the depth of the abyss?
 3 Who hath searched out the wisdom of God that goeth before all things?
@@ -14,7 +14,7 @@ Lesson from the book of Ecclesiasticus
 @Tempora/081-0:Responsory1
 
 [Lectio2]
-!Eccl 1:6-10
+!Sir 1:6-10
 6 To whom hath the root of wisdom been revealed, and who hath known her wise counsels?
 7 To whom hath the discipline of wisdom been revealed and made manifest? and who hath understood the multiplicity of her steps?
 8 There is one most high Creator Almighty, and a powerful king, and greatly to be feared, who sitteth upon his throne, and is the God of dominion.
@@ -25,7 +25,7 @@ Lesson from the book of Ecclesiasticus
 @Tempora/081-0:Responsory2
 
 [Lectio3]
-!Eccl 1:11-16
+!Sir 1:11-16
 11 The fear of the Lord is honour, and glory, and gladness, and a crown of joy.
 12 The fear of the Lord shall delight the heart, and shall give joy, and gladness, and length of days.
 13 With him that feareth the Lord, it shall go well in the latter end, and in the day of his death he shall be blessed.

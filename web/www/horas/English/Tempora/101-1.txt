@@ -1,6 +1,6 @@
 [Lectio1]
 Lesson from the first book of Machabees
-!1 Mach 1:17-20
+!1 Mac 1:17-20
 17 And the kingdom was established before Antiochus, and he had a mind to reign over the land of Egypt, that he might reign over two kingdoms.
 18 And he entered into Egypt with a great multitude, with chariots and elephants, and horsemen, and a great number of ships:
 19 And he made war against Ptolemee king of Egypt, but Ptolemee was afraid at his presence, and fled, and many were wounded unto death.
@@ -13,7 +13,7 @@ V. Arm yourselves, ye valiant men, and be in readiness for it is better for us t
 R. As the Will is in heaven, so let it be.
 
 [Lectio2]
-!1 Mach 1:21-23
+!1 Mac 1:21-23
 21 And after Antiochus had ravaged Egypt in the hundred and forty-third year, he returned and went up against Israel.
 22 And he went up to Jerusalem with a great multitude.
 23 And he proudly entered into the sanctuary, and took away the golden altar, and the candlestick of light, and all the vessels thereof, and the table of proposition, and the pouring vessels, and the vials, and the little mortars of gold, and the veil, and the crowns, and the golden ornament that was before the temple: and he broke them all in pieces.
@@ -25,7 +25,7 @@ V. They praised the Lord with Psalms and thanksgiving.
 R. And there was very great gladness among the people.
 
 [Lectio3]
-!1 Mach 1:24-29
+!1 Mac 1:24-29
 24 And he took the silver and gold, and the precious vessels: and he took the hidden treasures which he found: and when he had taken all away he departed into his own country.
 25 And he made a great slaughter of men, and spoke very proudly.
 26 And there was great mourning in Israel, and in every place where they were.

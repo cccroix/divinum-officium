@@ -15,7 +15,7 @@ O all ye Priests of God, * bless ye the Lord O all ye servants of the Lord, sing
 Good and faithful servant, * enter thou into the joy of thy Lord.;;116
 
 [Capitulum Vespera]
-!Eccl 44:16-17
+!Sir 44:16-17
 v. Behold an high priest, who in his days pleased God, and was found righteous, and in the time of wrath he was made a propitiation.
 $Deo gratias
 
@@ -125,7 +125,7 @@ R. Enter thou into the joy of thy Lord.
 
 [Lectio2]
 From the letter of St. Paul the Apostle to Titus
-!Tit 1:7-11
+!Titus 1:7-11
 7 For a bishop must be without crime, as the steward of God: not proud, not subject to anger, not given to wine, no striker, not greedy of filthy lucre:
 8 But given to hospitality, gentle, sober, just, holy, continent:
 9 Embracing that faithful word which is according to doctrine, that he may be able to exhort in sound doctrine, and to convince the gainsayers.
@@ -139,7 +139,7 @@ V. He hath made him a blessing unto all nations, and hath established His covena
 R. Therefore the Lord assured him by an oath that He would multiply his seed among His people
 
 [Lectio3]
-!Tit 2:1-8
+!Titus 2:1-8
 1 But speak thou the things that become sound doctrine:
 2 That the aged men be sober, chaste, prudent, sound in faith, in love, in patience.
 3 The aged women, in like manner, in holy attire, not false accusers, not given to much wine, teaching well:
@@ -191,7 +191,7 @@ R. May he pray for all people, that their sins may be forgiven unto them
 
 [Lectio7]
 From the Holy Gospel according to Matthew
-!Matth 25:14-23
+!Matt 25:14-23
 At that time Jesus spake unto His disciples this parable A man, travelling into a far country, called his own servants, and delivered unto them his goods. And so on.
 _
 Homily by Pope St Gregory (the Great.)
@@ -227,7 +227,7 @@ O all ye Priests of God, * bless ye the Lord O all ye servants of the Lord, sing
 Good and faithful servant, * enter thou into the joy of thy Lord.
 
 [Capitulum Laudes]
-!Eccl 44:16-17
+!Sir 44:16-17
 v. Behold an high priest, who in his days pleased God, and was found righteous, and in the time of wrath he was made a propitiation.
 $Deo gratias
 
@@ -286,11 +286,11 @@ Look forgivingly on thy flock, Eternal Shepherd, and keep it in thy constant pro
 $Per Dominum
 
 [Lectio Prima]
-!Eccl 45:19-20
+!Sir 45:19-20
 To execute the office of the priesthood, and to have praise, and to glorify his people in his name. He chose him out of all men living, to offer sacrifice to God, incense, and a good savour.
 
 [Capitulum Tertia]
-!Eccl 44:16-17
+!Sir 44:16-17
 v. Behold an high priest, who in his days pleased God, and was found righteous, and in the time of wrath he was made a propitiation.
 $Deo gratias
 
@@ -306,7 +306,7 @@ V. The Lord hath chosen him for a Priest unto Himself.
 R. To offer up unto Him the sacrifice of praise.
 
 [Capitulum Sexta]
-!Eccl 44:20; 44:22
+!Sir 44:20; 44:22
 v. There was not found the like to him in glory, who kept the law of the most High, and was in covenant with him. Therefore by an oath he gave him glory in his posterity, that he should increase in his people.
 $Deo gratias
 
@@ -322,7 +322,7 @@ V. Thou art a Priest for ever.
 R. After the order of Melchisedek.
 
 [Capitulum Nona]
-!Eccl 45:19-20
+!Sir 45:19-20
 v. To execute the office of the priesthood, and to have praise, and to glorify his people in his name. He chose him out of all men living, to offer sacrifice to God, incense, and a good savour.
 $Deo gratias
 
@@ -349,7 +349,7 @@ R. And showed him the kingdom of God.
 
 [Lectio11]
 Lesson from the book of Ecclesiasticus
-!Eccl 44:1-5
+!Sir 44:1-5
 1 Let us now praise men of renown, and our fathers in their generation.
 2 The Lord hath wrought great glory through his magnificence from the beginning.
 3 Such as have borne rule in their dominions, men of great power, and endued with their wisdom, shewing forth in the prophets the dignity of prophets,
@@ -357,14 +357,14 @@ Lesson from the book of Ecclesiasticus
 5 Such as by their skill sought out musical tunes, and published canticles of the scriptures.
 
 [Lectio21]
-!Eccl 44:6-9
+!Sir 44:6-9
 6 Rich men in virtue, studying beautifulness: living at peace in their houses.
 7 All these have gained glory in their generations, and were praised in their days.
 8 They that were born of them have left a name behind them, that their praises might be related:
 9 And there are some, of whom there is no memorial: who are perished, as if they had never been: and are become as if they had never been born, and their children with them.
 
 [Lectio31]
-!Eccl 44:10-15
+!Sir 44:10-15
 10 But these were men of mercy, whose godly deeds have not failed:
 11 Good things continue with their seed,
 12 Their posterity are a holy inheritance, and their seed hath stood in the covenants.
@@ -374,7 +374,7 @@ Lesson from the book of Ecclesiasticus
 
 [Lectio71]
 From the Holy Gospel according to Matthew
-!Matth 16:13-19
+!Matt 16:13-19
 At that time: When Jesus came into the coasts of Caesarea Philippi, he asked his disciples, saying, Whom do men say that I the Son of man am? And so on.
 _
 A Homily by St. Leo the Pope
@@ -390,7 +390,7 @@ When, therefore, we address our exhortations to your godly ears, believe ye that
 
 [Lectio73]
 The Lesson is taken from the Holy Gospel according to Matthew
-!Matth 19:27-29
+!Matt 19:27-29
 At that time: Peter said unto Jesus: Behold, we have forsaken all, and followed Thee: what shall we have therefore? And so on.
 _
 Homily by the Venerable Bede, Priest (at Jarrow and Doctor of the Church).

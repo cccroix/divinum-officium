@@ -1,6 +1,6 @@
 [Lectio1]
 From the Book Of Ecclesiaticus
-!Eccl 21:1-5
+!Sir 21:1-5
 1 My son, hast thou sinned? do so no more: but for thy former sins also pray~
 that they may be forgiven thee.
 2 Flee from sins as from the face of a serpent: for if thou comest near them,~
@@ -16,7 +16,7 @@ out.
 @TemporaM/081-0:Responsory4
 
 [Lectio2]
-!Eccl 21:6-10
+!Sir 21:6-10
 6 The prayer out of the mouth of the poor shall reach the ears of God, and~
 judgment shall come for him speedily.
 7 He that hateth to be reproved walketh in the trace of a sinner: and he that~
@@ -32,7 +32,7 @@ is a flame of fire.
 @TemporaM/081-0:Responsory5
 
 [Lectio3]
-!Eccl 21:11-16
+!Sir 21:11-16
 11 The way of sinners is made plain with stones, and in their end is hell, and~
 darkness, and pains.
 12 He that keepeth justice shall get the understanding thereof.

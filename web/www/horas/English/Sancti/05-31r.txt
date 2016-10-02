@@ -16,7 +16,7 @@ Antiphonas horas
 Psalmi Dominica
 
 [Capitulum Vespera]
-!Eccl 24:5; 24:7
+!Sir 24:5; 24:7
 v. I came out of the mouth of the most High, the firstborn before all creatures: I dwelt in the highest places, and my throne is in a pillar of a cloud.
 $Deo gratias
 
@@ -80,7 +80,7 @@ R. Because he who is mighty hath done great things for me. (Alleluia.)
 
 [Lectio1]
 Lesson from the book of Ecclesiasticus
-!Eccl 24:5-11
+!Sir 24:5-11
 5 I came out of the mouth of the most High, the firstborn before all creatures:
 6 I made that in the heavens there should rise light that never faileth, and as a cloud I covered all the earth:
 7 I dwelt in the highest places, and my throne is in a pillar of a cloud.
@@ -96,7 +96,7 @@ V. Hail, Mary, full of grace, the Lord is with thee.
 R. The things promised thee have been accomplished in thee. (Alleluia.) 
 
 [Lectio2]
-!Eccl 24:14-16
+!Sir 24:14-16
 14 From the beginning, and before the world, was I created, and unto the world to come I shall not cease to be, and in the holy dwelling place I have ministered before him.
 15 And so was I established in Sion, and in the holy city likewise I rested, and my power was in Jerusalem.
 16 And I took root in an honourable people, and in the portion of my God his inheritance, and my abode is in the full assembly of saints.
@@ -108,7 +108,7 @@ V. Let us proclaim the glory of our Queen.
 R. For with Christ she reigneth forever. (Alleluia.) 
 
 [Lectio3]
-!Eccl 24:24-30
+!Sir 24:24-30
 24 I am the mother of fair love, and of fear, and of knowledge, and of holy hope.
 25 In me is all grace of the way and of the truth, in me is all hope of life and of virtue.
 26 Come over to me, all ye that desire me, and be filled with my fruits.
@@ -160,7 +160,7 @@ R. A woman clothed with the sun, and the moon was under her feet, and upon her h
 
 [Lectio7]
 From the Holy Gospel according to Luke
-!Luc 1:26-33
+!Luke 1:26-33
 In that time: In the sixth month, the angel Gabriel was sent from God into a city of Galilee, called Nazareth, to a virgin espoused to a man whose name was Joseph, of the house of David; and the virgin's name was Mary. And so on.
 _
 Homily of St. Bonaventure, Bishop
@@ -189,7 +189,7 @@ Mary the Queen is also the distributrix of grace. This is indicated in the book 
 &teDeum
 
 [Capitulum Laudes]
-!Eccl 24:5; 24:7
+!Sir 24:5; 24:7
 v. I came out of the mouth of the most High, the firstborn before all creatures: I dwelt in the highest places, and my throne is in a pillar of a cloud.
 $Deo gratias
 
@@ -204,11 +204,11 @@ O worthy Queen of the world, * Mary ever-Virgin, intercede for our peace and sal
 @Sancti/05-31:Commemoratio 2
 
 [Lectio Prima]
-!Eccl 24:30-31
+!Sir 24:30-31
 v. He that hearkeneth to me, shall not be confounded: and they that work by me, shall not sin.They that explain me shall have life everlasting.
 
 [Capitulum Tertia]
-!Eccl 24:5; 24:7
+!Sir 24:5; 24:7
 v. I came out of the mouth of the most High, the firstborn before all creatures: I dwelt in the highest places, and my throne is in a pillar of a cloud.
 $Deo gratias
 
@@ -224,7 +224,7 @@ V. There stood by the cross of Jesus his Mother. (Alleluia.)
 R. Sharing in his passion, the Queen of the whole world. (Alleluia.)
 
 [Capitulum Sexta]
-!Eccl 24, 9-11
+!Sir 24, 9-11
 v. Over every people and nation I held sway. Among all these I sought a resting place; in whose inheritance should I abide?
 $Deo gratias
 
@@ -240,7 +240,7 @@ V. All generations shall call me blessed. (Alleluia.)
 R. Because he that is mighty hath done great things to me. (Alleluia.)
 
 [Capitulum Nona]
-!Eccl 24:30-31
+!Sir 24:30-31
 v. He that hearkeneth to me, shall not be confounded: and they that work by me, shall not sin. They that explain me shall have life everlasting.
 $Deo gratias
 

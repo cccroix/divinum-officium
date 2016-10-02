@@ -5,7 +5,7 @@ Feria Quarta infra Hebdomadam IV in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Continuation of the Holy Gospel according to John
-!Joann 9:1-38
+!John 9:1-38
 In that time Jesus passing by, saw a man, who was blind from his birth. And so~
 on.
 _
@@ -90,7 +90,7 @@ $Per Dominum
 
 [LectioE]
 Continuation of the Holy Gospel according to John
-!Joann 9:1-38
+!John 9:1-38
 9:1 AND Jesus passing by, saw a man, who was blind from his birth:
 9:2 And his disciples asked him: Rabbi, who hath sinned, this man, or his parents, that he should be born blind?
 9:3 Jesus answered: Neither hath this man sinned, nor his parents; but that the works of God should be made manifest in him.

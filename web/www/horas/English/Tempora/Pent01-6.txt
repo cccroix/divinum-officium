@@ -11,7 +11,7 @@ Doxology Corp
 							
 [Lectio1]
 Lesson from the first book of Samuel
-!1 Reg 3:1-7
+!1 Sam 3:1-7
 1 Now the child Samuel ministered to the Lord before Heli, and the word of the Lord was precious in those days, there was no manifest vision.
 2 And it came to pass one day when Heli lay in his place, and his eyes were grown dim, that he could not see:
 3 Before the lamp of God went out, Samuel slept in the temple of the Lord, where the ark of God was.
@@ -24,7 +24,7 @@ Lesson from the first book of Samuel
 @Tempora/Pent01-3:Responsory1
 
 [Lectio2]
-!1 Reg 3:8-12
+!1 Sam 3:8-12
 8 And the Lord called Samuel again the third time. And he arose up and went to Heli.
 9 And said: Here am I: for thou didst call me. Then Heli understood that the Lord called the child, and he said to Samuel: Go, and sleep: and if he shall call thee any more, thou shalt say: Speak, Lord, for thy servant heareth. So Samuel went and slept in his place.
 10 And the Lord came and stood: and he called, as he had called the other times: Samuel, Samuel. And Samuel said: Speak, Lord, for thy servant heareth.
@@ -35,7 +35,7 @@ Lesson from the first book of Samuel
 @Tempora/Pent01-3:Responsory2
 
 [Lectio3]
-!1 Reg 3:15-20
+!1 Sam 3:15-20
 15 And Samuel slept till morning, and opened the doors of the house of the Lord. And Samuel feared to tell the vision to Heli.
 16 Then Heli called Samuel, and said: Samuel, my son. And he answered: Here am I.
 17 And he asked him: What is the word that the Lord hath spoken to thee? I beseech thee hide it not from me. May God do so and so to thee, and add so and so, if thou hide from me one word of all that were said to thee.
@@ -63,7 +63,7 @@ adored of Angels, at the right hand of the Eternal Power. Ah me, how many a way 
 
 [Lectio7]
 From the Holy Gospel according to John
-!Joann 6:56-59
+!John 6:56-59
 At that time, Jesus said unto the multitudes of the Jews: My Flesh is meat indeed and My Blood is drink indeed. And so on.
 _
 Homily by St. Augustine, Bishop of Hippo.

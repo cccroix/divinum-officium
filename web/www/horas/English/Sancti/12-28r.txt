@@ -47,7 +47,7 @@ Amen.
 
 [Lectio1]
 Lesson from the book of Jeremias
-!Jerem 31:15-17
+!Jer 31:15-17
 15 Thus saith the Lord: A voice was heard on high of lamentation, of mourning,~
 and weeping, of Rachel weeping for her children, and refusing to be comforted~
 for them, because they are not.
@@ -68,7 +68,7 @@ R. For they remained virgins; therefore are they kings before God, and the Lamb~
 of God is with them.
 
 [Lectio2]
-!Jerem 31:18-20
+!Jer 31:18-20
 18 Hearing I heard Ephraim when he went into captivity: thou hast chastised me,~
 and I was instructed, as a young bullock unaccustomed to the yoke. Convert me,~
 and I shall be converted, for thou art the Lord my God.
@@ -90,7 +90,7 @@ R. How long dost Thou not avenge our blood? And it was said unto them from God~
 Rest yet for a little season, until the number of your brethren be fulfilled.
 
 [Lectio3]
-!Jerem 31:21-23
+!Jer 31:21-23
 21 Set thee up a watchtower, make to thee bitterness: direct thy heart into the~
 right way, wherein thou hast walked: return, O virgin of Israel, return to these~
 thy cities.
@@ -165,7 +165,7 @@ These are they * which came out of great tribulation, and have washed their robe
 
 [Lectio7]
 From the Holy Gospel according to Matthew
-!Matth 2:13-18
+!Matt 2:13-18
 At that time, an angel of the Lord appeared in sleep to Joseph, saying: Arise,~
 and take the child and his mother, and fly into Egypt: and be there until I~
 shall tell thee. And so on.
@@ -223,7 +223,7 @@ In Rama was there a voice * heard, weeping and mourning, Rachel weeping for her 
 Under the throne of God * all the saints cry aloud: Avenge our blood, O our God!
 
 [Capitulum Laudes]
-!Apoc 14:1
+!Rev 14:1
 v. Lo, a lamb stood upon mount Sion, and with him an hundred forty-four thousand, having his name, and the name of his Father, written on their foreheads.
 $Deo gratias
 
@@ -259,17 +259,17 @@ follow the Lamb whithersoever he goeth.
 @Sancti/12-25:Octava
 
 [Capitulum Tertia]
-!Apoc 14:1
+!Rev 14:1
 v. Lo, a lamb stood upon mount Sion, and with him an hundred forty-four thousand, having his name, and the name of his Father, written on their foreheads.
 $Deo gratias
 
 [Capitulum Sexta]
-!Apoc 14:4
+!Rev 14:4
 v. These are they who were not defiled with women: for they are virgins. These follow the Lamb whithersoever he goeth.
 $Deo gratias
 
 [Capitulum Nona]
-!Apoc 14:4-5
+!Rev 14:4-5
 v. These were purchased from among men, the firstfruits to God and to the Lamb: And in their mouth there was found no lie; for they are without spot before the throne of God.
 $Deo gratias
 
@@ -281,7 +281,7 @@ With the Lord there is mercy, * and with Him is plenteous redemption.;;129
 Of the fruit of thy body * will I set upon thy throne.;;131
 
 [Capitulum Vespera]
-!Apoc 14:1
+!Rev 14:1
 v. Lo, a lamb stood upon mount Sion, and with him an hundred forty-four thousand, having his name, and the name of his Father, written on their foreheads.
 $Deo gratias
 

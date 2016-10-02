@@ -5,7 +5,7 @@ Feria Quinta infra Hebdomadam II in Quadragesima;;Feria major;;2
 
 [Lectio1]
 From the holy Gospel according to Luke
-!Luc 16:19-31
+!Luke 16:19-31
 In that time Jesus said to the pharisees: There was a certain rich man, who was~
 clothed in purple and fine linen; and feasted sumptuously every day. And so on.
 _
@@ -72,7 +72,7 @@ $Per Dominum
 
 [LectioE]
 v. Continuation of the Holy Gospel according to Luke
-!Luc 16:19-31
+!Luke 16:19-31
 16:19 There was a certain rich man, who was clothed in purple and fine linen; and feasted sumptuously every day.
 16:20 And there was a certain beggar, named Lazarus, who lay at his gate, full of sores,
 16:21 Desiring to be filled with the crumbs that fell from the rich man's table, and no one did give him; moreover the dogs came, and licked his sores.

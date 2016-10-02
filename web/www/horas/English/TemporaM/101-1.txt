@@ -1,6 +1,6 @@
 [Lectio1]
 From the first book of the Macchabees
-!1 Mach 1:17-20
+!1 Mac 1:17-20
 17 And the kingdom was established before Antiochus, and he had a mind to reign~
 over the land of Egypt, that he might reign over two kingdoms.
 18 And he entered into Egypt with a great multitude, with chariots and~
@@ -21,7 +21,7 @@ sanctuary.
 R. As the Will is in heaven, so let it be.
 
 [Lectio2]
-!1 Mach 1:21-23
+!1 Mac 1:21-23
 21 And after Antiochus had ravaged Egypt in the hundred and forty-third year,~
 he returned and went up against Israel.
 22 And he went up to Jerusalem with a great multitude.
@@ -39,7 +39,7 @@ V. They praised the Lord with Psalms and thanksgiving.
 R. And there was very great gladness among the people.
 
 [Lectio3]
-!1 Mach 1:24-29
+!1 Mac 1:24-29
 24 And he took the silver and gold, and the precious vessels: and he took the~
 hidden treasures which he found: and when he had taken all away he departed into~
 his own country.

@@ -9,14 +9,14 @@ $per Dominum
 
 [Lectio1]
 Lesson from the book of Ezekiel
-!Ezech 1:1-4
+!Ezek 1:1-4
 1 Now it came to pass in the thirtieth year, in the fourth month, on the fifth day of the month, when I was in the midst of the captives by the river Chobar, the heavens were opened, and I saw the visions of God.
 2 On the fifth day of the month, the same was the fifth year of the captivity of king Joachin,
 3 The word of the Lord came to Ezechiel the priest the son of Buzi in the land of the Chaldeans, by the river Chobar: and the hand of the Lord was there upon him.
 4 And I saw, and behold a whirlwind came out of the north: and a great cloud, and a fire infolding it, and brightness was about it: and out of the midst thereof, that is, out of the midst of the fire, as it were the resemblance of amber
 
 [Lectio2]
-!Ezech 1:5-9
+!Ezek 1:5-9
 5 And in the midst thereof the likeness of four living creatures: and this was their appearance: there was the likeness of a man in them.
 6 Every one had four faces, and every one four wings.
 7 Their feet were straight feet, and the sole of their foot was like the sole of a calf's foot, and they sparkled like the appearance of glowing brass.
@@ -24,7 +24,7 @@ Lesson from the book of Ezekiel
 9 And the wings of one were joined to the wings of another. They turned not when they went: but every one went straight forward.
 
 [Lectio3]
-!Ezech 1:10-12
+!Ezek 1:10-12
 10 And as for the likeness of their faces: there was the face of a man, and the face of a lion on the right side of all the four: and the face of an ox, on the left side of all the four: and the face of an eagle over all the four.
 11 And their faces, and their wings were stretched upward: two wings of every one were joined, and two covered their bodies:
 12 And every one of them went straight forward: whither the impulse of the spirit was to go, thither they went: and they turned not when they went.
@@ -43,7 +43,7 @@ the air. So the face pertaineth to certitude, and the wings to contemplation. Wi
 
 [Lectio7]
 From the Holy Gospel according to Luke
-!Luc 10:1-9
+!Luke 10:1-9
 At that time, the Lord appointed other seventy-two also, and sent them two and two before His face into every city and place, whither He Himself would come. And so on.
 _
 Homily by Pope St Gregory (the Great.)

@@ -5,7 +5,7 @@ Feria Quarta infra Hebdomadam II in Quadragesima;;Feria major;;2
 
 [Lectio1]
 From the holy Gospel according to Matthew
-!Matth 20:17-28
+!Matt 20:17-28
 In that time Jesus going up to Jerusalem, took the twelve disciples apart, and~
 said to them: Behold we go up to Jerusalem, and the Son of man shall be betrayed~
 to the chief priests and the scribes, and they shall condemn him to death. And~
@@ -77,7 +77,7 @@ $Per Dominum
 
 [LectioE]
 v. Continuation of the Holy Gospel according to Matthew
-!Matth 20:17-28
+!Matt 20:17-28
 20:17 And Jesus going up to Jerusalem, took the twelve disciples apart, and said to them:
 20:18 Behold we go up to Jerusalem, and the Son of man shall be betrayed to the chief priests and the scribes, and they shall condemn him to death.
 20:19 And shall deliver him to the Gentiles to be mocked, and scourged, and crucified, and the third day he shall rise again.

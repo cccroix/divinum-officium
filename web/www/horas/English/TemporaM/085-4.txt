@@ -1,6 +1,6 @@
 [Lectio1]
 From the Book Of Ecclesiaticus
-!Eccl 14:1-5
+!Sir 14:1-5
 1 Blessed is the man that hath not slipped by a word out of his mouth, and is not pricked with the remorse of sin.
 2 Happy is he that hath had no sadness of his mind, and who is not fallen from his hope.
 3 Riches are not comely for a covetous man and a niggard, and what should an envious man do with gold?
@@ -11,7 +11,7 @@ From the Book Of Ecclesiaticus
 @TemporaM/081-0:Responsory1
 
 [Lectio2]
-!Eccl 14:6-10
+!Sir 14:6-10
 6 There is none worse than he that envieth himself, and this is the reward of~
 his wickedness:
 7 And if he do good, he doth it ignorantly, and unwillingly: and at the last he~
@@ -27,7 +27,7 @@ but shall be needy and pensive at his own table.
 @TemporaM/081-0:Responsory2
 
 [Lectio3]
-!Eccl 16:11-17
+!Sir 16:11-17
 11 My son, if thou have any thing, do good to thyself, and offer to God worthy~
 offerings.
 12 Remember that death is not slow, and that the covenant of hell hath been~

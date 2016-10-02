@@ -5,7 +5,7 @@ Feria Sexta infra Hebdomadam I in Quadragesima;;Feria major;;2
 
 [Lectio1]
 From the Gospel of John
-!Joann 4:5-42
+!John 4:5-42
 At that time Jesus cometh therefore to a city of Samaria, which is called Sichar,~
 near the land which Jacob gave to his son Joseph. And so on.
 _
@@ -81,7 +81,7 @@ $Per Dominum
 
 [LectioE]
 v. Continuation of the Holy Gospel according to John
-!Joann 4:5-42
+!John 4:5-42
 4:5 He cometh therefore to a city of Samaria, which is called Sichar, near the land which Jacob gave to his son Joseph.
 4:6 Now Jacob's well was there. Jesus therefore being wearied with his journey, sat thus on the well. It was about the sixth hour.
 4:7 There cometh a woman of Samaria, to draw water. Jesus saith to her: Give me to drink.

@@ -5,7 +5,7 @@ Feria Sexta Quattuor temporum;;Feria major;;2
 
 [Lectio1]
 Continuation of the Holy Gospel according to John
-!Joann 5:1-15
+!John 5:1-15
 In that time was a festival day of the Jews, and Jesus went up to Jerusalem. And~
 so on.
 _
@@ -102,7 +102,7 @@ $Per Dominum
 
 [LectioE]
 Continuation of the Holy Gospel according to John
-!Joann 5:1-15
+!John 5:1-15
 5:1 AFTER these things was a festival day of the Jews, and Jesus went up to Jerusalem.
 5:2 Now there is at Jerusalem a pond, called Probatica, which in Hebrew is named Bethsaida, having five porches.
 5:3 In these lay a great multitude of sick, of blind, of lame, of withered; waiting for the moving of the water.

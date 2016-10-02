@@ -1,6 +1,6 @@
 [Lectio1]
 From the Prophet Ezechiel
-!Ezech 34:1-4
+!Ezek  34:1-4
 1  And the word of the Lord came to me, saying:
 2  Son of man, prophesy concerning the shepherds of Israel: prophesy, and say to the shepherds: Thus saith the Lord God: Woe to the shepherds of Israel, that fed themselves: should not the hocks be fed by the shepherds?
 3  You ate the milk, end you clothed yourselves with the wool, and you killed that which was fat: but my flock you did not feed.
@@ -10,7 +10,7 @@ From the Prophet Ezechiel
 @TemporaM/111-2:Responsory1
 
 [Lectio2]
-!Ezech 1:5-9
+!Ezek 1:5-9
 5  And in the midst thereof the likeness of four living creatures: and this was their appearance: there was the likeness of a man in them.
 6  Every one had four faces, and every one four wings.
 7  Their feet were straight feet, and the sole of their foot was like the sole of a calf's foot, and they sparkled like the appearance of glowing brass.
@@ -21,7 +21,7 @@ From the Prophet Ezechiel
 @TemporaM/111-2:Responsory2
 
 [Lectio3]
-!Ezech 1:10-12
+!Ezek 1:10-12
 10  And as for the likeness of their faces: there was the face of a man, and the face of a lion on the right side of all the four: and the face of an ox, on the left side of all the four: and the face of an eagle over all the four.
 11  And their faces, and their wings were stretched upward: two wings of every one were joined, and two covered their bodies:
 12  And every one of them went straight forward: whither the impulse of the spirit was to go, thither they went: and they turned not when they went.

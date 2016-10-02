@@ -13,7 +13,7 @@ Protected by veil * your saints turn to you O Lord, alleluia, alleluia;;111
 The just shine * like the, the sun at the face of God, alleluia;;116
 
 [Capitulum Vespera]
-!Sap 5:1
+!Wis 5:1
 v. Then shall the just stand with great constancy against those that have~
 afflicted them, and taken away their labours.
 $Deo gratias
@@ -71,7 +71,7 @@ V. Everlasting joy shall be upon their heads, alleluia
 R. They shall obtain joy and gladness, alleluia
 
 [Lectio1]
-!Act 20:17-24
+!Acts 20:17-24
 17 And sending from Miletus to Ephesus, he called the ancients of the church.
 18 And when they were come to him, and were together, he said to them: You know~
 from the first day that I came into Asia, in what manner I have been with you,~
@@ -123,7 +123,7 @@ V. the world shall rejoice: and you shall be made sorrowful, but your sorrow
 R. Shall be turned into joy, alleluia
 
 [Lectio3]
-!Act 20:32-38
+!Acts 20:32-38
 32 And now I commend you to God, and to the word of his grace, who is able to~
 build up, and to give an inheritance among all the sanctified.
 33 I have not coveted any man's silver, gold, or apparel, as
@@ -216,7 +216,7 @@ R. In the day of His feasting, and of His gladness. Alleluia.
 
 [Lectio7]
 From the Holy Gospel according to John
-!Joann 15:1-7
+!John 15:1-7
 At that time Jesus said unto His disciples I am the true vine, and My Father~
 is the husbandman. And so on.
 _
@@ -292,7 +292,7 @@ Spirits and souls * of the just, say hymns to our Lord, alleluia, alleluia.
 The just shine * like the, the sun at the face of God, alleluia.
 
 [Capitulum Laudes]
-!Sap 5:1
+!Wis 5:1
 v. Then shall the just stand with great constancy against those that have~
 afflicted them, and taken away their labours.
 $Deo gratias
@@ -321,7 +321,7 @@ v. And we know that to them that love God, all things work together unto good,~
 to such as, according to his purpose, are called to be saints.
 
 [Capitulum Tertia]
-!Sap 5:1
+!Wis 5:1
 v. Then shall the just stand with great constancy against those that have~
 afflicted them, and taken away their labours.
 $Deo gratias
@@ -331,7 +331,7 @@ V. Saints and just, rejoice in the Lord, Alleluia, alleluia.
 R. The Lord had chosen you for his inheritance
 
 [Capitulum Sexta]
-!Sap 5.5
+!Sap. 5.5
 v. Behold how they are numbered among the children of God, and their lot is~
 among the saints.
 $Deo gratias
@@ -362,7 +362,7 @@ his inheritance, alleluia.
 
 [LectioE]
 Continuation of the Holy Gospel according to John
-!Joann 15:1-7
+!John 15:1-7
 1 I am the true vine; and my Father is the husbandman. 
 2 Every branch in me, that beareth not fruit, he will take away: and every one that beareth fruit, he will purge it, that it may bring forth more fruit. 
 3 Now you are clean by reason of the word, which I have spoken to you. 

@@ -14,20 +14,20 @@ Hymnus Tertia
 
 [Lectio1]
 Lesson from the book of Joel
-!Joël 2:23-26
+!Joel 2:23-26
 23 And you, O children of Sion, rejoice, and be joyful in the Lord your God: because he hath given you a teacher of justice, and he will make the early and the latter rain to come down to you as in the beginning. 
 24 And the floors shall be filled with wheat, and the presses shall overflow with wine and oil. 
 25 And I will restore to you the ears which the locust, and the bruchus, and the mildew, and the palmerworm have eaten; my great host which I sent upon you.
 26 And you shall eat in plenty, and shall be filled: and you shall praise the name of the Lord your God, who hath done wonders with you, and my people shall not be confounded for ever. 
 
 [Lectio2]
-!Joël 2:27-29
+!Joel 2:27-29
 27 And you shall know that I am in the midst of Israel: and I am the Lord your God, and there is none besides: and my people shall not be confounded for ever. 
 28 And it shall come to pass after this, that I will pour out my spirit upon all flesh: and your sons and your daughters shall prophesy: your old men shall dream dreams, and your young men shall see visions. 
 29 Moreover upon my servants and handmaids in those days I will pour forth my spirit. 
 
 [Lectio3]
-!Joël 2:30-32
+!Joel 2:30-32
 30 And I will shew wonders in heaven; and in earth, blood, and fire, and vapour of smoke.
 31 The sun shall be turned into darkness, and the moon into blood: before the great and dreadful day of the Lord doth come. 
 32 And it shall come to pass, that every one that shall call upon the name of the Lord shall be saved: for in mount Sion, and in Jerusalem shall be salvation, as the Lord hath said, and in the residue whom the Lord shall call. 
@@ -47,7 +47,7 @@ And how was it that the bodies of the Three Children were not devoured by the fl
 
 [Lectio7]
 From the Holy Gospel according to John
-!Joann 10:1-10
+!John 10:1-10
 At that time Jesus said unto the Pharisees Amen, amen, I say unto you, he~
 that entereth not by tin door into the sheep-fold, but climbeth up some other~
 way, the same is a the and a robber but he that entereth by the door is the~
@@ -106,7 +106,7 @@ give I unto you. Alleluia.
 
 [LectioE]
 Continuation of the Holy Gospel according to John
-!Joann 10:1-10
+!John 10:1-10
 10:1 AMEN, amen I say to you: He that entereth not by the door into the sheepfold, but climbeth up another way, the same is a thief and a robber.
 10:2 But he that entereth in by the door is the shepherd of the sheep.
 10:3 To him the porter openeth; and the sheep hear his voice: and he calleth his own sheep by name, and leadeth them out.

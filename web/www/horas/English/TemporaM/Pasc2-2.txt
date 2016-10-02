@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 From the Acts of Apostles.
-!Act 17:22-27
+!Acts 17:22-27
 22 But Paul standing in the midst of the Areopagus, said: Ye men of Athens, I~
 perceive that in all things you are too superstitious.
 23 For passing by, and seeing your idols, I found an altar also, on which was~
@@ -27,7 +27,7 @@ although he be not far from every one of us:
 @TemporaM/Pasc0-3:Responsory2
 
 [Lectio2]
-!Act 17:28-33
+!Acts 17:28-33
 28 For in him we live, and move, and are; as some also of your own poets said:~
 For we are also his offspring.
 29 Being therefore the offspring of God, we must not suppose the divinity to be~
@@ -45,7 +45,7 @@ but others said: We will hear thee again concerning this matter.
 @TemporaM/Pasc0-5:Responsory1
 
 [Lectio3]
-!Act 17:34; 18:1-4
+!Acts 17:34; 18:1-4
 34 But certain men adhering to him, did believe; among whom was also Dionysius,~
 the Areopagite, and a woman named Damaris, and others with them.
 1 After these things, departing from Athens, he came to Corinth.

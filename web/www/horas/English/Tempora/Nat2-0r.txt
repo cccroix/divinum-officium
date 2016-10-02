@@ -105,7 +105,7 @@ R. Give unto the Lord the glory due unto His Name.
 
 [Lectio1]
 Lesson from the Acts of Apostles
-!Act 3:1-8
+!Acts 3:1-8
 1 Now Peter and John went up into the temple at the ninth hour of prayer.
 2 And a certain man who was lame from his mother's womb, was carried: whom they laid every day at the gate of the temple, which is called Beautiful, that he might ask alms of them that went into the temple.
 3 He, when he had seen Peter and John about to go into the temple, asked to receive an alms.
@@ -122,7 +122,7 @@ V. His Name was called Jesus, which was so named of the Angel, before He was con
 R. For He shall save His people from their sins.
 
 [Lectio2]
-!Act 3:9-16
+!Acts 3:9-16
 9 And all the people saw him walking and praising God.
 10 And they knew him, that it was he who sat begging alms at the Beautiful gate of the temple: and they were filled with wonder and amazement at that which had happened to him.
 11 And as he held Peter and John, all the people ran to them to the porch which is called Solomon's, greatly wondering.
@@ -139,7 +139,7 @@ V. And blessed be thy glorious Name for ever, O Thou Who only doest wondrous thi
 R. And in the time of tribulation Thou forgivest the sins of them that call upon thee.
 
 [Lectio3]
-!Act 4:5-12
+!Acts 4:5-12
 5 And it came to pass on the morrow, that their princes, and ancients, and scribes, were gathered together in Jerusalem;
 6 And Annas the high priest, and Caiphas, and John, and Alexander, and as many as were of the kindred of the high priest.
 7 And setting them in the midst, they asked: By what power, or by what name, have you done this?
@@ -190,7 +190,7 @@ R. Let them also that love thy Name be joyful in thee.
 
 [Lectio7]
 From the Holy Gospel according to Luke
-!Luc 2:21
+!Luke 2:21
 In that time: when eight days were accomplished, that the child should be circumcised, his name was called Jesus, which was called by the angel, before he was conceived in the womb. And so on.
 _
 Homily by St. Bernard, Abbot (of Clairvaux.)

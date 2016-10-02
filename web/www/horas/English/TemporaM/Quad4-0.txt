@@ -15,7 +15,7 @@ $Per Dominum
 
 [Lectio1]
 From the Book of Exodus
-!Ex 3:1-6
+!Exod 3:1-6
 1 Now Moses fed the sheep of Jethro his father in law, the priest of Madian: and~
 he drove the flock to the inner parts of the desert, and came to the mountain of~
 God, Horeb.
@@ -41,7 +41,7 @@ R. Let My people go. And the heart of Pharaoh shall be hardened, that he will~
 not let My people go but by a mighty hand.
 
 [Lectio2]
-!Ex 3:7-10
+!Exod 3:7-10
 7 And the Lord said to him: I have seen the affliction of my people in Egypt,~
 and I have heard their cry because of the rigour of them that are over the~
 works:
@@ -61,7 +61,7 @@ V. The Lord God of the Hebrews hath sent me unto thee, saying
 R. Let My people go, that they may hold a feast unto Me in the wilderness.
 
 [Lectio3]
-!Ex 3:11-15
+!Exod 3:11-15
 11 And Moses said to God: Who am I that I should go to Pharao, and should bring~
 forth the children of Israel out of Egypt?
 12 And he said to him: I will be with thee: and this thou shalt have for a sign,~
@@ -165,7 +165,7 @@ R. To make him meet to receive the Law of God.
 
 [Lectio7]
 From the holy Gospel according to John
-!Joann 6:1-15
+!John 6:1-15
 In that time Jesus went over the sea of Galilee, which is that of Tiberias. And a~
 great multitude followed him, because they saw the miracles which he did on them~
 that were diseased. And so on.
@@ -321,7 +321,7 @@ And Jesus went up into a mountain, * and there He sat with His disciples.
 
 [LectioE]
 v. Continuation of the Holy Gospel according to John
-!Joann 6:1-15
+!John 6:1-15
 6:1 AFTER these things Jesus went over the sea of Galilee, which is that of Tiberias.
 6:2 And a great multitude followed him, because they saw the miracles which he did on them that were diseased.
 6:3 Jesus therefore went up into a mountain, and there he sat with his disciples.

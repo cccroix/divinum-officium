@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 Lesson from the Acts of the Apostles
-!Act 28:16-20
+!Acts 28:16-20
 16 And when we were come to Rome, Paul was suffered to dwell by himself, with a soldier that kept him. 
 17 And after the third day, he called together the chief of the Jews. And when they were assembled, he said to them: Men, brethren, I, having done nothing against the people, or the custom of our fathers, was delivered prisoner from Jerusalem into the hands of the Romans; 
 18 Who, when they had examined me, would have released me, for that there was no cause of death in me; 
@@ -19,7 +19,7 @@ Lesson from the Acts of the Apostles
 @Tempora/Pasc0-6:Responsory1
 
 [Lectio2]
-!Act 28:21-24
+!Acts 28:21-24
 21 But they said to him: We neither received letters concerning thee from Judea, neither did any of the brethren that came hither, relate or speak any evil of thee. 
 22 But we desire to hear of thee what thou thinkest; for as concerning this sect, we know that it is every where contradicted. 
 23 And when they had appointed him a day, there came very many to him unto his lodgings; to whom he expounded, testifying the kingdom of God, and persuading them concerning Jesus, out of the law of Moses and the prophets, from morning until evening. 
@@ -29,7 +29,7 @@ Lesson from the Acts of the Apostles
 @Tempora/Pasc0-1:Responsory2
 
 [Lectio3]
-!Act 28:25-31
+!Acts 28:25-31
 25 And when they agreed not among themselves, they departed, Paul speaking this one word: Well did the Holy Ghost speak to our fathers by Isaias the prophet,
 26 Saying: Go to this people, and say to them: With the ear you shall hear, and shall not understand; and seeing you shall see, and shall not perceive. 
 27 For the heart of this people is grown gross, and with their ears have they heard heavily, and their eyes they have shut; lest perhaps they should see with their eyes, and hear with their ears, and understand with their heart, and should be converted, and I should heal them. 

@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the second book of Samuel
-!2 Reg 7:4-6
+!2 Sam 7:4-6
 4 But it came to pass that night, that the word of the Lord came to Nathan,~
 saying:
 5 Go, and say to my servant David: Thus saith the Lord: Shalt thou build me a~
@@ -19,7 +19,7 @@ tabernacle, and in a tent.
 @TemporaM/Pent01-2:Responsory1
 
 [Lectio2]
-!2 Reg 7:7-11
+!2 Sam 7:7-11
 7 In all the places that I have gone through with all the children of Israel,~
 did ever I speak a word to any one of the tribes of Israel, whom I commanded to~
 feed my people Israel, saying: Why have you not built me a house of cedar?
@@ -40,7 +40,7 @@ will make thee a house.
 @TemporaM/Pent01-2:Responsory2
 
 [Lectio3]
-!2 Reg 7:12-17
+!2 Sam 7:12-17
 12 And when thy days shall be fulfilled, and thou shalt sleep with thy fathers, I~
 will raise up thy seed after thee, which shall proceed out of thy bowels, and I~
 will establish his kingdom.

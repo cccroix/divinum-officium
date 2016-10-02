@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the book of Isaias
-!Isai 51:1-3
+!Isa 51:1-3
 1 GIVE ear to me, you that follow that which is just, and you that seek the~
 Lord: look unto the rock whence you are hewn, and to the hole of the pit from~
 which you are dug out.
@@ -21,7 +21,7 @@ the voice of praise.
 @TemporaM/Adv4-0:Responsory7
 
 [Lectio2]
-!Isai 51:4-6
+!Isa 51:4-6
 4 Hearken unto me, O my people, and give ear to me, O my tribes: for a law shall~
 go forth from me, and my judgment shall rest to be a light of the nations.
 5 My just one is near at hand, my saviour is gone forth, and my arms shall judge~
@@ -35,7 +35,7 @@ be for ever, and my justice shall not fail.
 @TemporaM/Adv4-0:Responsory8
 
 [Lectio3]
-!Isai 51:7-8
+!Isa 51:7-8
 7 Hearken to me, you that know what is just, my people who have my law in your~
 heart: fear ye not the reproach of men, and be not afraid of their blasphemies.
 8 For the worm shall eat them up as a garment: and the moth shall consume them~

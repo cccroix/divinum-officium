@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 From the Acts of Apostles.
-!Act 20:17-24
+!Acts 20:17-24
 17 And sending from Miletus to Ephesus, he called the ancients of the church.
 18 And when they were come to him, and were together, he said to them: You know~
 from the first day that I came into Asia, in what manner I have been with you,~
@@ -31,7 +31,7 @@ which I received from the Lord Jesus, to testify the gospel of the grace of God.
 @TemporaM/Pasc0-6:Responsory1
 
 [Lectio2]
-!Act 20:25-31
+!Acts 20:25-31
 25 And now behold, I know that all you, among whom I have gone preaching the~
 kingdom of God, shall see my face no more.
 26 Wherefore I take you to witness this day, that I am clear from the blood of~
@@ -51,7 +51,7 @@ tears to admonish every one of you night and day
 @TemporaM/Pasc0-1:Responsory2
 
 [Lectio3]
-!Act 20:32-38
+!Acts 20:32-38
 32 And now I commend you to God, and to the word of his grace, who is able to~
 build up, and to give an inheritance among all the sanctified.
 33 I have not coveted any man's silver, gold, or apparel, as

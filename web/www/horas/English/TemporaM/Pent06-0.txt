@@ -23,7 +23,7 @@ $Per Dominum
 
 [Lectio1]
 Lesson from the second book of Samuel
-!2 Reg 12:1-4
+!2 Sam 12:1-4
 1 And the Lord sent Nathan to David: and when he was come to him, he said to~
 him: There were two men in one city, the one rich, and the other poor.
 2 The rich man had exceeding many sheep and oxen.
@@ -43,7 +43,7 @@ among you.
 R. And He will deliver you out of the hand of your enemies.
 
 [Lectio2]
-!2 Reg 12:5-9
+!2 Sam 12:5-9
 5 And David's anger being exceedingly kindled against that man, he said to~
 Nathan: As the Lord liveth, the man that hath done this is a child of death.
 6 He shall restore the ewe fourfold, because he did this thing, and had no pity.
@@ -66,7 +66,7 @@ of the bear
 R. And anointed me with the oil of His mercy.
 
 [Lectio3]
-!2 Reg 12:10-16
+!2 Sam 12:10-16
 10 Therefore the sword shall never depart from thy house, because thou hast~
 despised me, and hast taken the wife of Urias the Hethite to be thy wife.
 11 Thus saith the Lord: Behold, I will raise up evil against thee out of thy own~
@@ -170,7 +170,7 @@ ever.
 
 [Lectio7]
 From the Holy Gospel according to Mark
-!Marc 8:1-9
+!Mark 8:1-9
 In those days the multitude being very great, and having nothing to eat, Jesus~
 called His disciples unto Him, and saith unto them I have compassion on the~
 multitude, because they have now been with Me for three days, and have nothing~
@@ -237,7 +237,7 @@ R. As incense before thee.
 
 [LectioE]
 Continuation of the Holy Gospel according to Mark
-!Marc 8:1-9
+!Mark 8:1-9
 8:1 IN those days again, when there was a great multitude, and had nothing to eat; calling his disciples together, he saith to them:
 8:2 I have compassion on the multitude, for behold they have now been with me three days, and have nothing to eat.
 8:3 And if I shall send them away fasting to their home, they will faint in the way; for some of them came from afar off.

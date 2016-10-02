@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the book of Isaias
-!Isai 16:1-4
+!Isa 16:1-4
 1 SEND forth, O Lord, the lamb, the ruler of the earth, from Petra of the desert,~
 to the mount of the daughter of Sion.
 2 And it shall come to pass, that as a bird fleeing away, and as young ones~
@@ -20,7 +20,7 @@ face of the destroyer.
 @TemporaM/Adv1-3:Responsory1
 
 [Lectio2]
-!Isai 16:4-6
+!Isa 16:4-6
 4 My fugitives shall dwell with thee: O Moab, be thou a covert to them from the~
 face of the destroyer.
 5 And a throne shall be prepared in mercy, and one shall sit upon it in truth in~
@@ -33,7 +33,7 @@ arrogancy, and his indignation is more than his strength.
 @TemporaM/Adv1-3:Responsory2
 
 [Lectio3]
-!Isai 16:7-8
+!Isa 16:7-8
 7 Therefore shall Moab howl to Moab, every one shall howl: to them that rejoice~
 upon the brick walls, tell ye their stripes.
 8 For the suburbs of Hesebon are desolate, and the lords of the nations have~

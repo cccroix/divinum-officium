@@ -5,7 +5,7 @@ Feria Secunda infra Hebdomadam II in Quadragesima;;Feria major;;2
 
 [Lectio1]
 From the holy Gospel according to John
-!Joann 8:21-29
+!John 8:21-29
 In that time Jesus said to the multitude of Jews I go, and you shall seek me,~
 and you shall die in your sin. And so on.
 _
@@ -83,7 +83,7 @@ $Per Dominum
 
 [LectioE]
 v. Continuation of the Holy Gospel according to John
-!Joann 8:21-29
+!John 8:21-29
 8:21 Again therefore Jesus said to them: I go, and you shall seek me, and you shall die in your sin. Whither I go, you cannot come.
 8:22 The Jews therefore said: Will he kill himself, because he said: Whither I go, you cannot come?
 8:23 And he said to them: You are from beneath, I am from above. You are of this world, I am not of this world.

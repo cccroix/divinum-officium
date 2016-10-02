@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 Here begins the Acts of Apostles
-!Act 1:1-8
+!Acts 1:1-8
 1 The former treatise I made, O Theophilus, of all things which Jesus began to~
 do and to teach,
 2 Until the day on which, giving commandments by the Holy Ghost to the apostles~
@@ -32,7 +32,7 @@ to the uttermost part of the earth.
 @TemporaM/Pasc0-2:Responsory1
 
 [Lectio2]
-!Act 1:9-14
+!Acts 1:9-14
 9 And when he had said these things, while they looked on, he was raised up: and a~
 cloud received him out of their sight.
 10 And while they were beholding him going up to heaven, behold two men stood by~
@@ -52,7 +52,7 @@ the mother of Jesus, and with his brethren
 @TemporaM/Pasc0-2:Responsory1
 
 [Lectio3]
-!Act 1:15-26
+!Acts 1:15-26
 15 In those days Peter rising up in the midst of the brethren, said: (now the~
 number of persons together was about an hundred and twenty:)
 16 Men, brethren, the scripture must needs be fulfilled, which the Holy Ghost~

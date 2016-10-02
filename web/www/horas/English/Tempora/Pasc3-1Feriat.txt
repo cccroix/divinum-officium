@@ -7,7 +7,7 @@ Feria Te Deum
 
 [Lectio1]
 Lesson from the book of Revelation
-!Apoc 2:1-7
+!Rev 2:1-7
 1 Unto the angel of the church of Ephesus write: These things saith he, who holdeth the seven stars in his right hand, who walketh in the midst of the seven golden candlesticks:
 2 I know thy works, and thy labour, and thy patience, and how thou canst not bear them that are evil, and thou hast tried them, who say they are apostles, and are not, and hast found them liars:
 3 And thou hast patience, and hast endured for my name, and hast not fainted.
@@ -23,7 +23,7 @@ V. I saw a new heaven and a new earth coming down out of heaven.
 R. And upon the walls thereof a guard of Angels. Alleluia.
 
 [Lectio2]
-!Apoc 2:8-11
+!Rev 2:8-11
 8 And to the angel of the church of Smyrna write: These things saith the First and the Last, who was dead, and is alive:
 9 I know thy tribulation and thy poverty, but thou art rich: and thou art blasphemed by them that say they are Jews and are not, but are the synagogue of Satan.
 10 Fear none of those things which thou shalt suffer. Behold, the devil will cast some of you into prison that you may be tried: and you shall have tribulation ten days. Be thou faithful until death: and I will give thee the crown of life.
@@ -38,7 +38,7 @@ R. Here worship God. Alleluia, Alleluia, Alleluia.
 R. Here worship God. Alleluia, Alleluia, Alleluia.
 
 [Lectio3]
-!Apoc 2:12-17
+!Rev 2:12-17
 12 And to the angel of the church of Pergamus write: These things, saith he, that hath the sharp two edged sword:
 13 I know where thou dwellest, where the seat of Satan is: and thou holdest fast my name, and hast not denied my faith. Even in those days when Antipas was my faithful witness, who was slain among you, where Satan dwelleth.
 14 But I have against thee a few things: because thou hast there them that hold the doctrine of Balaam, who taught Balac to cast a stumblingblock before the children of Israel, to eat, and to commit fornication:

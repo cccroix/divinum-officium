@@ -15,7 +15,7 @@ $Per Dominum
 
 [Lectio7]
 From the Holy Gospel according to Matthew
-!Matth 22:15-21
+!Matt 22:15-21
 At that time The Pharisees went and took counsel how they might entangle Jesus~
 in His talk. And so on. Homily by St Hilary, Bishop (of Poitiers.)
 !Comm. on Matth. Can. 23
@@ -74,7 +74,7 @@ R. As incense before thee.
 
 [LectioE]
 Continuation of the Holy Gospel according to Matthew
-!Matth 22:15-21
+!Matt 22:15-21
 22:15 Then the Pharisees going, consulted among themselves how to insnare him in his speech.
 22:16 And they sent to him their disciples with the Herodians, saying: Master, we know that thou art a true speaker, and teachest the way of God in truth, neither carest thou for any man: for thou dost not regard the person of men.
 22:17 Tell us therefore what dost thou think, is it lawful to give tribute to Caesar, or not?

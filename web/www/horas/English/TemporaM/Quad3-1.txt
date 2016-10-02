@@ -5,7 +5,7 @@ Feria Secunda infra Hebdomadam III in Quadragesima;;Feria major;;2
 
 [Lectio1]
 From the holy Gospel according to Luke
-!Luc 4:23-30
+!Luke 4:23-30
 In that time Jesus said to the pharisees: Doubtless you will say to me this~
 similitude: Physician, heal thyself: as great things as we have heard done in~
 Capharnaum, do also here in thy own country. And so on.
@@ -106,7 +106,7 @@ $Per Dominum
 
 [LectioE]
 v. Continuation of the Holy Gospel according to Luke
-!Luc 4:23-30
+!Luke 4:23-30
 4:23 And he said to them: Doubtless you will say to me this similitude: Physician, heal thyself: as great things as we have heard done in Capharnaum, do also here in thy own country.
 4:24 And he said: Amen I say to you, that no prophet is accepted in his own country.
 4:25 In truth I say to you, there were many widows in the days of Elias in Israel, when heaven was shut up three years and six months, when there was a great famine throughout all the earth.

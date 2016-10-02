@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 From the letter of blessed Apostle James
-!Jacob 5:1-6
+!Jas 5:1-6
 1 Go to now, ye rich men, weep and howl in your miseries, which shall come upon~
 you.
 2 Your riches are corrupted: and your garments are motheaten.
@@ -29,7 +29,7 @@ V. Thou art my God, and I will praise thee Thou art my God, and I will exalt the
 R. Upon a psaltery of ten strings will I sing praises unto thee. Alleluia, Alleluia.
 
 [Lectio2]
-!Jacob 5:7-11
+!Jas 5:7-11
 7 Be patient therefore, brethren, until the coming of the Lord. Behold, the~
 husbandman waiteth for the precious fruit of the earth: patiently bearing till~
 he receive the early and latter rain.
@@ -52,7 +52,7 @@ R. And to sing praises Alleluia.
 R. And to sing praises Alleluia.
 
 [Lectio3]
-!Jacob 5:12-16
+!Jas 5:12-16
 12 But above all things, my brethren, swear not, neither by heaven, nor by the~
 earth, nor by any other oath. But let your speech be, yea, yea: no, no: that you~
 fall not under judgment.

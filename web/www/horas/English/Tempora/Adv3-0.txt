@@ -29,7 +29,7 @@ $Qui vivis
 
 [Lectio1]
 Lesson from the book of Isaias
-!Isai 26:1-6
+!Isa 26:1-6
 1 In that day shall this canticle be sung in the land of Juda. Sion the city of our strength a saviour, a wall and a bulwark shall be set therein.
 2 Open ye the gates, and let the just nation, that keepeth the truth, enter in.
 3 The old error is passed away: thou wilt keep peace: peace, because we have hoped in thee.
@@ -44,7 +44,7 @@ V. He shall appear and not lie; though He tarry, wait for Him, because He will s
 R. And ten thousand of His saints with Him; and He shall have on His vesture, and on His thigh a name written King of kings, and Lord of lords.
 
 [Lectio2]
-!Isai 26:7-10
+!Isa 26:7-10
 7 The way of the just is right, the path of the just is right to walk in.
 8 And in the way of thy judgments, O Lord, we have patiently waited for thee: thy name, and thy remembrance are the desire of the soul.
 9 My soul hath desired thee in the night: yea, and with my spirit within me in the morning early I will watch to thee. When thou shalt do thy judgments on the earth, the inhabitants of the world shall learn justice.
@@ -57,7 +57,7 @@ V. He shall speak peace unto the Gentiles, and shall have dominion from sea to s
 R. And this Man shall be the peace in our land, when He shall come.
 
 [Lectio3]
-!Isai 26:11-14
+!Isa 26:11-14
 11 Lord, let thy hand be exalted, and let them not see: let the envious people see, and be confounded: and let fire devour thy enemies.
 12 Lord, thou wilt give us peace: for thou hast wrought all our works for us.
 13 O Lord our God, other lords besides thee have had dominion over us, only in thee let us remember thy name.
@@ -104,7 +104,7 @@ R. In His days shall righteousness flourish, and abundance of peace.
 
 [Lectio7]
 From the Holy Gospel according to John
-!Joann 1:19-28
+!John 1:19-28
 In that time were sent from Jerusalem priests and Levites to John, to ask him: Who art thou? And so on.
 _
 Homily by Pope St. Gregory (the Great)

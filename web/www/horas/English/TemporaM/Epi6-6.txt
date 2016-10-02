@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 From the letter of St Paul to the Jews
-!Hebr 13:1-4
+!Heb 13:1-4
 1 Let the charity of the brotherhood abide in you.
 2 And hospitality do not forget; for by this some, being not aware of it, have entertained angels.
 3 Remember them that are in bands, as if you were bound with them; and them that labour, as being yourselves also in the body.
@@ -16,7 +16,7 @@ From the letter of St Paul to the Jews
 @TemporaM/Epi2-3:Responsory1
 
 [Lectio2]
-!Hebr 13:5-8
+!Heb 13:5-8
 5 Let your manners be without covetousness, contented with such things as you have; for he hath said: I will not leave thee, neither will I forsake thee.
 6 So that we may confidently say: The Lord is my helper: I will not fear what man shall do to me.
 7 Remember your prelates who have spoken the word of God to you; whose faith follow, considering the end of their conversation,
@@ -26,7 +26,7 @@ From the letter of St Paul to the Jews
 @TemporaM/Epi2-3:Responsory2
 
 [Lectio3]
-!Hebr 13:9-12
+!Heb 13:9-12
 9 Be not led away with various and strange doctrines. For it is best that the heart be established with grace, not with meats; which have not profited those that walk in them.
 10 We have an altar, whereof they have no power to eat who serve the tabernacle.
 11 For the bodies of those beasts, whose blood is brought into the holies by the high priest for sin, are burned without the camp.

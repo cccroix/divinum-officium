@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the book of Isaias
-!Isai 13:1-4
+!Isa 13:1-4
 1 The burden of Babylon, which Isaias the son of Amos saw.
 2 Upon the dark mountain lift ye up a banner, exalt the voice, lift up the hand,~
 and let the rulers go into the gates.
@@ -19,7 +19,7 @@ noise of the sound of kings, of nations gathered together.
 @TemporaM/Adv1-1:Responsory1
 
 [Lectio2]
-!Isai 13:4-8
+!Isa 13:4-8
 4 The Lord of hosts hath given charge to the troops of war.
 5 To them that come from a country afar off, from the end of heaven: tile Lord~
 and the instruments of his wrath, to destroy the whole land.
@@ -34,7 +34,7 @@ countenances shall be as faces burnt.
 @TemporaM/Adv1-1:Responsory2
 
 [Lectio3]
-!Isai 13:9-11
+!Isa 13:9-11
 9 Behold, the day of the Lord shall come, a cruel day, and full of indignation,~
 and of wrath, and fury, to lay the land desolate, and to destroy the sinners~
 thereof out of it.

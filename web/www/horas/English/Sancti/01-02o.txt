@@ -16,7 +16,7 @@ Feria Te Deum
 
 [Lectio1]
 Lesson from the Acts of Apostles
-!Act 7:51-54
+!Acts 7:51-54
 51 You stiffnecked and uncircumcised in heart and ears, you always resist the~
 Holy Ghost: as your fathers did, so do you also.
 52 Which of the prophets have not your fathers persecuted? And they have slain~
@@ -27,7 +27,7 @@ betrayers and murderers:
 their teeth at him.
 
 [Lectio2]
-!Act 7:55-58
+!Acts 7:55-58
 55 But he, being full of the Holy Ghost, looking up steadfastly to heaven, saw~
 the glory of God, and Jesus standing on the right hand of God. And he said:~
 Behold, I see the heavens opened, and the Son of man standing on the right hand~
@@ -39,7 +39,7 @@ laid down their garments at the feet of a young man, whose name was Saul.
 58 And they stoned Stephen, invoking, and saying: Lord Jesus, receive my spirit.
 
 [Lectio3]
-!Act 7:59; 8:1-2
+!Acts 7:59; 8:1-2
 59 And falling on his knees, he cried with a loud voice, saying: Lord, lay not~
 this sin to their charge. And when he had said this, he fell asleep in the Lord.~
 And Saul was consenting to his death.
@@ -81,7 +81,7 @@ shall be righted.
 
 [Lectio7]
 From the Holy Gospel according to Matthew
-!Matth 23:34-35
+!Matt 23:34-35
 In that time Jesus said to the scribes and Pharisee: Behold I send to you~
 prophets, and wise men, and scribes: and some of them you will put to death and~
 crucify. And so on.

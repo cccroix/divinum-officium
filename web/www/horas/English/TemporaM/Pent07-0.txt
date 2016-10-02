@@ -158,7 +158,7 @@ ever.
 
 [Lectio7]
 From the Holy Gospel according to Matthew
-!Matth 7:15-21
+!Matt 7:15-21
 At that time Jesus said unto His disciples Beware of false prophets, which~
 come to you in sheep's clothing, but inwardly they are ravening wolves. And so on.
 _
@@ -225,7 +225,7 @@ R. As incense before thee.
 
 [LectioE]
 Continuation of the Holy Gospel according to Matthew
-!Matth 7:15-21
+!Matt 7:15-21
 7:15 Beware of false prophets, who come to you in the clothing of sheep, but inwardly they are ravening wolves.
 7:16 By their fruits you shall know them. Do men gather grapes of thorns, or figs of thistles?
 7:17 Even so every good tree bringeth forth good fruit, and the evil tree bringeth forth evil fruit.

@@ -9,7 +9,7 @@ Preces feriales
 
 [Lectio1]
 From the Holy Gospel according to Luke
-!Luc (xiii. 6.)
+!Luke (xiii. 6.)
 At that time Jesus spake unto the multitudes this parable A certain man~
 had a fig-tree planted in his vineyard, and he came and sought fruit thereon,~
 and found none. And so on. 
@@ -77,7 +77,7 @@ $Per Dominum
 
 [LectioE]
 v. Continuation of the Holy Gospel according to Luke
-!Luc 13:6-17
+!Luke 13:6-17
 13:6 He spoke also this parable: A certain man had a fig tree planted in his vineyard, and he came seeking fruit on it, and found none.
 13:7 And he said to the dresser of the vineyard: Behold, for these three years I come seeking fruit on this fig tree, and I find none. Cut it done therefore: why cumbereth it the ground?
 13:8 But he answering, said to him: Lord, let it alone this year also, until I dig about it, and dung it.

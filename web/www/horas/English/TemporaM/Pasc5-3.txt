@@ -13,7 +13,7 @@ Doxology=Pasc
 
 [Lectio1]
 From the Holy Gospel according to John 
-!Joann 17:1-11 
+!John 17:1-11 
 At that time Jesus lifted~
 up His Eyes to heaven, and spake these words Father, the hour is come~
 glorify thy Son. And so on.
@@ -90,7 +90,7 @@ $Per Dominum.
 
 [LectioE]
 v. Continuation of the Holy Gospel according to John
-!Joann 17:1-11 
+!John 17:1-11 
 17:1 THESE things Jesus spoke, and lifting up his eyes to heaven, he said: Father, the hour is come, glorify thy Son, that thy Son may glorify thee.
 17:2 As thou hast given him power over all flesh, that he may give eternal life to all whom thou hast given him.
 17:3 Now this is eternal life: That they may know thee, the only true God, and Jesus Christ, whom thou hast sent.

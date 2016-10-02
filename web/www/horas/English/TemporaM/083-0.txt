@@ -8,7 +8,7 @@ R. And let there descend upon us thy mercy.
 
 [Lectio1]
 Here beginneth the Book of Wisdom
-!Sap 1:1-4
+!Wis 1:1-4
 1 Love justice, you that are the judges of the earth. Think of the Lord in~
 goodness, and seek him in simplicity of heart.
 2 For he is found by them that tempt him not: and he showeth himself to them~
@@ -22,7 +22,7 @@ to sins.
 @TemporaM/081-0:Responsory1
 
 [Lectio2]
-!Sap 1:5-8
+!Wis 1:5-8
 5 For the Holy Spirit of discipline will flee from the deceitful, and will~
 withdraw himself from thoughts that are without understanding, and he shall not~
 abide when iniquity cometh in.
@@ -38,7 +38,7 @@ chastising judgment pass him by.
 @TemporaM/081-0:Responsory2
 
 [Lectio3]
-!Sap 1:9-11
+!Wis 1:9-11
 9 For inquisition shall be made into the thoughts of the ungodly: and the~
 hearing of his words shall come to God, to the chastising of his iniquities.
 10 For the ear of jealousy heareth all things, and the tumult of murmuring shall~

@@ -15,7 +15,7 @@ The Lord hath sent * His Angel, and hath delivered me out of the hand of Herod, 
 Thou art Peter * and upon this Rock I will build My Church.;;116
 
 [Capitulum Vespera]
-!Act 12:1-3
+!Acts 12:1-3
 v. Herod the King stretched forth his hands, to vex certain of the Church. And~
 he killed James, the brother of John, with the sword. And because he saw it~
 pleased the Jews, he proceeded farther to take Peter also.
@@ -76,7 +76,7 @@ Amen.
 
 [Lectio1]
 From the Acts of Apostles.
-!Act 12:1-5
+!Acts 12:1-5
 1 And at the same time, Herod the king stretched forth his hands, to afflict~
 some of the church.
 2 And he killed James, the brother of John, with the sword.
@@ -92,7 +92,7 @@ church unto God for him.
 @Sancti/06-29:Responsory1
 
 [Lectio2]
-!Act 12:6-8
+!Acts 12:6-8
 6 And when Herod would have brought him forth, the same night Peter was sleeping~
 between two soldiers, bound with two chains: and the keepers before the door~
 kept the prison.
@@ -106,7 +106,7 @@ so. And he said to him: Cast thy garment about thee, and follow me.
 @Sancti/06-29:Responsory2
 
 [Lectio3]
-!Act 12:9-11
+!Acts 12:9-11
 9 And going out, he followed him, and he knew not that it was true which was~
 done by the angel: but thought he saw a vision.
 10 And passing through the first and the second ward, they came to the iron gate~
@@ -160,7 +160,7 @@ reverence for these holy chains greatly increased in the City.
 
 [Lectio7]
 From the Holy Gospel according to Matthew
-!Matth 16:13-19
+!Matt 16:13-19
 At that time Jesus came into the coasts of Caesarea Philippi, and He asked His~
 disciples, saying Who do men say that I, the Son of Man, am And so on.
 _
@@ -225,7 +225,7 @@ The Lord hath sent * His Angel, and hath delivered me out of the hand of Herod. 
 Thou art Peter * and upon this Rock I will build My Church.
 
 [Capitulum Laudes]
-!Act 12:1-3
+!Acts 12:1-3
 v. Herod the King stretched forth his hands, to vex certain of the Church. And~
 he killed James, the brother of John, with the sword. And because he saw it~
 pleased the Jews, he proceeded farther to take Peter also.
@@ -253,13 +253,13 @@ thou shalt loose on earth shall be loosed in heaven, saith the Lord to Simon~
 Peter.
 
 [Lectio Prima]
-!Act 12:11
+!Acts 12:11
 v. And when Peter was come to himself, he said Now I know of a surety that the~
 Lord hath sent His Angel, and hath delivered me out of the hand of Herod, and~
 from all the expectation of the people of the Jews.
 
 [Capitulum Tertia]
-!Act 12:1-3
+!Acts 12:1-3
 v. Herod the King stretched forth his hands, to vex certain of the Church. And~
 he killed James, the brother of John, with the sword. And because he saw it~
 pleased the Jews, he proceeded farther to take Peter also.
@@ -277,7 +277,7 @@ V. Thou shalt make them princes over all the earth
 R. They shall remember thy name, O Lord
 
 [Capitulum Sexta]
-!Act 12:5
+!Acts 12:5
 v. Peter therefore was kept in prison. But prayer was made without ceasing of~
 the Church unto God for him.
 $Deo gratias
@@ -294,7 +294,7 @@ V. O God, are made exceedingly honourable:
 R. Their principality is exceedingly strengthened.
 
 [Capitulum Nona]
-!Act 12:11
+!Acts 12:11
 v. And when Peter was come to himself, he said Now I know of a surety that the~
 Lord hath sent His Angel, and hath delivered me out of the hand of Herod, and~
 from all the expectation of the people of the Jews.

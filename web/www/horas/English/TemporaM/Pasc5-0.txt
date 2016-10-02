@@ -7,7 +7,7 @@ Una Antiphona
 Doxology=Pasc
 
 [Capitulum Vespera]
-!Jacob 1:22-24
+!Jas 1:22-24
 v. My beloved: but be ye doers of the word, and not hearers only, deceiving your own selves. For if a man be a hearer of the word, and not a doer, he shall be compared to a man who went his way, and presently forgot what manner of man he was. 
 $Deo gratias
 _
@@ -34,7 +34,7 @@ $Per Dominum
 
 [Lectio1]
 Lesson from the first letter of St Peter the Apostle
-!1 Petri 1:1-5
+!1 Pet 1:1-5
 1 Peter, an apostle of Jesus Christ, to the strangers dispersed through Pontus,~
 Galatia, Cappadocia, Asia, and Bithynia, elect,
 2 According to the foreknowledge of God the Father, unto the sanctification of~
@@ -58,7 +58,7 @@ R. If I do not remember thee, let my tongue cleave to the roof of my mouth.~
 Alleluia, Alleluia.
 
 [Lectio2]
-!1 Petri 1:6-12
+!1 Pet 1:6-12
 6 Wherein you shall greatly rejoice, if now you must be for a little time made~
 sorrowful in divers temptations:
 7 That the trial of your faith (much more precious than gold which is tried by~
@@ -86,7 +86,7 @@ R. There was a noise as of many waters the clouds sent out a sound. Alleluia,~
 Alleluia, Alleluia.
 
 [Lectio3]
-!1 Petri 1:13-21
+!1 Pet 1:13-21
 13 Wherefore having the loins of your mind girt up, being sober, trust perfectly~
 in the grace which is offered you in the revelation of Jesus Christ,
 14 As children of obedience, not fashioned according to the former desires of~
@@ -182,7 +182,7 @@ R. How shall we sing the Lord's song in a strange land Alleluia, Alleluia.
 
 [Lectio7]
 From the Holy Gospel according to John
-!Joann 16:23-3
+!John 16:23-3
 At that time Jesus said unto His disciples Amen, Amen, I say unto you~
 Whatsoever ye shall ask the Father in My Name, He will give it you. And so on.
 _
@@ -244,7 +244,7 @@ something, because all things are nothing in comparison with this.
 @TemporaM/Pasc4-0:Responsory9
 
 [Capitulum Laudes]
-!Jacob 1:22-24
+!Jas 1:22-24
 v. My beloved: But be ye doers of the word, and not hearers only, deceiving your~
 own selves. For if a man be a hearer of the word, and not a doer, he shall be~
 compared to a man beholding his own countenance in a glass. For he beheld~
@@ -266,7 +266,7 @@ R. The heaven and the Earth cries with joy, alleluia.
 Hitherto * have ye asked nothing in my Name; ask ye, and ye shall receive, alleluia.
 
 [Capitulum Tertia]
-!Jacob 1:22-24
+!Jas 1:22-24
 v. My belowed: But be ye doers of the word, and not hearers only, deceiving your~
 own selves. For if a man be a hearer of the word, and not a doer, he shall be~
 compared to a man beholding his own countenance in a glass. For he beheld~
@@ -274,14 +274,14 @@ himself, and went his way, and presently forgot what manner of man he was.
 $Deo gratias
 
 [Capitulum Sexta]
-!Jacob 1:25
+!Jas 1:25
 v. But he that hath looked into the perfect law of liberty, and hath continued~
 therein, not becoming a forgetful hearer, but a doer of the work; this man shall~
 be blessed in his deed.
 $Deo gratias
 
 [Capitulum Nona]
-!Jacob 1:27
+!Jas 1:27
 v. Religion clean and undefiled before God and the Father, is this: to visit the~
 fatherless and widows in their tribulation: and to keep one's self unspotted~
 from this world.
@@ -298,7 +298,7 @@ loveth you, because ye have loved Me, and have believed in Me. Alleluia.
 
 [LectioE]
 Continuation of the Holy Gospel according to John
-!Joann 16:23-3
+!John 16:23-3
 16:23 And in that day you shall not ask me any thing. Amen, amen I say to you: if you ask the Father any thing in my name, he will give it you.
 16:24 Hitherto you have not asked any thing in my name. Ask, and you shall receive; that your joy may be full.
 16:25 These things I have spoken to you in proverbs. The hour cometh, when I will no more speak to you in proverbs, but will shew you plainly of the Father.

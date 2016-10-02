@@ -10,7 +10,7 @@ Feria Te Deum
 
 [Lectio1]
 From the Holy Gospel according to Luke
-!Luc 11:5-13
+!Luke 11:5-13
 At that time Jesus said unto His disciples Which of you shall have a friend,~
 and shall go unto him at midnight, and say unto him Friend, lend me three~
 loaves. And so on.
@@ -92,7 +92,7 @@ $Per Dominum
 
 [LectioE]
 v. Continuation of the Holy Gospel according to Luke
-!Luc 11:5-13
+!Luke 11:5-13
 11:5 And he said to them: Which of you shall have a friend, and shall go to him at midnight, and shall say to him: Friend, lend me three loaves,
 11:6 Because a friend of mine is come off his journey to me, and I have not what to set before him.
 11:7 And he from within should answer, and say: Trouble me not, the door is now shut, and my children are with me in bed; I cannot rise and give thee.

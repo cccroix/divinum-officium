@@ -1,6 +1,6 @@
 [Lectio1]
 From the Book Of Ecclesiaticus
-!Eccl 10:1-5
+!Sir 10:1-5
 1 A wise judge shall judge his people, and the government of a prudent man shall~
 be steady.
 2 As the judge of the people is himself, so also are his ministers: and what~
@@ -16,7 +16,7 @@ he shall lay his honour.
 @TemporaM/081-2:Responsory1
 
 [Lectio2]
-!Eccl 10:6-10
+!Sir 10:6-10
  Remember not any injury done thee by thy neighbour, and do thou nothing by~
 deeds of injury.
 7 Pride is hateful before God and men: and all iniquity of nations is execrable.
@@ -31,7 +31,7 @@ even his own soul to sale: because while he liveth he hath cast away his bowels.
 @TemporaM/081-0:Responsory5
 
 [Lectio3]
-!Eccl 10:11-16
+!Sir 10:11-16
 11 All power is of short life. A long sickness is troublesome to the physician.
 12 The physician cutteth off it short sickness: so also a king is today, and~
 tomorrow he shall die.

@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 Lesson from the Acts of the Apostles
-!Act 24:10-16
+!Acts 24:10-16
 10 Then Paul answered, (the governor making a sign to him to speak:) Knowing that for many years thou hast been judge over this nation, I will with good courage answer for myself.
 11 For thou mayest understand, that there are yet but twelve days, since I went up to adore in Jerusalem: 
 12 And neither in the temple did they find me disputing with any man, or causing any concourse of the people, neither in the synagogues, nor in the city: 
@@ -21,7 +21,7 @@ Lesson from the Acts of the Apostles
 @Tempora/Pasc0-2:Responsory1
 
 [Lectio2]
-!Act 24:17-21
+!Acts 24:17-21
 17 Now after many years, I came to bring alms to my nation, and offerings, and vows. 
 18 In which I was found purified in the temple: neither with multitude, nor with tumult. 
 19 But certain Jews of Asia, who ought to be present before thee, and to accuse, if they had any thing against me: 
@@ -32,7 +32,7 @@ Lesson from the Acts of the Apostles
 @Tempora/Pasc0-2:Responsory2
 
 [Lectio3]
-!Act 24:22-27
+!Acts 24:22-27
 22 And Felix put them off, having most certain knowledge of this way, saying: When Lysias the tribune shall come down, I will hear you. 
 23 And he commanded a centurion to keep him, and that he should be easy, and that he should not prohibit any of his friends to minister unto him. 
 24 And after some days, Felix, coming with Drusilla his wife, who was a Jew, sent for Paul, and heard of him the faith, that is in Christ Jesus. 

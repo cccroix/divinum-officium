@@ -5,7 +5,7 @@ Feria Sexta infra Hebdomadam Passionis;;Feria major;;2
 
 [Lectio1]
 From the holy Gospel according to John
-!Joann 11:47-54
+!John 11:47-54
 In that time chief priests and the Pharisees, gathered a council, and said: What~
 do we, for this man doth many miracles? If we let him alone so, all will believe~
 in him; and the Romans will come, and take away our place and nation. And so on.
@@ -74,7 +74,7 @@ $Per Dominum
 
 [LectioE]
 v. Continuation of the Holy Gospel according to John
-!Joann 11:47-54
+!John 11:47-54
 11:47 The chief priests therefore, and the Pharisees, gathered a council, and said: What do we, for this man doth many miracles?
 11:48 If we let him alone so, all will believe in him; and the Romans will come, and take away our place and nation.
 11:49 But one of them, named Caiphas, being the high priest that year, said to them: You know nothing.

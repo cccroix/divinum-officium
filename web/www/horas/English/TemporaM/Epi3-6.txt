@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 From the letter of St Paul to the Ephesians
-!Ephes 6:1-4
+!Eph 6:1-4
 1 Children, obey your parents in the Lord, for this is just.
 2 Honour thy father and thy mother, which is the first commandment with a~
 promise:
@@ -18,7 +18,7 @@ discipline and correction of the Lord.
 @TemporaM/Epi2-3:Responsory1
 
 [Lectio2]
-!Ephes 6:5-9
+!Eph 6:5-9
 5 Servants, be obedient to them that are your lords according to the flesh, with~
 fear and trembling, in the simplicity of your heart, as to Christ:
 6 Not serving to the eye, as it were pleasing men, but, as the servants of~
@@ -34,7 +34,7 @@ persons with him.
 @TemporaM/Epi2-3:Responsory1
 
 [Lectio3]
-!Ephes 6:10-13
+!Eph 6:10-13
 10 Finally, brethren, be strengthened in the Lord, and in the might of his~
 power.
 11 Put you on the armour of God, that you may be able to stand against the~

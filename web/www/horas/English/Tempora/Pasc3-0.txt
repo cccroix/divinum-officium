@@ -7,7 +7,7 @@ Duplex
 Una Antiphona
 
 [Capitulum Vespera]
-!1 Petri 2:11
+!1 Pet 2:11
 v. Dearly beloved, I beseech you as strangers and pilgrims, to refrain yourselves from carnal desires which war against the soul.
 $Deo gratias
 
@@ -24,7 +24,7 @@ $Per Dominum
 
 [Lectio1]
 Lesson from the book of Revelation
-!Apoc 1:1-6
+!Rev 1:1-6
 1 The Revelation of Jesus Christ, which God gave unto him, to make known to his servants the things which must shortly come to pass: and signified, sending by his angel to his servant John, who hath given testimony to the word of God, and the testimony of Jesus Christ, what things soever he hath seen.
 3 Blessed is he, that readeth and heareth the words of this prophecy; and keepeth those things which are written in it; for the time is at hand.
 4 John to the seven churches which are in Asia. Grace be unto you and peace from him that is, and that was, and that is to come, and from the seven spirits which are before his throne,
@@ -39,7 +39,7 @@ V. And hast made us to our God a kingdom and priests.
 R. In thy blood, alleluia.
 
 [Lectio2]
-!Apoc 1:7-11
+!Rev 1:7-11
 7 Behold, he cometh with the clouds, and every eye shall see him, and they also that pierced him. And all the tribes of the earth shall bewail themselves because of him. Even so. Amen.
 8 I am Alpha and Omega, the beginning and the end, saith the Lord God, who is, and who was, and who is to come, the Almighty.
 9 I John, your brother and your partner in tribulation, and in the kingdom, and patience in Christ Jesus, was in the island, which is called Patmos, for the word of God, and for the testimony of Jesus.
@@ -53,7 +53,7 @@ V. in me is all hope of life and of virtue.
 R. Come over to me, all ye that desire me, and be filled with my fruits, alleluia, alleluia.
 
 [Lectio3]
-!Apoc 1:12-19
+!Rev 1:12-19
 12 And I turned to see the voice that spoke with me. And being turned, I saw seven golden candlesticks:
 13 And in the midst of the seven golden candlesticks, one like to the Son of man, clothed with a garment down to the feet, and girt about the paps with a golden girdle.
 14 And his head and his hairs were white, as white wool, and as snow, and his eyes were as a flame of fire,
@@ -107,7 +107,7 @@ R. And the sweet smell of her garments, above all aromatical spices, alleluia, a
 
 [Lectio7]
 From the Holy Gospel according to John
-!Joann 16:16-22
+!John 16:16-22
 At that time, Jesus said to his disciples: A little while, and now you shall not see me; and again a little while, and you shall see me: because I go to the Father. And so on.
 _
 Homily by St. Augustine, Bishop (of Hippo.)
@@ -138,7 +138,7 @@ This little while seemeth a very long while to us now, while as it is still goin
 &teDeum
 
 [Capitulum Laudes]
-!1 Petri 2:11
+!1 Pet 2:11
 v. Dearly beloved, I beseech you as strangers and pilgrims, to refrain yourselves from carnal desires which war against the soul.
 $Deo gratias
 
@@ -150,12 +150,12 @@ R. For Thou art risen again, O Christ! Alleluia.
 A little while * and you shall not see me; and again a little while, and you shall see me, and, because I go to the Father, alleluia, alleluia.
 
 [Capitulum Tertia]
-!1 Petri 2:11
+!1 Pet 2:11
 v. Dearly beloved, I beseech you as strangers and pilgrims, to refrain yourselves from carnal desires which war against the soul,
 $Deo gratias
 
 [Capitulum Sexta]
-!1 Petri 2:13-14
+!1 Pet 2:13-14
 v. Be ye subject therefore to every human creature for God's sake: whether it be to the king as excelling; Or to governors as sent by him for the punishment of evildoers, and for the praise of the good.
 $Deo gratias
 

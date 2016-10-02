@@ -18,7 +18,7 @@ $Per eumdem
 
 [Lectio1]
 Lesson from the book of Jeremias
-!Jerem 2:12-18
+!Jer 2:12-18
 12 Be astonished, O ye heavens, at this, and ye gates thereof, be very desolate,~
 saith the Lord.
 13 For my people have done two evils. They have forsaken me, the fountain of~
@@ -42,7 +42,7 @@ V. In the day of my trouble I called upon thee, for Thou hast heard me.
 R. Thou hast pleaded my cause, and hast redeemed me, O Lord my God.
 
 [Lectio2]
-!Jerem 2:18-22
+!Jer 2:18-22
 18 And now what hast thou to do in the way of Egypt, to drink the troubled~
 water? And what hast thou to do with the way of the Assyrians, to drink the~
 water of the river?
@@ -65,7 +65,7 @@ V. In the day of my trouble I called upon thee, for Thou hast heard me.
 R. Thou hast pleaded my cause, and hast redeemed me, O Lord my God.
 
 [Lectio3]
-!Jerem 2:23-32
+!Jer 2:23-32
 23 How canst thou say: I am not polluted, and I have not walked after Baalim?~
 see thy ways in the valley, know what thou hast done: as a swift runner pursuing~
 his course.
@@ -179,7 +179,7 @@ confounded that persecute me, * But let not me be confounded.
 
 [Lectio7]
 From the Holy Gospel according to Matthew
-!Matth 21:1-9
+!Matt 21:1-9
 In that time when Jesus drew nigh to Jerusalem, and were come to Bethphage, unto~
 mount Olivet, then Jesus sent two disciples, Saying to them: And so on.
 _
@@ -339,7 +339,7 @@ there shall ye see Me, saith the Lord.
 
 [LectioE]
 Continuation of the Holy Gospel according to Matthew
-!Matth 21:1-9
+!Matt 21:1-9
 21:1 AND when they drew nigh to Jerusalem, and were come to Bethphage, unto mount Olivet, then Jesus sent two disciples,
 21:2 Saying to them: Go ye into the village that is over against you, and immediately you shall find an ass tied, and a colt with her: loose them and bring them to me.
 21:3 And if any man shall say anything to you, say ye, that the Lord hath need of them: and forthwith he will let them go.

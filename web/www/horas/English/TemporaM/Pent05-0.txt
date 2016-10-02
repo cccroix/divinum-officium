@@ -28,7 +28,7 @@ $Per Dominum
 
 [Lectio1]
 Lesson from the second book of Samuel
-!2 Reg 1:1-4
+!2 Sam 1:1-4
 1 Now it came to pass, after Saul was dead, that David returned from the~
 slaughter of the Amalecites, and abode two days in Siceleg.
 2 And on the third day, there appeared a man who came out of Saul's camp, with~
@@ -48,7 +48,7 @@ among you.
 R. And He will deliver you out of the hand of your enemies.
 
 [Lectio2]
-!2 Reg 1:5-10
+!2 Sam 1:5-10
 5 And David said to the young man that told him: How knowest thou that Saul and~
 Jonathan his son, are dead?
 6 And the young man that told him, said: I came by chance upon mount Gelboe, and~
@@ -71,7 +71,7 @@ of the bear
 R. And anointed me with the oil of His mercy.
 
 [Lectio3]
-!2 Reg 1:11-15
+!2 Sam 1:11-15
 11 Then David took hold of his garments and rent them, and likewise all the men~
 that were with him.
 12 And they mourned, and wept, and fasted until evening for Saul, and for~
@@ -158,7 +158,7 @@ ever.
 
 [Lectio7]
 From the Holy Gospel according to Matthew
-!Matth 5:20-24
+!Matt 5:20-24
 At that time Jesus said unto His disciples: Unless your righteousness shall~
 exceed the righteousness of the Scribes and Pharisees, ye shall in no case enter~
 into the kingdom of heaven. And so on.
@@ -228,7 +228,7 @@ R. As incense before thee.
 
 [LectioE]
 Continuation of the Holy Gospel according to Matthew
-!Matth 5:20-24
+!Matt 5:20-24
 5:20 For I tell you, that unless your justice abound more than that of the scribes and Pharisees, you shall not enter into the kingdom of heaven.
 5:21 You have heard that it was said to them of old: Thou shalt not kill. And whosoever shall kill shall be in danger of the judgment.
 5:22 But I say to you, that whosoever is angry with his brother, shall be in danger of the judgment. And whosoever shall say to his brother, Raca, shall be in danger of the council. And whosoever shall say, Thou Fool, shall be in danger of hell fire.

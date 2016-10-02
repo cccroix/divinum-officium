@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the book of Isaias
-!Isai 14:1-2
+!Isa 14:1-2
 1 HER time is near at hand, and her days shall not be prolonged. For the Lord~
 will have mercy on Jacob, and will yet choose out of Israel, and will make them~
 rest upon their own ground: and the stranger shall be joined with them, and~
@@ -20,7 +20,7 @@ oppressors.
 @TemporaM/Adv1-2:Responsory1
 
 [Lectio2]
-!Isai 14:3-6
+!Isa 14:3-6
 3 And it shall come to pass in that day, that when God shall give thee rest from~
 thy labour, and from thy vexation, and from the hard bondage, wherewith thou~
 didst serve before,
@@ -34,7 +34,7 @@ under in fury, that persecuted in a cruel manner.
 @TemporaM/Adv1-2:Responsory2
 
 [Lectio3]
-!Isai 14:12-15
+!Isa 14:12-15
 12 How art thou fallen from heaven, O Lucifer, who didst rise in the morning?~
 how art thou fallen to the earth, that didst wound the nations?
 13 And thou saidst in thy heart: I will ascend into heaven, I will exalt my~

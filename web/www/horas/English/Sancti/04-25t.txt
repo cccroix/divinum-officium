@@ -18,7 +18,7 @@ $Per Dominum
 
 [Lectio1]
 Lesson from the book of Ezekiel
-!Ezech 1:1-4
+!Ezek 1:1-4
 1 Now it came to pass in the thirtieth year, in the fourth month, on the fifth day of the month, when I was in the midst of the captives by the river Chobar, the heavens were opened, and I saw the visions of God.
 2 On the fifth day of the month, the same was the fifth year of the captivity of king Joachin,
 3 The word of the Lord came to Ezechiel the priest the son of Bud in the land of the Chaldeans, by the river Chobar: and the hand of the Lord was there upon him.
@@ -28,7 +28,7 @@ Lesson from the book of Ezekiel
 @Tempora/Pent01-0:Responsory1
 
 [Lectio2]
-!Ezech 1:5-9
+!Ezek 1:5-9
 5 And in the midst thereof the likeness of four living creatures: and this was their appearance: there was the likeness of a man in them.
 6 Every one had four faces, and every one four wings.
 7 Their feet were straight feet, and the sole of their foot was like the sole of a calf's foot, and they sparkled like the appearance of glowing brass.
@@ -42,7 +42,7 @@ V. Give ear, O Shepherd of Israel, Thou That leadest Joseph like a flock.
 R. Open thine eyes, and behold our desolation.
 
 [Lectio3]
-!Ezech 1:10-12
+!Ezek 1:10-12
 10 And as for the likeness of their faces: there was the face of a man, and the face of a lion on the right side of all the four: and the face of an ox, on the left side of all the four: and the face of an eagle over all the four.
 11 And their faces, and their wings were stretched upward: two wings of every one were joined, and two covered their bodies:
 12 And every one of them went straight forward: whither the impulse of the spirit was to go, thither they went: and they turned not when they went.

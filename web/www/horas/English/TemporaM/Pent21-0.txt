@@ -15,7 +15,7 @@ $Per Dominum
 
 [Lectio7]
 From the Holy Gospel according to Matthew
-!Matth 18:23-35
+!Matt 18:23-35
 At that time Jesus spake unto His disciples this parable The kingdom of~
 heaven is likened unto a certain king, which would take account of his servants.~
 And so on.
@@ -73,7 +73,7 @@ R. As incense before thee.
 
 [LectioE]
 Continuation of the Holy Gospel according to Matthew
-!Matth 18:23-35
+!Matt 18:23-35
 18:23 Therefore is the kingdom of heaven likened to a king, who would take an account of his servants.
 18:24 And when he had begun to take the account, one was brought to him, that owed him ten thousand talents.
 18:25 And as he had not wherewith to pay it, his lord commanded that he should be sold, and his wife and children and all that he had, and payment to be made.

@@ -1,6 +1,6 @@
 [Lectio1]
 From the Prophet Ezechiel
-!Ezech 19:1-7
+!Ezek  19:1-7
 1  Moreover take thou up a lamentation for the princes of Israel,
 2  And say: Why did thy mother the lioness lie down among the lions, and bring up her whelps in the midst of young lions?
 3  And she brought out one of her whelps, and he became a lion: and he learned to catch the prey, and to devour men.
@@ -13,7 +13,7 @@ From the Prophet Ezechiel
 @TemporaM/111-0:Responsory7
 
 [Lectio2]
-!Ezech 19:8-11
+!Ezek 19:8-11
 8  And the nations Game together against him on every side out of the provinces, and they spread their net over him, in their wounds he was taken.
 9  And they put him into a cage, they brought him in chains to the king of Babylon: and they cast him into prison, that his voice should no more be heard upon the mountains of Israel.
 10  thy mother is like a vine in thy blood planted by the water: her fruit and her branches have grown out of many waters.
@@ -23,7 +23,7 @@ From the Prophet Ezechiel
 @TemporaM/111-1:Responsory2
 
 [Lectio3]
-!Ezech 8:12-14
+!Ezek 8:12-14
 12  And he add to me: Surely thou seest. O son of man, what the ancients of the house of Israel do in the dark, every one in private in his chamber: for they say: The Lord seeth us not, the Lord hath forsaken the earth.
 13  And he said to me: If thou turn thee again, thou shalt see greater abominations which these commit.
 14  And he brought me in by the door of the gate of the Lord's house, which looked to the north: and behold women sat there mourning for Adonis.

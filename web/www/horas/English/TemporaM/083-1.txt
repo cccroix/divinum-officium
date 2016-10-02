@@ -1,6 +1,6 @@
 [Lectio1]
 From the Book of Wisdom
-!Sap 3:1-6
+!Wis 3:1-6
 1 But the souls of the just are in the hand of God, and the torment of death~
 shall not touch them.
 2 In the sight of the unwise they seemed to die: and their departure was taken~
@@ -17,7 +17,7 @@ hath received them, and in time there shall be respect had to them.
 @TemporaM/081-1:Responsory1
 
 [Lectio2]
-!Sap 3:7-11
+!Wis 3:7-11
 7 The just shall shine, and shall run to and fro like sparks among the reeds.
 8 They shall judge nations, and rule over people, and their Lord shall reign for~
 ever.
@@ -32,7 +32,7 @@ vain, and their labours without fruit, and their works unprofitable.
 @TemporaM/081-1:Responsory2
 
 [Lectio3]
-!Sap 5:16-21
+!Wis 5:16-21
 16 But the just shall live for evermore: and their reward is with the Lord, and~
 the care of them with the most High.
 17 Therefore shall they receive a kingdom of glory, and a crown of beauty at the~

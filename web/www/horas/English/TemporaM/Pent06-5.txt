@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the second book of Samuel
-!2 Reg 16:5-8
+!2 Sam 16:5-8
 5 And king David came as far as Bahurim: and behold there came out from thence a~
 man of the kindred of the house of Saul named Semei, the son of Gera, and coming~
 out he cursed as he went on,
@@ -24,7 +24,7 @@ art a man of blood.
 @TemporaM/Pent01-2:Responsory1
 
 [Lectio2]
-!2 Reg 16:9-10
+!2 Sam 16:9-10
 9 And Abisai the son of Sarvia said to the king: Why should this dead dog curse~
 my lord the king? I will go, and cut off his head.
 10 And the king said: What have I to do with you, ye sons of Sarvia? Let him~
@@ -35,7 +35,7 @@ that shall dare say, why hath he done so?
 @TemporaM/Pent01-2:Responsory2
 
 [Lectio3]
-!2 Reg 16:11-12
+!2 Sam 16:11-12
 11 And the king said to Abisai, and to all his servants: Behold my son, who came~
 forth from my bowels, seeketh my life: how much more now a son of Jemini? let~
 him alone that he may curse as the Lord hath bidden him.

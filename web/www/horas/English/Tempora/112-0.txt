@@ -3,7 +3,7 @@ Consider, O Lord, how that the city that was full with grace became desolate * s
 
 [Lectio1]
 Lesson from the book of Ezekiel
-!Ezech 21:1-5
+!Ezek 21:1-5
 1 And the word of the Lord came to me, saying:
 2 Son of man, set thy face toward Jerusalem, and let thy speech flow towards the holy places, and prophesy against the land of Israel:
 3 And say to the land of Israel: Thus saith the Lord God: Behold I come against thee, and I will draw forth my sword out of its sheath, and will cut off in thee the just, and the wicked.
@@ -14,7 +14,7 @@ Lesson from the book of Ezekiel
 @Tempora/Pent01-0:Responsory1
 
 [Lectio2]
-!Ezech 21:6-11
+!Ezek 21:6-11
 6 And thou, son of man, mourn with the breaking of thy loins, and with bitterness sigh before them. 
 7 And when they shall say to thee: Why mournest thou? thou shalt say: For that which I hear: because it cometh, and every heart shall melt, and all hands shall be made feeble, and every spirit shall faint, and water shall run down every knee: behold it cometh, and it shall be done, saith the Lord God. 
 8 And the word of the Lord came to me, saying: 
@@ -26,7 +26,7 @@ Lesson from the book of Ezekiel
 @Tempora/111-0:Responsory2
 
 [Lectio3]
-!Ezech 21:12-15
+!Ezek 21:12-15
 12 Cry, and howl, O son of man, for this sword is upon my people, it is upon all the princes of Israel, that are fled: they are delivered up to the sword with my people, strike therefore upon thy thigh, 
 13 Because it is tried: and that when it shall overthrow the sceptre, and it shall not be, saith the Lord God. 
 14 Thou therefore, O son of man, prophesy, and strike thy hands together, and let the sword be doubled, and let the sword of the slain be tripled: this is the sword of a great slaughter, that maketh them stand amazed, 

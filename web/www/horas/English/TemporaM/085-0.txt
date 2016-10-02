@@ -8,7 +8,7 @@ R. And let there descend upon us thy mercy.
 
 [Lectio1]
 From the Book Of Ecclesiaticus
-!Eccl 5:1-5
+!Sir 5:1-5
 1 Set not thy heart upon unjust possessions, and say not: I have enough to live~
 on: for it shall be of no service in the time of vengeance and darkness.
 2 Follow not in thy strength the desires of thy heart:
@@ -22,7 +22,7 @@ patient rewarder.
 @TemporaM/081-0:Responsory1
 
 [Lectio2]
-!Eccl 5:6-11
+!Sir 5:6-11
 6 And say not: The mercy of the Lord is great, he will have mercy on the~
 multitude of my sins.
 7 For mercy and wrath quickly come from him, and his wrath looketh upon sinners.
@@ -38,7 +38,7 @@ proved by a double tongue.
 @TemporaM/081-0:Responsory2
 
 [Lectio3]
-!Eccl 5:12-16
+!Sir 5:12-16
 12 Be steadfast in the way of the Lord, and in the truth of thy judgment, and in~
 knowledge, and let the word of peace and justice keep with thee.
 13 Be meek to hear the word, that thou mayst understand: and return a true~

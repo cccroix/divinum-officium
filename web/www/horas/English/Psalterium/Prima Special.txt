@@ -1,5 +1,5 @@
 [Dominica]
-!1 Tim 1:17
+!1 Tim. 1:17
 v. Now to the king of ages, immortal, invisible, the only God, be honour and glory for ever and ever. Amen. 
 
 [Feria]
@@ -11,27 +11,27 @@ v. Love ye truth and peace, said the Almighty Lord.
 v. And the Lord direct your hearts, in the charity of God, and the patience of Christ. 
 
 [Adv]
-!Isai 33:2
+!Isa 33:2
 v. O Lord, have mercy on us: for we have waited for thee: be thou our arm in the morning, and our salvation in the time of trouble. 
 
 [Nat]
-!Hebr 1:11-12
+!Heb 1:11-12
 v. They shall perish, but thou shalt continue: and they shall all grow old as a garment. And as a vesture shalt thou change them, and they shall be changed: but thou art the selfsame, and thy years shall not fail.
 
 [Epi]
-!Isai 60:6
+!Isa 60:6
 v. All they from Saba shall come, bringing gold and frankincense: and shewing forth praise to the Lord.
 
 [Asc]
-!Act 1:11
+!Acts 1:11
 v. Ye men of Galilee, why stand you looking up to heaven? This Jesus who is taken up from you into heaven, shall so come, as you have seen him going into heaven. 
 
 [Quad]
-!Isai 55:6
+!Isa 55:6
 v. Seek ye the Lord, while he may be found: call upon him, while he is near.
 
 [Quad5]
-!Isai 50:6-7
+!Isa 50:6-7
 v. I have not turned away my face from them that rebuked me, and spit upon me. The Lord God is my helper, therefore am I not confounded.
 
 [Pasc]
@@ -39,7 +39,7 @@ v. I have not turned away my face from them that rebuked me, and spit upon me. T
 v. If you be risen with Christ, seek the things that are above; where Christ is sitting at the right hand of God: Mind the things that are above, not the things that are upon the earth. 
 
 [Pent]
-!Act 2:11
+!Acts 2:11
 v. Jews also, and Proselytes, Cretes and Arabians, we do hear them speak in our tongues the wonderful works of God.
 
 [Responsory Adv]

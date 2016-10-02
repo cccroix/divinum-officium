@@ -14,7 +14,7 @@ Spirits and souls * of the just, sing hymns to our Lord, alleluia, alleluia.;;11
 The just shine * like the sun at the face of God, alleluia.;;116
 
 [Capitulum Vespera]
-!Sap 5:1
+!Wis 5:1
 v. Then shall the just stand with great constancy against those that have afflicted them, and taken away their labours.
 $Deo gratias
 
@@ -157,7 +157,7 @@ R. They are filled with glory, alleluia, alleluia.
 
 [Lectio7]
 From the Holy Gospel according to Matthew
-!Matth 19:27-29
+!Matt 19:27-29
 At that time, Peter said unto Jesus: “Behold, we have forsaken all, and followed thee what shall we have therefore?” And so on.
 _
 Homily by St Jerome, Priest (at Bethlehem.)
@@ -196,7 +196,7 @@ Spirits and souls * of the just, sing hymns to our Lord, alleluia, alleluia.
 The just shine * like the sun at the face of God, alleluia.
 
 [Capitulum Laudes]
-!Sap 5:1
+!Wis 5:1
 v. Then shall the just stand with great constancy against those that have afflicted them, and taken away their labours.
 $Deo gratias
 
@@ -266,7 +266,7 @@ Daughters of Jerusalem, * come and see the crowned martyrs, the Lord crowned the
 v. And we know that to them that love God, all things work together unto good, to such as, according to his purpose, are called to be saints.
 
 [Capitulum Tertia]
-!Sap 5:1
+!Wis 5:1
 v. Then shall the just stand with great constancy against those that have afflicted them, and taken away their labours.
 $Deo gratias
 
@@ -282,7 +282,7 @@ V. Eternal light will shine over your saints O Lord, alleluia.
 R. And the eternity of the times, alleluia.
 
 [Capitulum Sexta]
-!Sap 5.5
+!Sap. 5.5
 v. Behold how they are numbered among the children of God, and their lot is among the saints.
 $Deo gratias
 

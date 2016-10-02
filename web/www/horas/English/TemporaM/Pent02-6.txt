@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the first book of Samuel
-!1 Reg 8:1-4
+!1 Sam 8:1-4
 1 Now I there was a man of Benjamin whose name was Cis, the son of Abiel, the~
 son of Seror, the son of Bechorath, the son of Aphia, the son of a man of Jemini,~
 valiant and strong.
@@ -24,7 +24,7 @@ Jemini, and found them not.
 @TemporaM/Pent01-3:Responsory1
 
 [Lectio2]
-!1 Reg 8:5-13
+!1 Sam 8:5-13
 5 And when they were come to the land of Suph, Saul said to the servant that was~
 with him: Come, let us return, lest perhaps my father forget the asses, and be~
 concerned for us.
@@ -56,7 +56,7 @@ therefore go up, for today you shall find him.
 @TemporaM/Pent01-3:Responsory2
 
 [Lectio3]
-!1 Reg 8:14-17
+!1 Sam 8:14-17
 14 And they went up into the city. And when they were walking in the midst of~
 the city, behold Samuel was coming out over against them, to go up to the high~
 place.

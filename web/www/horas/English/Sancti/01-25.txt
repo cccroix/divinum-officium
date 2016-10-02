@@ -11,7 +11,7 @@ Sub unica concl
 Psalm5 Vespera=116
 
 [Capitulum Vespera]
-!Act 9:1-2
+!Acts 9:1-2
 v. And Saul, as yet breathing out threatenings and slaughter against the disciples of the Lord, went to the high priest, and asked of him letters to Damascus, to the synagogues: that if he found any men and women of this way, he might bring them bound to Jerusalem.
 $Deo gratias
 
@@ -26,7 +26,7 @@ For the conversion of the Teacher of the Gentiles, * let us praise our God.
 
 [Lectio1]
 Lesson from the Acts of Apostles
-!Act 9:1-5
+!Acts 9:1-5
 1 And Saul, as yet breathing out threatenings and slaughter against the disciples of the Lord, went to the high priest,
 2 And asked of him letters to Damascus, to the synagogues: that if he found any men and women of this way, he might bring them bound to Jerusalem.
 3 And as he went on his journey, it came to pass that he drew nigh to Damascus; and suddenly a light from heaven shined round about him.
@@ -34,14 +34,14 @@ Lesson from the Acts of Apostles
 5 Who said: Who art thou, Lord? And he: I am Jesus whom thou persecutest. It is hard for thee to kick against the goad.
 
 [Lectio2]
-!Act 9:6-9
+!Acts 9:6-9
 6 And he trembling and astonished, said: Lord, what wilt thou have me to do?
 7 And the Lord said to him: Arise, and go into the city, and there it shall be told thee what thou must do. Now the men who went in company with him, stood amazed, hearing indeed a voice, but seeing no man.
 8 And Saul arose from the ground; and when his eyes were opened, he saw nothing. But they leading him by the hands, brought him to Damascus.
 9 And he was there three days, without sight, and he did neither eat nor drink.
 
 [Lectio3]
-!Act 9:10-16
+!Acts 9:10-16
 10 Now there was a certain disciple at Damascus, named Ananias. And the Lord said to him in a vision: Ananias. And he said: Behold I am here, Lord.
 11 And the Lord said to him: Arise, and go into the street that is called Straight, and seek in the house of Judas, one named Saul of Tarsus. For behold he prayeth.
 12 And he saw a man named Ananias coming in, and putting his hands upon him, that he might receive his sight.
@@ -63,7 +63,7 @@ He went breathing out threatenings and slaughter, yea, truly, devouring the prey
 
 [Lectio7]
 From the Holy Gospel according to Matthew
-!Matth 19:27-29
+!Matt 19:27-29
 In that time, Peter said to Jesus said to him: Behold we have left all things, and have followed thee: what therefore shall we have? And so on.
 _
 !Homily for St Benedict's Birth-day.
@@ -102,19 +102,19 @@ mighty intercession, from all the bands of our sins.
 $Qui vivis
 
 [Lectio Prima]
-!Act 9:22
+!Acts 9:22
 v. But Saul increased much more in strength, and confounded the Jews who dwelt at Damascus, affirming that this is the Christ.
 
 [Capitulum Tertia]
 @:Capitulum Vespera
 
 [Capitulum Sexta]
-!Act 9:8-9
+!Acts 9:8-9
 v. And Saul arose from the ground; and when his eyes were opened, he saw nothing. But they leading him by the hands, brought him to Damascus. And he was there three days, without sight, and he did neither eat nor drink.
 $Deo gratias
 
 [Capitulum Nona]
-!Act 9:22
+!Acts 9:22
 v. But Saul increased much more in strength, and confounded the Jews who dwelt at Damascus, affirming that this is the Christ.
 $Deo gratias
 

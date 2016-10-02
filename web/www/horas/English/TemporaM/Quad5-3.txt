@@ -5,7 +5,7 @@ Feria Quarta infra Hebdomadam Passionis;;Feria major;;2
 
 [Lectio1]
 From the holy Gospel according to John
-!Joann 10:22-38
+!John 10:22-38
 In that time it was the feast of the dedication at Jerusalem: and it was winter.~
 And Jesus walked in the temple, in Solomon's porch. And so on.
 _
@@ -69,7 +69,7 @@ $Per Dominum.
 
 [LectioE]
 v. Continuation of the Holy Gospel according to John
-!Joann 10:22-38
+!John 10:22-38
 10:22 And it was the feast of the dedication at Jerusalem: and it was winter.
 10:23 And Jesus walked in the temple, in Solomon's porch.
 10:24 The Jews therefore came round about him, and said to him: How long dost thou hold our souls in suspense? If thou be the Christ, tell us plainly.

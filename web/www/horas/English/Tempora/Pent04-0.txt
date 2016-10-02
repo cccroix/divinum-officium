@@ -16,7 +16,7 @@ $Per Dominum.
 
 [Lectio1]
 Lesson from the first book of Samuel
-!1 Reg 17:1-7
+!1 Sam 17:1-7
 1 Now the Philistines gathering together their troops to battle, assembled at Socho of Juda, and camped between Socho and Azeca in the borders of Dommim.
 2 And Saul and the children of Israel being gathered together came to the valley of Terebinth, and they set the army in array to fight against the Philistines.
 3 And the Philistines stood on a mountain on the one side, and Israel stood on a mountain on the other side: and there was a valley between them.
@@ -28,7 +28,7 @@ Lesson from the first book of Samuel
 @Tempora/Pent01-1
 
 [Lectio2]
-!1 Reg 17:8-11
+!1 Sam 17:8-11
 8 And standing he cried out to the bands of Israel, and said to them: Why are you come out prepared to fight? am not I a Philistine, and you the servants of Saul? Choose out a man of you, and let him come down and fight hand to hand.
 9 If he be able to fight with me, and kill me, we will be servants to you: but if I prevail against him, and kill him, you shall be servants, and shall serve us.
 10 And the Philistine said: I have defied the bands of Israel this day: Give me a man, and let him fight with me hand to hand.
@@ -38,7 +38,7 @@ Lesson from the first book of Samuel
 @Tempora/Pent01-1
 
 [Lectio3]
-!1 Reg 17:12-16
+!1 Sam 17:12-16
 12 Now David was the son of that Ephrathite of Bethlehem Juda before mentioned, whose name was Isai, who had eight sons, and was an old man in the days of Saul, and of great age among men.
 13 And his three eldest sons followed Saul to the battle: and the names of his three sons that went to the battle, were Eliab the firstborn, and the second Abinadab, and the third Samma.
 14 But David was the youngest. So the three eldest having followed Saul,
@@ -70,7 +70,7 @@ David, then, came, and found the Jewish people set in battle array against the d
 
 [Lectio7]
 From the Holy Gospel according to Luke
-!Luc 5:1-11
+!Luke 5:1-11
 At that time: As the people pressed upon Jesus, to hear the word of God, He stood by the lake of Gennesareth. And so on.
 _
 Homily by St. Ambrose, Bishop of Milan.

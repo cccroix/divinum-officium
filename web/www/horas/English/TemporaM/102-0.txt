@@ -8,7 +8,7 @@ R. And let there descend upon us thy mercy.
 
 [Lectio1]
 From the first book of the Macchabees
-!1 Mach 4:36-40
+!1 Mac 4:36-40
 36 Then Judas, and his brethren said: Behold our enemies are discomfited: let us~
 go up now to cleanse the holy places and to repair them.
 37 And all the army assembled together, and they went up into mount Sion.
@@ -24,7 +24,7 @@ the trumpets of alarm, and they cried towards heaven.
 @TemporaM/101-0:Responsory1
 
 [Lectio2]
-!1 Mach 4:41-46
+!1 Mac 4:41-46
 41 Then Judas appointed men to fight against them that were in the castle, till~
 they had cleansed the holy places.
 42 And he chose priests without blemish, whose will was set upon the law of God:
@@ -41,7 +41,7 @@ place, till there should come a prophet, and give answer concerning them.
 @TemporaM/101-0:Responsory2
 
 [Lectio3]
-!1 Mach 4:47-51
+!1 Mac 4:47-51
 47 Then they took whole stones according to the law, and built a new altar~
 according to the former:
 48 And they built up the holy places, and the things that were within the~

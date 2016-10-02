@@ -18,7 +18,7 @@ $Per Dominum
 
 [Lectio1]
 Beginning of the letter of the blessed Apostle Judas
-!Jud 1:1-4
+!Jude 1:1-4
 1 Jude, the servant of Jesus Christ, and brother of James: to them that are~
 beloved in God the Father, and preserved in Jesus Christ, and called.
 2 Mercy unto you, and peace, and charity be fulfilled.
@@ -30,7 +30,7 @@ this judgment,) ungodly men, turning the grace of our Lord God into riotousness,
 and denying the only sovereign Ruler, and our Lord Jesus Christ.
 
 [Lectio2]
-!Jud 1:5-8
+!Jude 1:5-8
 5 I will therefore admonish you, though ye once knew all things, that Jesus,~
 having saved the people out of the land of Egypt, did afterwards destroy them~
 that believed not:
@@ -44,7 +44,7 @@ example, suffering the punishment of eternal fire.
 blaspheme majesty.
 
 [Lectio3]
-!Jud 1:9-13
+!Jude 1:9-13
 9 When Michael the archangel, disputing with the devil, contended about the body~
 of Moses, he durst not bring against him the judgment of railing speech, but~
 said: The Lord command thee.
@@ -76,7 +76,7 @@ the end, by a glorious martyrdom, the most holy name of Jesus Christ.
 
 [Lectio7]
 From the holy Gospel according to John
-!Joann 15:17-25
+!John 15:17-25
 at that time, Jesus said to his disciples: These things I command you, that you love one another. If the world hate you,~
 know ye, that it hath hated me before you. And so on.
 _

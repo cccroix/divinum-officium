@@ -36,7 +36,7 @@ $Per Dominum.
 
 [Lectio1]
 Lesson from the book of Jeremias
-!Jerem 1:1-5
+!Jer 1:1-5
 1 The words of Jeremias the son of Helcias, of the priests that were in Anathoth, in the land of Benjamin.
 2 The word of the Lord which came to him in the days of Josias, the son of Amon, king of Juda, in the thirteenth year of his reign.
 3 And which came to him in the days of Joakim the son of Josias, king of Juda, unto the end of the eleventh year of Sedecias the son of Josias king of Juda, even unto the carrying away of Jerusalem captive, in the fifth month.
@@ -51,7 +51,7 @@ V. For John had rebuked Herod, for Herodias' sake.
 R. His brother Philip's wife, for he had married her.
 
 [Lectio2]
-!Jerem 1:6-10
+!Jer 1:6-10
 6 And I said: Ah, ah, ah, Lord God: behold, I cannot speak, for I am a child.
 7 And the Lord said to me: Say not: I am a child: for thou shalt go to all that I shall send thee: and whatsoever I shall command thee, thou shalt speak.
 8 Be not afraid at their presence: for I am with thee to deliver thee, saith the Lord.
@@ -65,7 +65,7 @@ V. Herod sent an executioner, and commanded to behead John in the prison.
 R. For Herodias' sake, his brother's wife, whom he had married while his brother was yet alive.
 
 [Lectio3]
-!Jerem 1:17-19
+!Jer 1:17-19
 17 Thou therefore gird up thy loins, and arise, and speak to them all that I command thee. Be not afraid at their presence: for I will make thee not to fear their countenance.
 18 For behold I have made thee this day a fortified city, and a pillar of iron, and a wall of brass, over all the land, to the kings of Juda, to the princes thereof, and to the priests, and to the people of the land.
 19 And they shall fight against thee, and shall not prevail: for I am with thee, saith the Lord, to deliver thee.
@@ -108,7 +108,7 @@ R. And gave him perpetual glory.
 
 [Lectio7]
 From the Holy Gospel according to Mark
-!Marc 6:17-29
+!Mark 6:17-29
 At that time Herod had sent forth, and laid hold upon John, and bound him in prison, for Herodias' sake, his brother Philip's wife, for he had married her. And so on.
 _
 Homily by St. Augustine, Bishop (of Hippo.)

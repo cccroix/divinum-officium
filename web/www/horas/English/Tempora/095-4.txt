@@ -1,6 +1,6 @@
 [Lectio1]
 Lesson from the book of Esther
-!Esth 5:1-5
+!Esth  5:1-5
 1  And on the third day Esther put on her royal apparel, and stood in the inner court of the king's house, over against the king's hall: now he sat upon his throne in the hall of the palace, over against the door of the house.
 2  And when he saw Esther the queen standing, she pleased his eyes, and he held out toward her the golden sceptre, which he held in his hand: and she drew near, and kissed the top of his sceptre.
 3  And the king said to her: What wilt then, queen Esther? what is thy request? if thou shouldst even ask one half of the kingdom, it shall be given to thee.

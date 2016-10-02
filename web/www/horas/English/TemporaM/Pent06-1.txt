@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the second book of Samuel
-!2 Reg 13:22-25
+!2 Sam 13:22-25
 22 But Absalom spoke not to Amnon neither good nor evil: for Absalom hated Amnon~
 because he had ravished his sister Thamar.
 23 And it came to pass after two years, that the sheep of Absalom were shorn in~
@@ -21,7 +21,7 @@ blessed him.
 @TemporaM/Pent01-3:Responsory1
 
 [Lectio2]
-!2 Reg 13:26-29
+!2 Sam 13:26-29
 26 And Absalom said: If thou wilt not come, at least let my brother Amnon, I~
 beseech thee, come with us. And the king said to him: It is not necessary that~
 he should go with thee.
@@ -37,7 +37,7 @@ all the king's sons arose and got up every man upon his mule, and fled.
 @TemporaM/Pent01-3:Responsory2
 
 [Lectio3]
-!2 Reg 13:30-34
+!2 Sam 13:30-34
 30 And while they were yet in the way, a rumour came to David, saying: Absalom~
 hath slain all the king's sons, and there is not one of them left.
 31 Then the king rose up, and rent his garments: and fell upon the ground, and~

@@ -15,21 +15,21 @@ Hymnus Tertia
 
 [Lectio1]
 Lesson from the Acts of Apostles
-!Act 19:1-4
+!Acts 19:1-4
 1 And it came to pass, while Apollo was at Corinth, that Paul having passed through the upper coasts, came to Ephesus, and found certain disciples. 
 2 And he said to them: Have you received the Holy Ghost since ye believed? But they said to him: We have not so much as heard whether there be a Holy Ghost. 
 3 And he said: In what then were you baptized? Who said: In John's baptism. 
 4 Then Paul said: John baptized the people with the baptism of penance, saying: That they should believe in him who was to come after him, that is to say, in Jesus. 
 
 [Lectio2]
-!Act 19:5-8
+!Acts 19:5-8
 5 Having heard these things, they were baptized in the name of the Lord Jesus.
 6 And when Paul had imposed his hands on them, the Holy Ghost came upon them, and they spoke with tongues and prophesied. 
 7 And all the men were about twelve. 
 8 And entering into the synagogue, he spoke boldly for the space of three months, disputing and exhorting concerning the kingdom of God. 
 
 [Lectio3]
-!Act 19:9-12
+!Acts 19:9-12
 9 But when some were hardened, and believed not, speaking evil of the way of the Lord, before the multitude, departing from them, he separated the disciples, disputing daily in the school of one Tyrannus. 
 10 And this continued for the space of two years, so that all they who dwelt in Asia, heard the word of the Lord, both Jews and Gentiles.
 11 And God wrought by the hand of Paul more than common miracles. 
@@ -49,7 +49,7 @@ You hadve already heard of the great miracle that resulted. All there present sp
 
 [Lectio7]
 From the Holy Gospel according to John
-!Joann 3:16-21
+!John 3:16-21
 At that time Jesus said unto Nicodemus God so loved the world that He gave~
 His Only-begotte Son, that whosoever believeth in Hii should not perish, but~
 have everlas ing life. And so on.
@@ -114,7 +114,7 @@ will come unto him, and make Our abode with him. Alleluia.
 
 [LectioE]
 Continuation of the Holy Gospel according to John
-!Joann 3:16-21
+!John 3:16-21
 3:16 For God so loved the world, as to give his only begotten Son; that whosoever believeth in him, may not perish, but may have life everlasting.
 3:17 For God sent not his Son into the world, to judge the world, but that the world may be saved by him.
 3:18 He that believeth in him is not judged. But he that doth not believe, is already judged: because he believeth not in the name of the only begotten Son of God.

@@ -8,7 +8,7 @@ R. And let there descend upon us thy mercy.
 
 [Lectio1]
 Here beginneth the book of Judith
-!Judith 1:1-4
+!Jdt 1:1-4
 1 Now Arphaxad king of the Medes had brought many nations under his dominions,~
 and he built a very strong city, which he called Ecbatana,
 2 Of stones squared and hewed: he made the walls thereof seventy cubits broad,~
@@ -27,7 +27,7 @@ humblest such as boast themselves in their own strength.
 R. Graciously hear the prayers of thy servants.
 
 [Lectio2]
-!Judith 1:5-9
+!Jdt 1:5-9
 5 Now in the twelfth year of his reign, Nabuchodonosor king of the Assyrians,~
 who reigned in Ninive the great city, fought against Arphaxad and overcame him,
 6 In the great plain which is called Ragua, about the Euphrates, and the Tigris,~
@@ -43,7 +43,7 @@ and all the land of Jesse till you come to the borders of Ethiopia.
 @TemporaM/093-0:Responsory7
 
 [Lectio3]
-!Judith 1:10-12; 2:1-3
+!Jdt 1:10-12; 2:1-3
 10 To all these Nabuchodonosor king of the Assyrians, sent messengers:
 11 But they all with one mind refused, and sent them back empty, and rejected~
 them without honour.

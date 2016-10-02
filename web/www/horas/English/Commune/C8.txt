@@ -17,7 +17,7 @@ The Lord's house is well founded * upon a sure rock.;;112
 All thy walls are of stones most precious, * and the towers of Jerusalem shall be built up with jewels.;;147
 
 [Capitulum Vespera]
-!Apoc 21:2
+!Rev 21:2
 v. I saw the holy city, New Jerusalem, coming down from God out of heaven, prepared as a Bride adorned for her husband.
 $Deo gratias
 
@@ -135,7 +135,7 @@ R. Well founded upon a sure rock.
 
 [Lectio1]
 Lesson from the book of Paralipomenon
-!2 Paral 7:1-5
+!2 Chr 7:1-5
 1 And when Solomon had made an end of his prayer, fire came down from heaven, and consumed the holocausts and the victims: and the majesty of the Lord filled the house.
 2 Neither could the priests enter into the temple of the Lord, because the majesty of the Lord had filled the temple of the Lord.
 3 Moreover all the children of Israel saw the fire coming down, and the glory of the Lord upon the house: and falling down with their faces to the ground, upon the stone pavement, they adored and praised the Lord: because he is good, because his mercy endureth for ever.
@@ -149,7 +149,7 @@ V. The Lord's house is established in the top of the mountains; and all nations 
 R. And sweet in their mouths was the sound.
 
 [Lectio2]
-!2 Paral 7:6-9
+!2 Chr 7:6-9
 6 And the priests stood in their offices: and the Levites with the instruments of music of the Lord, which king David made to praise the Lord: because his mercy endureth for ever, singing the hymns of David by their ministry: and the priests sounded with trumpets before them, and all Israel stood.
 7 Solomon also sanctified the middle of the court before the temple of the Lord: for he offered there the holocausts, and the fat of the peace offerings: because the brazen altar, which he had made, could not hold the holocausts and the sacrifices and the fat:
 8 And Solomon kept the solemnity at that time seven days, and all Israel with him, a very great congregation, from the entrance of Emath to the torrent of Egypt.
@@ -162,7 +162,7 @@ V. They shall doubtless come again with rejoicing, bringing their sheaves with t
 R. And all nations shall flow unto it, and shall say: Glory be to thee, O Lord!
 
 [Lectio3]
-!2 Paral 7:11-16
+!2 Chr 7:11-16
 11 And Solomon finished the house of the Lord, and the king's house, and all that he had designed in his heart to do, in the house of the Lord, and in his own house, and he prospered.
 12 And the Lord appeared to him by night, and said: I have heard thy prayer, and I have chosen this place to myself for a house of sacrifice.
 13 If I shut up heaven, and there fall no rain, or if I give orders, and command the locust to devour the land, or if I send pestilence among my people:
@@ -211,7 +211,7 @@ R. Surely this place is holy, and I knew it not.
 
 [Lectio7]
 From the Holy Gospel according to Luke
-!Luc 19:1-10
+!Luke 19:1-10
 At that time: Jesus entered and passed through Jericho. And, behold, there was a man named Zacchaeus, which was the chief among the publicans, and he was rich. And so on.
 _
 Homily by St. Ambrose, Bishop (of Milan.)
@@ -247,7 +247,7 @@ The Lord's house is well founded * upon a sure rock.
 All thy walls are of stones most precious, * and the towers of Jerusalem shall be built up with jewels.
 
 [Capitulum Laudes]
-!Apoc 21:2
+!Rev 21:2
 v. I saw the holy city, New Jerusalem, coming down from God out of heaven, prepared as a Bride adorned for her husband.
 $Deo gratias
 
@@ -334,11 +334,11 @@ R. Well founded upon a sure rock.
 Zacchaeus, make haste and come down, for to-day I must abide at thy house. * And he made haste and came down, and received Him joyfully into his house. This day is salvation come from God to this house. Alleluia.
 
 [Lectio Prima]
-!Apoc 21:4-4
+!Rev 21:4-4
 v. And God shall wipe away all tears from their eyes, and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain; for the former things are passed away. And He That sat upon the throne said: Behold, I make all things new.
 
 [Capitulum Tertia]
-!Apoc 21:2
+!Rev 21:2
 v. I saw the holy city, New Jerusalem, coming down from God out of heaven, prepared as a Bride adorned for her husband.
 $Deo gratias
 
@@ -354,7 +354,7 @@ V. This place is holy, wherein the Priest prayeth.
 R. For the pardon of the transgressions and offences of the people.
 
 [Capitulum Sexta]
-!Apoc 21:3
+!Rev 21:3
 v. And I heard a great voice out of the throne, saying Behold, the tabernacle of God is with men, and He will dwell with them. And they shall be His people; and God Himself shall be with them, and be their God.
 $Deo gratias
 
@@ -370,7 +370,7 @@ V. This is the Lord's house, stoutly builded
 R. Well founded upon a sure rock.
 
 [Capitulum Nona]
-!Apoc 21:4-4
+!Rev 21:4-4
 v. And God shall wipe away all tears from their eyes, and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain; for the former things are passed away. And He That sat upon the throne said Behold, I make all things new.
 $Deo gratias
 

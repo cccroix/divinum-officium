@@ -1,6 +1,6 @@
 [Lectio1]
 From the first book of the Macchabees
-!1 Mach 2:49-54
+!1 Mac  2:49-54
 49  Now the days drew near that Mathathias should die, and he said to his sons: Now hath pride and chastisement gotten strength, and the time of destruction, and the wrath of indignation:
 50  Now therefore, O my sons, be ye zealous for the law, and give your lives for the covenant of your fathers.
 51  And call to remembrance the works of the fathers, which they have done in their generations: and you shall receive great glory, and an everlasting name.
@@ -12,7 +12,7 @@ From the first book of the Macchabees
 @TemporaM/101-0:Responsory1
 
 [Lectio2]
-!1 Mach 2:55-63
+!1 Mac 2:55-63
 55  Jesus, whilst he fulfilled the word, was made ruler in Israel.
 56  Caleb, for bearing witness before the congregation, received an inheritance.
 57  David by his mercy obtained the throne of an everlasting kingdom.
@@ -27,7 +27,7 @@ From the first book of the Macchabees
 @TemporaM/101-0:Responsory2
 
 [Lectio3]
-!1 Mach 2:64-69
+!1 Mac 2:64-69
 64  You therefore, my sons, take courage, and behave manfully in the law: for by it you shall be glorious.
 65  And behold, I know that your brother Simon is a man of counsel: give ear to him always, and he shall be a father to you.
 66  And Judas Machabeus who is valiant and strong from his youth up, let him be the leader of your army, and he shall manage the war of the people.

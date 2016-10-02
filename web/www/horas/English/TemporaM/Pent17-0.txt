@@ -14,7 +14,7 @@ $Per Dominum
 
 [Lectio7]
 From the Holy Gospel according to Matthew
-!Matth 22:34-46
+!Matt 22:34-46
 At that time the Pharisees came unto Jesus, and one of them, which was a~
 lawyer, asked Him a question, tempting Him, saying Master, which is the great~
 commandment in the Law And so on.
@@ -79,7 +79,7 @@ R. As incense before thee.
 
 [LectioE]
 Continuation of the Holy Gospel according to Matthew
-!Matth 22:34-46
+!Matt 22:34-46
 22:34 But the Pharisees hearing that he had silenced the Sadducees, came together:
 22:35 And one of them, a doctor of the law, asking him, tempting him:
 22:36 Master, which is the greatest commandment in the law?

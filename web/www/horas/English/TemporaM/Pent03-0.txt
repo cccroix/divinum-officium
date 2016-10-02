@@ -24,7 +24,7 @@ $Per Dominum
 
 [Lectio1]
 Lesson from the first book of Samuel
-!1 Reg 9:18-21
+!1 Sam 9:18-21
 18 And Saul came to Samuel in the midst of the gate and said: Tell me, I pray~
 thee, where is the house of the seer?
 19 And Samuel answered Saul, saying: I am the seer, go up before me to the high~
@@ -45,7 +45,7 @@ among you.
 R. And He will deliver you out of the hand of your enemies.
 
 [Lectio2]
-!1 Reg 9:22-25
+!1 Sam 9:22-25
 22 Then Samuel taking Saul and his servant, brought them into the parlour, and~
 gave them a place at the head of them that were invited. For there were about~
 thirty men.
@@ -67,7 +67,7 @@ of the bear
 R. And anointed me with the oil of His mercy.
 
 [Lectio3]
-!1 Reg 9:26-27;10:1
+!1 Sam 9:26-27;10:1
 26 And when they were risen in the morning, and it began now to be light, Samuel~
 called Saul on the top of the house, saying: Arise, that I may let thee go. And~
 Saul arose: and they went out both of them, to wit, he and Samuel.
@@ -127,7 +127,7 @@ ever.
 
 [Lectio7]
 From the Holy Gospel according to Luke
-!Luc 15:1-5
+!Luke 15:1-5
 At that time: the publicans and sinners drew near unto him to hear him. And so~
 on.
 _
@@ -205,7 +205,7 @@ R. As incense before thee.
 
 [LectioE]
 Continuation of the Holy Gospel according to Luke
-!Luc 15:1-5
+!Luke 15:1-5
 15:1 NOW the publicans and sinners drew near unto him to hear him.
 15:2 And the Pharisees and the scribes murmured, saying: This man receiveth sinners, and eateth with them.
 15:3 And he spoke to them this parable, saying:

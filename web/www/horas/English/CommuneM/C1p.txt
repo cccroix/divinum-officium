@@ -13,7 +13,7 @@ Protected by veil * your saints turn to you O Lord, alleluia, alleluia;;111
 The just shine * like the, the sun at the face of God, alleluia;;112
 
 [Capitulum Vespera]
-!Sap 5:1
+!Wis 5:1
 v. Then shall the just stand with great constancy against those that have~
 afflicted them, and taken away their labours.
 $Deo gratias
@@ -222,7 +222,7 @@ R. They are filled with glory, alleluia, alleluia.
 
 [Lectio7]
 From the Holy Gospel according to Matthew
-!Matth 19:27-29
+!Matt 19:27-29
 At that time Peter said unto Jesus Behold, we have forsaken all, and~
 followed thee what shall we have therefore? And so on.
 _
@@ -308,7 +308,7 @@ Spirits and souls * of the just, say hymns to our Lord, alleluia, alleluia.
 The just shine * like the, the sun at the face of God, alleluia.
 
 [Capitulum Laudes]
-!Sap 5:1
+!Wis 5:1
 v. Then shall the just stand with great constancy against those that have~
 afflicted them, and taken away their labours.
 $Deo gratias
@@ -388,7 +388,7 @@ v. And we know that to them that love God, all things work together unto good,~
 to such as, according to his purpose, are called to be saints.
 
 [Capitulum Tertia]
-!Sap 5:1
+!Wis 5:1
 v. Then shall the just stand with great constancy against those that have~
 afflicted them, and taken away their labours.
 $Deo gratias
@@ -398,7 +398,7 @@ V. Saints and just, rejoice in the Lord, Alleluia, alleluia.
 R. The Lord had chosen you for his inheritance
 
 [Capitulum Sexta]
-!Sap 5.5
+!Sap. 5.5
 v. Behold how they are numbered among the children of God, and their lot is~
 among the saints.
 $Deo gratias
@@ -429,7 +429,7 @@ inheritance, alleluia
 
 [LectioE]
 Continuation of the Holy Gospel according to Matthew
-!Matth 19:27-29
+!Matt 19:27-29
 19:27 Then Peter answering, said to him: Behold we have left all things, and have followed thee: what therefore shall we have?
 19:28 And Jesus said to them: Amen, I say to you, that you, who have followed me, in the regeneration, when the Son of man shall sit on the seat of his majesty, you also shall sit on twelve seats judging the twelve tribes of Israel.
 19:29 And every one that hath left house, or brethren, or sisters, or father, or mother, or wife, or children, or lands for my name's sake, shall receive an hundredfold, and shall possess life everlasting.

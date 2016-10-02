@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 From the Acts of Apostles.
-!Act 8:9-13
+!Acts 8:9-13
 9 There was therefore great joy in that city. Now there was a certain man named~
 Simon, who before had been a magician in that city, seducing the people of~
 Samaria, giving out that he was some great one:
@@ -26,7 +26,7 @@ which were done.
 @TemporaM/Pasc0-3:Responsory2
 
 [Lectio2]
-!Act 8:14-19
+!Acts 8:14-19
 14 Now when the apostles, who were in Jerusalem, had heard that Samaria had~
 received the word of God, they sent unto them Peter and John.
 15 Who, when they were come, prayed for them, that they might receive the Holy~

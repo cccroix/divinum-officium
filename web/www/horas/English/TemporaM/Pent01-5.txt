@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 From the First Book of Kings.
-!1 Reg 2:27-29
+!1 Sam 2:27-29
 27 And there came a man of God to Heli, and said to him: Thus saith the Lord:~
 Did I not plainly appear to thy father's house, when they were in Egypt in the~
 house of Pharao?
@@ -21,7 +21,7 @@ the firstfruits of every sacrifice of my people Israel?
 @TemporaM/Pent01-2:Responsory1
 
 [Lectio2]
-!1 Reg 2:30-33
+!1 Sam 2:30-33
 30 Wherefore thus saith the Lord the God of Israel: I said indeed that thy house,~
 and the house of thy father should minister in my sight, for ever. But now saith~
 the Lord: Far be this from me: but whosoever shall glorify me, him will I~
@@ -38,7 +38,7 @@ die when they come to man's estate
 @TemporaM/Pent01-2:Responsory2
 
 [Lectio3]
-!1 Reg 2:34-36
+!1 Sam 2:34-36
 34 And this shall be a sign to thee, that shall come upon thy two sons, Ophni~
 and Phinees: In one day they shall both of them die.
 35 And I will raise me up a faithful priest, who shall do according to my heart,~
@@ -94,7 +94,7 @@ to come to the keeping of this great Feast in greater eagerness and numbers.
 
 [Lectio7]
 From the Holy Gospel according to John
-!Joann 6:56-59
+!John 6:56-59
 At that time Jesus said unto the multitudes of the Jews My Flesh is meat~
 indeed and My Blood is drink indeed. And so on.
 _
@@ -129,7 +129,7 @@ believe on Him. And they said "This is an hard saying who can hear it?"
 
 [LectioE]
 v. Continuation of the Holy Gospel according to John
-!Joann 6:56-59
+!John 6:56-59
 6:56 For my flesh is meat indeed: and my blood is drink indeed.
 6:57 He that eateth my flesh, and drinketh my blood, abideth in me, and I in him.
 6:58 As the living Father hath sent me, and I live by the Father; so he that eateth me, the same also shall live by me.

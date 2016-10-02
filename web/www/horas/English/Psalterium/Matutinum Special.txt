@@ -478,7 +478,7 @@ R. I will sing for ever.
 &Gloria
 R. The mercies of the Lord * I will sing for ever. 
 [MM LB6]
-!Eccl 12:2-3
+!Eccli 12:2-3
 v. Do good to the just, and thou shalt find great recompense: and if not of him, assuredly of the Lord. For there is no good for him that is always occupied in evil, and that giveth no alms: for the Highest hateth sinners, and hath mercy on the penitent.
 $Tu autem
 _
@@ -498,7 +498,7 @@ V. Blessed are they that dwell in thy house, O Lord:
 R. They shall praise thee for ever and ever. 
 
 [MM Capitulum Adv]
-!Tit 2:12-13
+!Titus 2:12-13
 v. We should live soberly, and justly, and godly in this world, Looking for the blessed hope and coming of the glory of the great God and our Savior Jesus Christ,
 $Deo gratias
 _
@@ -506,7 +506,7 @@ V. Make haste, O Lord, make no tarrying.
 R. And deliver thy people.
 
 [MM Capitulum Quad]
-!Isai 1:16-18
+!Isa 1:16-18
 v. Wash yourselves, be clean, take away the evil of your devices from my eyes: cease to do perversely, Learn to do well: seek judgment, relieve the oppressed, judge for the fatherless, defend the widow. And then come, and accuse me, saith the Lord.
 $Deo gratias
 _
@@ -514,7 +514,7 @@ V. They shall bear thee up in their hands,
 R. Lest haply thou dash thy foot against a stone.
 
 [MM Capitulum Quad5]
-!Jerem 11:18-19
+!Jer 11:18-19
 v. But thou, O Lord, hast shewn me, and I have known: then thou shewedst me their doings. And I was as a meek lamb, that is carried to be a victim.
 $Deo gratias
 _
@@ -530,7 +530,7 @@ V. The Lord is risen, alleluia.
 R. As he told you, alleluia.
 
 [MM Capitulum C2]
-!Eccl 15:3
+!Eccli 15:3
 v. With the bread of life and understanding, she shall feed him, and give him the water of wholesome wisdom to drink: and she shall be made strong in him, and he shall not be moved.
 $Deo gratias
 _
@@ -562,7 +562,7 @@ V. Precious in the sight of the Lord.
 R. Is the death of his saints. 
 
 [MM Capitulum C4]
-!Eccl 44:20
+!Eccli 44:20
 v. There was not found the like to him in glory, who kept the law of the most High, and was in covenant with him. Therefore by an oath he gave him glory in his posterity.
 $Deo gratias
 _
@@ -570,7 +570,7 @@ V. The righteous shall grow as the lily.
 R. Yea, he shall flourish in the presence of the Lord for ever.
 
 [MM Capitulum C5]
-!Eccl 39:6
+!Eccli 39:6
 v. The just will give his heart to resort early to the Lord that made him, and he will pray in the sight of the most High.
 $Deo gratias
 _
@@ -586,7 +586,7 @@ V. Thou hast loved righteousness, and hated iniquity.
 R. Therefore God, thy God, hath anointed thee with the oil of gladness.
 
 [MM Capitulum C6m]
-!Eccl 51:4-5
+!Eccli 51:4-5
 v. And thou hast delivered me, according to the multitude of the mercy of thy name, from them that did roar, prepared to devour. Out of the hands of them that sought my life, and from the gates of afflictions, which compassed me about.
 $Deo gratias
 _

@@ -6,7 +6,7 @@ Oratio Dominica
 							
 [Lectio1]
 From the First Book of Kings.
-!1 Reg 3:1-5
+!1 Sam 3:1-5
 1 Now the child Samuel ministered to the Lord before Heli, and the word of the~
 Lord was precious in those days, there was no manifest vision.
 2 And it came to pass one day when Heli lay in his place, and his eyes were~
@@ -21,7 +21,7 @@ not call: go back and sleep. And he went and slept.
 @TemporaM/Pent01-3:Responsory1
 
 [Lectio2]
-!1 Reg 3:6-12
+!1 Sam 3:6-12
 6 And the Lord called Samuel again. And Samuel arose and went to Heli, and said:~
 Here am I: for thou calledst me. He answered: I did not call thee, my son:~
 return and sleep.
@@ -44,7 +44,7 @@ concerning his house: I will begin, and I will make an end.
 @TemporaM/Pent01-3:Responsory2
 
 [Lectio3]
-!1 Reg 3:15-20
+!1 Sam 3:15-20
 15 And Samuel slept till morning, and opened the doors of the house of the Lord.~
 And Samuel feared to tell the vision to Heli.
 16 Then Heli called Samuel, and said: Samuel, my son. And he answered: Here am~
@@ -101,7 +101,7 @@ His Body to us and we still are not turned away from evil
 
 [Lectio7]
 From the Holy Gospel according to John
-!Joann 6:56-59
+!John 6:56-59
 At that time Jesus said unto the multitudes of the Jews My Flesh is meat~
 indeed and My Blood is drink indeed. And so on.
 _
@@ -140,7 +140,7 @@ indeed spirit and life but not for thee.
 
 [LectioE]
 v. Continuation of the Holy Gospel according to John
-!Joann 6:56-59
+!John 6:56-59
 6:56 For my flesh is meat indeed: and my blood is drink indeed.
 6:57 He that eateth my flesh, and drinketh my blood, abideth in me, and I in him.
 6:58 As the living Father hath sent me, and I live by the Father; so he that eateth me, the same also shall live by me.

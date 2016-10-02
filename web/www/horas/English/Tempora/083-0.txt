@@ -3,7 +3,7 @@ All wisdom * is of the Lord God, and was with Him from everlasting, yea before t
 
 [Lectio1]
 Lesson from the book of Wisdom
-!Sap 1:1-4
+!Wis 1:1-4
 1 Love justice, you that are the judges of the earth. Think of the Lord in goodness, and seek him in simplicity of heart.
 2 For he is found by them that tempt him not: and he showeth himself to them that have faith in him.
 3 For perverse thoughts separate from God: and his power, when it is tried, reproveth the unwise:
@@ -13,7 +13,7 @@ Lesson from the book of Wisdom
 @Tempora/081-0:Responsory1
 
 [Lectio2]
-!Sap 1:5-8
+!Wis 1:5-8
 5 For the Holy Spirit of discipline will flee from the deceitful, and will withdraw himself from thoughts that are without understanding, and he shall not abide when iniquity cometh in.
 6 For the spirit of wisdom is benevolent, and will not acquit the evil speaker from his lips: for God is witness of his reins, and he is a true searcher of his heart, and a hearer of his tongue.
 7 For the spirit of the Lord hath filled the whole world: and that, which containeth all things, hath knowledge of the voice.
@@ -23,7 +23,7 @@ Lesson from the book of Wisdom
 @Tempora/081-0:Responsory2
 
 [Lectio3]
-!Sap 1:9-11
+!Wis 1:9-11
 9 For inquisition shall be made into the thoughts of the ungodly: and the hearing of his words shall come to God, to the chastising of his iniquities.
 10 For the ear of jealousy heareth all things, and the tumult of murmuring shall not be hid.
 11 Keep yourselves therefore from murmuring, which profiteth nothing, and refrain your tongue from detraction, for an obscure speech shall not go for nought: and the mouth that belieth, killeth the soul.

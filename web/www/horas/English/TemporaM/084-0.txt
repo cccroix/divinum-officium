@@ -9,7 +9,7 @@ R. And let there descend upon us thy mercy.
 
 [Lectio1]
 Here beginneth the Book of Ecclesiasticus
-!Eccl 1:1-5
+!Sir 1:1-5
 1 All wisdom is from the Lord God, and hath been always with him, and is before~
 all time.
 2 Who hath numbered the sand of the sea, and the drops of rain, and the days of~
@@ -25,7 +25,7 @@ everlasting commandments.
 @TemporaM/081-0:Responsory1
 
 [Lectio2]
-!Eccl 1:6-10
+!Sir 1:6-10
 6 To whom hath the root of wisdom been revealed, and who hath known her wise~
 counsels?
 7 To whom hath the discipline of wisdom been revealed and made manifest? and who~
@@ -41,7 +41,7 @@ gift, and hath given her to them that love him.
 @TemporaM/081-0:Responsory2
 
 [Lectio3]
-!Eccl 1:11-16
+!Sir 1:11-16
 11 The fear of the Lord is honour, and glory, and gladness, and a crown of joy.
 12 The fear of the Lord shall delight the heart, and shall give joy, and~
 gladness, and length of days.

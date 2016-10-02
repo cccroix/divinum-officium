@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the first book of Samuel
-!1 Reg 15:1-3
+!1 Sam 15:1-3
 1 And Samuel said to Saul: The Lord sent me to anoint thee king over his People~
 Israel: now therefore hearken thou unto the voice of the Lord:
 2 Thus saith the Lord of hosts: I have reckoned up all that Amalec hath done to~
@@ -19,7 +19,7 @@ child and suckling, ox and sheep, camel and ass.
 @TemporaM/Pent01-2:Responsory1
 
 [Lectio2]
-!1 Reg 15:4-8
+!1 Sam 15:4-8
 4 So Saul commanded the people, and numbered them as lambs: two hundred thousand~
 footmen, and ten thousand of the men of Juda.
 5 And when Saul was come to the city of Amalec, he laid ambushes in the torrent.
@@ -36,7 +36,7 @@ with the edge of the sword
 @TemporaM/Pent01-2:Responsory2
 
 [Lectio3]
-!1 Reg 15:9-11
+!1 Sam 15:9-11
 9 And Saul and the people spared Agag and the best of the flocks of sheep and of~
 the herds, and the garments and the rams, and all that was beautiful, and would~
 not destroy them: but every thing that was vile and good for nothing, that they~

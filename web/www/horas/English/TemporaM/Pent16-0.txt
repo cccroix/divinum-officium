@@ -14,7 +14,7 @@ $Per Dominum
 
 [Lectio7]
 From the Holy Gospel according to Luke
-!Luc 14:1-11
+!Luke 14:1-11
 At that time: As Jesus went into the house of one of the chief Pharisees, to eat~
 bread on the Sabbath-day, they watched Him. And, behold, there was a certain man~
 before Him, which had the dropsy. And so on.
@@ -78,7 +78,7 @@ R. As incense before thee.
 
 [LectioE]
 Continuation of the Holy Gospel according to Luke
-!Luc 14:1-11
+!Luke 14:1-11
 14:1 AND it came to pass, when Jesus went into the house of one of the chief of the Pharisees, on the sabbath day, to eat bread, that they watched him.
 14:2 And behold, there was a certain man before him that had the dropsy.
 14:3 And Jesus answering, spoke to the lawyers and Pharisees, saying: Is it lawful to heal on the sabbath day?

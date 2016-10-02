@@ -1,6 +1,6 @@
 [Lectio1]
 Lesson from the first book of Machabees
-!1 Mach 3:42-45
+!1 Mac  3:42-45
 42  And Judas and his brethren saw that evils were multiplied, and that the armies approached to their borders: and they knew the orders the king had given to destroy the people and utterly abolish them.
 43  And they said every man to his neighbour: Let us raise up the low condition of our people, and let us fight for our people, and our sanctuary.
 44  And the assembly was gathered that they might be ready for battle: and that they might pray, and ask mercy and compassion.
@@ -10,7 +10,7 @@ Lesson from the first book of Machabees
 @Tempora/101-0:Responsory7
 
 [Lectio2]
-!1 Mach 3:46-53
+!1 Mac 3:46-53
 46  And they assembled together, and came to Maspha over against Jerusalem: for in Maspha was a place of prayer heretofore in Israel.
 47  And they fasted that day, and put on haircloth, and put ashes upon their heads: and they rent their garments:
 48  And they laid open the books of the law, in which the Gentiles searched for the likeness of their idols:
@@ -24,7 +24,7 @@ Lesson from the first book of Machabees
 @Tempora/101-1:Responsory2
 
 [Lectio3]
-!1 Mach 3:54-60
+!1 Mac 3:54-60
 54  Then they sounded with trumpets, and cried out with a loud voice.
 55  And after this Judas appointed captains over the people, over thousands, and over hundreds, and over fifties, and over tens.
 56  And he said to them that were building houses, or had betrothed wives, or were planting vineyards, or were fearful, that they should return every man to his house, according to the law.

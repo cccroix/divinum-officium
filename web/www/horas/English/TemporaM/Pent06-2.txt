@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the second book of Samuel
-!2 Reg 14:4-7
+!2 Sam 14:4-7
 4 And when the woman of Thecua was come in to the king, she fell before him upon~
 the ground, and worshipped, and said: Save me, O king.
 5 And the king said to her: What is the matter with thee? She answered: Alas, I~
@@ -23,7 +23,7 @@ which is left, and will leave my husband no name, nor remainder upon the earth.
 @TemporaM/Pent01-2:Responsory3
 
 [Lectio2]
-!2 Reg 14:10-14
+!2 Sam 14:10-14
 10 And the king said: If any one shall say ought against thee, bring him to me,~
 and be shall not touch thee any more.
 11 And she said: Let the king remember the Lord his God, that the next of kin be~
@@ -42,7 +42,7 @@ cast off should not altogether perish.
 @TemporaM/Pent01-2:Responsory3
 
 [Lectio3]
-!2 Reg 14:19-21
+!2 Sam 14:19-21
 19 And the king said: Is not the hand of Joab with thee in all this? The woman~
 answered, and said: By the health of thy soul, my lord, O king, it is neither on~
 the left hand, nor on the right, in all these things which my lord the king hath~

@@ -34,7 +34,7 @@ There appeared unto the Apostles cloven tongues, like as of fire And the Holy Gh
 
 [Lectio1]
 Continuation of the Holy Gospel according to Luke
-!Luc 5:17-26
+!Luke 5:17-26
 AT that time It came to pass on a certain day, as Jesus sat and taught, that~
 there were Pharisees, and Doctors of the law sitting by, which were come out of~
 every town in Galilee, and Judaea and Jerusalem and the power of the Lord was~
@@ -100,7 +100,7 @@ acknowledged, but Whose Person they denied.
 @TemporaM/Pasc7-3:Responsory3
 
 [MM Capitulum]
-!Act 2:2
+!Acts 2:2
 And suddenly there came a sound from heaven, as of a mighty wind coming, and it filled the whole house where they were sitting. 
 _
 V. The Apostle spake in divers tongues Alleluia.
@@ -125,7 +125,7 @@ whatsoever I have said unto you. Alleluia.
 
 [LectioE]
 Continuation of the Holy Gospel according to Luke
-!Luc 5:17-26
+!Luke 5:17-26
 5:17 And it came to pass on a certain day, as he sat teaching, that there were also Pharisees and doctors of the law sitting by, that were come out of every town of Galilee, and Judea and Jerusalem: and the power of the Lord was to heal them.
 5:18 And behold, men brought in a bed a man, who had the palsy: and they sought means to bring him in, and to lay him before him.
 5:19 And when they could not find by what way they might bring him in, because of the multitude, they went up upon the roof, and let him down through the tiles with his bed into the midst before Jesus.

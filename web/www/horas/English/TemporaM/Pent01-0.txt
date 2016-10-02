@@ -128,7 +128,7 @@ R. And all the host of them by the Breath of His mouth.
 
 [Lectio1]
 Lesson from the book of Isaias
-!Isai 6:1-4
+!Isa 6:1-4
 1 In the year that king Ozias died, I saw the Lord sitting upon a throne high~
 and elevated: and his train filled the temple.
 2 Upon it stood the seraphims: the one had six wings, and the other had six~
@@ -165,7 +165,7 @@ V. And let the whole earth be filled with His glory. Amen. Amen.
 R. And blessed be His glorious Name for ever.
 
 [Lectio3]
-!Isai 6:9-12
+!Isa 6:9-12
 9 And he said: Go, and thou shalt say to this people: Hearing, hear, and~
 understand not: and see the vision, and know it not.
 10 Blind the heart of this people, and make their ears heavy, and shut their~
@@ -243,7 +243,7 @@ R. And His Wisdom is unsearchable.
 
 [Lectio7]
 From the Holy Gospel according to Matthew
-!Matth 28:18-20
+!Matt 28:18-20
 At that time Jesus said unto His disciples All power is given unto Me in~
 heaven and in earth. Go ye, therefore, and teach all nations, baptizing them in~
 the Name of the Father, and of the Son, and of the Holy Ghost. And so on.
@@ -297,7 +297,7 @@ R. The whole earth is full of His glory.
 !Commemoratio for Sunday
 Homily for the First Sunday after Pentecost. From the Holy Gospel according to~
 Luke
-!Luc 6:36-42
+!Luke 6:36-42
 At that time: Jesus said unto His disciples Be ye merciful, as your Father~
 also is merciful. And so on.
 _
@@ -426,7 +426,7 @@ $Per Dominum
 
 [LectioE]
 Continuation of the Holy Gospel according to Matthew
-!Matth 28:18-20
+!Matt 28:18-20
 28:18 And Jesus coming, spoke to them, saying: All power is given to me in heaven and in earth.
 28:19 Going therefore, teach ye all nations; baptizing them in the name of the Father, and of the Son, and of the Holy Ghost.
 28:20 Teaching them to observe all things whatsoever I have commanded you: and behold I am with you all days, even to the consummation of the world.

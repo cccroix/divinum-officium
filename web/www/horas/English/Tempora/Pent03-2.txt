@@ -8,7 +8,7 @@ Doxology=Heart
 
 [Lectio1]
 Lesson from the first book of Samuel
-!1 Reg 12:1-5
+!1 Sam 12:1-5
 1 And Samuel said to all Israel: Behold I have hearkened to your voice in all that you said to me, and have made a king over you.
 2 And now the king goeth before you: but I am old and greyheaded: and my sons are with you: having then conversed with you from my youth unto this day, behold here I am.
 3 Speak of me before the Lord, and before his anointed, whether I have taken any man's ox, or ass: If I have wronged any man, if I have oppressed any man, if I have taken a bribe at any man's hand: and I will despise it this day, and will restore it to you.
@@ -16,14 +16,14 @@ Lesson from the first book of Samuel
 5 And he said to them: The Lord is witness against you, and his anointed is witness this day, that you have not found any thing in my hand. And they said: He is witness.
 
 [Lectio2]
-!1 Reg 12:6-9
+!1 Sam 12:6-9
 6 And Samuel said to the people: It is the Lord, who made Moses and Aaron, and brought our fathers out of the land of Egypt.
 7 Now therefore stand up, that I may plead in judgment against you before the Lord, concerning all the kindness of the Lord, which he hath shown to you, and to your fathers:
 8 How Jacob went into Egypt, and your fathers cried to the Lord: and the Lord sent Moses and Aaron, and brought your fathers out of Egypt: and made them dwell in this place.
 9 And they forgot the Lord their God, and he delivered them into the hands of Sisara, captain of the army of Hasor, and into the hands of the Philistines, and into the hand of the king of Moab, and they fought against them.
 
 [Lectio3]
-!1 Reg 12:10-14
+!1 Sam 12:10-14
 10 But afterwards they cried to the Lord, and said: We have sinned, because we have forsaken the Lord, and have served Baalim and Astaroth: but now deliver us from the hand of our enemies, and we will serve thee.
 11 And the Lord sent Jerobaal, and Badan, and Jephte, and Samuel, and delivered you from the hand of your enemies round about, and you dwelt securely.
 12 But seeing that Naas king of the children of Ammon was come against you, you said to me: Nay, but a king shall reign over us: whereas the Lord your God was your king.
@@ -42,7 +42,7 @@ Inasmuch as, when Christ revealed himself to the sight of Margaret Mary, though 
 
 [Lectio7]
 From the Holy Gospel according to John
-!Joann 19:31-37
+!John 19:31-37
 At that time : The Jews, because it was the Preparation, that the bodies should not remain upon the cross on the Sabbath Day, for that Sabbath Day was an high day, besought Pilate that their legs might broken, and that they might be taken away. And so on.
 _
 A Homily by St. Bernardin of Siena John continueth : One of the soldiers with a~

@@ -6,7 +6,7 @@ Preces Feriales
 
 [Lectio1]
 Continuation of the Holy Gospel according to Matthew
-!Matth 8:5-13
+!Matt 8:5-13
 In that time when Jesus had entered into Capharnaum, there came to him a~
 centurion, beseeching him, And saying, Lord, my servant lieth at home sick of~
 the palsy, and is grieviously tormented. And so on.
@@ -94,7 +94,7 @@ $Per Dominum
 
 [LectioE]
 Continuation of the Holy Gospel according to Matthew
-!Matth 8:5-13
+!Matt 8:5-13
 8:5 And when he had entered into Capharnaum, there came to him a centurion, beseeching him,
 8:6 And saying, Lord, my servant lieth at home sick of the palsy, and is grieviously tormented.
 8:7 And Jesus saith to him: I will come and heal him.

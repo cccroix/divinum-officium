@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the second book of Samuel
-!2 Reg 3:6-10
+!2 Sam 3:6-10
 6 Now while there was war between the house of Saul and the house of David,~
 Abner the son of Ner ruled the house of Saul.
 7 And Saul had a concubine named Respha, the daughter of Aia. And Isboseth said~
@@ -25,7 +25,7 @@ David be set up over Israel, and over Juda from Dan to Bersabee.
 @TemporaM/Pent01-2:Responsory1
 
 [Lectio2]
-!2 Reg 3:12-16
+!2 Sam 3:12-16
 12 Abner therefore sent messengers to David for himself, saying: Whose is the~
 land? and that they should say: Make a league with me, and my hand shall be with~
 thee: and I will bring all Israel to thee.
@@ -42,7 +42,7 @@ him: Go and return. And he returned.
 @TemporaM/Pent01-2:Responsory2
 
 [Lectio3]
-!2 Reg 3:17-21
+!2 Sam 3:17-21
 17 Abner also spoke to the ancients of Israel, saying: Both yesterday and the~
 day before you sought for David that he might reign over you.
 18 Now then do it: because the Lord hath spoken to David, saying: By the hand of~

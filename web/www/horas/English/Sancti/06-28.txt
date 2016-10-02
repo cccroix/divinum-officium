@@ -24,7 +24,7 @@ Irenaeus born not far from the city of Smyrna from his boyhood was the disciple 
 
 [Lectio7]
 From the Holy Gospel according to Matthew
-!Matth 10:28-33
+!Matt 10:28-33
 At that time: Jesus said unto his disciples: Fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell. And so forth.
 _
 A Homily by St. Irenaeus the Bishop and Martyr
@@ -36,7 +36,7 @@ This also meeteth the objection of those who say that Christ only appeared to be
 
 [Lectio9]
 The Lesson is taken from the Holy Gospel according to John.
-!Joann 21:15-19
+!John 21:15-19
 At that time: Jesus said unto Simon Peter: Simon, son of Jonas, lovest thou me more than these? And so forth.
 _
 A Homily of St. Augustine the Bishop.
@@ -60,7 +60,7 @@ $Per Dominum
 [Lectio Vigilia]
 !For the Vigil of Blessed Peter and Paul Apostles 
 From the Holy Gospel according to John
-!Joann 21:15-17
+!John 21:15-17
 At that time: Jesus saith to Simon Peter, Simon, son of Jonas, lovest thou me more than these?  And so on, and that which followeth.
 _
 A Homily by St. Augustine the Bishop

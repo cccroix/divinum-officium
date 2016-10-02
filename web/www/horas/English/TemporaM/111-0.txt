@@ -8,7 +8,7 @@ R. And let there descend upon us thy mercy.
 
 [Lectio1]
 Here beginneth the Prophet Ezechiel
-!Ezech 1:1-4
+!Ezek 1:1-4
 1 Now it came to pass in the thirtieth year, in the fourth month, on the fifth~
 day of the month, when I was in the midst of the captives by the river Chobar,~
 the heavens were opened, and I saw the visions of God.
@@ -26,7 +26,7 @@ amber:
 @TemporaM/Pent01-0:Responsory1
 
 [Lectio2]
-!Ezech 1:5-9
+!Ezek 1:5-9
 5 And in the midst thereof the likeness of four living creatures: and this was~
 their appearance: there was the likeness of a man in them.
 6 Every one had four faces, and every one four wings.
@@ -45,7 +45,7 @@ V. Give ear, O Shepherd of Israel, Thou That leadest Joseph like a flock.
 R. Open thine eyes, and behold our desolation.
 
 [Lectio3]
-!Ezech 1:10-12
+!Ezek 1:10-12
 10 And as for the likeness of their faces: there was the face of a man, and the~
 face of a lion on the right side of all the four: and the face of an ox, on the~
 left side of all the four: and the face of an eagle over all the four.

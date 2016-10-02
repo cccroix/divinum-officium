@@ -1,6 +1,6 @@
 [Lectio1]
 From the Prophet Ezechiel
-!Ezech 7:1-4
+!Ezek 7:1-4
 1 And the word of the Lord came to me, saying:
 2 And thou son of man, thus saith the Lord God to the land of Israel: The end~
 is come, the end is come upon the four quarters of the land.
@@ -19,7 +19,7 @@ V. l Trust in the Lord, and do good, and dwell in the land.
 R. Do justice and judgment, and walk humbly with thy God.
 
 [Lectio2]
-!Ezech 7:5-9
+!Ezek 7:5-9
 5 Thus saith the Lord God: One affliction, behold an affliction is come.
 6 An end is come, the end is come, it hath awaked against thee: behold it is~
 come.
@@ -36,7 +36,7 @@ shall know that I am the Lord that strike.
 @TemporaM/111-1:Responsory2
 
 [Lectio3]
-!Ezech 7:10-13
+!Ezek 7:10-13
 10 Behold the day, behold it is come: destruction is gone forth, the rod hath~
 blossomed, pride hath budded.
 11 Iniquity is risen up into a rod of impiety: nothing of them shall remain,~

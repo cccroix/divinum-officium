@@ -1,6 +1,6 @@
 [Lectio1]
 Here beginneth Prophet Jonas
-!Jonæ 1:1-4
+!Jonah 1:1-4
 1  Now the word of the Lord came to Jonas the son of Amathi, saying:
 2  Arise, and go to Ninive the great city, and preach in it: for the wickedness thereof is come up before me.
 3  And Jonas rose up to flee into Tharsis from the face of the Lord, and he went down to Joppe, and found a ship going to Tharsis: and he paid the fare thereof, and went down into it, to go with them to Tharsis from the face of the Lord.
@@ -10,7 +10,7 @@ Here beginneth Prophet Jonas
 @TemporaM/111-0:Responsory7
 
 [Lectio2]
-!Jonæ 1:5-7
+!Jonah 1:5-7
 5  And the mariners were afraid, and the men cried to their god: and they cast forth the wares that were in the ship, into the sea, to lighten it of them: and Jones went down into the inner part of the ship, and fell into a deep sleep.
 6  And the shipmaster came to him, and said to him: Why art thou fast asleep? rise up, call upon thy God, if so be that God will think of us, that we may not perish.
 7  And they said every one to his fellow: Come, and let us cast lots, that we may know why this evil is upon us. And they cast lots, and the lot fell upon Jonas.
@@ -19,7 +19,7 @@ Here beginneth Prophet Jonas
 @TemporaM/111-1:Responsory2
 
 [Lectio3]
-!Jonæ 1:8-12
+!Jonah 1:8-12
 8  And they said to him: Tell us for what cause this evil is upon us, what is thy business? of what country art thou? and whither goest thou? or of what people art thou?
 9  And he said to them: I am a Hebrew, and I fear the Lord the God of heaven, who made both the sea and the dry land.
 10  And the men were greatly afraid, and they said to him: Why hast thou done this? (for the men knew that he fled from the face of the Lord: because he had told them.)

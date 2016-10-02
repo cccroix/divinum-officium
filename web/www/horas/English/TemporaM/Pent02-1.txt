@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 From the First Book of Kings
-!1 Reg 5:1-5
+!1 Sam 5:1-5
 1 And the Philistines took the ark of God, and carried it from the Stone of help~
 into Azotus.
 2 And the Philistines took the ark of God, and brought it into the temple of~
@@ -25,7 +25,7 @@ Dagon in Azotus unto this day.
 @TemporaM/Pent03-1:Responsory1
 
 [Lectio2]
-!1 Reg 5:6-8
+!1 Sam 5:6-8
 6 And the hand of the Lord was heavy upon the Azotians, and he destroyed them,~
 and afflicted Azotus and the coasts thereof with emerods. And in the villages~
 and fields in the midst of that country, there came forth a multitude of mice,~
@@ -42,7 +42,7 @@ the ark of the God of Israel about
 @TemporaM/Pent03-1:Responsory2
 
 [Lectio3]
-!1 Reg 5:9-12
+!1 Sam 5:9-12
 9 And while they were carrying it about, the band of the Lord came upon every~
 city with an exceeding great slaughter: and he smote the men of every city, both~
 small and great, and they had emerods in their secret parts. And the Gethrites~

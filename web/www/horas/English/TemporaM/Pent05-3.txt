@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the second book of Samuel
-!2 Reg 4:5-8
+!2 Sam 4:5-8
 5 And the sons of Remmon the Berothite, Rechab and Baana coming, went into the~
 house of Isboseth in the heat of the day: and he was sleeping upon his bed at~
 noon. And the doorkeeper of the house, who was cleansing wheat, was fallen~
@@ -24,7 +24,7 @@ and the Lord hath revenged my lord the king this day of Saul, and of his seed.
 @TemporaM/Pent01-3:Responsory1
 
 [Lectio2]
-!2 Reg 4:9-12
+!2 Sam 4:9-12
 9 But David answered Rechab, and Baana his brother, the sons of Remmon the~
 Berothite, and said to them: As the Lord liveth, who hath delivered my soul out~
 of all distress,
@@ -42,7 +42,7 @@ they took and buried in the sepulchre of Abner in Hebron.
 @TemporaM/Pent01-3:Responsory2
 
 [Lectio3]
-!2 Reg 5:1-7
+!2 Sam 5:1-7
 1 Then all the tribes of Israel came to David in Hebron, saying: Behold we are~
 thy bone and thy flesh.
 2 Moreover yesterday also and the day before, when Saul was king over us, thou~

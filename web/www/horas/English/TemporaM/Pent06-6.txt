@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the second book of Samuel
-!2 Reg 18:6-8
+!2 Sam 18:6-8
 6 So the people went out into the field against Israel and the battle was fought~
 in the forest of Ephraim.
 7 And the people of Israel were defeated there by David's army, and a great~
@@ -19,7 +19,7 @@ devoured that day.
 @TemporaM/Pent01-3:Responsory1
 
 [Lectio2]
-!2 Reg 18:9-12
+!2 Sam 18:9-12
 9 And it happened that Absalom met the servants of David, riding on a mule: and~
 as the mule went under a thick and large oak, his head stuck in the oak: and~
 while he hung between the heaven and the earth, the mule on which he rode passed~
@@ -37,7 +37,7 @@ Absalom.
 @TemporaM/Pent01-3:Responsory2
 
 [Lectio3]
-!2 Reg 18:14-17
+!2 Sam 18:14-17
 14 And Joab said: Not as thou wilt, but will set upon him in thy sight. So he~
 took three lances in his hand, and thrust them into the heart of Absalom: and~
 whilst he yet panted for life, sticking on the oak,

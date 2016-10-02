@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the book of Isaias
-!Isai 25:1-4
+!Isa 25:1-4
 1 O Lord, thou art my God, I will exalt thee, and give glory to thy name: for~
 thou hast done wonderful things, thy designs of old faithful, amen.
 2 For thou hast reduced the city to a heap, the strong city to ruin, the house~
@@ -20,7 +20,7 @@ distress: a refuge from the whirlwind, a shadow from the heat.
 @TemporaM/Adv2-0:Responsory7
 
 [Lectio2]
-!Isai 25:4-7
+!Isa 25:4-7
 4 For the blast of~
 the mighty is like a whirlwind beating against a wall.
 5 Thou shalt bring down the tumult of strangers, as heat in thirst: and as with~
@@ -36,7 +36,7 @@ were tied, and the web that he over all nations.
 @TemporaM/Adv2-0:Responsory8
 
 [Lectio3]
-!Isai 25:8-12
+!Isa 25:8-12
 8 He shall cast death down headlong forever: and the Lord God shall wipe away~
 tears from every face, and the reproach of his people he shall take away from~
 off the whole earth: for the Lord hath spoken it.

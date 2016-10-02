@@ -1,6 +1,6 @@
 [Lectio1]
 Lesson from the book of Wisdom
-!Sap 7:1-6
+!Wis 7:1-6
 1 I myself also am a mortal man, like all others, and of the race of him, that was first made of the earth, and in the womb of my mother I was fashioned to be flesh.
 2 In the time of ten months I was compacted in blood, of the seed of man, and the pleasure of sleep concurring.
 3 And being born I drew in the common air, and fell upon the earth, that is made alike, and the first voice which I uttered was crying, as all others do.
@@ -12,7 +12,7 @@ Lesson from the book of Wisdom
 @Tempora/081-0:Responsory7
 
 [Lectio2]
-!Sap 7:7-10
+!Wis 7:7-10
 7 Wherefore I wished, and understanding was given me: and I called upon God, and the spirit of wisdom came upon me:
 8 And I preferred her before kingdoms and thrones, and esteemed riches nothing in comparison of her.
 9 Neither did I compare unto her any precious stone: for all gold in comparison of her, is as a little sand, and silver in respect to her shall be counted as clay.
@@ -22,7 +22,7 @@ Lesson from the book of Wisdom
 @Tempora/081-1:Responsory2
 
 [Lectio3]
-!Sap 7:11-14
+!Wis 7:11-14
 11 Now all good things came to me together with her, and innumerable riches through her hands,
 12 And I rejoiced in all these: for this wisdom went before me, and I knew not that she was the mother of them all.
 13 Which I have learned without guile, and communicate without envy, and her riches I hide not.

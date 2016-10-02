@@ -101,7 +101,7 @@ R. Honour and great majesty shalt Thou lay upon him.
 
 [Lectio1]
 Lesson from the second letter of St. Peter the Apostle
-!2 Petri 1:10-14
+!2 Pet 1:10-14
 10 Wherefore, brethren, labour the more, that by good works you may make sure your calling and election. For doing these things, you shall not sin at any time.
 11 For so an entrance shall be ministered to you abundantly into the everlasting kingdom of our Lord and Saviour Jesus Christ.
 12 For which cause I will begin to put you always in remembrance of these things: though indeed you know them, and are confirmed in the present truth.
@@ -115,7 +115,7 @@ V. And the Gentiles shall come to thy light, and kings to the brightness of thy 
 R. And the glory of the Lord is risen upon thee.
 
 [Lectio2]
-!2 Petri 1:15-17
+!2 Pet 1:15-17
 15 And I will endeavour, that you frequently have after my decease, whereby you may keep a memory of these things.
 16 For we have not by following artificial fables, made known to you the power, and presence of our Lord Jesus Christ; but we were eyewitnesses of his greatness.
 17 For he received from God the Father, honour and glory: this voice coming down to him from the excellent glory: This is my beloved Son, in whom I am well pleased; hear ye him.
@@ -127,7 +127,7 @@ V. There was a cloud that overshadowed them, and the voice of the Father came ou
 R. This is My beloved Son, in Whom I am well pleased; hear ye Him.
 
 [Lectio3]
-!2 Petri 1:18-21
+!2 Pet 1:18-21
 18 And this voice we heard brought from heaven, when we were with him in the holy mount.
 19 And we have the more firm prophetical word: whereunto you do well to attend, as to a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts:
 20 Understanding this first, that no prophecy of scripture is made by private interpretation.
@@ -174,7 +174,7 @@ R. How shall not the ministration of the Spirit, which abideth, be rather glorio
 
 [Lectio7]
 From the Holy Gospel according to Matthew
-!Matth 17:1-9
+!Matt 17:1-9
 At that time: Jesus took Peter, and James, and John his brother, and brought them up into an high mountain apart, and was transfigured before them. And so on.
 _
 Homily by St. John Chrysostom (Patriarch of Constantinople.)
@@ -249,7 +249,7 @@ R. Wherein was engraved holiness, glory, and honour.
 And, behold, a voice out of the cloud, * which said: This is My beloved Son, in Whom I am well pleased; hear ye Him, alleluia.
 
 [Lectio Prima]
-!Apoc 21:10-11,23.
+!Rev 21:10-11,23.
 v. He carried me away in the Spirit to a great and high mountain, and showed me the holy city Jerusalem, descending out of heaven from God, having the glory of God. And the Lamb is the Light thereof.
 
 [Capitulum Tertia]
@@ -285,7 +285,7 @@ V. His glory is great in thy salvation, alleluia.
 R. Honour and great majesty shalt Thou lay upon him, alleluia.
 
 [Capitulum Nona]
-!Apoc 21:10-11,23.
+!Rev 21:10-11,23.
 v. He carried me away in the Spirit to a great and high mountain, and showed me the holy city Jerusalem, descending out of heaven from God, having the glory of God. And the Lamb is the Light thereof.
 $Deo gratias
 

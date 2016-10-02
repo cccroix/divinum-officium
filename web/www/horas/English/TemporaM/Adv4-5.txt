@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the book of Isaias
-!Isai 66:5-8
+!Isa 66:5-8
 5 Hear the word of the Lord, you that tremble at his word: Your brethren that~
 hate you, and cast you out for my name's sake, have said: Let the Lord be~
 glorified, and we shall see in your joy: but they shall be confounded.
@@ -22,7 +22,7 @@ because Sion hath been in labour, and hath brought forth her children?
 @TemporaM/Adv4-0:Responsory4
 
 [Lectio2]
-!Isai 66:9-12
+!Isa 66:9-12
 9 Shall not I that make others to bring forth children, myself bring forth,~
 saith the Lord? shall I, that give generation to others, be barren, saith the~
 Lord thy God?
@@ -39,7 +39,7 @@ you.
 @TemporaM/Adv4-0:Responsory5
 
 [Lectio3]
-!Isai 66:13-18
+!Isa 66:13-18
 13 As one whom the mother caresseth, so will I comfort you, and you shall be~
 comforted in Jerusalem.
 14 You shah see and your heart shall rejoice, and your bones shall flourish like~

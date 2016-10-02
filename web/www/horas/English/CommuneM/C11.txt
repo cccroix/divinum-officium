@@ -13,7 +13,7 @@ I am black but comely, * O ye daughters of Jerusalem. Therefore the King hath lo
 O Holy Mother of God thou art become beautiful * and gentle in thy gladness;;126
 
 [Capitulum Vespera]
-!Eccl 24:14
+!Sir 24:14
 v. From the beginning, and before the world, was I created, and unto the world~
 to come I shall not cease to be, and in the holy dwelling place I have~
 ministered before him.
@@ -254,7 +254,7 @@ blessed, saying thy name is as ointment poured forth.
 
 [Lectio7]
 From the Holy Gospel according to Luke
-!Luc 11:27-28
+!Luke 11:27-28
 At that time as Jesus spoke unto the multitudes, a certain woman of the company~
 lift up her voice and said unto Him Blessed is the womb that bare thee. And so~
 on.
@@ -337,7 +337,7 @@ Lo the winter is past, * the rain is over and gone. Rise up, my love, and come a
 O Holy Mother of God thou art become beautiful * and gentle in thy gladness.
 
 [Capitulum Laudes]
-!Eccl 24:14
+!Sir 24:14
 v. From the beginning, and before the world, was I created, and unto the world~
 to come I shall not cease to be, and in the holy dwelling place I have~
 ministered before him.
@@ -388,12 +388,12 @@ from present sadness, and enter into the joy of thine eternal gladness.
 $Per Dominum.
 
 [Lectio Prima]
-!Eccl 24:19-20
+!Sir 24:19-20
 v. As a plane tree by the water in the streets, I gave a sweet smell like~
 cinnamon. and aromatical balm: I yielded a sweet odour like the best myrrh
 
 [Capitulum Tertia]
-!Eccl 24:14
+!Sir 24:14
 v. From the beginning, and before the world, was I created, and unto the world~
 to come I shall not cease to be, and in the holy dwelling place I have~
 ministered before him.
@@ -404,7 +404,7 @@ V. In thy comeliness and * in thy beauty.
 R. Go forward, fare prosperously, and reign.
 
 [Capitulum Sexta]
-!Eccl 24:15-16
+!Sir 24:15-16
 v. And so was I established in Sion, and in the holy city likewise I rested, and~
 my power was in Jerusalem. And I took root in an honourable people, and in the~
 portion of my God his inheritance, and my abode is in the full assembly of~
@@ -416,7 +416,7 @@ V. God shall help her with His countenance.
 R. God is in the midst of her, she shall not be moved.
 
 [Capitulum Nona]
-!Eccl 24:19-20
+!Sir 24:19-20
 v. As a plane tree by the water in the streets, I gave a sweet smell like~
 cinnamon. and aromatical balm: I yielded a sweet odour like the best myrrh
 $Deo gratias.
@@ -435,7 +435,7 @@ His hand-maiden.
 
 [LectioE]
 Continuation of the Holy Gospel according to Luke
-!Luc 11:27-28
+!Luke 11:27-28
 11:27 And it came to pass, as he spoke these things, a certain woman from the crowd, lifting up her voice, said to him: Blessed is the womb that bore thee, and the paps that gave thee suck.
 11:28 But he said: Yea rather, blessed are they who hear the word of God, and keep it.
 $Te decet
