@@ -22,7 +22,7 @@ $Per Dominum
 
 [Lectio1]
 De libro tertio Regum.
-!1 Reg 9:1-5
+!1 Kgs 9:1-5
 1 Factum est autem cum perfecisset Salomon aedificium domus Domini, et aedificium regis, et omne quod optaverat et voluerat facere,
 2 apparuit ei Dominus secundo, sicut apparuerat ei in Gabaon.
 3 Dixitque Dominus ad eum: Exaudivi orationem tuam et deprecationem tuam, quam deprecatus es coram me: sanctificavi domum hanc quam aedificasti, ut ponerem nomen meum ibi in sempiternum, et erunt oculi mei et cor meum ibi cunctis diebus.
@@ -38,7 +38,7 @@ vestri.
 R. Et liberabit vos de manibus inimicorum vestrorum.
 
 [Lectio2]
-!1 Reg 9:6-9
+!1 Kgs 9:6-9
 6 Si autem aversione aversi fueritis vos et filii vestri, non sequentes me, nec custodientes mandata mea et caeremonias meas quas proposui vobis, sed abieritis et colueritis deos alienos, et adoraveritis eos:
 7 auferam Israël de superficie terrae quam dedi eis, et templum quod sanctificavi nomini meo, projiciam a conspectu meo: eritque Israël in proverbium, et in fabulam cunctis populis.
 8 Et domus haec erit in exemplum: omnis qui transierit per eam, stupebit, et sibilabit, et dicet: Quare fecit Dominus sic terrae huic, et domui huic?
@@ -53,7 +53,7 @@ V. Dominus, qui eripuit me de ore leonis, et de manu bestiae liberavit me.
 R. Et unxit me unctione misericordiae suae.
 
 [Lectio3]
-!1 Reg 9:10-14
+!1 Kgs 9:10-14
 10 Expletis autem annis viginti postquam aedificaverat Salomon duas domos, id est, domum Domini, et domum regis
 11 (Hiram rege Tyri praebente Salomoni ligna cedrina et abiegna, et aurum juxta omne quod opus habuerat), tunc dedit Salomon Hiram viginti oppida in terra Galilaeae.
 12 Et egressus est Hiram de Tyro ut videret oppida quae dederat ei Salomon, et non placuerunt ei.

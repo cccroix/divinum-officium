@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 De libro tertio Regum. 
-!1 Reg 12:1-5 
+!1 Kgs 12:1-5 
 1 Venit autem Roboam in Sichem: illuc enim congregatus erat omnis Israël ad constituendum eum regem.
 2 At vero Jeroboam filius Nabat, cum adhuc esset in Ægypto profugus a facie regis Salomonis, audita morte ejus, reversus est de Ægypto.
 3 Miseruntque et vocaverunt eum: venit ergo Jeroboam, et omnis multitudo Israël, et locuti sunt ad Roboam, dicentes:
@@ -18,7 +18,7 @@ De libro tertio Regum.
 @TemporaM/Pent01-1:Responsory1
 
 [Lectio2]
-!1 Reg 12:5-8
+!1 Kgs 12:5-8
 5 Qui ait eis: Ite usque ad tertium diem, et revertimini ad me. Cumque abiisset populus,
 6 iniit consilium rex Roboam cum senioribus qui assistebant coram Salomone patre ejus cum adhuc viveret, et ait: Quod datis mihi consilium, ut respondeam populo huic?
 7 Qui dixerunt ei: Si hodie obedieris populo huic, et servieris, et petitioni eorum cesseris, locutusque fueris ad eos verba lenia, erunt tibi servi cunctis diebus.
@@ -29,7 +29,7 @@ De libro tertio Regum.
 @TemporaM/Pent01-1:Responsory2
 
 [Lectio3]
-!1 Reg 12:13-16
+!1 Kgs 12:13-16
 13 Responditque rex populo dura, derelicto consilio seniorum quod ei dederant,
 14 et locutus est eis secundum consilium juvenum, dicens: Pater meus aggravavit jugum vestrum, ego autem addam jugo vestro: pater meus cecidit vos flagellis, ego autem caedam vos scorpionibus.
 15 Et non acquievit rex populo: quoniam aversatus fuerat eum Dominus, ut suscitaret verbum suum quod locutus fuerat in manu Ahiae Silonitae, ad Jeroboam filium Nabat.

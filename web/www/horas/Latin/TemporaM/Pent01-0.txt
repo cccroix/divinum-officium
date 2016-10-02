@@ -347,7 +347,7 @@ Benedicta sit sancta * creatrix et gubernatrix omnium, sancta et individua~
 Trinitas, nunc et semper, et per infinita saecula saeculorum.
 
 [Lectio Prima]
-!1 Joann 5:7
+!1 John 5:7
 v. Tres sunt, qui testimonium dant in caelo: Pater, Verbum, et Spiritus Sanctus:~
 et hi tres unum sunt.
 
@@ -372,7 +372,7 @@ V. Benedictus es Domine in firmamento caeli.
 R. Et laudabilis et gloriosus in saecula.
 
 [Capitulum Nona]
-!1 Joann 5:7
+!1 John 5:7
 v. Tres sunt, qui testimonium dant in caelo: Pater, Verbum, et Spiritus Sanctus:~
 et hi tres unum sunt.
 $Deo gratias

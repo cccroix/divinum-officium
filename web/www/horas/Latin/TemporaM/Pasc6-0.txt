@@ -7,7 +7,7 @@ ex TemporaM/Pasc5-4;
 Doxology=Asc
 
 [Capitulum Vespera]
-!1 Petri 4:7-8
+!1. Petri 4:7-8
 v. Carissimi: Estote prudentes, et vigilate in orationibus. Ante omnia autem,~
 mutuam in vobismetipsis caritatem continuam habentes: quia caritas operit~
 multitudinem peccatorum.
