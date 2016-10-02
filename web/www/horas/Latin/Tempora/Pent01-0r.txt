@@ -122,7 +122,7 @@ R. Et Spiritu oris ejus, omnis virtus eorum.
 
 [Lectio1]
 De Isaia Propheta.
-!Isai 6:1-4
+!Isa 6:1-4
 1 In anno quo mortuus est rex Ozias, vidi Dominum sedentem super solium excelsum et elevatum; et ea quae sub ipso erant replebant templum.
 2 Seraphim stabant super illud: sex alae uni, et sex alae alteri; duabus velabant faciem ejus, et duabus velabant pedes ejus, et duabus volabant.
 3 Et clamabant alter ad alterum, et dicebant: Sanctus, sanctus, sanctus Dominus, Deus exercituum; plena est omnis terra gloria ejus.
@@ -135,7 +135,7 @@ V. Seraphim stabant super illud: sex alae uni, et sex alae alteri.
 R. Et ea, quae sub ipso erant, replebant templum.
 
 [Lectio2]
-!Isai 6:5-8
+!Isa 6:5-8
 5 Et dixi: Vae mihi, quia tacui, quia vir pollutus labiis ego sum, et in medio populi polluta labia habentis ego habito, et Regem Dominum exercituum vidi oculis meis.
 6 Et volavit ad me unus de Seraphim, et in manu ejus calculus, quem forcipe tulerat de altari,
 7 Et tetigit os meum, et dixit: Ecce tetigit hoc labia tua, et auferetur iniquitas tua, et peccatum tuum mundabitur.
@@ -148,7 +148,7 @@ V. Replebitur majestate ejus omnis terra: fiat, fiat.
 R. Et benedictum nomen majestatis ejus in aeternum.
 
 [Lectio3]
-!Isai 6:9-12
+!Isa 6:9-12
 9 Et dixit: Vade, et dices populo huic: Audite audientes, et nolite intelligere; et videte visionem, et nolite cognoscere.
 10 Excaeca cor populi hujus, et aures ejus aggrava, et oculos ejus claude: ne forte videat oculis suis, et auribus suis audiat, et corde suo intelligat, et convertatur, et sanem eum.
 11 Et dixi: Usquequo, Domine? Et dixit: Donec desolentur civitates absque habitatore, et domus sine homine, et terra relinquetur deserta,
@@ -195,7 +195,7 @@ R. Et sapientiae ejus non est numerus.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matth 28:18-20
+!Matt 28:18-20
 In illo tempore: Dixit Jesus discipulis suis: Data est mihi omnis potestas in caelo et in terra. Euntes ergo docete omnes Gentes, baptizantes eos in nomine Patris, et Filii, et Spiritus Sancti. Et reliqua.
 _
 Homilia sancti Gregorii Nazianzeni.
@@ -268,11 +268,11 @@ Deus, in te sperantium fortitudo, adesto propitius invocationibus nostris: et qu
 $Per Dominum
 
 [Lectio Prima]
-!1 Joann 5:7
+!1 Joann. 5:7
 v. Tres sunt, qui testimonium dant in caelo: Pater, Verbum, et Spiritus Sanctus: et hi tres unum sunt.
 
 [Capitulum Tertia]
-!Rom 11:33
+!Rom. 11:33
 v. O altitudo divitiarum sapientiae, et scientiae Dei: quam incomprehensibilia sunt judicia ejus, et investigabiles viae ejus!
 $Deo gratias
 
@@ -304,7 +304,7 @@ V. Verbo Domini caeli firmati sunt.
 R. Et Spiritu oris ejus omnis virtus eorum.
 
 [Capitulum Nona]
-!1 Joann 5:7
+!1 Joann. 5:7
 v. Tres sunt, qui testimonium dant in caelo: Pater, Verbum, et Spiritus Sanctus: et hi tres unum sunt.
 $Deo gratias
 

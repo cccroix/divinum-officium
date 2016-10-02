@@ -1,6 +1,6 @@
 [Lectio1]
 De libro primo Machabaeorum
-!1 Mach 13:1-6
+!1 Mac 13:1-6
 1 Et audivit Simon quod congregavit Tryphon exercitum copiosum ut veniret in terram Juda, et attereret eam.
 2 Videns quia in tremore populus est, et in timore, ascendit Jerusalem, et congregavit populum:
 3 et adhortans dixit: Vos scitis quanta ego, et fratres mei, et domus patris mei, fecimus pro legibus et pro sanctis, praelia, et angustias quales vidimus:
@@ -12,7 +12,7 @@ De libro primo Machabaeorum
 @Tempora/101-0:Responsory1
 
 [Lectio2]
-!1 Mach 13:7-13
+!1 Mac 13:7-13
 7 Et accensus est spiritus populi simul ut audivit sermones istos:
 8 et responderunt voce magna, dicentes: Tu es dux noster loco Judae, et Jonathae fratris tui:
 9 pugna praelium nostrum: et omnia, quaecumque dixeris nobis, faciemus.
@@ -25,7 +25,7 @@ De libro primo Machabaeorum
 @Tempora/101-0:Responsory2
 
 [Lectio3]
-!1 Mach 13:14-19
+!1 Mac 13:14-19
 14 Et ut cognovit Tryphon quia surrexit Simon loco fratris sui Jonathae, et quia commissurus esset cum eo praelium, misit ad eum legatos,
 15 dicens: Pro argento, quod debebat frater tuus Jonathas in ratione regis propter negotia quae habuit, detinuimus eum.
 16 Et nunc mitte argenti talenta centum, et duos filios ejus obsides, ut non dimissus fugiat a nobis, et remittemus eum.

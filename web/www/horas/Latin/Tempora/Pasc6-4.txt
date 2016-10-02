@@ -14,7 +14,7 @@ Doxology=Asc
 
 [Lectio1]
 De Epistola beati Pauli Apostoli ad Ephesios.
-!Ephes 4:1-8
+!Eph 4:1-8
 1 Obsecro itaque vos ego vinctus in Domino, ut digne ambuletis vocatione, qua vocati estis,
 2 cum omni humilitate, et mansuetudine, cum patientia, supportantes invicem in caritate,
 3 solliciti servare unitatem Spiritus in vinculo pacis.
@@ -28,7 +28,7 @@ De Epistola beati Pauli Apostoli ad Ephesios.
 @Tempora/Pasc5-4:Responsory1
 
 [Lectio2]
-!Ephes 4:9-14
+!Eph 4:9-14
 9 Quod autem ascendit, quid est, nisi quia et descendit primum in inferiores partes terrae?
 10 Qui descendit, ipse est et qui ascendit super omnes caelos, ut impleret omnia.
 11 Et ipse dedit quosdam quidem Apostolos, quosdam autem Prophetas, alios vero Evangelistas, alios autem pastores et doctores,
@@ -40,7 +40,7 @@ De Epistola beati Pauli Apostoli ad Ephesios.
 @Tempora/Pasc5-4:Responsory2
 
 [Lectio3]
-!Ephes 4:15-21
+!Eph 4:15-21
 15 Veritatem autem facientes in caritate, crescamus in illo per omnia, qui est caput Christus:
 16 ex quo totum corpus compactum et connexum per omnem juncturam subministrationis, secundum operationem in mensuram uniuscujusque membri, augmentum corporis facit in aedificationem sui in caritate.
 17 Hoc igitur dico, et testificor in Domino, ut jam non ambuletis, sicut et Gentes ambulant in vanitate sensus sui,

@@ -16,7 +16,7 @@ Fontes, et omnia * quae moventur in aquis, hymnum dicite Deo, alleluia.;;112
 Loquebantur * variis linguis Apostoli magnalia Dei, alleluia, alleluia, alleluia.;;116
 
 [Capitulum Vespera]
-!Act 2:1-2
+!Act. 2:1-2
 v. Cum complerentur dies Pentecostes, erant omnes discipuli pariter in eodem loco: et factus est repente de caelo sonus, tamquam advenientis spiritus vehementis, et replevit totam domum, ubi erant sedentes.
 $Deo gratias
 
@@ -129,7 +129,7 @@ R. Et hoc quod continet omnia, scientiam habet vocis, alleluia.
 
 [Lectio1]
 Lectio sancti Evangelii secundum Joannem.
-!Joann 14:23-31
+!Joannes 14:23-31
 In illo tempore: Dixit Jesus discipulis suis: Si quis diligit me, sermonem meum servabit, et Pater meus diliget eum, et ad eum veniemus, et mansionem apud eum faciemus. Et reliqua.
 _
 Homilia sancti Gregorii Papae.
@@ -211,7 +211,7 @@ Amen.
 Accipite * Spiritum Sanctum: quorum remiseritis peccata, remittuntur eis, alleluia.
 
 [Lectio Prima]
-!Act 2:11
+!Act. 2:11
 Judaei quoque, et Proselyti, Cretes, et Arabes: audivimus eos loquentes nostris linguis magnalia Dei.
 
 [Hymnus Tertia]
@@ -232,7 +232,7 @@ V. Spiritus Paraclitus, alleluia.
 R. Docebit vos omnia, alleluia.
 
 [Capitulum Sexta]
-!Act 2:6
+!Act. 2:6
 v. Facta autem hac voce, convenit multitudo, et mente confusa est, quoniam audiebat unusquisque lingua sua illos loquentes.
 $Deo gratias
 
@@ -248,7 +248,7 @@ V. Repleti sunt omnes Spiritu Sancto, alleluia.
 R. Et coeperunt loqui, alleluia.
 
 [Capitulum Nona]
-!Act 2:11
+!Act. 2:11
 v. Judaei quoque, et Proselyti, Cretes, et Arabes: audivimus eos loquentes nostris linguis magnalia Dei.
 $Deo gratias
 

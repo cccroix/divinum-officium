@@ -50,7 +50,7 @@ Amen.
 
 [Lectio1]
 De Jeremia Propheta.
-!Jerem 31:15-17
+!Jer 31:15-17
 15 Haec dicit Dominus: Vox in excelso audita est lamentationis: luctus, et fletus Rachel plorantis filios suos, et nolentis consolari super eis, quia non sunt.
 16 Haec dicit Dominus: Quiescat vox tua a ploratu, et oculi tui a lacrimis, quia est merces operi tuo, ait Dominus, et revertentur de terra inimici:
 17 et est spes novissimis tuis, ait Dominus, et revertentur filii ad terminos suos.
@@ -64,7 +64,7 @@ sanguine Agni.
 R. Virgines enim permanserunt, ideo regnant cum Deo, et Agnus Dei cum illis.
 
 [Lectio2]
-!Jerem 31:18-20
+!Jer 31:18-20
 18 Audiens audivi Ephraim transmigrantem: Castigasti me, et eruditus sum, quasi juvenculus indomitus: converte me, et convertar, quia tu Dominus Deus meus.
 19 Postquam enim convertisti me, egi pœnitentiam: et postquam ostendisti mihi, percussi femur meum. Confusus sum, et erubui, quoniam sustinui opprobrium adolescentiæ meæ.
 20 Si filius honorabilis mihi Ephraim, si puer delicatus! quia ex quo locutus sum de eo, adhuc recordabor ejus.
@@ -79,7 +79,7 @@ R. Quare non defendis sanguinem nostrum? Et acceperunt divinum responsum: Adhuc~
 sustinete modicum tempus, donec impleatur numerus fratrum vestrorum.
 
 [Lectio3]
-!Jerem 31:21-23
+!Jer 31:21-23
 21 Statue tibi speculam; pone tibi amaritudines; dirige cor tuum in viam rectam in qua ambulasti: revertere, virgo Israël, revertere ad civitates tuas istas.
 22 Usquequo deliciis dissolveris, filia vaga? quia creavit Dominus novum super terram: femina circumdabit virum.
 23 Haec dicit Dominus exercituum, Deus Israël: Adhuc dicent verbum istud in terra Juda et in urbibus ejus, cum convertero captivitatem eorum: Benedicat tibi Dominus, pulchritudo justitiae, mons sanctus.
@@ -146,7 +146,7 @@ Isti sunt * qui venerunt ex magna tribulatione, et laverunt stolas suas in sangu
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matth 2:13-18
+!Matt 2:13-18
 In illo tempore: Angelus Domini apparuit in somnis Joseph, dicens: Surge, et~
 accipe puerum, et matrem ejus, et fuge in Aegyptum, et esto ibi usque dum dicam~
 tibi. Et reliqua.
@@ -198,7 +198,7 @@ Vox in Rama * audita est, ploratus et ululatus, Rachel plorans filios suos.
 Sub throno Dei * omnes sancti clamant: Vindica sanguinem nostrum Deus noster.
 
 [Capitulum Laudes]
-!Apoc 14:1
+!Apo 14:1
 v. Vidi supra montem Sion Agnum stantem, et cum eo centum quadraginta quatuor~
 millia, habentes nomen ejus, et nomen Patris ejus scriptum in frontibus suis.
 $Deo gratias
@@ -235,19 +235,19 @@ sequuntur Agnum, quocumque ierit.
 @Sancti/12-25:Octava
 
 [Capitulum Tertia]
-!Apoc 14:1
+!Apo 14:1
 v. Vidi supra montem Sion Agnum stantem, et cum eo centum quadraginta quatuor~
 millia, habentes nomen ejus, et nomen Patris ejus scriptum in frontibus suis.
 $Deo gratias
 
 [Capitulum Sexta]
-!Apoc 14:4
+!Apo 14:4
 v. Hi sunt, qui cum mulieribus non sunt coinquinati: virgines enim sunt. Hi~
 sequuntur Agnum, quocumque ierit.
 $Deo gratias
 
 [Capitulum Nona]
-!Apoc 14:4-5
+!Apo 14:4-5
 v. Hi empti sunt ex hominibus primitiae Deo et Agno, et in ore ipsorum non est~
 inventum mendacium: sine macula enim sunt ante thronum Dei.
 $Deo gratias
@@ -260,7 +260,7 @@ Apud Dominum * misericordia, et copiosa apud eum redemptio.;;129
 De fructu * ventris tui ponam super sedem tuam.;;131
 
 [Capitulum Vespera]
-!Apoc 14:1
+!Apo 14:1
 v. Vidi supra montem Sion Agnum stantem, et cum eo centum quadraginta quatuor~
 millia, habentes nomen ejus, et nomen Patris ejus scriptum in frontibus suis.
 $Deo gratias

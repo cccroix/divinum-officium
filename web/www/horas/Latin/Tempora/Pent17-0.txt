@@ -13,7 +13,7 @@ $Per Dominum
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matth 22:34-46
+!Matt 22:34-46
 In illo tempore: Accesserunt ad Jesum pharisaei: et interrogavit eum unus ex eis legis doctor, tentans eum: Magister, quod est mandatum magnum in lege? Et reliqua.
 _
 Homilia sancti Joannis Chrysostomi.

@@ -16,7 +16,7 @@ Scitote quia prope est regnum Dei: amen dico vobis, quia non tardabit.
 Levate capita vestra: ecce appropinquat redemptio vestra.
 
 [Capitulum Vespera]
-!Tit 3:4-5
+!Titus 3:4-5
 v. Apparuit benignitas, et humanitas Salvatoris nostri Dei: non ex operibus~
 justitiae, quae fecimus nos, sed secundum suam misericordiam salvos nos fecit.
 $Deo gratias
@@ -143,7 +143,7 @@ V. Ipse invocabit me, alleluia.
 R. Pater meus es tu, alleluia.
 
 [Lectio1]
-!Isai 9:1-6
+!Isa 9:1-6
 1 Primo tempore alleviata est terra Zabulon et terra Nephthali: et novissimo~
 aggravata est via maris trans Jordanem Galilaeae gentium.
 2 Populus qui ambulabat in tenebris, vidit lucem magnam; habitantibus in regione~
@@ -169,7 +169,7 @@ R. Gaudet exercitus Angelorum: quia salus aeterna humano generi apparuit.
 R. Gaudet exercitus Angelorum: quia salus aeterna humano generi apparuit.
 
 [Lectio2]
-!Isai 40:1-8
+!Isa 40:1-8
 1 Consolamini, consolamini, popule meus, dicit Deus vester.
 2 Loquimini ad cor Jerusalem, et advocate eam, quoniam completa est malitia ejus,~
 dimissa est iniquitas illius: suscepit de manu Domini duplicia pro omnibus~
@@ -195,7 +195,7 @@ felicitatis aeternae.
 R. Hodie per totum mundum melliflui facti sunt caeli.
 
 [Lectio3]
-!Isai 52:1-6
+!Isa 52:1-6
 1 Consurge, consurge, induere fortitudine tua, Sion ! induere vestimentis~
 gloriae tuae, Jerusalem, civitas Sancti, quia non adjiciet ultra ut pertranseat~
 per te incircumcisus et immundus.
@@ -341,7 +341,7 @@ R. Hoc erat in principio apud Deum.
 
 [Lectio9]
 Lectio sancti Evangelii secundum Joannem.
-!Joann 1:1-14
+!Joannes 1:1-14
 In principio erat Verbum, et Verbum erat apud Deum, et Deus erat Verbum. Et~
 reliqua.
 _
@@ -375,7 +375,7 @@ Facta est cum Angelo * multitudo caelestis exercitus laudantium Deum, et dicenti
 Parvulus filius * hodie natus est nobis: et vocabitur Deus, fortis, alleluia, alleluia.
 
 [Capitulum Laudes]
-!Hebr 1:1-2
+!Heb 1:1-2
 v. Multifariam, multisque modis olim Deus loquens patribus in prophetis:~
 novissime diebus istis locutus est nobis in Filio, quem constituit haerodem~
 universorum, per quem fecit et saecula.
@@ -439,13 +439,13 @@ Gloria in excelsis Deo * et in terra pax hominibus bonae voluntatis, alleluia,~
 alleluia
 
 [Lectio Prima]
-!Hebr 1:11-12
+!Heb 1:11-12
 v. Ipsi peribunt, tu autem permanebis; et omnes sicut vestimentum veterascent:~
 et velut amictum mutabis eos, et mutabuntur: tu autem idem ipse es, et anni tui~
 non deficient.
 
 [Capitulum Tertia]
-!Hebr 1:1-2
+!Heb 1:1-2
 v. Multifariam, multisque modis olim Deus loquens patribus in prophetis:~
 novissime diebus istis locutus est nobis in Filio, quem constituit haerodem~
 universorum, per quem fecit et saecula.
@@ -456,7 +456,7 @@ V. Verbum caro factum est, alleluia.
 R. Et habitavit in nobis, alleluia
 
 [Capitulum Sexta]
-!Hebr 1:10
+!Heb 1:10
 v. Et: Tu in principio Domine terram fundasti: et opera manuum tuarum sunt~
 caeli.
 $Deo gratias
@@ -466,7 +466,7 @@ V. Ipse invocabit me, alleluia.
 R. Pater meus es tu, alleluia.
 
 [Capitulum Nona]
-!Hebr 1:11-12
+!Heb 1:11-12
 v. Ipsi peribunt, tu autem permanebis; et omnes sicut vestimentum veterascent:~
 et velut amictum mutabis eos, et mutabuntur: tu autem idem ipse es, et anni tui~
 non deficient.
@@ -483,7 +483,7 @@ Exortum est * in tenebris lumen rectis corde: misericors, et miserator, et justu
 Apud Dominum * misericordia, et copiosa apud eum redemptio;;129
 
 [Capitulum Vespera 3]
-!Hebr 1:1-2
+!Heb 1:1-2
 v. Multifariam, multisque modis olim Deus loquens patribus in prophetis:~
 novissime diebus istis locutus est nobis in Filio, quem constituit haeredem~
 universorum, per quem fecit et saecula.
@@ -507,7 +507,7 @@ alleluia.
 
 [LectioE]
 v. Initium Sancti Evangelii secundum Matthaeum.
-!Matth 1:1-16
+!Matt 1:1-16
 1:1 Liber generationis Jesu Christi filii David, filii Abraham.
 1:2 Abraham genuit Isaac. Isaac autem genuit Jacob. Jacob autem genuit Judam, et~
 fratres ejus.

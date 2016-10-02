@@ -1,6 +1,6 @@
 [Lectio1]
 De Ezechiele Propheta
-!Ezech 13:1-6
+!Ezek 13:1-6
 1 Et factus est sermo Domini ad me, dicens:
 2 Fili hominis, vaticinare ad prophetas Israël qui prophetant, et dices prophetantibus de corde suo: Audite verbum Domini.
 3 Haec dicit Dominus Deus: Vae prophetis insipientibus, qui sequuntur spiritum suum, et nihil vident!
@@ -12,7 +12,7 @@ De Ezechiele Propheta
 @Tempora/Pent01-0:Responsory1
 
 [Lectio2]
-!Ezech 13:7-10
+!Ezek 13:7-10
 7 Numquid non visionem cassam vidistis, et divinationem mendacem locuti estis, et dicitis: Ait Dominus, cum ego non sim locutus?
 8 Propterea haec dicit Dominus Deus: Quia locuti estis vana, et vidistis mendacium, ideo ecce ego ad vos, dicit Dominus Deus.
 9 Et erit manus mea super prophetas qui vident vana, et divinant mendacium: in consilio populi mei non erunt, et in scriptura domus Israël non scribentur, nec in terram Israël ingredientur, et scietis quia ego Dominus Deus:
@@ -22,7 +22,7 @@ De Ezechiele Propheta
 @Tempora/111-0:Responsory2
 
 [Lectio3]
-!Ezech 13:11-14
+!Ezek 13:11-14
 11 Dic ad eos qui liniunt absque temperatura, quod casurus sit: erit enim imber inundans, et dabo lapides praegrandes desuper irruentes, et ventum procellae dissipantem.
 12 Siquidem ecce cecidit paries: numquid non dicetur vobis: Ubi est litura quam linistis?
 13 Propterea haec dicit Dominus Deus: Et erumpere faciam spiritum tempestatum in indignatione mea, et imber inundans in furore meo erit, et lapides grandes in ira in consumptionem.

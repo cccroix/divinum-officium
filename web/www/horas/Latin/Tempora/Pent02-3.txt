@@ -11,7 +11,7 @@ Doxology=Corp
 
 [Lectio1]
 De libro primo Regum.
-!1 Reg 6:19-21; 7:1
+!1 Sam 6:19-21; 7:1
 19 Percussit autem de viris Bethsamitibus, eo quod vidissent arcam Domini: et percussit de populo septuaginta viros, et quinquaginta millia plebis. Luxitque populus, eo quod Dominus percussisset plebem plaga magna.
 20 Et dixerunt viri Bethsamitae: Quis poterit stare in conspectu Domini Dei sancti hujus? et ad quem ascendet a nobis?
 21 Miseruntque nuntios ad habitatores Cariathiarim, dicentes: Reduxerunt Philisthiim arcam Domini: descendite, et reducite eam ad vos.
@@ -21,7 +21,7 @@ De libro primo Regum.
 @Tempora/Pent01-3:Responsory1
 
 [Lectio2]
-!1 Reg 7:2-4
+!1 Sam 7:2-4
 2 Et factum est, ex qua die mansit arca Domini in Cariathiarim, multiplicati sunt dies (erat quippe jam annus vigesimus), et requievit omnis domus Israël post Dominum.
 3 Ait autem Samuel ad universam domum Israël, dicens: Si in toto corde vestro revertimini ad Dominum, auferte deos alienos de medio vestri, Baalim et Astaroth: et praeparate corda vestra Domino, et servite ei soli, et eruet vos de manu Philisthiim.
 4 Abstulerunt ergo filii Israël Baalim et Astaroth, et servierunt Domino soli.
@@ -30,7 +30,7 @@ De libro primo Regum.
 @Tempora/Pent01-3:Responsory2
 
 [Lectio3]
-!1 Reg 7:5-8
+!1 Sam 7:5-8
 5 Dixit autem Samuel: Congregate universum Israël in Masphath, ut orem pro vobis Dominum.
 6 Et convenerunt in Masphath: hauseruntque aquam, et effuderunt in conspectu Domini: et jejunaverunt in die illa atque dixerunt ibi: Peccavimus Domino. Judicavitque Samuel filios Israël in Masphath.
 7 Et audierunt Philisthiim quod congregati essent filii Israël in Masphath, et ascenderunt satrapae Philisthinorum ad Israël. Quod cum audissent filii Israël, timuerunt a facie Philisthinorum.
@@ -52,7 +52,7 @@ Jam redi mecum ad propositionem meam. Magnum quidem et venerabile, quod manna Ju
 
 [Lectio7]
 Lectio sancti Evangelii secundum Joannem.
-!Joann 6:5-59
+!Joannes 6:5-59
 In illo tempore: Dixit Jesus turbis Judaeorum: Caro mea, vere est cibus, et sanguis meus, vere est potus. Et reliqua.
 _
 Homilia sancti Hilarii Episcopi

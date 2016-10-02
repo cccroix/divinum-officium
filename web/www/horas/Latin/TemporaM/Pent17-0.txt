@@ -14,7 +14,7 @@ $Per Dominum
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matth 22:34-46
+!Matt 22:34-46
 In illo tempore: Accesserunt ad Jesum pharisaei: et interrogavit eum unus ex eis~
 legis doctor, tentans eum: Magister, quod est mandatum magnum in lege? Et~
 reliqua.
@@ -69,7 +69,7 @@ R. Sicut incensum in conspectu tuo.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matth 22:34-46
+!Matt 22:34-46
 22:34 Pharisaei autem audientes quod silentium imposuisset sadducaeis, convenerunt in unum:
 22:35 et interrogavit eum unus ex eis legis doctor, tentans eum:
 22:36 Magister, quod est mandatum magnum in lege?

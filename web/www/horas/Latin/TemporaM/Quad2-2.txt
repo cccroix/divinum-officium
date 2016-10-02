@@ -5,7 +5,7 @@ Feria Tertia infra Hebdomadam II in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Lectio sancti Evangelii secundum Matthaeum
-!Matth 23:1-12
+!Matt 23:1-12
 In illo tempore: Locutus est Jesus ad turbas, et ad discipulos suos, dicens:~
 Super cathedram Moysi sederunt scribae et pharisaei. Omnia ergo quaecumque~
 dixerint vobis, servate, et facite: secundum opera vero eorum nolite facere. Et~
@@ -70,7 +70,7 @@ $Per Dominum
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matth 23:1-12
+!Matt 23:1-12
 23:1 Tunc Jesus locutus est ad turbas, et ad discipulos suos,
 23:2 dicens: Super cathedram Moysi sederunt scribae et pharisaei.
 23:3 Omnia ergo quaecumque dixerint vobis, servate, et facite: secundum opera~

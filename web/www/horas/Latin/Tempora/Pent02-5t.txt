@@ -15,7 +15,7 @@ Secundum multitudinem * dolorum meorum in corde meo, consolationes tuae laetific
 Pone me * ut signaculum super cor tuum, ut signaculum super brachium tuum;;129
 
 [Capitulum Vespera]
-!Isai 12:2
+!Isa 12:2
 v. Ecce Deus Salvator meus, fiducialiter agam, et non timebo: quia fortitudo mea et laus mea Dominus, et factus est mihi in salutem. Haurietis aquas in gaudio de fontibus Salvatoris.
 $Deo gratias
 
@@ -116,7 +116,7 @@ R. Deus noster manifeste veniet.
 
 [Lectio1]
 De Isaia Propheta.
-!Isai 12:1-6
+!Isa 12:1-6
 1 Et dices in die illa: Confitebor tibi, Domine, quoniam iratus es mihi; conversus est furor tuus, et consolatus es me.
 2 Ecce Deus salvator meus; fiducialiter agam, et non timebo: quia fortitudo mea et laus mea Dominus, et factus est mihi in salutem.
 3 Haurietis aquas in gaudio de fontibus salvatoris.
@@ -131,7 +131,7 @@ V. Ego sum panis vivus, qui de caelo descendi: si quis manducaverit ex hoc pane,
 R. Hic est panis de caelo descendens, ut si quis ex ipso manducet, non moriatur.
 
 [Lectio2]
-!Isai 26:1-6
+!Isa 26:1-6
 1 In die illa cantabitur canticum istud in terra Juda: Urbs fortitudinis nostrae Sion; salvator ponetur in ea murus et antemurale.
 2 Aperite portas, et ingrediatur gens justa, custodiens veritatem.
 3 Vetus error abiit: servabis pacem; pacem, quia in te speravimus.
@@ -146,7 +146,7 @@ V. Vere languores nostros ipse tulit, et dolores nostros ipse portavit.
 R. Cujus livore sanati sumus.
 
 [Lectio3]
-!Isai 26:7-9
+!Isa 26:7-9
 7 Semita justi recta est, rectus callis justi ad ambulandum.
 8 Et in semita judiciorum tuorum, Domine, sustinuimus te: nomen tuum et memoriale tuum in desiderio animae.
 9 Anima mea desideravit te in nocte, sed et spiritu meo in praecordiis meis de mane vigilabo ad te. Cum feceris judicia tua in terra, justitiam discent habitatores orbis.
@@ -192,7 +192,7 @@ R. Et sapientiae ejus non est numerus.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Joannem.
-!Joann 19:31-37
+!Joannes 19:31-37
 In illo tempore: Judaei, quoniam parasceve erat, ut non remanerent in cruce corpora sabbato (erat enim magnus dies ille sabbati), rogaverunt Pilatum, ut frangerentur eorum crura, et tollerentur. Et reliqua.
 _
 Homilia sancti Augustini Episcopi.
@@ -278,7 +278,7 @@ Concede quaesumus omnipotens Deus: ut, qui in sanctissimo dilecti Filii tui Cord
 $Per eumdem
 
 [Lectio Prima]
-!Isai 12:5
+!Isa 12:5
 v. Cantate Domino quoniam magnifice fecit, annuntiate hoc in universa terra. Exsulta et lauda habitatio Sion, quia magnus in medio tui sanctus Israël.
 
 [Capitulum Tertia]
@@ -296,7 +296,7 @@ V. Posuit fines tuos pacem.
 R. Et adipe frumenti satiat te.
 
 [Capitulum Sexta]
-!Isai 12:4
+!Isa 12:4
 v. Dicetis in die illa: Confitemini Domino, et invocate nomen ejus: et mementate quoniam excelsum est nomen ejus.
 $Deo gratias
 
@@ -312,7 +312,7 @@ V. Dirupisti Domine vincula mea.
 R. Tibi sacrificabo hostiam laudis.
 
 [Capitulum Nona]
-!Isai 12:5
+!Isa 12:5
 v. Cantate Domino quoniam magnifice fecit, annuntiate hoc in universa terra. Exsulta et lauda habitatio Sion, quia magnus in medio tui sanctus Israël.
 $Deo gratias
 

@@ -194,7 +194,7 @@ R. Repleti sunt claritate, alleluia, alleluia
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matth 19:27-29
+!Matt 19:27-29
 In illo tempore: Dixit Petrus ad Jesum: Ecce nos reliquimus omnia, et secuti~
 sumus te: quid ergo erit nobis? Et reliqua.
 _
@@ -359,7 +359,7 @@ R. Vos elegit Deus in hereditdtem sibi,~
 alleluia.
 
 [Capitulum Sexta]
-!Sap 5:5
+!Sap. 5:5
 v. Ecce quomodo conputati sunt inter filios Dei et inter sanctos sors illorum~
 est
 $Deo gratias
@@ -390,7 +390,7 @@ Fulgebunt justi * sicut sol in conspectu Dei, alleluia;;138
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matth 19:27-29
+!Matt 19:27-29
 19:27 Tunc respondens Petrus, dixit ei: Ecce nos reliquimus omnia, et secuti sumus te: quid ergo erit nobis?
 19:28 Jesus autem dixit illis: Amen dico vobis, quod vos, qui secuti estis me, in regeneratione cum sederit Filius hominis in sede majestatis suae, sedebitis et vos super sedes duodecim, judicantes duodecim tribus Israël.
 19:29 Et omnis qui reliquerit domum, vel fratres, aut sorores, aut patrem, aut matrem, aut uxorem, aut filios, aut agros propter nomen meum, centuplum accipiet, et vitam aeternam possidebit.

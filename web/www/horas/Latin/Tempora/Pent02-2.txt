@@ -11,7 +11,7 @@ Doxology=Corp
 
 [Lectio1]
 De libro primo Regum.
-!1 Reg 6:1-3
+!1 Sam 6:1-3
 1 Fuit ergo arca Domini in regione Philisthinorum septem mensibus,
 2 et vocaverunt Philisthiim sacerdotes et divinos, dicentes: Quid faciemus de arca Domini? Indicate nobis quomodo remittamus eam in locum suum. Qui dixerunt:
 3 Si remittitis arcam Dei Israël, nolite dimittere eam vacuam, sed quod debetis, reddite ei pro peccato, et tunc curabimini: et scietis quare non recedat manus ejus a vobis.
@@ -20,7 +20,7 @@ De libro primo Regum.
 @Tempora/Pent03-2Feria:Responsory1
 
 [Lectio2]
-!1 Reg 6:6-10
+!1 Sam 6:6-10
 6 Quare aggravatis corda vestra, sicut aggravavit Ægyptus et pharao cor suum? Nonne postquam percussus est, tunc dimisit eos, et abierunt?
 7 Nunc ergo arripite et facite plaustrum novum unum: et duas vaccas fœtas, quibus non est impositum jugum, jungite in plaustro, et recludite vitulos earum domi.
 8 Tolletisque arcam Domini, et ponetis in plaustro, et vasa aurea quae exsolvistis ei pro delicto, ponetis in capsellam ad latus ejus: et dimittite eam ut vadat.
@@ -31,7 +31,7 @@ De libro primo Regum.
 @Tempora/Pent03-2Feria:Responsory2
 
 [Lectio3]
-!1 Reg 6:12-15
+!1 Sam 6:12-15
 12 Ibant autem in directum vaccae per viam quae ducit Bethsames, et itinere uno gradiebantur, pergentes et mugientes: et non declinabant neque ad dexteram neque ad sinistram: sed et satrapae Philisthiim sequebantur usque ad terminos Bethsames.
 13 Porro Bethsamitae metebant triticum in valle: et elevantes oculos suos, viderunt arcam, et gavisi sunt cum vidissent.
 14 Et plaustrum venit in agrum Josue Bethsamitae, et stetit ibi. Erat autem ibi lapis magnus, et conciderunt ligna plaustri, vaccasque imposuerunt super ea holocaustum Domino.
@@ -53,7 +53,7 @@ Ut ergo in Genesi per Melchisedech sacerdotem benedictio circa Abraham posset ri
 
 [Lectio7]
 Lectio sancti Evangelii secundum Joannem.
-!Joann 6:56-59
+!Joannes 6:56-59
 In illo tempore: Dixit Jesus turbis Judaeorum: Caro mea, vere est cibus: et sanguis meus, vere est potus. Et reliqua.
 _
 De Homilia sancti Augustini Episcopi.

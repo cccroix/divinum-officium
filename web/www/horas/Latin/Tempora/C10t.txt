@@ -11,7 +11,7 @@ Special Lectio 3
 Doxology=Nat
 
 [Capitulum Vespera]
-!Eccl 24:14
+!Sir 24:14
 v. Ab initio et ante saecula creata sum, et usque ad futurum saeculum non desinam, et in habitatione sancta coram ipso ministravi.
 $Deo gratias.
 
@@ -85,7 +85,7 @@ Ipsa Virgo Virginum, intercedat pro nobis ad Dominum. Amen.
 Per Virginem Matrem, concedat nobis Dominus salutem et pacem. Amen.
 
 [Capitulum Laudes]
-!Eccl 24:14
+!Sir 24:14
 v. Ab initio, et ante saecula creata sum, et usque ad futurum saeculum non desinam, et in habitatione sancta coram ipso ministravi.
 $Deo gratias.
 
@@ -207,7 +207,7 @@ $Qui tecum
 @:Ant 13
 
 [Lectio Prima]
-!Eccl 24:19-20
+!Sir 24:19-20
 v. In plateis sicut cinnamomum, et balsamum aromatizans odorem dedi: quasi myrrha electa dedi suavitatem odoris.
 
 [Capitulum Tertia]
@@ -225,7 +225,7 @@ V. Adjuvabit eam Deus vultu suo.
 R. Deus in medio ejus, non commovebitur.
 
 [Capitulum Sexta]
-!Eccl 24:15-16
+!Sir 24:15-16
 v. Et sic in Sion firmata sum, et in civitate sanctificata similiter requievi, et in Jerusalem potestas mea. Et radicavi in populo honorificato, et in parte Dei mei hereditas illius, et in plenitudine sanctorum detentio mea.
 $Deo gratias.
 
@@ -241,7 +241,7 @@ V. Elegit eam Deus, et praeelegit eam.
 R. In tabernaculo suo habitare facit eam.
 
 [Capitulum Nona]
-!Eccl 24:19-20
+!Sir 24:19-20
 v. In plateis sicut cinnamomum, et balsamum aromatizans odorem dedi: quasi myrrha electa dedi suavitatem odoris.
 $Deo gratias.
 

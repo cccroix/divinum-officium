@@ -1,5 +1,5 @@
 [Day0 Laudes]
-!Apoc 7:12
+!Apo 7:12
 v. Benedíctio, et claritas, et sapiéntia, et gratiárum actio, honor, virtus, et fortitúdo Deo nostro in sæcula sæculórum. Amen.
 $Deo gratias
 
@@ -245,7 +245,7 @@ V. Repléti sumus mane misericórdia tua.
 R. Exsultávimus, et delectáti sumus.
 
 [Day2 Vespera]
-!2 Cor 1, 3-4
+!2 Cor. 1, 3-4
 v. Benedíctus Deus, et Pater Dómini nostri Jesu Christi, Pater misericordiárum, et Deus totíus consolationis, qui consolátur nos in omni tribulatióne nostra.
 $Deo gratias
 
@@ -281,7 +281,7 @@ V. Dirigátur, Dómine, orátio mea.
 R. Sicut incénsum in conspéctu tuo.
 
 [Day3 Laudes]
-!Rom 13, 12-13
+!Rom. 13, 12-13
 v. Nox præcéssit, dies autem appropinquávit. Abjiciamus ergo ópera tenebrárum, et induamur arma lucis. Sicut in die honeste ambulémus.
 $Deo gratias
 
@@ -317,7 +317,7 @@ V. Repléti sumus mane misericórdia tua.
 R. Exsultávimus, et delectáti sumus.
 
 [Day3 Vespera]
-!2 Cor 1, 3-4
+!2 Cor. 1, 3-4
 v. Benedíctus Deus, et Pater Dómini nostri Jesu Christi, Pater misericordiárum, et Deus totíus consolationis, qui consolátur nos in omni tribulatióne nostra.
 $Deo gratias
 
@@ -353,7 +353,7 @@ V. Dirigátur, Dómine, orátio mea.
 R. Sicut incénsum in conspéctu tuo.
 
 [Day4 Laudes]
-!Rom 13, 12-13
+!Rom. 13, 12-13
 v. Nox præcéssit, dies autem appropinquávit. Abjiciamus ergo ópera tenebrárum, et induamur arma lucis. Sicut in die honeste ambulémus.
 $Deo gratias
 
@@ -389,7 +389,7 @@ V. Repléti sumus mane misericórdia tua.
 R. Exsultávimus, et delectáti sumus.
 
 [Day4 Vespera]
-!2 Cor 1, 3-4
+!2 Cor. 1, 3-4
 v. Benedíctus Deus, et Pater Dómini nostri Jesu Christi, Pater misericordiárum, et Deus totíus consolationis, qui consolátur nos in omni tribulatióne nostra.
 $Deo gratias
 
@@ -425,7 +425,7 @@ V. Dirigátur, Dómine, orátio mea.
 R. Sicut incénsum in conspéctu tuo.
 
 [Day5 Laudes]
-!Rom 13, 12-13
+!Rom. 13, 12-13
 v. Nox præcéssit, dies autem appropinquávit. Abjiciamus ergo ópera tenebrárum, et induamur arma lucis. Sicut in die honeste ambulémus.
 $Deo gratias
 
@@ -466,7 +466,7 @@ V. Repléti sumus mane misericórdia tua.
 R. Exsultávimus, et delectáti sumus.
 
 [Day5 Vespera]
-!2 Cor 1, 3-4
+!2 Cor. 1, 3-4
 v. Benedíctus Deus, et Pater Dómini nostri Jesu Christi, Pater misericordiárum, et Deus totíus consolationis, qui consolátur nos in omni tribulatióne nostra.
 $Deo gratias
 
@@ -502,7 +502,7 @@ V. Dirigátur, Dómine, orátio mea.
 R. Sicut incénsum in conspéctu tuo.
 
 [Day6 Laudes]
-!Rom 13, 12-13
+!Rom. 13, 12-13
 v. Nox præcéssit, dies autem appropinquávit. Abjiciamus ergo ópera tenebrárum, et induamur arma lucis. Sicut in die honeste ambulémus.
 $Deo gratias
 
@@ -622,7 +622,7 @@ Suscépit Deus * Israël, púerum suum: sicut locútus est ad Ábraham, et semen ejus
 
 
 [Adv Laudes]
-!Isai 2:3
+!Isa 2:3
 v. Veníte et ascendámus ad montem Dómini, et ad Domum Dei Jacob, et docébit nos vias suas, et ambulabimus in sémitis ejus: quia de Sion exíbit lex, et verbum Dómini de Jerúsalem.
 $Deo gratias
 
@@ -788,7 +788,7 @@ Nolíte timére; * quinta enim die véniet ad vos Dóminus noster.
 Ecce compléta sunt * ómnia, quæ dicta sunt per Angelum de Vírgine María.
  
 [Quad Laudes]
-!Isai 58:1
+!Isa 58:1
 v. Clama, ne cesses, quasi tuba exalta vocem tuam, et annuntia pópulo meo scélera eórum, et dómui Iacob peccáta eórum.
 $Deo gratias
 
@@ -824,7 +824,7 @@ V. Ángelis suis Deus mandávit de te.
 R. Ut custódiant te in ómnibus viis tuis.
 
 [Quad Vespera]
-!JoÃ«l 2:17
+!Joel 2:17
 v. Inter vestibulum et altáre plorabunt sacerdótes, minístri Dómini, et dicent: Parce, Dómine, parce pópulo tuo: et ne des hereditátem tuam in oppróbrium, ut dominentur eis natiónes. 
 $Deo gratias
 
@@ -860,7 +860,7 @@ V. Ángelis suis Deus mandávit de te.
 R. Ut custódiant te in ómnibus viis tuis.
 
 [Quad5 Laudes]
-!Jerem 11:19
+!Jer 11:19
 v. Veníte, mittamus lignum in panem ejus, et eradamus eum de terra vivéntium, et nomen ejus non memorétur ámplius.
 $Deo gratias
 
@@ -913,7 +913,7 @@ V. Éripe me de inimícis meis, Deus meus.
 R. Et ab insurgéntibus in me líbera me.
 
 [Quad5 Vespera]
-!Jerem 11:20
+!Jer 11:20
 v. Tu autem, Dómine Sábaoth, qui júdicas juste, et probas renes et corda, vídeam ultiónem tuam ex eis: tibi enim revelavi causam meam, Dómine, Deus meus.
 $Deo gratias
 
@@ -1361,7 +1361,7 @@ R. Amen.
 $Fidelium animae
 
 [Day0M Laudes]
-!Apoc 7:12
+!Apo 7:12
 v. Benedíctio, et claritas, et sapiéntia, et gratiárum actio, honor, virtus, et fortitúdo Deo nostro in sæcula sæculórum. Amen.
 $Deo gratias
 _
@@ -1433,7 +1433,7 @@ R. Et magna virtus ejus.
 R. Magnus Dóminus noster, * et magna virtus ejus.
 
 [AdvM Laudes]
-!Isai 2:3
+!Isa 2:3
 v. Veníte, ascendámus ad montem Dómini, et ad Domum Dei Jacob, et docébit nos vias suas, et ambulabimus in sémitis ejus: quia de Sion exíbit lex, et verbum Dómini de Jerúsalem.
 $Deo gratias
 _
@@ -1457,7 +1457,7 @@ R. Misericórdiam tuam.
 R. Osténde nobis Dómine * Misericórdiam tuam.
 
 [QuadM Laudes]
-!Isai 58:1
+!Isa 58:1
 v. Clama ne cesses quasi tuba exalta vocem tuam et annuntia pópulo meo scélera eórum et dómui Iacob peccáta eórum
 $Deo gratias
 _
@@ -1469,7 +1469,7 @@ R. De láqueo venántium.
 R. Ipse liberávit me * de láqueo venántium
 
 [QuadM Vespera]
-!JoÃ«l 2:17
+!Joel 2:17
 v. Inter vestibulum et altáre plorabunt sacerdótes, minístri Dómini, et dicent: parce, Dómine, parce pópulo tuo: et ne des hereditátem tuam in oppróbrium, ut dominentur eis natiónes. 
 $Deo gratias
 _
@@ -1481,7 +1481,7 @@ R. Obumbrábit tibi.
 R. Scápulis suis * obumbrábit tibi.
 
 [Quad5M Laudes]
-!Jerem 11:19
+!Jer 11:19
 v. Veníte, mittamus lignum in panem ejus, et eradamus eum de terra vivéntium, et nomen ejus non memorétur ámplius.
 $Deo gratias
 _
@@ -1492,7 +1492,7 @@ R. Deus ánimam meam.
 R. Érue a frámea * Deus ánimam meam.
 
 [Quad5M Vespera]
-!Jerem 11:20
+!Jer 11:20
 v. Tu autem Dómine Sábaoth qui júdicas juste et probas renes et cor vídeam ultiónem tuam ex eis tibi enim revelavi causam meam Dómine Deus meus.
 $Deo gratias
 _

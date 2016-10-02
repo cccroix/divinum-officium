@@ -5,7 +5,7 @@ Feria Quarta infra Hebdomadam II in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Lectio sancti Evangelii secundum Matthaeum
-!Matth 20:17-28
+!Matt 20:17-28
 In illo tempore: Ascendens Jesus Jerosolymam, assumpsit duodecim discipulos secreto, et ait illis: Ecce ascendimus Jerosolymam, et Filius hominis tradetur principibus sacerdotum, et scribis, et condemnabunt eum morte. Et reliqua.
 _
 Homilia sancti Ambrosii Episcopi

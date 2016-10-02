@@ -13,7 +13,7 @@ $Per Dominum
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matth 22:15-21
+!Matt 22:15-21
 In illo tempore: Abeuntes pharisaei, consilium inierunt ut caperent Jesum in sermone. Et reliqua.
 _
 Homilia sancti Hilarii Episcopi.

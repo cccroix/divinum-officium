@@ -160,7 +160,7 @@ R. Decimas et hostias pacificas offeram tibi.
 
 [Lectio7]
 Lectio Sancti Evangelii secundum Matthaeum
-!Matth 17:1-9
+!Matt 17:1-9
 In illo tempore: Assumpsit Jesus Petrum, et Jacobum, et Joanem fratrem ejus, et~
 duxit illos in montem excelsum seorsum: et transfiguratus est ante eos. Et~
 reliqua.
@@ -304,7 +304,7 @@ Visionem quam vidistis, * nemini dixeritis donec a mortuis resurgat Filius homin
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matth 17:1-9
+!Matt 17:1-9
 17:1 Et post dies sex assumit Jesus Petrum, et Jacobum, et Joannem fratrem ejus,~
 et ducit illos in montem excelsum seorsum:
 17:2 et transfiguratus est ante eos. Et resplenduit facies ejus sicut sol:~

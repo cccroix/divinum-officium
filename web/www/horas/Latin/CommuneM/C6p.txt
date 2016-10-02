@@ -125,7 +125,7 @@ V. Dilexisti justitiam et odisti iniquitatem
 R. Propterea unxit te Deus, Deus tuus oleo laetitiae
 
 [MM Capitulum mart]
-!Eccl 51:4-5
+!Eccli 51:4-5
 Et liberasti me, secundum multitudinem misericordiae nominis tui, a rugientibus praeparatis ad escam: 51:5 de manibus quaerentium animam meam, et de portis tribulationum quae circumdederunt me; 
 $Deo gratias
 _
@@ -182,7 +182,7 @@ R. Afferentur tibi in laetitia et exsultatione. Alleluia
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matth 25:1-13
+!Matt 25:1-13
 In illo tempore: Dixit Jesus discipulis suis parabolam hanc: Simile erit regnum~
 caelorum decem
 virginibus: quae accipientes lampades suas, exierunt obviam sponso et sponse. Et~
@@ -301,7 +301,7 @@ V. Elegit eam Deus, et praeelegit eam.
 R. In tabernaculo suo habitare facit eam
 
 [Capitulum Nona1]
-!Eccl 51:13-14
+!Sir 51:13-14
 v. Domine Deus meus, exaltasti super terram habitationem meam, et pro morte~
 defluente deprecata sum. Invocavi Dominum Patrem Domini mei, ut non derelinquat~
 me in die tribulationis meae, et in tempore superborum sine adjutorio.
@@ -319,7 +319,7 @@ R. Propterea benedixit te Deus in aeternum.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matth 25:1-13
+!Matt 25:1-13
 25:1 Tunc simile erit regnum caelorum decem virginibus: quae accipientes lampades suas exierunt obviam sponso et sponsae.
 25:2 Quinque autem ex eis erant fatuae, et quinque prudentes:
 25:3 sed quinque fatuae, acceptis lampadibus, non sumpserunt oleum secum:

@@ -7,7 +7,7 @@ Una Antiphona
 Doxology=Pasc
 
 [Capitulum Vespera]
-!Jacob 1:22-24
+!Jas 1:22-24
 v. Carissimi, estote autem factores verbi et non auditores tantum fallentes~
 vosmet ipsos quia si quis auditor est verbi et non factor hic conparabitur viro~
 consideranti vultum nativitatis suae in speculo consideravit enim se et abiit et~
@@ -36,7 +36,7 @@ $Per Dominum
 
 [Lectio1]
 Incipit Epistola prima beati Petri Apostoli.
-!1 Petri 1:1-5
+!1 Pet 1:1-5
 1 Petrus Apostolus Jesu Christi, electis advenis dispersionis Ponti, Galatiae,~
 Cappadociae, Asiae, et Bithyniae,
 2 secundum praescientiam Dei Patris, in sanctificationem Spiritus, in~
@@ -57,7 +57,7 @@ V. Super flumina Babylonis illic sedimus et flevimus, dum recordaremur tui Sion.
 R. Adhaereat lingua mea faucibus meis, si non meminero tui, alleluia, alleluia.
 
 [Lectio2]
-!1 Petri 1:6-12
+!1 Pet 1:6-12
 6 In quo exsultabis, modicum nunc si oportet contristari in variis~
 tentationibus:
 7 ut probatio vestrae fidei multo pretiosior auro (quod per ignem probatur)~
@@ -80,7 +80,7 @@ V. Illuxerunt coruscationes tuae orbi terrae: vidit et commota est terra.
 R. Multitudo sonitus aquarum vocem dederunt nubes, alleluia, alleluia, alleluia.
 
 [Lectio3]
-!1 Petri 1:13-21
+!1 Pet 1:13-21
 13 Propter quod succincti lumbos mentis vestrae, sobrii, perfecte sperate in eam,~
 quae offertur vobis, gratiam, in revelationem Jesu Christi:
 14 quasi filii obedientiae, non configurati prioribus ignorantiae vestrae~
@@ -165,7 +165,7 @@ R. Quomodo cantabimus canticum Domini in terra aliena? alleluia, alleluia.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Joannem.
-!Joann 16:23-30
+!Joannes 16:23-30
 In illo tempore: Dixit Jesus discipulis suis: Amen, amen dico vobis: si quid~
 petieritis Patrem in nomine meo, dabit vobis. Et reliqua.
 _
@@ -220,7 +220,7 @@ rei comparatione quidquid aliud concupiscitur, nihil est.
 @@TemporaM/Pasc4-0:Responsory9
 
 [Capitulum Laudes]
-!Jacob 1:22-24
+!Jas 1:22-24
 v. Carissimi: Estote factores verbi, et non auditores tantum, fallentes~
 vosmetipsos. Quia si quis auditor est verbi, et non factor: hic comparabitur~
 viro consideranti vultum nativitatis suae in speculo: consideravit enim se, et~
@@ -243,7 +243,7 @@ Usque modo * non petistis quidquam in nomine meo.: petite, et accipietis,~
 alleluia.
 
 [Capitulum Tertia]
-!Jacob 1:22-24
+!Jas 1:22-24
 v. Carissimi: Estote factores verbi, et non auditores tantum, fallentes~
 vosmetipsos. Quia si quis auditor est verbi, et non factor: hic comparabitur~
 viro consideranti vultum nativitatis suae in speculo: consideravit enim se, et~
@@ -251,13 +251,13 @@ abiit, et statim oblitus est qualis fuerit.
 $Deo gratias
 
 [Capitulum Sexta]
-!Jacob 1:25
+!Jas 1:25
 v. Qui autem perspexerit in lege perfecta libertatis et permanserit non auditor~
 obliviosus factus sed factor operis hic beatus in facto suo erit
 $Deo gratias
 
 [Capitulum Nona]
-!Jacob 1:27
+!Jas 1:27
 v. Religio munda et inmaculata apud Deum et Patrem haec est visitare pupillos et~
 viduas in tribulatione eorum inmaculatum se custodire ab hoc saeculo
 $Deo gratias
@@ -272,7 +272,7 @@ vos, quia vos me amastis, et credidistis, alleluja.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Johannem
-!Joann 16:23-30
+!Joannes 16:23-30
 16:23 Et in illo die me non rogabitis quidquam. Amen, amen dico vobis: si quid~
 petieritis Patrem in nomine meo, dabit vobis.
 16:24 Usque modo non petistis quidquam in nomine meo: petite, et accipietis, ut~

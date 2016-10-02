@@ -13,7 +13,7 @@ Ideo jurejurando * fecit illum Dominus crescere in plebem suam;;111
 Serve bone * et fidelis, intra in gaudium Domini tui;;112 
 
 [Capitulum Vespera]
-!Eccl 44:16-17
+!Sir 44:16-17
 v. Ecce sacerdos magnus, qui in diebus suis placuit Deo, et inventus est~
 justus: et in tempore iracundiae factus est reconciliatio.
 $Deo gratias
@@ -136,7 +136,7 @@ R. Intra in gaudium Domini tui.
 
 [Lectio2]
 De Epistola ad Titum.
-!Tit 1:7-11
+!Titus 1:7-11
 7 Oportet enim episcopum sine crimine esse, sicut Dei dispensatorem: non superbum, non iracundum, non vinolentum, non percussorem, non turpis lucri cupidum:
 8 sed hospitalem, benignum, sobrium, justum, sanctum, continentem,
 9 amplectentem eum, qui secundum doctrinam est, fidelem sermonem: ut potens sit exhortari in doctrina sana, et eos qui contradicunt, arguere.
@@ -151,7 +151,7 @@ V. Benedictionem omnium gentium dedit illi, et testamentum suum confirmavit supe
 R. Ideo jurejurando fecit illum Dominus crescere in plebem suam.
 
 [Lectio3]
-!Tit 2:1-8
+!Titus 2:1-8
 1 Tu autem loquere quae decent sanam doctrinam:
 2 senes ut sobrii sint, pudici, prudentes, sani in fide, in dilectione, in patientia:
 3 anus similiter in habitu sancto, non criminatrices, non multo vino servientes, bene docentes:
@@ -171,7 +171,7 @@ R. Tu es sacerdos in aeternum secundum ordinem Melchisedech.
 R. Tu es sacerdos in aeternum secundum ordinem Melchisedech.
 
 [MM Capitulum]
-!Eccl 44:20
+!Eccli 44:20
 Non est inventus similis illi in gloria: qui conservavit legem Excelsi. Ideo jurejurando fecit illum Dominus crescere in plebem suam. 
 $Deo gratias
 _
@@ -227,7 +227,7 @@ R. Ipse intercedat pro peccatis omnium populorum.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matth 25:14-23
+!Matt 25:14-23
 In illo tempore dixit Jesus discipulis suis: Sicut enim homo peregre proficiscens, vocavit servos suos, et tradidit illis bonis suis. Et reliqua.
 _
 Homilia sancti Gregorii Papae.
@@ -289,7 +289,7 @@ Sacerdotes Dei * benedicite Dominum: servi Domini hymnum dicite Deo, alleluia
 Serve bone * et fidelis, intra in gaudium Domini tui
 
 [Capitulum Laudes]
-!Eccl 44:16-17
+!Sir 44:16-17
 v. Ecce sacerdos magnus, qui in diebus suis placuit Deo, et inventus est justus:~
 et in tempore iracundiae factus est reconciliatio.
 $Deo gratias
@@ -358,11 +358,11 @@ Gregem tuum, Pastor ætérne, placátus inténde: et per beátum N. (Mártyrem t
 $Per Dominum
 
 [Lectio Prima]
-!Eccl 45:19-20
+!Sir 45:19-20
 v. Fungi sacerdotio, et habere laudem in nomine ipsius, et offerri illi incensum dignum in odorem suavitatis.
 
 [Capitulum Tertia]
-!Eccl 44. c.
+!Sir 44. c.
 v. Ecce sacerdos magnus, qui in diebus suis placuit Deo, et inventus est~
 justus: et in tempore iracundiae factus est reconciliatio.
 $Deo gratias
@@ -372,7 +372,7 @@ V. Elegit eum Dominus sacerdotem sibi.
 R. Ad sacrificandum ei hostiam laudis.
 
 [Capitulum Sexta]
-!Eccl 44:20; 44:22
+!Sir 44:20; 44:22
 v. Non est inventus similis illi, qui conservaret legem Excelsi: ideo~
 jurejurando fecit illum Dominus crescere in plebem suam.
 $Deo gratias
@@ -382,7 +382,7 @@ V. Tu es sacerdos in aeternum.
 R. Secundum ordinem Melchisedech.
 
 [Capitulum Nona]
-!Eccl 45:19-20
+!Sir 45:19-20
 v. Fungi sacerdotio, et habere laudem in nomine ipsius, et offerri illi incensum~
 dignum in odorem suavitatis.
 $Deo gratias
@@ -404,7 +404,7 @@ R. Et ostendit illi regnum Dei.
 
 [Lectio11]
 De libro Ecclesiastici
-!Eccl 44:1-5
+!Sir 44:1-5
 1 Laudemus viros gloriosos, et parentes nostros in generatione sua.
 2 Multam gloriam fecit Dominus: magnificentia sua a saeculo.
 3 Dominantes in potestatibus suis, homines magni virtute et prudentia sua praediti, nuntiantes in prophetis dignitatem prophetarum:
@@ -413,7 +413,7 @@ De libro Ecclesiastici
 
 
 [Lectio12]
-!Eccl 44:6-9
+!Sir 44:6-9
 6 homines divites in virtute, pulchritudinis studium habentes, pacificantes in domibus suis.
 7 Omnes isti in generationibus gentis suae gloriam adepti sunt, et in diebus suis habentur in laudibus.
 8 Qui de illis nati sunt reliquerunt nomen narrandi laudes eorum.
@@ -421,7 +421,7 @@ De libro Ecclesiastici
 
 
 [Lectio13]
-!Eccl 44:10-15
+!Sir 44:10-15
 10 Sed illi viri misericordiae sunt, quorum pietates non defuerunt.
 11 Cum semine eorum permanent bona:
 12 hereditas sancta nepotes eorum, et in testamentis stetit semen eorum:
@@ -431,7 +431,7 @@ De libro Ecclesiastici
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matth 25:14-23
+!Matt 25:14-23
 25:14 Sicut enim homo peregre proficiscens, vocavit servos suos, et tradidit illis bona sua.
 25:15 Et uni dedit quinque talenta, alii autem duo, alii vero unum, unicuique secundum propriam virtutem: et profectus est statim.
 25:16 Abiit autem qui quinque talenta acceperat, et operatus est in eis, et lucratus est alia quinque.

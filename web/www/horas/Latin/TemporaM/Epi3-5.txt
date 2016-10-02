@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 De epistola ad Ephesios
-!Ephes 5:1-4
+!Eph 5:1-4
 1 Estote ergo imitatores Dei, sicut filii carissimi,
 2 et ambulate in dilectione, sicut et Christus dilexit nos, et tradidit~
 semetipsum pro nobis, oblationem et hostiam Deo in odorem suavitatis.
@@ -19,7 +19,7 @@ sed magis gratiarum actio.
 @TemporaM/Epi2-5:Responsory1
 
 [Lectio2]
-!Ephes 5:5-8
+!Eph 5:5-8
 5 Hoc enim scitote intelligentes: quod omnis fornicator, aut immundus, aut~
 avarus, quod est idolorum servitus, non habet hereditatem in regno Christi et~
 Dei.
@@ -33,7 +33,7 @@ ambulate:
 @TemporaM/Epi2-5:Responsory2
 
 [Lectio3]
-!Ephes 5:9-14
+!Eph 5:9-14
 9 fructus enim lucis est in omni bonitate, et justitia, et veritate:
 10 probantes quid sit beneplacitum Deo:
 11 et nolite communicare operibus infructuosis tenebrarum, magis autem~

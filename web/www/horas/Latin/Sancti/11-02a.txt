@@ -35,7 +35,7 @@ corporis neque animae erit, sed immortalitatis munere vita jucunda.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matth 5:1-12
+!Matt 5:1-12
 In illo tempore: Videns Jesus turbas, ascendit in montem, et cum sedisset,~
 accesserunt ad eum discipuli ejus. Et reliqua.
 _

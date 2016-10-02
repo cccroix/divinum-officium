@@ -62,7 +62,7 @@ $Per Dominum
 
 [Lectio1]
 De Actibus Apostolorum
-!Act 3:1-5
+!Acts 3:1-5
 1 Petrus autem et Joannes ascendebant in templum ad horam orationis nonam.
 2 Et quidam vir, qui erat claudus ex utero matris suae, bajulabatur: quem~
 ponebant quotidie ad portam templi, quae dicitur Speciosa, ut peteret~
@@ -81,7 +81,7 @@ solveris super terram, erit solutum et in caelis.
 R. Et claves regni caelorum tradidi tibi.
 
 [Lectio2]
-!Act 3:6-10
+!Acts 3:6-10
 6 Petrus autem dixit: Argentum et aurum non est mihi: quod autem habeo, hoc tibi~
 do: in nomine Jesu Christi Nazareni surge, et ambula.
 7 Et apprehensa manu ejus dextera, allevavit eum, et protinus consolidatae sunt~
@@ -100,7 +100,7 @@ V. Si oportuerit me mori tecum, non te negabo.
 R. Et animam meam pono pro te.
 
 [Lectio3]
-!Act 3:11-16
+!Acts 3:11-16
 11 Cum teneret autem Petrum et Joannem, cucurrit omnis populus ad eos ad~
 porticum quae appellatur Salomonis, stupentes.
 12 Videns autem Petrus, respondit ad populum: Viri Israëlitae, quid miramini in~
@@ -188,7 +188,7 @@ R. Et ideo tibi traditae sunt claves regni caelorum.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matth 16:13-19
+!Matt 16:13-19
 In illo tempore: Venit Jesus in partes Caesareae Philippi: et interrogabat~
 discipulos suos, dicens: Quem dicunt homines esse Filium hominis? Et reliqua
 _
@@ -259,7 +259,7 @@ Misit Dominus * Angelum suum, et liberavit me de manu Herodis, alleluia.
 Tu es Petrus, * et super hanc petram aedificabo Ecclesiam meam.
 
 [Capitulum Laudes]
-!Act 12:1-3
+!Acts 12:1-3
 v. Misit Herodes rex manus, ut affligeret quosdam de Ecclesia. Occidit autem~
 Jacobum fratrem Joannis gladio. Videns autem quia placeret Judaeis, apposuit ut~
 apprehenderet et Petrum
@@ -299,7 +299,7 @@ Et Petrus ad se reversus, dixit: Nunc scio vere, quia misit Dominus Angelum suum
 et eripuit me de manu Herodis, et de omni exspectatione plebis Judeorum.
 
 [Capitulum Tertia]
-!Act 12:1-3
+!Acts 12:1-3
 v. Misit Herodes rex manus, ut affligeret quosdam de Ecclesia. Occidit autem~
 Jacobum fratrem Joannis gladio. Videns autem quia placeret Judaeis, apposuit ut~
 apprehenderet et Petrum
@@ -340,7 +340,7 @@ inclinato capite pro Christi nomine martyrio coronatus est, alleluia.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matth 16:13-19
+!Matt 16:13-19
 16:13 Venit autem Jesus in partes Caesareae Philippi: et interrogabat discipulos~
 suos, dicens: Quem dicunt homines esse Filium hominis?
 16:14 At illi dixerunt: Alii Joannem Baptistam, alii autem Eliam, alii vero~

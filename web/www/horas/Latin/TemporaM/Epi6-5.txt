@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 De epistola ad Hebraeos
-!Hebr 11:1-4
+!Heb 11:1-4
 1 Est autem fides sperandarum substantia rerum, argumentum non apparentium.
 2 In hac enim testimonium consecuti sunt senes.
 3 Fide intelligimus aptata esse saecula verbo Dei: ut ex invisibilibus visibilia~
@@ -19,7 +19,7 @@ illam defunctus adhuc loquitur.
 @TemporaM/Epi2-5:Responsory1
 
 [Lectio2]
-!Hebr 11:5-7
+!Heb 11:5-7
 5 Fide Henoch translatus est ne videret mortem, et non inveniebatur, quia~
 transtulit illum Deus: ante translationem enim testimonium habuit placuisse Deo.
 6 Sine fide autem impossibile est placere Deo. Credere enim oportet accedentem~
@@ -32,7 +32,7 @@ fidem est, haeres est institutus.
 @TemporaM/Epi2-5:Responsory2
 
 [Lectio3]
-!Hebr 11:8-10
+!Heb 11:8-10
 8 Fide qui vocatur Abraham obedivit in locum exire, quem accepturus erat in haereditatem: et exiit, nesciens quo iret.
 9 Fide demoratus est in terra repromissionis, tamquam in aliena, in casulis habitando cum Isaac et Iacob, cohaeredibus repromissionis eiusdem.
 10 Exspectabat enim fundamenta habentem civitatem: cuius artifex et conditor Deus.

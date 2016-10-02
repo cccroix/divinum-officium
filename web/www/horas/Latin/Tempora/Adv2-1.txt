@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 De Isaia Propheta
-!Isai 13:1-4
+!Isa 13:1-4
 1 Onus Babylonis, quod vidit Isaias, filius Amos.
 2 Super montem caliginosum levate signum: exaltate vocem, levate manum, et ingrediantur portas duces.
 3 Ego mandavi sanctificatis meis, et vocavi fortes meos in ira mea, exsultantes in gloria mea.
@@ -16,7 +16,7 @@ De Isaia Propheta
 @Tempora/Adv1-1:Responsory1
 
 [Lectio2]
-!Isai 13:4-8
+!Isa 13:4-8
 4 Dominus exercituum praecepit militiae belli,
 5 venientibus de terra procul, a summitate caeli; Dominus, et vasa furoris ejus, ut disperdat omnem terram.
 6 Ululate, quia prope est dies Domini; quasi vastitas a Domino veniet.
@@ -27,7 +27,7 @@ De Isaia Propheta
 @Tempora/Adv1-1:Responsory2
 
 [Lectio3]
-!Isai 13:9-11
+!Isa 13:9-11
 9 Ecce dies Domini veniet, crudelis, et indignationis plenus, et irae, furorisque, ad ponendam terram in solitudinem, et peccatores ejus conterendos de ea.
 10 Quoniam stellae caeli, et splendor earum, non expandent lumen suum; obtenebratus est sol in ortu suo, et luna non splendebit in lumine suo.
 11 Et visitabo super orbis mala, et contra impios iniquitatem eorum; et quiescere faciam superbiam infidelium, et arrogantiam fortium humiliabo.

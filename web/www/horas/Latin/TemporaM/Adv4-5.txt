@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 De Isaia Propheta
-!Isai 66:5-8
+!Isa 66:5-8
 5 Audite verbum Domini, qui tremitis ad verbum ejus. Dixerunt fratres vestri odientes vos, et abjicientes propter nomen meum: Glorificetur Dominus, et videbimus in laetitia vestra; ipsi autem confundentur.
 6 Vox populi de civitate, vox de templo, vox Domini reddentis retributionem inimicis suis.
 7 Antequam parturiret, peperit; antequam veniret partus ejus, peperit masculum.
@@ -17,7 +17,7 @@ De Isaia Propheta
 @TemporaM/Adv4-0:Responsory4
 
 [Lectio2]
-!Isai 66:9-12
+!Isa 66:9-12
 9 Numquid ego qui alios parere facio, ipse non pariam? dicit Dominus. Si ego, qui generationem ceteris tribuo, sterilis ero? ait Dominus Deus tuus.
 10 Laetamini cum Jerusalem et exsultate in ea, omnes qui diligitis eam; gaudete cum ea gaudio, universi qui lugetis super eam:
 11 ut sugatis et repleamini ab ubere consolationis ejus; ut mulgeatis et deliciis affluatis ab omnimoda gloria ejus.
@@ -28,7 +28,7 @@ De Isaia Propheta
 @TemporaM/Adv4-0:Responsory5
 
 [Lectio3]
-!Isai 66:13-16
+!Isa 66:13-16
 13 Quomodo si cui mater blandiatur, ita ego consolabor vos, et in Jerusalem consolabimini.
 14 Videbitis, et gaudebit cor vestrum, et ossa vestra quasi herba germinabunt: et cognoscetur manus Domini servis ejus, et indignabitur inimicis suis.
 15 Quia ecce Dominus in igne veniet, et quasi turbo quadrigae ejus, reddere in indignatione furorem suum et increpationem suam in flamma ignis:

@@ -24,7 +24,7 @@ $Per Dominum
 
 [Lectio1]
 Incipit Epistola catholica beati Jacobi Apostoli.
-!Jacob 1:1-6
+!Jas 1:1-6
 1 Jacobus, Dei et Domini nostri Jesu Christi servus, duodecim tribubus, quae~
 sunt in dispersione, salutem.
 2 Omne gaudium existimate fratres mei, cum in tentationes varias incideritis:
@@ -37,7 +37,7 @@ affluenter, et non improperat: et dabitur ei.
 maris, qui a vento movetur et circumfertur:
 
 [Lectio2]
-!Jacob 1:6-11
+!Jas 1:6-11
 6 Postulet autem in fide nihil haesitans: qui enim haesitat, similis est fluctui~
 maris, qui a vento movetur et circumfertur:
 7 non ergo aestimet homo ille quod accipiat aliquid a Domino.
@@ -48,7 +48,7 @@ maris, qui a vento movetur et circumfertur:
 decor vultus ejus deperiit: ita et dives in itineribus suis marcescet.
 
 [Lectio3]
-!Jacob 1:12-16
+!Jas 1:12-16
 12 Beatus vir qui suffert tentationem: quoniam cum probatus fuerit, accipiet~
 coronam vitae, quam repromisit Deus diligentibus se.
 13 Nemo cum tentatur, dicat quoniam a Deo tentatur: Deus enim intentator malorum~
@@ -100,7 +100,7 @@ septem catholicis est.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Joannem.
-!Joann 14:1-13
+!Joannes 14:1-13
 In illo tempore: Dixit Jesus discipulis suis: Non turbetur cor vestrum. Creditis~
 in Deum, et in me credite. In domo Patris mei mansiones multae sunt. Et reliqua.
 _
@@ -156,7 +156,7 @@ fiet vobis, alleluia, alleluia, alleluia.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Joannem
-!Joann 14:1-13
+!Joannes 14:1-13
 14:1 Non turbetur cor vestrum. Creditis in Deum, et in me credite.
 14:2 In domo Patris mei mansiones multae sunt; si quominus dixissem vobis: quia~
 vado parare vobis locum.

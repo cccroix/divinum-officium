@@ -1,6 +1,6 @@
 [Lectio1]
 De libro Judith
-!Judith 12:10-13
+!Jdt 12:10-13
 10 Et factum est, in quarto die Holofernes fecit cœnam servis suis, et dixit ad Vagao eunuchum suum: Vade, et suade Hebraeam illam ut sponte consentiat habitare mecum.
 11 Fœdum est enim apud Assyrios, si femina irrideat virum agendo ut immunis ab eo transeat.
 12 Tunc introivit Vagao ad Judith, et dixit: Non vereatur bona puella introire ad dominum meum, ut honorificetur ante faciem ejus, ut manducet cum eo, et bibat vinum in jucunditate.
@@ -10,7 +10,7 @@ De libro Judith
 @Tempora/094-0:Responsory1
 
 [Lectio2]
-!Judith 13:1-7
+!Jdt 13:1-7
 1 Ut autem sero factum est, festinaverunt servi illius ad hospitia sua, et conclusit Vagao ostia cubiculi, et abiit.
 2 Erant autem omnes fatigati a vino,
 3 eratque Judith sola in cubiculo.
@@ -23,7 +23,7 @@ De libro Judith
 @Tempora/093-0:Responsory7
 
 [Lectio3]
-!Judith 13:8-11
+!Jdt 13:8-11
 8 Et cum haec dixisset, accessit ad columnam quae erat ad caput lectuli ejus, et pugionem ejus, qui in ea ligatus pendebat, exsolvit.
 9 Cumque evaginasset illum, apprehendit comam capitis ejus, et ait: Confirma me, Domine Deus, in hac hora.
 10 Et percussit bis in cervicem ejus, et abscidit caput ejus, et abstulit conopeum ejus a columnis, et evolvit corpus ejus truncum.

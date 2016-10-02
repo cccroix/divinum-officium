@@ -5,7 +5,7 @@ Feria Secunda infra Hebdomadam Passionis;;Feria major;;2
 
 [Lectio1]
 Lectio sancti Evangelii secundum Joannem.
-!Joann 7:32:39
+!Joannes 7:32:39
 In illo tempore: Miserunt principes et pharisaei ministros, ut apprehenderent~
 Jesum. Et reliqua.
 _
@@ -85,7 +85,7 @@ $Per Dominum.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Joannem
-!Joann 7:32:39
+!Joannes 7:32:39
 7:32 Audierunt pharisæi turbam murmurantem de illo hæc : et miserunt principes et pharisæi ministros ut apprehenderent eum. 
 7:33 Dixit ergo eis Jesus : Adhuc modicum tempus vobiscum sum : et vado ad eum qui me misit. 
 7:34 Quæretis me, et non invenietis : et ubi ego sum, vos non potestis venire. 

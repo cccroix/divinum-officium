@@ -5,7 +5,7 @@ Feria Quarta infra Hebdomadam I post Octavam Pentecostes;;Feria;;1
 Oratio Dominica
 			
 [Lectio1]
-!1 Reg 2:12-14
+!1 Sam 2:12-14
 12 Porro filii Heli, filii Belial, nescientes Dominum,
 13 neque officium sacerdotum ad populum: sed quicumque immolasset victimam, veniebat puer sacerdotis, dum coquerentur carnes, et habebat fuscinulam tridentem in manu sua,
 14 et mittebat eam in lebetem, vel in caldariam, aut in ollam, sive in cacabum: et omne quod levabat fuscinula, tollebat sacerdos sibi: sic faciebant universo Israëli venientium in Silo.
@@ -21,7 +21,7 @@ quia tibi soli peccavi.
 R. Et malum coram te feci.
 
 [Lectio2]
-!1 Reg 2:15-17
+!1 Sam 2:15-17
 15 Etiam antequam adolerent adipem, veniebat puer sacerdotis, et dicebat immolanti: Da mihi carnem, ut coquam sacerdoti: non enim accipiam a te carnem coctam, sed crudam.
 16 Dicebatque illi immolans: Incendatur primum juxta morem hodie adeps, et tolle tibi quantumcumque desiderat anima tua. Qui respondens aiebat ei: Nequaquam: nunc enim dabis, alioquin tollam vi.
 17 Erat ergo peccatum puerorum grande nimis coram Domino: quia retrahebant homines a sacrificio Domini.
@@ -35,7 +35,7 @@ corde suo.
 R. Benedic, et sanctifica domum istam in sempiternum, Deus Israël.
 
 [Lectio3]
-!1 Reg 2:18-21
+!1 Sam 2:18-21
 18 Samuel autem ministrabat ante faciem Domini, puer accinctus ephod lineo.
 19 Et tunicam parvam faciebat ei mater sua, quam afferebat statutis diebus, ascendens cum viro suo, ut immolaret hostiam solemnem.
 20 Et benedixit Heli Elcanae et uxori ejus: dixitque ei: Reddat tibi Dominus semen de muliere hac, pro fœnore quod commodasti Domino. Et abierunt in locum suum.

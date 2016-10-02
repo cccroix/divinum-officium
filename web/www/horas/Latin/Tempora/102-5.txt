@@ -1,6 +1,6 @@
 [Lectio1]
 De libro primo Machabaeorum
-!1 Mach 7:1; 7:4-7
+!1 Mac 7:1; 7:4-7
 1 Anno centesimo quinquagesimo primo, exiit Demetrius Seleuci filius ab urbe Roma, et ascendit cum paucis viris in civitatem maritimam, et regnavit illic.
 4 Et sedit Demetrius super sedem regni sui.
 5 Et venerunt ad eum viri iniqui et impii ex Israël: et Alcimus dux eorum, qui volebat fieri sacerdos,
@@ -11,7 +11,7 @@ De libro primo Machabaeorum
 @Tempora/101-0:Responsory4
 
 [Lectio2]
-!1 Mach 7:8-11
+!1 Mac 7:8-11
 8 Et elegit rex ex amicis suis Bacchidem, qui dominabatur trans flumen magnum in regno, et fidelem regi: Et misit eum,
 9 ut videret exterminium quod fecit Judas: sed et Alcimum impium constituit in sacerdotium, et mandavit ei facere ultionem in filios Israël.
 10 Et surrexerunt, et venerunt cum exercitu magno in terram Juda: et miserunt nuntios, et locuti sunt ad Judam et ad fratres ejus verbis pacificis in dolo.
@@ -21,7 +21,7 @@ De libro primo Machabaeorum
 @Tempora/101-0:Responsory5
 
 [Lectio3]
-!1 Mach 7:12-17
+!1 Mac 7:12-17
 12 Et convenerunt ad Alcimum et Bacchidem congregatio scribarum requirere quae justa sunt:
 13 et primi, Assidaei qui erant in filiis Israël: et exquirebant ab eis pacem.
 14 Dixerunt enim: Homo sacerdos de semine Aaron venit; non decipiet nos:

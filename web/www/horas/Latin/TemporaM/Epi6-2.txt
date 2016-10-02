@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 De epistola ad Hebraeos
-!Hebr 4:1-3
+!Heb 4:1-3
 1 Timeamus ergo ne forte relicta pollicitatione introëundi in requiem ejus,~
 existimetur aliquis ex vobis deesse.
 2 Etenim et nobis nuntiatum est, quemadmodum et illis: sed non profuit illis~
@@ -19,7 +19,7 @@ mundi perfectis.
 @TemporaM/Epi2-2:Responsory1
 
 [Lectio2]
-!Hebr 4:4-7
+!Heb 4:4-7
 4 Dixit enim in quodam loco de die septima sic: Et requievit Deus die septima ab~
 omnibus operibus suis.
 5 Et in isto rursum: Si introibunt in requiem meam.
@@ -33,7 +33,7 @@ vestra.
 @TemporaM/Epi2-1:Responsory2
 
 [Lectio3]
-!Hebr 4:8-12
+!Heb 4:8-12
 8 Nam si eis Jesus requiem praestitisset, numquam de alia loqueretur, posthac,~
 die.
 9 Itaque relinquitur sabbatismus populo Dei.

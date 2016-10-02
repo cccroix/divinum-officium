@@ -238,7 +238,7 @@ Amen.
 Praeclara salutis aurora * ex te, Virgo Maria, exivit sol iustitiae, qui visitavit nos oriens ex alto.
 
 [Lectio Prima]
-!Eccl 24:25-26
+!Sir 24:25-26
 v. In me gratia omnis viae et veritatis: in me omnis spes vitæ et virtutis. Transite ad me, omnes qui concupiscitis me, et a generationibus meis implemini.
 
 [Capitulum Tertia]
@@ -274,7 +274,7 @@ V. In me omnis gratia viae et veritatis.
 R. In me omnis spes vitae et virtutis.
 
 [Capitulum Nona]
-!Eccl 24:25-26
+!Sir 24:25-26
 v. In me gratia omnis viae et veritatis: in me omnis spes vitæ et virtutis. Transite ad me, omnes qui concupiscitis me, et a generationibus meis implemini.
 $Deo gratias
 

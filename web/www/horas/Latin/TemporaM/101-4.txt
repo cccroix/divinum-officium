@@ -1,6 +1,6 @@
 [Lectio1]
 De libro primo Machabaeorum
-!1 Mach 2:49-54
+!1 Mac 2:49-54
 49 Et appropinquaverunt dies Mathathiae moriendi, et dixit filiis suis: Nunc confortata est superbia, et castigatio, et tempus eversionis, et ira indignationis.
 50 Nunc ergo, o filii, aemulatores estote legis, et date animas vestras pro testamento patrum vestrorum,
 51 et mementote operum patrum, quae fecerunt in generationibus suis: et accipietis gloriam magnam, et nomen aeternum.
@@ -13,7 +13,7 @@ De libro primo Machabaeorum
 @TemporaM/101-0:Responsory1
 
 [Lectio2]
-!1 Mach 2:55-63
+!1 Mac 2:55-63
 55 Jesus dum implevit verbum, factus est dux in Israël.
 56 Caleb dum testificatur in ecclesia, accepit hereditatem.
 57 David in sua misericordia consecutus est sedem regni in saecula.
@@ -29,7 +29,7 @@ De libro primo Machabaeorum
 @TemporaM/101-0:Responsory2
 
 [Lectio3]
-!1 Mach 2:64-69
+!1 Mac 2:64-69
 64 Vos ergo filii, confortamini, et viriliter agite in lege: quia in ipsa gloriosi eritis.
 65 Et ecce Simon frater vester, scio quod vir consilii est: ipsum audite semper, et ipse erit vobis pater.
 66 Et Judas Machabaeus, fortis viribus a juventute sua, sit vobis princeps militiae, et ipse aget bellum populi.

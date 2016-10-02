@@ -14,7 +14,7 @@ Damasci praepositus * gentis Aretae regis voluit me comprehendere: a fratribus p
 Ter virgis caesus sum: * semel lapidatus sum: ter naufragium pertuli pro Christi nomine.;;116
 
 [Capitulum Vespera]
-!Act 9:1-2
+!Acts 9:1-2
 v. Saulus autem adhuc spirans minarum et caedis in discipulos Domini, accessit ad principem sacerdotum, et petiit ab eo epistolas in Damascum ad synagogas, ut si quos invenisset huius viae viros ac mulieres, vinctos perduceret in Jerusalem.
 $Deo gratias
 
@@ -29,7 +29,7 @@ Laudemus Deum nostrum, * In conversione Doctoris Gentium.
 
 [Lectio1]
 De Actibus Apostolorum.
-!Act 9:1-5
+!Acts 9:1-5
 1 Saulus autem adhuc spirans minarum et caedis in discipulos Domini, accessit ad principem sacerdotum,
 2 et petiit ab eo epistolas in Damascum ad synagogas: ut si quos invenisset hujus viae viros ac mulieres, vinctos perduceret in Jerusalem.
 3 Et cum iter faceret, contigit ut appropinquaret Damasco: et subito circumfulsit eum lux de caelo.
@@ -37,14 +37,14 @@ De Actibus Apostolorum.
 5 Qui dixit: Quis es, domine? Et ille: Ego sum Jesus, quem tu persequeris: durum est tibi contra stimulum calcitrare.
 
 [Lectio2]
-!Act 9:6-9
+!Acts 9:6-9
 6 Et tremens ac stupens dixit: Domine, quid me vis facere?
 7 Et Dominus ad eum: Surge, et ingredere civitatem, et ibi dicetur tibi quid te oporteat facere. Viri autem illi qui comitabantur cum eo, stabant stupefacti, audientes quidem vocem, neminem autem videntes.
 8 Surrexit autem Saulus de terra, apertisque oculis nihil videbat. Ad manus autem illum trahentes, introduxerunt Damascum.
 9 Et erat ibi tribus diebus non videns, et non manducavit, neque bibit.
 
 [Lectio4]
-!Act 9:10-16
+!Acts 9:10-16
 10 Erat autem quidam discipulus Damasci, nomine Ananias: et dixit ad illum in visu Dominus: Anania. At ille ait: Ecce ego, Domine.
 11 Et Dominus ad eum: Surge, et vade in vicum qui vocatur Rectus: et quaere in domo Judae Saulum nomine Tarsensem: ecce enim orat.
 12 (Et vidit virum Ananiam nomine, introëuntem, et imponentem sibi manus ut visum recipiat.)
@@ -62,7 +62,7 @@ Damasci praepositus * gentis Aretae regis voluit me comprehendere: a fratribus p
 Ter virgis caesus sum: * semel lapidatus sum: ter naufragium pertuli pro Christi nomine.
 
 [Capitulum Laudes]
-!Act 9:1-2
+!Acts 9:1-2
 v. Saulus autem adhuc spirans minarum et caedis in discipulos Domini, accessit ad principem sacerdotum, et petiit ab eo epistolas in Damascum ad synagogas, ut si quos invenisset huius viae viros ac mulieres, vinctos perduceret in Jerusalem.
 $Deo gratias
 
@@ -73,17 +73,17 @@ _
 @Sancti/01-25:Commemoratio4
 
 [Capitulum Tertia]
-!Act 9:1-2
+!Acts 9:1-2
 v. Saulus autem adhuc spirans minarum et caedis in discipulos Domini, accessit ad principem sacerdotum, et petiit ab eo epistolas in Damascum ad synagogas, ut si quos invenisset huius viae viros ac mulieres, vinctos perduceret in Jerusalem.
 $Deo gratias
 
 [Capitulum Sexta]
-!Act 9:8-9
+!Acts 9:8-9
 v. Surrexit autem Saulus de terra, apertisque oculis nihil videbat. Ad manus autem illum trahentes, introduxerunt Damascum. Et erat ibi tribus diebus non videns, et non manducavit, neque bibit.
 $Deo gratias
 
 [Capitulum Nona]
-!Act 9:22
+!Acts 9:22
 v. Saulus autem multo magis convalescebat, et confundebat Judaeos, qui habitabant Damasci, affirmans quoniam hic est Christus.
 $Deo gratias
 

@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 De Epistola beati Jacobi Apostoli.
-!Jacob 5:1-6
+!Jas 5:1-6
 1 Agite nunc divites, plorate ululantes in miseriis vestris, quae advenient vobis.
 2 Divitiae vestrae putrefactae sunt, et vestimenta vestra a tineis comesta sunt.
 3 Aurum et argentum vestrum aeruginavit: et aerugo eorum in testimonium vobis erit, et manducabit carnes vestras sicut ignis. Thesaurizastis vobis iram in novissimis diebus.
@@ -23,7 +23,7 @@ V. Deus meus es tu, et confitebor tibi: Deus meus es tu, et exaltabo te.
 R. In psalterio decem chordarum psallam tibi, alleluia, alleluia.
 
 [Lectio2]
-!Jacob 5:7-11
+!Jas 5:7-11
 7 Patientes igitur estote, fratres, usque ad adventum Domini. Ecce agricola exspectat pretiosum fructum terrae, patienter ferens donec accipiat temporaneum et serotinum.
 8 Patientes igitur estote et vos, et confirmate corda vestra: quoniam adventus Domini appropinquavit.
 9 Nolite ingemiscere, fratres, in alterutrum, ut non judicemini. Ecce judex ante januam assistit.
@@ -39,7 +39,7 @@ R. Et psallere, alleluia.
 R. Et psallere, alleluia.
 
 [Lectio3]
-!Jacob 5:12-16
+!Jas 5:12-16
 12 Ante omnia autem, fratres mei, nolite jurare, neque per caelum, neque per terram, neque aliud quodcumque juramentum. Sit autem sermo vester: Est, est: Non, non: ut non sub judicio decidatis.
 13 Tristatur aliquis vestrum? oret. Æquo animo est? psallat.
 14 Infirmatur quis in vobis? inducat presbyteros Ecclesiae, et orent super eum, ungentes eum oleo in nomine Domini:

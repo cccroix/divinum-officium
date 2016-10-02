@@ -5,7 +5,7 @@ Feria Tertia infra Hebdomadam I in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matth 21:1-17.
+!Matt 21:1-17.
 In illo tempore: Cum intrasset Jesus Hierosolymam, commuta est universa civitas,~
 dicens: Quis est hic? Et reliqua.
 _
@@ -74,7 +74,7 @@ $Per Dominum.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matth 21:1-17.
+!Matt 21:1-17.
 21:1 Et cum appropinquassent Jerosolymis, et venissent Bethphage ad montem Oliveti: tunc Jesus misit duos discipulos,
 21:2 dicens eis: Ite in castellum, quod contra vos est, et statim invenietis asinam alligatam, et pullum cum ea: solvite, et adducite mihi:
 21:3 et si quis vobis aliquid dixerit, dicite quia Dominus his opus habet: et confestim dimittet eos.

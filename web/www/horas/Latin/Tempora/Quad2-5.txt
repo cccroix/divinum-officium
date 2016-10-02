@@ -5,7 +5,7 @@ Feria Sexta infra Hebdomadam II in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Lectio sancti Evangelii secundum Matthaeum
-!Matth 21:33-46
+!Matt 21:33-46
 In illo tempore: Dixit Jesus turbis Judaeorum, et principibus sacerdotum parabolam hanc: Homo erat paterfamilias, qui plantavit vineam, et sepem circumdedit ei. Et reliqua.
 _
 Homilia sancti Ambrosii Episcopi

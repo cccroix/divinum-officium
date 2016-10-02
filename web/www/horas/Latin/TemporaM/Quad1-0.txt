@@ -151,7 +151,7 @@ R. Ut in die resurrectionis cum Domino gloriemur.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matth 4:1-11.
+!Matt 4:1-11.
 In illo tempore Ductus est Jesus in desertum a Spiritu, ut tentaretur a diabolo.~
 Et cum jejunasset quadraginta diebus et quadraginta noctibus, postea esuriit. Et~
 reliqua.
@@ -255,7 +255,7 @@ $Deo gratias
 Non in solo pane * vivit homo, sed in omni verbo, quod procedit de ore Dei.
 
 [Capitulum Sexta]
-!2 Cor 6:2-3
+!2. Cor. 6:2-3
 v. Ecce nunc tempus acceptabile, ecce nunc dies salutis nemini dantes ullam~
 offensionem, ut non vituperetur ministerium nostrum.
 $Deo gratias
@@ -294,7 +294,7 @@ vigiliis, et in caritate non ficta.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matth 4:1-11
+!Matt 4:1-11
 4:1 Tunc Jesus ductus est in desertum a Spiritu, ut tentaretur a diabolo.
 4:2 Et cum jejunasset quadraginta diebus, et quadraginta noctibus, postea~
 esuriit.

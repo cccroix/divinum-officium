@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 De epistola ad Hebraeos
-!Hebr 7:1-3
+!Heb 7:1-3
 1 Hic enim Melchisedech, rex Salem, sacerdos Dei summi, qui obviavit Abrahae~
 regresso a caede regum, et benedixit ei:
 2 cui et decimas omnium divisit Abraham: primum quidem qui interpretatur rex~
@@ -18,7 +18,7 @@ vitae habens, assimilatus autem Filio Dei, manet sacerdos in perpetuum.
 @TemporaM/Epi2-4:Responsory1
 
 [Lectio2]
-!Hebr 7:4-6
+!Heb 7:4-6
 4 Intuemini autem quantus sit hic, cui et decimas dedit de praecipuis Abraham~
 patriarcha.
 5 Et quidem de filiis Levi sacerdotium accipientes, mandatum habent decimas~
@@ -31,7 +31,7 @@ hunc, qui habebat repromissiones, benedixit.
 @TemporaM/Epi2-4:Responsory2
 
 [Lectio3]
-!Hebr 7:7-12
+!Heb 7:7-12
 7 Sine ulla autem contradictione, quod minus est, a meliore benedicitur.
 8 Et hic quidem, decimas morientes homines accipiunt: ibi autem contestatur,~
 quia vivit.

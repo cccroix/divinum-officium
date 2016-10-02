@@ -3,7 +3,7 @@ Vidi Dominum * sedentem super solium excelsum, et plena erat omnis terra majesta
 
 [Lectio1]
 Incipit liber Ezechielis Prophetae
-!Ezech 1:1-4
+!Ezek 1:1-4
 1 Et factum est in trigesimo anno, in quarto, in quinta mensis, cum essem in medio captivorum juxta fluvium Chobar, aperti sunt caeli, et vidi visiones Dei.
 2 In quinta mensis, ipse est annus quintus transmigrationis regis Joachim,
 3 factum est verbum Domini ad Ezechielem filium Buzi sacerdotem, in terra Chaldaeorum, secus flumen Chobar: et facta est super eum ibi manus Domini.
@@ -13,7 +13,7 @@ Incipit liber Ezechielis Prophetae
 @Tempora/Pent01-0:Responsory1
 
 [Lectio2]
-!Ezech 1:5-9
+!Ezek 1:5-9
 5 Et in medio ejus similitudo quatuor animalium et hic aspectus eorum, similitudo hominis in eis.
 6 Quatuor facies uni, et quatuor pennae uni.
 7 Pedes eorum, pedes recti, et planta pedis eorum quasi planta pedis vituli: et scintillae quasi aspectus aeris candentis.
@@ -27,7 +27,7 @@ V. Qui regis Israël, intende, qui deducis velut ovem Joseph.
 R. Aperi oculos tuos, et vide tribulationem nostram.
 
 [Lectio3]
-!Ezech 1:10-12
+!Ezek 1:10-12
 10 Similitudo autem vultus eorum, facies hominis et facies leonis a dextris ipsorum quatuor, facies autem bovis a sinistris ipsorum quatuor, et facies aquilae desuper ipsorum quatuor.
 11 Facies eorum et pennae eorum extentae desuper: duae pennae singulorum jungebantur, et duae tegebant corpora eorum
 12 et unumquodque eorum coram facie sua ambulabat: ubi erat impetus spiritus, illuc gradiebantur, nec revertebantur cum ambularent.

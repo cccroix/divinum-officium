@@ -91,7 +91,7 @@ R. Plange quasi virgo plebs mea: ululate pastores in cinere et cilicio: * Quia v
 
 [Lectio4]
 Ex Tractatu S. Augustini Episcopi super Psalmos.
-!Ps 63. versum 7.
+! Psalmum 63. versum 7.
 Accedet homo ad cor altum, et exaltabitur Deus. Illi dixerunt: Quis nos videbit?~
 Defecerunt scrutantes scrutationes, consilia mala. Accessit homo ad ipsa~
 consilia, passus est se teneri ut homo. Non enim teneretur nisi homo, aut~
@@ -153,7 +153,7 @@ et nemo considerat: a facie iniquitatis sublatus est justus: * Et erit in pace m
 
 [Lectio7]
 De Epistola beati Pauli Apostoli ad Hebraeos.
-!Hebr 9:11-14
+!Heb 9:11-14
 11 Christus autem assistens pontifex futurorum bonorum, per amplius et perfectius tabernaculum, non manufactum, id est, non hujus creationis:
 12 neque per sanguinem hircorum aut vitulorum, sed per proprium sanguinem introivit semel in Sancta, aeterna redemptione inventa.
 13 Si enim sanguis hircorum et taurorum, et cinis vitulae aspersus inquinatos sanctificat ad emundationem carnis:
@@ -167,7 +167,7 @@ V. Quare fremuerunt Gentes, et populi meditati sunt inania?
 R. Adversus Dominum, et adversus Christum ejus.
 
 [Lectio8]
-!Hebr 9:15-18
+!Heb 9:15-18
 15 Et ideo novi testamenti mediator est: ut morte intercedente, in redemptionem earum praevaricationum, quae erant sub priori testamento, repromissionem accipiant qui vocati sunt aeternae hereditatis.
 16 Ubi enim testamentum est, mors necesse est intercedat testatoris.
 17 Testamentum enim in mortuis confirmatum est: alioquin nondum valet, dum vivit qui testatus est.
@@ -181,7 +181,7 @@ V. Posuerunt me in lacu inferiori, in tenebrosis, et in umbra mortis.
 R. Factus sum sicut homo sine adjutorio, inter mortuos liber.
 
 [Lectio9]
-!Hebr 9:19-22
+!Heb 9:19-22
 19 Lecto enim omni mandato legis a Moyse universo populo, accipiens sanguinem vitulorum et hircorum cum aqua, et lana coccinea, et hyssopo, ipsum quoque librum, et omnem populum aspersit,
 20 dicens: Hic sanguis testamenti, quod mandavit ad vos Deus.
 21 Etiam tabernaculum et omnia vasa ministerii sanguine similiter aspersit.

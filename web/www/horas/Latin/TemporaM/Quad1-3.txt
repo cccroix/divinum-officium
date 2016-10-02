@@ -5,7 +5,7 @@ Feria Quarta Quatuor Temporum;;Feria major;;2
 
 [Lectio1]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matth 12:38-50
+!Matt 12:38-50
 In illo tempore: Responderunt Jesu quidam de scribis et pharisaeis, dicentes:~
 Magister, volumus a te signum videre. Et reliqua.
 _
@@ -60,7 +60,7 @@ $Per Dominum.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matth 12:38-50
+!Matt 12:38-50
 12:38 Tunc responderunt ei quidam de scribis et pharisaeis, dicentes: Magister,~
 volumus a te signum videre.
 12:39 Qui respondens ait illis: Generatio mala et adultera signum quaerit: et~

@@ -6,7 +6,7 @@ Antiphonas horas
 
 [Lectio1]
 De Jeremia Propheta.
-!Jerem 11:15-20
+!Jer 11:15-20
 15 Quid est, quod dilectus meus in domo mea fecit scelera multa? numquid carnes~
 sanctae auferent a te malitias tuas, in quibus gloriata es?
 16 Olivam uberem, pulchram, fructiferam, speciosam, vocavit Dominus nomen tuum:~
@@ -33,7 +33,7 @@ R. Cadant in opprobrium sempiternum, ut videam vindictam in eis, quia tibi~
 revelavi causam meam.
 
 [Lectio2]
-!Jerem 12:1-4
+!Jer 12:1-4
 1 Justus quidem tu es, Domine, si disputem tecum: verumtamen justa loquar ad te:~
 Quare via impiorum prosperatur; bene est omnibus qui praevaricantur et inique~
 agunt?
@@ -53,7 +53,7 @@ V. Intende animae meae, et libera eam, propter inimicos meos eripe me.
 R. Quoniam zelus domus tuae comedit me.
 
 [Lectio3]
-!Jerem 12:7-11
+!Jer 12:7-11
 7 Reliqui domum meam; dimisi hereditatem meam: dedi dilectam animam meam in~
 manu inimicorum ejus.
 8 Facta est mihi hereditas mea quasi leo in silva: dedit contra me vocem, ideo~

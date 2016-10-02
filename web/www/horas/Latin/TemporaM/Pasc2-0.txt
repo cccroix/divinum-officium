@@ -6,7 +6,7 @@ Dominica II Post Pascha;;Semiduplex;;5;;
 Una Antiphona
 
 [Capitulum Vespera]
-!1 Petri 2:21-22
+!1 Pet 2:21-22
 v. Carissimi: Christus passus est pro vobis vobis relinquens exemplum ut~
 sequamini vestigia eius qui peccatum non fecit nec inventus est dolus in ore~
 ipsius
@@ -35,7 +35,7 @@ $Per eumdem
 
 [Lectio1]
 De Actibus Apostolorum.
-!Act 13:13-20
+!Acts 13:13-20
 13 Et cum a Papho navigassent Paulus et qui cum eo erant, venerunt Pergen~
 Pamphyliae. Joannes autem discedens ab eis, reversus est Jerosolymam.
 14 Illi vero pertranseuntes Pergen, venerunt Antiochiam Pisidiae: et ingressi~
@@ -57,7 +57,7 @@ usque ad Samuel prophetam.
 @TemporaM/Pasc0-2:Responsory1
 
 [Lectio2]
-!Act 13:21-25
+!Acts 13:21-25
 21 Et exinde postulaverunt regem: et dedit illis Deus Saul filium Cis, virum de~
 tribu Benjamin, annis quadraginta:
 22 et amoto illo, suscitavit illis David regem: cui testimonium perhibens,~
@@ -74,7 +74,7 @@ solvere.
 @TemporaM/Pasc0-2:Responsory2
 
 [Lectio3]
-!Act 13:26-33
+!Acts 13:26-33
 26 Viri fratres, filii generis Abraham, et qui in vobis timent Deum, vobis~
 verbum salutis hujus missum est.
 27 Qui enim habitabant Jerusalem, et principes ejus hunc ignorantes, et voces~
@@ -135,7 +135,7 @@ in sepulcro.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Joannem
-!Joann 10:11-16
+!Joannes 10:11-16
 In illo tempore: Dixit Jesus phariseis: Ego sum pastor bonus. Bonus pastor~
 onimam suam dat pro ovibus suis. Et reliqua.
 _
@@ -185,7 +185,7 @@ R. Ut venientes ungerent Jesum, alleluia, alleluia.
 R. Ut venientes ungerent Jesum, alleluia, alleluia.
 
 [Capitulum Laudes]
-!1 Petri 2:21-22
+!1 Pet 2:21-22
 v. Carissimi: Christus passus est pro vobis vobis relinquens exemplum ut~
 sequamini vestigia eius qui peccatum non fecit nec inventus est dolus in ore~
 ipsius
@@ -207,21 +207,21 @@ Ego sum pastor ovium: * ego sum via, veritas, et vita: ego sum pastor bonus, et~
 cognosco oves meas, et cognoscunt me meae, alleluia, alleluia.
 
 [Capitulum Tertia]
-!1 Petri 2:21-22
+!1 Pet 2:21-22
 v. Carissimi: Christus passus est pro vobis vobis relinquens exemplum ut~
 sequamini vestigia eius qui peccatum non fecit nec inventus est dolus in ore~
 ipsius
 $Deo gratias
 
 [Capitulum Sexta]
-!1 Petri 2:23-24
+!1 Pet 2:23-24
 v. Tradebat autem iudicanti se iniuste qui peccata nostra ipse pertulit in~
 corpore suo super lignum ut peccatis mortui iustitiae viveremus cuius livore~
 sanati estis
 $Deo gratias
 
 [Capitulum Nona]
-!1 Petri 2:25
+!1 Pet 2:25
 v. Eratis enim sicut oves errantes sed conversi estis nunc ad pastorem et~
 episcopum animarum vestrarum
 $Deo gratias
@@ -236,7 +236,7 @@ alleluia.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Joannem
-!Joann 10:11-16
+!Joannes 10:11-16
 10:11 Ego sum pastor bonus. Bonus pastor animam suam dat pro ovibus suis.
 10:12 Mercenarius autem, et qui non est pastor, cujus non sunt oves propriae,~
 videt lupum venientem, et dimittit oves, et fugit: et lupus rapit, et dispergit~

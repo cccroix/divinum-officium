@@ -29,7 +29,7 @@ $Qui tecum
 
 [Lectio1]
 De Isaia Propheta
-!Isai 11:1-4
+!Isa 11:1-4
 1 Et egredietur virga de radice Jesse, et flos de radice ejus ascendet.
 2 Et requiescet super eum spiritus Domini: spiritus sapientiae et intellectus, spiritus consilii et fortitudinis, spiritus scientiae et pietatis;
 3 Et replebit eum spiritus timoris Domini. Non secundum visionem oculorum judicabit, neque secundum auditum aurium arguet;
@@ -42,7 +42,7 @@ V. Ego enim sum Dominus Deus tuus, Sanctus Israel, Redemptor tuus.
 R. Salvabo te, et liberabo te, noli timere.
 
 [Lectio2]
-!Isai 11:4-7
+!Isa 11:4-7
 4 Et percutiet terram virga oris sui, et spiritu labiorum suorum interficiet impium.
 5 Et erit justitia cingulum lumborum ejus, et fides cinctorium renum ejus.
 6 Habitabit lupus cum agno, et pardus cum haedo accubabit; vitulus, et leo, et ovis, simul morabuntur, et puer parvulus minabit eos.
@@ -55,7 +55,7 @@ V. Ecce Dominus cum virtute veniet: et regnum in manu ejus, et potestas, et impe
 R. Super omnes gentes.
 
 [Lectio3]
-!Isai 11:8-10
+!Isa 11:8-10
 8 Et delectabitur infans ab ubere super foramine aspidis; et in caverna reguli qui ablactatus fuerit manum suam mittet.
 9 Non nocebunt, et non occident in universo monte sancto meo, quia repleta est terra scientia Domini, sicut aquae maris operientes.
 10 In die illa radix Jesse, qui stat in signum populorum, ipsum gentes deprecabuntur, et erit sepulcrum ejus gloriosum.
@@ -101,7 +101,7 @@ R. Quia de medio Gentium Salvator tuus veniet.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matth 11:2-10
+!Matt 11:2-10
 In illo tempore: Cum audisset Joannes in vinculis opera Christi, mittens duos de discipulis suis, ait illi: Tu es qui venturus es, an alium exspectamus? Et reliqua.
 _
 Homilia sancti Gregorii Papae.

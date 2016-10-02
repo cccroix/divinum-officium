@@ -69,7 +69,7 @@ R. Laetitia sempiterna super capita eorum, alleluia.
 V. Gaudium et exsultationem obtinebunt, alleluia.
 
 [Lectio1]
-!Act 20:17-24
+!Acts 20:17-24
 17 A Mileto autem mittens Ephesum, vocavit majores natu ecclesiae.
 18 Qui cum venissent ad eum, et simul essent, dixit eis: Vos scitis a prima die qua ingressus sum in Asiam, qualiter vobiscum per omne tempus fuerim,
 19 serviens Domino cum omni humilitate, et lacrimis, et tentationibus, quae mihi acciderunt ex insidiis Judaeorum:
@@ -87,7 +87,7 @@ V. Gloria et divitiae in domo ejus, et justitia ejus manet in saeculum saeculi.
 R. In mandatis ejus cupit nimis, alleluia, alleluia, alleluia.
 
 [Lectio2]
-!Act 20:25-31
+!Acts 20:25-31
 25 Et nunc ecce ego scio quia amplius non videbitis faciem meam vos omnes, per quos transivi praedicans regnum Dei.
 26 Quapropter contestor vos hodierna die, quia mundus sum a sanguine omnium.
 27 Non enim subterfugi, quominus annuntiarem omne consilium Dei vobis.
@@ -104,7 +104,7 @@ V. Mundus autem gaudebit, vos vero contristabimini, sed tristitia vestra.
 R. Convertetur in gaudium, alleluia, alleluia.
 
 [Lectio3]
-!Act 20:32-38
+!Acts 20:32-38
 32 Et nunc commendo vos Deo, et verbo gratiae ipsius, qui potens est aedificare, et dare hereditatem in sanctificatis omnibus.
 33 Argentum, et aurum, aut vestem nullius concupivi, sicut
 34 ipsi scitis: quoniam ad ea quae mihi opus erant, et his qui mecum sunt, ministraverunt manus istae.
@@ -186,7 +186,7 @@ R. In die solemnitatis et laetitiae, alleluia.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Joannem.
-!Joann 15:1-7
+!Joannes 15:1-7
 In illo tempore: Dixit Jesus discipulis suis: Ego sum vitis vera: et Pater meus~
 agricola est. Et reliqua.
 _
@@ -289,7 +289,7 @@ R. Vos elegit Deus in hereditdtem sibi,~
 alleluia.
 
 [Capitulum Sexta]
-!Sap 5:5
+!Sap. 5:5
 v. Ecce quomodo conputati sunt inter filios Dei et inter sanctos sors illorum~
 est
 $Deo gratias
@@ -320,7 +320,7 @@ sibi, alleluia.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Joannem
-!Joann 15:1-7
+!Joannes 15:1-7
 15:1 Ego sum vitis vera, et Pater meus agricola est.
 15:2 Omnem palmitem in me non ferentem fructum, tollet eum, et omnem qui fert fructum, purgabit eum, ut fructum plus afferat.
 15:3 Jam vos mundi estis propter sermonem quem locutus sum vobis.

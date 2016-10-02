@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 De libro secundo Regum.
-!2 Reg 7:4-6
+!2 Sam 7:4-6
 4 Et ecce sermo Domini ad Nathan, dicens:
 5 Vade, et loquere ad servum meum David: Haec dicit Dominus: Numquid tu aedificabis mihi domum ad habitandum?
 6 Neque enim habitavi in domo ex die illa, qua eduxi filios Israël de terra Ægypti, usque in diem hanc: sed ambulabam in tabernaculo, et in tentorio.
@@ -15,7 +15,7 @@ De libro secundo Regum.
 @Tempora/Pent01-2:Responsory1
 
 [Lectio2]
-!2 Reg 7:7-11
+!2 Sam 7:7-11
 7 Per cuncta loca quae transivi cum omnibus filiis Israël, numquid loquens locutus sum ad unam de tribubus Israël, cui praecepi ut pasceret populum meum Israël, dicens: Quare non aedificastis mihi domum cedrinam?
 8 Et nunc haec dices servo meo David: Haec dicit Dominus exercituum: Ego tuli te de pascuis sequentem greges, ut esses dux super populum meum Israël:
 9 et fui tecum in omnibus ubicumque ambulasti, et interfeci universos inimicos tuos a facie tua: fecique tibi nomen grande, juxta nomen magnorum qui sunt in terra.
@@ -26,7 +26,7 @@ De libro secundo Regum.
 @Tempora/Pent01-2:Responsory2
 
 [Lectio3]
-!2 Reg 7:12-17
+!2 Sam 7:12-17
 12 Cumque completi fuerint dies tui, et dormieris cum patribus tuis, suscitabo semen tuum post te, quod egredietur de utero tuo, et firmabo regnum ejus.
 13 Ipse aedificabit domum nomini meo, et stabiliam thronum regni ejus usque in sempiternum.
 14 Ego ero ei in patrem, et ipse erit mihi in filium: Qui si inique aliquid gesserit, arguam eum in virga virorum, et in plagis filiorum hominum.

@@ -14,7 +14,7 @@ $Per Dominum
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matth 9:1-8
+!Matt 9:1-8
 In illo tempore: Ascendens Jesus in naviculam, transfretavit, et venit in~
 civitatem suam. Et reliqua.
 _
@@ -64,7 +64,7 @@ R. Sicut incensum in conspectu tuo.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matth 9:1-8
+!Matt 9:1-8
 9:1 Et ascendens in naviculam, transfretavit, et venit in civitatem suam.
 9:2 Et ecce offerebant ei paralyticum jacentem in lecto. Et videns Jesus fidem illorum, dixit paralytico: Confide fili, remittuntur tibi peccata tua.
 9:3 Et ecce quidam de scribis dixerunt intra se: Hic blasphemat.

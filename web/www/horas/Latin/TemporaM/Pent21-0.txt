@@ -15,7 +15,7 @@ $Per Dominum
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matth 18:23-35
+!Matt 18:23-35
 In illo tempore: Dixit Jesus discipulis suis parabolam hanc: Assimilatum est~
 regnum caelorum homini regi, qui voluit rationem ponere cum servis suis. Et~
 reliqua.
@@ -66,7 +66,7 @@ R. Sicut incensum in conspectu tuo.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matth 18:23-35
+!Matt 18:23-35
 18:23 Ideo assimilatum est regnum caelorum homini regi, qui voluit rationem ponere cum servis suis.
 18:24 Et cum cœpisset rationem ponere, oblatus est ei unus, qui debebat ei decem millia talenta.
 18:25 Cum autem non haberet unde redderet, jussit eum dominus ejus venundari, et uxorem ejus, et filios, et omnia quae habebat, et reddi.

@@ -14,7 +14,7 @@ Festum Domini
 @Sancti/01-01:Ant Vespera
 
 [Capitulum Vespera]
-!Malach 3:1
+!Mal 3:1
 v. Ecce ego mitto Angelum meum, et praeparabit viam ante faciem meam. Et statim~
 veniet ad templum sanctum suum Dominator, quem vos quaeritis, et Angelus~
 testamenti, quem vos vultis.
@@ -39,7 +39,7 @@ Ecce venit ad templum sanctum suum Dominator Dominus: * Gaude et laetare Sion, o
 
 [Lectio1]
 De libro Exodi.
-!Ex 13:1-3; 13:11-13
+!Exod 13:1-3; 13:11-13
 1 Locutusque est Dominus ad Moysen, dicens:
 2 Sanctifica mihi omne primogenitum quod aperit vulvam in filiis Israel, tam de hominibus quam de jumentis: mea sunt enim omnia.
 3 Et ait Moyses ad populum:
@@ -55,7 +55,7 @@ R. Quem virgo concepit, virgo peperit, virgo post partum, quem genuit, adoravit.
 
 [Lectio2]
 De libro Levitici.
-!Levit 12:1-5
+!Lev 12:1-5
 1 Locutusque est Dominus ad Moysen, dicens:
 2 Loquere filiis Israel, et dices ad eos: Mulier, si suscepto semine pepererit masculum, immunda erit septem diebus juxta dies separationis menstruae.
 3 Et die octavo circumcidetur infantulus:
@@ -72,7 +72,7 @@ R. Sicut scriptum est in lege Domini: Quia omne masculinum adaperiens vulvam,~
 sanctum Domino vocabitur.
 
 [Lectio3]
-!Levit 12:6-8
+!Lev 12:6-8
 6 Cumque expleti fuerint dies purificationis suae, pro filio sive pro filia, deferet agnum anniculum in holocaustum, et pullum columbae sive turturem pro peccato, ad ostium tabernaculi testimonii, et tradet sacerdoti,
 7 qui offeret illa coram Domino, et orabit pro ea, et sic mundabitur a profluvio sanguinis sui: ista est lex parientis masculum aut feminam.
 8 Quod si non invenerit manus ejus, nec potuerit offerre agnum, sumet duos turtures vel duos pullos columbarum, unum in holocaustum, et alterum pro peccato: orabitque pro ea sacerdos, et sic mundabitur.
@@ -208,7 +208,7 @@ Cum inducerent * puerum Jesum parentes eius, accepit eum Simeon in ulnas suas,~
 et benedixit Deum, dicens: Nunc dimittis servum tuum in pace.
 
 [Lectio Prima]
-!Malach 3:4
+!Mal 3:4
 v. Et placebit Domino sacrificium Juda, et Jerusalem sicut dies saeculi, et~
 sicut anni antiqui, dicit Dominus omnipotens.
 
@@ -216,7 +216,7 @@ sicut anni antiqui, dicit Dominus omnipotens.
 @:Capitulum Vespera
 
 [Capitulum Sexta]
-!Malach 3:1-2
+!Mal 3:1-2
 v. Ecce veniet, dicit Dominus exercituum: et quis poterit cogitare diem adventus~
 ejus, et quis stabit ad videndum eum? Ipse enim quasi ignis conflans, et quasi~
 herba fullonum.

@@ -1,6 +1,6 @@
 [Lectio1Tridentina]
 De libro secundo Machabaeorum
-!2 Mach 8:10-14
+!2 Mac 8:10-14
 10 Constituit autem Nicanor regi ut tributum Romanis quod erat dandum duo milia talentum de captivitate Iudaeorum suppleret
 11 statimque ad maritimas misit civitates convocans ad coemptionem iudaeorum mancipiorum promittens se nonaginta mancipia talento distracturum non respiciens ad vindictam quae eum ab Omnipotente esset consecutura
 12 Iudas autem ubi conperit indicavit his qui secum erant Iudaeis Nicanoris adventum
@@ -16,7 +16,7 @@ De libro secundo Machabaeorum
 @Tempora/101-0:Responsory7
 
 [Lectio2Tridentina]
-!2 Mach 8:16:19
+!2 Mac 8:16:19
 16 convocatis autem Macchabeus septem milibus qui cum ipso erant rogabat ne hostibus reconciliarentur neque metuerent inique venientium adversum se hostium multitudinem sed fortiter contenderent
 17 ante oculos habentes contumeliam quae in locum sanctum ab his iniuste esset inlata itemque et ludibria habitae civitatis iniuriam adhuc etiam veterum instituta convulsa
 18 nam illi quidem armis confidunt ait simul et audacia nos autem in omnipotente Domino qui potest venientes adversus nos et universum mundum uno nutu delere confidimus
@@ -31,7 +31,7 @@ De libro secundo Machabaeorum
 @Tempora/101-1:Responsory2
 
 [Lectio3Tridentina]
-!2 Mach 8:21-28
+!2 Mac 8:21-28
 21 his verbis constantes effecti sunt et pro legibus et patria mori parati
 22 constituit itaque fratres suos duces utrique ordini Simonem et Iosepphum et Ionathan subiectis unicuique millenis et quingentenis
 23 ad hoc etiam ab Ezra lecto illis sancto libro et dato signo adiutorio Dei in prima acie ipse dux commisit cum Nicanore

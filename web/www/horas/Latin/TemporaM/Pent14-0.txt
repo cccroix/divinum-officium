@@ -15,7 +15,7 @@ $Per Dominum
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matth 6:24-33
+!Matt 6:24-33
 In illo tempore: Dixit Jesus discipulis suis: Nemo potest duobus dominis~
 servire. Et reliqua.
 _
@@ -69,7 +69,7 @@ R. Sicut incensum in conspectu tuo.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matth 6:24-33
+!Matt 6:24-33
 6:24 Nemo potest duobus dominis servire: aut enim unum odio habebit, et alterum diliget: aut unum sustinebit, et alterum contemnet. Non potestis Deo servire et mammonae.
 6:25 Ideo dico vobis, ne solliciti sitis animae vestrae quid manducetis, neque corpori vestro quid induamini. Nonne anima plus est quam esca, et corpus plus quam vestimentum?
 6:26 Respicite volatilia caeli, quoniam non serunt, neque metunt, neque congregant in horrea: et Pater vester caelestis pascit illa. Nonne vos magis pluris estis illis?

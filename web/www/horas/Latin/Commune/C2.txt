@@ -15,7 +15,7 @@ Si quis mihi ministráverit, * honorificábit eum Pater meus, qui est in cælis,
 Volo Pater, * ut ubi ego sum, illic sit et miníster meus.
 
 [Capitulum Vespera]
-!Jacob 1:12
+!Jac 1:12
 v. Beatus vir, qui suffert tentatiónem: quóniam cum probátus fúerit, accípiet corónam vitæ, quam repromísit Deus diligéntibus se.
 $Deo gratias
 
@@ -78,7 +78,7 @@ R. Glóriam et magnum decórem impónes super eum.
 
 [Lectio1]
 De Áctibus Apostolórum
-!Act 20:17-24
+!Acts 20:17-24
 17 A Miléto Paulus mittens Éphesum, vocávit majóres natu Ecclésiæ.
 18 Qui cum veníssent ad eum, et simul essent, dixit eis: Vos scitis a prima die qua ingréssus sum in Ásiam, quáliter vobíscum per omne tempus fúerim,
 19 sérviens Dómino cum omni humilitáte, et lácrimis, et tentatiónibus, quae mihi accidérunt ex insídiis Judæórum:
@@ -95,7 +95,7 @@ V. Iste est qui contémpsit vitam mundi, et pervénit ad cæléstia regna.
 R. Fundátus enim erat supra firmam petram.
 
 [Lectio2]
-!Act 20:25-31
+!Acts 20:25-31
 25 Et nunc ecce ego scio quia ámplius non vidébitis fáciem meam vos omnes, per quos transívi prǽdicans regnum Dei.
 26 Quaprópter contéstor vos hodiérna die, quia mundus sum a sánguine ómnium.
 27 Non enim subterfúgi, quóminus annuntiárem omne consílium Dei vobis.
@@ -111,7 +111,7 @@ V. Plantátus in domo Dómini, in átriis domus Dei nostri.
 R. Et florébit in ætérnum ante Dóminum.
 
 [Lectio3]
-!Act 20:32-38
+!Acts 20:32-38
 32 Et nunc comméndo vos Deo, et verbo grátiæ ipsíus, qui potens est ædificáre, et dare hereditátem in sanctificátis ómnibus.
 33 Argéntum, et aurum, aut vestem nullíus concupívi, sicut
 34 ipsi scitis: quóniam ad ea quæ mihi opus erant, et his qui mecum sunt, ministravérunt manus istæ.
@@ -249,7 +249,7 @@ Præsta, quǽsumus, omnípotens Deus: ut, intercedénte beáto N. Mártyre tuo, 
 $Per Dominum
 
 [Lectio Prima]
-!Eccl 39:6
+!Sir 39:6
 v. Justus cor suum trádidit ad vigilándum dilúculo ad Dóminum, qui fecit illum, et in conspéctu Altíssimi deprecábitur.
 
 [Capitulum Tertia]
@@ -267,7 +267,7 @@ V. Posuísti, Dómine, super caput ejus.
 R. Corónam de lápide pretióso.
 
 [Capitulum Sexta]
-!Eccl 15:3
+!Sir 15:3
 v. Cibávit illum pane vitæ et intelléctus, et aqua sapiéntiæ salutáris potávit illum Dóminus Deus noster.
 $Deo gratias
 
@@ -283,7 +283,7 @@ V. Magna est glória ejus in salutári tuo.
 R. Glóriam et magnum decórem impónes super eum.
 
 [Capitulum Nona]
-!Eccl 39:6
+!Sir 39:6
 v. Justus cor suum trádidit ad vigilándum dilúculo ad Dóminum, qui fecit illum, et in conspéctu Altíssimi deprecábitur.
 $Deo gratias
 
@@ -337,7 +337,7 @@ R. In die solemnitátis et lætítiæ, allelúia.
 
 [Lectio71]
 Léctio sancti Evangélii secúndum Joánnem.
-!Joann 15:5-10
+!Joannes 15:5-10
 In illo témpore: Dixit Jesus discípulis suis: Ego sum vitis, vos pálmites: qui manet in me, et ego in eo, hic fert fructum multum: quia sine me nihil potéstis fácere. Et réliqua.
 _
 Homilía sancti Augustíni Epíscopi.
@@ -367,7 +367,7 @@ Si manséritis in me, inquit, et verba mea in vobis mánserint: quodcúmque volu
 
 [Lectio72]
 Léctio sancti Evangélii secúndum Matthǽum.
-!Matth 10:26-32
+!Matt 10:26-32
 In illo témpore: Dixit Jesus discípulis suis: Nihil est opértum, quod non revelábitur; et occúltum, quod non sciétur. Et réliqua.
 _
 Homilía sancti Hilárii Epíscopi.
@@ -392,7 +392,7 @@ Nolíte timére eos qui occídunt corpus. Nullus ígitur córporum nostrórum ca
 
 [Lectio73]
 Léctio sancti Evangélii secúndum Matthǽum.
-!Matth 16:24-27
+!Matt 16:24-27
 In illo témpore: Dixit Jesus discípulis suis: Si quis vult post me veníre, ábneget semetípsum, et tollat crucem suam, et sequátur me. Et réliqua.
 _
 Homilía sancti Gregórii Papæ.

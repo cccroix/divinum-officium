@@ -8,7 +8,7 @@ R. Et descendat super nos misericordia tua.
 
 [Lectio1]
 De libro primo Machabaeorum
-!1 Mach 4:36-40
+!1 Mac 4:36-40
 36 Dixit autem Judas, et fratres ejus: Ecce contriti sunt inimici nostri: ascendamus nunc mundare sancta, et renovare.
 37 Et congregatus est omnis exercitus, et ascenderunt in montem Sion.
 38 Et viderunt sanctificationem desertam, et altare profanatum, et portas exustas, et in atriis virgulta nata sicut in saltu vel in montibus, et pastophoria diruta.
@@ -20,7 +20,7 @@ De libro primo Machabaeorum
 @TemporaM/101-0:Responsory1
 
 [Lectio2]
-!1 Mach 4:41-46
+!1 Mac 4:41-46
 41 Tunc ordinavit Judas viros ut pugnarent adversus eos qui erant in arce, donec emundarent sancta.
 42 Et elegit sacerdotes sine macula, voluntatem habentes in lege Dei:
 43 et mundaverunt sancta, et tulerunt lapides contaminationis in locum immundum.
@@ -33,7 +33,7 @@ De libro primo Machabaeorum
 @TemporaM/101-0:Responsory2
 
 [Lectio3]
-!1 Mach 4:47-51
+!1 Mac 4:47-51
 47 Et acceperunt lapides integros secundum legem, et aedificaverunt altare novum secundum illud quod fuit prius:
 48 et aedificaverunt sancta, et quae intra domum erant intrinsecus: et aedem, et atria sanctificaverunt.
 49 Et fecerunt vasa sancta nova, et intulerunt candelabrum, et altare incensorum, et mensam, in templum.

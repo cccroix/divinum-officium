@@ -8,7 +8,7 @@ Feria Te Deum
 
 [Lectio1]
 De Actibus Apostolorum.
-!Act 10:1-8
+!Acts 10:1-8
 1 Vir autem quidam erat in Caesarea, nomine Cornelius, centurio cohortis quae dicitur Italica,
 2 religiosus, ac timens Deum cum omni domo sua, faciens eleemosynas multas plebi, et deprecans Deum semper.
 3 Is vidit in visu manifeste, quasi hora diei nona, angelum Dei introëuntem ad se, et dicentem sibi: Corneli.
@@ -23,7 +23,7 @@ De Actibus Apostolorum.
 @TemporaM/Pasc0-6:Responsory1
 
 [Lectio2]
-!Act 10:9-17
+!Acts 10:9-17
 9 Postera autem die, iter illis facientibus, et appropinquantibus civitati, ascendit Petrus in superiora ut oraret circa horam sextam.
 10 Et cum esuriret, voluit gustare. Parantibus autem illis, cecidit super eum mentis excessus:
 11 et vidit caelum apertum, et descendens vas quoddam, velut linteum magnum, quatuor initiis submitti de caelo in terram,
@@ -39,7 +39,7 @@ De Actibus Apostolorum.
 @TemporaM/Pasc0-1:Responsory2
 
 [Lectio3]
-!Act 10:34-41
+!Acts 10:34-41
 34 Aperiens autem Petrus os suum, dixit: In veritate comperi quia non est personarum acceptor Deus;
 35 sed in omni gente qui timet eum, et operatur justitiam, acceptus est illi.
 36 Verbum misit Deus filiis Israël, annuntians pacem per Jesum Christum (hic est omnium Dominus).

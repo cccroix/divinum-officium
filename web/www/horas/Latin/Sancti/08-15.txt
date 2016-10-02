@@ -16,7 +16,7 @@ Benedicta filia * tu a Domino: quia per te fructum vitae communicavimus.;;126
 Pulchra es * et decora, filia Jerusalem, terribilis ut castrorum acies ordinata.;;147
 
 [Capitulum Vespera]
-!Eccl 24:11-12
+!Sir 24:11-12
 v. In omnibus requiem quaesivi, et in hereditate Domini morabor. Tunc praecepit, et dixit mihi Creator omnium: et qui creavit me, requievit in tabernaculo meo.
 $Deo gratias
 
@@ -168,7 +168,7 @@ V. Assumpta est Maria in caelum, gaudent Angeli.
 R. Laudantes benedicunt Dominum.
 
 [Capitulum Sexta]
-!Eccl 24:15-16
+!Sir 24:15-16
 v. Et sic in Sion firmata sum, et in civitate sanctificata similiter requievi, et in Jerusalem potestas mea. Et radicavi in populo honorificato, et in parte Dei mei hereditas illius, et in plenitudine sanctorum detentio mea.
 $Deo gratias
 

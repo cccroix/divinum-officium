@@ -14,7 +14,7 @@ Rubum quem viderat Moyses * incombustum, conservatam agnovimus tuam laudabilem v
 Ecce Maria genuit * nobis Salvatorem, quem Joannes videns exclamavit, dicens: Ecce Agnus Dei, ecce qui tollit peccata mundi, alleluia.;;126
 
 [Capitulum Vespera]
-!Tit 2:11-12
+!Titus 2:11-12
 v. Apparuit gratia Dei Salvatoris nostri omnibus hominibus, erudiens nos, ut~
 abnegantes impietatem, et saecularia desideria, sobrie, et juste, et pie vivamus~
 in hoc saeculo.
@@ -249,7 +249,7 @@ Germinavit radix Jesse, * orta est stella ex Jacob: Virgo peperit Salvatorem: te
 Ecce Maria genuit * nobis Salvatorem, quem Joannes videns exclamavit, dicens: Ecce Agnus Dei, ecce qui tollit peccata mundi, alleluia.
 
 [Capitulum Laudes]
-!Tit 2:11-12
+!Titus 2:11-12
 v. Apparuit gratia Dei Salvatoris nostri omnibus hominibus, erudiens nos, ut~
 abnegantes impietatem, et saecularia desideria, sobrie, et juste, et pie vivamus~
 in hoc saeculo.
@@ -272,19 +272,19 @@ id quod fuit permansit, et quod non erat assumpsit; non commixtionem passus,~
 neque divisionem.
 
 [Capitulum Tertia]
-!Tit 2:11-12
+!Titus 2:11-12
 v. Apparuit gratia Dei Salvatoris nostri omnibus hominibus, erudiens nos, ut~
 abnegantes impietatem, et saecularia desideria, sobrie, et juste, et pie vivamus~
 in hoc saeculo.
 $Deo gratias
 
 [Capitulum Sexta]
-!Hebr 1:10
+!Heb 1:10
 v. Et Tu in principio Domine terram fundasti: et opera manuum tuarum sunt caeli.
 $Deo gratias
 
 [Capitulum Nona]
-!Hebr 1:11-12
+!Heb 1:11-12
 v. Ipsi peribunt, tu autem permanebis; et omnes sicut vestimentum veterascent:~
 et velut amictum mutabis eos, et mutabuntur: tu autem idem ipse es, et anni tui~
 non deficient.

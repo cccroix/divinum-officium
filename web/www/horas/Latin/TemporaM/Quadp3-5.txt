@@ -6,7 +6,7 @@ Preces Feriales
 
 [Lectio1]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matth 5:43-48; 6:1-4
+!Matt 5:43-48; 6:1-4
 In illo tempore: Dixit Jesus discipulis suis: Audistis quia dictum est: Diliges~
 proximum tuum, et odio habebis inimicum tuum. Et reliqua.
 _
@@ -76,7 +76,7 @@ $Per Dominum
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matth 5:43-48; 6:1-4
+!Matt 5:43-48; 6:1-4
 5:43 Audistis quia dictum est: Diliges proximum tuum, et odio habebis inimicum tuum.
 5:44 Ego autem dico vobis: diligite inimicos vestros, benefacite his qui oderunt vos, et orate pro persequentibus et calumniantibus vos:
 5:45 ut sitis filii Patris vestri, qui in caelis est: qui solem suum oriri facit super bonos et malos: et pluit super justos et injustos.

@@ -18,7 +18,7 @@ Benedictus Deus, * qui misit Angelum suum, et eruit servos suos, qui crediderunt
 Laudate Deum * omnes Angeli ejus, laudate eum omnes virtutes ejus.
 
 [Capitulum Vespera]
-!Ex 23:20-21
+!Exod. 23:20-21
 v. Ecce ego mittam Angelum meum, qui praecedat te, et custodiat in via, et~
 introducat in locum, quem paravi. Observa eum, et audi vocem ejus.
 $Deo gratias
@@ -84,7 +84,7 @@ R. Adorabo ad templum sanctum tuum, et confitebor nomini tuo.
 
 [Lectio1]
 De libro Exodi
-!Ex 23:20-23
+!Exod 23:20-23
 20 Ecce ego mittam angelum meum, qui praecedat te, et custodiat in via, et introducat in locum quem paravi.
 21 Observa eum, et audi vocem ejus, nec contemnendum putes: quia non dimittet cum peccaveris, et est nomen meum in illo.
 22 Quod si audieris vocem ejus, et feceris omnia quae loquor, inimicus ero inimicis tuis, et affligam affligentes te.
@@ -193,7 +193,7 @@ R. Et Angelus faciei ejus salvavit eos.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matth 18:1-10
+!Matt 18:1-10
 In illo tempore: Accesserunt discipuli ad Jesum, dicentes: Quis, putas, major~
 est in regno caelorum? Et reliqua.
 _
@@ -256,7 +256,7 @@ Benedictus Deus, * qui misit Angelum suum, et eruit servos suos, qui crediderunt
 Laudate Deum * omnes Angeli ejus, laudate eum omnes virtutes ejus.
 
 [Capitulum Laudes]
-!Ex 23:20-21
+!Exod. 23:20-21
 v. Ecce ego mittam Angelum meum, qui praecedat te, et custodiat in via, et~
 introducat in locum, quem paravi. Observa eum, et audi vocem ejus.
 $Deo gratias
@@ -302,12 +302,12 @@ Reversus est * Angelus qui loquebatur in me, et suscitavit me; quasi virum qui~
 suscitatur a somno suo.
 
 [Lectio Prima]
-!Ex 23:22-23
+!Exod 23:22-23
 v. Quod si audieris vocem ejus, et feceris omnia quae loquor, inimicus ero~
 inimicis tuis, et affligam affligentes te. Praecedetque te Angelus meus.
 
 [Capitulum Tertia]
-!Ex 23:20-21
+!Exod. 23:20-21
 v. Ecce ego mittam Angelum meum, qui praecedat te, et custodiat in via, et~
 introducat in locum, quem paravi. Observa eum, et audi vocem ejus.
 $Deo gratias
@@ -324,7 +324,7 @@ V. Ascendit fumus aromatum in conspectu Domini.
 R. De manu Angeli.
 
 [Capitulum Sexta]
-!Ex 23:21
+!Exod. 23:21
 v. Nec contemnendum putes, quia non dimittet cum peccaveris, et est nomen meum~
 in illo.
 $Deo gratias
@@ -341,7 +341,7 @@ V. In conspectu Angelorum psallam tibi, Deus meus.
 R. Adorabo ad templum sanctum tuum, et confitebor nomini tuo.
 
 [Capitulum Nona]
-!Ex 23:22-23
+!Exod 23:22-23
 v. Quod si audieris vocem ejus, et feceris omnia quae loquor, inimicus ero~
 inimicis tuis, et affligam affligentes te. Praecedetque te Angelus meus.
 $Deo gratias

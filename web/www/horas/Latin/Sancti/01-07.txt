@@ -81,7 +81,7 @@ impius timuit adhuc matris ubera lambentem.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matth 2:1-12
+!Matt 2:1-12
 Cum natus esset Jesus in Bethlehem Juda in diebus Herodis regis, ecce Magi ab~
 Oriente venerunt Jerosolymam, dicentes: Ubi est qui natus est Rex Judaeorum? Et~
 reliqua.

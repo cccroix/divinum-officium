@@ -47,7 +47,7 @@ effusus ad haec usque tempora cernitur.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matth 24:3-13
+!Matt 24:3-13
 In illo tempore: Sedente Jesu super montem Oliveti, accesserunt ad eum discipuli~
 secreto, dicentes: Dic nobis quando haec erunt. Et reliqua.
 _

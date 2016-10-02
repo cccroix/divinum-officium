@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 De epistola ad Hebraeos
-!Hebr 13:1-4
+!Heb 13:1-4
 1 Caritas fraternitatis maneat in vobis,
 2 et hospitalitatem nolite oblivisci: per hanc enim latuerunt quidam, angelis hospitio receptis.
 3 Mementote vinctorum, tamquam simul vincti: et laborantium, tamquam et ipsi in corpore morantes.
@@ -16,7 +16,7 @@ De epistola ad Hebraeos
 @Tempora/Epi2-6:Responsory1
 
 [Lectio2]
-!Hebr 13:5-8
+!Heb 13:5-8
 5 Sint mores sine avaritia, contenti praesentibus: ipse enim dixit: Non te deseram, neque derelinquam:
 6 ita ut confidenter dicamus: Dominus mihi adjutor: non timebo quid faciat mihi homo.
 7 Mementote praepositorum vestrorum, qui vobis locuti sunt verbum Dei: quorum intuentes exitum conversationis, imitamini fidem.
@@ -26,7 +26,7 @@ De epistola ad Hebraeos
 @Tempora/Epi2-6:Responsory2
 
 [Lectio3]
-!Hebr 13:9-12
+!Heb 13:9-12
 9 Doctrinis variis et peregrinis nolite abduci. Optimum est enim gratia stabilire cor, non escis: quae non profuerunt ambulantibus in eis.
 10 Habemus altare, de quo edere non habent potestatem, qui tabernaculo deserviunt.
 11 Quorum enim animalium infertur sanguis pro peccato in Sancta per pontificem, horum corpora cremantur extra castra.

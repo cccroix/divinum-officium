@@ -18,7 +18,7 @@ Fasciculus myrrhae * dilectus meus mihi inter ubera mea commorabitur.;;140
 Fulcite me floribus * stipate me malis, quia amore langueo.;;141
 
 [Capitulum Vespera]
-!Isai 53:1-2
+!Isa 53:1-2
 v. Quis credidit auditui nostro? et brachium Domini cui revelatum est? Et ascendet sicut virgultum coram eo, et sicut radix de terra sitienti.
 $Deo gratias
 
@@ -136,7 +136,7 @@ R. Posuisti lacrimas meas in conspectu tuo.
 
 [Lectio1]
 De Isaia Propheta.
-!Isai 53:1-5
+!Isa 53:1-5
 1 Quis credidit auditui nostro? et brachium Domini cui revelatum est?
 2 Et ascendet sicut virgultum coram eo, et sicut radix de terra sitienti. Non est species ei, neque decor, et vidimus eum, et non erat aspectus, et desideravimus eum:
 3 despectum, et novissimum virorum, virum dolorum, et scientem infirmitatem, et quasi absconditus vultus ejus et despectus, unde nec reputavimus eum.
@@ -150,7 +150,7 @@ V. Piis, o Virgo, spectas eum oculis, contemplans in eo non tam vulnerum livorem
 R. Omnis enim figura ejus amorem spirat, et ad redamandum provocat caput inclinatum, manus expansae, pectus apertum.
 
 [Lectio2]
-!Isai 53:6-9
+!Isa 53:6-9
 6 Omnes nos quasi oves erravimus, unusquisque in viam suam declinavit: et posuit Dominus in eo iniquitatem omnium nostrum.
 7 Oblatus est quia ipse voluit, et non aperuit os suum; sicut ovis ad occisionem ducetur, et quasi agnus coram tondente se obmutescet, et non aperiet os suum.
 8 De angustia, et de judicio sublatus est. Generationem ejus quis enarrabit? quia abscissus est de terra viventium: propter scelus populi mei percussi eum.
@@ -163,7 +163,7 @@ V. Cornua in manibus ejus: ibi abscondita est fortitudo ejus: sunt enim manus ej
 R. Humanae salutis pretio quasi hyacinthis refertae.
 
 [Lectio3]
-!Isai 53:10-12
+!Isa 53:10-12
 10 Et Dominus voluit conterere eum in infirmitate. Si posuerit pro peccato animam suam, videbit semen longaevum, et voluntas Domini in manu ejus dirigetur.
 11 Pro eo quod laboravit anima ejus, videbit et saturabitur. In scientia sua justificabit ipse justus servus meus multos, et iniquitates eorum ipse portabit.
 12 Ideo dispertiam ei plurimos, et fortium dividet spolia, pro eo quod tradidit in mortem animam suam, et cum sceleratis reputatus est, et ipse peccata multorum tulit, et pro transgressoribus rogavit.
@@ -188,7 +188,7 @@ V. Quis tibi nunc sensus, dum cernis talia, Virgo?
 R. Et inclinato capite emisit spiritum.
 
 [Lectio5]
-Tuam ergo pertransivit animam vis doloris, ut plusquam Martyrem non immerito praedicemus, in qua nimirum corporeae sensum passionis excesserit compassionis affectus. An non tibi plusquam gladius fuit sermo ille, revera pertransiens animam, et pertingens usque ad divisionem animae et spiritus: Mulier, ecce filius tuus? O commutationem!Joann tibi pro Jesu traditur, servus pro Domino, discipulus pro Magistro, filius Zebedaei pro Filio Dei, homo purus pro Deo vero. Quomodo non tuam affectuosissimam animam pertransiret haec auditio, quando et nostra, licet saxea, licet ferrea pectora, sola recordatio scindit?
+Tuam ergo pertransivit animam vis doloris, ut plusquam Martyrem non immerito praedicemus, in qua nimirum corporeae sensum passionis excesserit compassionis affectus. An non tibi plusquam gladius fuit sermo ille, revera pertransiens animam, et pertingens usque ad divisionem animae et spiritus: Mulier, ecce filius tuus? O commutationem! Joannes tibi pro Jesu traditur, servus pro Domino, discipulus pro Magistro, filius Zebedaei pro Filio Dei, homo purus pro Deo vero. Quomodo non tuam affectuosissimam animam pertransiret haec auditio, quando et nostra, licet saxea, licet ferrea pectora, sola recordatio scindit?
 
 [Responsory5]
 R. Passio Domini,
@@ -209,7 +209,7 @@ R. Ut fons aquae tuae de scaturigine recti cordis, per venas boni operis, in fin
 
 [Lectio7]
 Lectio sancti Evangelii secundum Joannem.
-!Joann 19:25-27.
+!Joannes 19:25-27.
 In illo tempore: Stabant juxta crucem Jesu Mater ejus, et soror Matris ejus Maria Cleophae, et Maria Magdalene. Et reliqua.
 _
 Homilia sancti Augustini Episcopi.
@@ -236,7 +236,7 @@ R. Et Dominicae passionis fructum sentiamus.
 [Lectio9]
 !de Homilia Feriae.
 Lectio sancti Evangelii secundum Joannem
-!Joann 11:47-54
+!Joannes 11:47-54
 In illo tempore: Collegerunt pontifices et pharisaei concilium adversus Jesum, et dicebant: Quid facimus, quia hic homo multa signa facit? Et reliqua.
 _
 Homilia sancti Augustini Episcopi.
@@ -294,7 +294,7 @@ Cordibus nostris, quaesumus, Domine, gratiam tuam benignus infunde: ut peccata n
 $Per Dominum
 
 [Lectio Prima]
-!Isai 53:8
+!Isa 53:8
 Generationem ejus quis enarrabit, quia abscissus est de terra viventium; propter scelus populi mei percussi eum.
 
 [Capitulum Tertia]
@@ -312,7 +312,7 @@ V. Facies mea intumuit a fletu.
 R. Et palpebrae meae caligaverunt.
 
 [Capitulum Sexta]
-!Isai 53:5
+!Isa 53:5
 v. Ipse vulneratus est propter iniquitates nostras, attritus est propter scelera nostra: disciplina pacis nostrae super eum, et livore ejus sanati sumus.
 $Deo gratias
 
@@ -328,7 +328,7 @@ V. Deus vitam meam annuntiavi tibi.
 R. Posuisti lacrimas meas in conspectu tuo.
 
 [Capitulum Nona]
-!Isai 53:8
+!Isa 53:8
 v. Generationem ejus quis enarrabit, quia abscissus est de terra viventium; propter scelus populi mei percussi eum.
 $Deo gratias
 

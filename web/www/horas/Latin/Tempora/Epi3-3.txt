@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Incipit epistola beati Pauli Apostoli ad Ephesios
-!Ephes 1:1-4
+!Eph 1:1-4
 1 Paulus Apostolus Jesu Christi per voluntatem Dei, omnibus sanctis qui sunt Ephesi, et fidelibus in Christo Jesu.
 2 Gratia vobis, et pax a Deo Patre nostro, et Domino Jesu Christo.
 3 Benedictus Deus et Pater Domini nostri Jesu Christi, qui benedixit nos in omni benedictione spirituali in caelestibus in Christo,
@@ -16,7 +16,7 @@ Incipit epistola beati Pauli Apostoli ad Ephesios
 @Tempora/Epi2-3:Responsory1
 
 [Lectio2]
-!Ephes 1:5-10
+!Eph 1:5-10
 5 Qui praedestinavit nos in adoptionem filiorum per Jesum Christum in ipsum: secundum propositum voluntatis suae,
 6 in laudem gloriae gratiae suae, in qua gratificavit nos in dilecto Filio suo.
 7 In quo habemus redemptionem per sanguinem ejus, remissionem peccatorum secundum divitias gratiae ejus,
@@ -28,7 +28,7 @@ Incipit epistola beati Pauli Apostoli ad Ephesios
 @Tempora/Epi2-3:Responsory2
 
 [Lectio3]
-!Ephes 1:11-14
+!Eph 1:11-14
 11 in quo etiam et nos sorte vocati sumus praedestinati secundum propositum ejus qui operatur omnia secundum consilium voluntatis suae:
 12 ut simus in laudem gloriae ejus nos, qui ante speravimus in Christo;
 13 in quo et vos, cum audissetis verbum veritatis, Evangelium salutis vestrae, in quo et credentes signati estis Spiritu promissionis Sancto,

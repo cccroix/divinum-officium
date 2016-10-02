@@ -23,7 +23,7 @@ Benedixit te Dominus * in virtute sua, quia per te ad nihilum redegit inimicos n
 Viderunt eam * filiae Sion vernantem in floribus rosarum, et beatissimam praedicaverunt.;;147
 
 [Capitulum Vespera]
-!Eccl 24:25;39:17
+!Sir 24:25;39:17
 v. In me gratia omnis viae et veritatis, in me omnis spes vitae et virtutis: ego quasi rosa plantata super rivos aquarum fructificavi.
 $Deo gratias
 
@@ -157,7 +157,7 @@ R. In deliciis tuis, sancta Dei Genitrix.
 
 [Lectio1]
 De Libro Ecclesiastici.
-!Eccl 24:11-16
+!Sir 24:11-16
 11 In omnibus requiem quaesivi, et in hereditate Domini morabor.
 12 Tunc praecepit, et dixit mihi Creator omnium: et qui creavit me, requievit in tabernaculo meo.
 13 Et dixit mihi: In Jacob inhabita, et in Israël hereditare, et in electis meis mitte radices.
@@ -172,7 +172,7 @@ V. Cantate ei canticum novum: annuntiate inter gentes gloriam ejus.
 R. Et exsultate Virgini adjutrici nostrae.
 
 [Lectio2]
-!Eccl 24:17-22
+!Sir 24:17-22
 17 Quasi cedrus exaltata sum in Libano, et quasi cypressus in monte Sion:
 18 quasi palma exaltata sum in Cades, et quasi plantatio rosae in Jericho:
 19 quasi oliva speciosa in campis, et quasi platanus exaltata sum juxta aquam in plateis.
@@ -187,7 +187,7 @@ V. Astitit Regina a dextris tuis in vestitu deaurato circumdata varietate.
 R. Et sicut dies verni circumdabant eam flores rosarum et lilia convallium.
 
 [Lectio3]
-!Eccl 24:24-31
+!Sir 24:24-31
 24 Ego mater pulchrae dilectionis, et timoris, et agnitionis, et sanctae spei.
 25 In me gratia omnis viae et veritatis: in me omnis spes vitae et virtutis.
 26 Transite ad me, omnes qui concupiscitis me, et a generationibus meis implemini:
@@ -273,7 +273,7 @@ Assumpta est * Maria in caelum; gaudent Angeli; laudantes benedicunt Dominum, al
 Exaltata est * Virgo Maria super choros Angelorum, et in capite ejus corona stellarum duodecim.
 
 [Capitulum Laudes]
-!Eccl 24:25; 39:17
+!Sir 24:25; 39:17
 v. In me gratia omnis viae et veritatis, in me omnis spes vitae et virtutis: ego quasi rosa plantata super rivos aquarum fructificavi.
 $Deo gratias
 
@@ -317,11 +317,11 @@ R. Et habitare eam fecit in tabernaculo suo.
 Solemnitatem hodiernam * sanctissimi Rosarii Genitricis Dei Mariae devote celebremus, ut ipsa pro nobis intercedat ad Dominum Jesum Christum.
 
 [Lectio Prima]
-!Eccl 24:17-18
+!Sir 24:17-18
 v. Quasi cedrus exaltata sum in Libano et quasi cypressus in monte Sion: quasi palma exaltata sum in Cades, et quasi plantatio rosae in Jericho.
 
 [Capitulum Tertia]
-!Eccl 24:25; 39:17
+!Sir 24:25; 39:17
 v. In me gratia omnis viae et veritatis, in me omnis spes vitae et virtutis: ego quasi rosa plantata super rivos aquarum fructificavi.
 $Deo gratias
 
@@ -337,7 +337,7 @@ V. Post partum Virgo inviolata permansisti.
 R. Dei Genitrix, intercede pro nobis.
 
 [Capitulum Sexta]
-!Eccl 39:19
+!Sir 39:19
 v. Florete flores quasi lilium, et date odorem, et frondete in gratiam; collaudate canticum, et benedicite Deum in operibus suis.
 $Deo gratias
 
@@ -353,7 +353,7 @@ V. Speciosa facta es et suavis.
 R. In deliciis tuis, sancta Dei Genitrix.
 
 [Capitulum Nona]
-!Eccl 24:17-18
+!Sir 24:17-18
 v. Quasi cedrus exaltata sum in Libano et quasi cypressus in monte Sion: quasi palma exaltata sum in Cades, et quasi plantatio rosae in Jericho.
 $Deo gratias
 

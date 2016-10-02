@@ -233,7 +233,7 @@ Vim virtutis suae * oblitus est ignis: ut pueri tui liberarentur illaesi
 Sol et luna * laudate Deum quia exaltatus est nomen eius solius
 
 [Capitulum Laudes]
-!Ephes 5:1-2
+!Eph 5:1-2
 v. Fratres: Estote ergo imitatores Dei sicut filii carissimi et ambulate in~
 dilectione sicut et Christus dilexit nos et tradidit se ipsum pro nobis~
 oblationem et hostiam Deo in odorem suavitatis
@@ -256,7 +256,7 @@ Cum eiecisset Jesus * daemonium, locutus est mutus et admirate sunt turbae
 Si in digito Dei * ejicio daemonia, profecto prevenit in vos regnum Dei
 
 [Capitulum Tertia]
-!Ephes 5:1-2
+!Eph 5:1-2
 v. Fratres: Estote ergo imitatores Dei sicut filii carissimi et ambulate in~
 dilectione sicut et Christus dilexit nos et tradidit se ipsum pro nobis~
 oblationem et hostiam Deo in odorem suavitatis
@@ -266,7 +266,7 @@ $Deo gratias
 Qui non colligit mecum * dispersit, et qui non est mecum, contra me est
 
 [Capitulum Sexta]
-!Ephes 5:5
+!Eph 5:5
 v. Hoc enim scitote intellegentes quod omnis fornicator aut inmundus aut avarus~
 quod est idolorum servitus non habet hereditatem in regno Christi et Dei
 $Deo gratias
@@ -276,13 +276,13 @@ Cum immundus spiritus * exierit ab homine, ambulabat per loca inaquosa querens~
 requiem et non invenit
 
 [Capitulum Nona]
-!Ephes 5:8-9
+!Eph 5:8-9
 v. Eratis enim aliquando tenebrae nunc autem lux in Domino ut filii lucis~
 ambulate fructus enim lucis est in omni bonitate et iustitia et veritate
 $Deo gratias
 
 [Capitulum Vespera]
-!Ephes 5:1-2
+!Eph 5:1-2
 v. Fratres: Estote ergo imitatores Dei sicut filii carissimi et ambulate in~
 dilectione sicut et Christus dilexit nos et tradidit se ipsum pro nobis~
 oblationem et hostiam Deo in odorem suavitatis

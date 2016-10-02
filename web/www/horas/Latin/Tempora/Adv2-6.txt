@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 De Isaia Propheta
-!Isai 25:1-4
+!Isa 25:1-4
 1 Domine, Deus meus es tu; exaltabo te, et confitebor nomini tuo: quoniam fecisti mirabilia, cogitationes antiquas fideles, amen.
 2 Quia posuisti civitatem in tumulum, urbem fortem in ruinam, domum alienorum: ut non sit civitas, et in sempiternum non aedificetur.
 3 Super hoc laudabit te populus fortis; civitas gentium robustarum timebit te:
@@ -16,7 +16,7 @@ De Isaia Propheta
 @Tempora/Adv2-0:Responsory7
 
 [Lectio2]
-!Isai 25:4-7
+!Isa 25:4-7
 4 Spiritus enim robustorum quasi turbo impellens parietem.
 5 Sicut aestus in siti, tumultum alienorum humiliabis; et quasi calore sub nube torrente, propaginem fortium marcescere facies.
 6 Et faciet Dominus exercituum omnibus populis in monte hoc convivium pinguium, convivium vindemiae, pinguium medullatorum, vindemiae defaecatae.
@@ -26,7 +26,7 @@ De Isaia Propheta
 @Tempora/Adv2-0:Responsory8
 
 [Lectio3]
-!Isai 25:8-12
+!Isa 25:8-12
 8 Praecipitabit mortem in sempiternum; et auferet Dominus Deus lacrimam ab omni facie, et opprobrium populi sui auferet de universa terra: quia Dominus locutus est.
 9 Et dicet in die illa: Ecce Deus noster iste; exspectavimus eum, et salvabit nos; iste Dominus, sustinuimus eum: exsultabimus, et laetabimur in salutari ejus.
 10 Quia requiescet manus Domini in monte isto; et triturabitur Moab sub eo, sicuti teruntur paleae in plaustro.

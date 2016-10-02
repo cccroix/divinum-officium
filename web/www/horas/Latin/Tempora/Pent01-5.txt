@@ -11,7 +11,7 @@ Doxology=Corp
 
 [Lectio1]
 De libro primo Regum.
-!1 Reg 2:27-29
+!1 Sam 2:27-29
 27 Venit autem vir Dei ad Heli, et ait ad eum: Haec dicit Dominus: Numquid non aperte revelatus sum domui patris tui, cum essent in Ægypto in domo pharaonis?
 28 Et elegi eum ex omnibus tribubus Israël mihi in sacerdotem, ut ascenderet ad altare meum, et adoleret mihi incensum, et portaret ephod coram me: et dedi domui patris tui omnia de sacrificiis filiorum Israël.
 29 Quare calce abjecistis victimam meam, et munera mea quae praecepi ut offerrentur in templo: et magis honorasti filios tuos quam me, ut comederetis primitias omnis sacrificii Israël populi mei?
@@ -20,7 +20,7 @@ De libro primo Regum.
 @Tempora/Pent01-2:Responsory1
 
 [Lectio2]
-!1 Reg 2:30-33
+!1 Sam 2:30-33
 30 Propterea ait Dominus Deus Israël: Loquens locutus sum, ut domus tua, et domus patris tui, ministraret in conspectu meo usque in sempiternum, nunc autem dicit Dominus: Absit hoc a me: sed quicumque glorificaverit me, glorificabo eum: qui autem contemnunt me, erunt ignobiles.
 31 Ecce dies veniunt, et praecidam brachium tuum, et brachium domus patris tui, ut non sit senex in domo tua.
 32 Et videbis aemulum tuum in templo, in universis prosperis Israël: et non erit senex in domo tua omnibus diebus.
@@ -30,7 +30,7 @@ De libro primo Regum.
 @Tempora/Pent01-2:Responsory2
 
 [Lectio3]
-!1 Reg 2:34-36
+!1 Sam 2:34-36
 34 Hoc autem erit tibi signum, quod venturum est duobus filiis tuis, Ophni et Phinees: in die uno morientur ambo.
 35 Et suscitabo mihi sacerdotem fidelem, qui juxta cor meum et animam meam faciet: et aedificabo ei domum fidelem, et ambulabit coram Christo meo cunctis diebus.
 36 Futurum est autem, ut quicumque remanserit in domo tua, veniat ut oretur pro eo, et offerat nummum argenteum, et tortam panis, dicatque: Dimitte me, obsecro, ad unam partem sacerdotalem, ut comedam buccellam panis.
@@ -51,7 +51,7 @@ Ut autem praedicta quinta feria, et per Octavas sequentes, ejus salutaris instit
 
 [Lectio7]
 Lectio sancti Evangelii secundum Joannem.
-!Joann 6:56-59
+!Joannes 6:56-59
 In illo tempore: Dixit Jesus turbis Judaeorum: Caro mea, vere est cibus: et sanguis meus, vere est potus. Et reliqua.
 _
 De Homilia sancti Augustini Episcopi.

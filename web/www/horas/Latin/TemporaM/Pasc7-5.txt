@@ -87,7 +87,7 @@ personam negent.
 @TemporaM/Pasc7-3:Responsory3
 
 [MM Capitulum]
-!Act 2:2
+!Acts 2:2
 Et factus est repente de caelo sonus tamquam advenientis spiritus vehementis et replevit totam domum ubi erant sedentes
 _
 V. Loquebantur variis linguis Apostolis, alleluia

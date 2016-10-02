@@ -13,7 +13,7 @@ Doxology=Pasc
 
 [Lectio1]
 De Epistola prima beati Petri Apostoli.
-!1 Petri 4:1-7
+!1 Pet 4:1-7
 1 Christo igitur passo in carne, et vos eadem cogitatione armamini: quia qui passus est in carne, desiit a peccatis:
 2 ut jam non desideriis hominum, sed voluntati Dei, quod reliquum est in carne vivat temporis.
 3 Sufficit enim praeteritum tempus ad voluntatem gentium consummandam his qui ambulaverunt in luxuriis, desideriis, vinolentiis, comessationibus, potationibus, et illicitis idolorum cultibus.
@@ -29,7 +29,7 @@ V. Psalmum dicite nomini ejus, date gloriam laudi ejus.
 R. Domino de fontibus Israël, alleluia, alleluia.
 
 [Lectio2]
-!1 Petri 4:7-11
+!1 Pet 4:7-11
 7 Estote itaque prudentes, et vigilate in orationibus.
 8 Ante omnia autem, mutuam in vobismetipsis caritatem continuam habentes: quia caritas operit multitudinem peccatorum.
 9 Hospitales invicem sine murmuratione.
@@ -45,7 +45,7 @@ R. Ne repellas me a mandatis tuis, alleluia, alleluia.
 R. Ne repellas me a mandatis tuis, alleluia, alleluia.
 
 [Lectio3]
-!1 Petri 4:12-17
+!1 Pet 4:12-17
 12 Carissimi, nolite peregrinari in fervore, qui ad tentationem vobis fit, quasi novi aliquid vobis contingat:
 13 sed communicantes Christi passionibus gaudete, ut et in revelatione gloriae ejus gaudeatis exsultantes.
 14 Si exprobramini in nomine Christi, beati eritis: quoniam quod est honoris, gloriae, et virtutis Dei, et qui est ejus Spiritus, super vos requiescit.

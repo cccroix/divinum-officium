@@ -6,7 +6,7 @@ Preces Feriales
 
 [Lectio1]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matth 6:16-21
+!Matt 6:16-21
 In illo tempore: Dixit Jesus discipulis suis: Cum jejunatis, nolite fieri sicut~
 hypocritae, tristes. Et reliqua.
 _
@@ -70,7 +70,7 @@ $Per Dominum
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matth 6:16-21
+!Matt 6:16-21
 6:16 Cum autem jejunatis, nolite fieri sicut hypocritae, tristes. Exterminant enim facies suas, ut appareant hominibus jejunantes. Amen dico vobis, quia receperunt mercedem suam.
 6:17 Tu autem, cum jejunas, unge caput tuum, et faciem tuam lava,
 6:18 ne videaris hominibus jejunans, sed Patri tuo, qui est in abscondito: et Pater tuus, qui videt in abscondito, reddet tibi.

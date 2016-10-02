@@ -13,7 +13,7 @@ Veni electa mea, * et ponam in te thronum meum, alleluia.;;126
 Ista est speciosa * inter filias Jerusalem.;;147
 
 [Capitulum Vespera]
-!Eccl 51:1-3
+!Sir 51:1-3
 v. Confitebor tibi, Domine Rex, et collaudabo te Deum Salvatorem meum. Confitebor nomini tuo: quoniam adjutor et protector factus es mihi, et liberasti corpus meum a perditione.
 $Deo gratias.
 
@@ -150,7 +150,7 @@ R. Mulier timens Deum, ipsa laudabitur.
 
 [Lectio7]
 Lectio Sancti Evangelii secundum Matthaeum
-!Matth 13:44-52
+!Matt 13:44-52
 In illo tempore: Dixit Jesus discipulis suis parabolam hanc: Simile est regnum caelorum thesauro abscondito in agro. Et reliqua.
 _
 Homilia sancti Gregorii Papae.
@@ -210,7 +210,7 @@ Da nobis, quaesumus, Domine Deus noster, sanctarum Martyrum tuarum N. et N. palm
 $Per Dominum
 
 [Lectio Prima]
-!Eccl 51:8; 51:12
+!Sir 51:8; 51:12
 v. Laudabit usque ad mortem anima mea Dominum, quoniam eruis sustinentes te, et liberas eos de manu angustiae, Domine Deus noster.
 
 [Capitulum Tertia]
@@ -220,7 +220,7 @@ v. Laudabit usque ad mortem anima mea Dominum, quoniam eruis sustinentes te, et 
 @Commune/C6
 
 [Capitulum Sexta]
-!Eccl 51:4-5
+!Sir 51:4-5
 v. Liberasti me secundum multitudinem misericordiae nominis tui a rugientibus, praeparatis ad escam, de manibus quaerentium animam meam, et de multis tribulationibus quae circumdederunt me.
 $Deo gratias.
 

@@ -15,7 +15,7 @@ $Per Dominum
 
 [Lectio1]
 De libro Exodi
-!Ex 3:1-6
+!Exod 3:1-6
 1 Moyses autem pascebat oves Jethro soceri sui sacerdotis Madian: cumque~
 minasset gregem ad interiora deserti, venit ad montem Dei Horeb.
 2 Apparuitque ei Dominus in flamma ignis de medio rubi: et videbat quod rubus~
@@ -39,7 +39,7 @@ R. Ut dimittat populum meum: induratum est cor Pharaonis: non vult dimittere~
 populum meum, nisi in manu forti
 
 [Lectio2]
-!Ex 3:7-10
+!Exod 3:7-10
 7 Cui ait Dominus: Vidi afflictionem populi mei in Ægypto, et clamorem ejus~
 audivi propter duritiam eorum qui praesunt operibus:
 8 et sciens dolorem ejus, descendi ut liberem eum de manibus Ægyptiorum, et~
@@ -58,7 +58,7 @@ V. Dominus Deus Hebrorum misit me ad te dicens:
 R. Dimitte populum meum ut sacrificet mihi in deserto
 
 [Lectio3]
-!Ex 3:11-15
+!Exod 3:11-15
 11 Dixitque Moyses ad Deum: Quis sum ego ut vadam ad Pharaonem, et educam filios~
 Israël de Ægypto?
 12 Qui dixit ei: Ego ero tecum: et hoc habebis signum, quod miserim te: cum~
@@ -144,7 +144,7 @@ R. Ut legem Domini mereretur accipere.
 
 [Lectio7]
 Lectio Sancti evangelii secundum Joannem
-!Joann 6:1-15
+!Joannes 6:1-15
 In illo tempore: Abiit Jesus trans mare Galilaeae, quod est Tiberiadis: et~
 sequebatur eum multitudo magna, quia videbant signa, quae faciebat super his qui~
 infirmabantur. Et reliqua.
@@ -283,7 +283,7 @@ Subiit ergo * in montem Jesus, et ibi sedebat cum discipulis suis
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Joannem
-!Joann 6:1-15
+!Joannes 6:1-15
 6:1 Post haec abiit Jesus trans mare Galilaeae, quod est Tiberiadis:
 6:2 et sequebatur eum multitudo magna, quia videbant signa quae faciebat super~
 his qui infirmabantur.

@@ -35,7 +35,7 @@ Sed et ipsum ejus Evangelium multum distat a ceteris. Matthaeus quasi de homine 
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matth 20:20-23
+!Matt 20:20-23
 In illo tempore: Accessit ad Jesum mater filiorum Zebedaei cum filiis suis, adorans et petens aliquid ab eo. Et reliqua.
 _
 Homilia sancti Hieronymi Presbyteri.

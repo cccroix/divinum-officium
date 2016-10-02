@@ -1,6 +1,6 @@
 [Lectio1]
 De libro Ecclesiastici.
-!Eccl 1:22-26
+!Sir 1:22-26
 22 Corona sapientiae timor Domini, replens pacem et salutis fructum:
 23 et vidit, et dinumeravit eam: utraque autem sunt dona Dei.
 24 Scientiam et intellectum prudentiae sapientia compartietur, et gloriam tenentium se exaltat.
@@ -11,7 +11,7 @@ De libro Ecclesiastici.
 @Tempora/081-1:Responsory1
 
 [Lectio2]
-!Eccl 1:27-33
+!Sir 1:27-33
 27 Timor Domini expellit peccatum:
 28 nam qui sine timore est non poterit justificari: iracundia enim animositatis illius subversio illius est.
 29 Usque in tempus sustinebit patiens, et postea redditio jucunditatis.
@@ -24,7 +24,7 @@ De libro Ecclesiastici.
 @Tempora/081-1:Responsory2
 
 [Lectio3]
-!Eccl 1:34-40
+!Sir 1:34-40
 34 Sapientia enim et disciplina timor Domini: et quod beneplacitum est illi,
 35 fides et mansuetudo, et adimplebit thesauros illius.
 36 Ne sis incredibilis timori Domini, et ne accesseris ad illum duplici corde.

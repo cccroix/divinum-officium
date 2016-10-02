@@ -1,6 +1,6 @@
 [Lectio1]
 De libro secundo Machabaeorum
-!2 Mach 10:1-5
+!2 Mac 10:1-5
 1 Machabaeus autem, et qui cum eo erant, Domino se protegente, templum quidem et civitatem recepit:
 2 aras autem quas alienigenae per plateas exstruxerant, itemque delubra demolitus est:
 3 et purgato templo, aliud altare fecerunt, et de ignitis lapidibus igne concepto sacrificia obtulerunt post biennium, et incensum, et lucernas, et panes propositionis posuerunt.
@@ -12,7 +12,7 @@ De libro secundo Machabaeorum
 @TemporaM/101-0:Responsory1
 
 [Lectio2]
-!2 Mach 10:24-27
+!2 Mac 10:24-27
 24 At Timotheus, qui prius a Judaeis fuerat superatus, convocato exercitu peregrinae multitudinis, et congregato equitatu Asiano, advenit quasi armis Judaeam capturus.
 25 Machabaeus autem et qui cum ipso erant, appropinquante illo, deprecabantur Dominum, caput terra aspergentes, lumbosque ciliciis praecincti,
 26 ad altaris crepidinem provoluti, ut sibi propitius, inimicis autem eorum esset inimicus, et adversariis adversaretur, sicut lex dicit.
@@ -23,7 +23,7 @@ De libro secundo Machabaeorum
 @TemporaM/101-0:Responsory2
 
 [Lectio3]
-!2 Mach 10:28-32
+!2 Mac 10:28-32
 28 Primo autem solis ortu utrique commiserunt: isti quidem victoriae et prosperitatis sponsorem cum virtute Dominum habentes: illi autem ducem belli animum habebant.
 29 Sed cum vehemens pugna esset, apparuerunt adversariis de caelo viri quinque in equis, frenis aureis decori, ducatum Judaeis praestantes:
 30 ex quibus duo Machabaeum medium habentes, armis suis circumseptum incolumem conservabant: in adversarios autem tela et fulmina jaciebant, ex quo et caecitate confusi et repleti perturbatione, cadebant.

@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 De libro primo Regum.
-!1 Reg 12:1-5
+!1 Sam 12:1-5
 1 Dixit autem Samuel ad universum Israël: Ecce audivi vocem vestram juxta omnia quae locuti estis ad me, et constitui super vos regem.
 2 Et nunc rex graditur ante vos: ego autem senui, et incanui: porro filii mei vobiscum sunt: itaque conversatus coram vobis ab adolescentia mea usque ad hanc diem, ecce praesto sum.
 3 Loquimini de me coram Domino, et coram christo ejus, utrum bovem cujusquam tulerim, aut asinum: si quempiam calumniatus sum, si oppressi aliquem, si de manu cujusquam munus accepi: et contemnam illud hodie, restituamque vobis.
@@ -23,7 +23,7 @@ R. Tu exaudies de caelo Domine, et libera eos~
 de manibus inimicorum suorum.
 
 [Lectio2]
-!1 Reg 12:6-9
+!1 Sam 12:6-9
 6 Et ait Samuel ad populum: Dominus, qui fecit Moysen et Aaron, et eduxit patres nostros de terra Ægypti.
 7 Nunc ergo state, ut judicio contendam adversum vos coram Domino de omnibus misericordiis Domini quas fecit vobiscum et cum patribus vestris:
 8 quomodo Jacob ingressus est in Ægyptum, et clamaverunt patres vestri ad Dominum: et misit Dominus Moysen et Aaron, et eduxit patres vestros de Ægypto, et collocavit eos in loco hoc.
@@ -38,7 +38,7 @@ ignei diviserunt utrumque, et ascendit Elias per turbinem in caelum.
 R. Eliseus clamabat, dicens: Pater mi, pater mi, currus Israël, et auriga ejus.
 
 [Lectio3]
-!1 Reg 12:10-12
+!1 Sam 12:10-12
 10 Postea autem clamaverunt ad Dominum, et dixerunt: Peccavimus, quia dereliquimus Dominum, et servivimus Baalim et Astaroth: nunc ergo erue nos de manu inimicorum nostrorum, et serviemus tibi.
 11 Et misit Dominus Jerobaal, et Badan, et Jephte, et Samuel, et eruit vos de manu inimicorum vestrorum per circuitum, et habitastis confidenter.
 12 Videntes autem quod Naas rex filiorum Ammon venisset adversum vos, dixistis mihi: Nequaquam, sed rex imperabit nobis: cum Dominus Deus vester regnaret in vobis.

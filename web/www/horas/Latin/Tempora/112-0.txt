@@ -3,7 +3,7 @@ Aspice, Domine, * quia facta est desolata civitas plena divitiis: sedet in trist
 
 [Lectio1]
 De Ezechiele Propheta
-!Ezech 21:1-5
+!Ezek 21:1-5
 1 Et factus est sermo Domini ad me, dicens:
 2 Fili hominis, pone faciem tuam ad Jerusalem, et stilla ad sanctuaria, et propheta contra humum Israël.
 3 et dices terrae Israël: Haec dicit Dominus Deus: Ecce ego ad te, et ejiciam gladium meum de vagina sua, et occidam in te justum et impium.
@@ -14,7 +14,7 @@ De Ezechiele Propheta
 @Tempora/Pent01-0:Responsory1
 
 [Lectio2]
-!Ezech 21:6-11
+!Ezek 21:6-11
 6 Et tu, fili hominis, ingemisce in contritione lumborum, et in amaritudinibus ingemisce coram eis;
 7 cumque dixerint ad te: Quare tu gemis? dices: Pro auditu: quia venit, et tabescet omne cor, et dissolventur universæ manus, et infirmabitur omnis spiritus, et per cuncta genua fluent aquæ: ecce venit, et fiet, ait Dominus Deus.
 8 Et factus est sermo Domini ad me, dicens:
@@ -26,7 +26,7 @@ De Ezechiele Propheta
 @Tempora/111-0:Responsory2
 
 [Lectio3]
-!Ezech 21:12-15
+!Ezek 21:12-15
 12 Clama et ulula, fili hominis, quia hic factus est in populo meo, hic in cunctis ducibus Israël qui fugerant: gladio traditi sunt cum populo meo: idcirco plaude super femur,
 13 quia probatus est: et hoc, cum sceptrum subverterit, et non erit, dicit Dominus Deus.
 14 Tu ergo, fili hominis, propheta, et percute manu ad manum: et duplicetur gladius, ac triplicetur gladius interfectorum  Hic est gladius occisionis magnæ, qui obstupescere eos facit

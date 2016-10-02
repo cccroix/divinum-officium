@@ -5,7 +5,7 @@ Feria Secunda infra Hebdomadam I in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matth 25:31-46
+!Matt 25:31-46
 In illo tempore: Dixit Jesus discipulis suis: Cum venerit Filius Dominis in~
 majestate sua, et omnes Angeli cum eo, tunc sedebit super sedem majestatis suae:~
 et congregabuntur ante eum omnes gentes. Et reliqua
@@ -71,7 +71,7 @@ $Per Dominum.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matth 25:31-46
+!Matt 25:31-46
 25:31 Cum autem venerit Filius hominis in majestate sua, et omnes angeli cum eo, tunc sedebit super sedem majestatis suae:
 25:32 et congregabuntur ante eum omnes gentes, et separabit eos ab invicem, sicut pastor segregat oves ab haedis:
 25:33 et statuet oves quidem a dextris suis, haedos autem a sinistris.

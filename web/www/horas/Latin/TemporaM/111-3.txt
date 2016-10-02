@@ -1,6 +1,6 @@
 [Lectio1]
 De Ezechiele Propheta
-!Ezech 7:1-4
+!Ezek 7:1-4
 1 Et factus est sermo Domini ad me, dicens:
 2 Et tu, fili hominis, haec dicit Dominus Deus terrae Israël: Finis venit: venit finis super quatuor plagas terrae.
 3 Nunc finis super te, et immittam furorem meum in te: et judicabo te juxta vias tuas, et ponam contra te omnes abominationes tuas.
@@ -14,7 +14,7 @@ V. Spera in Domino, et fac bonitatem, et inhabita terram.
 R. Facere judicium et justitiam, et sollicitum ambulare cum Deo tuo.
 
 [Lectio2]
-!Ezech 7:5-9
+!Ezek 7:5-9
 5 Haec dicit Dominus Deus: Afflictio una, afflictio ecce venit.
 6 Finis venit, venit finis: evigilavit adversum te, ecce venit.
 7 Venit contritio super te, qui habitas in terra: venit tempus, prope est dies occisionis, et non gloriae montium.
@@ -26,7 +26,7 @@ R. Facere judicium et justitiam, et sollicitum ambulare cum Deo tuo.
 @TemporaM/111-1:Responsory2
 
 [Lectio3]
-!Ezech 7:10-13
+!Ezek 7:10-13
 10 Ecce dies, ecce venit: egressa est contritio, floruit virga, germinavit superbia,
 11 iniquitas surrexit in virga impietatis: non ex eis, et non ex populo, neque ex sonitu eorum: et non erit requies in eis.
 12 Venit tempus, appropinquavit dies: qui emit, non laetetur, et qui vendit, non lugeat: quia ira super omnem populum ejus.

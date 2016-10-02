@@ -5,7 +5,7 @@ Feria Tertia infra Hebdomadam III in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Lectio sancti Evangelii secundum Matthaeum
-!Matth 18:15-22
+!Matt 18:15-22
 In illo tempore: Dixit Jesus discipulis suis: Si peccaverit in te frater tuus, vade, et corripe eum inter te et ipsum solum. Et reliqua.
 _
 Homilia sancti Augustini Episcopi

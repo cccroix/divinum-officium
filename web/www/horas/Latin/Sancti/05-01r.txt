@@ -163,7 +163,7 @@ R. Dominus sollicitus est mei, alleluia.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matth 13:54-58
+!Matt 13:54-58
 In illo tempore: Veniens Jesus in patriam suam, docebat eos in synagogis~
 eorum, ita ut mirarentur et dicerent: Unde huic sapientia haec et virtutes?~
 Nonne hic est fabri filius? Et reliqua.

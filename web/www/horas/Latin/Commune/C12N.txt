@@ -60,7 +60,7 @@ Cum Patre, et almo Spiritu,
 In sempiterna saecula. Amen.
 _
 #Capitulum
-!Eccl 24:24
+!Sir 24:24
 v. Ego mater pulchrae dilectionis, et timoris, et agnitionis, et sanctae spei.
 $Deo gratias
 _
@@ -100,7 +100,7 @@ V. Elegit eam Deus, et praeelegit eam.
 R. In tabernaculo suo habitare facit eam.
 
 [Lectio1]
-!Eccl 24:11-13
+!Sir 24:11-13
 11 et omnium excellentium et humilium corda virtute calcavi. Et in his omnibus requiem quaesivi, et in hereditate Domini morabor.
 12 Tunc praecepit, et dixit mihi Creator omnium: et qui creavit me, requievit in tabernaculo meo.
 13 Et dixit mihi: In Jacob inhabita, et in Israël hereditare, et in electis meis mitte radices.
@@ -112,7 +112,7 @@ V. Benedicta tu in mulieribus, et benedictus fructus ventris tui.
 R. Quia quem caeli capere non poterant, tuo gremio contulisti.
 
 [Lectio2]
-!Eccl 24:15-16
+!Sir 24:15-16
 15 Et sic in Sion firmata sum, et in civitate sanctificata similiter requievi, et in Jerusalem potestas mea.
 16 Et radicavi in populo honorificato, et in parte Dei mei hereditas illius, et in plenitudine sanctorum detentio mea.
 
@@ -123,7 +123,7 @@ V. Ave Maria, gratia plena, Dominus tecum.
 R. Genuisti qui te fecit, et in aeternum permanes Virgo.
 
 [Lectio3]
-!Eccl 24:17-20
+!Sir 24:17-20
 17 Quasi cedrus exaltata sum in Libano, et quasi cypressus in monte Sion:
 18 quasi palma exaltata sum in Cades, et quasi plantatio rosae in Jericho:
 19 quasi oliva speciosa in campis, et quasi platanus exaltata sum juxta aquam in plateis.
@@ -146,7 +146,7 @@ Germinavit radix Jesse, * orta est stella ex Jacob: Virgo peperit Salvatorem: te
 Ecce Maria genuit * nobis Salvatorem, quem Joannes videns exclamavit, dicens: Ecce Agnus Dei, ecce qui tollit peccata mundi, alleluia.
 
 [Capitulum Laudes]
-!Cant 6:8
+!Cant. 6:8
 v. Viderunt eam filiae Sion, et beatissimam praedicaverunt et reginae laudaverunt eam.
 $Deo gratias.
 
@@ -235,7 +235,7 @@ _
 Ant. Quando natus es * ineffabiliter ex Virgine, tunc impletae sunt Scripturae: sicut pluvia in vellus descendisti, ut salvum faceres genus humanum: te laudamus Deus noster.
 _
 #Capitulum
-!Eccl 24:15
+!Sir 24:15
 v. Et sic in Sion firmata sum, et in civitate sanctificata similiter requievi, et in Jerusalem potestas
 mea.
 $Deo gratias
@@ -281,7 +281,7 @@ _
 Ant. Rubum quem viderat Moyses * incombustum, conservatam agnovimus tuam laudabilem virginitatem: Dei Genitrix, intercede pro nobis.
 _
 #Capitulum
-!Eccl 24:16
+!Sir 24:16
 v. Et radicavi in populo honorificato, et in parte Dei mei hereditas illius et in plenitudine sanctorum detentio mea.
 $Deo gratias
 _
@@ -326,7 +326,7 @@ _
 Ant. Ecce Maria genuit * nobis Salvatorem, quem Joannes videns exclamavit, dicens: Ecce Agnus Dei, ecce qui tollit peccata mundi, alleluia.
 _
 #Capitulum
-!Eccl 24:15
+!Sir 24:15
 v. In plateis sicut cinnamomum et balsamum aromatizans odorem dedi: quasi myrrha electa dedi suavitatem odoris.
 $Deo gratias.
 _

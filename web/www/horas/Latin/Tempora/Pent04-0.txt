@@ -16,7 +16,7 @@ $Per Dominum
 
 [Lectio1]
 De libro primo Regum.
-!1 Reg 17:1-7
+!1 Sam 17:1-7
 1 Congregantes autem Philisthiim agmina sua in praelium, convenerunt in Socho Judae: et castrametati sunt inter Socho et Azeca in finibus Dommim.
 2 Porro Saul et filii Israël congregati venerunt in Vallem terebinthi, et direxerunt aciem ad pugnandum contra Philisthiim.
 3 Et Philisthiim stabant super montem ex parte hac, et Israël stabat supra montem ex altera parte: vallisque erat inter eos.
@@ -29,7 +29,7 @@ De libro primo Regum.
 @Tempora/Pent01-1
 
 [Lectio2]
-!1 Reg 17:8-11
+!1 Sam 17:8-11
 8 Stansque clamabat adversum phalangas Israël, et dicebat eis: Quare venistis parati ad praelium? Numquid ego non sum Philisthaeus, et vos servi Saul? Eligite ex vobis virum, et descendat ad singulare certamen,
 9 si quiverit pugnare mecum, et percusserit me, erimus vobis servi: si autem ego praevaluero, et percussero eum, vos servi eritis, et servietis nobis.
 10 Et aiebat Philisthaeus: Ego exprobravi agminibus Israël hodie: Date mihi virum, et ineat mecum singulare certamen.
@@ -39,7 +39,7 @@ De libro primo Regum.
 @Tempora/Pent01-1
 
 [Lectio3]
-!1 Reg 17:12-16
+!1 Sam 17:12-16
 12 David autem erat filius viri Ephrathaei, de quo supra dictum est, de Bethlehem Juda, cui nomen erat Isai, qui habebat octo filios, et erat vir in diebus Saul senex, et grandaevus inter viros.
 13 Abierunt autem tres filii ejus majores post Saul in praelium: et nomina trium filiorum ejus qui perrexerunt ad bellum, Eliab primogenitus, et secundus Abinadab, tertiusque Samma.
 14 David autem erat minimus. Tribus ergo majoribus secutis Saulem,

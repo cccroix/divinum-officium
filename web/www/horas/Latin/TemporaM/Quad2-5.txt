@@ -5,7 +5,7 @@ Feria Sexta infra Hebdomadam II in Quadragesima;;Feria major;;2
 
 [Lectio1]
 Lectio sancti Evangelii secundum Matthaeum
-!Matth 21:33-46
+!Matt 21:33-46
 In illo tempore: Dixit Jesus turbis Judeorum, et principibus sacerdotum~
 parabolam hanc: Homo erat paterfamilias, qui plantavit vineam, et sepem~
 circumdedit ei. Et reliqua.
@@ -66,7 +66,7 @@ $Per Dominum
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matth 21:33-46
+!Matt 21:33-46
 21:33 Aliam parabolam audite: Homo erat paterfamilias, qui plantavit vineam, et sepem circumdedit ei, et fodit in ea torcular, et aedificavit turrim, et locavit eam agricolis, et peregre profectus est.
 21:34 Cum autem tempus fructuum appropinquasset, misit servos suos ad agricolas, ut acciperent fructus ejus.
 21:35 Et agricolae, apprehensis servis ejus, alium ceciderunt, alium occiderunt, alium vero lapidaverunt.

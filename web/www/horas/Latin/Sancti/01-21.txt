@@ -6,7 +6,7 @@ vide C6b;
 9 lectiones
 
 [Capitulum Vespera]
-!Eccl 51:1-3
+!Sir 51:1-3
 v. Confitebor tibi, Domine, Rex, et collaudabo te Deum Salvatorem meum. Confitebor nomini tuo: quoniam adjutor et protector factus es mihi, et liberasti corpus meum a perditione.
 $Deo gratias
 
@@ -36,7 +36,7 @@ R. In tabernaculo suo habitare facit eam.
 
 [Lectio1]
 De libro Ecclesiastici.
-!Eccl 51:1-7
+!Sir 51:1-7
 1 Oratio Jesu filii Sirach. Confitebor tibi, Domine rex, et collaudabo te Deum salvatorem meum.
 2 Confitebor nomini tuo, quoniam adjutor et protector factus es mihi,
 3 et liberasti corpus meum a perditione: a laqueo linguae iniquae, et a labiis operantium mendacium: et in conspectu astantium factus es mihi adjutor.
@@ -52,7 +52,7 @@ V. Infantia quidem computabatur in annis, sed erat senectus mentis immensa.
 R. Quia solum vitae dilexit auctorem.
 
 [Lectio2]
-!Eccl 51:8-12
+!Sir 51:8-12
 8 Laudabit usque ad mortem anima mea Dominum,
 9 et vita mea appropinquans erat in inferno deorsum.
 10 Circumdederunt me undique, et non erat qui adjuvaret: respiciens eram ad adjutorium hominum, et non erat.
@@ -66,7 +66,7 @@ V. Posuit signum in faciem meam, ut nullum praeter eum amatorem admittam.
 R. Et circumdedit me vernantibus atque coruscantibus gemmis.
 
 [Lectio3]
-!Eccl 51:13-17
+!Sir 51:13-17
 13 Exaltasti super terram habitationem meam, et pro morte defluente deprecatus sum.
 14 Invocavi Dominum patrem Domini mei, ut non derelinquat me in die tribulationis meae, et in tempore superborum, sine adjutorio.
 15 Laudabo nomen tuum assidue, et collaudabo illud in confessione: et exaudita est oratio mea,
@@ -140,7 +140,7 @@ Benedico te * Pater Domini mei Jesu Christi, quia per Filium tuum ignis exstinct
 Congaudete mecum, * et congratulamini, quia cum his omnibus lucidas sedes accepi.
 
 [Capitulum Laudes]
-!Eccl 51:1-3
+!Sir 51:1-3
 v. Confitebor tibi, Domine, Rex, et collaudabo te Deum Salvatorem meum. Confitebor nomini tuo: quoniam adjutor et protector factus es mihi, et liberasti corpus meum a perditione.
 $Deo gratias
 
@@ -148,17 +148,17 @@ $Deo gratias
 Ecce quod concupivi * jam video: quod speravi, jam teneo: ipsi sum juncta in caelis, quem in terris posita, tota devotione dilexi.
 
 [Capitulum Tertia]
-!Eccl 51:1-3
+!Sir 51:1-3
 v. Confitebor tibi, Domine, Rex, et collaudabo te Deum Salvatorem meum. Confitebor nomini tuo: quoniam adjutor et protector factus es mihi, et liberasti corpus meum a perditione.
 $Deo gratias
 
 [Capitulum Sexta]
-!Eccl 51:4-5
+!Sir 51:4-5
 v. Liberasti me secundum multitudinem misericordiae nominis tui a rugientibus, paratis ad escam, de manibus quaerentium animam meam, et de portis tribulationis quae circumdederunt me.
 $Deo gratias
 
 [Capitulum Nona]
-!Eccl 51:8; 51:12
+!Sir 51:8; 51:12
 v. Laudábit usque ad mortem ánima mea Dóminum, quóniam éruis sustinéntes te, et líberas eos de manu angústiæ, Dómine, Deus noster.
 $Deo gratias
 

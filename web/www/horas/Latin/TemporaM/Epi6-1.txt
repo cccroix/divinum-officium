@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 De epistola ad Hebraeos
-!Hebr 3:1-4
+!Heb 3:1-4
 1 Unde, fratres sancti, vocationis caelestis participes, considerate Apostolum,~
 et pontificem confessionis nostrae Jesum:
 2 qui fidelis est ei, qui fecit illum, sicut et Moyses in omni domo ejus.
@@ -18,7 +18,7 @@ honorem habet domus, qui fabricavit illam.
 @TemporaM/Epi2-1:Responsory1
 
 [Lectio2]
-!Hebr 3:5-8
+!Heb 3:5-8
 5 Et Moyses quidem fidelis erat in tota domo ejus tamquam famulus, in~
 testimonium eorum, quae dicenda erant:
 6 Christus vero tamquam filius in domo sua: quae domus sumus nos, si fiduciam,~
@@ -31,7 +31,7 @@ in deserto,
 @TemporaM/Epi2-1:Responsory2
 
 [Lectio3]
-!Hebr 3:12-16
+!Heb 3:12-16
 12 Videte fratres, ne forte sit in aliquo vestrum cor malum incredulitatis,~
 discedendi a Deo vivo:
 13 sed adhortamini vosmetipsos per singulos dies, donec hodie cognominatur, ut~

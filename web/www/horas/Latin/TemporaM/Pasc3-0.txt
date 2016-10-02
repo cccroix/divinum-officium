@@ -7,7 +7,7 @@ Duplex
 Una Antiphona
 
 [Capitulum Vespera]
-!1 Petri 2:11
+!1 Pet 2:11
 v. Carissimi obsecro tamquam advenas et peregrinos abstinere vos a carnalibus~
 desideriis quae militant adversus animam
 $Deo gratias
@@ -35,7 +35,7 @@ $Per Dominum
 
 [Lectio1]
 Incipit liber Apocalypsis beati Joannis Apostoli.
-!Apoc 1:1-6
+!Apo 1:1-6
 1 Apocalypsis Jesu Christi, quam dedit illi Deus palam facere servis suis, quae~
 oportet fieri cito: et significavit, mittens per angelum suum servo suo Joanni,
 2 qui testimonium perhibuit verbo Dei, et testimonium Jesu Christi, quaecumque~
@@ -58,7 +58,7 @@ V. Fecisti enim nos Deo nostro regnum, et sacerdotium.
 R. In sanguine tuo, alleluia.
 
 [Lectio2]
-!Apoc 1:7-11
+!Apo 1:7-11
 7 Ecce venit cum nubibus, et videbit eum omnis oculus, et qui eum pupugerunt. Et~
 plangent se super eum omnes tribus terrae. Etiam: amen.
 8 Ego sum alpha et omega, principium et finis, dicit Dominus Deus: qui est, et~
@@ -80,7 +80,7 @@ R. Transite ad me omnes qui concupiscitis me, et a generationibus meis~
 adimplemini, alleluia, alleluia.
 
 [Lectio3]
-!Apoc 1:12-19
+!Apo 1:12-19
 12 Et conversus sum ut viderem vocem, quae loquebatur mecum: et conversus vidi~
 septem candelabra aurea:
 13 et in medio septem candelabrorum aureorum, similem Filio hominis vestitum~
@@ -169,7 +169,7 @@ R. Et odor vestimentorum ejus super omnia aromata, alleluia, alleluia.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Joannem.
-!Joann 16:16-22
+!Joannes 16:16-22
 In illo tempore: Dixit Jesus discipulis suis: Modicum, et jam non videbitis me:~
 et iterum modicum, et videbitis me quia vado ad Patrem. Et reliqua.
 _
@@ -234,7 +234,7 @@ R. Alleluia, alleluia
 R. Alleluia, alleluia
 
 [Capitulum Laudes]
-!1 Petri 2:11
+!1 Pet 2:11
 v. Carissimi obsecro tamquam advenas et peregrinos abstinere vos a carnalibus~
 desideriis quae militant adversus animam
 $Deo gratias
@@ -255,20 +255,20 @@ Modicum * et non videbitis me, dicit Dominus: iterum modicum, et videbitis' me,~
 quia vado ad Patrem, alleluia, alleluia.
 
 [Capitulum Tertia]
-!1 Petri 2:11
+!1 Pet 2:11
 v. Carissimi obsecro tamquam advenas et peregrinos abstinere vos a carnalibus~
 desideriis quae militant adversus animam
 $Deo gratias
 
 [Capitulum Sexta]
-!1 Petri 2:13-14
+!1 Pet 2:13-14
 v. Subjecti igitur estote omni humanae creaturae propter Deum: sive regi quasi~
 praecellenti: sive ducibus tamquam ab eo missis ad vindictam malefactorum laudem~
 vero bonorum.
 $Deo gratias
 
 [Capitulum Nona]
-!1 Petri 2:18-19
+!1 Pet 2:18-19
 v. Servi subditi estote in omni timore dominis, non tantum bonis et modestis,~
 sed etiam dyscolis. Haec est enim gratia in Christo Jesu Domino nostro.
 $Deo gratias
@@ -283,7 +283,7 @@ vero contristabimini: sed tristitia vestra convertetur in gaudium, alleluia.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Johannem
-!Joann 16:16-22
+!Joannes 16:16-22
 16:16 Modicum, et jam non videbitis me; et iterum modicum, et videbitis me: quia~
 vado ad Patrem.
 16:17 Dixerunt ergo ex discipulis ejus ad invicem: Quid est hoc quod dicit~

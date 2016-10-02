@@ -13,7 +13,7 @@ $Per Dominum
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matth 24:15-35
+!Matt 24:15-35
 In illo tempore: Dixit Jesus discipulis suis: Cum videritis abominationem desolationis, quae dicta est a Daniele propheta, stantem in loco sancto: qui legit, intelligat. Et reliqua.
 _
 Homilia sancti Hieronymi Presbyteri.

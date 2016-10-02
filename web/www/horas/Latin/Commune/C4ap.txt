@@ -144,7 +144,7 @@ Sacerdotes Dei * benedicite Dominum: servi Domini hymnum dicite Deo, alleluia.
 Serve bone * et fidelis, intra in gaudium Domini tui, alleluia.
 
 [Capitulum Laudes]
-!Eccl 44:16-17
+!Sir 44:16-17
 v. Ecce sacerdos magnus, qui in diebus suis placuit Deo, et inventus est justus: et in tempore iracundiae factus est reconciliatio.
 $Deo gratias.
 
@@ -175,7 +175,7 @@ $Per Dominum
 @Commune/C4
 
 [Capitulum Tertia]
-!Eccl 44:16-19
+!Sir 44:16-19
 v. Ecce sacerdos magnus, qui in diebus suis placuit Deo, et inventus est justus: et in tempore iracundiae factus est reconciliatio.
 $Deo gratias
 

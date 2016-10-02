@@ -21,7 +21,7 @@ $Per Dominum
 
 [Lectio1]
 Incipit epistola ad Hebraeos
-!Hebr 1:1-4
+!Heb 1:1-4
 1 Multifariam, multisque modis olim Deus loquens patribus in prophetis:
 2 novissime, diebus istis locutus est nobis in Filio, quem constituit haeredem~
 universorum, per quem fecit et saecula:
@@ -35,7 +35,7 @@ hereditavit.
 @TemporaM/Epi2-0:Responsory1
 
 [Lectio2]
-!Hebr 1:5-9
+!Heb 1:5-9
 5 Cui enim dixit aliquando angelorum: Filius meus es tu, ego hodie genui te? Et~
 rursum: Ego ero illi in patrem, et ipse erit mihi in filium?
 6 Et cum iterum introducit primogenitum in orbem terrae, dicit: Et adorent eum~
@@ -51,7 +51,7 @@ oleo exultationis prae participibus tuis.
 @TemporaM/Epi2-0:Responsory2
 
 [Lectio3]
-!Hebr 1:10-14
+!Heb 1:10-14
 10 Et: Tu in principio, Domine, terram fundasti: et opera manuum tuarum sunt~
 caeli.
 11 Ipsi peribunt, tu autem permanebis, et omnes ut vestimentum veterascent:
@@ -109,7 +109,7 @@ creatas indicaret.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Matthaeum.
-!Matth 13:31-35
+!Matt 13:31-35
 In illo tempore: Dixit Jesus turbis parabolam hanc: Simile est regnum caelorum~
 grano sinapis, quod accipiens homo seminavit in agro suo. Et reliqua.
 _
@@ -165,7 +165,7 @@ satis tribus, donec fermentatum est totum.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Matthaeum
-!Matth 13:31-35
+!Matt 13:31-35
 13:31 Aliam parabolam proposuit eis dicens: Simile est regnum caelorum grano~
 sinapis, quod accipiens homo seminavit in agro suo:
 13:32 quod minimum quidem est omnibus seminibus: cum autem creverit, majus est~

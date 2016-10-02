@@ -15,7 +15,7 @@ $Per Dominum
 
 [Lectio1]
 Incipit Epistola catholica beati Judae Apostoli.
-!Jud 1:1-4
+!Judas 1:1-4
 1 Judas Jesu Christi servus, frater autem Jacobi, his qui sunt in Deo Patre~
 dilectis, et Christo Jesu conservatis, et vocatis.
 2 Misericordia vobis, et pax, et caritas adimpleatur.
@@ -27,7 +27,7 @@ impii, Dei nostri gratiam transferentes in luxuriam, et solum Dominatorem, et~
 Dominum nostrum Jesum Christum negantes.
 
 [Lectio2]
-!Jud 1:5-8
+!Judas 1:5-8
 5 Commonere autem vos volo, scientes semel omnia, quoniam Jesus populum de terra~
 Ægypti salvans, secundo eos, qui non crediderunt, perdidit:
 6 angelos vero, qui non servaverunt suum principatum, sed dereliquerunt suum~
@@ -39,7 +39,7 @@ sustinentes.
 majestatem autem blasphemant.
 
 [Lectio3]
-!Jud 1:9-13
+!Judas 1:9-13
 9 Cum Michaël Archangelus cum diabolo disputans altercaretur de Moysi corpore,~
 non est ausus judicium inferre blasphemiae: sed dixit: Imperet tibi Dominus.
 10 Hi autem quaecumque quidem ignorant, blasphemant: quaecumque autem~
@@ -68,7 +68,7 @@ denique glorioso martyrio, simul sanctissimum Jesu Christi nomen illustrarunt.
 
 [Lectio7]
 Lectio sancti Evangelii secundum Joannem.
-!Joann 15:17-25
+!Joannes 15:17-25
 In illo tempore: Dixit Jesus discipulis suis: Haec mando vobis, ut diligatis~
 invicem. Si mundus vos odit: scitote quia me priorem vobis odio habuit. Et~
 reliqua.
@@ -112,7 +112,7 @@ quae non potest haberi sine ceteris bonis, quibus homo efficitur bonus.
 
 [LectioE]
 v. Sequentia Sancti Evangelii secundum Joannem
-!Joann 15:17-25
+!Joannes 15:17-25
 15:17 Haec mando vobis: ut diligatis invicem.
 15:18 Si mundus vos odit, scitote quia me priorem vobis odio habuit.
 15:19 Si de mundo fuissetis, mundus quod suum erat diligeret: quia vero de mundo~
