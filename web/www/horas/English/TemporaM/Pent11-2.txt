@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the second book of Kings
-!2 Reg 23:2-3
+!2 Kgs 23:2-3
 2 And the king went up to the temple of the Lord, and all the men of Juda, and~
 all the inhabitants of Jerusalem with him, the priests and the prophets, and all~
 the people both little and great: and in the hearing of them all he read all the~
@@ -21,7 +21,7 @@ to the covenant.
 @TemporaM/Pent03-2:Responsory1
 
 [Lectio2]
-!2 Reg 23:4-5
+!2 Kgs 23:4-5
 4 And the king commanded Helcias the high priest, and the priests of the second~
 order, and the doorkeepers, to cast out of the temple of the Lord all the~
 vessels that had been made for Baal, and for the grove, and for all the host of~
@@ -36,7 +36,7 @@ the twelve signs, and to all the host of heaven.
 @TemporaM/Pent03-2:Responsory2
 
 [Lectio3]
-!2 Reg 23:6-8
+!2 Kgs 23:6-8
 6 And he caused the grove to be carried out from the house of the Lord without~
 Jerusalem to the valley of Cedron, and he burnt it there, and reduced it to dust,~
 and cast the dust upon the graves of the common people.

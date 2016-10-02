@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the first book of Kings
-!1 Reg 1:28-31
+!1 Kgs 1:28-31
 28 And King David answered and said: Call to me Bethsabee. And when she was come in to the king, and stood before him,
 29 The king swore and said: As the Lord liveth, who hath delivered my soul out of all distress,
 30 Even as I swore to thee by the Lord the God of Israel, saying: Solomon thy son shall reign after me, and he shall sit upon my throne in my stead, so will I do this day.
@@ -16,7 +16,7 @@ Lesson from the first book of Kings
 @Tempora/Pent03-1Feria:Responsory1
 
 [Lectio2]
-!1 Reg 1:32-35
+!1 Kgs 1:32-35
 32 King David also said: Call me Sadoc the priest, and Nathan the prophet, and Banaias the son of Joiada. And when they were come in before the king,
 33 He said to them: Take with you the servants of your lord, and set my son Solomon upon my mule: and bring him to Gihon.
 34 And let Sadoc the priest, and Nathan the prophet anoint him there king over Israel: and you shall sound the trumpet, and shall say: God save king Solomon.
@@ -26,7 +26,7 @@ Lesson from the first book of Kings
 @Tempora/Pent01-3:Responsory2
 
 [Lectio3]
-!1 Reg 1:38-40
+!1 Kgs 1:38-40
 38 So Sadoc the priest, and Nathan the prophet went down, and Banaias the son of Joiada, and the Cerethi, and Phelethi: and they set Solomon upon the mule of king David, and brought him to Gihon.
 39 And Sadoc the priest took a horn of oil out of the tabernacle, and anointed Solomon: and they sounded the trumpet, and all the people said: God save king Solomon.
 40 And all the multitude went up after him, and the people played with pipes, and rejoiced with a great joy, and the earth rang with the noise of their cry.

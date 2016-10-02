@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the second book of Kings
-!2 Reg 3:6-9
+!2 Kgs 3:6-9
 6 And king Joram went out that day from Samaria, and mustered all Israel.
 7 And he sent to Josaphat king of Juda, saying: The king of Moab is revolted~
 from me, come with me against him to battle. And he answered: I will come up: he~
@@ -20,7 +20,7 @@ army, and for the beasts, that followed them.
 @TemporaM/Pent03-1:Responsory1
 
 [Lectio2]
-!2 Reg 3:10-13
+!2 Kgs 3:10-13
 10 And the king of Israel said: Alas, alas, alas, the Lord hath gathered us~
 three kings together, to deliver us into the hands of Moab!
 11 And Josaphat said: Is there not here a prophet of the Lord, that we may~
@@ -35,7 +35,7 @@ the prophets of thy father, and thy mother.
 @TemporaM/Pent03-1:Responsory2
 
 [Lectio3]
-!2 Reg 3:13-18
+!2 Kgs 3:13-18
 13 And the king of Israel said to him: Why hath the Lord gathered together these~
 three kings, to deliver them into the hands of Moab?
 14 And Eliseus said to him: As the Lord of hosts liveth, in whose sight I stand,~

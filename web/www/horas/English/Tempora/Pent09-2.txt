@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the second book of Kings
-!2 Reg 3:6-9
+!2 Kgs 3:6-9
 6 And king Joram went out that day from Samaria, and mustered all Israel.
 7 And he sent to Josaphat king of Juda, saying: The king of Moab is revolted from me, come with me against him to battle. And he answered: I will come up: he that is mine, is thine: my people, thy people: and my horses, thy horses.
 8 And he said: Which way shall we go up? But he answered: By the desert of Edom.
@@ -16,7 +16,7 @@ Lesson from the second book of Kings
 @Tempora/Pent03-1Feria:Responsory1
 
 [Lectio2]
-!2 Reg 3:10-13
+!2 Kgs 3:10-13
 10 And the king of Israel said: Alas, alas, alas, the Lord hath gathered us three kings together, to deliver us into the hands of Moab!
 11 And Josaphat said: Is there not here a prophet of the Lord, that we may beseech the Lord by him? And one of the servants of the king of Israel answered: Here is Eliseus the son of Saphat, who poured water on the hands of Elias.
 12 And Josaphat said: The word of the Lord is with him. And the king of Israel, and Josaphat king of Juda, and the king of Edom went down to him.
@@ -26,7 +26,7 @@ Lesson from the second book of Kings
 @Tempora/Pent03-1Feria:Responsory2
 
 [Lectio3]
-!2 Reg 3:13-18
+!2 Kgs 3:13-18
 13 And the king of Israel said to him: Why hath the Lord gathered together these three kings, to deliver them into the hands of Moab?
 14 And Eliseus said to him: As the Lord of hosts liveth, in whose sight I stand, if I did not reverence the face of Josaphat king of Juda, I would not have hearkened to thee, nor looked on thee.
 15 But now bring me hither a minstrel. And when the minstrel played, the hand of the Lord came upon him, and he said:

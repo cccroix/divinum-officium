@@ -12,7 +12,7 @@ Feria Te Deum
 
 [Lectio1]
 Lesson from the second letter of St. John the Apostle
-!2 Joann 1:1-5
+!2 John 1:1-5
 1 The ancient to the lady Elect, and her children, whom I love in the truth, and not I only, but also all they that have known the truth,
 2 For the sake of the truth which dwelleth in us, and shall be with us for ever.
 3 Grace be with you, mercy, and peace from God the Father, and from Christ Jesus the Son of the Father; in truth and charity.
@@ -23,7 +23,7 @@ Lesson from the second letter of St. John the Apostle
 @Tempora/Pasc5-4:Responsory1
 
 [Lectio2]
-!2 Joann 1:6-9
+!2 John 1:6-9
 6 And this is charity, that we walk according to his commandments. For this is the commandment, that, as you have heard from the beginning, you should walk in the same:
 7 For many seducers are gone out into the world, who confess not that Jesus Christ is come in the flesh: this is a seducer and an antichrist.
 8 Look to yourselves, that you lose not the things which you have wrought: but that you may receive a full reward.
@@ -33,7 +33,7 @@ Lesson from the second letter of St. John the Apostle
 @Tempora/Pasc5-4:Responsory2
 
 [Lectio3]
-!2 Joann 1:10-13
+!2 John 1:10-13
 10 If any man come to you, and bring not this doctrine, receive him not into the house nor say to him, God speed you.
 11 For he that saith unto him, God speed you, communicateth with his wicked works.
 12 Having more things to write unto you, I would not by paper and ink: for I hope that I shall be with you, and speak face to face: that your joy may be full.

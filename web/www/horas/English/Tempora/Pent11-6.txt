@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the second book of Kings
-!2 Reg 24:18-20; 25:1-3
+!2 Kgs 24:18-20; 25:1-3
 18 Sedecias was one and twenty years old when he began to reign, and he reigned eleven years in Jerusalem: the name of his mother was Amital, the daughter of Jeremias of Lobna.
 19 And he did evil before the Lord, according to all that Joakim had done.
 20 For the Lord was angry against Jerusalem and against Juda, till he cast them out from his face: and Sedecias revolted from the king of Babylon.
@@ -18,7 +18,7 @@ Lesson from the second book of Kings
 @Tempora/Pent01-3:Responsory1
 
 [Lectio2]
-!2 Reg 25:4-7
+!2 Kgs 25:4-7
 4 And a breach was made into the city: and all the men of war fled in the night between the two walls by the king's garden, (now the Chaldees besieged the city round about,) and Sedecias fled by the way that leadeth to the plains of the wilderness.
 5 And the army of the Chaldees pursued after the king, and overtook him in the plains of Jericho: and all the warriors that were with him were scattered, and left him:
 6 So they took the king, and brought him to the king of Babylon to Reblatha, and he gave judgment upon him.
@@ -28,7 +28,7 @@ Lesson from the second book of Kings
 @Tempora/Pent01-3:Responsory2
 
 [Lectio3]
-!2 Reg 25:8-13
+!2 Kgs 25:8-13
 8 In the fifth month, the seventh day of the month, that is, the nineteenth year of the king of Babylon, came Nabuzardan commander of the army, a servant of the king of Babylon, into Jerusalem.
 9 And he burnt the house of the Lord, and the king's house, and the houses of Jerusalem, and every house he burnt with fire.
 10 And all the army of the Chaldees, which was with the commander of the troops, broke down the walls of Jerusalem round about.

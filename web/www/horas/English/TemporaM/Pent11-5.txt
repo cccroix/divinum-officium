@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the second book of Kings
-!2 Reg 24:8-11
+!2 Kgs 24:8-11
 8 Joachin was eighteen years old when he began to reign, a and he reigned three~
 months in Jerusalem: the name of his mother was Nohesta the daughter of Elnathan~
 of Jerusalem.
@@ -20,7 +20,7 @@ assault it.
 @TemporaM/Pent01-2:Responsory1
 
 [Lectio2]
-!2 Reg 24:12-14
+!2 Kgs 24:12-14
 12 And Joachin king of Juda went out to the king of Babylon, he and his mother,~
 and his servants, and his nobles, and his eunuchs: and the king of Babylon~
 received him in the eighth year of his reign.
@@ -37,7 +37,7 @@ land
 @TemporaM/Pent01-2:Responsory2
 
 [Lectio3]
-!2 Reg 24:15-17
+!2 Kgs 24:15-17
 15 And he carried away Joachin into Babylon, and the king's mother, and the~
 king's wives, and his eunuchs: and the judges of the land he carried into~
 captivity from Jerusalem into Babylon.

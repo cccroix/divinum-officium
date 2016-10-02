@@ -11,7 +11,7 @@ Antiphonas horas
 Doxology=Corp
 
 [Capitulum Vespera]
-!1 Joann 3:13-14
+!1. John 3:13-14
 v. Wonder not, brethren, if the world hate you. We know that we have passed from death to life, because we love the brethren. He that loveth not, abideth in death.
 $Deo gratias
 
@@ -108,7 +108,7 @@ And we that, from the first man, are born under the afflictions of this pilgrima
 &teDeum
 
 [Capitulum Laudes]
-!1 Joann 3:13-14
+!1 John 3:13-14
 v. Wonder not, brethren, if the world hate you. We know that we have passed from death to life, because we love the brethren. He that loveth not, abideth in death
 $Deo gratias
 
@@ -134,11 +134,11 @@ O God, Who under a wonderful Sacrament hast left unto us whereby to show forth t
 $Qui vivis
 
 [Lectio Prima]
-!1 Joann 3:18
+!1 John 3:18
 v. My little children, let us not love in word, neither in tongue, but in deed, and in truth.
 
 [Capitulum Tertia]
-!1 Joann 3:13-14
+!1 John 3:13-14
 v. Wonder not, brethren, if the world hate you. We know that we have passed from death to life, because we love the brethren. He that loveth not, abideth in death.
 $Deo gratias
 
@@ -154,7 +154,7 @@ V. He fed them with the finest of the wheat. Alleluia.
 R. And with honey out of the rock did He satisfy them. Alleluia.
 
 [Capitulum Sexta]
-!1 Joann 3:16
+!1 John 3:16
 v. Hereby perceive we the love of God, because He laid down His life for us and we ought to lay down our lives for the brethren.
 $Deo gratias
 
@@ -170,7 +170,7 @@ V. Thou bringest forth food out of the earth. Alleluia.
 R. And wine that maketh glad the heart of man. Alleluia
 
 [Capitulum Nona]
-!1 Joann 3:18
+!1 John 3:18
 v. My little children, let us not love in word, neither in tongue, but in deed, and in truth.
 $Deo gratias
 

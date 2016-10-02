@@ -16,7 +16,7 @@ $Per Dominum
 
 [Lectio1]
 Lesson from the first book of Kings
-!1 Reg 1:1-4
+!1 Kgs 1:1-4
 1 Now king David was old, and advanced in years: and when he was covered with clothes, he was not warm.
 2 His servants therefore said to him: Let us seek for our lord the king, a young virgin, and let her stand before the king, and cherish him, and sleep in his bosom, and warm our lord the king.
 3 So they sought a beautiful young woman in all the coasts of Israel, and they found Abisag a Sunamitess, and brought her to the king.
@@ -26,7 +26,7 @@ Lesson from the first book of Kings
 @Tempora/Pent01-1
 
 [Lectio2]
-!1 Reg 1:5-8
+!1 Kgs 1:5-8
 5 And Adonias the son of Haggith exalted himself, saying: I will be king. And he made himself chariots and horsemen, and fifty men to run before him.
 6 Neither did his father rebuke him at any time, saying: Why hast thou done this? And he also was very beautiful, the next in birth after Absalom.
 7 And he conferred with Joab the son of Sarvia, and with Abiathar the priest, who furthered Adonias's side.
@@ -36,7 +36,7 @@ Lesson from the first book of Kings
 @Tempora/Pent01-1
 
 [Lectio3]
-!1 Reg 1:11-15
+!1 Kgs 1:11-15
 11 And Nathan said to Bethsabee the mother of Solomon: Hast thou not heard that Adonias the son of Haggith reigneth, and our lord David knoweth it not?
 12 Now then come, take my counsel and save thy life, and the life of thy son Solomon.
 13 Go, and get thee in to king David, and say to him: Didst not thou, my lord O king, swear to me thy handmaid, saying: Solomon thy son shall reign after me, and he shall sit on my throne? why then doth Adonias reign?

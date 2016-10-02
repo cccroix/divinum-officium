@@ -7,7 +7,7 @@ Feria Te Deum
 
 [Lectio1]
 From the first of blessed Apostle John
-!1 Joann 4:1-6
+!1 John 4:1-6
 1 Dearly beloved, believe not every spirit, but try the spirits if they be of~
 God: because many false prophets are gone out into the world.
 2 By this is the spirit of God known. Every spirit which confesseth that Jesus~
@@ -25,7 +25,7 @@ us not. By this we know the spirit of truth, and the spirit of error.
 @TemporaM/Pasc5-4:Responsory1
 
 [Lectio2]
-!1 Joann 4:7-14
+!1 John 4:7-14
 7 Dearly beloved, let us love one another, for charity is of God. And every one~
 that loveth, is born of God, and knoweth God.
 8 He that loveth not, knoweth not God: for God is charity.
@@ -45,7 +45,7 @@ Saviour of the world.
 @TemporaM/Pasc5-4:Responsory2
 
 [Lectio3]
-!1 Joann 4:15-21
+!1 John 4:15-21
 15 Whosoever shall confess that Jesus is the Son of God, God abideth in him, and~
 he in God.
 16 And we have known, and have believed the charity, which God hath to us. God~

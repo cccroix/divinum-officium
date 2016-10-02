@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the second book of Kings
-!2 Reg 4:1-4
+!2 Kgs 4:1-4
 1 Now a certain woman of the wives of the prophets cried to Eliseus, saying: thy~
 servant my husband is dead, and thou knowest that thy servant was one that~
 feared God, and behold the creditor is come to take away my two sons to serve~
@@ -22,7 +22,7 @@ thereof into all those vessels: and when they are full take them away
 @TemporaM/Pent01-3:Responsory1
 
 [Lectio2]
-!2 Reg 4:5-10
+!2 Kgs 4:5-10
 5 So the woman went, and shut the door upon her, and upon her sons: they brought~
 her the vessels, and she poured in.
 6 And when the vessels were full, she said to her son: Bring me yet a vessel.~
@@ -42,7 +42,7 @@ may abide there.
 @TemporaM/Pent01-3:Responsory2
 
 [Lectio3]
-!2 Reg 4:11-17
+!2 Kgs 4:11-17
 11 Now there was a certain day when he came and turned in to the chamber, and~
 rested there.
 12 And he said to Giezi his servant Call this Sunamitess. And when he had called~

@@ -12,7 +12,7 @@ Feria Te Deum
 
 [Lectio1]
 Lesson from the first letter of St. John the Apostle
-!1 Joann 3:1-6
+!1 John 3:1-6
 1 Behold what manner of charity the Father hath bestowed upon us, that we should be called, and should be the sons of God. Therefore the world knoweth not us, because it knew not him.
 2 Dearly beloved, we are now the sons of God; and it hath not yet appeared what we shall be. We know, that, when he shall appear, we shall be like to him: because we shall see him as he is.
 3 And every one that hath this hope in him, sanctifieth himself, as he also is holy.
@@ -36,7 +36,7 @@ Lesson from the first letter of St. John the Apostle
 @Tempora/Pasc5-4:Responsory2
 
 [Lectio3]
-!1 Joann 3:13-18
+!1 John 3:13-18
 13 Wonder not, brethren, if the world hate you.
 14 We know that we have passed from death to life, because we love the brethren. He that loveth not, abideth in death.
 15 Whosoever hateth his brother is a murderer. And you know that no murderer hath eternal life abiding in himself.

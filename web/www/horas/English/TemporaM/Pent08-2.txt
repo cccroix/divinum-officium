@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the first book of Kings
-!1 Reg 11:1-4
+!1 Kgs 11:1-4
  And king Solomon loved many strange women besides the daughter of Pharao, and~
 women of Moab, and of Ammon, and of Edom, and of Sidon, and of the Hethites:
 2 Of the nations concerning which the Lord said to the children of Israel: You~
@@ -23,7 +23,7 @@ David his father.
 @TemporaM/Pent01-2:Responsory1
 
 [Lectio2]
-!1 Reg 11:5-8
+!1 Kgs 11:5-8
 5 But Solomon worshipped Astarthe the goddess of the Sidonians, and Moloch the~
 idol of the ammonites.
 6 And Solomon did that which was net pleasing before the Lord, and did not fully~
@@ -37,7 +37,7 @@ incense, and offered sacrifice to their gods.
 @TemporaM/Pent01-2:Responsory2
 
 [Lectio3]
-!1 Reg 11:9-12
+!1 Kgs 11:9-12
 9 And the Lord was angry with Solomon, because his mind was turned away from the~
 Lord the God of Israel, who had appeared to him twice,
 10 And had commanded him concerning this thing, that he should not follow~

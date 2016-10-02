@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the first book of Kings
-!1 Reg 12:1-5
+!1 Kgs 12:1-5
 1 And Roboam went to Sichem: for thither were all Israel come together to make~
 him king.
 2 But Jeroboam the son of Nabat, who was yet in Egypt, a fugitive from the face~
@@ -22,7 +22,7 @@ he put upon us, and we will serve thee.
 @TemporaM/Pent01-1:Responsory1
 
 [Lectio2]
-!1 Reg 12:5-8
+!1 Kgs 12:5-8
 5 And when the people was gone,
 6 King Roboam took counsel with the old men, that stood before Solomon his~
 father while he yet lived, and he said: What counsel do you give me, that I may~
@@ -38,7 +38,7 @@ before him.
 @TemporaM/Pent01-1:Responsory2
 
 [Lectio3]
-!1 Reg 12:13-16
+!1 Kgs 12:13-16
 13 And the king answered the people roughly, leaving the counsel of the old men,~
 which they had given him,
 14 And he spoke to them according to the counsel of the young men, saying: My~

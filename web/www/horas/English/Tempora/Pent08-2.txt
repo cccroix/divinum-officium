@@ -6,7 +6,7 @@ Oratio Dominica
 
 [Lectio1]
 Lesson from the first book of Kings
-!1 Reg 11:1-4
+!1 Kgs 11:1-4
  And king Solomon loved many strange women besides the daughter of Pharao, and women of Moab, and of Ammon, and of Edom, and of Sidon, and of the Hethites:
 2 Of the nations concerning which the Lord said to the children of Israel: You shall not go in unto them, neither shall any of them come in to yours: for they will most certainly turn away your heart to follow their gods. And to these was Solomon joined with a most ardent love.
 3 And he had seven hundred wives as queens, and three hundred concubines: and the women turned away his heart.
@@ -16,7 +16,7 @@ Lesson from the first book of Kings
 @Tempora/Pent03-2Feria:Responsory1
 
 [Lectio2]
-!1 Reg 11:5-8
+!1 Kgs 11:5-8
 5 But Solomon worshipped Astarthe the goddess of the Sidonians, and Moloch the idol of the ammonites.
 6 And Solomon did that which was not pleasing before the Lord, and did not fully follow the Lord, as David his father.
 7 Then Solomon built a temple for Chamos the idol of Moab, on the hill that is over against Jerusalem, and for Moloch the idol of the children of Ammon.
@@ -26,7 +26,7 @@ Lesson from the first book of Kings
 @Tempora/Pent03-2Feria:Responsory2
 
 [Lectio3]
-!1 Reg 11:9-12
+!1 Kgs 11:9-12
 9 And the Lord was angry with Solomon, because his mind was turned away from the Lord the God of Israel, who had appeared to him twice,
 10 And had commanded him concerning this thing, that he should not follow strange gods: but he kept not the things which the Lord commanded him.
 11 The Lord therefore said to Solomon: Because thou hast done this, and hast not kept my covenant, and my precepts, which I have commanded thee, I will divide and rend thy kingdom, and will give it to thy servant.
