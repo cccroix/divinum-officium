@@ -20,17 +20,15 @@ $Per Dominum
 
 [Commemoratio Oratio]
 !Pro S. Felicis Mart.
-Concéde, quaesumus, omnípotens Deus: ut ad meliórem vitam Sanctórum tuórum~
-exémpla nos próvocent; quaténus, quorum sollémnia ágimus, étiam actus imitémur.
+Accordez, nous vous le demandons, Dieu toutâ€‘puissant, que les exemples de vos saints nous entraÃ®nent Ã  une vie meilleureÂ ; en sorte que, cÃ©lÃ©brant leur mÃ©moire, nous imitions aussi leurs actions.
 $Per Dominum
 
 [Commemoratio Secreta]
 !Pro S. Felicis Mart.
-Hóstias tibi, Dómine, beáti Félicis Mártyris tui dicátas méritis, benígnus assúme: et ad perpétuum nobis tríbue proveníre subsídium.
+Dans votre bienveillance, Seigneur, acceptez les hosties qui vous sont dÃ©diÃ©es par les mÃ©rites du bienheureux FÃ©lix, votre martyrÂ ; et faites quâ€™elles nous viennent conÂ­tinuellement en aide. 
 $Per Dominum
 
 [Commemoratio Postcommunio]
 !Pro S. Felicis Mart.
-Quaesumus. Dómine, salutáribus repléti mystériis: ut, beáti Félicis Mártyris tui,~
-cujus sollémnia celebrámus, oratiónibus adjuvémur.
+ComblÃ©s par les mystÃ¨res duâ€¯salut, nous vous demandons, Seigneur, dâ€™Ãªtre aidÃ©s par les priÃ¨res du bienheureux FÃ©lix, votre martyr, dont nous cÃ©lÃ©brons la solennitÃ©.
 $Per Dominum
