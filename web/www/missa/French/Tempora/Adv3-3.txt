@@ -1,0 +1,76 @@
+[Rank]
+Feria IV Quattuor Temporum in Adventu;;Feria major;;2
+
+[Rank1960]
+Feria IV Quattuor Temporum Adventus;;Feria major;;3
+
+[RankNewcal]
+Feria IV infra Hebdomadam III Adventus;;Feria major;;2
+
+[Rule]
+Oratio Dominica
+no Gloria
+no Credo
+LectioL1
+Suffr=Maria1;Ecclesiae,Papa;;
+
+[Introitus]
+!Is 45:8.
+v. Cieux, répandez d’en haut votre rosée, et que les nuées fassent pleuvoir le Juste ; que la terre s’ouvre et produise le Sauveur.
+!Ps 18:2.
+Les cieux racontent la gloire de Dieu, et le ﬁrmament annonce l’œuvre de ses mains.
+&Gloria
+v. Cieux, répandez d’en haut votre rosée, et que les nuées fassent pleuvoir le Juste ; que la terre s’ouvre et produise le Sauveur.
+
+[Oratio]
+Dieu tout-puissant, nous vous le demandons : que la prochaine solennité de notre rédemption nous apporte des secours pour la vie présente et nous procure les récompenses de l’éternelle béatitude.
+$Per Dominum
+
+[LectioL1]
+Première lecture du prophète Isaïe.
+!Is 2:2-5.
+En ces jours-là, Isaïe le prophète dit : « Il arrivera, à la ﬁn des temps, que la montagne de la maison du Seigneur sera fondée sur le sommet des montagnes, qu’elle s’élèvera par-­dessus les collines et que toutes les nations y aﬄueront.
+Des peuples nombreux y viendront et diront : “Venez et montons à la montagne du Seigneur et à la maison du Dieu de Jacob, aﬁn qu’il nous enseigne ses voies et que nous marchions dans ses sentiers. Car la loi sortira de Sion et la parole du Seigneur de Jérusalem. Il sera le juge des nations, l’arbitre d’un grand nombre de peuples ; ils forgeront leurs épées en socs de charrue et leurs lances en faucilles. Une nation ne tirera plus l’épée contre une autre et l’on n’apprendra plus à faire la guerre. Maison de Jacob, venez et marchons à la lumière du Seigneur notre Dieu.” »
+$Deo Gratias
+
+[GradualeL1]
+!Ps 23:7; 23:3; 23:4
+v. Relevez vos portes, ô princes ; élevez-vous, portes éternelles, et le Roi de gloire fera son entrée.
+V. Qui montera sur la montagne du Seigneur ? Ou qui se tiendra dans son lieu saint ? Celui qui a les mains innocentes et le cœur pur.
+
+[OratioL1]
+Hâtez-vous, nous vous en prions, Seigneur, ne tardez pas : et accordez-nous le secours de votre céleste puissance, aﬁn que ceux qui se conﬁent en votre bonté soient soutenus par les consolations de votre avènement :
+$Qui vivis
+
+[Lectio]
+Seconde lecture du prophète Isaïe.
+!Is 7:10-15
+En ces jours-là, le Seigneur parla à Achaz et lui dit : « Demande en ta faveur un signe au Seigneur ton Dieu ; demande-le soit dans le plus bas lieu, soit dans le plus haut. » Achaz répondit : « Je ne demanderai rien, je ne tenterai pas le Seigneur. »~
+Et Isaïe dit : « Écoutez donc, maison de David : est-ce trop peu pour vous de lasser la patience des hommes, que vous lassiez en­core celle de mon Dieu ? C’est pourquoi le Seigneur lui-même vous donnera un signe. Voici que la Vierge concevra et elle enfantera un ﬁls, et il sera nommé Emmanuel. Il mangera de la crème et du miel jusqu’à ce qu’il sache rejeter le mal et choisir le bien. »
+
+[Graduale]
+!Ps 144:18; 144:21
+Le Seigneur est proche de tous ceux qui l’invoquent, de tous ceux qui l’invoquent en vérité.
+V. Ma bouche publiera la louange du Seigneur : que toute chair bénisse son saint nom.
+
+[Evangelium]
+Évangile ++ selon saint Luc.
+!Luc 1:26-38
+En ce temps-là, l’ange Gabriel fut envoyé par Dieu dans une ville de Galilée, appelée Nazareth, aurpès d’une vierge fiancée à un homme de la maison de David, appelé Joseph. Et le nom de la vierge était Marie.~
+L’ange entra chez elle, et dit : « Je vous salue, pleine de grâce, le Seigneur est avec vous ; vous êtes bénie entre les femmes. » L’ayant entendu, elle fut troublée par ses paroles, et elle se demandait ce que pouvait signifier cette salutation. L’ange lui dit : « Ne craignez point, Marie, car vous avez trouvé grâce devant Dieu ; voici que vous concevrez en votre sein et vous enfanterez un fils, et vous lui donnerez le nom de Jésus. Il sera grand, et sera appelé Fils du Très-Haut ; le Seigneur Dieu lui donnera le trône de David, son père. Il régnera sur la maison de Jacob éternellement, et son règne n’aura point de fin. » Marie dit alors à l’ange : « Comment cela se fera-t-il, puisque je ne connais point d’homme ? » L’ange lui répondit : « L’Esprit Saint surviendra en vous, et la puissance du Très-Haut vous couvrira de son ombre. C’est pourquoi l’Être Saint qui naîtra de vous sera appelé le Fils de Dieu. Et voilà qu’Élisabeth, votre parente, a conçu elle aussi un fils dans sa vieillesse ; et ce mois est le sixième de celle qui est appelée stérile ; car il n’y a rien d’impossible à Dieu. » Marie dit alors : « Voici la servante du Seigneur, qu’il me soit fait selon votre parole. »
+
+[Offertorium]
+!Is 35:4.
+Prenez courage et désormais ne craignez plus, car voici notre Dieu qui apportera le jugement ; il viendra lui-même et nous sauvera.
+
+[Secreta]
+Acceptez, Seigneur, nous vous en prions, nos jeûnes ; qu’en expiant nos fautes, ils nous rendent dignes de votre grâce et nous conduisent aux biens éternels promis.
+$Per Dominum
+
+[Communio]
+!Is 7:14
+Voici qu’une vierge concevra et enfantera un ﬁls, et il sera nommé Emmanuel.
+
+[Postcommunio]
+Rassasiés par le don de vo­tre salut, nous vous suppli­ons avec instance, Seigneur : qu’après avoir eu la joie d’y goûter, nous soy­ons vraiment renouvelés.
+$Per Dominum

@@ -1,0 +1,63 @@
+[Rank]
+Dominica II Adventus;;Semiduplex;;5.6
+
+[Rank1960]
+Dominica II Adventus;;Semiduplex;;6
+
+[Rule]
+no Gloria
+Credo
+Suffr=Maria1;Ecclesiae,Papa;;
+
+[Introitus]
+!Is 30:30.
+v. Peuple de Sion, voici que le Seigneur va venir pour sauver les nations ; et le Seigneur fera entendre sa voix majestueuse pour la joie de votre cœur.
+!Ps 79:2
+Écoutez-nous, vous qui gouvernez Israël, vous qui conduisez Joseph comme une brebis.
+&Gloria
+v. Peuple de Sion, voici que le Seigneur va venir pour sauver les nations ; et le Seigneur fera entendre sa voix majestueuse pour la joie de votre cœur.
+
+[Oratio]
+Seigneur, excitez nos cœurs à préparer les voies de votre Fils unique ; aﬁn que, par son avène­ment, nous méritions de vous servir avec une âme puriﬁée.
+$Qui tecum
+
+[Lectio]
+Épître de saint Paul aux Romains
+!Rom 15:4-13.
+Mes frères, tout ce qui a été écrit l’a été pour notre instruction, aﬁn que, par la patience et la consolation que les Écritures nous donnent, nous ayons l’espérance. Que le Dieu de patience et de consolation vous donne d’avoir les uns envers les autres des sentiments conformes à l’esprit de Jésus-Christ, aﬁn que d’un même cœur et d’une même bouche, vous rendiez gloire à Dieu, le Père de notre Seigneur Jésus-Christ.~
+C’est pourquoi accueillez-vous les uns les autres, comme Jésus-Christ vous a accueillis pour la gloire de Dieu. Car je vous déclare que le Christ Jésus a été le ministre de l’Évangile à l’égard des Juifs circoncis, à cause de la vérité de Dieu, pour conﬁrmer ses promesses faites aux patriarches. Quant aux gentils, qu’ils gloriﬁent Dieu pour sa miséricorde, selon qu’il est écrit : C’est pourquoi, Seigneur, je publierai vos louanges parmi les nations et je chanterai des cantiques à la gloire de votre nom. Et encore : Nations, réjouissez-vous avec son peuple. Ailleurs encore : Louez le Seigneur, toutes les nations ; célébrez sa grandeur, tous les peuples ! Isaïe dit aussi : Il paraîtra, le rejeton de Jessé, et il se lèvera pour régir les nations ; en lui les nations mettront leur espérance. Que le Dieu de l’espérance vous remplisse de toute joie et de toute paix dans la foi, aﬁn que, par la vertu de l’Esprit Saint, vous abondiez en espérance.
+
+[Graduale]
+!Ps 49:2-3; 49:5
+C’est de Sion que va briller l’éclat de sa splendeur, Dieu paraîtra au grand jour.
+V. Rassemblez autour de lui ses saints, qui ont placé son témoignage au-dessus des sacriﬁces. Alléluia, alléluia,
+!Ps 121:1
+V. Je me suis réjoui quand on m’a dit : nous irons dans la maison du Seigneur.. Alléluia.
+
+[GradualeF]
+!Ps 49:2-3; 49:5
+C’est de Sion que va briller l’éclat de sa splendeur, Dieu paraîtra au grand jour.
+V. Rassemblez autour de lui ses saints, qui ont placé son témoignage au-dessus des sacriﬁces.
+
+[Evangelium]
+Évangile ++ selon saint Matthieu.
+!Matt 11:2-10
+En ce temps-là, Jean, ayant appris en prison les œuvres du Christ, envoya deux de ses disciples pour lui dire : « Es-tu celui qui doit venir ou devons-nous en attendre un autre ? » Jésus leur répondit : « Allez rapporter à Jean ce que vous avez vu et entendu : les aveugles voient, les boiteux marchent, les lépreux sont puriﬁés, les sourds entendent, les morts ressuscitent, l’Évangile est annoncé aux pauvres. Et heureux celui pour qui je ne serai point un sujet de scandale. »
+Comme les envoyés s’en retournaient, Jésus se mit à parler de Jean aux foules : « Qu’êtes-vous allés voir au désert ? Un roseau agité par le vent ? Mais qu’êtes-vous donc allés voir ? Un homme vêtu d’habits délicats ? Mais ceux qui portent des habits délicats sont dans les demeures des rois. Qu’êtes-vous donc allés voir ? Un prophète ? Oui, je vous le dis, et plus qu’un prophète. Car c’est de lui qu’il a été écrit : Voici que j’envoie mon messager devant ta face, lui qui préparera ta voie devant toi. »
+
+[Offertorium]
+
+!Ps 84:7-8 
+Ô Dieu, vous vous tournerez vers nous, et vous nous donnerez la vie, et votre peuple se réjouira en vous. Seigneur, montrez-nous votre miséricorde et accordez-nous votre salut.
+
+[Secreta]
+Laissez-vous apaiser, Seigneur, par les prières de notre humilité, jointes à ces oblations ; et puisque nous n’avons aucun mérite qui puisse plaider pour nous, veuillez nous assister de votre secours.
+$Per Dominum
+
+[Communio]
+!Bar 5:5; 4:36
+Jérusalem, lève-toi et tiens-toi sur la hauteur, et vois la joie qui te viendra de ton Dieu.
+
+[Postcommunio]
+Rassasiés par une nourriture spirituelle, nous vous supplions, Seigneur, de nous ap­pren­dre, par la participation à ce mystère, à mépriser les choses de cette terre et à aimer celles du ciel.
+$Per Dominum

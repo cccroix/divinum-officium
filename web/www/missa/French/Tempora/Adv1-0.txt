@@ -1,0 +1,59 @@
+[Rank]
+Dominica I Adventus;;Semiduplex;;6
+
+[Rule]
+no Gloria
+Credo
+Suffr=Maria1;Ecclesiae,Papa;;
+
+[Introitus]
+!Ps 24:1-3.
+v. Vers vous j’ai élevé mon âme, mon Dieu, en vous j’ai mis ma conﬁance, je n’aurai pas à en rougir. Que mes ennemis ne se rient pas de moi, car aucun de ceux qui vous attendent ne sera confondu. 
+!Ps 24:4
+Seigneur, montrez-moi vos voies, et enseignez-moi vos sentiers.
+&Gloria
+v. Vers vous j’ai élevé mon âme, mon Dieu, en vous j’ai mis ma conﬁance, je n’aurai pas à en rougir. Que mes ennemis ne se rient pas de moi, car aucun de ceux qui vous attendent ne sera confondu. 
+
+[Oratio]
+Réveillez, Seigneur, votre puissance et venez ; aﬁn que nous méritions d’être arrachés, par votre protection, aux périls imminents où nous mettent nos péchés, et d’en être sauvés par votre action libératrice.
+$Qui vivis
+
+[Lectio]
+Épître de saint Paul aux Romains
+!Rom 13:11-14.
+Mes frères, sachez que  l’heure est venue de sortir de notre sommeil. À présent le salut est bien plus proche de nous que lorsque nous avons embrassé la foi. La nuit est avancée, le jour est proche. Dépouillons-nous donc des œuvres des ténèbres et revêtons les armes de la lumière. Conduisons-nous honnêtement, comme en plein jour, ne nous laissant point aller aux excès de table et de boisson, ni à la luxure et à l’impudicité, ni aux querelles et aux jalousies : mais revêtez-vous du Seigneur Jésus-Christ.
+
+[Graduale]
+!Ps 24:3; 24:4
+Tous ceux qui vous attendent, Seigneur, ne seront point confondus. 
+V. Faites-moi connaître vos chemins, et enseignez-moi vos sentiers. Alléluia, alléluia,
+!Ps 84:8.
+V. Montrez-nous, Seigneur, votre miséricorde et donnez-nous le Sauveur que vous nous destinez.~
+Alléluia.
+
+[GradualeF]
+!Ps 24:3; 24:4
+Tous ceux qui vous attendent, Seigneur, ne seront point confondus. 
+V. Faites-moi connaître vos chemins, et enseignez-moi vos sentiers.
+
+[Evangelium]
+Évangile ++ selon saint Luc
+!Luc 21:25-33.
+En ce temps-là, Jésus dit à ses disciples : « Il y aura des signes dans le soleil et dans la lune et dans les étoiles : et sur la terre, les peuples seront dans la consternation, épouvantés du bruit que feront la mer et les ﬂots. Les hommes sécheront de frayeur dans l’attente de ce qui doit arriver au monde entier, car les vertus des cieux seront ébranlées. Alors on verra le Fils de l’homme venant sur une nuée, avec une grande puissance et majesté. Pour vous, lorsque ces choses commenceront d’arriver, regardez en haut et levez la tête ; car votre rédemption approche. »~
+Et il leur ﬁt cette comparaison : « Voyez le ﬁguier et tous les arbres ; lorsqu’ils commencent à pousser, vous connaissez que l’été est proche. De même, lorsque vous verrez ces choses arriver, sachez que le royaume de Dieu est proche. En vérité, je vous le dis : cette génération ne passera point que toutes ces choses n’arrivent. Le ciel et la terre passeront, mais mes paroles ne passeront point. »
+
+[Offertorium]
+!Ps 24:1-3.
+Vers vous j’ai élevé mon âme, mon Dieu, en vous j’ai mis ma conﬁance, je n’aurai pas à en rougir. Que mes ennemis ne se rient pas de moi, car aucun de ceux qui vous attendent ne sera confondu.
+
+[Secreta]
+Que ces dons sacrés, Seigneur, après nous avoir puriﬁés par leur vertu puissan­te, nous fassent parvenir plus purs à leur principe.
+$Per Dominum
+
+[Communio]
+!Ps 84:13.
+Le Seigneur répandra sur nous ses bienfaits et notre terre donnera son fruit.
+
+[Postcommunio]
+Puissions-nous recevoir, Seigneur, au milieu de votre temple, le don de votre miséricorde ; aﬁn que nous préludions par de dignes hommages aux solennités prochaines de notre rédemption.
+$Per Dominum

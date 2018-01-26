@@ -1,0 +1,60 @@
+[Rank]
+Dominica III Adventus;;Semiduplex;;5.6
+
+[Rank]
+Dominica III Adventus;;Semiduplex;;6
+
+[Rule]
+no Gloria
+Credo
+Suffr=Maria1;Ecclesiae,Papa;;
+
+[Introitus]
+!Phil 4:4-6
+v. Réjouissez-vous dans le Seigneur toujours ; oui, je vous le répète, réjouissez-vous. Que votre modestie soit con­nue de tous les hommes : le Seigneur est proche. Ne vous inquiétez de rien, mais dans toutes vos prières, faites connaî­tre à Dieu vos besoins.
+!Ps 84:2
+Vous avez béni, Seigneur, votre terre ; vous avez ramené les captifs de Jacob.
+&Gloria
+v. Réjouissez-vous dans le Seigneur toujours ; oui, je vous le répète, réjouissez-vous. Que votre modestie soit con­nue de tous les hommes : le Seigneur est proche. Ne vous inquiétez de rien, mais dans toutes vos prières, faites connaî­tre à Dieu vos besoins.
+
+[Oratio]
+Prêtez l’oreille, Seigneur, à nos prières, et éclairez les ténèbres de notre âme par la grâce de votre visite :
+$Qui vivis
+
+[Lectio]
+Épître de saint Paul aux Philippiens
+!Philipp 4:4-7 
+Mes frères, réjouissez-vous  dans le Seigneur toujours ; oui, je vous le répète, réjouissez-vous. Que votre mo­destie soit connue de tous les hommes : le Seigneur est pro­che. Ne vous inquiétez de rien, mais dans toutes vos prières et supplications, avec des actions de grâces, faites connaître à Dieu vos besoins. Et que la paix de Dieu, qui surpasse toute intelligence, garde vos cœurs et vos pensées dans le Christ Jésus notre Seigneur.
+
+[Graduale]
+!Ps 79:2; 79:3; 79:2
+Vous qui trônez sur les Chérubins, réveillez votre puissance, Seigneur, et venez.
+V. Écoutez-nous, vous qui gouvernez Israël, vous qui conduisez Joseph comme une brebis. Alléluia, alléluia.
+V. Seigneur, réveillez votre puissance, et venez nous sauver. Alléluia.
+
+[GradualeF]
+!Ps 79:2; 79:3; 79:2
+Vous qui trônez sur les Chérubins, réveillez votre puissance, Seigneur, et venez.
+V. Écoutez-nous, vous qui gouvernez Israël, vous qui conduisez Joseph comme une brebis.
+
+[Evangelium]
+Évangile ++ selon saint Jean
+!Joann l:19-28
+En ce temps-là, les Juifs envoyèrent de Jérusalem des prêtres et des lévites vers Jean, pour lui demander : « Qui es-tu ? » Il déclara, et ne nia pas ; il déclara : « Je ne suis pas le Christ. » Ils lui demandèrent : « Quoi donc ? Es-tu Élie ? » Il dit : « Je ne le suis pas. » « Es-tu le Prophète ? » Et il répondit : « Non. » Ils lui dirent donc : « Qui es-tu ? aﬁn que nous donnions une réponse à ceux qui nous ont envoyés. Que dis-tu de toi-même ? » Il leur dit : « Je suis la voix de celui qui crie dans le désert : Redressez la voie du Seigneur, comme l’a dit le prophète Isaïe. »
+Or les envoyés étaient des Pharisiens. Et ils l’interrogèrent et lui dirent : « Pourquoi donc baptises-tu, si tu n’es ni le Christ, ni Élie, ni le Prophète ? » Jean leur répondit : « Moi, je baptise dans l’eau ; mais au milieu de vous se tient quelqu’un que vous ne connaissez pas. C’est celui qui vient après moi, qui était avant moi, et je ne suis pas digne de délier la courroie de sa sandale. »
+
+[Offertorium]
+!Ps 84:2
+Vous avez béni, Seigneur, votre terre ; vous avez ramené les captifs de Jacob ; vous avez pardonné l’iniquité de votre peuple.
+
+[Secreta]
+Que sans cesse, Seigneur, notre dévotion vous immole cette hostie, aﬁn qu’elle réalise les rites du mystère sacré, et opère admirablement en nous votre œuvre de salut.
+$Per Dominum
+
+[Communio]
+!Is 35:4.
+Dites à ceux qui ont le cœur abattu : Prenez courage et ne craignez pas ; voici venir notre Dieu et il nous sauvera.
+
+[Postcommunio]
+Nous implorons, Seigneur, votre clémence ; aﬁn que de tels secours divins nous préparent, en nous puriﬁant de nos péchés, aux fêtes qui approchent.
+$Per Dominum

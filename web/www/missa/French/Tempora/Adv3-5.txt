@@ -1,0 +1,58 @@
+[Rank]
+Feria VI Quattuor Temporum in Adventu;;Feria major;;2
+
+[Rank1960]
+Feria VI Quattuor Temporum Adventus;;Feria major;;3
+
+[RankNewcal]
+Feria VI infra Hebdomadam III Adventus;;Feria major;;2
+
+[Rule]
+Oratio Dominica
+no Gloria
+no Credo
+Suffr=Maria1;Ecclesiae,Papa;;
+
+[Introitus]
+!Ps 118:151-152
+v. Vous êtes proche, Seigneur, et tous vos commandements sont vérité : dès le commencement j’ai su par vos enseignements que vous existez depuis toujours.
+!Ps 118:1
+Heureux ceux qui sont irréprochables dans leur voie, qui marchent selon la loi du Seigneur.
+&Gloria
+v. Vous êtes proche, Seigneur, et tous vos commandements sont vérité : dès le commencement j’ai su par vos enseignements que vous existez depuis toujours.
+
+[Oratio]
+Réveillez votre puissance, nous vous le demandons, Seigneur, et venez ; aﬁn que ceux qui se conﬁent en votre bonté soient délivrés au plus tôt de toute adversité.
+$Qui vivis
+
+[Lectio]
+Lecture du prophète Isaïe.
+!Is 11:1-5
+Voici ce que dit le Seigneur Dieu : « Un rameau sortira du tronc de Jessé et une fleur montera de sa racine. L’esprit du Seigneur reposera sur lui : esprit de sagesse et d’intelligence, esprit de conseil et de force, esprit de science et de piété. Il sera rempli de l’esprit de crainte du Seigneur. Il ne jugera pas sur l’apparence ni ne prononcera sur un ouï-dire. Mais il jugera les pauvres avec justice et fera droit avec équité aux humbles de la terre. Il frappera la terre de sa parole comme d’une verge et du souﬄe de ses lèvres il fera mourir le méchant. La justice sera la ceinture de ses flancs et la ﬁdélité sera le ceinturon de ses reins. »
+
+[Graduale]
+!Ps 84:8; 84:2
+Montrez-nous, Seigneur, votre miséricorde, et donnez-nous votre salut. 
+V. Vous avez béni, Seigneur, votre terre ; vous avez délivré Jacob de la captivité.
+
+[Evangelium]
+Évangile ++ selon saint Luc.
+!Luc 1:39-47
+En ce temps-là, Marie se leva, et alla en hâte vers la montagne, dans une ville de Juda. Elle entra dans la maison de Zacharie, et salua Élisabeth. Or, dès qu’Élisabeth entendit la salutation de Marie, son enfant tressaillit dans son sein et elle fut remplie du Saint-Esprit. Elle s’écria d’une voix forte : « Tu es bénie entre les femmes et le fruit de tes entrailles est béni. D’où me vient que la mère de mon Seigneur vienne à moi ? Car voici, aussitôt que la voix de ta salutation a frappé mon oreille, l’enfant a tressailli d’allégresse dans mon sein. Heureuse, toi qui as cru, parce que les choses qui t’ont été dites de la part du Seigneur s’accompliront. » Et Marie dit : « Mon âme exalte le Seigneur et mon esprit se réjouit en Dieu, mon Sauveur. »
+
+[Offertorium]
+!Ps 84:7-8
+Ô Dieu, vous vous tournerez vers nous, et vous nous donnerez la vie, et votre peuple se réjouira en vous. Montrez-nous, Seigneur, votre miséricor­de, et donnez-nous votre salut.
+
+[Secreta]
+Nous vous en prions, Seigneur : après avoir reçu nos dons et nos prières, puriﬁez-nous par ces mystères célestes, et dans votre clémence exaucez-nous.
+$Per Dominum
+
+[Communio]
+!Zach 14:5
+Voici que le Seigneur viendra et tous ses saints avec lui, et il y aura en ce jour-là une grande lumière.
+
+[Postcommunio]
+Seigneur, que l’offrande sainte de votre sacrement nous renouvelle ; et qu’il nous fasse entrer, puriﬁés de ce qui est vieux, dans la communion au mystère du salut.
+$Per Dominum
+

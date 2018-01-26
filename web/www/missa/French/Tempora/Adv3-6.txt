@@ -1,0 +1,138 @@
+[Rank]
+Sabbato Quattuor Temporum in Adventu;;Feria major;;2
+
+[Rank] (rubrica 1960)
+Sabbato Quattuor Temporum Adventus;;Feria major;;3
+
+[Rank] (rubrica innovata)
+Sabbato infra Hebdomadam III Adventus;;Feria major;;2
+
+[Rule]
+Oratio Dominica
+no Gloria
+no Credo
+(rubrica 1960 et missa brevior) LectioL1
+(rubrica 1960) celebranda aut forma longior aut forma brevior
+LectioL5
+Suffr=Maria1;Ecclesiae,Papa;;
+
+[Introitus]
+!Ps 79:4; 79:2
+v. Venez et montrez-nous votre face, Seigneur, vous qui trô­nez sur les Chérubins, et nous serons sauvés.
+!Ps 79:2
+Prêtez l’oreille, vous qui gouvernez Israël, qui conduisez Joseph comme une brebis.
+&Gloria
+v. Venez et montrez-nous votre face, Seigneur, vous qui trô­nez sur les Chérubins, et nous serons sauvés.
+
+[Oratio]
+Ô Dieu, qui voyez que notre  dépravation est cause de notre aﬄiction, accordez-nous, dans votre miséricorde, d’être consolés par votre visite.
+$Qui vivis
+
+[LectioL1]
+Première lecture du prophète Isaïe.
+!Isa 19:20-22
+En ces jours-là, ils crieront au Seigneur à cause des oppresseurs et il leur enverra un sauveur et un défenseur pour les délivrer. Et le Seigneur sera connu par l’Égypte, et les Égyptiens connaîtront le Seigneur. En ce jour-là, ils feront des sacriﬁces et des offrandes, ils feront des vœux au Seigneur et ils les accompliront. Et le Seigneur frappera l’Égypte de plaies et il la guérira. Ils se convertiront au Seigneur et il leur sera favorable, et le Seigneur notre Dieu les guérira.
+$Deo Gratias
+
+[GradualeL1]
+!Ps 18:7; 18:2
+Il part d’une extrémité du ciel et achève sa course à l’autre extrémité. 
+V. Les cieux racontent la gloire de Dieu, et le ﬁrmament annonce l’œuvre de ses mains.
+
+[OratioL1]
+Dieu tout-puissant, nous vous en prions : nous qui sommes abaissés par l’antique esclavage sous le joug du péché, que nous soyons délivrés par la nouvelle nativité tant attendue de votre Fils unique,
+$Qui tecum
+
+[LectioL2]
+Deuxième lecture du prophète Isaïe.
+!Isa 35:1-7
+Voici ce que dit le Seigneur : « Le désert et la terre aride se réjouiront ; la solitude sera dans la joie et fleurira comme un lis. Elle poussera et germera, elle tressaillira de joie et de louanges. La gloire du Liban lui sera donnée avec la magniﬁcence du Carmel et de Saron. Ils verront la gloire du Seigneur et la beauté de notre Dieu. Fortiﬁez les mains lâches et affermissez les genoux tremblants. Dites à ceux qui ont le cœur troublé : “Prenez courage, et ne craignez point ; car voici que votre Dieu amènera la vengeance de rétribution ; Dieu viendra lui-même et vous sauvera.”~
+« Alors s’ouvriront les yeux des aveugles et les oreilles des sourds. Alors le boiteux bondira comme un cerf et la langue des muets sera déliée, car des eaux jailliront dans le désert et des torrents dans la solitude. La terre aride se changera en étang et la terre desséchée en sources d’eaux, dit le Seigneur tout-puissant. »
+$Deo Gratias
+
+[GradualeL2]
+!Ps 18:6; 18:7
+Dans le soleil il a placé sa tente, cet astre est lui-même semblable à un époux sortant de sa chambre nuptiale. 
+V. Il part d’une extrémité du ciel et achève sa course à l’autre extrémité.
+
+[OratioL2]
+Nous, vos indignes serviteurs, qu’attriste la culpabilité de leurs propres actes, nous vous en prions, Seigneur : réjouissez-nous par la venue de votre Fils unique,
+$Qui tecum
+
+[LectioL3]
+Troisième lecture du prophète Isaïe.
+!Is 40:9-11
+Voici ce que dit le Seigneur : « Monte sur une haute montagne pour publier la bonne nouvelle à Sion : élève avec force ta voix pour publier la bonne nouvelle à Jérusalem. Élève ta voix, ne crains point. Dis aux villes de Juda : voici votre Dieu ; voici que le Seigneur Dieu viendra avec puissance et de son bras il commandera ; voici avec lui sa récompense et devant lui son salaire. Comme un berger, il paîtra son troupeau, il rassemblera les agneaux dans ses bras et les portera dans son sein, lui, le Seigneur notre Dieu. »
+$Deo Gratias
+
+[GradualeL3]
+!Ps 79:20; 79:3
+Seigneur, Dieu des armées, rétablissez-nous, montrez-nous votre face et nous serons sauvés. 
+V. Excitez, Seigneur, votre puissance, et venez pour nous sauver.
+
+[OratioL3]
+Faites, nous vous en supplions, Dieu tout-puissant, que la prochaine solennité de votre Fils nous procure les remèdes pour la vie présente, et nous obtienne les récompenses éternelles.
+$Per eundem
+
+[LectioL4]
+Quatrième lecture du prophète Isaïe.
+!Is 45:1-8.
+Ainsi parle le Seigneur à mon oint, à Cyrus, qu’il tient par la main, pour soumettre les nations devant lui, pour mettre les rois en fuite, aﬁn qu’on ouvre les portes devant lui et qu’elles ne soient plus fermées : « Je marcherai devant toi, j’humilierai les grands de la terre ; je romprai les portes d’airain et je briserai les verrous de fer. Et je te donnerai les trésors cachés et les richesses enfouies, aﬁn que tu saches que je suis le Seigneur qui t’appelle par ton nom, le Dieu d’Israël. Pour l’amour de Jacob, mon serviteur, et d’Israël, mon élu, je t’ai appelé par ton nom, je t’ai parlé avec bienveillance avant que tu me connusses. Je suis le Seigneur et il n’y en a pas d’autre ; hors moi il n’y a pas de Dieu ; je t’ai ceint avant que tu me connusses, aﬁn que l’on sache, du soleil levant au soleil couchant, que hors moi il n’y a pas de Dieu. Je suis le Seigneur et il n’y en a pas d’autre ; je forme la lumière et je crée les ténèbres, je donne la paix et crée l’adversité : c’est moi le Seigneur, qui fais toutes ces choses. Que les cieux répandent d’en haut la rosée et que les nuées fassent pleuvoir le Juste ; que la terre s’ouvre et produise le Sauveur et fasse germer la justice en même temps ; moi, le Seigneur, je l’ai crée. »
+$Deo Gratias
+
+[GradualeL4]
+!Ps 79:3,; 79:2; 79:3
+Excitez, Seigneur, votre puissance, et venez pour nous sauver. 
+V. Prêtez l’oreille, vous qui gouvernez Israël, qui conduisez Joseph comme une brebis, qui trônez sur les Chérubins, apparaissez devant Éphraïm, Benjamin et Manassé.
+
+[OratioL4]
+Écoutez avec bienveillance, nous vous en supplions, Seigneur, les prières de votre peuple : aﬁn que, justement aﬄigés à cause de nos péchés, nous soyons consolés par la visite de votre bonté.
+$Qui vivis
+
+[LectioL5]
+Cinquième lecture du prophète Daniel.
+!Dan 3:47-51
+En ces jours-là, l’ange du Seigneur descendit dans la fournaise avec Azarias et ses compagnons, et il écarta de la fournaise la flamme de feu. Il ﬁt souﬄer au milieu de la fournaise comme un vent de rosée. Or la flamme s’élevait de quarante-neuf coudées au-dessus de la fournaise ; et s’étant élancée, elle brûla les Chaldéens qu’elle rencontra près de la fournaise, les ministres du roi qui la chauffaient. Mais eux, le feu ne les toucha nullement, ne les blessa pas et ne leur causa pas le moindre mal. Alors ces trois jeunes, comme d’une seule bouche, louaient, gloriﬁaient et bénissaient Dieu dans la fournaise, en disant :
+_
+!Hymnus.
+!Dan 3:52-53
+Vous êtes béni, Seigneur, Dieu de nos pères, digne de louange et de gloire à jamais. Et le nom de votre gloire, qui est saint, est béni. Et digne de louange et de gloire à jamais.Vous êtes béni dans le temple de votre gloire. Et digne de louange et de gloire à jamais. Vous êtes béni sur le trône saint de votre royaume. Et digne de louange et de gloire à jamais. Vous êtes béni sur le sceptre de votre divinité. Et digne de louange et de gloire à jamais. Vous êtes béni, vous qui trônez sur les Chérubins et dont le regard pénètre les abîmes. Et digne de louange et de gloire à jamais. Vous êtes béni, vous qui marchez sur les ailes du vent et sur les flots de la mer. Et digne de louange et de gloire à jamais. Que tous les anges et les saints vous bénissent. Qu’ils vous louent et vous gloriﬁent à jamais.
+Que les cieux, la terre, la mer et tout ce qu’ils renferment vous bénissent. Et qu’ils vous louent et vous gloriﬁent à jamais. Gloire au Père, et au Fils, et au Saint-Esprit. Et à celui qui est di­gne de louange et de gloire à jamais. Comme il était au commencement, et maintenant et toujours, et dans les siècles des siècles. Ainsi soit-il. Et à celui qui est digne de louange et de gloire à jamais. Vous êtes béni, Seigneur, Dieu de nos pères. Et digne de louange et de gloire à jamais.
+
+[OratioL5]
+Ô Dieu, qui avez rendu douces aux trois jeunes gens les flammes de la fournaise : faites, dans votre bienveillance, que la flamme de nos vices ne nous consume pas, nous vos serviteurs.
+$Per Dominum
+
+[Lectio]
+Épître de saint Paul aux Thessaloniciens
+!2 Thess 2:1-8
+Mes frères, nous vous pri­ons, en ce qui concerne l’avènement de notre Seigneur Jésus-Christ et notre réunion avec lui, de ne pas vous laisser facilement ébranler dans votre bon sens, ni alarmer. Déﬁez-vous des inspirations et des paroles ou des lettres que l’on donne comme venant de nous, comme si le jour du Seigneur était déjà là. Que personne ne vous séduise d’aucune manière. Il faut d’abord que vienne l’apostasie, que se révèle l’homme du péché, le ﬁls de perdition, celui qui s’oppose et qui s’élève au-dessus de tout ce qui porte le nom de Dieu ou de ce qu’on adore, jusqu’à s’asseoir dans le temple de Dieu, se proclamant lui-même Dieu.
+Ne vous souvenez-vous pas qu’étant encore avec vous je vous ai dit tout cela ? Or vous savez ce qui le retient pour qu’il ne se manifeste qu’au temps marqué. Le mystère d’iniquité est déjà à l’œuvre. Que seulement ce qui le retient soit écarté, et alors apparaîtra l’impie, que le Seigneur Jésus détruira du souﬄe de sa bouche et anéantira par l’éclat de son avènement.
+
+[Graduale]
+!Ps:79:2-3
+Prêtez l’oreille, vous qui gouvernez Israël, qui conduisez Joseph comme une brebis. 
+V. Vous qui trônez sur les Chérubins, apparaissez devant Éphraïm, Benjamin et Manassé. 
+V. Excitez, Seigneur, votre puissance, et venez pour nous sauver.
+
+[Evangelium]
+Évangile ++ selon saint Luc.
+!Luc 3:1-6
+La quinzième année du règne de Tibère César, Ponce Pi­late étant gouverneur de la Ju­dée, Hérode tétrarque de Gali­lée, Philippe, son frère, tétrar­que de l’Iturie et de la Trachonite, et Lysanias tétrarque de l’Abilène, sous les grands prêtres Anne et Caïphe, la parole du Seigneur se ﬁt entendre à Jean, ﬁls de Zacharie, dans le désert.~
+Et il vint dans toute la région du Jourdain, prêchant un baptême de pénitence pour la rémission des péchés, comme il est écrit au livre des oracles du prophète Isaïe : Voix de celui qui crie dans le désert : Préparez le chemin du Seigneur, rendez droits ses sentiers. Toute vallée sera remplie, et toute montagne et colline seront abaissées ; les chemins tortueux deviendront droits, et les raboteux unis, et toute chair verra le salut de Dieu.
+
+[Offertorium]
+!Zach 9:9
+Exulte de joie, ﬁlle de Sion, pousse des cris d’allégresse, ﬁlle de Jérusalem : voici que ton Roi, le Saint et le Sauveur, vient à toi.
+
+[Secreta]
+Daignez, Seigneur, jeter un regard favorable sur ce sacriﬁce, aﬁn qu’il nous aide à croître en dévotion et à obtenir le salut.
+$Per Dominum
+
+[Communio]
+!Ps 18:6-7
+Il s’élance joyeux, comme un géant, pour parcourir sa route. Il part d’une extrémité du ciel et achève sa course à l’autre extrémité.
+
+[Postcommunio]
+Nous vous supplions, Seigneur notre Dieu : que ces mystères saints et sacrés que vous nous avez accordés pour assurer l’œuvre de notre réparation nous soient un remède pour le présent et l’avenir.
+$Per Dominum

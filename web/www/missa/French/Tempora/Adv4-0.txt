@@ -1,0 +1,64 @@
+[Rank]
+Dominica IV Adventus;;Semiduplex;;5.6
+
+[Rank]
+Dominica IV Adventus;;Semiduplex;;6
+
+[Rule]
+no Gloria
+Credo
+Suffr=Maria1;Ecclesiae,Papa;;
+
+[Introitus]
+!Isa 45:8
+v. Cieux, répandez d’en haut votre rosée, et que les nuées fassent pleuvoir le Juste ; que la terre s’ouvre et produise le Sauveur.
+!Ps 18:2
+Les cieux racontent la gloire de Dieu, et le ﬁrmament annonce l’œuvre de ses mains.
+&Gloria
+v. Cieux, répandez d’en haut votre rosée, et que les nuées fassent pleuvoir le Juste ; que la terre s’ouvre et produise le Sauveur.
+
+[Oratio]
+Excitez, Seigneur, votre puissance et venez : secourez-nous par votre grande force. Que votre indulgente miséricorde daigne, par le secours de votre grâce, hâter le salut que retardent nos péchés.
+$Qui vivis
+
+[Lectio]
+Épître de saint Paul aux Corinthiens
+!1 Cor 4:1-5
+Mes frères, que les hommes nous considèrent comme les ministres du Christ et les dispensateurs des mystères de Dieu. Or, ce que l’on cherche chez les dispensateurs, c’est la ﬁdélité.~
+Pour moi, il m’importe fort peu d’être jugé par vous, ou par un tribunal humain ; bien plus, je ne me juge pas moi-même. Car, encore que ma conscience ne me reproche rien, je ne suis pas justiﬁé pour cela ; celui qui me juge, c’est le Seigneur. Ne jugez donc point avant le temps marqué pour la venue du Seigneur : c’est lui qui éclairera ce qui est caché dans les ténèbres, et découvrira les plus secrètes pensées des cœurs ; et alors chacun recevra de Dieu la louange qui lui est due.
+
+[Graduale]
+!Ps 144:18; 144:21
+Le Seigneur est près de tous ceux qui l’invoquent, de tous ceux qui l’invoquent en vérité. 
+V. Ma bouche publiera la louange du Seigneur : que toute chair bénisse son saint nom.~
+Alléluia, alléluia.
+V. Veni, Dómine, et noli tardáre: reláxa facínora plebis tuæ Israël. Allelúja.
+
+[GradualeF]
+!Ps 144:18; 144:21
+Prope est Dóminus ómnibus invocántibus eum: ómnibus, qui ínvocant eum in~
+veritáte.
+V. Venez, Seigneur, ne tardez pas ; pardonnez les crimes d’Israël, votre peuple. Alléluia.
+
+[Evangelium]
+Évangile ++ selon saint Luc
+!Luc 3:1-6
+La quinzième année du règne de Tibère César, Ponce Pi­late étant gouverneur de la Ju­dée, Hérode tétrarque de Gali­lée, Philippe, son frère, tétrar­que de l’Iturie et de la Trachonite, et Lysanias tétrarque de l’Abilène, sous les grands prêtres Anne et Caïphe, la parole du Seigneur se ﬁt entendre à Jean, ﬁls de Zacharie, dans le désert.~
+Et il vint dans toute la région du Jourdain, prêchant un baptême de pénitence pour la rémission des péchés, comme il est écrit au livre des oracles du prophète Isaïe : Voix de celui qui crie dans le désert : Préparez le chemin du Seigneur, rendez droits ses sentiers. Toute vallée sera remplie, et toute montagne et colline seront abaissées ; les chemins tortueux deviendront droits, et les raboteux unis, et toute chair verra le salut de Dieu.
+
+[Offertorium]
+!Luc 1:28
+Je vous salue, Marie, pleine de grâce, le Seigneur est avec vous ; vous êtes bénie entre les femmes et le fruit de vos entrailles est béni.
+
+[Secreta]
+Daignez, Seigneur, jeter un regard favorable sur ce sacriﬁce, aﬁn qu’il nous aide à croître en dévotion et à obtenir le salut.
+$Per Dominum
+
+[Communio]
+!Is 7:14
+Voici qu’une vierge concevra et enfantera un ﬁls, et il sera nommé Emmanuel.
+
+[Postcommunio]
+Après avoir reçu ces dons sacrés, nous vous en prions, Seigneur : que la fréquentation de ce mystère accroisse en nous l’œuvre de notre salut.
+$Per Dominum
+
