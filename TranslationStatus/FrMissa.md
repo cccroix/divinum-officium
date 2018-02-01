@@ -1,6 +1,6 @@
 # Divinumofficium.com - État des traductions de la messe en français
 
-Nous disposons désormais des traductions du missel quotidien complet édité par l'Abbaye du Barroux. Certaines proviennent toutefois du site <introibo.fr>.
+Nous disposons désormais des traductions du missel quotidien complet édité par l'Abbaye du Barroux. Certaines n'y figurent cependant pas car elles ne sont pas dans le missel de 1962. On utilise alors les traductions du site <introibo.fr>.
 
 (Utilisations avec permissions)
 
@@ -13,20 +13,40 @@ Nous disposons désormais des traductions du missel quotidien complet édité pa
 - Adv3-5.txt
 - Adv3-6.txt
 - Adv4-0.txt
+- C10.txt
+- Epi2-0.txt
+- Epi3-0.txt
+- Epi4-0.txt
+- Epi5-0.txt
+- Epi6-0.txt
 
+### Partiellement traduit
+- Epi1-0.txt
 
 ### Rien à traduire
 - Adv1-1.txt à Adv1-6.txt
 - Adv2-1.txt à Adv2-6.txt
 - Adv3-1.txt, Adv3-2.txt, Adv3-3.txt, Adv3-4.txt
 - Adv4-1.txt à Adv4-5.txt
+- Epi1-1.txt à Epi1-6.txt
+- Epi2-1.txt à Epi2-6.txt
+- Epi3-1.txt à Epi3-6.txt
+- Epi4-1.txt à Epi4-6.txt
+- Epi5-1.txt à Epi5-6.txt
+- Epi6-1.txt à Epi6-6.txt
+
+### Traduction introibo
+- Epi1-0a.txt (dimanche dans l’Octave de l’Épiphanie)
+
+### À ajouter
+- C10a.txt
 
 ## Commune
 Anciennes traductions renommées en *.old.
 
 ### Relu
 
-### Manquantes
+###Manquantes
 - C1.txt
 
 #### Incomplet
