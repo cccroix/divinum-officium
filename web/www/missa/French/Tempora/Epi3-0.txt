@@ -1,0 +1,54 @@
+[Rank]
+Dominica III Post Epiphaniam;;Semiduplex;;5
+
+[Rule]
+Gloria
+Credo
+Prefatio=Trinitate
+
+[Introitus]
+!Ps 96:7-8
+v. Adorez Dieu, vous tous, ses anges ; Sion a entendu et s’est réjouie, et les ﬁlles de Juda ont tressailli d’allégresse.
+!Ps 96:1
+Le Seigneur règne : que la terre exulte et que toutes les îles se réjouissent.
+&Gloria
+v. Adorez Dieu, vous tous, ses anges ; Sion a entendu et s’est réjouie, et les ﬁlles de Juda ont tressailli d’allégresse.
+
+[Oratio]
+Dieu tout-puissant et éternel, regardez avec bonté notre faiblesse et, pour nous protéger, étendez la droite de votre majesté.
+$Per Dominum
+
+[Lectio]
+Épître de saint Paul aux Romains
+!Rom 12:16-21
+Mes frères, ne paraissez point sages à vos propres yeux ; ne rendez jamais le mal pour le mal ; tâchez de faire le bien non seulement devant Dieu, mais aussi devant les hommes. S’il est possible, autant qu’il est en vous, soyez en paix avec tous les hommes. Ne vous vengez pas vous-mêmes, mes très chers frères ; mais laissez agir la colère de Dieu ; car il est écrit : À moi la vengeance ; c’est moi qui rétribuerai, dit le Seigneur. Mais si ton ennemi a faim, donne-lui à manger ; s’il a soif, donne-lui à boire ; car ce faisant, tu lui amasseras des charbons ardents sur la tête. Ne te laisse pas vaincre par le mal, mais sois vainqueur du mal par le bien.
+
+[Graduale]
+!Ps 101:16-17
+Les nations craindront votre nom, Seigneur, et tous les rois de la terre votre gloire. 
+V. Car le Seigneur a bâti Sion, et il se montrera dans sa majesté. Alléluia, alléluia. 
+!Ps 96:1
+Le Seigneur règne : que la terre exulte et que toutes les îles se réjouissent. Alléluia.
+
+[Evangelium]
+Évangile ++ selon saint Matthieu.
+!Matt 8:1-13
+En ce temps-là, comme Jésus descendait de la montagne, une grande foule le suivit. Et voici qu’un lépreux vint se prosterner devant lui en disant : « Seigneur, si tu veux, tu peux me puriﬁer. » Jésus, étendant la main, le toucha et dit : « Je le veux, sois puriﬁé. » Et à l’instant sa lèpre fut guérie. Alors Jésus lui dit : « N’en parle à personne ; va plutôt te montrer au prêtre et offre le don prescrit par Moïse, aﬁn que cela leur soit un témoignage. » ~
+Et tandis qu’il entrait dans Capharnaüm, un centurion s’approcha de lui ; et il l’implorait, disant : « Seigneur, mon serviteur gît dans ma maison, atteint de paralysie, et il souffre cruellement. » Et Jésus lui dit : « J’irai et je le guérirai. » Le centurion répondit : « Seigneur, je ne suis pas digne que tu entres sous mon toit ; mais dis seulement une parole et mon serviteur sera guéri. Moi-même, en effet, quoique soumis à des chefs, j’ai sous mes ordres des soldats ; et je dis à l’un “Va” et il va ; et à l’autre “Viens” et il vient ; et à mon serviteur “Fais cela” et il le fait. » ~
+Et Jésus, l’entendant, fut dans l’admiration, et il dit à ceux qui le suivaient : « En vérité, je vous le dis, je n’ai pas rencontré une telle foi en Israël. Aussi, je vous le déclare, beaucoup viendront de l’orient et de l’occident prendre place avec Abraham, Isaac et Jacob dans le royaume des cieux, tandis que les enfants du royaume seront jetés dans les ténèbres extérieures, où seront les pleurs et les grincements de dents. » Jésus dit alors au centurion : « Va, qu’il te soit fait comme tu as cru. » Et le serviteur fut guéri à l’heure même.
+
+[Offertorium]
+!Ps 117:16; 117:17
+La droite du Seigneur a déployé sa puissance ; la droite du Seigneur m’a élevé : je ne mourrai pas, mais je vivrai et je raconterai les œuvres du Seigneur. 
+
+[Secreta]
+Que cette hostie, Seigneur, nous vous en prions, nous pu­riﬁe de nos péchés ; et qu’elle sanctiﬁe les corps et les âmes de vos serviteurs en vue de la célébration de ce sacriﬁce.
+$Per Dominum
+
+[Communio]
+!Luc 4:22
+Tous étaient dans l’admiration des paroles qui sortaient de la bouche de Dieu. 
+
+[Postcommunio]
+Seigneur, qui nous accordez de fréquenter de si grands mystères, nous vous en prions : daignez nous disposer véritablement à leurs effets.
+$Per Dominum

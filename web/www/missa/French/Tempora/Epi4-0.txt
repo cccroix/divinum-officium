@@ -1,0 +1,52 @@
+[Rank]
+Dominica IV Post Epiphaniam;;Semiduplex;;5
+
+[Rule]
+Gloria
+Credo
+Prefatio=Trinitate
+
+[Introitus]
+!Ps 96:7-8
+v. Adorez Dieu, vous tous, ses anges ; Sion a entendu et s’est réjouie, et les ﬁlles de Juda ont tressailli d’allégresse..
+!Ps 96:1
+Le Seigneur règne : que la terre exulte et que toutes les îles se réjouissent.
+&Gloria
+v. Adorez Dieu, vous tous, ses anges ; Sion a entendu et s’est réjouie, et les ﬁlles de Juda ont tressailli d’allégresse.
+
+[Oratio]
+Dieu, qui savez qu’en raison de la fragilité humaine nous ne pouvons subsister au milieu des si grands périls où nous sommes placés, donnez-nous la santé de l’âme et du corps : aﬁn qu’avec votre aide nous venions à bout des maux que nous souffrons pour nos péchés.
+$Per Dominum
+
+[Lectio]
+Épître de saint Paul aux Romains.
+!Rom 13:8-10
+Mes frères, n’ayez de dette envers personne, sinon celle de l’amour mutuel ; celui qui aime son prochain, accomplit la loi. En effet, ces commandements : Tu ne commettras pas d’adultère, tu ne tueras pas, tu ne voleras pas, tu ne porteras pas de faux témoignage, tu ne convoiteras pas, et tous les autres commandements, sont contenus dans cette parole : Tu aimeras ton prochain comme toi-même. L’amour du prochain n’opère pas le mal. La charité est donc l’accomplissement de la loi. 
+
+[Graduale]
+!Ps 101:16-17
+Les nations craindront votre nom, Seigneur, et tous les rois de la terre votre gloire. 
+V. Car le Seigneur a bâti Sion, et il se montrera dans sa majesté. Alléluia, alléluia.
+!Ps 96:1
+Le Seigneur règne : que la terre exulte et que toutes les îles se réjouissent. Alléluia.
+
+[Evangelium]
+Évangile ++ selon saint Matthieu.
+!Matt 8:23-27
+En ce temps-là, Jésus monta sur une barque et ses disciples le suivirent. Soudain il s’éleva une si violente tempête que les flots submergeaient la barque : lui cependant dormait. Les disciples s’approchèrent de lui, l’éveillèrent et lui dirent : « Seigneur, sauvez-nous, nous périssons ! » Jésus leur dit : « Pourquoi avez-vous peur, hommes de peu de foi ? » Alors, se levant, il commanda aux vents et à la mer, et il se ﬁt un grand calme. Et ces hommes furent saisis d’admiration : « Quel est donc celui-ci, se disaient-ils, à qui les vents et les flots obéissent ? »
+
+[Offertorium]
+!Ps 117:16; 117:17
+La droite du Seigneur a déployé sa puissance ; la droite du Seigneur m’a élevé : je ne mourrai pas, mais je vivrai et je raconterai les œuvres du Seigneur.
+
+[Secreta]
+Accordez-nous, Dieu tout-puissant, nous vous en prions, que l’offrande de ce sacriﬁce puriﬁe sans cesse de tout mal notre fragilité et la fortiﬁe.
+$Per Dominum
+
+[Communio]
+!Luc 4:22
+Tous étaient dans l’admiration des paroles qui sortaient de la bouche de Dieu.
+
+[Postcommunio]
+Que vos dons, ô Dieu, nous dégagent des jouissances terrestres, et nous restaurent toujours de célestes nourritures.
+$Per Dominum

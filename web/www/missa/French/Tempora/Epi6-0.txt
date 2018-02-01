@@ -1,0 +1,54 @@
+[Rank]
+Dominica VI Post Epiphaniam;;Semiduplex;;5
+
+[Rule]
+Gloria
+Credo
+Prefatio=Trinitate
+
+[Introitus]
+!Ps 96:7-8
+v. Adorez Dieu, vous tous, ses anges ; Sion a entendu et s’est réjouie, et les ﬁlles de Juda ont tressailli d’allégresse.
+!Ps 96:1
+Le Seigneur règne : que la terre exulte et que toutes les îles se réjouissent.
+&Gloria
+v. Adorez Dieu, vous tous, ses anges ; Sion a entendu et s’est réjouie, et les ﬁlles de Juda ont tressailli d’allégresse.
+
+[Oratio]
+Nous vous en prions, Dieu tout-puissant : faites que, méditant sans cesse ce qui est raisonnable, nous accomplissions en paroles et en actes les choses qui vous plaisent.
+$Per Dominum
+
+[Lectio]
+Épître de saint Paul aux Thessaloniciens.
+!1 Thess 1:2-10
+Mes frères, nous rendons à Dieu de continuelles actions de grâces pour vous tous, nous souvenant sans cesse de vous dans nos prières, et nous rappelant devant Dieu, notre Père, les œuvres de votre foi, les travaux de votre charité, et la constance de votre espérance en notre Seigneur Jésus-Christ ; sachant, frères bien-aimés de Dieu, quelle a été votre élection. Car notre prédication de la bonne nouvelle ne l’a pas été en paroles seulement, mais aussi avec puissance, et avec l’Esprit Saint et une grande abondance de grâces. Vous savez de même ce que nous avons été parmi vous pour votre salut ; et vous êtes devenus nos imitateurs, et les imitateurs du Seigneur, recevant sa parole au milieu de beaucoup de tribulations avec la joie du Saint-Esprit ; en sorte que vous en êtes venus à servir d’exemple à tous les ﬁdèles de Macédoine et de Grèce. En effet, ce n’est pas en Macédoine et en Grèce seulement que la parole du Seigneur se répandit de chez vous ; mais votre foi en Dieu est si connue que nulle part nous n’avons besoin d’en rien dire. Eux-mêmes en effet nous racontent quel accès nous avons eu auprès de vous et comment vous vous êtes détournés des idoles vers le Seigneur, pour servir le Dieu vivant et vrai, et attendre du ciel son Fils Jésus, qu’il a ressuscité d’entre les morts et qui nous a délivrés de la colère à venir.
+
+[Graduale]
+!Ps 101:16-17
+Les nations craindront votre nom, Seigneur, et tous les rois de la terre votre gloire. 
+V. Car le Seigneur a bâti Sion, et il se montrera dans sa majesté. Alléluia, alléluia. 
+!Ps 96:1
+Le Seigneur règne : que la terre exulte et que toutes les îles se réjouissent. Alléluia.
+
+[Evangelium]
+Évangile ++ selon saint Matthieu
+!Matt 13:31-35
+En ce temps-là, Jésus dit aux foules cette parabole : « Le royaume des cieux est semblable à un grain de sénevé, qu’un homme a pris et semé dans son champ. C’est la plus petite de toutes les semences, mais lorsqu’elle a poussé, elle dépasse toutes les plantes et devient un arbre, de sorte que les oiseaux du ciel viennent habiter dans ses branches. »~
+Il leur dit une autre parabole : « Le royaume des cieux est semblable au levain qu’une femme prend et met dans trois mesures de farine, pour faire lever toute la pâte. »~
+Tout cela, Jésus le dit aux foules en paraboles, et il ne leur parlait pas sans paraboles, aﬁn que fût accompli ce qui avait été dit par le prophète : J’ouvrirai ma bouche en paraboles, je publierai des choses cachées depuis la création du monde.
+
+[Offertorium]
+!Ps 117:16; 117:17
+La droite du Seigneur a déployé sa puissance ; la droite du Seigneur m’a élevé : je ne mourrai pas, mais je vivrai et je raconterai les œuvres du Seigneur.
+
+[Secreta]
+Que cette offrande, nous vous en prions, ô Dieu, nous puriﬁe et nous renouvelle, nous dirige et nous protège.
+$Per Dominum
+
+[Communio]
+!Luc 4:22
+Tous étaient dans l’admiration des paroles qui sortaient de la bouche de Dieu. 
+
+[Postcommunio]
+Nourris de vos célestes délices, nous vous en prions, Seigneur : puissions-nous toujours les désirer, elles par qui nous vivons véritablement.
+$Per Dominum

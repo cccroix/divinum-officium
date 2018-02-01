@@ -1,0 +1,54 @@
+[Rank]
+Dominica V Post Epiphaniam;;Semiduplex;;5
+
+[Rule]
+Gloria
+Credo
+Prefatio=Trinitate
+
+[Introitus]
+!Ps 96:7-8
+v. Adorez Dieu, vous tous, ses anges ; Sion a entendu et s’est réjouie, et les ﬁlles de Juda ont tressailli d’allégresse..
+!Ps 96:1
+Le Seigneur règne : que la terre exulte et que toutes les îles se réjouissent.
+&Gloria
+v. Adorez Dieu, vous tous, ses anges ; Sion a entendu et s’est réjouie, et les ﬁlles de Juda ont tressailli d’allégresse.
+
+[Oratio]
+Nous vous en prions, Seigneur : dans votre continuelle bonté, gardez votre famille ; en sorte que, s’appuyant sur la seule espérance de la grâce céleste, elle soit toujours fortiﬁée par votre protection.
+$Per Dominum
+
+[Lectio]
+Épître de saint Paul aux Colossiens
+!Col 3:12-17
+Frères : comme des élus de Dieu, saints et bien-aimés, revêtez-vous d’entrailles de miséricorde, de bonté, d’humilité, de douceur, de patience, vous supportant mutuellement et vous pardonnant les uns aux autres. Si l’un a sujet de se plaindre de l’autre, comme le Christ vous a pardonné, pardonnez-vous aussi. Mais par-dessus tout, ayez la charité, qui est le lien de la perfection. Et que la paix du Christ, à laquelle vous avez été appelés pour former un seul corps, règne dans vos cœurs ; et soyez reconnaissants.~
+Que la parole du Christ demeure en vous avec abondance, en toute sagesse ; instruisez-vous et exhortez-vous les uns les autres ; que sous l’action de la grâce vous chantiez à Dieu dans vos cœurs avec des psaumes, des hymnes et des cantiques spirituels. Quoi que vous fassiez en parole ou en œuvre, faites tout au nom du Seigneur Jésus-Christ, rendant grâces par lui à Dieu le Père.
+
+[Graduale]
+!Ps 101:16-17
+Les nations craindront votre nom, Seigneur, et tous les rois de la terre votre gloire. 
+V. Car le Seigneur a bâti Sion, et il se montrera dans sa majesté. Alléluia, alléluia.
+!Ps 96:1
+Le Seigneur règne : que la terre exulte et que toutes les îles se réjouissent. Alléluia.
+
+[Evangelium]
+Évangile ++ selon saint Matthieu.
+!Matt 13:24-30
+En ce temps-là, Jésus proposa aux foules cette parabole : « Le royaume des cieux est semblable à un homme qui avait semé du bon grain dans son champ ; mais, pendant que les hommes dormaient, son ennemi vint, et il sema de l’ivraie au milieu du froment et s’en alla.~
+« Lorsque la semence eut poussé et donné son fruit, l’ivraie parut aussi. Les serviteurs du père de famille vinrent alors lui dire : “Maître, n’avez-vous pas semé du bon grain dans votre champ ? Comment se fait-il qu’il y ait de l’ivraie ?” Celui-ci leur répondit : “C’est mon ennemi qui a fait cela.” Les serviteurs dirent alors : “Voulez-vous que nous allions l’arracher ?” Il dit : “Non, de peur qu’en arrachant l’ivraie, vous n’arrachiez aussi le bon grain. Laissez-les croître l’un et l’autre jusqu’à la moisson, et au temps de la moisson je dirai aux moissonneurs : Arrachez d’abord l’ivraie, et liez-la en bottes pour la brûler ; quant au froment, amassez-le dans mon grenier.” » 
+
+[Offertorium]
+!Ps 117:16; 117:17
+La droite du Seigneur a déployé sa puissance ; la droi­te du Seigneur m’a élevé : je ne mourrai pas, mais je vivrai et je raconterai les œuvres du Seigneur.
+
+[Secreta]
+Nous vous offrons des hosties de propitiation, Seigneur, aﬁn que, dans votre miséricorde, vous pardonniez nos péchés et dirigiez nos cœurs chancelants.
+$Per Dominum
+
+[Communio]
+!Luc 4:22
+Tous étaient dans l’admiration des paroles qui sortaient de la bouche de Dieu.
+
+[Postcommunio]
+Dieu tout-puissant, nous vous en prions : puissions-nous obtenir l’accomplissement du salut dont nous avons reçu le gage par ces mystères.
+$Per Dominum
